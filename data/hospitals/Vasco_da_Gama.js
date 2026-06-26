@@ -1,0 +1,359 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "gastroenterology-liver-and-pancreas-clinic-bhubaneswar",
+    "name": "Gastroenterology Liver &Pancreas Clinic",
+    "type": "Health Consultant",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted health consultant in Bhubaneswar, Gastroenterology Liver &Pancreas Clinic delivers integrated care across Liver Transplant Surgery In Vasco Da Gama, Health Consultant, Liver Care, and Gastroenterology. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M2 OSHBC, M-3, Baramunda Housing Board Colony, Baramunda, Bhubaneswar, Odisha 751003",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751003",
+    "locality": "Baramunda",
+    "landmark": "Baramunda Housing Board Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vasco Da Gama",
+      "Health Consultant",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Gastroenterology+Liver+%26Pancreas+Clinic/@20.2781434,85.796108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7681f7c3b31:0x68f725c88a8ecac8!8m2!3d20.2781434!4d85.796108!16s%2Fg%2F11rg98ylxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gastroenterology+Liver+%26Pancreas+Clinic/@20.2781434,85.796108,17z/data=!3m1!4b1!4m6!3m5!1s0x3a19a7681f7c3b31:0x68f725c88a8ecac8!8m2!3d20.2781434!4d85.796108!16s%2Fg%2F11rg98ylxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2781434,
+      "lng": 85.796108,
+      "label": "Gastroenterology Liver &Pancreas Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "institute-of-gastroenterology-and-liver-sciences-bhubaneswar",
+    "name": "Institute of Gastroenterology And Liver Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Institute of Gastroenterology And Liver Sciences is a prominent hospital in Bhubaneswar, known for structured tertiary care across Liver Transplant Surgery In Vasco Da Gama, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 1.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "admin@sigls.co.in",
+    "phone": "+91 89172 93273",
+    "alternatePhone": "94395 54747",
+    "website": "https://sigls.co.in/",
+    "address": "Plot No. 145, Ganganagar, Bhubaneswar, Odisha 751030",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751030",
+    "locality": "Ganganagar",
+    "landmark": "Bhubaneswar",
+    "emergencyContact": "+91 89172 93273",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/Sai-Institute-of-Gastroenterology-and-Liver-Sciences-SIGLS-61554659664938/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/sai_gastro_liver/?hl=en",
+    "linkedin": "https://in.linkedin.com/in/sai-institute-of-gastroenterology-and-liver-sciences-7085482a4?trk=public_post_feed-actor-name",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vasco Da Gama",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Institute+of+Gastroenterology+And+Liver+Sciences/data=!4m7!3m6!1s0x3a19a70074c40431:0x2f8c8a668d04d701!8m2!3d20.2535508!4d85.7962231!16s%2Fg%2F11w8nhsgl3!19sChIJMQTEdACnGToRAdcEjWaKjC8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Institute+of+Gastroenterology+And+Liver+Sciences/data=!4m7!3m6!1s0x3a19a70074c40431:0x2f8c8a668d04d701!8m2!3d20.2535508!4d85.7962231!16s%2Fg%2F11w8nhsgl3!19sChIJMQTEdACnGToRAdcEjWaKjC8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2535508,
+      "lng": 85.7962231,
+      "label": "Institute of Gastroenterology And Liver Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uro-kidney-care-urology-clinic-in-bhubaneswar-odisha-bhubaneswar",
+    "name": "Uro Kidney Care - Urology Clinic in Bhubaneswar, Odisha",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhubaneswar, Uro Kidney Care - Urology Clinic in Bhubaneswar, Odisha brings together specialists for Urologist Surgery In Vasco Da Gama and Kidney Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070777 10444",
+    "alternatePhone": "",
+    "website": "https://urokidneycare.com/",
+    "address": "Sainik School, Plot No-7798, 2nd Floor, Infront of, Gajapati Nagar, Bhubaneswar, Odisha 751013",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "pincode": "751013",
+    "locality": "Gajapati Nagar",
+    "landmark": "2nd Floor",
+    "emergencyContact": "070777 10444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vasco Da Gama",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Uro+Kidney+Care+-+Urology+Clinic+in+Bhubaneswar,+Odisha/data=!4m7!3m6!1s0x3a19099b2166cc0d:0x7db5e640968ea10!8m2!3d20.3117387!4d85.8334246!16s%2Fg%2F11s5cvr90v!19sChIJDcxmIZsJGToREOpoCWRe2wc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Uro+Kidney+Care+-+Urology+Clinic+in+Bhubaneswar,+Odisha/data=!4m7!3m6!1s0x3a19099b2166cc0d:0x7db5e640968ea10!8m2!3d20.3117387!4d85.8334246!16s%2Fg%2F11s5cvr90v!19sChIJDcxmIZsJGToREOpoCWRe2wc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.3117387,
+      "lng": 85.8334246,
+      "label": "Uro Kidney Care - Urology Clinic in Bhubaneswar, Odisha",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

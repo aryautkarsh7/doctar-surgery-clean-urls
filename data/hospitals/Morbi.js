@@ -1,0 +1,12432 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aagman-hospital-morbi",
+    "name": "Aagman Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Aagman Hospital for its strength in Gynecologist Surgery In Morbi. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aagman Hospital, Satyam pan street, 6, Sanala Rd, Adarsh Society, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "6",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Aagman+Hospital/@22.8108699,70.8258603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86a55c4cb:0x61a27fbdf642437a!8m2!3d22.8108699!4d70.8258603!16s%2Fg%2F11c4bd3sj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aagman+Hospital/@22.8108699,70.8258603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86a55c4cb:0x61a27fbdf642437a!8m2!3d22.8108699!4d70.8258603!16s%2Fg%2F11c4bd3sj5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8108699,
+      "lng": 70.8258603,
+      "label": "Aagman Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aary-hospital-morbi",
+    "name": "Aary Hospital",
+    "type": "Women's Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Aary Hospital for its strength in IVF In Morbi and Women and Child Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088664 24133",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AARY HOSPITAL, 15-16, Sanala Rd, opp. JAIN DERASAR, near HANUMAJI TEMPLE, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near HANUMAJI TEMPLE, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "088664 24133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Aary+Hospital/@22.8135854,70.8294896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbf4e5e8db:0xc6ae92bbc3714b5!8m2!3d22.8135854!4d70.8294896!16s%2Fg%2F11fcsm0xhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aary+Hospital/@22.8135854,70.8294896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbf4e5e8db:0xc6ae92bbc3714b5!8m2!3d22.8135854!4d70.8294896!16s%2Fg%2F11fcsm0xhw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8135854,
+      "lng": 70.8294896,
+      "label": "Aary Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aayush-hospitals-morbi-morbi",
+    "name": "Aayush Hospitals - Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aayush Hospitals - Morbi is a prominent hospital in Morbi, known for structured tertiary care across Urologist Surgery In Morbi. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075750 88884",
+    "alternatePhone": "",
+    "website": "https://www.aayushhospitals.org/location/morbi",
+    "address": "Ayush hospital, Ayodhyapuri Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "075750 88884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aayush+Hospitals+-+Morbi/@22.816182,70.8291674,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbe560398b:0xe66ff5e0aafe7f1b!8m2!3d22.816182!4d70.8291674!16s%2Fg%2F11b7719tvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aayush+Hospitals+-+Morbi/@22.816182,70.8291674,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbe560398b:0xe66ff5e0aafe7f1b!8m2!3d22.816182!4d70.8291674!16s%2Fg%2F11b7719tvp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.816182,
+      "lng": 70.8291674,
+      "label": "Aayush Hospitals - Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "accura-diagnostic-centre-and-laboratory-morbi",
+    "name": "Accura Diagnostic Centre & Laboratory",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Accura Diagnostic Centre & Laboratory has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Cancer Surgery In Morbi and Medical Diagnostic Imaging Center. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080801 01088",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Savasar Plot Main Rd, opposite Krishna Travels, beside sbi bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "beside sbi bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "080801 01088",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Morbi",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Accura+Diagnostic+Centre+%26+Laboratory/data=!4m7!3m6!1s0x39598d4b7b43d3a1:0x588dc8c78ef7f611!8m2!3d22.8157782!4d70.8301422!16s%2Fg%2F11j11bty5p!19sChIJodNDe0uNWTkREfb3jsfIjVg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Accura+Diagnostic+Centre+%26+Laboratory/data=!4m7!3m6!1s0x39598d4b7b43d3a1:0x588dc8c78ef7f611!8m2!3d22.8157782!4d70.8301422!16s%2Fg%2F11j11bty5p!19sChIJodNDe0uNWTkREfb3jsfIjVg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8157782,
+      "lng": 70.8301422,
+      "label": "Accura Diagnostic Centre & Laboratory",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aditya-hospital-and-icu-morbi",
+    "name": "Aditya Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Aditya Hospital & ICU delivers integrated care across Liver Transplant Surgery In Morbi. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099788 15188",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gopal Society near genda Circle mahendranagar, Road, Morbi - 2, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Morbi - 2",
+    "landmark": "near genda Circle mahendranagar, Road, Morbi - 2, Morbi, Gujarat 363641",
+    "emergencyContact": "099788 15188",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Aditya+Hospital+%26+ICU/@22.8268759,70.8493453,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd21e3bccd5:0x9dbc68b81f1b6570!8m2!3d22.8268759!4d70.8493453!16s%2Fg%2F11fl7pzmx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aditya+Hospital+%26+ICU/@22.8268759,70.8493453,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd21e3bccd5:0x9dbc68b81f1b6570!8m2!3d22.8268759!4d70.8493453!16s%2Fg%2F11fl7pzmx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8268759,
+      "lng": 70.8493453,
+      "label": "Aditya Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amrutam-hospital-sneh-children-hospital-morbi",
+    "name": "Amrutam Hospital//Sneh children hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amrutam Hospital//Sneh children hospital has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Morbi and Women and Child Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090236 00185",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11, Ayodhyapuri Main Rd, opp. Jalaram Temple, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opp. Jalaram Temple",
+    "emergencyContact": "090236 00185",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Amrutam+Hospital%2F%2FSneh+children+hospital/@22.814843,70.829145,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd950119795:0x2d48f458d6ba217e!8m2!3d22.814843!4d70.829145!16s%2Fg%2F11c4l_r634?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amrutam+Hospital%2F%2FSneh+children+hospital/@22.814843,70.829145,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd950119795:0x2d48f458d6ba217e!8m2!3d22.814843!4d70.829145!16s%2Fg%2F11c4l_r634?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.814843,
+      "lng": 70.829145,
+      "label": "Amrutam Hospital//Sneh children hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ansh-womens-hospital-morbi",
+    "name": "Ansh Womens Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Ansh Womens Hospital for its strength in Gynecologist Surgery In Morbi and Women and Child Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098798 06328",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd floor, Rudraksh complex, Ayodhyapuri Main Rd, near old bus station, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near old bus station, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "098798 06328",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ansh+Womens+Hospital/@22.8177065,70.8287144,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd925ecf139:0x2e586b93e361a0bc!8m2!3d22.8177065!4d70.8287144!16s%2Fg%2F11xlhw6j0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ansh+Womens+Hospital/@22.8177065,70.8287144,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd925ecf139:0x2e586b93e361a0bc!8m2!3d22.8177065!4d70.8287144!16s%2Fg%2F11xlhw6j0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8177065,
+      "lng": 70.8287144,
+      "label": "Ansh Womens Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anuj-hospital-morbi",
+    "name": "Anuj Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Anuj Hospital is a prominent hospital in Morbi, known for structured tertiary care across Gynecologist Surgery In Morbi. Operational strengths including Google rating 3.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 225 0100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6/4, Sanala Rd, Shakti Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Shakti Plot",
+    "emergencyContact": "0282 225 0100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Anuj+Hospital/@22.8122602,70.8275669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8fcd7d6cb:0xe1dd2e66df35ea2a!8m2!3d22.8122602!4d70.8275669!16s%2Fg%2F11bxk1w_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anuj+Hospital/@22.8122602,70.8275669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8fcd7d6cb:0xe1dd2e66df35ea2a!8m2!3d22.8122602!4d70.8275669!16s%2Fg%2F11bxk1w_nl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8122602,
+      "lng": 70.8275669,
+      "label": "Anuj Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apple-hospital-morbi",
+    "name": "Apple Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Apple Hospital for its strength in Liver Transplant Surgery In Morbi. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kayeebusiness.com/morbi-apple-hospital.html",
+    "address": "2nd Floor, Mahesh Hotel Street, Sanala Rd, behind Krishna Hospital, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sanala Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apple+Hospital/@22.8117428,70.8266281,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd856e337d1:0xdf9a7bbbc8f878f9!8m2!3d22.8117428!4d70.8266281!16s%2Fg%2F11b5zst6ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apple+Hospital/@22.8117428,70.8266281,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd856e337d1:0xdf9a7bbbc8f878f9!8m2!3d22.8117428!4d70.8266281!16s%2Fg%2F11b5zst6ml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8117428,
+      "lng": 70.8266281,
+      "label": "Apple Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aradhana-hospital-morbi",
+    "name": "Aradhana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Aradhana Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Juni disha hospital, 3/4, Ayodhyapuri Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Ayodhyapuri Main Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Aradhana+Hospital/@22.8166438,70.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5bb76a5327:0xa978d2a8dfd9c1b7!8m2!3d22.8166438!4d70.8289083!16s%2Fg%2F11xlm6jsk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aradhana+Hospital/@22.8166438,70.8289083,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5bb76a5327:0xa978d2a8dfd9c1b7!8m2!3d22.8166438!4d70.8289083!16s%2Fg%2F11xlm6jsk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8166438,
+      "lng": 70.8289083,
+      "label": "Aradhana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arpan-children-hospital-morbi",
+    "name": "Arpan Children Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arpan Children Hospital is a prominent hospital in Morbi, known for structured tertiary care across Cosmetic Surgery In Morbi and Women and Child Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR6G+HJH, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Arpan+Children+Hospital/@22.8114359,70.8266052,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d6424aedcc5:0x4f61097f9e52bb94!8m2!3d22.8114359!4d70.8266052!16s%2Fg%2F11h24n577h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arpan+Children+Hospital/@22.8114359,70.8266052,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d6424aedcc5:0x4f61097f9e52bb94!8m2!3d22.8114359!4d70.8266052!16s%2Fg%2F11h24n577h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8114359,
+      "lng": 70.8266052,
+      "label": "Arpan Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "astha-dental-clinic-morbi",
+    "name": "Astha dental clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Morbi, Astha dental clinic delivers integrated care across Oral Surgery In Morbi and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098257 30113",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground floor, Savsar Plot Rd, below Dr kagathara surgical hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "below Dr kagathara surgical hospital",
+    "emergencyContact": "098257 30113",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Astha+dental+clinic/@22.8149319,70.829892,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2bded67:0x1d1cdfb7aa3789b6!8m2!3d22.8149319!4d70.829892!16s%2Fg%2F11gjt9v7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Astha+dental+clinic/@22.8149319,70.829892,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2bded67:0x1d1cdfb7aa3789b6!8m2!3d22.8149319!4d70.829892!16s%2Fg%2F11gjt9v7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8149319,
+      "lng": 70.829892,
+      "label": "Astha dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aum-dental-and-ent-hospital-om-dental-and-ent-hospital-aum-dental-hospital-2nd-floor-alvin-chamber",
+    "name": "Aum Dental and ENT hospital(om dental and ent hospital)",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in aum dental hospital ..2nd floor alvin chamber, Aum Dental and ENT hospital(om dental and ent hospital) offers coordinated hospital care with major focus on Oral Surgery In Morbi and Dentist. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "aum dental hospital ..2nd floor alvin chamber, Gujarat 363641",
+    "city": "aum dental hospital ..2nd floor alvin chamber",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Aum+Dental+and+ENT+hospital(om+dental+and+ent+hospital)/@22.8157883,70.8296805,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddab3a349df:0x72f3eb979efb7173!8m2!3d22.8157883!4d70.8296805!16s%2Fg%2F11s1y1g8ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aum+Dental+and+ENT+hospital(om+dental+and+ent+hospital)/@22.8157883,70.8296805,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddab3a349df:0x72f3eb979efb7173!8m2!3d22.8157883!4d70.8296805!16s%2Fg%2F11s1y1g8ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8157883,
+      "lng": 70.8296805,
+      "label": "Aum Dental and ENT hospital(om dental and ent hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aura-dental-care-morbi",
+    "name": "Aura Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Morbi, Aura Dental Care delivers integrated care across Oral Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 222 7126",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no -2, 3, Savasar Plot Main Rd, beside Dr.Bhilasaheb Hospital, near Old Busstation, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Old Busstation, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "0282 222 7126",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Aura+Dental+Care/@22.816835,70.8298044,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd69653eae3:0x9e1e2dce38178b37!8m2!3d22.816835!4d70.8298044!16s%2Fg%2F11sghz77_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aura+Dental+Care/@22.816835,70.8298044,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd69653eae3:0x9e1e2dce38178b37!8m2!3d22.816835!4d70.8298044!16s%2Fg%2F11sghz77_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.816835,
+      "lng": 70.8298044,
+      "label": "Aura Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avi-eye-and-dental-care-morbi",
+    "name": "Avi Eye and Dental Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Avi Eye and Dental Care is a prominent hospital in Morbi, known for structured tertiary care across Liver Transplant Surgery In Morbi. Operational strengths including Google rating 3.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 223 2145",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8, Savsar Plot Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "0282 223 2145",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Avi+Eye+and+Dental+Care/@22.8154271,70.8299541,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2e59695:0x40617d24a5d6ca4f!8m2!3d22.8154271!4d70.8299541!16s%2Fg%2F12ml2x_y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avi+Eye+and+Dental+Care/@22.8154271,70.8299541,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb2e59695:0x40617d24a5d6ca4f!8m2!3d22.8154271!4d70.8299541!16s%2Fg%2F12ml2x_y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8154271,
+      "lng": 70.8299541,
+      "label": "Avi Eye and Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayurderma-skin-hair-and-panchkarma-clinic-morbi",
+    "name": "Ayurderma skin,hair & panchkarma clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayurderma skin,hair & panchkarma clinic is a prominent hospital in Morbi, known for structured tertiary care across Cosmetic Surgery In Morbi. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR2F+4MF, Ravapar Rd, Vijay Nagar, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "Vijay Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ayurderma+skin,hair+%26+panchkarma+clinic/@22.8003115,70.824185,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0013f6e997:0x708470e73d1b8ff3!8m2!3d22.8003115!4d70.824185!16s%2Fg%2F11vm7v04sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayurderma+skin,hair+%26+panchkarma+clinic/@22.8003115,70.824185,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0013f6e997:0x708470e73d1b8ff3!8m2!3d22.8003115!4d70.824185!16s%2Fg%2F11vm7v04sc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8003115,
+      "lng": 70.824185,
+      "label": "Ayurderma skin,hair & panchkarma clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayush-hospital-morbi",
+    "name": "Ayush Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Ayush Hospital delivers integrated care across Urologist Surgery In Morbi. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QWC5+X6Q, Rafaleshwar, Morbi, Jambudiya, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "Rafaleshwar",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ayush+Hospital/@22.7724561,70.908115,17z/data=!3m1!4b1!4m6!3m5!1s0x395991af2f235da3:0xda9cafd73114d31c!8m2!3d22.7724561!4d70.908115!16s%2Fg%2F11fd4bt0t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayush+Hospital/@22.7724561,70.908115,17z/data=!3m1!4b1!4m6!3m5!1s0x395991af2f235da3:0xda9cafd73114d31c!8m2!3d22.7724561!4d70.908115!16s%2Fg%2F11fd4bt0t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7724561,
+      "lng": 70.908115,
+      "label": "Ayush Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhadesia-hospital-morbi",
+    "name": "Bhadesia Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhadesia Hospital is a prominent hospital in Morbi, known for structured tertiary care across Liver Transplant Surgery In Morbi. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 222 2451",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhadesia Newborn/Children And Dental Hospital, Sanala Rd, opposite Sardar Baug, Punit Nagar, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opposite Sardar Baug, Punit Nagar, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "0282 222 2451",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Bhadesia+Hospital/@22.8096889,70.8249645,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd80ea314bd:0xa321259a6e610b23!8m2!3d22.8096889!4d70.8249645!16s%2Fg%2F1tf_lpz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhadesia+Hospital/@22.8096889,70.8249645,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd80ea314bd:0xa321259a6e610b23!8m2!3d22.8096889!4d70.8249645!16s%2Fg%2F1tf_lpz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8096889,
+      "lng": 70.8249645,
+      "label": "Bhadesia Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhalodia-cosmetic-and-skin-care-morbi",
+    "name": "Bhalodia Cosmetic & Skin Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhalodia Cosmetic & Skin Care is a prominent hospital in Morbi, known for structured tertiary care across Cosmetic Surgery In Morbi. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099132 88223",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Besides The Grand Moms Restaurant, Unique Plaza 3rd floor, Narayannagar Society, Near Samay Gate, Sanala Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sanala Rd",
+    "landmark": "Near Samay Gate, Sanala Rd, Morbi, Gujarat 363641",
+    "emergencyContact": "099132 88223",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhalodia+Cosmetic+%26+Skin+Care/@22.7973435,70.8131055,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df74cb0bc77:0x45e104ca5d6d290b!8m2!3d22.7973435!4d70.8131055!16s%2Fg%2F11j8h36bhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhalodia+Cosmetic+%26+Skin+Care/@22.7973435,70.8131055,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df74cb0bc77:0x45e104ca5d6d290b!8m2!3d22.7973435!4d70.8131055!16s%2Fg%2F11j8h36bhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7973435,
+      "lng": 70.8131055,
+      "label": "Bhalodia Cosmetic & Skin Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhatt-clinic-morbi",
+    "name": "Bhatt Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Bhatt Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Morbi. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "gopal society, road, Mahendranagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Mahendranagar",
+    "landmark": "Mahendranagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Bhatt+Clinic/@22.8276619,70.8499236,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf1b5cdbd65:0xcbbc68e308c2b88b!8m2!3d22.8276619!4d70.8499236!16s%2Fg%2F1hhvvkfyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhatt+Clinic/@22.8276619,70.8499236,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf1b5cdbd65:0xcbbc68e308c2b88b!8m2!3d22.8276619!4d70.8499236!16s%2Fg%2F1hhvvkfyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8276619,
+      "lng": 70.8499236,
+      "label": "Bhatt Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhila-saheb-skin-clinic-dr-chandni-likhiya-morbi",
+    "name": "Bhila saheb Skin clinic (Dr Chandni Likhiya)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Bhila saheb Skin clinic (Dr Chandni Likhiya) offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063534 57524",
+    "alternatePhone": "",
+    "website": "",
+    "address": "sheri no 4, Dr.bhila saheb clinic, near Bhoraniya dental clinic, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Bhoraniya dental clinic, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "063534 57524",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bhila+saheb+Skin+clinic+(Dr+Chandni+Likhiya)/@22.8159023,70.8294618,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7dcab0290f:0xbd81792bf356013!8m2!3d22.8159023!4d70.8294618!16s%2Fg%2F11yg14np85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhila+saheb+Skin+clinic+(Dr+Chandni+Likhiya)/@22.8159023,70.8294618,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7dcab0290f:0xbd81792bf356013!8m2!3d22.8159023!4d70.8294618!16s%2Fg%2F11yg14np85?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8159023,
+      "lng": 70.8294618,
+      "label": "Bhila saheb Skin clinic (Dr Chandni Likhiya)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhorania-dental-clinic-and-implant-center-morbi-morbi",
+    "name": "Bhorania Dental Clinic and Implant Center, Morbi",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental implants periodontist in Morbi, Bhorania Dental Clinic and Implant Center, Morbi delivers integrated care across Oral Surgery In Morbi and Dental Implants Periodontist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094274 56417",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd floor, Shreeji Palace, Main Road, near SBI bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near SBI bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "094274 56417",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Dental Implants Periodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bhorania+Dental+Clinic+and+Implant+Center,+Morbi/@22.8166338,70.8299498,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09f48289:0xb040449fecde36a!8m2!3d22.8166338!4d70.8299498!16s%2Fg%2F11b8_qyk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhorania+Dental+Clinic+and+Implant+Center,+Morbi/@22.8166338,70.8299498,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09f48289:0xb040449fecde36a!8m2!3d22.8166338!4d70.8299498!16s%2Fg%2F11b8_qyk0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8166338,
+      "lng": 70.8299498,
+      "label": "Bhorania Dental Clinic and Implant Center, Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bilipatra-nirant-churn-morbi-morbi",
+    "name": "Bilipatra Nirant Churn Morbi",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Bilipatra Nirant Churn Morbi offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Kohinur Complex, Shop No - 119, 120, Ravapar Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar Rd",
+    "landmark": "Shop No - 119",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bilipatra+Nirant+Churn+Morbi/@22.7987839,70.8259796,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dff341b423b:0xc27f3a9ffb9cff68!8m2!3d22.7987839!4d70.8259796!16s%2Fg%2F11z10y3hft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bilipatra+Nirant+Churn+Morbi/@22.7987839,70.8259796,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dff341b423b:0xc27f3a9ffb9cff68!8m2!3d22.7987839!4d70.8259796!16s%2Fg%2F11z10y3hft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7987839,
+      "lng": 70.8259796,
+      "label": "Bilipatra Nirant Churn Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "candor-ivf-center-morbi-morbi",
+    "name": "Candor IVF Center Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Candor IVF Center Morbi brings together specialists for IVF In Morbi and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "092652 44095",
+    "alternatePhone": "",
+    "website": "https://candorivf.com/",
+    "address": "3rd Floor, Accura Diagnostic Centre, 2, Savsar Plot Rd, opposite Krishna Travels, next to SBI Bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opposite Krishna Travels, next to SBI Bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "092652 44095",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Morbi",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Candor+IVF+Center+Morbi/@22.8167253,70.8295945,17z/data=!3m1!4b1!4m6!3m5!1s0x39598db443b2f28d:0xfad22654c8be3b08!8m2!3d22.8167253!4d70.8295945!16s%2Fg%2F11xdg8nchp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Candor+IVF+Center+Morbi/@22.8167253,70.8295945,17z/data=!3m1!4b1!4m6!3m5!1s0x39598db443b2f28d:0xfad22654c8be3b08!8m2!3d22.8167253!4d70.8295945!16s%2Fg%2F11xdg8nchp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8167253,
+      "lng": 70.8295945,
+      "label": "Candor IVF Center Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chirag-surgical-hospital-morbi",
+    "name": "Chirag Surgical Hospital",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Chirag Surgical Hospital for its strength in Liver Transplant Surgery In Morbi and Surgical Center. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6, Sanala Rd, Adarsh Society, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Adarsh Society",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Chirag+Surgical+Hospital/@22.8106977,70.825446,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86ab7ad79:0x48feff1c1e32f79!8m2!3d22.8106977!4d70.825446!16s%2Fg%2F1hhwl0xsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chirag+Surgical+Hospital/@22.8106977,70.825446,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd86ab7ad79:0x48feff1c1e32f79!8m2!3d22.8106977!4d70.825446!16s%2Fg%2F1hhwl0xsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8106977,
+      "lng": 70.825446,
+      "label": "Chirag Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "crystal-eye-hospital-morbi-morbi",
+    "name": "Crystal Eye Hospital Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Crystal Eye Hospital Morbi is a prominent hospital in Morbi, known for structured tertiary care across Kidney Transplant Surgery In Morbi. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095375 11995",
+    "alternatePhone": "",
+    "website": "https://click2cure.com/best-opthalmonologist-drnikhil-morbi/",
+    "address": "b/h, dr. Navin bhai parekh hospital, 8, Savsar Plot Rd, opposite union bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opposite union bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "095375 11995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Crystal+Eye+Hospital+Morbi/@22.8154326,70.8304388,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7fd532a715:0x38c0a93457e36ca!8m2!3d22.8154326!4d70.8304388!16s%2Fg%2F11lzcj6l1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Crystal+Eye+Hospital+Morbi/@22.8154326,70.8304388,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d7fd532a715:0x38c0a93457e36ca!8m2!3d22.8154326!4d70.8304388!16s%2Fg%2F11lzcj6l1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8154326,
+      "lng": 70.8304388,
+      "label": "Crystal Eye Hospital Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-clinic-morbi",
+    "name": "Dental Care Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Dental Care Clinic for its strength in Oral Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "S-2 Super Market,, Sanala Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sanala Rd",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care+Clinic/@22.8075868,70.8240977,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d27fd16e2cf:0x332ff88e0820591e!8m2!3d22.8075868!4d70.8240977!16s%2Fg%2F12644t0d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care+Clinic/@22.8075868,70.8240977,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d27fd16e2cf:0x332ff88e0820591e!8m2!3d22.8075868!4d70.8240977!16s%2Fg%2F12644t0d5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8075868,
+      "lng": 70.8240977,
+      "label": "Dental Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devam-clinic-morbi",
+    "name": "Devam clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Devam clinic delivers integrated care across Liver Transplant Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RV94+MM2, Shobheshwar Rd, near jilla sevasadan, Morbi - 2, Morbi, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "Morbi - 2",
+    "landmark": "near jilla sevasadan, Morbi - 2, Morbi, Gujarat 363642",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Devam+clinic/@22.8191252,70.8566553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0050952ec9:0xc095e2e9c8e6125b!8m2!3d22.8191252!4d70.8566553!16s%2Fg%2F11ln78932h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devam+clinic/@22.8191252,70.8566553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0050952ec9:0xc095e2e9c8e6125b!8m2!3d22.8191252!4d70.8566553!16s%2Fg%2F11ln78932h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8191252,
+      "lng": 70.8566553,
+      "label": "Devam clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devashri-maternity-and-surgical-hospital-morbi",
+    "name": "Devashri Maternity & Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Devashri Maternity & Surgical Hospital delivers integrated care across Gynecologist Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072289 92626",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR6H+QCF, Sanala Road, near Naklank Hospital Morbi, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "near Naklank Hospital Morbi",
+    "landmark": "near Naklank Hospital Morbi, Morbi, Gujarat 363641",
+    "emergencyContact": "072289 92626",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Devashri+Maternity+%26+Surgical+Hospital/@22.8119498,70.8285464,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dcc91e0b:0xd8cb7b59876d2934!8m2!3d22.8119498!4d70.8285464!16s%2Fg%2F11g0t8xyl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devashri+Maternity+%26+Surgical+Hospital/@22.8119498,70.8285464,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dcc91e0b:0xd8cb7b59876d2934!8m2!3d22.8119498!4d70.8285464!16s%2Fg%2F11g0t8xyl3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8119498,
+      "lng": 70.8285464,
+      "label": "Devashri Maternity & Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devshri-maternity-and-surgical-hospital-morbi",
+    "name": "Devshri maternity & surgical hospital",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Devshri maternity & surgical hospital brings together specialists for Gynecologist Surgery In Morbi and Maternity Centre. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0282 222 2022",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10, Shakti Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 2022",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Devshri+maternity+%26+surgical+hospital/@22.8118911,70.8296656,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dc659e77:0x390e1ee43361f62e!8m2!3d22.8118911!4d70.8296656!16s%2Fg%2F11f03ns6h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devshri+maternity+%26+surgical+hospital/@22.8118911,70.8296656,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8dc659e77:0x390e1ee43361f62e!8m2!3d22.8118911!4d70.8296656!16s%2Fg%2F11f03ns6h3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8118911,
+      "lng": 70.8296656,
+      "label": "Devshri maternity & surgical hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gdp-morbi-morbi",
+    "name": "GDP MORBI",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GDP MORBI has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Morbi and Dialysis Center. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RQ27+MQM DIALYSIS DEPARTMENT, GENERAL HOSPITAL, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "GENERAL HOSPITAL",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Morbi",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/GDP+MORBI/@22.8017221,70.7644236,17z/data=!3m1!4b1!4m6!3m5!1s0x3959f3ebc8ef837d:0xccbff3905d32fcfc!8m2!3d22.8017221!4d70.7644236!16s%2Fg%2F11s7mw4bl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GDP+MORBI/@22.8017221,70.7644236,17z/data=!3m1!4b1!4m6!3m5!1s0x3959f3ebc8ef837d:0xccbff3905d32fcfc!8m2!3d22.8017221!4d70.7644236!16s%2Fg%2F11s7mw4bl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8017221,
+      "lng": 70.7644236,
+      "label": "GDP MORBI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "general-hospital-morbi-morbi",
+    "name": "General Hospital, Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "General Hospital, Morbi has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Morbi. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099987 98456",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gandhi Chowk, Sanala Rd, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "099987 98456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/General+Hospital,+Morbi/@22.8155043,70.8312513,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdea1c31137:0x26eef55794de21bb!8m2!3d22.8155043!4d70.8312513!16s%2Fg%2F11bz0dy1rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/General+Hospital,+Morbi/@22.8155043,70.8312513,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdea1c31137:0x26eef55794de21bb!8m2!3d22.8155043!4d70.8312513!16s%2Fg%2F11bz0dy1rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155043,
+      "lng": 70.8312513,
+      "label": "General Hospital, Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gokul-hospital-morbi",
+    "name": "Gokul Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Gokul Hospital delivers integrated care across Liver Transplant Surgery In Morbi. Operational strengths including Google rating 3.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090812 25800",
+    "alternatePhone": "",
+    "website": "",
+    "address": "12, Ram chowk, near Vadaliya Hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Vadaliya Hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "090812 25800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Gokul+Hospital/@22.8146792,70.8294997,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94b8d5551:0xc83d8b344ef45ecc!8m2!3d22.8146792!4d70.8294997!16s%2Fg%2F11clgjyg8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gokul+Hospital/@22.8146792,70.8294997,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94b8d5551:0xc83d8b344ef45ecc!8m2!3d22.8146792!4d70.8294997!16s%2Fg%2F11clgjyg8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8146792,
+      "lng": 70.8294997,
+      "label": "Gokul Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hair-fixing-replacement-center-in-morbi-hair-weaving-hair-pasting-centre-morbi",
+    "name": "Hair Fixing Replacement Center in Morbi | Hair Weaving | Hair Pasting Centre",
+    "type": "Hair Replacement Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Hair Fixing Replacement Center in Morbi | Hair Weaving | Hair Pasting Centre brings together specialists for Cosmetic Surgery In Morbi and Hair Replacement Service. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086375 10871",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 5/6, Hair Fixing Replacement Centre, Shivam coplex, 2/Floor, Ravapar Rd, nr. Shell Petrol Pump, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Shivam coplex",
+    "emergencyContact": "086375 10871",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Hair Replacement Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Hair+Fixing+Replacement+Center+in+Morbi+%7C+Hair+Weaving+%7C+Hair+Pasting+Centre/@22.8120572,70.8309348,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de8b348cc25:0x3b5ca4b4a7524d00!8m2!3d22.8120572!4d70.8309348!16s%2Fg%2F11vx4tv7rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hair+Fixing+Replacement+Center+in+Morbi+%7C+Hair+Weaving+%7C+Hair+Pasting+Centre/@22.8120572,70.8309348,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de8b348cc25:0x3b5ca4b4a7524d00!8m2!3d22.8120572!4d70.8309348!16s%2Fg%2F11vx4tv7rv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8120572,
+      "lng": 70.8309348,
+      "label": "Hair Fixing Replacement Center in Morbi | Hair Weaving | Hair Pasting Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "happy-dental-care-morbi",
+    "name": "Happy Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Happy Dental Care brings together specialists for Oral Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094282 92391",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Galaxy Plaza complex, F-10, Sanala Rd, near Umiya Circle, opp. Sanket india, Patel Colony, Vaibhav Nagar Society, Sanala, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sanala",
+    "landmark": "near Umiya Circle, opp. Sanket india, Patel Colony, Vaibhav Nagar Society, Sanala, Morbi, Gujarat 363641",
+    "emergencyContact": "094282 92391",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Happy+Dental+Care/@22.8014772,70.8159368,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c6c4b9905:0x4a8594ad1029ae21!8m2!3d22.8014772!4d70.8159368!16s%2Fg%2F11bx9c_2cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Happy+Dental+Care/@22.8014772,70.8159368,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c6c4b9905:0x4a8594ad1029ae21!8m2!3d22.8014772!4d70.8159368!16s%2Fg%2F11bx9c_2cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8014772,
+      "lng": 70.8159368,
+      "label": "Happy Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivory-dental-clinic-and-implant-center-prosthodontist-and-implantologist-smile-and-teeth-makeover-orofacial-pain-management-morbi",
+    "name": "Ivory Dental Clinic & Implant Center - Prosthodontist & Implantologist / Smile & Teeth Makeover / Orofacial Pain Management",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Morbi, Ivory Dental Clinic & Implant Center - Prosthodontist & Implantologist / Smile & Teeth Makeover / Orofacial Pain Management delivers integrated care across Cosmetic Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075749 22522",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Flora Akshar City, F-1, near D-Mart, Morbi - 2, Morbi, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "Morbi - 2",
+    "landmark": "near D-Mart, Morbi - 2, Morbi, Gujarat 363642",
+    "emergencyContact": "075749 22522",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ivory+Dental+Clinic+%26+Implant+Center+-+Prosthodontist+%26+Implantologist+%2F+Smile+%26+Teeth+Makeover+%2F+Orofacial+Pain+Management/@22.8193443,70.8504665,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dde30824c8d:0x873dcfd60a975442!8m2!3d22.8193443!4d70.8504665!16s%2Fg%2F11x0g0ry7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ivory+Dental+Clinic+%26+Implant+Center+-+Prosthodontist+%26+Implantologist+%2F+Smile+%26+Teeth+Makeover+%2F+Orofacial+Pain+Management/@22.8193443,70.8504665,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dde30824c8d:0x873dcfd60a975442!8m2!3d22.8193443!4d70.8504665!16s%2Fg%2F11x0g0ry7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8193443,
+      "lng": 70.8504665,
+      "label": "Ivory Dental Clinic & Implant Center - Prosthodontist & Implantologist / Smile & Teeth Makeover / Orofacial Pain Management",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "janki-hospital-and-ivf-center-morbi",
+    "name": "Janki Hospital & IVF CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Janki Hospital & IVF CENTER brings together specialists for IVF In Morbi and Fertility Care. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070694 43143",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3, Sanala Rd, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "070694 43143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Morbi",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Janki+Hospital+%26+IVF+CENTER/@22.8108222,70.8256961,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd841e55821:0x7c38756e9341fff0!8m2!3d22.8108222!4d70.8256961!16s%2Fg%2F11bxl911x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Janki+Hospital+%26+IVF+CENTER/@22.8108222,70.8256961,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd841e55821:0x7c38756e9341fff0!8m2!3d22.8108222!4d70.8256961!16s%2Fg%2F11bxl911x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8108222,
+      "lng": 70.8256961,
+      "label": "Janki Hospital & IVF CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevan-jyot-eye-hospital-morbi",
+    "name": "Jeevan Jyot Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Jeevan Jyot Eye Hospital for its strength in Plastic Surgery In Morbi. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0282 222 3523",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 3523",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevan+Jyot+Eye+Hospital/@22.8149241,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd4f0635f2b:0x85cff4241e59f0a4!8m2!3d22.8149241!4d70.8292791!16s%2Fg%2F11fhwgplcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevan+Jyot+Eye+Hospital/@22.8149241,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd4f0635f2b:0x85cff4241e59f0a4!8m2!3d22.8149241!4d70.8292791!16s%2Fg%2F11fhwgplcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8149241,
+      "lng": 70.8292791,
+      "label": "Jeevan Jyot Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "joint-replacement-center-morbi",
+    "name": "JOINT REPLACEMENT CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JOINT REPLACEMENT CENTER has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Orthopedic Surgery In Morbi and Orthopaedics. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084698 88807",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AAYUSH HOSPITALS, near OLD BUS STAND, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near OLD BUS STAND, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "084698 88807",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Morbi",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/JOINT+REPLACEMENT+CENTER/@22.8161864,70.8291211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de38dec3def:0x4fbb2ba62a772088!8m2!3d22.8161864!4d70.8291211!16s%2Fg%2F11y6_mc6gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JOINT+REPLACEMENT+CENTER/@22.8161864,70.8291211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598de38dec3def:0x4fbb2ba62a772088!8m2!3d22.8161864!4d70.8291211!16s%2Fg%2F11y6_mc6gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8161864,
+      "lng": 70.8291211,
+      "label": "JOINT REPLACEMENT CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jr-hospital-morbi",
+    "name": "JR Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, JR Hospital brings together specialists for Urologist Surgery In Morbi. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095866 25444",
+    "alternatePhone": "",
+    "website": "http://www.jrhospital.co.in/",
+    "address": "7, Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "095866 25444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JR+Hospital/@22.8155476,70.8295669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dc85582ccb5:0xaf4c71260a2a03a1!8m2!3d22.8155476!4d70.8295669!16s%2Fg%2F11v0vss399?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JR+Hospital/@22.8155476,70.8295669,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dc85582ccb5:0xaf4c71260a2a03a1!8m2!3d22.8155476!4d70.8295669!16s%2Fg%2F11v0vss399?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155476,
+      "lng": 70.8295669,
+      "label": "JR Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalrav-hospital-morbi",
+    "name": "Kalrav Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Kalrav Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Morbi. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084691 26767",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Devi Complex, 6/4, Sanala Rd, near Mahesh Hotel, Shakti Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Mahesh Hotel, Shakti Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "084691 26767",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Kalrav+Hospital/@22.8113442,70.8270191,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f67b4cc3:0x25a9409eae948bb1!8m2!3d22.8113442!4d70.8270191!16s%2Fg%2F11bxnp3z6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalrav+Hospital/@22.8113442,70.8270191,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f67b4cc3:0x25a9409eae948bb1!8m2!3d22.8113442!4d70.8270191!16s%2Fg%2F11bxnp3z6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8113442,
+      "lng": 70.8270191,
+      "label": "Kalrav Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kanani-s-clinic-morbi",
+    "name": "Kanani's Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kanani's Clinic is a prominent medical clinic in Morbi, known for structured tertiary care across Cancer Surgery In Morbi. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 223 0651",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kayani plot-4, Dr kananis skin clinic, Sanala Rd, opp. mahesh hotel, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sanala Rd",
+    "emergencyContact": "0282 223 0651",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Kanani%27s+Clinic/data=!4m7!3m6!1s0x3959f2cd50b025bd:0xcb3ba3b053191f59!8m2!3d22.8113093!4d70.8275431!16s%2Fg%2F1tf85gx2!19sChIJvSWwUM3yWTkRWR8ZU7CjO8s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kanani%27s+Clinic/data=!4m7!3m6!1s0x3959f2cd50b025bd:0xcb3ba3b053191f59!8m2!3d22.8113093!4d70.8275431!16s%2Fg%2F1tf85gx2!19sChIJvSWwUM3yWTkRWR8ZU7CjO8s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8113093,
+      "lng": 70.8275431,
+      "label": "Kanani's Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khushbu-hospital-morbi",
+    "name": "Khushbu Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Khushbu Hospital is a prominent hospital in Morbi, known for structured tertiary care across Gynecologist Surgery In Morbi. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098251 37510",
+    "alternatePhone": "",
+    "website": "",
+    "address": "petrol pump, Nr.dr, Op.sardarbaug, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Op.sardarbaug",
+    "landmark": "Op.sardarbaug",
+    "emergencyContact": "098251 37510",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Khushbu+Hospital/@22.8099187,70.826512,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0xf1b7e9d85f05b6be!8m2!3d22.8099187!4d70.826512!16s%2Fg%2F11hd523bg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khushbu+Hospital/@22.8099187,70.826512,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0xf1b7e9d85f05b6be!8m2!3d22.8099187!4d70.826512!16s%2Fg%2F11hd523bg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8099187,
+      "lng": 70.826512,
+      "label": "Khushbu Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kiva-skin-hair-advanced-cosmetic-clinic-morbi",
+    "name": "Kiva Skin Hair Advanced Cosmetic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Kiva Skin Hair Advanced Cosmetic Clinic brings together specialists for Plastic Surgery In Morbi. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099241 23388",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Old Bus Stand, Main Rd, Savsar Plot, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Savsar Plot",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "099241 23388",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kiva+Skin+Hair+Advanced+Cosmetic+Clinic/@22.8172078,70.8301279,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc30ae25df:0x8293a363c9a91d56!8m2!3d22.8172078!4d70.8301279!16s%2Fg%2F11gdkx7sp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kiva+Skin+Hair+Advanced+Cosmetic+Clinic/@22.8172078,70.8301279,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc30ae25df:0x8293a363c9a91d56!8m2!3d22.8172078!4d70.8301279!16s%2Fg%2F11gdkx7sp0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8172078,
+      "lng": 70.8301279,
+      "label": "Kiva Skin Hair Advanced Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-dental-clinic-dr-narendra-g-hadiyal-morbi",
+    "name": "Krishna Dental Clinic,Dr Narendra G Hadiyal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Krishna Dental Clinic,Dr Narendra G Hadiyal for its strength in Oral Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094282 60565",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr Narendra G Hadiyal,1st floor saffal plaza, Jail Road, opp. Indian Bank, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "opp. Indian Bank",
+    "landmark": "Jail Road",
+    "emergencyContact": "094282 60565",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Clinic,Dr+Narendra+G+Hadiyal/@22.8150076,70.8344993,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cde1485f1fd:0xaff7d2e4999a81db!8m2!3d22.8150076!4d70.8344993!16s%2Fg%2F11g10nhptf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Dental+Clinic,Dr+Narendra+G+Hadiyal/@22.8150076,70.8344993,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cde1485f1fd:0xaff7d2e4999a81db!8m2!3d22.8150076!4d70.8344993!16s%2Fg%2F11g10nhptf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8150076,
+      "lng": 70.8344993,
+      "label": "Krishna Dental Clinic,Dr Narendra G Hadiyal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kundariya-dental-care-and-implant-centre-morbi",
+    "name": "KUNDARIYA DENTAL CARE & IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose KUNDARIYA DENTAL CARE & IMPLANT CENTRE for its strength in Oral Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076229 06859",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Arya Complex, Circuit House Rd, opp. Kuldevi Pan Parlour, near Santosh Selestion, Morbi - 2, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Morbi - 2",
+    "landmark": "near Santosh Selestion, Morbi - 2, Morbi, Gujarat 363641",
+    "emergencyContact": "076229 06859",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/KUNDARIYA+DENTAL+CARE+%26+IMPLANT+CENTRE/@22.8281389,70.8496787,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0acc0d593f:0xfb62d7b52892b257!8m2!3d22.8281389!4d70.8496787!16s%2Fg%2F11lkj4qcsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KUNDARIYA+DENTAL+CARE+%26+IMPLANT+CENTRE/@22.8281389,70.8496787,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0acc0d593f:0xfb62d7b52892b257!8m2!3d22.8281389!4d70.8496787!16s%2Fg%2F11lkj4qcsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8281389,
+      "lng": 70.8496787,
+      "label": "KUNDARIYA DENTAL CARE & IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laparoscopy-endoscopy-surgical-hospital-morbi",
+    "name": "Laparoscopy-Endoscopy Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Laparoscopy-Endoscopy Surgical Hospital for its strength in Liver Transplant Surgery In Morbi. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SH-22, Rajkot Road, Rajkot, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Rajkot",
+    "landmark": "Rajkot",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Laparoscopy-Endoscopy+Surgical+Hospital/@22.813173,70.829021,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd925769e5b:0x18ea8f5a41bb7cee!8m2!3d22.813173!4d70.829021!16s%2Fg%2F11dxlblnrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laparoscopy-Endoscopy+Surgical+Hospital/@22.813173,70.829021,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd925769e5b:0x18ea8f5a41bb7cee!8m2!3d22.813173!4d70.829021!16s%2Fg%2F11dxlblnrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.813173,
+      "lng": 70.829021,
+      "label": "Laparoscopy-Endoscopy Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhav-hospital-morbi",
+    "name": "Madhav Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Madhav Hospital delivers integrated care across Liver Transplant Surgery In Morbi. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093286 96028",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7/8, Ayodhyapuri Main Rd, opp. Jalaram temple, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opp. Jalaram temple",
+    "emergencyContact": "093286 96028",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Madhav+Hospital/@22.8155161,70.8291451,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd3fdb0e051:0xc43798cc1746a49!8m2!3d22.8155161!4d70.8291451!16s%2Fg%2F11h1djb4j6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhav+Hospital/@22.8155161,70.8291451,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd3fdb0e051:0xc43798cc1746a49!8m2!3d22.8155161!4d70.8291451!16s%2Fg%2F11h1djb4j6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155161,
+      "lng": 70.8291451,
+      "label": "Madhav Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maheshwari-dental-clinic-morbi",
+    "name": "Maheshwari Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Maheshwari Dental Clinic for its strength in Oral Surgery In Morbi and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0282 222 2201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Morbi",
+    "emergencyContact": "0282 222 2201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maheshwari+Dental+Clinic/@22.8132155,70.8289942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd9251347e5:0xdd1739867e8058a6!8m2!3d22.8132155!4d70.8289942!16s%2Fg%2F12604y6w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maheshwari+Dental+Clinic/@22.8132155,70.8289942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd9251347e5:0xdd1739867e8058a6!8m2!3d22.8132155!4d70.8289942!16s%2Fg%2F12604y6w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8132155,
+      "lng": 70.8289942,
+      "label": "Maheshwari Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maheshwari-eye-hospital-morbi",
+    "name": "Maheshwari Eye Hospital",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maheshwari Eye Hospital has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Cosmetic Surgery In Morbi and Eye Care Center. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0282 222 2490",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 2490",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Maheshwari+Eye+Hospital/@22.8152092,70.8298968,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddaf8e23e13:0xbaf7de4c47396e9c!8m2!3d22.8152092!4d70.8298968!16s%2Fg%2F11ghjftgfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maheshwari+Eye+Hospital/@22.8152092,70.8298968,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ddaf8e23e13:0xbaf7de4c47396e9c!8m2!3d22.8152092!4d70.8298968!16s%2Fg%2F11ghjftgfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8152092,
+      "lng": 70.8298968,
+      "label": "Maheshwari Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maheshwari-hospital-morbi",
+    "name": "Maheshwari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maheshwari Hospital is a prominent hospital in Morbi, known for structured tertiary care across Liver Transplant Surgery In Morbi. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092288 00108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near old Bus stand, Savasar Plot Main Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Savasar Plot Main Rd",
+    "landmark": "Morbi",
+    "emergencyContact": "092288 00108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maheshwari+Hospital/@22.816935,70.830035,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0afb0c31:0x158f83f787ffd87e!8m2!3d22.816935!4d70.830035!16s%2Fg%2F11gmgd08zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maheshwari+Hospital/@22.816935,70.830035,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0afb0c31:0x158f83f787ffd87e!8m2!3d22.816935!4d70.830035!16s%2Fg%2F11gmgd08zs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.816935,
+      "lng": 70.830035,
+      "label": "Maheshwari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manasvi-clinic-morbi-morbi",
+    "name": "Manasvi Clinic Morbi",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Morbi, Manasvi Clinic Morbi delivers integrated care across Cosmetic Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099743 87174",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F-105 & 106, 4th Floor, Capital Market, Ravapar Chowkdi, (9:00 AM to 1:00 PM, and, behind G.H. Board, near Rushikesh Vishyalay, (5:30 PM to 7:30 PM, Surkirti Society, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Surkirti Society",
+    "landmark": "near Rushikesh Vishyalay, (5:30 PM to 7:30 PM, Surkirti Society, Morbi, Gujarat 363641",
+    "emergencyContact": "099743 87174",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Manasvi+Clinic+Morbi/@22.7977316,70.8263164,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d52d46a2a51:0x312b0a58ec063f5c!8m2!3d22.7977316!4d70.8263164!16s%2Fg%2F11h223mwb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manasvi+Clinic+Morbi/@22.7977316,70.8263164,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d52d46a2a51:0x312b0a58ec063f5c!8m2!3d22.7977316!4d70.8263164!16s%2Fg%2F11h223mwb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7977316,
+      "lng": 70.8263164,
+      "label": "Manasvi Clinic Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manglam-hospital-morbi-morbi",
+    "name": "Manglam Hospital, Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Manglam Hospital, Morbi for its strength in Liver Transplant Surgery In Morbi. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7, Savsar Plot Rd, near old bus stand, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near old bus stand, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Manglam+Hospital,+Morbi/@22.8155013,70.8297258,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0x4aa24e6910a1cb77!8m2!3d22.8155013!4d70.8297258!16s%2Fg%2F11d_9dp5bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manglam+Hospital,+Morbi/@22.8155013,70.8297258,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc01ba8097:0x4aa24e6910a1cb77!8m2!3d22.8155013!4d70.8297258!16s%2Fg%2F11d_9dp5bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155013,
+      "lng": 70.8297258,
+      "label": "Manglam Hospital, Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mann-hospital-morbi",
+    "name": "Mann hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mann hospital has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Cosmetic Surgery In Morbi. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084878 70731",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8, Savsar Plot Rd, near darshan hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near darshan hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "084878 70731",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mann+hospital/@22.815085,70.829134,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d1d77bc5ba1:0xe516e326095dd002!8m2!3d22.815085!4d70.829134!16s%2Fg%2F11lkx9h9hj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mann+hospital/@22.815085,70.829134,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d1d77bc5ba1:0xe516e326095dd002!8m2!3d22.815085!4d70.829134!16s%2Fg%2F11lkx9h9hj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.815085,
+      "lng": 70.829134,
+      "label": "Mann hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mantra-ayurveda-panchakarma-and-infertility-centre-morbi",
+    "name": "Mantra ayurveda panchakarma and infertility centre",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mantra ayurveda panchakarma and infertility centre has built a strong reputation in Morbi for multidisciplinary treatment pathways covering IVF In Morbi and Fertility Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072010 00034",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B/H, Bapa Sita Ram Chowk, narsang tekri mandir, 2nd floor,M.M.complex, Ravapar Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar Rd",
+    "landmark": "narsang tekri mandir",
+    "emergencyContact": "072010 00034",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Morbi",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mantra+ayurveda+panchakarma+and+infertility+centre/@22.8032033,70.8260475,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d00229acd69:0x3c6d83f524b57426!8m2!3d22.8032033!4d70.8260475!16s%2Fg%2F11wvklvt8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mantra+ayurveda+panchakarma+and+infertility+centre/@22.8032033,70.8260475,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d00229acd69:0x3c6d83f524b57426!8m2!3d22.8032033!4d70.8260475!16s%2Fg%2F11wvklvt8g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8032033,
+      "lng": 70.8260475,
+      "label": "Mantra ayurveda panchakarma and infertility centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "masoom-children-and-gynec-hospital-morbi",
+    "name": "Masoom Children & Gynec Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Masoom Children & Gynec Hospital is a prominent hospital in Morbi, known for structured tertiary care across Gynecologist Surgery In Morbi and Women and Child Care. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 223 4692",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6, Sanala Rd, Adarsh Society, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Adarsh Society",
+    "emergencyContact": "0282 223 4692",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Masoom+Children+%26+Gynec+Hospital/@22.8120424,70.8265544,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8544f927d:0x10749b4c8631fc7e!8m2!3d22.8120424!4d70.8265544!16s%2Fg%2F12619dv5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Masoom+Children+%26+Gynec+Hospital/@22.8120424,70.8265544,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8544f927d:0x10749b4c8631fc7e!8m2!3d22.8120424!4d70.8265544!16s%2Fg%2F12619dv5t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8120424,
+      "lng": 70.8265544,
+      "label": "Masoom Children & Gynec Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mayaan-maternity-hospital-morbi",
+    "name": "MAYAAN MATERNITY HOSPITAL",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, MAYAAN MATERNITY HOSPITAL offers coordinated hospital care with major focus on Liver Transplant Surgery In Morbi and Maternity Centre. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0282 222 2255",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR8J+Q38, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 2255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/MAYAAN+MATERNITY+HOSPITAL/@22.8169136,70.8302163,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0c56cb7b:0xa3eefa4a53ce98bb!8m2!3d22.8169136!4d70.8302163!16s%2Fg%2F11bytsjy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MAYAAN+MATERNITY+HOSPITAL/@22.8169136,70.8302163,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc0c56cb7b:0xa3eefa4a53ce98bb!8m2!3d22.8169136!4d70.8302163!16s%2Fg%2F11bytsjy6b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8169136,
+      "lng": 70.8302163,
+      "label": "MAYAAN MATERNITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mayur-hospital-morbi",
+    "name": "Mayur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Mayur Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Morbi. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR9W+978, LE College Rd, Sama Kanthe, Morbi, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "Sama Kanthe",
+    "landmark": "Sama Kanthe",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Mayur+Hospital/@22.818413,70.8456876,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ce520f6254b:0x75d8672484f53e87!8m2!3d22.818413!4d70.8456876!16s%2Fg%2F11f77694d1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mayur+Hospital/@22.818413,70.8456876,17z/data=!3m1!4b1!4m6!3m5!1s0x39598ce520f6254b:0x75d8672484f53e87!8m2!3d22.818413!4d70.8456876!16s%2Fg%2F11f77694d1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.818413,
+      "lng": 70.8456876,
+      "label": "Mayur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi-mri-centre-morbi",
+    "name": "MORBI MRI CENTRE",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, MORBI MRI CENTRE offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi and Medical Diagnostic Imaging Center. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090233 10938",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7-8, Ayodhyapuri Main Rd, behind PARMESHWAR PLAZA, opposite JALARAM MANDIR, Savsar Plot, GARBI CHOWK, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "GARBI CHOWK",
+    "landmark": "opposite JALARAM MANDIR, Savsar Plot, GARBI CHOWK, Morbi, Gujarat 363641",
+    "emergencyContact": "090233 10938",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/MORBI+MRI+CENTRE/@22.8155685,70.8290461,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d51eb7e9f13:0x7cbb21fec260ad93!8m2!3d22.8155685!4d70.8290461!16s%2Fg%2F11nnmg8m_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MORBI+MRI+CENTRE/@22.8155685,70.8290461,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d51eb7e9f13:0x7cbb21fec260ad93!8m2!3d22.8155685!4d70.8290461!16s%2Fg%2F11nnmg8m_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155685,
+      "lng": 70.8290461,
+      "label": "MORBI MRI CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naklank-hospital-morbi-morbi",
+    "name": "Naklank Hospital Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Naklank Hospital Morbi brings together specialists for Urologist Surgery In Morbi. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0282 222 5100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanala Rd, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Morbi",
+    "emergencyContact": "0282 222 5100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Naklank+Hospital+Morbi/@22.8121765,70.8280538,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28f912dacd:0x646064c79d1a7d5d!8m2!3d22.8121765!4d70.8280538!16s%2Fg%2F11c0y1w5y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naklank+Hospital+Morbi/@22.8121765,70.8280538,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28f912dacd:0x646064c79d1a7d5d!8m2!3d22.8121765!4d70.8280538!16s%2Fg%2F11c0y1w5y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8121765,
+      "lng": 70.8280538,
+      "label": "Naklank Hospital Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navjivan-hospital-morbi",
+    "name": "Navjivan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navjivan Hospital is a prominent hospital in Morbi, known for structured tertiary care across Kidney Transplant Surgery In Morbi. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR7H+3G5, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Navjivan+Hospital/@22.8126271,70.8288737,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d10f17622f9:0x5049a2c503aa261!8m2!3d22.8126271!4d70.8288737!16s%2Fg%2F11hz0k455y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navjivan+Hospital/@22.8126271,70.8288737,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d10f17622f9:0x5049a2c503aa261!8m2!3d22.8126271!4d70.8288737!16s%2Fg%2F11hz0k455y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8126271,
+      "lng": 70.8288737,
+      "label": "Navjivan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "netra-eye-hospital-and-lasik-center-morbi",
+    "name": "Netra eye hospital and lasik center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Netra eye hospital and lasik center offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070467 29750",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Parmeshwar plaza, 3rd floor,savsar plot, Ayodhyapuri Main Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ayodhyapuri Main Rd",
+    "landmark": "savsar plot",
+    "emergencyContact": "070467 29750",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Netra+eye+hospital+and+lasik+center/@22.815467,70.8291487,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da7f3a53291:0xcb9bb7840c26477b!8m2!3d22.815467!4d70.8291487!16s%2Fg%2F11jbds1ccx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Netra+eye+hospital+and+lasik+center/@22.815467,70.8291487,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da7f3a53291:0xcb9bb7840c26477b!8m2!3d22.815467!4d70.8291487!16s%2Fg%2F11jbds1ccx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.815467,
+      "lng": 70.8291487,
+      "label": "Netra eye hospital and lasik center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-life-clinic-morbi",
+    "name": "New life clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, New life clinic brings together specialists for Liver Transplant Surgery In Morbi. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087585 50004",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahendra Para, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Mahendra Para",
+    "landmark": "Gujarat 363641",
+    "emergencyContact": "087585 50004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/New+life+clinic/@22.819824,70.8277712,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df4e4e9685b:0x937f241d609f588!8m2!3d22.819824!4d70.8277712!16s%2Fg%2F11shzfp2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+life+clinic/@22.819824,70.8277712,17z/data=!3m1!4b1!4m6!3m5!1s0x39598df4e4e9685b:0x937f241d609f588!8m2!3d22.819824!4d70.8277712!16s%2Fg%2F11shzfp2s6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.819824,
+      "lng": 70.8277712,
+      "label": "New life clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "newtech-diagnostic-laboratory-morbi",
+    "name": "NEWTECH DIAGNOSTIC LABORATORY",
+    "type": "Medical Laboratory",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEWTECH DIAGNOSTIC LABORATORY has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Cancer Surgery In Morbi and Medical Laboratory. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088499 80392",
+    "alternatePhone": "",
+    "website": "https://newtechpathlab.com/",
+    "address": "2nd floor, Near Ashirvad hospial, 10, above Saumya skin clinic, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Near Ashirvad hospial, 10, above Saumya skin clinic, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "088499 80392",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Morbi",
+      "Medical Laboratory"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NEWTECH+DIAGNOSTIC+LABORATORY/data=!4m7!3m6!1s0x39598d8909d84fc5:0xc7823e76894a9bcf!8m2!3d22.814898!4d70.8291106!16s%2Fg%2F11q8vhs0rp!19sChIJxU_YCYmNWTkRz5tKiXY-gsc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEWTECH+DIAGNOSTIC+LABORATORY/data=!4m7!3m6!1s0x39598d8909d84fc5:0xc7823e76894a9bcf!8m2!3d22.814898!4d70.8291106!16s%2Fg%2F11q8vhs0rp!19sChIJxU_YCYmNWTkRz5tKiXY-gsc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.814898,
+      "lng": 70.8291106,
+      "label": "NEWTECH DIAGNOSTIC LABORATORY",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nilkanth-naturopathy-clinic-in-morbi-morbi",
+    "name": "Nilkanth Naturopathy Clinic in Morbi",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nilkanth Naturopathy Clinic in Morbi has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Cosmetic Surgery In Morbi. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 64/65, 3rd Floor, Cepital Market, chokdi, opposite Sadhana Bhel, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "opposite Sadhana Bhel, Ravapar, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Nilkanth+Naturopathy+Clinic+in+Morbi/@22.7985375,70.8263594,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d8c216bf721:0xe530c913d8d8e035!8m2!3d22.7985375!4d70.8263594!16s%2Fg%2F11ld8nhdj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nilkanth+Naturopathy+Clinic+in+Morbi/@22.7985375,70.8263594,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d8c216bf721:0xe530c913d8d8e035!8m2!3d22.7985375!4d70.8263594!16s%2Fg%2F11ld8nhdj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7985375,
+      "lng": 70.8263594,
+      "label": "Nilkanth Naturopathy Clinic in Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ojas-skin-hair-and-cosmetic-clinic-morbi",
+    "name": "Ojas Skin, Hair & Cosmetic Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Ojas Skin, Hair & Cosmetic Clinic brings together specialists for Cosmetic Surgery In Morbi. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079901 41672",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd Floor, Capital market, T-28, Ravapar Rd, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "T-28",
+    "emergencyContact": "079901 41672",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ojas+Skin,+Hair+%26+Cosmetic+Clinic/@22.7986573,70.826194,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d042d1313a5:0x6d8e5117787c5129!8m2!3d22.7986573!4d70.826194!16s%2Fg%2F11l5l902tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ojas+Skin,+Hair+%26+Cosmetic+Clinic/@22.7986573,70.826194,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d042d1313a5:0x6d8e5117787c5129!8m2!3d22.7986573!4d70.826194!16s%2Fg%2F11l5l902tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7986573,
+      "lng": 70.826194,
+      "label": "Ojas Skin, Hair & Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pavan-surgical-hospital-haras-masha-bhagandar-ni-hospital-morbi",
+    "name": "Pavan surgical hospital haras masha bhagandar ni hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Pavan surgical hospital haras masha bhagandar ni hospital brings together specialists for Gynecologist Surgery In Morbi. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099098 92392",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp killol hospital b/h gurudtatrey mandir, Sanala Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sanala Rd",
+    "landmark": "Morbi",
+    "emergencyContact": "099098 92392",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Pavan+surgical+hospital+haras+masha+bhagandar+ni+hospital/data=!4m7!3m6!1s0x39598d971abf2b4f:0x145655c879659c39!8m2!3d22.8121171!4d70.8276132!16s%2Fg%2F11twq5bjnt!19sChIJTyu_GpeNWTkROZxlechVVhQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pavan+surgical+hospital+haras+masha+bhagandar+ni+hospital/data=!4m7!3m6!1s0x39598d971abf2b4f:0x145655c879659c39!8m2!3d22.8121171!4d70.8276132!16s%2Fg%2F11twq5bjnt!19sChIJTyu_GpeNWTkROZxlechVVhQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8121171,
+      "lng": 70.8276132,
+      "label": "Pavan surgical hospital haras masha bhagandar ni hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pransh-dental-clinic-morbi",
+    "name": "PRANSH DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, PRANSH DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078385 14907",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Lord Shiva complex, Laxminarayan society, Shop no, A 11, near mahendrasinghji hospital, Morbi, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "near mahendrasinghji hospital",
+    "landmark": "near mahendrasinghji hospital, Morbi, Gujarat 363642",
+    "emergencyContact": "078385 14907",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/PRANSH+DENTAL+CLINIC/@22.8267141,70.8542603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d591dcb04bd:0x971c91337b7813a3!8m2!3d22.8267141!4d70.8542603!16s%2Fg%2F11tjw3g_t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRANSH+DENTAL+CLINIC/@22.8267141,70.8542603,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d591dcb04bd:0x971c91337b7813a3!8m2!3d22.8267141!4d70.8542603!16s%2Fg%2F11tjw3g_t8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8267141,
+      "lng": 70.8542603,
+      "label": "PRANSH DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "radhe-ent-hospital-and-laser-centre-morbi",
+    "name": "RADHE ENT HOSPITAL & LASER CENTRE",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, RADHE ENT HOSPITAL & LASER CENTRE offers coordinated hospital care with major focus on Liver Transplant Surgery In Morbi and ENT. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 222 1230",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VEDANT HOSPITAL, 3RD FLOOR, BESIDES DR KANANISIR HOSPITAL, Sanala Rd, opp. MAHESH HOTEL, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "opp. MAHESH HOTEL",
+    "landmark": "BESIDES DR KANANISIR HOSPITAL",
+    "emergencyContact": "0282 222 1230",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RADHE+ENT+HOSPITAL+%26+LASER+CENTRE/@22.8112662,70.8275598,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28bd96f387:0x90c4f7cfb85558ad!8m2!3d22.8112662!4d70.8275598!16s%2Fg%2F11g3w07g2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RADHE+ENT+HOSPITAL+%26+LASER+CENTRE/@22.8112662,70.8275598,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d28bd96f387:0x90c4f7cfb85558ad!8m2!3d22.8112662!4d70.8275598!16s%2Fg%2F11g3w07g2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8112662,
+      "lng": 70.8275598,
+      "label": "RADHE ENT HOSPITAL & LASER CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "radhe-krishna-hospital-and-imaging-centre-morbi",
+    "name": "Radhe Krishna Hospital and imaging centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Radhe Krishna Hospital and imaging centre for its strength in Cosmetic Surgery In Morbi. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0282 222 5444",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Savasar Plot Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 5444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Radhe+Krishna+Hospital+and+imaging+centre/@22.815452,70.829564,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbfe50210f:0x1cd6d9cd783d0f1b!8m2!3d22.815452!4d70.829564!16s%2Fg%2F11gc9h1p5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Radhe+Krishna+Hospital+and+imaging+centre/@22.815452,70.829564,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdbfe50210f:0x1cd6d9cd783d0f1b!8m2!3d22.815452!4d70.829564!16s%2Fg%2F11gc9h1p5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.815452,
+      "lng": 70.829564,
+      "label": "Radhe Krishna Hospital and imaging centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rama-dental-clinic-morbi-morbi",
+    "name": "Rama Dental Clinic, Morbi",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Rama Dental Clinic, Morbi offers coordinated hospital care with major focus on Oral Surgery In Morbi, Orthodontist, and Orthopaedics. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "063522 50262",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Soni Bazar Main Rd, opposite Gandubhai Mithaiwala, Soni Bazar, Old Morbi, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Old Morbi",
+    "landmark": "opposite Gandubhai Mithaiwala, Soni Bazar, Old Morbi, Morbi, Gujarat 363641",
+    "emergencyContact": "063522 50262",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rama+Dental+Clinic,+Morbi/@22.8177876,70.8388477,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d05a1000ee9:0xe669f2ff95544e57!8m2!3d22.8177876!4d70.8388477!16s%2Fg%2F11jgdrlz07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rama+Dental+Clinic,+Morbi/@22.8177876,70.8388477,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d05a1000ee9:0xe669f2ff95544e57!8m2!3d22.8177876!4d70.8388477!16s%2Fg%2F11jgdrlz07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8177876,
+      "lng": 70.8388477,
+      "label": "Rama Dental Clinic, Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rankja-dental-clinic-morbi",
+    "name": "Rankja Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rankja Dental Clinic is a prominent dental clinic in Morbi, known for structured tertiary care across Oral Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070165 79026",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Balaji Complex, near Swagat Chowkdi, Chowkdi, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "near Swagat Chowkdi, Chowkdi, Ravapar, Morbi, Gujarat 363641",
+    "emergencyContact": "070165 79026",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rankja+Dental+Clinic/@22.7999132,70.8258295,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000020ee81:0x705709acf03f93dd!8m2!3d22.7999132!4d70.8258295!16s%2Fg%2F11s3b04z64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rankja+Dental+Clinic/@22.7999132,70.8258295,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000020ee81:0x705709acf03f93dd!8m2!3d22.7999132!4d70.8258295!16s%2Fg%2F11s3b04z64?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7999132,
+      "lng": 70.8258295,
+      "label": "Rankja Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rudraksh-dental-clinic-morbi",
+    "name": "Rudraksh Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rudraksh Dental Clinic is a prominent dentist in Morbi, known for structured tertiary care across Oral Surgery In Morbi and Dentist. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094080 81116",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanala Rd, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "094080 81116",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Rudraksh+Dental+Clinic/@22.8112574,70.8273742,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f3c80fff:0x5384a7db199a932f!8m2!3d22.8112574!4d70.8273742!16s%2Fg%2F1263w0v60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rudraksh+Dental+Clinic/@22.8112574,70.8273742,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd8f3c80fff:0x5384a7db199a932f!8m2!3d22.8112574!4d70.8273742!16s%2Fg%2F1263w0v60?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8112574,
+      "lng": 70.8273742,
+      "label": "Rudraksh Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "satyam-hospital-morbi",
+    "name": "Satyam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Satyam Hospital for its strength in Urologist Surgery In Morbi. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0282 222 2888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR5G+XPM, Sanala Rd, opposite Khushboo Hospital, nr. Sardar Baug, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opposite Khushboo Hospital, nr. Sardar Baug, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "0282 222 2888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Satyam+Hospital/@22.8099648,70.8267896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dea03ae0faf:0x406cd350869eb1a0!8m2!3d22.8099648!4d70.8267896!16s%2Fg%2F11gtgfwff1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Satyam+Hospital/@22.8099648,70.8267896,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dea03ae0faf:0x406cd350869eb1a0!8m2!3d22.8099648!4d70.8267896!16s%2Fg%2F11gtgfwff1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8099648,
+      "lng": 70.8267896,
+      "label": "Satyam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanti-clinic-morbi-2-morbi",
+    "name": "Shanti Clinic, Morbi -2.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Shanti Clinic, Morbi -2. offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080008 26351",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SO ORDI, Shobheshwar Rd, opp. Pottery taluka shala, Morbi - 2, Jambudiya, Morbi, Gujarat 363642",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363642",
+    "locality": "Jambudiya",
+    "landmark": "opp. Pottery taluka shala",
+    "emergencyContact": "080008 26351",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Shanti+Clinic,+Morbi+-2./@22.8192207,70.8560022,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf92e7c36dd:0xd6c95070d801452!8m2!3d22.8192207!4d70.8560022!16s%2Fg%2F11b6mspfc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanti+Clinic,+Morbi+-2./@22.8192207,70.8560022,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cf92e7c36dd:0xd6c95070d801452!8m2!3d22.8192207!4d70.8560022!16s%2Fg%2F11b6mspfc1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8192207,
+      "lng": 70.8560022,
+      "label": "Shanti Clinic, Morbi -2.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanti-physiotherapy-clinic-dr-bhavesh-thoriya-morbi",
+    "name": "Shanti Physiotherapy Clinic,Dr Bhavesh Thoriya",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shanti Physiotherapy Clinic,Dr Bhavesh Thoriya has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Orthopedic Surgery In Morbi and Physiotherapist. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098253 13897",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shanti Physiotherapy Clinic, Dr Bhavesh Thoriya, 16, Sanala Rd, near K.K.steel, Savsar Plot, Ram chowk, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ram chowk",
+    "landmark": "near K.K.steel, Savsar Plot, Ram chowk, Morbi, Gujarat 363641",
+    "emergencyContact": "098253 13897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Morbi",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shanti+Physiotherapy+Clinic,Dr+Bhavesh+Thoriya/@22.814189,70.8301942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb6fc55cd:0x787c07142e1e93d0!8m2!3d22.814189!4d70.8301942!16s%2Fg%2F11r97n8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanti+Physiotherapy+Clinic,Dr+Bhavesh+Thoriya/@22.814189,70.8301942,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb6fc55cd:0x787c07142e1e93d0!8m2!3d22.814189!4d70.8301942!16s%2Fg%2F11r97n8_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.814189,
+      "lng": 70.8301942,
+      "label": "Shanti Physiotherapy Clinic,Dr Bhavesh Thoriya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-hospitals-morbi-morbi",
+    "name": "Shashwat Hospitals - Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shashwat Hospitals - Morbi has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Oncologist Surgery In Morbi. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.shashwat.one/",
+    "address": "5th Floor, Apple Hospital, Sanala Rd, near mahesh hotel street, behind Krishna Hospital, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near mahesh hotel street, behind Krishna Hospital, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Hospitals+-+Morbi/@22.8117756,70.8266408,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d42605dbba7:0xfaa4ab0df664fd38!8m2!3d22.8117756!4d70.8266408!16s%2Fg%2F11yyct14s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Hospitals+-+Morbi/@22.8117756,70.8266408,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d42605dbba7:0xfaa4ab0df664fd38!8m2!3d22.8117756!4d70.8266408!16s%2Fg%2F11yyct14s4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8117756,
+      "lng": 70.8266408,
+      "label": "Shashwat Hospitals - Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-hospital-sanjeevani-laboratory-morbi",
+    "name": "Shivam Hospital Sanjeevani Laboratory",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, Shivam Hospital Sanjeevani Laboratory delivers integrated care across Liver Transplant Surgery In Morbi. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 222 9027",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR7H+VW5, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 9027",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shivam+Hospital+Sanjeevani+Laboratory/@22.8146279,70.8298653,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb3313ab3:0x91248c0897aded49!8m2!3d22.8146279!4d70.8298653!16s%2Fg%2F11c60fv_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivam+Hospital+Sanjeevani+Laboratory/@22.8146279,70.8298653,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb3313ab3:0x91248c0897aded49!8m2!3d22.8146279!4d70.8298653!16s%2Fg%2F11c60fv_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8146279,
+      "lng": 70.8298653,
+      "label": "Shivam Hospital Sanjeevani Laboratory",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shraddha-dental-clinic-and-implant-centre-morbi",
+    "name": "Shraddha Dental Clinic & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Shraddha Dental Clinic & Implant Centre for its strength in Oral Surgery In Morbi. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090333 43411",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanala Rd, opposite New bus station, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "opposite New bus station",
+    "landmark": "opposite New bus station, Morbi, Gujarat 363641",
+    "emergencyContact": "090333 43411",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shraddha+Dental+Clinic+%26+Implant+Centre/@22.807709,70.824003,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2875c01c67:0x76574675c368ce32!8m2!3d22.807709!4d70.824003!16s%2Fg%2F11b6dg41w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shraddha+Dental+Clinic+%26+Implant+Centre/@22.807709,70.824003,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2875c01c67:0x76574675c368ce32!8m2!3d22.807709!4d70.824003!16s%2Fg%2F11b6dg41w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.807709,
+      "lng": 70.824003,
+      "label": "Shraddha Dental Clinic & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-om-dental-care-morbi",
+    "name": "Shree Om Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Shree Om Dental Care offers coordinated hospital care with major focus on Oral Surgery In Morbi. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099136 77413",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, A One Shopping Center, avani Chokdi, Canal Rd, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "avani Chokdi",
+    "emergencyContact": "099136 77413",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Om+Dental+Care/@22.7997331,70.8200651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2e5a241d15:0x41c636187a6e3ebf!8m2!3d22.7997331!4d70.8200651!16s%2Fg%2F11g2z2_x13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Om+Dental+Care/@22.7997331,70.8200651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2e5a241d15:0x41c636187a6e3ebf!8m2!3d22.7997331!4d70.8200651!16s%2Fg%2F11g2z2_x13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7997331,
+      "lng": 70.8200651,
+      "label": "Shree Om Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreeji-hospital-and-icu-morbi",
+    "name": "Shreeji Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Shreeji Hospital & ICU brings together specialists for Urologist Surgery In Morbi. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Above State Bank of India, opposite Krishna Travels, Savsar Plot, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Savsar Plot",
+    "landmark": "opposite Krishna Travels, Savsar Plot, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shreeji+Hospital+%26+ICU/@22.8157954,70.8302847,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da0860c2bb3:0x2db45cd503f5df53!8m2!3d22.8157954!4d70.8302847!16s%2Fg%2F11nx3lc_24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shreeji+Hospital+%26+ICU/@22.8157954,70.8302847,17z/data=!3m1!4b1!4m6!3m5!1s0x39598da0860c2bb3:0x2db45cd503f5df53!8m2!3d22.8157954!4d70.8302847!16s%2Fg%2F11nx3lc_24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8157954,
+      "lng": 70.8302847,
+      "label": "Shreeji Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubh-clinic-morbi",
+    "name": "Shubh Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Shubh Clinic brings together specialists for Liver Transplant Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099098 60260",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shyam chember, Alap Rd, opposite Sky tower, near Navrang Park, Yogeshwar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Yogeshwar Nagar",
+    "landmark": "near Navrang Park, Yogeshwar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "099098 60260",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shubh+Clinic/@22.8003742,70.8316522,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b0177f15:0x5d2c3be0ddbd4ad3!8m2!3d22.8003742!4d70.8316522!16s%2Fg%2F11stpsq8q0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shubh+Clinic/@22.8003742,70.8316522,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b0177f15:0x5d2c3be0ddbd4ad3!8m2!3d22.8003742!4d70.8316522!16s%2Fg%2F11stpsq8q0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8003742,
+      "lng": 70.8316522,
+      "label": "Shubh Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubh-hospital-and-heart-care-morbi",
+    "name": "Shubh Hospital & Heart Care",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shubh Hospital & Heart Care has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Heart Surgery In Morbi and Cardiac Care. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070698 00050",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ayodhyapuri Main Rd, near Jeevandeep Hospital, behind Old Bus Station, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Jeevandeep Hospital, behind Old Bus Station, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "070698 00050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Morbi",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Shubh+Hospital+%26+Heart+Care/@22.8179547,70.828781,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdb9bfb877f:0x22c3714f84b2d3c2!8m2!3d22.8179547!4d70.828781!16s%2Fg%2F11f15gnw32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shubh+Hospital+%26+Heart+Care/@22.8179547,70.828781,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdb9bfb877f:0x22c3714f84b2d3c2!8m2!3d22.8179547!4d70.828781!16s%2Fg%2F11f15gnw32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8179547,
+      "lng": 70.828781,
+      "label": "Shubh Hospital & Heart Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubh-hospital-and-icu-morbi",
+    "name": "SHUBH HOSPITAL AND ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose SHUBH HOSPITAL AND ICU for its strength in Cardiac Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070698 00050",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR6G+2HV, Sanala Rd, near Sardar baug, behind Pravin tiles, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Sardar baug, behind Pravin tiles, Kayaji Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "070698 00050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SHUBH+HOSPITAL+AND+ICU/@22.8101605,70.826423,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d004efc42f1:0xc00804d0265118fb!8m2!3d22.8101605!4d70.826423!16s%2Fg%2F11yd1f6dyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHUBH+HOSPITAL+AND+ICU/@22.8101605,70.826423,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d004efc42f1:0xc00804d0265118fb!8m2!3d22.8101605!4d70.826423!16s%2Fg%2F11yd1f6dyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8101605,
+      "lng": 70.826423,
+      "label": "SHUBH HOSPITAL AND ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shyam-hospital-morbi",
+    "name": "Shyam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Shyam Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Morbi. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 223 4577",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR8H+3RR, Ram Chowk, Savasar Plot Main Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Savasar Plot Main Rd",
+    "landmark": "Savasar Plot Main Rd",
+    "emergencyContact": "0282 223 4577",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shyam+Hospital/@22.8152272,70.8295101,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb41009c5:0x90f71eded79581e7!8m2!3d22.8152272!4d70.8295101!16s%2Fg%2F1261fzq4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shyam+Hospital/@22.8152272,70.8295101,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb41009c5:0x90f71eded79581e7!8m2!3d22.8152272!4d70.8295101!16s%2Fg%2F1261fzq4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8152272,
+      "lng": 70.8295101,
+      "label": "Shyam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-clinic-and-implant-center-best-dental-clinic-morbi-best-dental-hospital-morbi-morbi",
+    "name": "Smile Dental Clinic And Implant center best dental clinic morbi, best dental hospital morbi",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Morbi, Smile Dental Clinic And Implant center best dental clinic morbi, best dental hospital morbi delivers integrated care across Oral Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Star Plaza, complex, Sanala Rd, near poojara mobile show room, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near poojara mobile show room, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic+And+Implant+center+best+dental+clinic+morbi,+best+dental+hospital+morbi/@22.8109922,70.8266911,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdecbce1de3:0x9aac4ed4d6a22cd5!8m2!3d22.8109922!4d70.8266911!16s%2Fg%2F1263498xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Clinic+And+Implant+center+best+dental+clinic+morbi,+best+dental+hospital+morbi/@22.8109922,70.8266911,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdecbce1de3:0x9aac4ed4d6a22cd5!8m2!3d22.8109922!4d70.8266911!16s%2Fg%2F1263498xh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8109922,
+      "lng": 70.8266911,
+      "label": "Smile Dental Clinic And Implant center best dental clinic morbi, best dental hospital morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsh-children-and-neonatal-hospital-morbi",
+    "name": "SPARSH CHILDREN & NEONATAL HOSPITAL",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, SPARSH CHILDREN & NEONATAL HOSPITAL offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi and Women and Child Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0282 222 5665",
+    "alternatePhone": "",
+    "website": "http://www.sparshcare.com/",
+    "address": "Children & Dental Care Hospital, 1st Floor,Sadguru Shopping Center,, Behind Old Puja Hospital, Shanala Road,, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Shanala Road",
+    "landmark": "Sadguru Shopping Center",
+    "emergencyContact": "0282 222 5665",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SPARSH+CHILDREN+%26+NEONATAL+HOSPITAL/@22.8125204,70.8282553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd931ddb75d:0xa5a88a25fa002f2!8m2!3d22.8125204!4d70.8282553!16s%2Fg%2F11c3k2vbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SPARSH+CHILDREN+%26+NEONATAL+HOSPITAL/@22.8125204,70.8282553,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd931ddb75d:0xa5a88a25fa002f2!8m2!3d22.8125204!4d70.8282553!16s%2Fg%2F11c3k2vbb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8125204,
+      "lng": 70.8282553,
+      "label": "SPARSH CHILDREN & NEONATAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "star-hospital-morbi",
+    "name": "Star Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, Star Hospital brings together specialists for Laparoscopic Surgery In Morbi. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8, Ayodhyapuri Main Rd, opp. Madhav Hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opp. Madhav Hospital",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Star+Hospital/@22.8154337,70.8294141,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d262f8a307d:0xf87cf5328101ca2!8m2!3d22.8154337!4d70.8294141!16s%2Fg%2F11yzmk_gkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Star+Hospital/@22.8154337,70.8294141,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d262f8a307d:0xf87cf5328101ca2!8m2!3d22.8154337!4d70.8294141!16s%2Fg%2F11yzmk_gkk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8154337,
+      "lng": 70.8294141,
+      "label": "Star Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "staywell-homeo-cosmetic-clinic-morbi",
+    "name": "Staywell Homeo Cosmetic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Morbi, Staywell Homeo Cosmetic Clinic delivers integrated care across Cosmetic Surgery In Morbi. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://staywell.co.in/",
+    "address": "Opp KK Steel, 6-Vasant Plot, Sanala Rd, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sanala Rd",
+    "landmark": "Sanala Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Staywell+Homeo+Cosmetic+Clinic/@22.8143954,70.8308821,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbfce60a891:0xfb26661a6103c130!8m2!3d22.8143954!4d70.8308821!16s%2Fg%2F11v6018t0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Staywell+Homeo+Cosmetic+Clinic/@22.8143954,70.8308821,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbfce60a891:0xfb26661a6103c130!8m2!3d22.8143954!4d70.8308821!16s%2Fg%2F11v6018t0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8143954,
+      "lng": 70.8308821,
+      "label": "Staywell Homeo Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "subham-hospital-morbi",
+    "name": "Subham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Subham Hospital has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Gynecologist Surgery In Morbi. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kayeebusiness.com/morbi-subham-hospital.html",
+    "address": "Savasar Plot Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Subham+Hospital/@22.8112985,70.8266651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b93636e5:0xf4a8cbe88b2d3021!8m2!3d22.8112985!4d70.8266651!16s%2Fg%2F11qqlxgg2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Subham+Hospital/@22.8112985,70.8266651,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d55b93636e5:0xf4a8cbe88b2d3021!8m2!3d22.8112985!4d70.8266651!16s%2Fg%2F11qqlxgg2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8112985,
+      "lng": 70.8266651,
+      "label": "Subham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudeep-eye-hospital-and-laser-centre-morbi",
+    "name": "Sudeep Eye Hospital & Laser Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Sudeep Eye Hospital & Laser Centre offers coordinated hospital care with major focus on Orthopedic Surgery In Morbi. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094094 16781",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Savsar plot 11, near Bramhan samaj vadi, nr. Vraj Hospital Old bus stand, near Vraj Hospital, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "near Vraj Hospital",
+    "landmark": "near Bramhan samaj vadi, nr. Vraj Hospital Old bus stand, near Vraj Hospital, Morbi, Gujarat 363641",
+    "emergencyContact": "094094 16781",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sudeep+Eye+Hospital+%26+Laser+Centre/@22.8147648,70.8296747,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d480326e1cd:0x532e485994d136c8!8m2!3d22.8147648!4d70.8296747!16s%2Fg%2F11jqvcksq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudeep+Eye+Hospital+%26+Laser+Centre/@22.8147648,70.8296747,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d480326e1cd:0x532e485994d136c8!8m2!3d22.8147648!4d70.8296747!16s%2Fg%2F11jqvcksq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8147648,
+      "lng": 70.8296747,
+      "label": "Sudeep Eye Hospital & Laser Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sushrut-hospital-morbi-morbi",
+    "name": "Sushrut Hospital Morbi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushrut Hospital Morbi has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Urologist Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094097 74163",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd Floor, Parmeshwar Plaza, Ayush hospital street, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Ayush hospital street",
+    "emergencyContact": "094097 74163",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sushrut+Hospital+Morbi/@22.8155875,70.8291822,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb44065f3:0x26373bb6add939b5!8m2!3d22.8155875!4d70.8291822!16s%2Fg%2F11f37703mx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sushrut+Hospital+Morbi/@22.8155875,70.8291822,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdeb44065f3:0x26373bb6add939b5!8m2!3d22.8155875!4d70.8291822!16s%2Fg%2F11f37703mx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155875,
+      "lng": 70.8291822,
+      "label": "Sushrut Hospital Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tanna-clinic-morbi",
+    "name": "Tanna Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Tanna Clinic for its strength in Cosmetic Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078741 69300",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5, Shreeji Palace, Savsar Plot Rd, opp. Radhe Sonography, near Old Bus Station, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near Old Bus Station, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "078741 69300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Tanna+Clinic/@22.8165625,70.8299375,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09a87cdd:0x68179e9bd19e0a03!8m2!3d22.8165625!4d70.8299375!16s%2Fg%2F11fb0r7hqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tanna+Clinic/@22.8165625,70.8299375,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cdc09a87cdd:0x68179e9bd19e0a03!8m2!3d22.8165625!4d70.8299375!16s%2Fg%2F11fb0r7hqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8165625,
+      "lng": 70.8299375,
+      "label": "Tanna Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uic-imaging-and-diagnostics-centre-morbi-morbi",
+    "name": "UIC Imaging and Diagnostics Centre Morbi",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Morbi, UIC Imaging and Diagnostics Centre Morbi brings together specialists for Cosmetic Surgery In Morbi and Diagnostic Center. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079696 90945",
+    "alternatePhone": "",
+    "website": "https://www.usmanpuraimaging.com/imaging-centre-morbi",
+    "address": "14, behind Ashirwad hospital, opp. Janani hospital, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "opp. Janani hospital",
+    "emergencyContact": "079696 90945",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UIC+Imaging+and+Diagnostics+Centre+Morbi/@22.814167,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5dcee314a9:0xf3f6a4dff88adc0b!8m2!3d22.814167!4d70.8292791!16s%2Fg%2F11mrhmywdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UIC+Imaging+and+Diagnostics+Centre+Morbi/@22.814167,70.8292791,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d5dcee314a9:0xf3f6a4dff88adc0b!8m2!3d22.814167!4d70.8292791!16s%2Fg%2F11mrhmywdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.814167,
+      "lng": 70.8292791,
+      "label": "UIC Imaging and Diagnostics Centre Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vadaliya-morbi",
+    "name": "Vadaliya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Vadaliya for its strength in Orthopedic Surgery In Morbi. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0282 222 3500",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road 9, near ramchowk, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near ramchowk, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "0282 222 3500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vadaliya/@22.8143125,70.8295625,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0d463fe5ff:0x3f8e3eb57326f168!8m2!3d22.8143125!4d70.8295625!16s%2Fg%2F11h_tcybxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vadaliya/@22.8143125,70.8295625,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0d463fe5ff:0x3f8e3eb57326f168!8m2!3d22.8143125!4d70.8295625!16s%2Fg%2F11h_tcybxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8143125,
+      "lng": 70.8295625,
+      "label": "Vadaliya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "venus-skin-clinic-morbi",
+    "name": "Venus skin clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Venus skin clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2, Lati Plot Street No. 2, near killol hospital, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "near killol hospital, Sardar Nagar, Morbi, Gujarat 363641",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Venus+skin+clinic/@22.8126651,70.8277155,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c32294a99:0x73a10a4dc3dd922a!8m2!3d22.8126651!4d70.8277155!16s%2Fg%2F11n19101x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Venus+skin+clinic/@22.8126651,70.8277155,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d2c32294a99:0x73a10a4dc3dd922a!8m2!3d22.8126651!4d70.8277155!16s%2Fg%2F11n19101x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8126651,
+      "lng": 70.8277155,
+      "label": "Venus skin clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "verdan-hospital-morbi",
+    "name": "Verdan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Verdan Hospital for its strength in Cancer Surgery In Morbi. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063524 01899",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR8H+RXH, Savasar Plot Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "063524 01899",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Verdan+Hospital/data=!4m7!3m6!1s0x39598cdc01ba8097:0x3520d5826fdd0240!8m2!3d22.817068!4d70.8299907!16s%2Fg%2F11f55jrb67!19sChIJl4C6AdyMWTkRQALdb4LVIDU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Verdan+Hospital/data=!4m7!3m6!1s0x39598cdc01ba8097:0x3520d5826fdd0240!8m2!3d22.817068!4d70.8299907!16s%2Fg%2F11f55jrb67!19sChIJl4C6AdyMWTkRQALdb4LVIDU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.817068,
+      "lng": 70.8299907,
+      "label": "Verdan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vision-eye-hospital-morbi",
+    "name": "Vision Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Morbi often choose Vision Eye Hospital for its strength in Cosmetic Surgery In Morbi. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090337 52749",
+    "alternatePhone": "",
+    "website": "http://visioneyehospitalmorbi.com/",
+    "address": "Nakshatra Heights, behind Vodafone Store, opp. Dr. Rupala Orthopaedic Hospital, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "opp. Dr. Rupala Orthopaedic Hospital",
+    "landmark": "opp. Dr. Rupala Orthopaedic Hospital",
+    "emergencyContact": "090337 52749",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vision+Eye+Hospital/@22.8133551,70.8291615,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d34816cdedd:0x1ad797f04fddf54!8m2!3d22.8133551!4d70.8291615!16s%2Fg%2F11tjpv1_2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vision+Eye+Hospital/@22.8133551,70.8291615,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d34816cdedd:0x1ad797f04fddf54!8m2!3d22.8133551!4d70.8291615!16s%2Fg%2F11tjpv1_2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8133551,
+      "lng": 70.8291615,
+      "label": "Vision Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vraj-hospital-morbi",
+    "name": "Vraj Hospital(વ્રજ હોસ્પિટલ)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, Vraj Hospital(વ્રજ હોસ્પિટલ) offers coordinated hospital care with major focus on Cosmetic Surgery In Morbi. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0282 222 1085",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Sardar Nagar",
+    "emergencyContact": "0282 222 1085",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Vraj+Hospital(%E0%AA%B5%E0%AB%8D%E0%AA%B0%E0%AA%9C+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2)/@22.8148939,70.8297189,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94d6c49c9:0xfb7edbead8afe5eb!8m2!3d22.8148939!4d70.8297189!16s%2Fg%2F1hc4nn_7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vraj+Hospital(%E0%AA%B5%E0%AB%8D%E0%AA%B0%E0%AA%9C+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2)/@22.8148939,70.8297189,17z/data=!3m1!4b1!4m6!3m5!1s0x39598cd94d6c49c9:0xfb7edbead8afe5eb!8m2!3d22.8148939!4d70.8297189!16s%2Fg%2F1hc4nn_7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8148939,
+      "lng": 70.8297189,
+      "label": "Vraj Hospital(વ્રજ હોસ્પિટલ)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yatharth-ayurveda-clinic-and-panchakarma-centre-morbi",
+    "name": "Yatharth Ayurveda clinic and Panchakarma Centre",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted ayurvedic clinic in Morbi, Yatharth Ayurveda clinic and Panchakarma Centre delivers integrated care across Cosmetic Surgery In Morbi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Capital market, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Yatharth+Ayurveda+clinic+and+Panchakarma+Centre/@22.7986187,70.8263868,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000e8fb21b:0xfb95e7030f622877!8m2!3d22.7986187!4d70.8263868!16s%2Fg%2F11m6fm8xns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yatharth+Ayurveda+clinic+and+Panchakarma+Centre/@22.7986187,70.8263868,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d000e8fb21b:0xfb95e7030f622877!8m2!3d22.7986187!4d70.8263868!16s%2Fg%2F11m6fm8xns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7986187,
+      "lng": 70.8263868,
+      "label": "Yatharth Ayurveda clinic and Panchakarma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi",
+    "name": "જનની ગાયનેક હોસ્પિટલ",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "જનની ગાયનેક હોસ્પિટલ has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Morbi. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083205 27161",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Morbi",
+    "emergencyContact": "083205 27161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AA%A8%E0%AA%A8%E0%AB%80+%E0%AA%97%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AB%87%E0%AA%95+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8140557,70.8291595,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4dac7a93c9:0x66d3bfbfd2bfe737!8m2!3d22.8140557!4d70.8291595!16s%2Fg%2F11fk1dg7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%AA%9C%E0%AA%A8%E0%AA%A8%E0%AB%80+%E0%AA%97%E0%AA%BE%E0%AA%AF%E0%AA%A8%E0%AB%87%E0%AA%95+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8140557,70.8291595,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4dac7a93c9:0x66d3bfbfd2bfe737!8m2!3d22.8140557!4d70.8291595!16s%2Fg%2F11fk1dg7xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8140557,
+      "lng": 70.8291595,
+      "label": "જનની ગાયનેક હોસ્પિટલ",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi",
+    "name": "જીવનદીપ ક્લિનિક ડો.રક્ષા પટેલ",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Morbi, જીવનદીપ ક્લિનિક ડો.રક્ષા પટેલ delivers integrated care across Liver Transplant Surgery In Morbi. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097122 10332",
+    "alternatePhone": "",
+    "website": "",
+    "address": "104, Kohinoor Complex, 37, Ravapar Kenal Road, Chokdi, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Chokdi",
+    "landmark": "37",
+    "emergencyContact": "097122 10332",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%80%E0%AA%B5%E0%AA%A8%E0%AA%A6%E0%AB%80%E0%AA%AA+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%BF%E0%AA%95+%E0%AA%A1%E0%AB%8B.%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE+%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/@22.7991206,70.826533,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0029c75767:0xd3f78a7cc3cfaf61!8m2!3d22.7991206!4d70.826533!16s%2Fg%2F11y3rj4p8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%80%E0%AA%B5%E0%AA%A8%E0%AA%A6%E0%AB%80%E0%AA%AA+%E0%AA%95%E0%AB%8D%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%BF%E0%AA%95+%E0%AA%A1%E0%AB%8B.%E0%AA%B0%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%BE+%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/@22.7991206,70.826533,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d0029c75767:0xd3f78a7cc3cfaf61!8m2!3d22.7991206!4d70.826533!16s%2Fg%2F11y3rj4p8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7991206,
+      "lng": 70.826533,
+      "label": "જીવનદીપ ક્લિનિક ડો.રક્ષા પટેલ",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi",
+    "name": "જુના ગુ.હા.બોર્ડ આંગણ વાડી (પહેલો બુધવાર)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "જુના ગુ.હા.બોર્ડ આંગણ વાડી (પહેલો બુધવાર) has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Morbi. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RRGM+RM4, Visipara, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Visipara",
+    "landmark": "Morbi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%81%E0%AA%A8%E0%AA%BE+%E0%AA%97%E0%AB%81.%E0%AA%B9%E0%AA%BE.%E0%AA%AC%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%A1+%E0%AA%86%E0%AA%82%E0%AA%97%E0%AA%A3+%E0%AA%B5%E0%AA%BE%E0%AA%A1%E0%AB%80+(%E0%AA%AA%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8B+%E0%AA%AC%E0%AB%81%E0%AA%A7%E0%AA%B5%E0%AA%BE%E0%AA%B0)/@22.8270198,70.8342156,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d86eb603f31:0xdc40e26b92a4e564!8m2!3d22.8270198!4d70.8342156!16s%2Fg%2F11j4sqpjzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%AA%9C%E0%AB%81%E0%AA%A8%E0%AA%BE+%E0%AA%97%E0%AB%81.%E0%AA%B9%E0%AA%BE.%E0%AA%AC%E0%AB%8B%E0%AA%B0%E0%AB%8D%E0%AA%A1+%E0%AA%86%E0%AA%82%E0%AA%97%E0%AA%A3+%E0%AA%B5%E0%AA%BE%E0%AA%A1%E0%AB%80+(%E0%AA%AA%E0%AA%B9%E0%AB%87%E0%AA%B2%E0%AB%8B+%E0%AA%AC%E0%AB%81%E0%AA%A7%E0%AA%B5%E0%AA%BE%E0%AA%B0)/@22.8270198,70.8342156,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d86eb603f31:0xdc40e26b92a4e564!8m2!3d22.8270198!4d70.8342156!16s%2Fg%2F11j4sqpjzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8270198,
+      "lng": 70.8342156,
+      "label": "જુના ગુ.હા.બોર્ડ આંગણ વાડી (પહેલો બુધવાર)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi",
+    "name": "મંત્ર એકયુ પંચર",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "મંત્ર એકયુ પંચર has built a strong reputation in Morbi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Morbi. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QRVG+3JP, Vidhyut Nagar, Ravapar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Ravapar",
+    "landmark": "Ravapar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0+%E0%AA%8F%E0%AA%95%E0%AA%AF%E0%AB%81+%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%B0/@22.7927132,70.8265702,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4275bd5333:0x13988e80cc436f45!8m2!3d22.7927132!4d70.8265702!16s%2Fg%2F11l5vbpkfs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%AA%AE%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0+%E0%AA%8F%E0%AA%95%E0%AA%AF%E0%AB%81+%E0%AA%AA%E0%AA%82%E0%AA%9A%E0%AA%B0/@22.7927132,70.8265702,17z/data=!3m1!4b1!4m6!3m5!1s0x39598d4275bd5333:0x13988e80cc436f45!8m2!3d22.7927132!4d70.8265702!16s%2Fg%2F11l5vbpkfs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7927132,
+      "lng": 70.8265702,
+      "label": "મંત્ર એકયુ પંચર",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morbi",
+    "name": "લાઇફ લાઇન હોસ્પિટલ",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, લાઇફ લાઇન હોસ્પિટલ offers coordinated hospital care with major focus on Liver Transplant Surgery In Morbi. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RR8J+C2Q, Savasar Plot Main Rd, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "Savsar Plot",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%AB+%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%A8+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8160927,70.8301211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbb1be4c125:0xe80162da483db57e!8m2!3d22.8160927!4d70.8301211!16s%2Fg%2F11h5_t83pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%AB+%E0%AA%B2%E0%AA%BE%E0%AA%87%E0%AA%A8+%E0%AA%B9%E0%AB%8B%E0%AA%B8%E0%AB%8D%E0%AA%AA%E0%AA%BF%E0%AA%9F%E0%AA%B2/@22.8160927,70.8301211,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dbb1be4c125:0xe80162da483db57e!8m2!3d22.8160927!4d70.8301211!16s%2Fg%2F11h5_t83pv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8160927,
+      "lng": 70.8301211,
+      "label": "લાઇફ લાઇન હોસ્પિટલ",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-clinic-in-morbi-morbi",
+    "name": "✅ 𝗠𝗮𝗿𝘃𝗮𝗻𝗶𝘆𝗮 𝗗𝗲𝗻𝘁𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Dental Clinic in Morbi",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Morbi, ✅ 𝗠𝗮𝗿𝘃𝗮𝗻𝗶𝘆𝗮 𝗗𝗲𝗻𝘁𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Dental Clinic in Morbi offers coordinated hospital care with major focus on Oral Surgery In Morbi. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097269 20067",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, Savsar Plot Rd, above City Union Bank, Savsar Plot, Sardar Nagar, Morbi, Gujarat 363641",
+    "city": "Morbi",
+    "state": "Gujarat",
+    "pincode": "363641",
+    "locality": "Sardar Nagar",
+    "landmark": "above City Union Bank",
+    "emergencyContact": "097269 20067",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Morbi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Dental+Clinic+in+Morbi/@22.8155764,70.829899,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd829e535cd:0x50220bf5311958cb!8m2!3d22.8155764!4d70.829899!16s%2Fg%2F11r9fgqxyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B6%F0%9D%98%86%F0%9D%97%AE+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Dental+Clinic+in+Morbi/@22.8155764,70.829899,17z/data=!3m1!4b1!4m6!3m5!1s0x39598dd829e535cd:0x50220bf5311958cb!8m2!3d22.8155764!4d70.829899!16s%2Fg%2F11r9fgqxyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8155764,
+      "lng": 70.829899,
+      "label": "✅ 𝗠𝗮𝗿𝘃𝗮𝗻𝗶𝘆𝗮 𝗗𝗲𝗻𝘁𝗮𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Dental Clinic in Morbi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

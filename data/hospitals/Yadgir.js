@@ -1,0 +1,3398 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aashirwad-hospital-yadgiri",
+    "name": "Aashirwad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Aashirwad Hospital for its strength in Kidney Transplant Surgery In Yadgir. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084732 50331",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Amar layout, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Amar layout",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "084732 50331",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Aashirwad+Hospital/data=!4m7!3m6!1s0x3bc853b06a51563f:0x146c8925422f83a6!8m2!3d16.7527169!4d77.1353854!16s%2Fg%2F1hm4tjgxl!19sChIJP1ZRarBTyDsRpoMvQiWJbBQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aashirwad+Hospital/data=!4m7!3m6!1s0x3bc853b06a51563f:0x146c8925422f83a6!8m2!3d16.7527169!4d77.1353854!16s%2Fg%2F1hm4tjgxl!19sChIJP1ZRarBTyDsRpoMvQiWJbBQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7527169,
+      "lng": 77.1353854,
+      "label": "Aashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "absolute-dental-care-best-dental-clinic-yadgir-yadgiri",
+    "name": "Absolute Dental Care | Best Dental Clinic Yadgir",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Yadgiri, Absolute Dental Care | Best Dental Clinic Yadgir delivers integrated care across Oral Surgery In Yadgir. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096323 64683",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Anand complex, beside station bazar school, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "beside station bazar school",
+    "landmark": "beside station bazar school, Yadgiri, Karnataka 585202",
+    "emergencyContact": "096323 64683",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Absolute+Dental+Care+%7C+Best+Dental+Clinic+Yadgir/data=!4m7!3m6!1s0x3bc85d5c88974da5:0xfcf9cfa657c55e1!8m2!3d16.7494922!4d77.1317862!16s%2Fg%2F11tnbbmqtw!19sChIJpU2XiFxdyDsR4VV8Zfqczw8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Absolute+Dental+Care+%7C+Best+Dental+Clinic+Yadgir/data=!4m7!3m6!1s0x3bc85d5c88974da5:0xfcf9cfa657c55e1!8m2!3d16.7494922!4d77.1317862!16s%2Fg%2F11tnbbmqtw!19sChIJpU2XiFxdyDsR4VV8Zfqczw8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7494922,
+      "lng": 77.1317862,
+      "label": "Absolute Dental Care | Best Dental Clinic Yadgir",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "belly-dental-care-best-dental-clinic-yadgir-beside-rathnam-school",
+    "name": "Belly Dental Care |best dental clinic , yadgir|",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Belly Dental Care |best dental clinic , yadgir| has built a strong reputation in beside Rathnam school for multidisciplinary treatment pathways covering Oral Surgery In Yadgir. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095380 97438",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hosalli cross, Hyd road, beside Rathnam school, Karnataka 585202",
+    "city": "beside Rathnam school",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Hyd road",
+    "landmark": "beside Rathnam school, Karnataka 585202",
+    "emergencyContact": "095380 97438",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Belly+Dental+Care+%7Cbest+dental+clinic+,+yadgir%7C/data=!4m7!3m6!1s0x3bc8533d93590d9f:0xe3432fe1f808c78e!8m2!3d16.7521688!4d77.1427075!16s%2Fg%2F11trxfjsxz!19sChIJnw1Zkz1TyDsRjscI-OEvQ-M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Belly+Dental+Care+%7Cbest+dental+clinic+,+yadgir%7C/data=!4m7!3m6!1s0x3bc8533d93590d9f:0xe3432fe1f808c78e!8m2!3d16.7521688!4d77.1427075!16s%2Fg%2F11trxfjsxz!19sChIJnw1Zkz1TyDsRjscI-OEvQ-M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7521688,
+      "lng": 77.1427075,
+      "label": "Belly Dental Care |best dental clinic , yadgir|",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "girish-hospital-yadgir-yadgiri",
+    "name": "Girish Hospital Yadgir",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yadgiri, Girish Hospital Yadgir brings together specialists for Kidney Transplant Surgery In Yadgir. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Railway, Yadgir Station Rd, above Kaveri Saree Centre, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "above Kaveri Saree Centre",
+    "landmark": "above Kaveri Saree Centre",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Girish+Hospital+Yadgir/data=!4m7!3m6!1s0x3bc85388567a43e3:0x8f6c48f6e4d3f47d!8m2!3d16.747794!4d77.1328578!16s%2Fg%2F11s179hkq7!19sChIJ40N6VohTyDsRffTT5PZIbI8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Girish+Hospital+Yadgir/data=!4m7!3m6!1s0x3bc85388567a43e3:0x8f6c48f6e4d3f47d!8m2!3d16.747794!4d77.1328578!16s%2Fg%2F11s179hkq7!19sChIJ40N6VohTyDsRffTT5PZIbI8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.747794,
+      "lng": 77.1328578,
+      "label": "Girish Hospital Yadgir",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laser-veda-kalmani-healthcare-foundation-yadgir-k-rural",
+    "name": "LASER VEDA KALMANI HEALTHCARE FOUNDATION",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LASER VEDA KALMANI HEALTHCARE FOUNDATION is a prominent dental clinic in Yadgir K Rural, known for structured tertiary care across Oral Surgery In Yadgir. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099168 59154",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q4CR+HF4, Chakar Katta Rd, Yadgiri, Yadgir K Rural, Karnataka 585201",
+    "city": "Yadgir K Rural",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Yadgiri",
+    "landmark": "Yadgiri",
+    "emergencyContact": "099168 59154",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/LASER+VEDA+KALMANI+HEALTHCARE+FOUNDATION/data=!4m7!3m6!1s0x3bc8539960e81947:0x3b43a3e4d71f2cb2!8m2!3d16.7713985!4d77.1411956!16s%2Fg%2F11l6tm9xn2!19sChIJRxnoYJlTyDsRsiwf1-SjQzs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/LASER+VEDA+KALMANI+HEALTHCARE+FOUNDATION/data=!4m7!3m6!1s0x3bc8539960e81947:0x3b43a3e4d71f2cb2!8m2!3d16.7713985!4d77.1411956!16s%2Fg%2F11l6tm9xn2!19sChIJRxnoYJlTyDsRsiwf1-SjQzs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7713985,
+      "lng": 77.1411956,
+      "label": "LASER VEDA KALMANI HEALTHCARE FOUNDATION",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-line-hospital-yadgir-k-rural",
+    "name": "Life Line Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgir K Rural often choose Life Line Hospital for its strength in Kidney Transplant Surgery In Yadgir. Its infrastructure includes Google rating 3.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q48J+543, Aqsa Colony, Yadgiri, Yadgir K Rural, Karnataka 585201",
+    "city": "Yadgir K Rural",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Yadgiri",
+    "landmark": "Yadgiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Line+Hospital/data=!4m7!3m6!1s0x3bc85395f6f72437:0x5b6b02608c4c851f!8m2!3d16.7653955!4d77.1303052!16s%2Fg%2F124ycd54x!19sChIJNyT39pVTyDsRH4VMjGACa1s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Line+Hospital/data=!4m7!3m6!1s0x3bc85395f6f72437:0x5b6b02608c4c851f!8m2!3d16.7653955!4d77.1303052!16s%2Fg%2F124ycd54x!19sChIJNyT39pVTyDsRH4VMjGACa1s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7653955,
+      "lng": 77.1303052,
+      "label": "Life Line Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahadev-skin-hair-and-cosmetology-clinic-yadgiri",
+    "name": "Mahadev skin, hair and cosmetology clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Mahadev skin, hair and cosmetology clinic for its strength in Plastic Surgery In Yadgir. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rural Police, Station Road, opposite DMC Bar, near chauhan hospital, Valmiki Nagar, Yadgiri, Karnataka 585201",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Valmiki Nagar",
+    "landmark": "near chauhan hospital, Valmiki Nagar, Yadgiri, Karnataka 585201",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mahadev+skin,+hair+and+cosmetology+clinic/data=!4m7!3m6!1s0x3bc853279c25afdf:0xa1a069575f382946!8m2!3d16.7568295!4d77.1295029!16s%2Fg%2F11ww2dj72h!19sChIJ368lnCdTyDsRRik4X1dpoKE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahadev+skin,+hair+and+cosmetology+clinic/data=!4m7!3m6!1s0x3bc853279c25afdf:0xa1a069575f382946!8m2!3d16.7568295!4d77.1295029!16s%2Fg%2F11ww2dj72h!19sChIJ368lnCdTyDsRRik4X1dpoKE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7568295,
+      "lng": 77.1295029,
+      "label": "Mahadev skin, hair and cosmetology clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mailaralingeshwara-dental-clinic-yadgiri",
+    "name": "Mailaralingeshwara dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Yadgiri, Mailaralingeshwara dental clinic delivers integrated care across Oral Surgery In Yadgir. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093537 28645",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Mohanrao complex, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Mohanrao complex",
+    "landmark": "Yadgiri",
+    "emergencyContact": "093537 28645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mailaralingeshwara+dental+clinic/data=!4m7!3m6!1s0x3bc85310727d5edd:0xe72e74f6a0ffdd00!8m2!3d16.7488912!4d77.1308913!16s%2Fg%2F11y8k3n4gl!19sChIJ3V59chBTyDsRAN3_oPZ0Luc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mailaralingeshwara+dental+clinic/data=!4m7!3m6!1s0x3bc85310727d5edd:0xe72e74f6a0ffdd00!8m2!3d16.7488912!4d77.1308913!16s%2Fg%2F11y8k3n4gl!19sChIJ3V59chBTyDsRAN3_oPZ0Luc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7488912,
+      "lng": 77.1308913,
+      "label": "Mailaralingeshwara dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maya-skin-care-yadgiri",
+    "name": "Maya Skin Care",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Maya Skin Care for its strength in Plastic Surgery In Yadgir. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "1",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maya+Skin+Care/data=!4m7!3m6!1s0x3bc853af6b54bb1f:0x1b717c7d9dd16e0a!8m2!3d16.7528564!4d77.1409857!16s%2Fg%2F11l663hyv4!19sChIJH7tUa69TyDsRCm7RnX18cRs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maya+Skin+Care/data=!4m7!3m6!1s0x3bc853af6b54bb1f:0x1b717c7d9dd16e0a!8m2!3d16.7528564!4d77.1409857!16s%2Fg%2F11l663hyv4!19sChIJH7tUa69TyDsRCm7RnX18cRs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7528564,
+      "lng": 77.1409857,
+      "label": "Maya Skin Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naikodi-dental-clinic-yadgiri",
+    "name": "Naikodi Dental Clinic",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted orthodontist in Yadgiri, Naikodi Dental Clinic delivers integrated care across Oral Surgery In Yadgir, Orthodontist, and Orthopaedics. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063634 16467",
+    "alternatePhone": "",
+    "website": "",
+    "address": "DSG Complex, Amar layout, Basaweshwara Kalyana Mantapa Road, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Basaweshwara Kalyana Mantapa Road",
+    "landmark": "Basaweshwara Kalyana Mantapa Road",
+    "emergencyContact": "063634 16467",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Naikodi+Dental+Clinic/data=!4m7!3m6!1s0x3bc853f97b858ea3:0x98d15e54c0ec3cdc!8m2!3d16.7533878!4d77.1348152!16s%2Fg%2F11g4lpnqt6!19sChIJo46Fe_lTyDsR3DzswFRe0Zg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naikodi+Dental+Clinic/data=!4m7!3m6!1s0x3bc853f97b858ea3:0x98d15e54c0ec3cdc!8m2!3d16.7533878!4d77.1348152!16s%2Fg%2F11g4lpnqt6!19sChIJo46Fe_lTyDsR3DzswFRe0Zg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7533878,
+      "lng": 77.1348152,
+      "label": "Naikodi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naikodi-s-ent-speciality-hospital-yadgiri",
+    "name": "Naikodi's ENT Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Naikodi's ENT Speciality Hospital for its strength in Oral Surgery In Yadgir and Speciality Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088677 34257",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Laxmi Temple, Road, Gulsaram, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Gulsaram",
+    "landmark": "Gulsaram",
+    "emergencyContact": "088677 34257",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Naikodi%27s+ENT+Speciality+Hospital/data=!4m7!3m6!1s0x3bc8533bb824f8e9:0x3cd3bcf9e386ffd5!8m2!3d16.7533767!4d77.1347892!16s%2Fg%2F11rkgmjms0!19sChIJ6fgkuDtTyDsR1f-G4_m80zw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naikodi%27s+ENT+Speciality+Hospital/data=!4m7!3m6!1s0x3bc8533bb824f8e9:0x3cd3bcf9e386ffd5!8m2!3d16.7533767!4d77.1347892!16s%2Fg%2F11rkgmjms0!19sChIJ6fgkuDtTyDsR1f-G4_m80zw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7533767,
+      "lng": 77.1347892,
+      "label": "Naikodi's ENT Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patil-skin-clinic-yadgiri",
+    "name": "Patil skin clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Yadgiri, Patil skin clinic delivers integrated care across Cosmetic Surgery In Yadgir. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SVL Saidapur Hospital, near Basaveshwara kalyana mantapa, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "near Basaveshwara kalyana mantapa",
+    "landmark": "near Basaveshwara kalyana mantapa, Yadgiri, Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Patil+skin+clinic/data=!4m7!3m6!1s0x3bc8530028ac9d97:0xa6a1a9f1a689b8b8!8m2!3d16.7532103!4d77.1350426!16s%2Fg%2F11y8kmxs7y!19sChIJl52sKABTyDsRuLiJpvGpoaY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patil+skin+clinic/data=!4m7!3m6!1s0x3bc8530028ac9d97:0xa6a1a9f1a689b8b8!8m2!3d16.7532103!4d77.1350426!16s%2Fg%2F11y8kmxs7y!19sChIJl52sKABTyDsRuLiJpvGpoaY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7532103,
+      "lng": 77.1350426,
+      "label": "Patil skin clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "plaza-dental-care-beside-maragamma-gudi",
+    "name": "PLAZA DENTAL CARE",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in beside maragamma gudi often choose PLAZA DENTAL CARE for its strength in Oral Surgery In Yadgir. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 92089",
+    "alternatePhone": "",
+    "website": "",
+    "address": "plaza dental care, opp. kere katte(talab katta), ambedkar chowk, beside maragamma gudi, Karnataka 585201",
+    "city": "beside maragamma gudi",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "ambedkar chowk",
+    "landmark": "beside maragamma gudi, Karnataka 585201",
+    "emergencyContact": "088671 92089",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/PLAZA+DENTAL+CARE/data=!4m7!3m6!1s0x3bc8533ceb3900f1:0x9dbc5fef5f7ce7e3!8m2!3d16.759042!4d77.1369188!16s%2Fg%2F1yg4d_mpm!19sChIJ8QA56zxTyDsR4-d8X-9fvJ0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PLAZA+DENTAL+CARE/data=!4m7!3m6!1s0x3bc8533ceb3900f1:0x9dbc5fef5f7ce7e3!8m2!3d16.759042!4d77.1369188!16s%2Fg%2F1yg4d_mpm!19sChIJ8QA56zxTyDsR4-d8X-9fvJ0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.759042,
+      "lng": 77.1369188,
+      "label": "PLAZA DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prakruthi-dental-care-govt-hospital-road-yadgir-58502",
+    "name": "PRAKRUTHI DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Govt Hospital Road Yadgir-58502, PRAKRUTHI DENTAL CARE offers coordinated hospital care with major focus on Oral Surgery In Yadgir. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099008 32516",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zilla Kannada Sahitya Parishadh, Govt Hospital Road Yadgir-58502, Karnataka 585202",
+    "city": "Govt Hospital Road Yadgir-58502",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Zilla Kannada Sahitya Parishadh",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "099008 32516",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/PRAKRUTHI+DENTAL+CARE/@16.7531642,77.1376973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc85348603d89bb:0xc9f331c28440d326!8m2!3d16.7531642!4d77.1376973!16s%2Fg%2F11q8t4618r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRAKRUTHI+DENTAL+CARE/@16.7531642,77.1376973,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc85348603d89bb:0xc9f331c28440d326!8m2!3d16.7531642!4d77.1376973!16s%2Fg%2F11q8t4618r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7531642,
+      "lng": 77.1376973,
+      "label": "PRAKRUTHI DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sagri-skin-care-yadgiri",
+    "name": "SAGRI SKIN CARE",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Yadgiri, SAGRI SKIN CARE delivers integrated care across Cosmetic Surgery In Yadgir. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063624 66389",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Imran complex, Hyderabad Main Rd, opp. New Bus Stand, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "opp. New Bus Stand",
+    "landmark": "Hyderabad Main Rd",
+    "emergencyContact": "063624 66389",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SAGRI+SKIN+CARE/data=!4m7!3m6!1s0x3bc8530066846c71:0x78c99a09c5b2abc0!8m2!3d16.7486041!4d77.1373719!16s%2Fg%2F11w9j3q3ds!19sChIJcWyEZgBTyDsRwKuyxQmayXg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAGRI+SKIN+CARE/data=!4m7!3m6!1s0x3bc8530066846c71:0x78c99a09c5b2abc0!8m2!3d16.7486041!4d77.1373719!16s%2Fg%2F11w9j3q3ds!19sChIJcWyEZgBTyDsRwKuyxQmayXg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7486041,
+      "lng": 77.1373719,
+      "label": "SAGRI SKIN CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sajjalashree-dental-clinic-hyderabad-road",
+    "name": "Sajjalashree Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad Road, Sajjalashree Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Yadgir. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sajjalashree Hospital Station area, Hyderabad Road, Karnataka 585202",
+    "city": "Hyderabad Road",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Sajjalashree Hospital Station area",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Sajjalashree+Dental+Clinic/@16.7475853,77.1366585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8536439ffddb9:0xd37e6d7d12c8f61d!8m2!3d16.7475853!4d77.1366585!16s%2Fg%2F11p7111smb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sajjalashree+Dental+Clinic/@16.7475853,77.1366585,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8536439ffddb9:0xd37e6d7d12c8f61d!8m2!3d16.7475853!4d77.1366585!16s%2Fg%2F11p7111smb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7475853,
+      "lng": 77.1366585,
+      "label": "Sajjalashree Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sajjalashree-hospital-yadgiri",
+    "name": "Sajjalashree Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Yadgiri, Sajjalashree Hospital brings together specialists for Kidney Transplant Surgery In Yadgir. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "P4XP+2MM, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sajjalashree+Hospital/data=!4m7!3m6!1s0x3bc853b20609eb97:0x8cf60e41c4c168f9!8m2!3d16.7475816!4d77.1366566!16s%2Fg%2F1hc16bdtv!19sChIJl-sJBrJTyDsR-WjBxEEO9ow?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sajjalashree+Hospital/data=!4m7!3m6!1s0x3bc853b20609eb97:0x8cf60e41c4c168f9!8m2!3d16.7475816!4d77.1366566!16s%2Fg%2F1hc16bdtv!19sChIJl-sJBrJTyDsR-WjBxEEO9ow?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7475816,
+      "lng": 77.1366566,
+      "label": "Sajjalashree Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevini-dental-care-opposite-veterinary-hospital",
+    "name": "SANJEEVINI DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in opposite veterinary hospital, SANJEEVINI DENTAL CARE brings together specialists for Oral Surgery In Yadgir. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078296 93777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Railway station road Beside SBI ADB, opposite veterinary hospital, Karnataka 585202",
+    "city": "opposite veterinary hospital",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "Railway station road Beside SBI ADB",
+    "landmark": "Beside SBI ADB, opposite veterinary hospital, Karnataka 585202",
+    "emergencyContact": "078296 93777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SANJEEVINI+DENTAL+CARE/data=!4m7!3m6!1s0x3bc85335b25d57a5:0x7e061cb1fe60cd1!8m2!3d16.7475841!4d77.1323019!16s%2Fg%2F11fgm200s9!19sChIJpVddsjVTyDsR0QzmH8th4Ac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANJEEVINI+DENTAL+CARE/data=!4m7!3m6!1s0x3bc85335b25d57a5:0x7e061cb1fe60cd1!8m2!3d16.7475841!4d77.1323019!16s%2Fg%2F11fgm200s9!19sChIJpVddsjVTyDsR0QzmH8th4Ac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7475841,
+      "lng": 77.1323019,
+      "label": "SANJEEVINI DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saudagar-hospital-dr-zakir-husain-chowk",
+    "name": "Saudagar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dr Zakir Husain Chowk often choose Saudagar Hospital for its strength in Kidney Transplant Surgery In Yadgir. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr Zakir Husain Chowk, Karnataka 585202",
+    "city": "Dr Zakir Husain Chowk",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Saudagar+Hospital/data=!4m7!3m6!1s0x3bc853afefec0a75:0x3fea6f9511af0a49!8m2!3d16.7533663!4d77.1379928!16s%2Fg%2F1hm6dmxtk!19sChIJdQrs769TyDsRSQqvEZVv6j8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saudagar+Hospital/data=!4m7!3m6!1s0x3bc853afefec0a75:0x3fea6f9511af0a49!8m2!3d16.7533663!4d77.1379928!16s%2Fg%2F1hm6dmxtk!19sChIJdQrs769TyDsRSQqvEZVv6j8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7533663,
+      "lng": 77.1379928,
+      "label": "Saudagar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shankarappagouda-hospital-and-eye-care-yadgiri",
+    "name": "Shankarappagouda hospital and eye care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Yadgiri, Shankarappagouda hospital and eye care delivers integrated care across Kidney Transplant Surgery In Yadgir. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "063661 72690",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SH 15, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "SH 15",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "063661 72690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shankarappagouda+hospital+and+eye+care/@16.7525552,77.1359443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853cefa8540a9:0xe68806276dfdd2a3!8m2!3d16.7525552!4d77.1359443!16s%2Fg%2F11fwbcs45g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shankarappagouda+hospital+and+eye+care/@16.7525552,77.1359443,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853cefa8540a9:0xe68806276dfdd2a3!8m2!3d16.7525552!4d77.1359443!16s%2Fg%2F11fwbcs45g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7525552,
+      "lng": 77.1359443,
+      "label": "Shankarappagouda hospital and eye care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-sugureshwar-hospital-g-m-mooknoor-complex-yadgiri",
+    "name": "Shri Sugureshwar Hospital G M Mooknoor Complex",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Yadgiri, Shri Sugureshwar Hospital G M Mooknoor Complex offers coordinated hospital care with major focus on Spine Surgery In Yadgir. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "circle, Near Gunj, Yadgiri, Karnataka 585201",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Near Gunj",
+    "landmark": "Near Gunj, Yadgiri, Karnataka 585201",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Sugureshwar+Hospital+G+M+Mooknoor+Complex/data=!4m7!3m6!1s0x3bc853667cba3a61:0x3d18908637275164!8m2!3d16.7649642!4d77.1518967!16s%2Fg%2F11ghznfgd4!19sChIJYTq6fGZTyDsRZFEnN4aQGD0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Sugureshwar+Hospital+G+M+Mooknoor+Complex/data=!4m7!3m6!1s0x3bc853667cba3a61:0x3d18908637275164!8m2!3d16.7649642!4d77.1518967!16s%2Fg%2F11ghznfgd4!19sChIJYTq6fGZTyDsRZFEnN4aQGD0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7649642,
+      "lng": 77.1518967,
+      "label": "Shri Sugureshwar Hospital G M Mooknoor Complex",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sm-care-hospital-yadgir-k-rural",
+    "name": "SM Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SM Care Hospital has built a strong reputation in Yadgir K Rural for multidisciplinary treatment pathways covering Liver Transplant Surgery In Yadgir. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q48J+C77, Aqsa Colony, Yadgiri, Yadgir K Rural, Karnataka 585201",
+    "city": "Yadgir K Rural",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Yadgiri",
+    "landmark": "Yadgiri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/SM+Care+Hospital/data=!4m7!3m6!1s0x3bc85395f00aa7d1:0x8559e8b498cd1df8!8m2!3d16.7660267!4d77.1306789!16s%2Fg%2F11f_j9bfwz!19sChIJ0acK8JVTyDsR-B3NmLToWYU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SM+Care+Hospital/data=!4m7!3m6!1s0x3bc85395f00aa7d1:0x8559e8b498cd1df8!8m2!3d16.7660267!4d77.1306789!16s%2Fg%2F11f_j9bfwz!19sChIJ0acK8JVTyDsR-B3NmLToWYU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7660267,
+      "lng": 77.1306789,
+      "label": "SM Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-solutions-dental-clinic-yadgir-k-rural",
+    "name": "Smile Solutions dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Yadgir K Rural, Smile Solutions dental clinic delivers integrated care across Oral Surgery In Yadgir. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, NAM complex, Gandhi Chowk, Yadgiri, Yadgir K Rural, Karnataka 585201",
+    "city": "Yadgir K Rural",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Yadgiri",
+    "landmark": "Gandhi Chowk",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Solutions+dental+clinic/data=!4m7!3m6!1s0x3bc853693e2e3179:0xeb265e249735d7fb!8m2!3d16.7715881!4d77.137279!16s%2Fg%2F11tp3tbxrv!19sChIJeTEuPmlTyDsR-9c1lyReJus?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Solutions+dental+clinic/data=!4m7!3m6!1s0x3bc853693e2e3179:0xeb265e249735d7fb!8m2!3d16.7715881!4d77.137279!16s%2Fg%2F11tp3tbxrv!19sChIJeTEuPmlTyDsR-9c1lyReJus?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7715881,
+      "lng": 77.137279,
+      "label": "Smile Solutions dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vijay-clinic-yadgiri",
+    "name": "Vijay Clinic",
+    "type": "General Practitioner",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general practitioner in Yadgiri, Vijay Clinic delivers integrated care across Neurosurgeon In Yadgir and General Practitioner. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063609 20488",
+    "alternatePhone": "",
+    "website": "",
+    "address": "P4XP+46P, Vivekananda Nagar, near Lic Office, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "near Lic Office",
+    "landmark": "near Lic Office, Yadgiri, Karnataka 585202",
+    "emergencyContact": "063609 20488",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Yadgir",
+      "General Practitioner"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x3bc853b217733c55:0x6121358a97ca7319!8m2!3d16.7478311!4d77.1355673!16s%2Fg%2F11bv1lkbsq!19sChIJVTxzF7JTyDsRGXPKl4o1IWE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vijay+Clinic/data=!4m7!3m6!1s0x3bc853b217733c55:0x6121358a97ca7319!8m2!3d16.7478311!4d77.1355673!16s%2Fg%2F11bv1lkbsq!19sChIJVTxzF7JTyDsRGXPKl4o1IWE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7478311,
+      "lng": 77.1355673,
+      "label": "Vijay Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "wellcare-hospital-yadgir-k-rural",
+    "name": "Wellcare hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Wellcare hospital is a prominent hospital in Yadgir K Rural, known for structured tertiary care across Kidney Transplant Surgery In Yadgir. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090199 90551",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q48J+9X6, opp. Govt Junior College, Aqsa Colony, Yadgiri, Yadgir K Rural, Karnataka 585201",
+    "city": "Yadgir K Rural",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Yadgiri",
+    "landmark": "Aqsa Colony",
+    "emergencyContact": "090199 90551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Wellcare+hospital/@16.7657701,77.1319621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8533c7906a9a7:0x2a15ee63820e0106!8m2!3d16.7657701!4d77.1319621!16s%2Fg%2F11tsmfytv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Wellcare+hospital/@16.7657701,77.1319621,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc8533c7906a9a7:0x2a15ee63820e0106!8m2!3d16.7657701!4d77.1319621!16s%2Fg%2F11tsmfytv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7657701,
+      "lng": 77.1319621,
+      "label": "Wellcare hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yadgir-dental-hospital-1st-floor",
+    "name": "Yadgir dental hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in 1st floor, Yadgir dental hospital delivers integrated care across Oral Surgery In Yadgir. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NAM complex, 1st floor, Karnataka 585201",
+    "city": "1st floor",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "NAM complex",
+    "landmark": "Karnataka 585201",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Yadgir+dental+hospital/data=!4m7!3m6!1s0x3bc85357bc5b45b3:0xd92c9c9e728b48b7!8m2!3d16.7714851!4d77.1371918!16s%2Fg%2F11s3qbwj6h!19sChIJs0VbvFdTyDsRt0iLcp6cLNk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yadgir+dental+hospital/data=!4m7!3m6!1s0x3bc85357bc5b45b3:0xd92c9c9e728b48b7!8m2!3d16.7714851!4d77.1371918!16s%2Fg%2F11s3qbwj6h!19sChIJs0VbvFdTyDsRt0iLcp6cLNk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7714851,
+      "lng": 77.1371918,
+      "label": "Yadgir dental hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yadgir-government-hospital-yadgiri",
+    "name": "Yadgir Government Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Yadgir Government Hospital for its strength in Kidney Transplant Surgery In Yadgir. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q43Q+2H2, Yadgiri, Karnataka 585202",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Yadgir+Government+Hospital/@16.7525027,77.1388785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853af9595d769:0x18e5607b20b058bc!8m2!3d16.7525027!4d77.1388785!16s%2Fg%2F124sqvc12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yadgir+Government+Hospital/@16.7525027,77.1388785,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc853af9595d769:0x18e5607b20b058bc!8m2!3d16.7525027!4d77.1388785!16s%2Fg%2F124sqvc12?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7525027,
+      "lng": 77.1388785,
+      "label": "Yadgir Government Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yadgir-institute-of-medical-sciences-mudnal",
+    "name": "YADGIR INSTITUTE OF MEDICAL SCIENCES",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mudnal, YADGIR INSTITUTE OF MEDICAL SCIENCES offers coordinated hospital care with major focus on Kidney Transplant Surgery In Yadgir. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q3WX+P9X, Mudnal, Karnataka 585202",
+    "city": "Mudnal",
+    "state": "Karnataka",
+    "pincode": "585202",
+    "locality": "",
+    "landmark": "Karnataka 585202",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/YADGIR+INSTITUTE+OF+MEDICAL+SCIENCES/data=!4m7!3m6!1s0x3bc857dcf2a94f0d:0xc5805bcbaf86e488!8m2!3d16.7968569!4d77.098481!16s%2Fg%2F11fnwdkn5y!19sChIJDU-p8txXyDsRiOSGr8tbgMU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/YADGIR+INSTITUTE+OF+MEDICAL+SCIENCES/data=!4m7!3m6!1s0x3bc857dcf2a94f0d:0xc5805bcbaf86e488!8m2!3d16.7968569!4d77.098481!16s%2Fg%2F11fnwdkn5y!19sChIJDU-p8txXyDsRiOSGr8tbgMU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7968569,
+      "lng": 77.098481,
+      "label": "YADGIR INSTITUTE OF MEDICAL SCIENCES",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yadgiri-kidney-centre-hospital-y-k-c-yadgiri",
+    "name": "Yadgiri kidney centre Hospital Y.K.C",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Yadgiri often choose Yadgiri kidney centre Hospital Y.K.C for its strength in Kidney Transplant Surgery In Yadgir and Kidney Care. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078999 80803",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kadlooru Petrol Pump, Yadgiri, Karnataka 585201",
+    "city": "Yadgiri",
+    "state": "Karnataka",
+    "pincode": "585201",
+    "locality": "Kadlooru Petrol Pump",
+    "landmark": "Karnataka 585201",
+    "emergencyContact": "078999 80803",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Yadgir",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Yadgiri+kidney+centre+Hospital+Y.K.C/data=!4m7!3m6!1s0x3bc85381e2c8f1b3:0x2934306bddbeae7d!8m2!3d16.7554985!4d77.1287772!16s%2Fg%2F11t5ds18d5!19sChIJs_HI4oFTyDsRfa6-3WswNCk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yadgiri+kidney+centre+Hospital+Y.K.C/data=!4m7!3m6!1s0x3bc85381e2c8f1b3:0x2934306bddbeae7d!8m2!3d16.7554985!4d77.1287772!16s%2Fg%2F11t5ds18d5!19sChIJs_HI4oFTyDsRfa6-3WswNCk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.7554985,
+      "lng": 77.1287772,
+      "label": "Yadgiri kidney centre Hospital Y.K.C",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

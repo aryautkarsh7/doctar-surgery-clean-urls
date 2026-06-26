@@ -1,0 +1,11438 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "52-pearls-paediatric-to-geriatric-dental-care-anand",
+    "name": "52 Pearls Paediatric to Geriatric Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "52 Pearls Paediatric to Geriatric Dental Care has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094086 84042",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Radhaswami Sukrut, 207/208, adjacent to D-Mart, near Sardar Patel Statue, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "near Sardar Patel Statue, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "emergencyContact": "094086 84042",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/52+Pearls+Paediatric+to+Geriatric+Dental+Care/data=!4m7!3m6!1s0x395e4d9a64d3589f:0x9e2fedc7b14dff39!8m2!3d22.5463078!4d72.929121!16s%2Fg%2F11sgkjq91y!19sChIJn1jTZJpNXjkROf9NscftL54?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/52+Pearls+Paediatric+to+Geriatric+Dental+Care/data=!4m7!3m6!1s0x395e4d9a64d3589f:0x9e2fedc7b14dff39!8m2!3d22.5463078!4d72.929121!16s%2Fg%2F11sgkjq91y!19sChIJn1jTZJpNXjkROf9NscftL54?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5463078,
+      "lng": 72.929121,
+      "label": "52 Pearls Paediatric to Geriatric Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrawal-dental-clinic-anand",
+    "name": "Agrawal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Agrawal Dental Clinic has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098795 84359",
+    "alternatePhone": "",
+    "website": "https://agrawaldentalclinics.in/",
+    "address": "3rd Floor, Shriji Darshan Complex, Iscon Temple, Karamsad Rd, Patel Society, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "Iscon Temple",
+    "emergencyContact": "098795 84359",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Agrawal+Dental+Clinic/data=!4m7!3m6!1s0x395e4e755972047f:0x1815e1b58e46d90e!8m2!3d22.5482496!4d72.9234059!16s%2Fg%2F1q6j431y4!19sChIJfwRyWXVOXjkRDtlGjrXhFRg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agrawal+Dental+Clinic/data=!4m7!3m6!1s0x395e4e755972047f:0x1815e1b58e46d90e!8m2!3d22.5482496!4d72.9234059!16s%2Fg%2F1q6j431y4!19sChIJfwRyWXVOXjkRDtlGjrXhFRg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5482496,
+      "lng": 72.9234059,
+      "label": "Agrawal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akshar-dental-clinic-anand",
+    "name": "Akshar Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Akshar Dental Clinic has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078630 95910",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maruti Saday, 111, 80 Feet Rd, near Siddhivinayak Temple, Vishwakarma Society, Vivekanand Wadi, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vivekanand Wadi",
+    "landmark": "near Siddhivinayak Temple, Vishwakarma Society, Vivekanand Wadi, Anand, Gujarat 388120",
+    "emergencyContact": "078630 95910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Akshar+Dental+Clinic/data=!4m7!3m6!1s0x395e4f7381e1f3b1:0x6ce6b803b7ba4b4f!8m2!3d22.5608108!4d72.9465893!16s%2Fg%2F11wqj764kd!19sChIJsfPhgXNPXjkRT0u6twO45mw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akshar+Dental+Clinic/data=!4m7!3m6!1s0x395e4f7381e1f3b1:0x6ce6b803b7ba4b4f!8m2!3d22.5608108!4d72.9465893!16s%2Fg%2F11wqj764kd!19sChIJsfPhgXNPXjkRT0u6twO45mw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5608108,
+      "lng": 72.9465893,
+      "label": "Akshar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akshar-hospital-and-icu-anand",
+    "name": "Akshar Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Akshar Hospital & ICU has built a strong reputation in Anand for multidisciplinary treatment pathways covering Orthopedic Surgery In Anand. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083472 69000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kalpana Cinema Road, near Yogi Petrol Pump, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Yogi Petrol Pump",
+    "landmark": "near Yogi Petrol Pump, Anand, Gujarat 388001",
+    "emergencyContact": "083472 69000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Akshar+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4e9cb290000d:0x5237a4c3b67f2200!8m2!3d22.5568862!4d72.9576062!16s%2Fg%2F11c2l0z9_t!19sChIJDQCQspxOXjkRACJ_tsOkN1I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akshar+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4e9cb290000d:0x5237a4c3b67f2200!8m2!3d22.5568862!4d72.9576062!16s%2Fg%2F11c2l0z9_t!19sChIJDQCQspxOXjkRACJ_tsOkN1I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5568862,
+      "lng": 72.9576062,
+      "label": "Akshar Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akshaydeep-hospital-anand",
+    "name": "Akshaydeep Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Akshaydeep Hospital is a prominent hospital in Anand, known for structured tertiary care across Gynecologist Surgery In Anand. Hospital capacity markers such as Google rating 4.6, 71+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092270 90686",
+    "alternatePhone": "",
+    "website": "http://akshaydeephospital.in/",
+    "address": "Dr Cook Rd, Nandanvan Society, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Sardar Ganj",
+    "emergencyContact": "092270 90686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "71+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Akshaydeep+Hospital/data=!4m7!3m6!1s0x395e4e9fba060ec5:0x5cfb323fccda625a!8m2!3d22.5551557!4d72.9674764!16s%2Fg%2F11c1xff4fv!19sChIJxQ4Gup9OXjkRWmLazD8y-1w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akshaydeep+Hospital/data=!4m7!3m6!1s0x395e4e9fba060ec5:0x5cfb323fccda625a!8m2!3d22.5551557!4d72.9674764!16s%2Fg%2F11c1xff4fv!19sChIJxQ4Gup9OXjkRWmLazD8y-1w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5551557,
+      "lng": 72.9674764,
+      "label": "Akshaydeep Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 71,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amit-hospital-surgical-ortho-and-joint-replacement-centre-in-anand-anand",
+    "name": "Amit Hospital — surgical, ortho and joint replacement centre in anand",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amit Hospital — surgical, ortho and joint replacement centre in anand has built a strong reputation in Anand for multidisciplinary treatment pathways covering Liver Transplant Surgery In Anand and Orthopaedics. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 225 3339",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite X-Ray House, near Kalpana Cinema, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Kalpana Cinema",
+    "landmark": "near Kalpana Cinema, Anand, Gujarat 388001",
+    "emergencyContact": "0269 225 3339",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Amit+Hospital+%E2%80%94+surgical,+ortho+and+joint+replacement+centre+in+anand/data=!4m7!3m6!1s0x395e4e9cb10f687f:0x87baa28f7dea7ecf!8m2!3d22.5568021!4d72.9583543!16s%2Fg%2F11dxchwh1s!19sChIJf2gPsZxOXjkRz37qfY-iuoc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amit+Hospital+%E2%80%94+surgical,+ortho+and+joint+replacement+centre+in+anand/data=!4m7!3m6!1s0x395e4e9cb10f687f:0x87baa28f7dea7ecf!8m2!3d22.5568021!4d72.9583543!16s%2Fg%2F11dxchwh1s!19sChIJf2gPsZxOXjkRz37qfY-iuoc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5568021,
+      "lng": 72.9583543,
+      "label": "Amit Hospital — surgical, ortho and joint replacement centre in anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anand-spinetics-an-interventional-pain-management-center-anand",
+    "name": "ANAND SPINETICS, An Interventional Pain management Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, ANAND SPINETICS, An Interventional Pain management Center brings together specialists for Spine Surgery In Anand and Spine Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Anand Orthopedic Hospital, Bhalej Rd, near Over Bridge, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Over Bridge",
+    "landmark": "near Over Bridge, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Anand",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/ANAND+SPINETICS,+An+Interventional+Pain+management+Center/data=!4m7!3m6!1s0x395e4e90787cc53f:0xe276d6313b1fe52e!8m2!3d22.5625877!4d72.9601108!16s%2Fg%2F11xbwph18!19sChIJP8V8eJBOXjkRLuUfOzHWduI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ANAND+SPINETICS,+An+Interventional+Pain+management+Center/data=!4m7!3m6!1s0x395e4e90787cc53f:0xe276d6313b1fe52e!8m2!3d22.5625877!4d72.9601108!16s%2Fg%2F11xbwph18!19sChIJP8V8eJBOXjkRLuUfOzHWduI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5625877,
+      "lng": 72.9601108,
+      "label": "ANAND SPINETICS, An Interventional Pain management Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ansh-dental-studio-anand",
+    "name": "Ansh Dental Studio",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Anand, Ansh Dental Studio delivers integrated care across Oral Surgery In Anand. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090335 34421",
+    "alternatePhone": "",
+    "website": "http://ansh.dental-studio.co.in/",
+    "address": "103-104, Shree ram sadan, Karamsad Rd, opp. Shapath Residency, Karamsad, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Karamsad",
+    "landmark": "Karamsad Rd",
+    "emergencyContact": "090335 34421",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ansh+Dental+Studio/data=!4m7!3m6!1s0x395e4de1f15aca4b:0xbbc02775dae0ec26!8m2!3d22.5464811!4d72.9169243!16s%2Fg%2F11dymv7qp8!19sChIJS8pa8eFNXjkRJuzg2nUnwLs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ansh+Dental+Studio/data=!4m7!3m6!1s0x395e4de1f15aca4b:0xbbc02775dae0ec26!8m2!3d22.5464811!4d72.9169243!16s%2Fg%2F11dymv7qp8!19sChIJS8pa8eFNXjkRJuzg2nUnwLs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5464811,
+      "lng": 72.9169243,
+      "label": "Ansh Dental Studio",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arpan-hospital-and-icu-anand",
+    "name": "Arpan Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arpan Hospital & ICU has built a strong reputation in Anand for multidisciplinary treatment pathways covering Liver Transplant Surgery In Anand. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX46+P2V, Subhash Rd, Gamdi Vad, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gamdi Vad",
+    "landmark": "Gamdi Vad",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Arpan+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4e9c91c23cef:0xf6cb885079a94316!8m2!3d22.5568724!4d72.9600614!16s%2Fg%2F11c2k9b809!19sChIJ7zzCkZxOXjkRFkOpeVCIy_Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arpan+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4e9c91c23cef:0xf6cb885079a94316!8m2!3d22.5568724!4d72.9600614!16s%2Fg%2F11c2k9b809!19sChIJ7zzCkZxOXjkRFkOpeVCIy_Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5568724,
+      "lng": 72.9600614,
+      "label": "Arpan Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arsh-diabetic-clinic-anand",
+    "name": "Arsh Diabetic Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Arsh Diabetic Clinic for its strength in Liver Transplant Surgery In Anand. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063525 68246",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Meera Hospital, near Vendor Crossing, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "near Vendor Crossing, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "emergencyContact": "063525 68246",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Arsh+Diabetic+Clinic/data=!4m7!3m6!1s0x395e4f474dd23e83:0x27b0212f84771b96!8m2!3d22.5602007!4d72.9611238!16s%2Fg%2F11p_79f4wd!19sChIJgz7STUdPXjkRlht3hC8hsCc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arsh+Diabetic+Clinic/data=!4m7!3m6!1s0x395e4f474dd23e83:0x27b0212f84771b96!8m2!3d22.5602007!4d72.9611238!16s%2Fg%2F11p_79f4wd!19sChIJgz7STUdPXjkRlht3hC8hsCc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5602007,
+      "lng": 72.9611238,
+      "label": "Arsh Diabetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asg-jethwa-eye-hospital-anand-an-asg-eye-hospital-anand",
+    "name": "ASG Jethwa Eye Hospital - Anand | An ASG Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, ASG Jethwa Eye Hospital - Anand | An ASG Eye Hospital delivers integrated care across Orthopedic Surgery In Anand. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "061241 57686",
+    "alternatePhone": "",
+    "website": "https://jeh.asgeyehospital.com/",
+    "address": "Desai Lane, Ganesh Chokdi, Krishna Rd, beside Naya Padkar Road, Press, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "beside Naya Padkar Road, Press, Sardar Ganj, Anand, Gujarat 388001",
+    "emergencyContact": "061241 57686",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ASG+Jethwa+Eye+Hospital+-+Anand+%7C+An+ASG+Eye+Hospital/data=!4m7!3m6!1s0x395e4e9bfb815895:0xcb84ef4ba1cb2b02!8m2!3d22.5582031!4d72.9638979!16s%2Fg%2F1tcztbh8!19sChIJlViB-5tOXjkRAivLoUvvhMs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASG+Jethwa+Eye+Hospital+-+Anand+%7C+An+ASG+Eye+Hospital/data=!4m7!3m6!1s0x395e4e9bfb815895:0xcb84ef4ba1cb2b02!8m2!3d22.5582031!4d72.9638979!16s%2Fg%2F1tcztbh8!19sChIJlViB-5tOXjkRAivLoUvvhMs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5582031,
+      "lng": 72.9638979,
+      "label": "ASG Jethwa Eye Hospital - Anand | An ASG Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashish-brahmbhatt-anand",
+    "name": "Ashish Brahmbhatt",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Ashish Brahmbhatt brings together specialists for Spine Surgery In Anand and Medical Center. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098796 91425",
+    "alternatePhone": "",
+    "website": "",
+    "address": "OrthoRAB Hospital, 100 ft road, Nani Khodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nani Khodiyar",
+    "landmark": "Nani Khodiyar",
+    "emergencyContact": "098796 91425",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Anand",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ashish+Brahmbhatt/data=!4m7!3m6!1s0x395e4e9400000005:0x87ca5a88d1572477!8m2!3d22.5624388!4d72.9486227!16s%2Fg%2F11dz5qg4ym!19sChIJBQAAAJROXjkRdyRX0Yhayoc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashish+Brahmbhatt/data=!4m7!3m6!1s0x395e4e9400000005:0x87ca5a88d1572477!8m2!3d22.5624388!4d72.9486227!16s%2Fg%2F11dz5qg4ym!19sChIJBQAAAJROXjkRdyRX0Yhayoc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5624388,
+      "lng": 72.9486227,
+      "label": "Ashish Brahmbhatt",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashwini-medical-center-anand",
+    "name": "ASHWINI MEDICAL CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, ASHWINI MEDICAL CENTER delivers integrated care across Orthopedic Surgery In Anand. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0269 225 9320",
+    "alternatePhone": "",
+    "website": "http://www.ashwinimedicalcentre.in/",
+    "address": "Nr. Community Hall, Gamdi Vad, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gamdi Vad",
+    "landmark": "Anand",
+    "emergencyContact": "0269 225 9320",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ASHWINI+MEDICAL+CENTER/data=!4m7!3m6!1s0x395e4e9ca579134b:0x1aa50401d55339a8!8m2!3d22.5572036!4d72.9586363!16s%2Fg%2F11bwhb8flw!19sChIJSxN5pZxOXjkRqDlT1QEEpRo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASHWINI+MEDICAL+CENTER/data=!4m7!3m6!1s0x395e4e9ca579134b:0x1aa50401d55339a8!8m2!3d22.5572036!4d72.9586363!16s%2Fg%2F11bwhb8flw!19sChIJSxN5pZxOXjkRqDlT1QEEpRo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5572036,
+      "lng": 72.9586363,
+      "label": "ASHWINI MEDICAL CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "astha-surgical-hospital-anand",
+    "name": "Astha Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Astha Surgical Hospital brings together specialists for Liver Transplant Surgery In Anand. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098251 70744",
+    "alternatePhone": "",
+    "website": "http://asthasurgicalhospital.com/",
+    "address": "Dr Cook Rd, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "Popati Nagar",
+    "emergencyContact": "098251 70744",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Astha+Surgical+Hospital/data=!4m7!3m6!1s0x395e4e9fb1724ad5:0xad93153b370c214f!8m2!3d22.5548667!4d72.9671671!16s%2Fg%2F11c1p56dfw!19sChIJ1UpysZ9OXjkRTyEMNzsVk60?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Astha+Surgical+Hospital/data=!4m7!3m6!1s0x395e4e9fb1724ad5:0xad93153b370c214f!8m2!3d22.5548667!4d72.9671671!16s%2Fg%2F11c1p56dfw!19sChIJ1UpysZ9OXjkRTyEMNzsVk60?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5548667,
+      "lng": 72.9671671,
+      "label": "Astha Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aum-hospital-and-icu-anand",
+    "name": "Aum Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, Aum Hospital & ICU delivers integrated care across Orthopedic Surgery In Anand. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0269 226 7005",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vendor char rasta, nr. Pioneer highschool, Patel Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Patel Colony",
+    "landmark": "Patel Colony",
+    "emergencyContact": "0269 226 7005",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Aum+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4f26bc36e36b:0x9037cb18fa171dc0!8m2!3d22.5597323!4d72.9609023!16s%2Fg%2F11j94fyqp3!19sChIJa-M2vCZPXjkRwB0X-hjLN5A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aum+Hospital+%26+ICU/data=!4m7!3m6!1s0x395e4f26bc36e36b:0x9037cb18fa171dc0!8m2!3d22.5597323!4d72.9609023!16s%2Fg%2F11j94fyqp3!19sChIJa-M2vCZPXjkRwB0X-hjLN5A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5597323,
+      "lng": 72.9609023,
+      "label": "Aum Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avira-hospital-anand",
+    "name": "Avira Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Avira Hospital for its strength in General Surgery In Anand. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073593 54201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhalej Rd, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "Anand",
+    "emergencyContact": "073593 54201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Avira+Hospital/data=!4m7!3m6!1s0x395e4fe756872ceb:0x37471b51143914ce!8m2!3d22.5584894!4d72.95766!16s%2Fg%2F11t4_d51zp!19sChIJ6yyHVudPXjkRzhQ5FFEbRzc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avira+Hospital/data=!4m7!3m6!1s0x395e4fe756872ceb:0x37471b51143914ce!8m2!3d22.5584894!4d72.95766!16s%2Fg%2F11t4_d51zp!19sChIJ6yyHVudPXjkRzhQ5FFEbRzc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5584894,
+      "lng": 72.95766,
+      "label": "Avira Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bavishi-fertility-institute-at-iris-hospital-anand-anand",
+    "name": "Bavishi Fertility Institute at Iris Hospital Anand",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Bavishi Fertility Institute at Iris Hospital Anand offers coordinated hospital care with major focus on IVF In Anand and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://ivfclinic.com/anand",
+    "address": "unit -2, iris hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "Nanikhodiyar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bavishi+Fertility+Institute+at+Iris+Hospital+Anand/data=!4m7!3m6!1s0x395e4faa408104fb:0xd6f4165cef1ca577!8m2!3d22.5655883!4d72.9503692!16s%2Fg%2F11z3b63qd8!19sChIJ-wSBQKpPXjkRd6Uc71wW9NY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bavishi+Fertility+Institute+at+Iris+Hospital+Anand/data=!4m7!3m6!1s0x395e4faa408104fb:0xd6f4165cef1ca577!8m2!3d22.5655883!4d72.9503692!16s%2Fg%2F11z3b63qd8!19sChIJ-wSBQKpPXjkRd6Uc71wW9NY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5655883,
+      "lng": 72.9503692,
+      "label": "Bavishi Fertility Institute at Iris Hospital Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhanubhai-and-madhuben-patel-cardiac-centre-anand",
+    "name": "Bhanubhai and Madhuben Patel Cardiac Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Bhanubhai and Madhuben Patel Cardiac Centre for its strength in Heart Surgery In Anand and Cardiac Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 222 8671",
+    "alternatePhone": "",
+    "website": "http://www.charutarhealth.org/",
+    "address": "GVQV+WM6, Gokal Nagar, Karamsad, Anand, Gujarat 388325",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388325",
+    "locality": "Karamsad",
+    "landmark": "Karamsad",
+    "emergencyContact": "0269 222 8671",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Anand",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhanubhai+and+Madhuben+Patel+Cardiac+Centre/data=!4m7!3m6!1s0x395e520148fb1993:0x686c896af91147!8m2!3d22.5397805!4d72.894153!16s%2Fg%2F113hhsxyy!19sChIJkxn7SAFSXjkRRxH5aolsaAA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhanubhai+and+Madhuben+Patel+Cardiac+Centre/data=!4m7!3m6!1s0x395e520148fb1993:0x686c896af91147!8m2!3d22.5397805!4d72.894153!16s%2Fg%2F113hhsxyy!19sChIJkxn7SAFSXjkRRxH5aolsaAA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5397805,
+      "lng": 72.894153,
+      "label": "Bhanubhai and Madhuben Patel Cardiac Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-32-dental-centre-anand",
+    "name": "Care 32 Dental Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Care 32 Dental Centre brings together specialists for Oral Surgery In Anand. Operational strengths including Google rating 4.4, 47+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 235 6230",
+    "alternatePhone": "",
+    "website": "https://www.care32dentalcentre.com/",
+    "address": "Near Time Cinema, Anand - Vidyanagar Rd, opposite Shreeji Sarees, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "opposite Shreeji Sarees",
+    "landmark": "opposite Shreeji Sarees, Anand, Gujarat 388120",
+    "emergencyContact": "0269 235 6230",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "47+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Care+32+Dental+Centre/data=!4m7!3m6!1s0x395fcf3639aa84dd:0x7462d26bb84a4c0a!8m2!3d22.550046!4d72.9326313!16s%2Fg%2F12hm75s_3!19sChIJ3YSqOTbPXzkRCkxKuGvSYnQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Care+32+Dental+Centre/data=!4m7!3m6!1s0x395fcf3639aa84dd:0x7462d26bb84a4c0a!8m2!3d22.550046!4d72.9326313!16s%2Fg%2F12hm75s_3!19sChIJ3YSqOTbPXzkRCkxKuGvSYnQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.550046,
+      "lng": 72.9326313,
+      "label": "Care 32 Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 47,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "charutar-plastic-and-cosmetic-surgery-hospital-anand",
+    "name": "Charutar Plastic and Cosmetic Surgery Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Charutar Plastic and Cosmetic Surgery Hospital offers coordinated hospital care with major focus on Plastic Surgery In Anand. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098254 47000",
+    "alternatePhone": "",
+    "website": "http://www.charutarplasticsurgery.com/",
+    "address": "Bhalej Rd, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "Anand",
+    "emergencyContact": "098254 47000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Charutar+Plastic+and+Cosmetic+Surgery+Hospital/data=!4m7!3m6!1s0x395e4e9aeaa1eea5:0x1096160ab685bbfd!8m2!3d22.56207!4d72.959358!16s%2Fg%2F12qgz_x80!19sChIJpe6h6ppOXjkR_buFtgoWlhA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Charutar+Plastic+and+Cosmetic+Surgery+Hospital/data=!4m7!3m6!1s0x395e4e9aeaa1eea5:0x1096160ab685bbfd!8m2!3d22.56207!4d72.959358!16s%2Fg%2F12qgz_x80!19sChIJpe6h6ppOXjkR_buFtgoWlhA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.56207,
+      "lng": 72.959358,
+      "label": "Charutar Plastic and Cosmetic Surgery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "confidental-clinic-limbuwala-complex-dr-afzal-anand",
+    "name": "Confidental clinic ,limbuwala complex,dr afzal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Anand, Confidental clinic ,limbuwala complex,dr afzal delivers integrated care across Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081288 06827",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Limbuwala Complex, GPO Road, opp. kavita shopping, near old bus stand, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "near old bus stand, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "emergencyContact": "081288 06827",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Confidental+clinic+,limbuwala+complex,dr+afzal/data=!4m7!3m6!1s0x395e4e9bfc101df9:0x35570a08bbf558b5!8m2!3d22.558739!4d72.9635627!16s%2Fg%2F11fxz5tlnz!19sChIJ-R0Q_JtOXjkRtVj1uwgKVzU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Confidental+clinic+,limbuwala+complex,dr+afzal/data=!4m7!3m6!1s0x395e4e9bfc101df9:0x35570a08bbf558b5!8m2!3d22.558739!4d72.9635627!16s%2Fg%2F11fxz5tlnz!19sChIJ-R0Q_JtOXjkRtVj1uwgKVzU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.558739,
+      "lng": 72.9635627,
+      "label": "Confidental clinic ,limbuwala complex,dr afzal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-cure-dental-clinic-and-implant-center-dental-implants-in-anand-dental-aligner-clinic-in-anand-best-dentist-in-anand-anand",
+    "name": "Dental Cure Dental Clinic & Implant Center® - Dental Implants in Anand/ Dental Aligner Clinic in Anand/ Best Dentist in Anand",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Cure Dental Clinic & Implant Center® - Dental Implants in Anand/ Dental Aligner Clinic in Anand/ Best Dentist in Anand is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094296 66191",
+    "alternatePhone": "",
+    "website": "https://dentalcure.co.in/",
+    "address": "Besides Croma Store, Narayan Empire, 332, Anand - Vidyanagar Rd, Vivekanand Wadi, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vivekanand Wadi",
+    "landmark": "332",
+    "emergencyContact": "094296 66191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Cure+Dental+Clinic+%26+Implant+Center%C2%AE+-+Dental+Implants+in+Anand%2F+Dental+Aligner+Clinic+in+Anand%2F+Best+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4d2d1939ef0f:0xe0a8d72040a5394c!8m2!3d22.5540462!4d72.9479332!16s%2Fg%2F11bwf88sdc!19sChIJD-85GS1NXjkRTDmlQCDXqOA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Cure+Dental+Clinic+%26+Implant+Center%C2%AE+-+Dental+Implants+in+Anand%2F+Dental+Aligner+Clinic+in+Anand%2F+Best+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4d2d1939ef0f:0xe0a8d72040a5394c!8m2!3d22.5540462!4d72.9479332!16s%2Fg%2F11bwf88sdc!19sChIJD-85GS1NXjkRTDmlQCDXqOA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5540462,
+      "lng": 72.9479332,
+      "label": "Dental Cure Dental Clinic & Implant Center® - Dental Implants in Anand/ Dental Aligner Clinic in Anand/ Best Dentist in Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-house-and-implant-dental-clinic-best-dentist-in-anand-best-dental-clinic-in-anand-best-dentist-in-vidyanagar-anand",
+    "name": "Dental House and Implant Dental Clinic -Best Dentist in Anand |Best Dental Clinic in Anand |Best Dentist in Vidyanagar",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental House and Implant Dental Clinic -Best Dentist in Anand |Best Dental Clinic in Anand |Best Dentist in Vidyanagar has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081548 05329",
+    "alternatePhone": "",
+    "website": "https://jsdl.in/DT-998GSTKU6KG",
+    "address": "107, V-square Complex, Bhaikaka Statue Garden, opp. SBI Bank, above shivam pedawala, Mota Bazaar, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "Bhaikaka Statue Garden",
+    "emergencyContact": "081548 05329",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+House+and+Implant+Dental+Clinic+-Best+Dentist+in+Anand+%7CBest+Dental+Clinic+in+Anand+%7CBest+Dentist+in+Vidyanagar/data=!4m7!3m6!1s0x395e4f82314823dd:0xb17b620e27c3b6a3!8m2!3d22.5495087!4d72.928883!16s%2Fg%2F11skm8gbs1!19sChIJ3SNIMYJPXjkRo7bDJw5ie7E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+House+and+Implant+Dental+Clinic+-Best+Dentist+in+Anand+%7CBest+Dental+Clinic+in+Anand+%7CBest+Dentist+in+Vidyanagar/data=!4m7!3m6!1s0x395e4f82314823dd:0xb17b620e27c3b6a3!8m2!3d22.5495087!4d72.928883!16s%2Fg%2F11skm8gbs1!19sChIJ3SNIMYJPXjkRo7bDJw5ie7E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5495087,
+      "lng": 72.928883,
+      "label": "Dental House and Implant Dental Clinic -Best Dentist in Anand |Best Dental Clinic in Anand |Best Dentist in Vidyanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "divyam-dental-clinic-anand",
+    "name": "Divyam Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Anand, Divyam Dental Clinic delivers integrated care across Oral Surgery In Anand. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "201,Krishna Crossroad, Lambhvel Rd, Rajmarg Road, near Sanket India, Anand, Gujarat 388315",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388315",
+    "locality": "near Sanket India",
+    "landmark": "near Sanket India, Anand, Gujarat 388315",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Divyam+Dental+Clinic/data=!4m7!3m6!1s0x395e4f916fff81cb:0x89e6d1c0b86d2746!8m2!3d22.5672137!4d72.9432719!16s%2Fg%2F11wq02_8mb!19sChIJy4H_b5FPXjkRRidtuMDR5ok?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Divyam+Dental+Clinic/data=!4m7!3m6!1s0x395e4f916fff81cb:0x89e6d1c0b86d2746!8m2!3d22.5672137!4d72.9432719!16s%2Fg%2F11wq02_8mb!19sChIJy4H_b5FPXjkRRidtuMDR5ok?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5672137,
+      "lng": 72.9432719,
+      "label": "Divyam Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eisha-e-n-t-hospital-anand",
+    "name": "Eisha E.N.T Hospital",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Eisha E.N.T Hospital for its strength in General Surgery In Anand and ENT. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 225 2507",
+    "alternatePhone": "",
+    "website": "http://www.eishaenthospital.com/",
+    "address": "Subhlaxmi Shopping Centre, Railway Station Rd, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Ganesh Chokdi",
+    "emergencyContact": "0269 225 2507",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Eisha+E.N.T+Hospital/data=!4m7!3m6!1s0x395e4c2868091d3f:0x94aed3eb8691e61a!8m2!3d22.5571123!4d72.9649814!16s%2Fg%2F11b7fy5m38!19sChIJPx0JaChMXjkRGuaRhuvTrpQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Eisha+E.N.T+Hospital/data=!4m7!3m6!1s0x395e4c2868091d3f:0x94aed3eb8691e61a!8m2!3d22.5571123!4d72.9649814!16s%2Fg%2F11b7fy5m38!19sChIJPx0JaChMXjkRGuaRhuvTrpQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5571123,
+      "lng": 72.9649814,
+      "label": "Eisha E.N.T Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "garima-hospital-anand",
+    "name": "Garima Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Garima Hospital for its strength in Gynecologist Surgery In Anand. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 225 0774",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Railway Station Rd, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Sardar Ganj",
+    "emergencyContact": "0269 225 0774",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Garima+Hospital/data=!4m7!3m6!1s0x395e4e9ebaa0a1d3:0x40b2cf24b9272dc4!8m2!3d22.5576854!4d72.9645858!16s%2Fg%2F11cmw2bl1s!19sChIJ06Ggup5OXjkRxC0nuSTPskA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Garima+Hospital/data=!4m7!3m6!1s0x395e4e9ebaa0a1d3:0x40b2cf24b9272dc4!8m2!3d22.5576854!4d72.9645858!16s%2Fg%2F11cmw2bl1s!19sChIJ06Ggup5OXjkRxC0nuSTPskA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5576854,
+      "lng": 72.9645858,
+      "label": "Garima Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "general-hospital-anand-anand",
+    "name": "General Hospital Anand",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, General Hospital Anand delivers integrated care across General Surgery In Anand. Its infrastructure includes Google rating 3.4 and 8+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX58+43M, Mahatma Gandhi Rd, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Ganesh Chokdi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "8+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/General+Hospital+Anand/data=!4m7!3m6!1s0x395e4e9eb7b89997:0x7712e192625acaca!8m2!3d22.557846!4d72.965175!16s%2Fg%2F11hctfv9mt!19sChIJl5m4t55OXjkRyspaYpLhEnc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/General+Hospital+Anand/data=!4m7!3m6!1s0x395e4e9eb7b89997:0x7712e192625acaca!8m2!3d22.557846!4d72.965175!16s%2Fg%2F11hctfv9mt!19sChIJl5m4t55OXjkRyspaYpLhEnc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.557846,
+      "lng": 72.965175,
+      "label": "General Hospital Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 8,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "himalaya-hospital-anand",
+    "name": "Himalaya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Anand, Himalaya Hospital delivers integrated care across Orthopedic Surgery In Anand. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075739 98100",
+    "alternatePhone": "",
+    "website": "https://www.hospitalhimalaya.com/",
+    "address": "OrthoRAB Hospital, 100ft road, Bachpan School Rd, nr. Indira Gandhi Statue, B/h, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "B/h",
+    "landmark": "Bachpan School Rd",
+    "emergencyContact": "075739 98100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Himalaya+Hospital/data=!4m7!3m6!1s0x395e4e8856a08763:0xd9cb1c1eb91dafaf!8m2!3d22.562496!4d72.94864!16s%2Fg%2F11c6ts4qdk!19sChIJY4egVohOXjkRr68duR4cy9k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Himalaya+Hospital/data=!4m7!3m6!1s0x395e4e8856a08763:0xd9cb1c1eb91dafaf!8m2!3d22.562496!4d72.94864!16s%2Fg%2F11c6ts4qdk!19sChIJY4egVohOXjkRr68duR4cy9k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.562496,
+      "lng": 72.94864,
+      "label": "Himalaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ii-canswin-homeopathy-ii-anand",
+    "name": "II Canswin Homeopathy II",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, II Canswin Homeopathy II offers coordinated hospital care with major focus on Oncologist Surgery In Anand and Cancer Treatment Center. With public-facing highlights like Google rating 4.9, 27+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080000 89545",
+    "alternatePhone": "",
+    "website": "https://canswin.com/",
+    "address": "3rd Floor, Ambe Gold Complex, Canswin Clinic 306, opp. Amul Dairy Road, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "Canswin Clinic 306",
+    "emergencyContact": "080000 89545",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Anand",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "27+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/II+Canswin+Homeopathy+II/data=!4m7!3m6!1s0x395e9da619ff84bb:0x6407a1cf6fc3afa1!8m2!3d22.551096!4d72.9688241!16s%2Fg%2F11ghjmgbhl!19sChIJu4T_GaadXjkRoa_Db8-hB2Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/II+Canswin+Homeopathy+II/data=!4m7!3m6!1s0x395e9da619ff84bb:0x6407a1cf6fc3afa1!8m2!3d22.551096!4d72.9688241!16s%2Fg%2F11ghjmgbhl!19sChIJu4T_GaadXjkRoa_Db8-hB2Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.551096,
+      "lng": 72.9688241,
+      "label": "II Canswin Homeopathy II",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 27,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "institute-of-gastroenterology-and-liver-surgery-vadodara",
+    "name": "Institute of Gastroenterology and Liver Surgery",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vadodara, Institute of Gastroenterology and Liver Surgery brings together specialists for Liver Transplant Surgery In Anand, Medical Center, Liver Care, and Gastroenterology. Operational strengths including Google rating 2.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099250 33352",
+    "alternatePhone": "",
+    "website": "",
+    "address": "35, near GRG Hotel, Sampatrao Colony, Alkapuri, Vadodara, Gujarat 390007",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": "390007",
+    "locality": "Alkapuri",
+    "landmark": "near GRG Hotel, Sampatrao Colony, Alkapuri, Vadodara, Gujarat 390007",
+    "emergencyContact": "099250 33352",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand",
+      "Medical Center",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://www.google.com/maps/place/Institute+of+Gastroenterology+and+Liver+Surgery/data=!4m7!3m6!1s0x395fc8ae730fc4e1:0x2e7a0a7dd79339a2!8m2!3d22.308319!4d73.1756!16s%2Fg%2F1pp2vk1_w!19sChIJ4cQPc67IXzkRojmT130Kei4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Institute+of+Gastroenterology+and+Liver+Surgery/data=!4m7!3m6!1s0x395fc8ae730fc4e1:0x2e7a0a7dd79339a2!8m2!3d22.308319!4d73.1756!16s%2Fg%2F1pp2vk1_w!19sChIJ4cQPc67IXzkRojmT130Kei4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.308319,
+      "lng": 73.1756,
+      "label": "Institute of Gastroenterology and Liver Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iris-hospital-anand",
+    "name": "IRIS HOSPITAL",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "IRIS HOSPITAL is a prominent private hospital in Anand, known for structured tertiary care across Urologist Surgery In Anand. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0269 228 8200",
+    "alternatePhone": "",
+    "website": "http://www.irishospital.co.in/",
+    "address": "Lambhvel Rd, Patel Chokdi, Vivekanand Wadi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Vivekanand Wadi",
+    "emergencyContact": "0269 228 8200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/IRIS+HOSPITAL/data=!4m7!3m6!1s0x395e4e6288eb583d:0x5623056fe6c8d1e7!8m2!3d22.564526!4d72.94522!16s%2Fg%2F11b6j5j1lp!19sChIJPVjriGJOXjkR59HI5m8FI1Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IRIS+HOSPITAL/data=!4m7!3m6!1s0x395e4e6288eb583d:0x5623056fe6c8d1e7!8m2!3d22.564526!4d72.94522!16s%2Fg%2F11b6j5j1lp!19sChIJPVjriGJOXjkR59HI5m8FI1Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.564526,
+      "lng": 72.94522,
+      "label": "IRIS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivf-iris-hospital-anand-anand",
+    "name": "IVF, IRIS Hospital, Anand",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, IVF, IRIS Hospital, Anand offers coordinated hospital care with major focus on IVF In Anand and Fertility Care. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Uunit 2, iris hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "Nanikhodiyar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/IVF,+IRIS+Hospital,+Anand/data=!4m7!3m6!1s0x395e4fcbf6c45de3:0x324bb37e6ed7e306!8m2!3d22.5656899!4d72.9503467!16s%2Fg%2F11nh9z6thb!19sChIJ413E9stPXjkRBuPXbn6zSzI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IVF,+IRIS+Hospital,+Anand/data=!4m7!3m6!1s0x395e4fcbf6c45de3:0x324bb37e6ed7e306!8m2!3d22.5656899!4d72.9503467!16s%2Fg%2F11nh9z6thb!19sChIJ413E9stPXjkRBuPXbn6zSzI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5656899,
+      "lng": 72.9503467,
+      "label": "IVF, IRIS Hospital, Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jalaram-physiotherapy-and-rehab-clinic-anand",
+    "name": "Jalaram Physiotherapy & Rehab Clinic",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Jalaram Physiotherapy & Rehab Clinic brings together specialists for Orthopedic Surgery In Anand and Physiotherapist. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063513 47552",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-12, Maruti Saday Complex, 80 Feet Rd, near Indira Statue, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "near Indira Statue",
+    "landmark": "near Indira Statue, Anand, Gujarat 388120",
+    "emergencyContact": "063513 47552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Jalaram+Physiotherapy+%26+Rehab+Clinic/data=!4m7!3m6!1s0x395e4fa46309864d:0xe9f3d9471b733c6d!8m2!3d22.5608217!4d72.9466521!16s%2Fg%2F11rsfr495n!19sChIJTYYJY6RPXjkRbTxzG0fZ8-k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jalaram+Physiotherapy+%26+Rehab+Clinic/data=!4m7!3m6!1s0x395e4fa46309864d:0xe9f3d9471b733c6d!8m2!3d22.5608217!4d72.9466521!16s%2Fg%2F11rsfr495n!19sChIJTYYJY6RPXjkRbTxzG0fZ8-k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5608217,
+      "lng": 72.9466521,
+      "label": "Jalaram Physiotherapy & Rehab Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kinjal-s-dental-and-ent-clinic-anand",
+    "name": "KINJAL'S DENTAL & ENT CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KINJAL'S DENTAL & ENT CLINIC has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079905 02740",
+    "alternatePhone": "",
+    "website": "http://kinjalsdentalandentclinic.com/",
+    "address": "105, Ashwamegh Opp.Vyayamshala, Neelkanth Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Neelkanth Nagar",
+    "landmark": "Neelkanth Nagar",
+    "emergencyContact": "079905 02740",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KINJAL%27S+DENTAL+%26+ENT+CLINIC/data=!4m7!3m6!1s0x395e4d732e1c6f8b:0x2c819579364027fb!8m2!3d22.5478322!4d72.9611532!16s%2Fg%2F11hzynj4sl!19sChIJi28cLnNNXjkR-ydANnmVgSw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KINJAL%27S+DENTAL+%26+ENT+CLINIC/data=!4m7!3m6!1s0x395e4d732e1c6f8b:0x2c819579364027fb!8m2!3d22.5478322!4d72.9611532!16s%2Fg%2F11hzynj4sl!19sChIJi28cLnNNXjkR-ydANnmVgSw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5478322,
+      "lng": 72.9611532,
+      "label": "KINJAL'S DENTAL & ENT CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krisha-hair-transplant-and-cosmetic-surgery-hospital-bhalej",
+    "name": "Krisha Hair Transplant & Cosmetic Surgery Hospital",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Krisha Hair Transplant & Cosmetic Surgery Hospital is a prominent plastic surgery clinic in Bhalej, known for structured tertiary care across Plastic Surgery In Anand. Its infrastructure includes Google rating 5.0, 203+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096876 22090",
+    "alternatePhone": "",
+    "website": "http://www.krishamedspa.in/",
+    "address": "305,Rajdeep complex, besides mahendra shah's hospital, road, Bhalej, Gujarat 388001",
+    "city": "Bhalej",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "road",
+    "landmark": "besides mahendra shah's hospital",
+    "emergencyContact": "096876 22090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "203+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Krisha+Hair+Transplant+%26+Cosmetic+Surgery+Hospital/data=!4m7!3m6!1s0x395e4e9ae68df80d:0x96210fdfb60fb00f!8m2!3d22.5612518!4d72.9596412!16s%2Fg%2F11d_9kt2lx!19sChIJDfiN5ppOXjkRD7APtt8PIZY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krisha+Hair+Transplant+%26+Cosmetic+Surgery+Hospital/data=!4m7!3m6!1s0x395e4e9ae68df80d:0x96210fdfb60fb00f!8m2!3d22.5612518!4d72.9596412!16s%2Fg%2F11d_9kt2lx!19sChIJDfiN5ppOXjkRD7APtt8PIZY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5612518,
+      "lng": 72.9596412,
+      "label": "Krisha Hair Transplant & Cosmetic Surgery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 203,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-dental-care-and-implant-center-anand",
+    "name": "Krishna Dental Care and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Krishna Dental Care and Implant Center for its strength in Oral Surgery In Anand. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087358 65558",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-4, Golden Oak, nr. Sandesar, chawkdi, Karamsad, Sandesar, Anand, Gujarat 388325",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388325",
+    "locality": "Sandesar",
+    "landmark": "nr. Sandesar",
+    "emergencyContact": "087358 65558",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Care+and+Implant+Center/data=!4m7!3m6!1s0x395e4dbef2b77493:0xd227629cbe512d7e!8m2!3d22.5402035!4d72.9029007!16s%2Fg%2F11y733dljd!19sChIJk3S38r5NXjkRfi1RvpxiJ9I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Dental+Care+and+Implant+Center/data=!4m7!3m6!1s0x395e4dbef2b77493:0xd227629cbe512d7e!8m2!3d22.5402035!4d72.9029007!16s%2Fg%2F11y733dljd!19sChIJk3S38r5NXjkRfi1RvpxiJ9I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5402035,
+      "lng": 72.9029007,
+      "label": "Krishna Dental Care and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifeline-hospital-anand",
+    "name": "Lifeline Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, Lifeline Hospital delivers integrated care across Orthopedic Surgery In Anand. Hospital capacity markers such as Google rating 4.7 and 37+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099047 44431",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Panghat Hotel, Nani Khodiyar Chokdi, Lambhvel Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Lambhvel Rd",
+    "landmark": "Lambhvel Rd",
+    "emergencyContact": "099047 44431",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "37+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Lifeline+Hospital/data=!4m7!3m6!1s0x395e4f1b50ea8eed:0x2b4eb31bc421076f!8m2!3d22.5655073!4d72.9495278!16s%2Fg%2F11l7n69963!19sChIJ7Y7qUBtPXjkRbwchxBuzTis?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lifeline+Hospital/data=!4m7!3m6!1s0x395e4f1b50ea8eed:0x2b4eb31bc421076f!8m2!3d22.5655073!4d72.9495278!16s%2Fg%2F11l7n69963!19sChIJ7Y7qUBtPXjkRbwchxBuzTis?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5655073,
+      "lng": 72.9495278,
+      "label": "Lifeline Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 37,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhuram-dental-hub-anand",
+    "name": "Madhuram Dental Hub",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Madhuram Dental Hub for its strength in Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098249 54321",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FF3, OM SHARANAM APARTMENTS, opp. VINUKAKA MARG, near ELECON GARDEN, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "near ELECON GARDEN, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "emergencyContact": "098249 54321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Madhuram+Dental+Hub/data=!4m7!3m6!1s0x395e4e6d8e9e7b73:0x521a674264d40b1f!8m2!3d22.560372!4d72.9264046!16s%2Fg%2F11ckv5585c!19sChIJc3uejm1OXjkRHwvUZEJnGlI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhuram+Dental+Hub/data=!4m7!3m6!1s0x395e4e6d8e9e7b73:0x521a674264d40b1f!8m2!3d22.560372!4d72.9264046!16s%2Fg%2F11ckv5585c!19sChIJc3uejm1OXjkRHwvUZEJnGlI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.560372,
+      "lng": 72.9264046,
+      "label": "Madhuram Dental Hub",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meera-hospital-anand",
+    "name": "Meera Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Meera Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Anand. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0269 225 8644",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp. Swastik Society, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Sardar Ganj",
+    "emergencyContact": "0269 225 8644",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Meera+Hospital/data=!4m7!3m6!1s0x395e4e9ba8a6a45b:0xee4b670c323b0879!8m2!3d22.560202!4d72.9611278!16s%2Fg%2F1td9z213!19sChIJW6SmqJtOXjkReQg7MgxnS-4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meera+Hospital/data=!4m7!3m6!1s0x395e4e9ba8a6a45b:0xee4b670c323b0879!8m2!3d22.560202!4d72.9611278!16s%2Fg%2F1td9z213!19sChIJW6SmqJtOXjkReQg7MgxnS-4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.560202,
+      "lng": 72.9611278,
+      "label": "Meera Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miraan-children-and-ent-hospital-vidhyanagar",
+    "name": "Miraan Children & ENT Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vidhyanagar often choose Miraan Children & ENT Hospital for its strength in General Surgery In Anand and Women and Child Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091044 09001",
+    "alternatePhone": "",
+    "website": "https://miraanhospital.netlify.app/",
+    "address": "First Floor, Shivshakti complex, Opp Vaibhav Cinema, Bakrol-Vidyanagar, road, Vidhyanagar, Gujarat 388315",
+    "city": "Vidhyanagar",
+    "state": "Gujarat",
+    "pincode": "388315",
+    "locality": "road",
+    "landmark": "Opp Vaibhav Cinema",
+    "emergencyContact": "091044 09001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miraan+Children+%26+ENT+Hospital/data=!4m7!3m6!1s0x395e4f161369a6a7:0x8d993f793212882e!8m2!3d22.560785!4d72.9237782!16s%2Fg%2F11s7frzf4_!19sChIJp6ZpExZPXjkRLogSMnk_mY0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miraan+Children+%26+ENT+Hospital/data=!4m7!3m6!1s0x395e4f161369a6a7:0x8d993f793212882e!8m2!3d22.560785!4d72.9237782!16s%2Fg%2F11s7frzf4_!19sChIJp6ZpExZPXjkRLogSMnk_mY0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.560785,
+      "lng": 72.9237782,
+      "label": "Miraan Children & ENT Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mishwa-hospital-anand",
+    "name": "Mishwa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Mishwa Hospital for its strength in IVF In Anand. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078029 51682",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Panghat Hotel road, near Lifeline hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "near Lifeline hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "emergencyContact": "078029 51682",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mishwa+Hospital/data=!4m7!3m6!1s0x395e4f090c80c047:0xeacd6f13adb9897e!8m2!3d22.5654157!4d72.9497891!16s%2Fg%2F11tjrl5ff0!19sChIJR8CADAlPXjkRfom5rRNvzeo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mishwa+Hospital/data=!4m7!3m6!1s0x395e4f090c80c047:0xeacd6f13adb9897e!8m2!3d22.5654157!4d72.9497891!16s%2Fg%2F11tjrl5ff0!19sChIJR8CADAlPXjkRfom5rRNvzeo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5654157,
+      "lng": 72.9497891,
+      "label": "Mishwa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morpheus-usha-fertility-center-anand",
+    "name": "Morpheus Usha Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Morpheus Usha Fertility Center for its strength in IVF In Anand and Fertility Care. Hospital capacity markers such as Google rating 3.7 and 215+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX38+X4Q, Dr Cook Rd, Near Gurudwara Circle, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "Near Gurudwara Circle, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "215+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Morpheus+Usha+Fertility+Center/data=!4m7!3m6!1s0x395e4e9e4496bd0f:0x6136253de09b4f5d!8m2!3d22.5549531!4d72.9653645!16s%2Fg%2F11h091333!19sChIJD72WRJ5OXjkRXU-b4D0lNmE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Morpheus+Usha+Fertility+Center/data=!4m7!3m6!1s0x395e4e9e4496bd0f:0x6136253de09b4f5d!8m2!3d22.5549531!4d72.9653645!16s%2Fg%2F11h091333!19sChIJD72WRJ5OXjkRXU-b4D0lNmE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5549531,
+      "lng": 72.9653645,
+      "label": "Morpheus Usha Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 215,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephron-kidney-hospital-and-laser-centre-anand",
+    "name": "NEPHRON KIDNEY HOSPITAL & LASER CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, NEPHRON KIDNEY HOSPITAL & LASER CENTRE brings together specialists for Urologist Surgery In Anand and Kidney Care. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.nephronurology.com/",
+    "address": "Parimal society, Bhalej Rd, near Mahendra Shah Hospital, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Mahendra Shah Hospital",
+    "landmark": "near Mahendra Shah Hospital, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Anand",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NEPHRON+KIDNEY+HOSPITAL+%26+LASER+CENTRE/data=!4m7!3m6!1s0x395e4e9ac26e80af:0xedae13d4b6097470!8m2!3d22.5616854!4d72.9592821!16s%2Fg%2F11c1vjxkvc!19sChIJr4BuwppOXjkRcHQJttQTru0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEPHRON+KIDNEY+HOSPITAL+%26+LASER+CENTRE/data=!4m7!3m6!1s0x395e4e9ac26e80af:0xedae13d4b6097470!8m2!3d22.5616854!4d72.9592821!16s%2Fg%2F11c1vjxkvc!19sChIJr4BuwppOXjkRcHQJttQTru0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5616854,
+      "lng": 72.9592821,
+      "label": "NEPHRON KIDNEY HOSPITAL & LASER CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-shreeji-dental-clinic-anand",
+    "name": "New shreeji dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "New shreeji dental clinic is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094089 25486",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jaykant complex , opp pc doctor,near apc anand vidhyanagar road, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "near apc anand vidhyanagar road",
+    "landmark": "near apc anand vidhyanagar road",
+    "emergencyContact": "094089 25486",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/New+shreeji+dental+clinic/data=!4m7!3m6!1s0x395e4e78424629ff:0x14f4058b20482ed4!8m2!3d22.5507554!4d72.9353317!16s%2Fg%2F11fps47d7q!19sChIJ_ylGQnhOXjkR1C5IIIsF9BQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+shreeji+dental+clinic/data=!4m7!3m6!1s0x395e4e78424629ff:0x14f4058b20482ed4!8m2!3d22.5507554!4d72.9353317!16s%2Fg%2F11fps47d7q!19sChIJ_ylGQnhOXjkR1C5IIIsF9BQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5507554,
+      "lng": 72.9353317,
+      "label": "New shreeji dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nishant-eye-hospital-retina-care-and-laser-center-anand",
+    "name": "Nishant Eye Hospital, Retina Care & Laser Center",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Nishant Eye Hospital, Retina Care & Laser Center for its strength in Orthopedic Surgery In Anand and Eye Care Center. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 225 9887",
+    "alternatePhone": "",
+    "website": "http://www.nishanteyehospital.com/",
+    "address": "HW8W+76H, Across Iris Hospital, Lambhvel Rd, near Zydus Hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "near Zydus Hospital, Nanikhodiyar, Anand, Gujarat 388001",
+    "emergencyContact": "0269 225 9887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nishant+Eye+Hospital,+Retina+Care+%26+Laser+Center/data=!4m7!3m6!1s0x395e4e88307eb331:0x47406ee3b7981587!8m2!3d22.5645914!4d72.9469214!16s%2Fg%2F11f4_2q4xh!19sChIJMbN-MIhOXjkRhxWYt-NuQEc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nishant+Eye+Hospital,+Retina+Care+%26+Laser+Center/data=!4m7!3m6!1s0x395e4e88307eb331:0x47406ee3b7981587!8m2!3d22.5645914!4d72.9469214!16s%2Fg%2F11f4_2q4xh!19sChIJMbN-MIhOXjkRhxWYt-NuQEc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5645914,
+      "lng": 72.9469214,
+      "label": "Nishant Eye Hospital, Retina Care & Laser Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oasis-fertility-best-ivf-centre-in-vadodara-vadodara",
+    "name": "Oasis Fertility - Best IVF Centre in Vadodara",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vadodara often choose Oasis Fertility - Best IVF Centre in Vadodara for its strength in IVF In Anand and Fertility Care. With public-facing highlights like Google rating 4.9, 253+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089513 94654",
+    "alternatePhone": "",
+    "website": "https://oasisindia.in/fertility-centres-vadodara/vadodara/?utm_source=GBP&utm_medium=vadodara&utm_campaign=vadodara-GBP",
+    "address": "Fourth Floor, Windward Business Park, Emerald One, Jetalpur Rd, nearby Windward Business Park, Anand Nagar, Haripura, Vadodara, Gujarat 390007",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "pincode": "390007",
+    "locality": "Haripura",
+    "landmark": "Emerald One",
+    "emergencyContact": "089513 94654",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "253+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Vadodara/data=!4m7!3m6!1s0x395fc9eae7f9f205:0xed69696b2272cb70!8m2!3d22.3070335!4d73.1753518!16s%2Fg%2F11fqy2w0pw!19sChIJBfL55-rJXzkRcMtyImtpae0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Vadodara/data=!4m7!3m6!1s0x395fc9eae7f9f205:0xed69696b2272cb70!8m2!3d22.3070335!4d73.1753518!16s%2Fg%2F11fqy2w0pw!19sChIJBfL55-rJXzkRcMtyImtpae0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.3070335,
+      "lng": 73.1753518,
+      "label": "Oasis Fertility - Best IVF Centre in Vadodara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 253,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-by-navdip-anand",
+    "name": "Om Dental By Navdip",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Om Dental By Navdip offers coordinated hospital care with major focus on Oral Surgery In Anand. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063538 46481",
+    "alternatePhone": "",
+    "website": "",
+    "address": "102, Kabir Arcade, Beside ITI ground, Grid-X, Lambhvel Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Lambhvel Rd",
+    "landmark": "Beside ITI ground, Grid-X, Lambhvel Rd, Anand, Gujarat 388001",
+    "emergencyContact": "063538 46481",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Dental+By+Navdip/data=!4m7!3m6!1s0x395e4f59e5110be1:0xa320e2d5c2753509!8m2!3d22.557793!4d72.9490523!16s%2Fg%2F11l1qt7wt2!19sChIJ4QsR5VlPXjkRCTV1wtXiIKM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Dental+By+Navdip/data=!4m7!3m6!1s0x395e4f59e5110be1:0xa320e2d5c2753509!8m2!3d22.557793!4d72.9490523!16s%2Fg%2F11l1qt7wt2!19sChIJ4QsR5VlPXjkRCTV1wtXiIKM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.557793,
+      "lng": 72.9490523,
+      "label": "Om Dental By Navdip",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-clinic-anand",
+    "name": "OM Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OM Dental Clinic is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX55+84G, GJ SH 60, Near Axis Bank ATM, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "Near Axis Bank ATM, Ganesh Colony, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/OM+Dental+Clinic/data=!4m7!3m6!1s0x395e4e84ad4982e5:0xe8975faaf9084dcc!8m2!3d22.5583171!4d72.9578421!16s%2Fg%2F12623z3xq!19sChIJ5YJJrYROXjkRzE0I-apfl-g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OM+Dental+Clinic/data=!4m7!3m6!1s0x395e4e84ad4982e5:0xe8975faaf9084dcc!8m2!3d22.5583171!4d72.9578421!16s%2Fg%2F12623z3xq!19sChIJ5YJJrYROXjkRzE0I-apfl-g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5583171,
+      "lng": 72.9578421,
+      "label": "OM Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-dental-care-anand",
+    "name": "Oral Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Oral Dental Care for its strength in Oral Surgery In Anand. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AL-Shafa Complex, Bhalej Rd, opposite to Galaxy Classes, beside Sahara Traders, Ismaile Nagar, At, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "At",
+    "landmark": "beside Sahara Traders, Ismaile Nagar, At, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Dental+Care/data=!4m7!3m6!1s0x395e4f4a1377d5f3:0xa34ad8e40a3ec7f6!8m2!3d22.5720497!4d72.9667107!16s%2Fg%2F11xp71gmzc!19sChIJ89V3E0pPXjkR9sc-CuTYSqM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Dental+Care/data=!4m7!3m6!1s0x395e4f4a1377d5f3:0xa34ad8e40a3ec7f6!8m2!3d22.5720497!4d72.9667107!16s%2Fg%2F11xp71gmzc!19sChIJ89V3E0pPXjkR9sc-CuTYSqM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5720497,
+      "lng": 72.9667107,
+      "label": "Oral Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthorab-hospital-anand-anand",
+    "name": "Orthorab hospital Anand",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Orthorab hospital Anand has built a strong reputation in Anand for multidisciplinary treatment pathways covering Orthopedic Surgery In Anand, Physiotherapy Center, and Orthopaedics. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "OrthoRAB Hospital 100 ft road, B/h, Bachpan School Rd, near Indira Gandhi Statue, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "near Indira Gandhi Statue, Nanikhodiyar, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand",
+      "Physiotherapy Center",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Orthorab+hospital+Anand/data=!4m7!3m6!1s0x395e4ff4e7eb247d:0x42cef4d0bb39db6a!8m2!3d22.5625133!4d72.9486873!16s%2Fg%2F11syz01m0x!19sChIJfSTr5_RPXjkRats5u9D0zkI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Orthorab+hospital+Anand/data=!4m7!3m6!1s0x395e4ff4e7eb247d:0x42cef4d0bb39db6a!8m2!3d22.5625133!4d72.9486873!16s%2Fg%2F11syz01m0x!19sChIJfSTr5_RPXjkRats5u9D0zkI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5625133,
+      "lng": 72.9486873,
+      "label": "Orthorab hospital Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prernaa-hospital-anand",
+    "name": "PRERNAA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, PRERNAA HOSPITAL delivers integrated care across General Surgery In Anand. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0269 235 7576",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Commerce Centre, Mayfair Road, opp. Kasturba Kanya Vidyalaya, Chowkdi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Chowkdi",
+    "landmark": "Mayfair Road",
+    "emergencyContact": "0269 235 7576",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/PRERNAA+HOSPITAL/data=!4m7!3m6!1s0x395e4e9c2eb4e59b:0x1915d8961205997b!8m2!3d22.555961!4d72.9633745!16s%2Fg%2F1hhghv87r!19sChIJm-W0LpxOXjkRe5kFEpbYFRk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRERNAA+HOSPITAL/data=!4m7!3m6!1s0x395e4e9c2eb4e59b:0x1915d8961205997b!8m2!3d22.555961!4d72.9633745!16s%2Fg%2F1hhghv87r!19sChIJm-W0LpxOXjkRe5kFEpbYFRk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.555961,
+      "lng": 72.9633745,
+      "label": "PRERNAA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prime-hospital-vallabh-vidhyanagar-anand",
+    "name": "Prime hospital, Vallabh Vidhyanagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Prime hospital, Vallabh Vidhyanagar for its strength in General Surgery In Anand. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082005 21010",
+    "alternatePhone": "",
+    "website": "https://primesurgicalhospital.in/",
+    "address": "Prime Surgical Hospital Usha building, Mota Bazaar, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "Vallabh Vidyanagar",
+    "emergencyContact": "082005 21010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prime+hospital,+Vallabh+Vidhyanagar/data=!4m7!3m6!1s0x395e4fe5029ef3e7:0x6a2835f26317a2ec!8m2!3d22.549112!4d72.92787!16s%2Fg%2F11wbtj9jz2!19sChIJ5_OeAuVPXjkR7KIXY_I1KGo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prime+hospital,+Vallabh+Vidhyanagar/data=!4m7!3m6!1s0x395e4fe5029ef3e7:0x6a2835f26317a2ec!8m2!3d22.549112!4d72.92787!16s%2Fg%2F11wbtj9jz2!19sChIJ5_OeAuVPXjkR7KIXY_I1KGo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.549112,
+      "lng": 72.92787,
+      "label": "Prime hospital, Vallabh Vidhyanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "priya-nursing-home-anand",
+    "name": "Priya Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Priya Nursing Home has built a strong reputation in Anand for multidisciplinary treatment pathways covering IVF In Anand. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096380 56708",
+    "alternatePhone": "",
+    "website": "https://priyaivfhospital.com/",
+    "address": "Bhalej Rd, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "Anand",
+    "emergencyContact": "096380 56708",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Priya+Nursing+Home/data=!4m7!3m6!1s0x395e4f200e65a89d:0x2b4f0f717b94d716!8m2!3d22.5626521!4d72.9475561!16s%2Fg%2F11fktgp3pq!19sChIJnahlDiBPXjkRFteUe3EPTys?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Priya+Nursing+Home/data=!4m7!3m6!1s0x395e4f200e65a89d:0x2b4f0f717b94d716!8m2!3d22.5626521!4d72.9475561!16s%2Fg%2F11fktgp3pq!19sChIJnahlDiBPXjkRFteUe3EPTys?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5626521,
+      "lng": 72.9475561,
+      "label": "Priya Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pulse-cardiac-institute-anand",
+    "name": "Pulse Cardiac Institute",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pulse Cardiac Institute is a prominent general hospital in Anand, known for structured tertiary care across Heart Surgery In Anand and Cardiac Care. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094281 51412",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Stop N Shop99, 1, Anand, Virat Nagar Rd, near Indira Statue, above State Bank Of, Nanikhodiyar, Ahmedabad, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "1",
+    "landmark": "near Indira Statue, above State Bank Of, Nanikhodiyar, Ahmedabad, Gujarat 388001",
+    "emergencyContact": "094281 51412",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Anand",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Pulse+Cardiac+Institute/data=!4m7!3m6!1s0x395e4e8eab9f9c47:0xd70dafbb921a39dd!8m2!3d22.5684185!4d72.9521347!16s%2Fg%2F11trly7zv9!19sChIJR5yfq45OXjkR3TkakruvDdc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pulse+Cardiac+Institute/data=!4m7!3m6!1s0x395e4e8eab9f9c47:0xd70dafbb921a39dd!8m2!3d22.5684185!4d72.9521347!16s%2Fg%2F11trly7zv9!19sChIJR5yfq45OXjkR3TkakruvDdc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5684185,
+      "lng": 72.9521347,
+      "label": "Pulse Cardiac Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajal-surgical-hospital-anand",
+    "name": "Rajal surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, Rajal surgical Hospital delivers integrated care across Liver Transplant Surgery In Anand. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0269 225 2529",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Charotar bank, ahinsa chawk, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "ahinsa chawk",
+    "landmark": "Anand",
+    "emergencyContact": "0269 225 2529",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Rajal+surgical+Hospital/data=!4m7!3m6!1s0x395e4e9b9b5c96ab:0x475e5ea9b6240bd2!8m2!3d22.5557472!4d72.960062!16s%2Fg%2F11c1w0rbpc!19sChIJq5Zcm5tOXjkR0gsktqleXkc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajal+surgical+Hospital/data=!4m7!3m6!1s0x395e4e9b9b5c96ab:0x475e5ea9b6240bd2!8m2!3d22.5557472!4d72.960062!16s%2Fg%2F11c1w0rbpc!19sChIJq5Zcm5tOXjkR0gsktqleXkc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5557472,
+      "lng": 72.960062,
+      "label": "Rajal surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "revival-physiotherapy-anand",
+    "name": "Revival Physiotherapy",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Revival Physiotherapy for its strength in Orthopedic Surgery In Anand and Physiotherapy Center. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081609 57753",
+    "alternatePhone": "",
+    "website": "https://revival.physio/in/best-physiotherapy-clinic-in-anand/",
+    "address": "First floor, Radha Madhav Conplex, Vedanta Orthopedic & Women's Hospital, Anand, Gujarat 388315",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388315",
+    "locality": "Vedanta Orthopedic & Women's Hospital",
+    "landmark": "Vedanta Orthopedic & Women's Hospital",
+    "emergencyContact": "081609 57753",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Revival+Physiotherapy/data=!4m7!3m6!1s0x395e4e71df19b341:0x600f940532806422!8m2!3d22.5684977!4d72.9426344!16s%2Fg%2F11gcpmgg7_!19sChIJQbMZ33FOXjkRImSAMgWUD2A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Revival+Physiotherapy/data=!4m7!3m6!1s0x395e4e71df19b341:0x600f940532806422!8m2!3d22.5684977!4d72.9426344!16s%2Fg%2F11gcpmgg7_!19sChIJQbMZ33FOXjkRImSAMgWUD2A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5684977,
+      "lng": 72.9426344,
+      "label": "Revival Physiotherapy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rim-s-dental-clinic-anand",
+    "name": "Rim's Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Rim's Dental Clinic for its strength in Oral Surgery In Anand. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082091 32483",
+    "alternatePhone": "",
+    "website": "https://rims-dental-clinic.grexa.site/",
+    "address": "F2, Laxmivilla Complex, 100 Feet Rd, above Noor Electric, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "100 Feet Rd",
+    "emergencyContact": "082091 32483",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rim%27s+Dental+Clinic/data=!4m7!3m6!1s0x395e4ffb454fe4eb:0x4e9718a93a225fd3!8m2!3d22.5637765!4d72.9562489!16s%2Fg%2F11xctwnrck!19sChIJ6-RPRftPXjkR018iOqkYl04?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rim%27s+Dental+Clinic/data=!4m7!3m6!1s0x395e4ffb454fe4eb:0x4e9718a93a225fd3!8m2!3d22.5637765!4d72.9562489!16s%2Fg%2F11xctwnrck!19sChIJ6-RPRftPXjkR018iOqkYl04?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5637765,
+      "lng": 72.9562489,
+      "label": "Rim's Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rutu-general-hospital-anand",
+    "name": "Rutu General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, Rutu General Hospital delivers integrated care across Orthopedic Surgery In Anand. Hospital capacity markers such as Google rating 3.4 and 9+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0269 225 5039",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahavir Chamber, Mahavir Marg, off bhalej road, Mahavir Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Mahavir Rd",
+    "landmark": "off bhalej road",
+    "emergencyContact": "0269 225 5039",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "9+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Rutu+General+Hospital/data=!4m7!3m6!1s0x395e4e9af961302d:0x296cc0d7e89a1a1f!8m2!3d22.561291!4d72.960398!16s%2Fg%2F1v9ty91z!19sChIJLTBh-ZpOXjkRHxqa6NfAbCk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rutu+General+Hospital/data=!4m7!3m6!1s0x395e4e9af961302d:0x296cc0d7e89a1a1f!8m2!3d22.561291!4d72.960398!16s%2Fg%2F1v9ty91z!19sChIJLTBh-ZpOXjkRHxqa6NfAbCk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.561291,
+      "lng": 72.960398,
+      "label": "Rutu General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 9,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sadev-wellness-anand",
+    "name": "Sadev Wellness",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Sadev Wellness for its strength in Oral Surgery In Anand. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076983 60209",
+    "alternatePhone": "",
+    "website": "http://sadevwellness.dentalclinic.net.in/",
+    "address": "nr. Ashok stambh, Kapasia Bazar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Kapasia Bazar",
+    "landmark": "Anand",
+    "emergencyContact": "076983 60209",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sadev+Wellness/data=!4m7!3m6!1s0x395e4e82ab8d2f89:0x25e112ce2448a1df!8m2!3d22.5520799!4d72.9578776!16s%2Fg%2F11g8btwxsg!19sChIJiS-Nq4JOXjkR36FIJM4S4SU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sadev+Wellness/data=!4m7!3m6!1s0x395e4e82ab8d2f89:0x25e112ce2448a1df!8m2!3d22.5520799!4d72.9578776!16s%2Fg%2F11g8btwxsg!19sChIJiS-Nq4JOXjkR36FIJM4S4SU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5520799,
+      "lng": 72.9578776,
+      "label": "Sadev Wellness",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sakhiya-skin-clinic-india-s-no-1-skin-clinic-chain-anand",
+    "name": "Sakhiya Skin Clinic - India's No.1 Skin Clinic Chain",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Sakhiya Skin Clinic - India's No.1 Skin Clinic Chain for its strength in Oral Surgery In Anand. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.sakhiyaskinclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=anand",
+    "address": "Shop no:5, 1st floor, Royal citadel complex, Besides havmore, Anand - Vidyanagar Rd, Vivekanand Wadi, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Royal citadel complex",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India%27s+No.1+Skin+Clinic+Chain/data=!4m7!3m6!1s0x395e4e7f22e42d35:0xa8ae626cc7cd8ead!8m2!3d22.5524211!4d72.9414184!16s%2Fg%2F11ggwc32p8!19sChIJNS3kIn9OXjkRrY7Nx2xirqg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+India%27s+No.1+Skin+Clinic+Chain/data=!4m7!3m6!1s0x395e4e7f22e42d35:0xa8ae626cc7cd8ead!8m2!3d22.5524211!4d72.9414184!16s%2Fg%2F11ggwc32p8!19sChIJNS3kIn9OXjkRrY7Nx2xirqg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5524211,
+      "lng": 72.9414184,
+      "label": "Sakhiya Skin Clinic - India's No.1 Skin Clinic Chain",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-surgical-hospital-anand",
+    "name": "Sanjeevani Surgical Hospital",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Sanjeevani Surgical Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Anand and Surgical Center. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX66+F8X, Near Ajanta society, Mahavir Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Mahavir Rd",
+    "landmark": "Near Ajanta society, Mahavir Rd, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevani+Surgical+Hospital/data=!4m7!3m6!1s0x395e4fadbf7f38ff:0xa3809678b6ba8f11!8m2!3d22.5612413!4d72.960851!16s%2Fg%2F11f64h8cqd!19sChIJ_zh_v61PXjkREY-6tniWgKM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevani+Surgical+Hospital/data=!4m7!3m6!1s0x395e4fadbf7f38ff:0xa3809678b6ba8f11!8m2!3d22.5612413!4d72.960851!16s%2Fg%2F11f64h8cqd!19sChIJ_zh_v61PXjkREY-6tniWgKM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5612413,
+      "lng": 72.960851,
+      "label": "Sanjeevani Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjivani-surgical-hospital-anand",
+    "name": "Sanjivani Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Sanjivani Surgical Hospital brings together specialists for Liver Transplant Surgery In Anand. Hospital capacity markers such as Google rating 4.4 and 28+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099788 90279",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanjivani Surgical Hospital, Mahavir Rd, off Bhalej Road, Patel Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Patel Colony",
+    "landmark": "off Bhalej Road",
+    "emergencyContact": "099788 90279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "28+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjivani+Surgical+Hospital/data=!4m7!3m6!1s0x395e4e9a55e179a3:0xb7d8704fbf753b5d!8m2!3d22.5612464!4d72.9608591!16s%2Fg%2F124yqw1ct!19sChIJo3nhVZpOXjkRXTt1v09w2Lc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjivani+Surgical+Hospital/data=!4m7!3m6!1s0x395e4e9a55e179a3:0xb7d8704fbf753b5d!8m2!3d22.5612464!4d72.9608591!16s%2Fg%2F124yqw1ct!19sChIJo3nhVZpOXjkRXTt1v09w2Lc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5612464,
+      "lng": 72.9608591,
+      "label": "Sanjivani Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 28,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanskar-woman-s-hospital-anand",
+    "name": "SANSKAR WOMAN'S HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SANSKAR WOMAN'S HOSPITAL is a prominent hospital in Anand, known for structured tertiary care across Gynecologist Surgery In Anand and Women and Child Care. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bakrol Rd, opposite bakrol square, Mota Bazaar, Vallabh Vidyanagar, Anand, Gujarat 388315",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388315",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "opposite bakrol square, Mota Bazaar, Vallabh Vidyanagar, Anand, Gujarat 388315",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SANSKAR+WOMAN%27S+HOSPITAL/data=!4m7!3m6!1s0x395e4f04efa20909:0xe156bc30a30ed1c9!8m2!3d22.5609059!4d72.9224266!16s%2Fg%2F11jycp0n1l!19sChIJCQmi7wRPXjkRydEOozC8VuE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANSKAR+WOMAN%27S+HOSPITAL/data=!4m7!3m6!1s0x395e4f04efa20909:0xe156bc30a30ed1c9!8m2!3d22.5609059!4d72.9224266!16s%2Fg%2F11jycp0n1l!19sChIJCQmi7wRPXjkRydEOozC8VuE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5609059,
+      "lng": 72.9224266,
+      "label": "SANSKAR WOMAN'S HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santram-surgical-and-urological-centre-anand",
+    "name": "Santram Surgical And Urological Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Santram Surgical And Urological Centre for its strength in Urologist Surgery In Anand. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Krishna Housing Society, 45, Dr Cook Rd, beside Bardhanwala Complex, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Sardar Ganj",
+    "landmark": "beside Bardhanwala Complex, Ganesh Chokdi, Sardar Ganj, Anand, Gujarat 388001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Santram+Surgical+And+Urological+Centre/data=!4m7!3m6!1s0x395e4fe90e3df76b:0x371b99a4f69a353d!8m2!3d22.5551752!4d72.9660459!16s%2Fg%2F11fktjcflm!19sChIJa_c9DulPXjkRPTWa9qSZGzc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santram+Surgical+And+Urological+Centre/data=!4m7!3m6!1s0x395e4fe90e3df76b:0x371b99a4f69a353d!8m2!3d22.5551752!4d72.9660459!16s%2Fg%2F11fktjcflm!19sChIJa_c9DulPXjkRPTWa9qSZGzc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5551752,
+      "lng": 72.9660459,
+      "label": "Santram Surgical And Urological Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sattva-skin-clinic-anand",
+    "name": "Sattva Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Sattva Skin Clinic brings together specialists for Oral Surgery In Anand. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076239 33756",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6th Floor, Krishna Empire, 01 & 02, opp. Pramukh Pujan Jewels, nr. Townhall, Vivekanand Wadi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Vivekanand Wadi",
+    "landmark": "01 & 02",
+    "emergencyContact": "076239 33756",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sattva+Skin+Clinic/data=!4m7!3m6!1s0x395e4f6c8f241e5f:0x32b0b6d4d0abc416!8m2!3d22.5540814!4d72.950901!16s%2Fg%2F11hf907wth!19sChIJXx4kj2xPXjkRFsSr0NS2sDI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sattva+Skin+Clinic/data=!4m7!3m6!1s0x395e4f6c8f241e5f:0x32b0b6d4d0abc416!8m2!3d22.5540814!4d72.950901!16s%2Fg%2F11hf907wth!19sChIJXx4kj2xPXjkRFsSr0NS2sDI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5540814,
+      "lng": 72.950901,
+      "label": "Sattva Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-dental-clinic-dental-implant-root-canal-treatment-dentist-in-anand-anand",
+    "name": "Shashwat Dental Clinic - Dental Implant - Root Canal Treatment - Dentist in Anand",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Anand, Shashwat Dental Clinic - Dental Implant - Root Canal Treatment - Dentist in Anand delivers integrated care across Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093281 48461",
+    "alternatePhone": "",
+    "website": "https://shashwatdentalclinic.blogspot.com/",
+    "address": "First Floor, Shreeji Sankalp, 100 Feet Rd, near Bachpan School Road, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "near Bachpan School Road, Nanikhodiyar, Anand, Gujarat 388001",
+    "emergencyContact": "093281 48461",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Dental+Clinic+-+Dental+Implant+-+Root+Canal+Treatment+-+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4e862ad8b5d1:0x6312ef8305559de5!8m2!3d22.562293!4d72.948938!16s%2Fg%2F11g9w1vdvk!19sChIJ0bXYKoZOXjkR5Z1VBYPvEmM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Dental+Clinic+-+Dental+Implant+-+Root+Canal+Treatment+-+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4e862ad8b5d1:0x6312ef8305559de5!8m2!3d22.562293!4d72.948938!16s%2Fg%2F11g9w1vdvk!19sChIJ0bXYKoZOXjkR5Z1VBYPvEmM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.562293,
+      "lng": 72.948938,
+      "label": "Shashwat Dental Clinic - Dental Implant - Root Canal Treatment - Dentist in Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-krishna-hospital-anand",
+    "name": "Shree Krishna Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Shree Krishna Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Anand. With public-facing highlights like Google rating 4.1, 722+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://shreekrishnahospital.org/",
+    "address": "Anand - Sojitra Rd, Gokul Nagar, Karamsad, Anand, Gujarat 388325",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388325",
+    "locality": "Karamsad",
+    "landmark": "Karamsad",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "722+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Krishna+Hospital/data=!4m7!3m6!1s0x395e5203e158c8a5:0x416fa814eee399a0!8m2!3d22.5395009!4d72.8936417!16s%2Fg%2F1tftjlzc!19sChIJpchY4QNSXjkRoJnj7hSob0E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Krishna+Hospital/data=!4m7!3m6!1s0x395e5203e158c8a5:0x416fa814eee399a0!8m2!3d22.5395009!4d72.8936417!16s%2Fg%2F1tftjlzc!19sChIJpchY4QNSXjkRoJnj7hSob0E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5395009,
+      "lng": 72.8936417,
+      "label": "Shree Krishna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 722,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-maternity-and-nursing-home-anand",
+    "name": "SHREE MATERNITY & NURSING HOME",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose SHREE MATERNITY & NURSING HOME for its strength in Gynecologist Surgery In Anand. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098251 71090",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX39+V22, Dr Cook Rd, opp. OLD DSP office, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "opp. OLD DSP office",
+    "emergencyContact": "098251 71090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SHREE+MATERNITY+%26+NURSING+HOME/data=!4m7!3m6!1s0x395e4e9fb9c48221:0xc962393ffa33bca8!8m2!3d22.5546456!4d72.9675197!16s%2Fg%2F11csq2n1rk!19sChIJIYLEuZ9OXjkRqLwz-j85Ysk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREE+MATERNITY+%26+NURSING+HOME/data=!4m7!3m6!1s0x395e4e9fb9c48221:0xc962393ffa33bca8!8m2!3d22.5546456!4d72.9675197!16s%2Fg%2F11csq2n1rk!19sChIJIYLEuZ9OXjkRqLwz-j85Ysk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5546456,
+      "lng": 72.9675197,
+      "label": "SHREE MATERNITY & NURSING HOME",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-sai-dental-clinic-karamsad-anand",
+    "name": "Shree Sai Dental Clinic,Karamsad",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Sai Dental Clinic,Karamsad is a prominent dentist in Anand, known for structured tertiary care across Oral Surgery In Anand and Dentist. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091732 20059",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Atmiya sky, F-7, beside Darshan Hotel, Sardar Nagar Society, Phase -IV, Karamsad, Anand, Gujarat 388325",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388325",
+    "locality": "Karamsad",
+    "landmark": "beside Darshan Hotel, Sardar Nagar Society, Phase -IV, Karamsad, Anand, Gujarat 388325",
+    "emergencyContact": "091732 20059",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Sai+Dental+Clinic,Karamsad/data=!4m7!3m6!1s0x395e4d2843786939:0xe28c605432a60b7a!8m2!3d22.5402015!4d72.9071006!16s%2Fg%2F11rwmrjwgk!19sChIJOWl4QyhNXjkRegumMlRgjOI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Sai+Dental+Clinic,Karamsad/data=!4m7!3m6!1s0x395e4d2843786939:0xe28c605432a60b7a!8m2!3d22.5402015!4d72.9071006!16s%2Fg%2F11rwmrjwgk!19sChIJOWl4QyhNXjkRegumMlRgjOI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5402015,
+      "lng": 72.9071006,
+      "label": "Shree Sai Dental Clinic,Karamsad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreeji-women-s-hospital-anand",
+    "name": "Shreeji Women's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Shreeji Women's Hospital for its strength in Gynecologist Surgery In Anand and Women and Child Care. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 225 7743",
+    "alternatePhone": "",
+    "website": "",
+    "address": "201, Bhalej Rd, near Yogi Petrol Pump, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "near Yogi Petrol Pump, Ganesh Colony, Anand, Gujarat 388001",
+    "emergencyContact": "0269 225 7743",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Shreeji+Women%27s+Hospital/data=!4m7!3m6!1s0x395e4e84b2765717:0x511e9b1a478260a5!8m2!3d22.558383!4d72.957623!16s%2Fg%2F11b74gzm7p!19sChIJF1d2soROXjkRpWCCRxqbHlE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shreeji+Women%27s+Hospital/data=!4m7!3m6!1s0x395e4e84b2765717:0x511e9b1a478260a5!8m2!3d22.558383!4d72.957623!16s%2Fg%2F11b74gzm7p!19sChIJF1d2soROXjkRpWCCRxqbHlE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.558383,
+      "lng": 72.957623,
+      "label": "Shreeji Women's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreemay-dental-clinic-and-implant-centre-anand",
+    "name": "SHREEMAY DENTAL CLINIC AND IMPLANT CENTRE",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, SHREEMAY DENTAL CLINIC AND IMPLANT CENTRE offers coordinated hospital care with major focus on Oral Surgery In Anand and Dentist. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SHOP NO 103 FIRST FLOOR, KRISHNA SHILP COMPLEX, opposite SHUBHLAXMI, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "opposite SHUBHLAXMI, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SHREEMAY+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x395e4f455385742f:0xbca02129bd3a63be!8m2!3d22.5505563!4d72.9346325!16s%2Fg%2F11kpq_1fb_!19sChIJL3SFU0VPXjkRvmM6vSkhoLw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREEMAY+DENTAL+CLINIC+AND+IMPLANT+CENTRE/data=!4m7!3m6!1s0x395e4f455385742f:0xbca02129bd3a63be!8m2!3d22.5505563!4d72.9346325!16s%2Fg%2F11kpq_1fb_!19sChIJL3SFU0VPXjkRvmM6vSkhoLw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5505563,
+      "lng": 72.9346325,
+      "label": "SHREEMAY DENTAL CLINIC AND IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-dental-clinic-anand",
+    "name": "Shri Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Shri Dental Clinic for its strength in Oral Surgery In Anand. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 226 6658",
+    "alternatePhone": "",
+    "website": "https://shridentalclinic.com/",
+    "address": "Basement Manilal Mansion, Opp. Jalaram Medical Store, Mayfair Road, near Laxmi Char Rasta, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Laxmi Char Rasta",
+    "landmark": "near Laxmi Char Rasta, Anand, Gujarat 388001",
+    "emergencyContact": "0269 226 6658",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Dental+Clinic/data=!4m7!3m6!1s0x395e4e9b8aff61e7:0xc038debd3e158765!8m2!3d22.5583339!4d72.9624209!16s%2Fg%2F11f_0vt99z!19sChIJ52H_iptOXjkRZYcVPr3eOMA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Dental+Clinic/data=!4m7!3m6!1s0x395e4e9b8aff61e7:0xc038debd3e158765!8m2!3d22.5583339!4d72.9624209!16s%2Fg%2F11f_0vt99z!19sChIJ52H_iptOXjkRZYcVPr3eOMA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5583339,
+      "lng": 72.9624209,
+      "label": "Shri Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-dental-clinic-2nd-branch-anand",
+    "name": "Shri Dental Clinic (2nd Branch)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Dental Clinic (2nd Branch) is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0269 231 9163",
+    "alternatePhone": "",
+    "website": "https://shridentalclinic.com/",
+    "address": "105, 1st Floor, Krishna Aaron, Sardar Patel Rd, behind Iris Hospital, nr. New Sanket Showroom, Rajmarg, Patel Chokdi, Vivekanand Wadi, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Krishna Aaron",
+    "emergencyContact": "0269 231 9163",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Dental+Clinic+%282nd+Branch%29/data=!4m7!3m6!1s0x395e4f5c2d755987:0x4eebcf8843be18a5!8m2!3d22.5641783!4d72.9447318!16s%2Fg%2F11y1cfsb3y!19sChIJh1l1LVxPXjkRpRi-Q4jP604?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Dental+Clinic+%282nd+Branch%29/data=!4m7!3m6!1s0x395e4f5c2d755987:0x4eebcf8843be18a5!8m2!3d22.5641783!4d72.9447318!16s%2Fg%2F11y1cfsb3y!19sChIJh1l1LVxPXjkRpRi-Q4jP604?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5641783,
+      "lng": 72.9447318,
+      "label": "Shri Dental Clinic (2nd Branch)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-o-dent-skin-i-hair-i-laser-i-dentist-in-anand-gujarat-anand",
+    "name": "SKIN O DENT | Skin I Hair I Laser I Dentist in Anand, Gujarat",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose SKIN O DENT | Skin I Hair I Laser I Dentist in Anand, Gujarat for its strength in Oral Surgery In Anand. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081281 99362",
+    "alternatePhone": "",
+    "website": "http://skinodent.in/",
+    "address": "RADHASWAMI SUMIR, 207, Lambhvel Rd, nr. IRIS HOSPITAL, Patel Chokdi, Vivekanand Wadi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Lambhvel Rd",
+    "emergencyContact": "081281 99362",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SKIN+O+DENT+%7C+Skin+I+Hair+I+Laser+I+Dentist+in+Anand,+Gujarat/data=!4m7!3m6!1s0x395e4f064d2eb1db:0x38a1d85f42041b30!8m2!3d22.5641905!4d72.9455618!16s%2Fg%2F11f401jrrs!19sChIJ27EuTQZPXjkRMBsEQl_YoTg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SKIN+O+DENT+%7C+Skin+I+Hair+I+Laser+I+Dentist+in+Anand,+Gujarat/data=!4m7!3m6!1s0x395e4f064d2eb1db:0x38a1d85f42041b30!8m2!3d22.5641905!4d72.9455618!16s%2Fg%2F11f401jrrs!19sChIJ27EuTQZPXjkRMBsEQl_YoTg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5641905,
+      "lng": 72.9455618,
+      "label": "SKIN O DENT | Skin I Hair I Laser I Dentist in Anand, Gujarat",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-vanity-medispa-anand",
+    "name": "Skin Vanity MediSpa",
+    "type": "Spa And Health Club",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Skin Vanity MediSpa has built a strong reputation in Anand for multidisciplinary treatment pathways covering Cosmetic Surgery In Anand and Spa And Health Club. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098254 74989",
+    "alternatePhone": "",
+    "website": "https://skinvanitymedispa.com/",
+    "address": "Second Floor, OM ENCLAVE, Anand - Vidyanagar Rd, opp. Indian Oil Petrol Pump, above Global Desi Showroom, Vivekanand Wadi, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Anand - Vidyanagar Rd",
+    "emergencyContact": "098254 74989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Anand",
+      "Spa And Health Club"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Vanity+MediSpa/data=!4m7!3m6!1s0xa3e968f2d5e2a9b7:0x4a231b3687332032!8m2!3d22.5525792!4d72.9422277!16s%2Fg%2F11sstc2k0z!19sChIJt6ni1fJo6aMRMiAzhzYbI0o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Vanity+MediSpa/data=!4m7!3m6!1s0xa3e968f2d5e2a9b7:0x4a231b3687332032!8m2!3d22.5525792!4d72.9422277!16s%2Fg%2F11sstc2k0z!19sChIJt6ni1fJo6aMRMiAzhzYbI0o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5525792,
+      "lng": 72.9422277,
+      "label": "Skin Vanity MediSpa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-care-dental-clinic-anand",
+    "name": "SMILE CARE DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Anand, SMILE CARE DENTAL CLINIC delivers integrated care across Oral Surgery In Anand and Dentist. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081410 80807",
+    "alternatePhone": "",
+    "website": "http://www.smilecareanand.com/",
+    "address": "Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "Gujarat 388001",
+    "emergencyContact": "081410 80807",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/data=!4m7!3m6!1s0x395e4c2031264f39:0x9d88a7f89cd15618!8m2!3d22.5506993!4d72.9686061!16s%2Fg%2F11sc7rdbt8!19sChIJOU8mMSBMXjkRGFbRnPiniJ0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SMILE+CARE+DENTAL+CLINIC/data=!4m7!3m6!1s0x395e4c2031264f39:0x9d88a7f89cd15618!8m2!3d22.5506993!4d72.9686061!16s%2Fg%2F11sc7rdbt8!19sChIJOU8mMSBMXjkRGFbRnPiniJ0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5506993,
+      "lng": 72.9686061,
+      "label": "SMILE CARE DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-care-anand",
+    "name": "Smile Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Smile Dental Care offers coordinated hospital care with major focus on Oral Surgery In Anand. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084888 76453",
+    "alternatePhone": "",
+    "website": "http://smiledentalcares.in/",
+    "address": "Laksh Imperia Complex, F-103, Sardar Gunj Road, opp. Indian Redcross Society, Gamdi Vad, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gamdi Vad",
+    "landmark": "Sardar Gunj Road",
+    "emergencyContact": "084888 76453",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Care/data=!4m7!3m6!1s0x395e4f855edd8ae3:0x3fd21f2c642868c0!8m2!3d22.5546152!4d72.9604714!16s%2Fg%2F11rd3fgl7k!19sChIJ44rdXoVPXjkRwGgoZCwf0j8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Care/data=!4m7!3m6!1s0x395e4f855edd8ae3:0x3fd21f2c642868c0!8m2!3d22.5546152!4d72.9604714!16s%2Fg%2F11rd3fgl7k!19sChIJ44rdXoVPXjkRwGgoZCwf0j8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5546152,
+      "lng": 72.9604714,
+      "label": "Smile Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-galleria-dental-clinic-best-dental-implant-treatment-clinic-root-canal-treatment-center-in-anand-anand",
+    "name": "Smile Galleria Dental Clinic - Best Dental Implant Treatment Clinic | Root Canal Treatment Center in Anand",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Galleria Dental Clinic - Best Dental Implant Treatment Clinic | Root Canal Treatment Center in Anand is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070965 32278",
+    "alternatePhone": "",
+    "website": "http://www.smilegalleria.in/",
+    "address": "shubhlaxmi shopping centre station road above tirupati courier, near Dr. Ajay Kothiala Hospital, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Dr. Ajay Kothiala Hospital",
+    "landmark": "near Dr. Ajay Kothiala Hospital, Anand, Gujarat 388001",
+    "emergencyContact": "070965 32278",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Galleria+Dental+Clinic+-+Best+Dental+Implant+Treatment+Clinic+%7C+Root+Canal+Treatment+Center+in+Anand/data=!4m7!3m6!1s0x395e4e9e93256457:0xad28571a901af790!8m2!3d22.5565575!4d72.9651697!16s%2Fg%2F11c548zmpn!19sChIJV2Qlk55OXjkRkPcakBpXKK0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Galleria+Dental+Clinic+-+Best+Dental+Implant+Treatment+Clinic+%7C+Root+Canal+Treatment+Center+in+Anand/data=!4m7!3m6!1s0x395e4e9e93256457:0xad28571a901af790!8m2!3d22.5565575!4d72.9651697!16s%2Fg%2F11c548zmpn!19sChIJV2Qlk55OXjkRkPcakBpXKK0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5565575,
+      "lng": 72.9651697,
+      "label": "Smile Galleria Dental Clinic - Best Dental Implant Treatment Clinic | Root Canal Treatment Center in Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-plus-dental-clinic-and-implant-center-trusted-dental-clinic-in-anand-specialized-in-root-canal-and-implants-anand",
+    "name": "Smile Plus Dental Clinic and Implant Center | Trusted Dental Clinic in Anand | Specialized in Root Canal & Implants",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Smile Plus Dental Clinic and Implant Center | Trusted Dental Clinic in Anand | Specialized in Root Canal & Implants brings together specialists for Oral Surgery In Anand. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097249 76002",
+    "alternatePhone": "",
+    "website": "https://drronak88.github.io/smileplusclinicwebsite/",
+    "address": "1st floor, Raheman Plaza, Bhalej Rd, beside shabina shopping center, opposite Al shafa complex, Memon Colony, Ismaile Nagar, Gamdi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gamdi",
+    "landmark": "beside shabina shopping center, opposite Al shafa complex, Memon Colony, Ismaile Nagar, Gamdi, Anand, Gujarat 388001",
+    "emergencyContact": "097249 76002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Plus+Dental+Clinic+and+Implant+Center+%7C+Trusted+Dental+Clinic+in+Anand+%7C+Specialized+in+Root+Canal+%26+Implants/data=!4m7!3m6!1s0x395e4e94521fa47f:0x42ec2c6b878bf69f!8m2!3d22.572374!4d72.9662822!16s%2Fg%2F11c3wtkn51!19sChIJf6QfUpROXjkRn_aLh2ss7EI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Plus+Dental+Clinic+and+Implant+Center+%7C+Trusted+Dental+Clinic+in+Anand+%7C+Specialized+in+Root+Canal+%26+Implants/data=!4m7!3m6!1s0x395e4e94521fa47f:0x42ec2c6b878bf69f!8m2!3d22.572374!4d72.9662822!16s%2Fg%2F11c3wtkn51!19sChIJf6QfUpROXjkRn_aLh2ss7EI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.572374,
+      "lng": 72.9662822,
+      "label": "Smile Plus Dental Clinic and Implant Center | Trusted Dental Clinic in Anand | Specialized in Root Canal & Implants",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sneh-hospital-anand",
+    "name": "Sneh Hospital",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sneh Hospital has built a strong reputation in Anand for multidisciplinary treatment pathways covering IVF In Anand and Fertility Care. With public-facing highlights like Google rating 3.0, 86+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092277 00200",
+    "alternatePhone": "",
+    "website": "https://www.snehhospitals.com/gujarat/anand/",
+    "address": "Mira Women's Hospital, Circle, near Vendor, Ismaile Nagar, Gamdi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gamdi",
+    "landmark": "near Vendor, Ismaile Nagar, Gamdi, Anand, Gujarat 388001",
+    "emergencyContact": "092277 00200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "86+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sneh+Hospital/data=!4m7!3m6!1s0x395e4e93ffc65df5:0x654c4958a1ad168b!8m2!3d22.5699192!4d72.9636442!16s%2Fg%2F11gf9bbpq_!19sChIJ9V3G_5NOXjkRixatoVhJTGU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sneh+Hospital/data=!4m7!3m6!1s0x395e4e93ffc65df5:0x654c4958a1ad168b!8m2!3d22.5699192!4d72.9636442!16s%2Fg%2F11gf9bbpq_!19sChIJ9V3G_5NOXjkRixatoVhJTGU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5699192,
+      "lng": 72.9636442,
+      "label": "Sneh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 86,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spandan-hospital-anand",
+    "name": "Spandan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Spandan Hospital has built a strong reputation in Anand for multidisciplinary treatment pathways covering Gynecologist Surgery In Anand. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 224 4955",
+    "alternatePhone": "",
+    "website": "http://www.spandanhospitalgujarat.com/",
+    "address": "17, 100 Feet Rd, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "Nanikhodiyar",
+    "emergencyContact": "0269 224 4955",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Spandan+Hospital/data=!4m7!3m6!1s0x395e4e87d7db6e15:0xd3c62e6c35e84fbc!8m2!3d22.5623148!4d72.9483878!16s%2Fg%2F11c6dbv9j6!19sChIJFW7b14dOXjkRvE_oNWwuxtM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spandan+Hospital/data=!4m7!3m6!1s0x395e4e87d7db6e15:0xd3c62e6c35e84fbc!8m2!3d22.5623148!4d72.9483878!16s%2Fg%2F11c6dbv9j6!19sChIJFW7b14dOXjkRvE_oNWwuxtM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5623148,
+      "lng": 72.9483878,
+      "label": "Spandan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsh-dental-care-anand",
+    "name": "Sparsh Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sparsh Dental Care has built a strong reputation in Anand for multidisciplinary treatment pathways covering Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082374 41967",
+    "alternatePhone": "",
+    "website": "http://sparshdentalcare.in/",
+    "address": "Ground Floor, Maruti Spand, 8, Jitodia Rd, opp. Aakruti Nagar Society, beside SBI bank, Mangal Nagar Society, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Mangal Nagar Society",
+    "landmark": "beside SBI bank, Mangal Nagar Society, Anand, Gujarat 388001",
+    "emergencyContact": "082374 41967",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sparsh+Dental+Care/data=!4m7!3m6!1s0x395e4e93ffffffff:0x8051f9684491dbf2!8m2!3d22.5357966!4d72.9547818!16s%2Fg%2F11f2dqsgv2!19sChIJ_____5NOXjkR8tuRRGj5UYA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sparsh+Dental+Care/data=!4m7!3m6!1s0x395e4e93ffffffff:0x8051f9684491dbf2!8m2!3d22.5357966!4d72.9547818!16s%2Fg%2F11f2dqsgv2!19sChIJ_____5NOXjkR8tuRRGj5UYA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5357966,
+      "lng": 72.9547818,
+      "label": "Sparsh Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsh-dental-care-center-for-advanced-dentistry-and-implantology-anand",
+    "name": "Sparsh Dental Care - Center for Advanced Dentistry & Implantology",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Sparsh Dental Care - Center for Advanced Dentistry & Implantology offers coordinated hospital care with major focus on Oral Surgery In Anand. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099090 48444",
+    "alternatePhone": "",
+    "website": "https://sparshdentalcare.in/",
+    "address": "204,Krishna saffron Vidyanagar Road opp chitrangana complex Motikaka ni chali, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Krishna saffron Vidyanagar Road opp chitrangana complex Motikaka ni chali",
+    "landmark": "Anand",
+    "emergencyContact": "099090 48444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sparsh+Dental+Care+-+Center+for+Advanced+Dentistry+%26+Implantology/data=!4m7!3m6!1s0x395e4f76243eeb33:0x5f63d8b6d70ef5b5!8m2!3d22.5504648!4d72.9342913!16s%2Fg%2F11vy_tnsj9!19sChIJM-s-JHZPXjkRtfUO17bYY18?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sparsh+Dental+Care+-+Center+for+Advanced+Dentistry+%26+Implantology/data=!4m7!3m6!1s0x395e4f76243eeb33:0x5f63d8b6d70ef5b5!8m2!3d22.5504648!4d72.9342913!16s%2Fg%2F11vy_tnsj9!19sChIJM-s-JHZPXjkRtfUO17bYY18?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5504648,
+      "lng": 72.9342913,
+      "label": "Sparsh Dental Care - Center for Advanced Dentistry & Implantology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudant-dental-clinic-anand",
+    "name": "Sudant Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sudant Dental Clinic is a prominent dental clinic in Anand, known for structured tertiary care across Oral Surgery In Anand. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094096 96751",
+    "alternatePhone": "",
+    "website": "https://www.sudantdental.com/",
+    "address": "sumiran complex, maruti, Anand - Vidyanagar Rd, opposite nandbhumi party plot, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388120",
+    "locality": "Vallabh Vidyanagar",
+    "landmark": "opposite nandbhumi party plot, Vallabh Vidyanagar, Anand, Gujarat 388120",
+    "emergencyContact": "094096 96751",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sudant+Dental+Clinic/data=!4m7!3m6!1s0x395e4e78c10ef407:0x2e4b238d97bda2bf!8m2!3d22.5516455!4d72.9388023!16s%2Fg%2F1hjhf9svc!19sChIJB_QOwXhOXjkRv6K9l40jSy4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudant+Dental+Clinic/data=!4m7!3m6!1s0x395e4e78c10ef407:0x2e4b238d97bda2bf!8m2!3d22.5516455!4d72.9388023!16s%2Fg%2F1hjhf9svc!19sChIJB_QOwXhOXjkRv6K9l40jSy4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5516455,
+      "lng": 72.9388023,
+      "label": "Sudant Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "supreme-shiv-dental-clinic-anand",
+    "name": "Supreme Shiv Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Supreme Shiv Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Anand and Dentist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098982 82213",
+    "alternatePhone": "",
+    "website": "http://www.supremeshiv.co.in/",
+    "address": "VRUNDAVAN Corner, Vrundavan Society, Anand - Vidyanagar Rd, behind Khadim, Vivekanand Wadi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Anand - Vidyanagar Rd",
+    "emergencyContact": "098982 82213",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Supreme+Shiv+Dental+Clinic/data=!4m7!3m6!1s0x395e4e81094d1db7:0x44418710f0548e35!8m2!3d22.5534788!4d72.9454134!16s%2Fg%2F1hhl77cm4!19sChIJtx1NCYFOXjkRNY5U8BCHQUQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Supreme+Shiv+Dental+Clinic/data=!4m7!3m6!1s0x395e4e81094d1db7:0x44418710f0548e35!8m2!3d22.5534788!4d72.9454134!16s%2Fg%2F1hhl77cm4!19sChIJtx1NCYFOXjkRNY5U8BCHQUQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5534788,
+      "lng": 72.9454134,
+      "label": "Supreme Shiv Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surgicare-hospital-anand",
+    "name": "Surgicare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Surgicare Hospital brings together specialists for Oncologist Surgery In Anand. Hospital capacity markers such as Google rating 3.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 225 5998",
+    "alternatePhone": "",
+    "website": "http://www.drshaileshshah.com/",
+    "address": "2nd Floor, R&A Chambers, near Laxmi Cinema, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "near Laxmi Cinema",
+    "landmark": "near Laxmi Cinema, Anand, Gujarat 388001",
+    "emergencyContact": "0269 225 5998",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Surgicare+Hospital/data=!4m7!3m6!1s0x395e4e9b8c37e555:0xcee1c1b1c9f6346d!8m2!3d22.5586273!4d72.9620169!16s%2Fg%2F11g6mqqypl!19sChIJVeU3jJtOXjkRbTT2ybHB4c4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Surgicare+Hospital/data=!4m7!3m6!1s0x395e4e9b8c37e555:0xcee1c1b1c9f6346d!8m2!3d22.5586273!4d72.9620169!16s%2Fg%2F11g6mqqypl!19sChIJVeU3jJtOXjkRbTT2ybHB4c4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5586273,
+      "lng": 72.9620169,
+      "label": "Surgicare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swasan-chest-hospital-best-chest-allergy-and-icu-care-anand",
+    "name": "Swasan Chest Hospital – Best Chest, Allergy & ICU Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swasan Chest Hospital – Best Chest, Allergy & ICU Care has built a strong reputation in Anand for multidisciplinary treatment pathways covering General Surgery In Anand. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090234 35388",
+    "alternatePhone": "",
+    "website": "https://www.swasan.in/",
+    "address": "Radha Soami Samyak, 301-302, Lambhvel Rd, opp. Crescent Restaurant, Patel Chokdi, Vivekanand Wadi, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Vivekanand Wadi",
+    "landmark": "Lambhvel Rd",
+    "emergencyContact": "090234 35388",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swasan+Chest+Hospital+%E2%80%93+Best+Chest,+Allergy+%26+ICU+Care/data=!4m7!3m6!1s0x395e4f34ad1a82e3:0x52563c6ae3c4d1f9!8m2!3d22.5623112!4d72.9465482!16s%2Fg%2F11fptr27m6!19sChIJ44IarTRPXjkR-dHE42o8VlI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swasan+Chest+Hospital+%E2%80%93+Best+Chest,+Allergy+%26+ICU+Care/data=!4m7!3m6!1s0x395e4f34ad1a82e3:0x52563c6ae3c4d1f9!8m2!3d22.5623112!4d72.9465482!16s%2Fg%2F11fptr27m6!19sChIJ44IarTRPXjkR-dHE42o8VlI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5623112,
+      "lng": 72.9465482,
+      "label": "Swasan Chest Hospital – Best Chest, Allergy & ICU Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-hospital-and-icu-anand",
+    "name": "Swastik Hospital And ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, Swastik Hospital And ICU brings together specialists for General Surgery In Anand. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 235 6316",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Rangoli Complex, Nr. Pioneer School Nr. N S Patel Circle, Bhalej Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Bhalej Rd",
+    "landmark": "Nr. Pioneer School Nr. N S Patel Circle",
+    "emergencyContact": "0269 235 6316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Hospital+And+ICU/data=!4m7!3m6!1s0x395e4f54ded31739:0x98f68cfeceeabd5!8m2!3d22.5593334!4d72.9585171!16s%2Fg%2F11mtjfl36_!19sChIJORfT3lRPXjkR1avu7M9ojwk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Hospital+And+ICU/data=!4m7!3m6!1s0x395e4f54ded31739:0x98f68cfeceeabd5!8m2!3d22.5593334!4d72.9585171!16s%2Fg%2F11mtjfl36_!19sChIJORfT3lRPXjkR1avu7M9ojwk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5593334,
+      "lng": 72.9585171,
+      "label": "Swastik Hospital And ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-liver-clinic-kolkata",
+    "name": "The Liver Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Liver Clinic has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Anand, Surgical Center, and Liver Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "202, Purbachal Main Rd, Purbachal, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Anand",
+      "Surgical Center",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5024883,
+      "lng": 88.3926269,
+      "label": "The Liver Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thesia-general-hospital-anand",
+    "name": "THESIA GENERAL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, THESIA GENERAL HOSPITAL delivers integrated care across Gynecologist Surgery In Anand. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092657 59463",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX75+HV3, Bhalej Rd, opp. Bagiwala Lane, Yogi Swami Society, Nanikhodiyar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Nanikhodiyar",
+    "landmark": "opp. Bagiwala Lane",
+    "emergencyContact": "092657 59463",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/THESIA+GENERAL+HOSPITAL/data=!4m7!3m6!1s0x395e4f54ea9a0223:0x8f5bbfa22fce5f1a!8m2!3d22.5636961!4d72.9599322!16s%2Fg%2F11pl9rwr6_!19sChIJIwKa6lRPXjkRGl_OL6K_W48?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/THESIA+GENERAL+HOSPITAL/data=!4m7!3m6!1s0x395e4f54ea9a0223:0x8f5bbfa22fce5f1a!8m2!3d22.5636961!4d72.9599322!16s%2Fg%2F11pl9rwr6_!19sChIJIwKa6lRPXjkRGl_OL6K_W48?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5636961,
+      "lng": 72.9599322,
+      "label": "THESIA GENERAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tulip-heart-center-anand",
+    "name": "Tulip Heart Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tulip Heart Center has built a strong reputation in Anand for multidisciplinary treatment pathways covering Heart Surgery In Anand and Cardiac Care. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084900 02323",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd floor, yogim sankul, bus stand, near new, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "near new, Ganesh Colony, Anand, Gujarat 388001",
+    "emergencyContact": "084900 02323",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Anand",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Tulip+Heart+Center/data=!4m7!3m6!1s0x395e4f79701bf995:0xdd3ef53ba9acd31a!8m2!3d22.5576503!4d72.9572311!16s%2Fg%2F11rsc0ll93!19sChIJlfkbcHlPXjkRGtOsqTv1Pt0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tulip+Heart+Center/data=!4m7!3m6!1s0x395e4f79701bf995:0xdd3ef53ba9acd31a!8m2!3d22.5576503!4d72.9572311!16s%2Fg%2F11rsc0ll93!19sChIJlfkbcHlPXjkRGtOsqTv1Pt0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5576503,
+      "lng": 72.9572311,
+      "label": "Tulip Heart Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "usha-nursing-home-anand",
+    "name": "Usha Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Anand, Usha Nursing Home delivers integrated care across IVF In Anand. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096872 82841",
+    "alternatePhone": "",
+    "website": "http://www.ushanursinghome.in/",
+    "address": "Dr Cook Rd, near Gurudwara Circle, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "near Gurudwara Circle, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "emergencyContact": "096872 82841",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Usha+Nursing+Home/data=!4m7!3m6!1s0x395e4e9fb39a053d:0x9e692a66888fc2d!8m2!3d22.5548327!4d72.9670251!16s%2Fg%2F1hc329npx!19sChIJPQWas59OXjkRLfyIaKaS5gk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Usha+Nursing+Home/data=!4m7!3m6!1s0x395e4e9fb39a053d:0x9e692a66888fc2d!8m2!3d22.5548327!4d72.9670251!16s%2Fg%2F1hc329npx!19sChIJPQWas59OXjkRLfyIaKaS5gk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5548327,
+      "lng": 72.9670251,
+      "label": "Usha Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vihar-hospital-anand",
+    "name": "Vihar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vihar Hospital has built a strong reputation in Anand for multidisciplinary treatment pathways covering Orthopedic Surgery In Anand. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HX38+RWX, Dr Cook Rd, Nandanvan Society, Popati Nagar, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Popati Nagar",
+    "landmark": "Nandanvan Society",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Vihar+Hospital/data=!4m7!3m6!1s0x395e4e9fb6dd0dbd:0x8b5ceaa1aef19fb5!8m2!3d22.5546096!4d72.9673642!16s%2Fg%2F11c2qrnz1p!19sChIJvQ3dtp9OXjkRtZ_xrqHqXIs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vihar+Hospital/data=!4m7!3m6!1s0x395e4e9fb6dd0dbd:0x8b5ceaa1aef19fb5!8m2!3d22.5546096!4d72.9673642!16s%2Fg%2F11c2qrnz1p!19sChIJvQ3dtp9OXjkRtZ_xrqHqXIs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5546096,
+      "lng": 72.9673642,
+      "label": "Vihar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "zen-ivf-anand",
+    "name": "Zen IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Anand, Zen IVF offers coordinated hospital care with major focus on IVF In Anand and Fertility Care. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B/H, Bachpan School, Zen Ivf, 100 Feet Rd, nr. Indira Gandhi statue, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "nr. Indira Gandhi statue",
+    "landmark": "Zen Ivf",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Anand",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Zen+IVF/data=!4m7!3m6!1s0x395e4faf2a7de193:0x46768f248104eb98!8m2!3d22.5625262!4d72.9487564!16s%2Fg%2F11x954bthd!19sChIJk-F9Kq9PXjkRmOsEgSSPdkY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Zen+IVF/data=!4m7!3m6!1s0x395e4faf2a7de193:0x46768f248104eb98!8m2!3d22.5625262!4d72.9487564!16s%2Fg%2F11x954bthd!19sChIJk-F9Kq9PXjkRmOsEgSSPdkY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5625262,
+      "lng": 72.9487564,
+      "label": "Zen IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "zydus-hospitals-anand-anand",
+    "name": "Zydus Hospitals, Anand",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Anand often choose Zydus Hospitals, Anand for its strength in Kidney Transplant Surgery In Anand. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0269 261 9501",
+    "alternatePhone": "",
+    "website": "https://www.zydushospitals.com/Anand/",
+    "address": "Anand-Lambhvel Road, Zydus Rd, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Zydus Rd",
+    "landmark": "Anand",
+    "emergencyContact": "0269 261 9501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Zydus+Hospitals,+Anand/data=!4m7!3m6!1s0x395e4e89d4fe9357:0xc0d8489832ca9d92!8m2!3d22.566719!4d72.9458388!16s%2Fg%2F12j3sfj70!19sChIJV5P-1IlOXjkRkp3KMphI2MA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Zydus+Hospitals,+Anand/data=!4m7!3m6!1s0x395e4e89d4fe9357:0xc0d8489832ca9d92!8m2!3d22.566719!4d72.9458388!16s%2Fg%2F12j3sfj70!19sChIJV5P-1IlOXjkRkp3KMphI2MA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.566719,
+      "lng": 72.9458388,
+      "label": "Zydus Hospitals, Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-dental-clinic-dental-implants-centre-root-canal-best-dentist-in-anand-anand",
+    "name": "✅ 𝗖𝗵𝗶𝗻𝘁𝗮𝗻 𝗗𝗲𝗻𝘁𝗮𝗹 𝗖𝗹𝗶𝗻𝗶𝗰 & 𝗜𝗺𝗽𝗹𝗮𝗻𝘁 𝗖𝗲𝗻𝘁𝗿𝗲 - Dental Clinic| Dental Implants Centre| Root Canal| Best Dentist in Anand",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Anand, ✅ 𝗖𝗵𝗶𝗻𝘁𝗮𝗻 𝗗𝗲𝗻𝘁𝗮𝗹 𝗖𝗹𝗶𝗻𝗶𝗰 & 𝗜𝗺𝗽𝗹𝗮𝗻𝘁 𝗖𝗲𝗻𝘁𝗿𝗲 - Dental Clinic| Dental Implants Centre| Root Canal| Best Dentist in Anand brings together specialists for Oral Surgery In Anand. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0269 235 7807",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SF 9/10, Gopal Avenue, Gopal Crossing,, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Gopal Crossing",
+    "landmark": "Gopal Crossing",
+    "emergencyContact": "0269 235 7807",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+%26+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+-+Dental+Clinic%7C+Dental+Implants+Centre%7C+Root+Canal%7C+Best+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4e9c2dcd18cd:0x1b5068b2e1b2c2cf!8m2!3d22.5564771!4d72.9635701!16s%2Fg%2F1thx2ff6!19sChIJzRjNLZxOXjkRz8Ky4bJoUBs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BB+%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0+%26+%F0%9D%97%9C%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%81+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+-+Dental+Clinic%7C+Dental+Implants+Centre%7C+Root+Canal%7C+Best+Dentist+in+Anand/data=!4m7!3m6!1s0x395e4e9c2dcd18cd:0x1b5068b2e1b2c2cf!8m2!3d22.5564771!4d72.9635701!16s%2Fg%2F1thx2ff6!19sChIJzRjNLZxOXjkRz8Ky4bJoUBs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5564771,
+      "lng": 72.9635701,
+      "label": "✅ 𝗖𝗵𝗶𝗻𝘁𝗮𝗻 𝗗𝗲𝗻𝘁𝗮𝗹 𝗖𝗹𝗶𝗻𝗶𝗰 & 𝗜𝗺𝗽𝗹𝗮𝗻𝘁 𝗖𝗲𝗻𝘁𝗿𝗲 - Dental Clinic| Dental Implants Centre| Root Canal| Best Dentist in Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "zubari-dental-hospital-farhan-best-implantologist-dental-implant-care-center-clear-aligner-orthodontics-braces-in-anand-anand",
+    "name": "✅Zubari Dental Hospital Farhan -Best Implantologist |Dental Implant Care Center |Clear Aligner Orthodontics Braces in Anand",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Anand, ✅Zubari Dental Hospital Farhan -Best Implantologist |Dental Implant Care Center |Clear Aligner Orthodontics Braces in Anand delivers integrated care across Oral Surgery In Anand and Orthopaedics. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094083 98108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F/5 above shalimar hair saloon, 100 Feet Rd, near MRF show room, Ganesh Colony, Anand, Gujarat 388001",
+    "city": "Anand",
+    "state": "Gujarat",
+    "pincode": "388001",
+    "locality": "Ganesh Colony",
+    "landmark": "near MRF show room, Ganesh Colony, Anand, Gujarat 388001",
+    "emergencyContact": "094083 98108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Anand",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85Zubari+Dental+Hospital+Farhan+-Best+Implantologist+%7CDental+Implant+Care+Center+%7CClear+Aligner+Orthodontics+Braces+in+Anand/data=!4m7!3m6!1s0x395e4e9aa6564cdd:0x54cb8137b31283b6!8m2!3d22.5633298!4d72.958464!16s%2Fg%2F11by_q10qq!19sChIJ3UxWpppOXjkRtoMSszeBy1Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85Zubari+Dental+Hospital+Farhan+-Best+Implantologist+%7CDental+Implant+Care+Center+%7CClear+Aligner+Orthodontics+Braces+in+Anand/data=!4m7!3m6!1s0x395e4e9aa6564cdd:0x54cb8137b31283b6!8m2!3d22.5633298!4d72.958464!16s%2Fg%2F11by_q10qq!19sChIJ3UxWpppOXjkRtoMSszeBy1Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5633298,
+      "lng": 72.958464,
+      "label": "✅Zubari Dental Hospital Farhan -Best Implantologist |Dental Implant Care Center |Clear Aligner Orthodontics Braces in Anand",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

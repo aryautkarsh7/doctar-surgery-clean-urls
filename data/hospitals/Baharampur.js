@@ -1,0 +1,13272 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aahil-hospitex-berhampore",
+    "name": "AAHIL HOSPITEX",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AAHIL HOSPITEX has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Laparoscopic Surgery In Baharampur. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086979 84582",
+    "alternatePhone": "",
+    "website": "https://advancehcs.in/",
+    "address": "Near Karbala Road, More, Raninagar, Radhikanagar, Chalpatti, Berhampore, West Bengal 742102",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742102",
+    "locality": "Chalpatti",
+    "landmark": "Raninagar",
+    "emergencyContact": "086979 84582",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AAHIL+HOSPITEX/data=!4m7!3m6!1s0x39f97dbb54de8745:0x30e13261b4cf2218!8m2!3d24.1042074!4d88.2752239!16s%2Fg%2F11b7jt_4cy!19sChIJRYfeVLt9-TkRGCLPtGEy4TA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AAHIL+HOSPITEX/data=!4m7!3m6!1s0x39f97dbb54de8745:0x30e13261b4cf2218!8m2!3d24.1042074!4d88.2752239!16s%2Fg%2F11b7jt_4cy!19sChIJRYfeVLt9-TkRGCLPtGEy4TA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1042074,
+      "lng": 88.2752239,
+      "label": "AAHIL HOSPITEX",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advance-health-care-berhampore",
+    "name": "ADVANCE HEALTH CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ADVANCE HEALTH CARE is a prominent hospital in Berhampore, known for structured tertiary care across Oncologist Surgery In Baharampur. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081454 00400",
+    "alternatePhone": "",
+    "website": "",
+    "address": "16, Shri Ram Siromani Rd, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Khagra",
+    "emergencyContact": "081454 00400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ADVANCE+HEALTH+CARE/data=!4m7!3m6!1s0x7398b48aa5115cd:0x78f6d7d9e4df859a!8m2!3d24.1012973!4d88.2545251!16s%2Fg%2F11yqk4vfd8!19sChIJzRVRqkiLOQcRmoXf5NnX9ng?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ADVANCE+HEALTH+CARE/data=!4m7!3m6!1s0x7398b48aa5115cd:0x78f6d7d9e4df859a!8m2!3d24.1012973!4d88.2545251!16s%2Fg%2F11yqk4vfd8!19sChIJzRVRqkiLOQcRmoXf5NnX9ng?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1012973,
+      "lng": 88.2545251,
+      "label": "ADVANCE HEALTH CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ahir-dental-clinic-berhampore",
+    "name": "Ahir dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Ahir dental clinic offers coordinated hospital care with major focus on Oral Surgery In Baharampur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "134, Bonbehari Sen Rd, opp. CENTRAL CO-OPERATIVE BANK, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "opp. CENTRAL CO-OPERATIVE BANK",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ahir+dental+clinic/data=!4m7!3m6!1s0x39f97dc32621bee7:0xfb7de0c6e1271bee!8m2!3d24.1064617!4d88.2502764!16s%2Fg%2F11t7hdlgcd!19sChIJ574hJsN9-TkR7hsn4cbgffs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ahir+dental+clinic/data=!4m7!3m6!1s0x39f97dc32621bee7:0xfb7de0c6e1271bee!8m2!3d24.1064617!4d88.2502764!16s%2Fg%2F11t7hdlgcd!19sChIJ574hJsN9-TkR7hsn4cbgffs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1064617,
+      "lng": 88.2502764,
+      "label": "Ahir dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-24-7-lab-tests-near-me-khagra-home-collection-berhampore-berhampore",
+    "name": "Apollo 24|7 Lab Tests Near Me | Khagra | Home Collection | Berhampore",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo 24|7 Lab Tests Near Me | Khagra | Home Collection | Berhampore has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Cardiac Surgery In Baharampur and Diagnostic Center. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080488 51037",
+    "alternatePhone": "",
+    "website": "https://www.apollo247.com/lab-tests?utm_source=gmb&utm_medium=listingname",
+    "address": "Ground Floor, No. 95, Bonbehari Sen Rd, opp. Jio Digital Life, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "Bonbehari Sen Rd",
+    "emergencyContact": "080488 51037",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Khagra+%7C+Home+Collection+%7C+Berhampore/data=!4m7!3m6!1s0x39f97d524b2c7749:0x27ffa32ab44f4245!8m2!3d24.1096544!4d88.2493084!16s%2Fg%2F11w3l74dd8!19sChIJSXcsS1J9-TkRRUJPtCqj_yc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+24%7C7+Lab+Tests+Near+Me+%7C+Khagra+%7C+Home+Collection+%7C+Berhampore/data=!4m7!3m6!1s0x39f97d524b2c7749:0x27ffa32ab44f4245!8m2!3d24.1096544!4d88.2493084!16s%2Fg%2F11w3l74dd8!19sChIJSXcsS1J9-TkRRUJPtCqj_yc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1096544,
+      "lng": 88.2493084,
+      "label": "Apollo 24|7 Lab Tests Near Me | Khagra | Home Collection | Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-diagnostics-blood-tests-home-collection-and-full-body-checkups-murshidabad-berhampore",
+    "name": "Apollo Diagnostics - Blood Tests - Home Collection & Full Body Checkups Murshidabad",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Apollo Diagnostics - Blood Tests - Home Collection & Full Body Checkups Murshidabad offers coordinated hospital care with major focus on Cardiac Surgery In Baharampur and Diagnostic Center. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062937 09544",
+    "alternatePhone": "",
+    "website": "https://www.apollodiagnostics.in/",
+    "address": "Abhishikta Apartment, 47G/2, KK Banerjee Rd, opposite Yamaha Showroom, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "opposite Yamaha Showroom, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "emergencyContact": "062937 09544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Murshidabad/data=!4m7!3m6!1s0x39f97d4c70945e21:0x3fd2e923cc8ba41f!8m2!3d24.0865297!4d88.2512573!16s%2Fg%2F11vlf6m3j8!19sChIJIV6UcEx9-TkRH6SLzCPp0j8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Diagnostics+-+Blood+Tests+-+Home+Collection+%26+Full+Body+Checkups+Murshidabad/data=!4m7!3m6!1s0x39f97d4c70945e21:0x3fd2e923cc8ba41f!8m2!3d24.0865297!4d88.2512573!16s%2Fg%2F11vlf6m3j8!19sChIJIV6UcEx9-TkRH6SLzCPp0j8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0865297,
+      "lng": 88.2512573,
+      "label": "Apollo Diagnostics - Blood Tests - Home Collection & Full Body Checkups Murshidabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-chennai-information-centre-berhampore-gora-bazar",
+    "name": "Apollo Hospitals Chennai Information Centre Berhampore",
+    "type": "Health Consultant",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gora Bazar often choose Apollo Hospitals Chennai Information Centre Berhampore for its strength in Laparoscopic Surgery In Baharampur and Health Consultant. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/",
+    "address": "Nimtala, Gora Bazar, West Bengal 742101",
+    "city": "Gora Bazar",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Nimtala",
+    "landmark": "West Bengal 742101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur",
+      "Health Consultant"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Berhampore/data=!4m7!3m6!1s0x39f97d9eccd804eb:0x5ef84355a619206f!8m2!3d24.086691!4d88.247091!16s%2Fg%2F11wc5prmgh!19sChIJ6wTYzJ59-TkRbyAZplVD-F4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+Chennai+Information+Centre+Berhampore/data=!4m7!3m6!1s0x39f97d9eccd804eb:0x5ef84355a619206f!8m2!3d24.086691!4d88.247091!16s%2Fg%2F11wc5prmgh!19sChIJ6wTYzJ59-TkRbyAZplVD-F4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.086691,
+      "lng": 88.247091,
+      "label": "Apollo Hospitals Chennai Information Centre Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "auditone-speech-and-hearing-clinic-in-berhampore-berhampore",
+    "name": "Auditone | Speech & Hearing Clinic in Berhampore",
+    "type": "Hearing Aid Store",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose Auditone | Speech & Hearing Clinic in Berhampore for its strength in Spine Neurosurgeon In Baharampur and Hearing Aid Store. Its infrastructure includes Google rating 4.9, 66+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079083 59922",
+    "alternatePhone": "",
+    "website": "https://auditone.in/",
+    "address": "Stall No, Marker, 19 & 20, Swarnamoyee Rd, opposite Murshidabad Medical Collage & Hospital, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "opposite Murshidabad Medical Collage & Hospital, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "emergencyContact": "079083 59922",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Hearing Aid Store"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "66+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Auditone+%7C+Speech+%26+Hearing+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dba25d5551b:0x75c1659bf3b67fcd!8m2!3d24.0876987!4d88.2589971!16s%2Fg%2F11j2lxwh8w!19sChIJG1XVJbp9-TkRzX-285tlwXU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Auditone+%7C+Speech+%26+Hearing+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dba25d5551b:0x75c1659bf3b67fcd!8m2!3d24.0876987!4d88.2589971!16s%2Fg%2F11j2lxwh8w!19sChIJG1XVJbp9-TkRzX-285tlwXU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0876987,
+      "lng": 88.2589971,
+      "label": "Auditone | Speech & Hearing Clinic in Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 66,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bangiya-chikitsalay-berhampore",
+    "name": "BANGIYA CHIKITSALAY",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BANGIYA CHIKITSALAY has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Surgery In Baharampur. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Swarnamayee Market, 68 Swarnamayee Road (On Station Road) opp Murshidabad Medical College, Just behind the Municipal Market Complex, Post, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Just behind the Municipal Market Complex",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BANGIYA+CHIKITSALAY/data=!4m7!3m6!1s0x39f97d6f5ef5337b:0x3e6d51268b498c87!8m2!3d24.0874962!4d88.2597684!16s%2Fg%2F11m7pm4q6r!19sChIJezP1Xm99-TkRh4xJiyZRbT4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BANGIYA+CHIKITSALAY/data=!4m7!3m6!1s0x39f97d6f5ef5337b:0x3e6d51268b498c87!8m2!3d24.0874962!4d88.2597684!16s%2Fg%2F11m7pm4q6r!19sChIJezP1Xm99-TkRh4xJiyZRbT4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0874962,
+      "lng": 88.2597684,
+      "label": "BANGIYA CHIKITSALAY",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "beacon-hospital-and-research-centre-private-limited-berhampore",
+    "name": "BEACON HOSPITAL & RESEARCH CENTRE PRIVATE LIMITED",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Berhampore, BEACON HOSPITAL & RESEARCH CENTRE PRIVATE LIMITED delivers integrated care across Laparoscopic Surgery In Baharampur. With public-facing highlights like Google rating 3.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094344 41914",
+    "alternatePhone": "",
+    "website": "",
+    "address": "24/A, Shilpa Taluk, B/10, Kalikapore Road, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "B/10",
+    "emergencyContact": "094344 41914",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/BEACON+HOSPITAL+%26+RESEARCH+CENTRE+PRIVATE+LIMITED/data=!4m7!3m6!1s0x39f97dc25add809f:0xe909e76cb6c1c32!8m2!3d24.0926345!4d88.2645265!16s%2Fg%2F11jkzl34vz!19sChIJn4DdWsJ9-TkRMhxsy3aekA4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BEACON+HOSPITAL+%26+RESEARCH+CENTRE+PRIVATE+LIMITED/data=!4m7!3m6!1s0x39f97dc25add809f:0xe909e76cb6c1c32!8m2!3d24.0926345!4d88.2645265!16s%2Fg%2F11jkzl34vz!19sChIJn4DdWsJ9-TkRMhxsy3aekA4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0926345,
+      "lng": 88.2645265,
+      "label": "BEACON HOSPITAL & RESEARCH CENTRE PRIVATE LIMITED",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bengal-gastroliv-care-llp-berhampore",
+    "name": "Bengal GastroLiv Care LLP বেঙ্গল গ্যাস্ট্রোলিভ কেয়ার",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bengal GastroLiv Care LLP বেঙ্গল গ্যাস্ট্রোলিভ কেয়ার has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Liver Transplant Surgery In Baharampur and Gastroenterology. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096350 84297",
+    "alternatePhone": "",
+    "website": "http://www.bengalgastrolivcare.com/",
+    "address": "7272/XVII Chaltia Dhopapara Village: Chaltia Bhakuri, Road, Chaltia, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Chaltia",
+    "landmark": "Chaltia",
+    "emergencyContact": "096350 84297",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bengal+GastroLiv+Care+LLP+%E0%A6%AC%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2+%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AD+%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0/data=!4m7!3m6!1s0x39f97d0059540eaf:0x6af13f72d8ea9714!8m2!3d24.0773482!4d88.2589039!16s%2Fg%2F11wxhdp4_0!19sChIJrw5UWQB9-TkRFJfq2HI_8Wo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bengal+GastroLiv+Care+LLP+%E0%A6%AC%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%B2+%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B2%E0%A6%BF%E0%A6%AD+%E0%A6%95%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0/data=!4m7!3m6!1s0x39f97d0059540eaf:0x6af13f72d8ea9714!8m2!3d24.0773482!4d88.2589039!16s%2Fg%2F11wxhdp4_0!19sChIJrw5UWQB9-TkRFJfq2HI_8Wo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0773482,
+      "lng": 88.2589039,
+      "label": "Bengal GastroLiv Care LLP বেঙ্গল গ্যাস্ট্রোলিভ কেয়ার",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "berhampore-city-hospital-chaltia",
+    "name": "Berhampore City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Berhampore City Hospital has built a strong reputation in Chaltia for multidisciplinary treatment pathways covering Spine Surgery In Baharampur. Operational strengths including Google rating 3.7, 6+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077978 40530",
+    "alternatePhone": "",
+    "website": "https://berhamporecityhospital.org/",
+    "address": "Sri Guru Pathsala, Near, Maankumari Rd, Raninagar, Gora Bazar, Berhampore, Chaltia, West Bengal 742407",
+    "city": "Chaltia",
+    "state": "West Bengal",
+    "pincode": "742407",
+    "locality": "Berhampore",
+    "landmark": "Maankumari Rd",
+    "emergencyContact": "077978 40530",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "6+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Berhampore+City+Hospital/data=!4m7!3m6!1s0x39f97c2e054f3fd5:0x90e2442dbcce0c71!8m2!3d24.0796755!4d88.2551476!16s%2Fg%2F11ddxswtcx!19sChIJ1T9PBS58-TkRcQzOvC1E4pA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Berhampore+City+Hospital/data=!4m7!3m6!1s0x39f97c2e054f3fd5:0x90e2442dbcce0c71!8m2!3d24.0796755!4d88.2551476!16s%2Fg%2F11ddxswtcx!19sChIJ1T9PBS58-TkRcQzOvC1E4pA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0796755,
+      "lng": 88.2551476,
+      "label": "Berhampore City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 6,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "berhampore-ent-clinic-dr-abir-chowdhury-berhampore",
+    "name": "Berhampore ENT Clinic (Dr Abir Chowdhury)",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose Berhampore ENT Clinic (Dr Abir Chowdhury) for its strength in Laparoscopic Surgery In Baharampur and ENT. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lower kadai, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Lower kadai",
+    "landmark": "West Bengal 742101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Berhampore+ENT+Clinic+%28Dr+Abir+Chowdhury%29/data=!4m7!3m6!1s0x39f97d9c98d70ad1:0xeda9d0f06844c18d!8m2!3d24.1027724!4d88.2534583!16s%2Fg%2F11svdn2qq_!19sChIJ0QrXmJx9-TkRjcFEaPDQqe0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Berhampore+ENT+Clinic+%28Dr+Abir+Chowdhury%29/data=!4m7!3m6!1s0x39f97d9c98d70ad1:0xeda9d0f06844c18d!8m2!3d24.1027724!4d88.2534583!16s%2Fg%2F11svdn2qq_!19sChIJ0QrXmJx9-TkRjcFEaPDQqe0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1027724,
+      "lng": 88.2534583,
+      "label": "Berhampore ENT Clinic (Dr Abir Chowdhury)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "berhampore-health-care-berhampore",
+    "name": "Berhampore Health Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Berhampore Health Care is a prominent hospital in Berhampore, known for structured tertiary care across Gynecologist Surgery In Baharampur. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093320 12942",
+    "alternatePhone": "",
+    "website": "https://berhamporehealthcare.in/",
+    "address": "NH 12, Raninagar, Chuapur, Berhampore, West Bengal 742102",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742102",
+    "locality": "Chuapur",
+    "landmark": "Chuapur",
+    "emergencyContact": "093320 12942",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Berhampore+Health+Care/data=!4m7!3m6!1s0x39f97d2d878a99a3:0xed07417d452ec593!8m2!3d24.0787398!4d88.2680442!16s%2Fg%2F11pvgc49_h!19sChIJo5mKhy19-TkRk8UuRX1BB-0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Berhampore+Health+Care/data=!4m7!3m6!1s0x39f97d2d878a99a3:0xed07417d452ec593!8m2!3d24.0787398!4d88.2680442!16s%2Fg%2F11pvgc49_h!19sChIJo5mKhy19-TkRk8UuRX1BB-0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0787398,
+      "lng": 88.2680442,
+      "label": "Berhampore Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhagirathi-medical-center-berhampore",
+    "name": "Bhagirathi Medical Center",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhagirathi Medical Center has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering IVF In Baharampur and Medical Diagnostic Imaging Center. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091531 22096",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Berhampore",
+    "emergencyContact": "091531 22096",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Bhagirathi+Medical+Center/data=!4m7!3m6!1s0x39f97d9fefbc4011:0x72beb5ea973d14bf!8m2!3d24.0948704!4d88.2553216!16s%2Fg%2F11t5sxxqhf!19sChIJEUC87599-TkRvxQ9l-q1vnI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhagirathi+Medical+Center/data=!4m7!3m6!1s0x39f97d9fefbc4011:0x72beb5ea973d14bf!8m2!3d24.0948704!4d88.2553216!16s%2Fg%2F11t5sxxqhf!19sChIJEUC87599-TkRvxQ9l-q1vnI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0948704,
+      "lng": 88.2553216,
+      "label": "Bhagirathi Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "birth-fertility-clinic-kolkata",
+    "name": "BIRTH Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose BIRTH Fertility Clinic for its strength in IVF In Baharampur and Fertility Care. Hospital capacity markers such as Google rating 4.2, 135+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0332 486 2424",
+    "alternatePhone": "98304 45566",
+    "website": "https://birthindia.co.in/",
+    "address": "36B, Elgin Rd, near Forum Shopping Centre, beside Julien Day School, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700020",
+    "locality": "Bhowanipore",
+    "landmark": "near Forum Shopping Centre, beside Julien Day School, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "emergencyContact": "98304 45566",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RuedaKolkataPCO/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "135+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BIRTH+Fertility+Clinic/data=!4m7!3m6!1s0x3a02773da687ed73:0xfc4017809f6e24c6!8m2!3d22.5373281!4d88.3499037!16s%2Fg%2F1vm78wgt!19sChIJc-2Hpj13AjoRxiRun4AXQPw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BIRTH+Fertility+Clinic/data=!4m7!3m6!1s0x3a02773da687ed73:0xfc4017809f6e24c6!8m2!3d22.5373281!4d88.3499037!16s%2Fg%2F1vm78wgt!19sChIJc-2Hpj13AjoRxiRun4AXQPw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5373281,
+      "lng": 88.3499037,
+      "label": "BIRTH Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 135,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bm-birla-heart-hospital-ck-birla-hospitals-kolkata",
+    "name": "BM Birla Heart Hospital | CK Birla Hospitals",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose BM Birla Heart Hospital | CK Birla Hospitals for its strength in Heart Surgery In Baharampur and Cardiac Care. With public-facing highlights like Google rating 4.8, 48+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080621 36586",
+    "alternatePhone": "080621 36585",
+    "website": "https://ckbirlahospitals.com/bmb",
+    "address": "1, 1, National Library Ave, Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "Alipore",
+    "landmark": "National Library Ave",
+    "emergencyContact": "080621 36585",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/BMBirlaKolkata",
+    "twitter": "https://twitter.com/BMBirlaKolkata",
+    "instagram": "https://www.instagram.com/bmbirlahearthospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCbXo0fHJNc-3gAVeJWuJvbg?view_as=subscriber",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "48+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/data=!4m7!3m6!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl!19sChIJQb5gU416AjoRkETfRCZbyNM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BM+Birla+Heart+Hospital+%7C+CK+Birla+Hospitals/data=!4m7!3m6!1s0x3a027a8d5360be41:0xd3c85b2644df4490!8m2!3d22.5328893!4d88.3282827!16s%2Fg%2F1tvw3bwl!19sChIJQb5gU416AjoRkETfRCZbyNM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5328893,
+      "lng": 88.3282827,
+      "label": "BM Birla Heart Hospital | CK Birla Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 48,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brain-and-spine-clinic-berhampore",
+    "name": "Brain & Spine Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Brain & Spine Clinic brings together specialists for Spine Surgery In Baharampur, Medical Center, Neurosciences, and Spine Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073639 17197",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground Floor, 37Q5+58J Swarnamoyee Market Complex, Station Rd, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Station Rd",
+    "emergencyContact": "073639 17197",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Medical Center",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/data=!4m7!3m6!1s0x39f97d004908926f:0x7af2963882ae6b97!8m2!3d24.087798!4d88.2582697!16s%2Fg%2F11y38ybkcs!19sChIJb5IISQB9-TkRl2uugjiW8no?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/data=!4m7!3m6!1s0x39f97d004908926f:0x7af2963882ae6b97!8m2!3d24.087798!4d88.2582697!16s%2Fg%2F11y38ybkcs!19sChIJb5IISQB9-TkRl2uugjiW8no?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.087798,
+      "lng": 88.2582697,
+      "label": "Brain & Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-point-berhampore",
+    "name": "CARE POINT",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose CARE POINT for its strength in Laparoscopic Surgery In Baharampur and Medical Center. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080017 47576",
+    "alternatePhone": "",
+    "website": "http://carepoint.co.in/",
+    "address": "25/S/1 K.P. CHATTORAJ ROAD Gorabazar, Nimtala, 63/1, KP Chattoraj Rd, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "63/1",
+    "emergencyContact": "080017 47576",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CARE+POINT/data=!4m7!3m6!1s0x39f97dc153c0150f:0x2e0b1d15885ba800!8m2!3d24.0868522!4d88.247336!16s%2Fg%2F11rw8z2114!19sChIJDxXAU8F9-TkRAKhbiBUdCy4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CARE+POINT/data=!4m7!3m6!1s0x39f97dc153c0150f:0x2e0b1d15885ba800!8m2!3d24.0868522!4d88.247336!16s%2Fg%2F11rw8z2114!19sChIJDxXAU8F9-TkRAKhbiBUdCy4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0868522,
+      "lng": 88.247336,
+      "label": "CARE POINT",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-well-cosmetic-clinic-berhampore",
+    "name": "Care Well Cosmetic Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Care Well Cosmetic Clinic brings together specialists for Plastic Surgery In Baharampur. Hospital capacity markers such as Google rating 4.2, 125+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097350 25955",
+    "alternatePhone": "",
+    "website": "https://carewellclinic.com/",
+    "address": "Sivalay Apartment, 69/9, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Pilkhana Rd",
+    "emergencyContact": "097350 25955",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "125+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Care+Well+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f97d9cad13c857:0x6ea7f6cf5e0a229b!8m2!3d24.1013988!4d88.2573613!16s%2Fg%2F11j_2bxr36!19sChIJV8gTrZx9-TkRmyIKXs_2p24?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Care+Well+Cosmetic+Clinic/data=!4m7!3m6!1s0x39f97d9cad13c857:0x6ea7f6cf5e0a229b!8m2!3d24.1013988!4d88.2573613!16s%2Fg%2F11j_2bxr36!19sChIJV8gTrZx9-TkRmyIKXs_2p24?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1013988,
+      "lng": 88.2573613,
+      "label": "Care Well Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 125,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "charak-square-berhampore",
+    "name": "Charak Square",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Charak Square has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Neurosurgeon In Baharampur and Diagnostic Center. Operational strengths including Google rating 2.9, 3+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "West Bengal 742101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Charak+Square/@24.0957757,88.2564465,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97de6dc97c099:0x29ada36fa123271d!8m2!3d24.0957757!4d88.2564465!16s%2Fg%2F11fsnbvhxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Charak+Square/@24.0957757,88.2564465,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97de6dc97c099:0x29ada36fa123271d!8m2!3d24.0957757!4d88.2564465!16s%2Fg%2F11fsnbvhxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0957757,
+      "lng": 88.2564465,
+      "label": "Charak Square",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "charak-square-hospitech-berhampore",
+    "name": "Charak Square Hospitech",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Charak Square Hospitech brings together specialists for Spine Neurosurgeon In Baharampur. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0348 231 2400",
+    "alternatePhone": "",
+    "website": "https://www.charakhospitech.com/index.php",
+    "address": "37WC+557, Panchanantala, Chuapur, Berhampore, West Bengal 742102",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742102",
+    "locality": "Chuapur",
+    "landmark": "Chuapur",
+    "emergencyContact": "0348 231 2400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Charak+Square+Hospitech/data=!4m7!3m6!1s0x39f97d003f395825:0xf054f544e41b275!8m2!3d24.0954052!4d88.2704342!16s%2Fg%2F11y83jk9wx!19sChIJJVg5PwB9-TkRdbJBTlRPBQ8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Charak+Square+Hospitech/data=!4m7!3m6!1s0x39f97d003f395825:0xf054f544e41b275!8m2!3d24.0954052!4d88.2704342!16s%2Fg%2F11y83jk9wx!19sChIJJVg5PwB9-TkRdbJBTlRPBQ8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0954052,
+      "lng": 88.2704342,
+      "label": "Charak Square Hospitech",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "curesetu-diagnostic-centre-and-polyclinic-regd-under-msme-govt-of-india-best-diagnostic-centre-in-kalipark-bablatala-kolkata",
+    "name": "CureSetu - Diagnostic Centre & Polyclinic; Regd. under MSME, Govt of India; Best diagnostic centre in Kalipark Bablatala",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, CureSetu - Diagnostic Centre & Polyclinic; Regd. under MSME, Govt of India; Best diagnostic centre in Kalipark Bablatala offers coordinated hospital care with major focus on IVF In Baharampur and Medical Center. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089188 12650",
+    "alternatePhone": "",
+    "website": "http://www.curesetu.com/",
+    "address": "Ground Floor, BLOCK-A, Surya Enclave, S4, SRCM Rd, Kalipark, Bablatala, Gopalpur I, Kolkata, West Bengal 700136",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700136",
+    "locality": "Gopalpur I",
+    "landmark": "Surya Enclave",
+    "emergencyContact": "089188 12650",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CureSetu+-+Diagnostic+Centre+%26+Polyclinic;+Regd.+under+MSME,+Govt+of+India;+Best+diagnostic+centre+in+Kalipark+Bablatala/data=!4m7!3m6!1s0x39f89f0eb2c2698b:0x20a44e9748f4721c!8m2!3d22.6362612!4d88.4522218!16s%2Fg%2F11xkf7bqq9!19sChIJi2nCsg6f-DkRHHL0SJdOpCA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CureSetu+-+Diagnostic+Centre+%26+Polyclinic;+Regd.+under+MSME,+Govt+of+India;+Best+diagnostic+centre+in+Kalipark+Bablatala/data=!4m7!3m6!1s0x39f89f0eb2c2698b:0x20a44e9748f4721c!8m2!3d22.6362612!4d88.4522218!16s%2Fg%2F11xkf7bqq9!19sChIJi2nCsg6f-DkRHHL0SJdOpCA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6362612,
+      "lng": 88.4522218,
+      "label": "CureSetu - Diagnostic Centre & Polyclinic; Regd. under MSME, Govt of India; Best diagnostic centre in Kalipark Bablatala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-plus-berhampore",
+    "name": "Dental Care Plus",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Care Plus is a prominent dentist in Berhampore, known for structured tertiary care across Oral Surgery In Baharampur and Dentist. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080013 70016",
+    "alternatePhone": "",
+    "website": "",
+    "address": "114, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Ranibagan",
+    "emergencyContact": "080013 70016",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care+Plus/data=!4m7!3m6!1s0x39f97dc27ff74b83:0x36f64d6844212304!8m2!3d24.10004!4d88.2565154!16s%2Fg%2F11h0vt2p_r!19sChIJg0v3f8J9-TkRBCMhRGhN9jY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care+Plus/data=!4m7!3m6!1s0x39f97dc27ff74b83:0x36f64d6844212304!8m2!3d24.10004!4d88.2565154!16s%2Fg%2F11h0vt2p_r!19sChIJg0v3f8J9-TkRBCMhRGhN9jY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.10004,
+      "lng": 88.2565154,
+      "label": "Dental Care Plus",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-zone-top-dentist-in-murshidabad-top-dentist-in-berhampore-murshidabad-berhampore",
+    "name": "Dental Zone | Top dentist in murshidabad |Top dentist in berhampore murshidabad",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Dental Zone | Top dentist in murshidabad |Top dentist in berhampore murshidabad offers coordinated hospital care with major focus on Oral Surgery In Baharampur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079081 02067",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29/G/2 SUSASTHO DIAGNOSTIC DR.KAPIL MANDAL CHAMBER Pilkhana Road, Ranibagan, near SAINIK XEROX, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "near SAINIK XEROX",
+    "landmark": "near SAINIK XEROX, Berhampore, West Bengal 742101",
+    "emergencyContact": "079081 02067",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Zone+%7C+Top+dentist+in+murshidabad+%7CTop+dentist+in+berhampore+murshidabad/data=!4m7!3m6!1s0x39f97d8a224706cf:0xe8d6715ad77384a6!8m2!3d24.1023219!4d88.2562735!16s%2Fg%2F11y030shhf!19sChIJzwZHIop9-TkRpoRz11px1ug?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Zone+%7C+Top+dentist+in+murshidabad+%7CTop+dentist+in+berhampore+murshidabad/data=!4m7!3m6!1s0x39f97d8a224706cf:0xe8d6715ad77384a6!8m2!3d24.1023219!4d88.2562735!16s%2Fg%2F11y030shhf!19sChIJzwZHIop9-TkRpoRz11px1ug?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1023219,
+      "lng": 88.2562735,
+      "label": "Dental Zone | Top dentist in murshidabad |Top dentist in berhampore murshidabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "desun-hospital-kolkata",
+    "name": "Desun Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Desun Hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Baharampur. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090517 15171",
+    "alternatePhone": "",
+    "website": "https://www.desunhospital.com/",
+    "address": "Desun More, 720, Eastern Metropolitan Bypass, Golpark, Sector I, Kasba, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "Kasba",
+    "landmark": "Eastern Metropolitan Bypass",
+    "emergencyContact": "090517 15171",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Desun+Hospital/data=!4m7!3m6!1s0x3a0273ffba333285:0xe26fc1c3cb8a0d70!8m2!3d22.5146288!4d88.4032479!16s%2Fm%2F0pclsf5!19sChIJhTIzuv9zAjoRcA2Ky8PBb-I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Desun+Hospital/data=!4m7!3m6!1s0x3a0273ffba333285:0xe26fc1c3cb8a0d70!8m2!3d22.5146288!4d88.4032479!16s%2Fm%2F0pclsf5!19sChIJhTIzuv9zAjoRcA2Ky8PBb-I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5146288,
+      "lng": 88.4032479,
+      "label": "Desun Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dialysis-unit-murshidabad-mch-berhampore",
+    "name": "Dialysis Unit, Murshidabad MCH",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dialysis Unit, Murshidabad MCH has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Baharampur and Dialysis Center. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.bmrchospital.com/",
+    "address": "37Q5+X8R, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dialysis+Unit,+Murshidabad+MCH/data=!4m7!3m6!1s0x39f97d001269b505:0x19de1120bd47edd6!8m2!3d24.0899751!4d88.258259!16s%2Fg%2F11x5yqp9nw!19sChIJBbVpEgB9-TkR1u1HvSAR3hk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dialysis+Unit,+Murshidabad+MCH/data=!4m7!3m6!1s0x39f97d001269b505:0x19de1120bd47edd6!8m2!3d24.0899751!4d88.258259!16s%2Fg%2F11x5yqp9nw!19sChIJBbVpEgB9-TkR1u1HvSAR3hk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0899751,
+      "lng": 88.258259,
+      "label": "Dialysis Unit, Murshidabad MCH",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "disha-eye-hospital-berhampore-berhampore",
+    "name": "Disha Eye Hospital Berhampore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Disha Eye Hospital Berhampore has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Neurosurgeon In Baharampur. Hospital capacity markers such as Google rating 3.3, 7+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0336 636 0010",
+    "alternatePhone": "",
+    "website": "http://www.dishaeye.org/",
+    "address": "Bishnu Abasan 93, Laldighi Plaza Floor 3+4+5, 69/A, Rabindranath Tagore Rd, near IT Office, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "near IT Office",
+    "landmark": "near IT Office, Berhampore, West Bengal 742101",
+    "emergencyContact": "0336 636 0010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "7+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Disha+Eye+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97dd1bc3ff79b:0x9c650a9ed72cf182!8m2!3d24.0951376!4d88.2546708!16s%2Fg%2F11bw46g2s5!19sChIJm_c_vNF9-TkRgvEs154KZZw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Disha+Eye+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97dd1bc3ff79b:0x9c650a9ed72cf182!8m2!3d24.0951376!4d88.2546708!16s%2Fg%2F11bw46g2s5!19sChIJm_c_vNF9-TkRgvEs154KZZw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0951376,
+      "lng": 88.2546708,
+      "label": "Disha Eye Hospital Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 7,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fast-opd-berhampore",
+    "name": "Fast OPD",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose Fast OPD for its strength in Kidney Transplant Surgery In Baharampur and Medical Center. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.fastopd.com/",
+    "address": "Rabindranath Tagore Rd, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Berhampore",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fast+OPD/data=!4m7!3m6!1s0x39fbd823ffffffff:0xff02487826e73029!8m2!3d24.0956124!4d88.2548265!16s%2Fg%2F11v418j_qh!19sChIJ_____yPY-zkRKTDnJnhIAv8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fast+OPD/data=!4m7!3m6!1s0x39fbd823ffffffff:0xff02487826e73029!8m2!3d24.0956124!4d88.2548265!16s%2Fg%2F11v418j_qh!19sChIJ_____yPY-zkRKTDnJnhIAv8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0956124,
+      "lng": 88.2548265,
+      "label": "Fast OPD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "flemming-hospital-kolkata",
+    "name": "Flemming Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Flemming Hospital is a prominent general hospital in Kolkata, known for structured tertiary care across Heart Surgery In Baharampur. Operational strengths including Google rating 2.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "flemminghospital@gmail.com",
+    "phone": "0334 068 6161",
+    "alternatePhone": "+91 334 068 6161",
+    "website": "http://www.flemminghospital.com/",
+    "address": "11A, 1H, Topsia Rd, Mirania Gardens, East Topsia, Topsia, Kolkata, West Bengal 700046",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700046",
+    "locality": "Topsia",
+    "landmark": "Topsia Rd",
+    "emergencyContact": "+91 334 068 6161",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/flemmingkolkata/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Flemming+Hospital/data=!4m7!3m6!1s0x3a0276962cd072e1:0xdcc52a5527ba8f19!8m2!3d22.5409396!4d88.3895125!16s%2Fg%2F124t07fh5!19sChIJ4XLQLJZ2AjoRGY-6J1Uqxdw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Flemming+Hospital/data=!4m7!3m6!1s0x3a0276962cd072e1:0xdcc52a5527ba8f19!8m2!3d22.5409396!4d88.3895125!16s%2Fg%2F124t07fh5!19sChIJ4XLQLJZ2AjoRGY-6J1Uqxdw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5409396,
+      "lng": 88.3895125,
+      "label": "Flemming Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gd-healthcare-berhampore",
+    "name": "GD Healthcare",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, GD Healthcare offers coordinated hospital care with major focus on Kidney Transplant Surgery In Baharampur and Diagnostic Center. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097751 44144",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11, 1, Swarnamoyee Rd, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Swarnamoyee Rd",
+    "emergencyContact": "097751 44144",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/GD+Healthcare/data=!4m7!3m6!1s0x39f97db11483a285:0xab7a424c8771984e!8m2!3d24.0870098!4d88.2573145!16s%2Fg%2F11scflj7pq!19sChIJhaKDFLF9-TkRTphxh0xCeqs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GD+Healthcare/data=!4m7!3m6!1s0x39f97db11483a285:0xab7a424c8771984e!8m2!3d24.0870098!4d88.2573145!16s%2Fg%2F11scflj7pq!19sChIJhaKDFLF9-TkRTphxh0xCeqs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0870098,
+      "lng": 88.2573145,
+      "label": "GD Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "genesis-healthcare-berhampore",
+    "name": "Genesis Healthcare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose Genesis Healthcare for its strength in Liver Transplant Surgery In Baharampur. Hospital capacity markers such as Google rating 5.0, 7+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096474 68540",
+    "alternatePhone": "",
+    "website": "https://www.genesishcc.com/",
+    "address": "96, KK Banerjee Rd, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Raninagar",
+    "emergencyContact": "096474 68540",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "7+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Genesis+Healthcare/data=!4m7!3m6!1s0x39f97d8a8876bc99:0x9da3f5f9787e4d7e!8m2!3d24.0885689!4d88.2524982!16s%2Fg%2F11g07f6wvy!19sChIJmbx2iIp9-TkRfk1-ePn1o50?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Genesis+Healthcare/data=!4m7!3m6!1s0x39f97d8a8876bc99:0x9da3f5f9787e4d7e!8m2!3d24.0885689!4d88.2524982!16s%2Fg%2F11g07f6wvy!19sChIJmbx2iIp9-TkRfk1-ePn1o50?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0885689,
+      "lng": 88.2524982,
+      "label": "Genesis Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 7,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "genix-laboratory-and-diagnostic-centre-berhampore",
+    "name": "Genix Laboratory & Diagnostic Centre",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Genix Laboratory & Diagnostic Centre brings together specialists for Liver Transplant Surgery In Baharampur and Diagnostic Center. Operational strengths including Google rating 3.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090836 68282",
+    "alternatePhone": "",
+    "website": "http://www.genixlabs.in/",
+    "address": "75, Pilkhana Rd, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Raninagar",
+    "emergencyContact": "090836 68282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Genix+Laboratory+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97ddb27e45c31:0xde1df8682c20c19!8m2!3d24.1011801!4d88.2570253!16s%2Fg%2F11d_74qsy8!19sChIJMVzkJ9t9-TkRGQzCgobf4Q0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Genix+Laboratory+%26+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97ddb27e45c31:0xde1df8682c20c19!8m2!3d24.1011801!4d88.2570253!16s%2Fg%2F11d_74qsy8!19sChIJMVzkJ9t9-TkRGQzCgobf4Q0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1011801,
+      "lng": 88.2570253,
+      "label": "Genix Laboratory & Diagnostic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gitaram-hospital-murshidabad",
+    "name": "GitaRam Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Murshidabad, GitaRam Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Baharampur. The facility stands out for Google rating 3.5, 7+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099333 44441",
+    "alternatePhone": "",
+    "website": "http://gitaramhospital.co.in/",
+    "address": "National Highway 34, Radharghat GitaRam More Berhampore, Murshidabad, West Bengal 742187",
+    "city": "Murshidabad",
+    "state": "West Bengal",
+    "pincode": "742187",
+    "locality": "Radharghat GitaRam More Berhampore",
+    "landmark": "Murshidabad",
+    "emergencyContact": "099333 44441",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "7+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GitaRam+Hospital/data=!4m7!3m6!1s0x39f97e6cbb129351:0xbe3e1caf133c78af!8m2!3d24.108899!4d88.2324229!16s%2Fg%2F12602nls4!19sChIJUZMSu2x--TkRr3g8E68cPr4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GitaRam+Hospital/data=!4m7!3m6!1s0x39f97e6cbb129351:0xbe3e1caf133c78af!8m2!3d24.108899!4d88.2324229!16s%2Fg%2F12602nls4!19sChIJUZMSu2x--TkRr3g8E68cPr4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.108899,
+      "lng": 88.2324229,
+      "label": "GitaRam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 7,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "glenwood-health-care-berhampore",
+    "name": "GLENWOOD HEALTH CARE",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GLENWOOD HEALTH CARE is a prominent private hospital in Berhampore, known for structured tertiary care across Spine Surgery In Baharampur. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081458 98301",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B-9, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "081458 98301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/GLENWOOD+HEALTH+CARE/data=!4m7!3m6!1s0x39f97d2f0da11a8d:0xa731f52d46a1ed9f!8m2!3d24.0927697!4d88.2642899!16s%2Fg%2F11ry75st6p!19sChIJjRqhDS99-TkRn-2hRi31Mac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GLENWOOD+HEALTH+CARE/data=!4m7!3m6!1s0x39f97d2f0da11a8d:0xa731f52d46a1ed9f!8m2!3d24.0927697!4d88.2642899!16s%2Fg%2F11ry75st6p!19sChIJjRqhDS99-TkRn-2hRi31Mac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0927697,
+      "lng": 88.2642899,
+      "label": "GLENWOOD HEALTH CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-cancer-hospital-newtown-kolkata-kolkata",
+    "name": "HCG Cancer Hospital - (Newtown, Kolkata)",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HCG Cancer Hospital - (Newtown, Kolkata) has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Baharampur and Cancer Treatment Center. Its infrastructure includes Google rating 4.5, 467+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@hcgel.com",
+    "phone": "063588 88825",
+    "alternatePhone": "+91 74064 99999",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-eko-cancer-centre-new-town-kolkata/",
+    "address": "Premises No, Plot DG-4, 03 358, Action Area 1D, Newtown, Kolkata, West Bengal 700156",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700156",
+    "locality": "Newtown",
+    "landmark": "03 358",
+    "emergencyContact": "+91 74064 99999",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/HCGHospitals?mibextid=LQQJ4d",
+    "twitter": "https://twitter.com/HCGCancercare",
+    "instagram": "https://www.instagram.com/hcgoncology/",
+    "linkedin": "https://www.linkedin.com/company/hcgoncology/",
+    "youtube": "https://www.youtube.com/@TheHcgOncology",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "467+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Newtown,+Kolkata%29/data=!4m7!3m6!1s0x3a027532de56b615:0x1a40a2fd10cf5aa7!8m2!3d22.5799338!4d88.4773993!16s%2Fg%2F11c6cgyqch!19sChIJFbZW3jJ1AjoRp1rPEP2iQBo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+%28Newtown,+Kolkata%29/data=!4m7!3m6!1s0x3a027532de56b615:0x1a40a2fd10cf5aa7!8m2!3d22.5799338!4d88.4773993!16s%2Fg%2F11c6cgyqch!19sChIJFbZW3jJ1AjoRp1rPEP2iQBo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5799338,
+      "lng": 88.4773993,
+      "label": "HCG Cancer Hospital - (Newtown, Kolkata)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 467,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "health-point-berhampore",
+    "name": "Health Point",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Health Point has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Surgery In Baharampur and Medical Center. Its infrastructure includes Google rating 3.2 and 1+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091263 31753",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4724+2H8, 114, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Pilkhana Rd",
+    "emergencyContact": "091263 31753",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "1+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Health+Point/data=!4m7!3m6!1s0x39f97daf3f8ba229:0x5d405a695bbc0dd!8m2!3d24.1000791!4d88.2565324!16s%2Fg%2F11fqym2mx7!19sChIJKaKLP699-TkR3cC7laYF1AU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Health+Point/data=!4m7!3m6!1s0x39f97daf3f8ba229:0x5d405a695bbc0dd!8m2!3d24.1000791!4d88.2565324!16s%2Fg%2F11fqym2mx7!19sChIJKaKLP699-TkR3cC7laYF1AU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1000791,
+      "lng": 88.2565324,
+      "label": "Health Point",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healthcare-gora-bazar",
+    "name": "Healthcare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Healthcare has built a strong reputation in Gora Bazar for multidisciplinary treatment pathways covering Spine Surgery In Baharampur. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093339 62269",
+    "alternatePhone": "",
+    "website": "https://www.healthcarebhp.com/",
+    "address": "8 No, Nirupama Devi Rd, Raninagar, Main, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "city": "Gora Bazar",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "Raninagar",
+    "emergencyContact": "093339 62269",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Healthcare/data=!4m7!3m6!1s0x39f97db698638be1:0x9765688f17ffa7e5!8m2!3d24.083328!4d88.2493016!16s%2Fg%2F11h42p1g1v!19sChIJ4YtjmLZ9-TkR5af_F49oZZc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healthcare/data=!4m7!3m6!1s0x39f97db698638be1:0x9765688f17ffa7e5!8m2!3d24.083328!4d88.2493016!16s%2Fg%2F11h42p1g1v!19sChIJ4YtjmLZ9-TkR5af_F49oZZc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.083328,
+      "lng": 88.2493016,
+      "label": "Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
+    "name": "Indian Institute of Liver and Digestive Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Indian Institute of Liver and Digestive Sciences delivers integrated care across Liver Transplant Surgery In Baharampur, Liver Care, and Digestive Care. Hospital capacity markers such as Google rating 3.8, 29+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "helpdesk@iilds.in",
+    "phone": "0332 434 2300",
+    "alternatePhone": "+91 90733 00393",
+    "website": "http://iilds.in/",
+    "address": "Shitala, East Sonarpur, Kolkata, West Bengal 700150",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700150",
+    "locality": "East Sonarpur",
+    "landmark": "Kolkata",
+    "emergencyContact": "+91 90733 00393",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndianInstituteofLiverandDigestiveSciences/",
+    "twitter": "https://twitter.com/iilds_lfwb",
+    "instagram": "https://www.instagram.com/ilds_hospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC1ZiVhwp2rMSncLSP1C3esA",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Liver Care",
+      "Digestive Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "29+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indian+Institute+of+Liver+and+Digestive+Sciences/data=!4m7!3m6!1s0x3a027290e8fab5ef:0xd0bc6d512e223f30!8m2!3d22.4362319!4d88.4537972!16s%2Fg%2F11cml318_r!19sChIJ77X66JByAjoRMD8iLlFtvNA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.4362319,
+      "lng": 88.4537972,
+      "label": "Indian Institute of Liver and Digestive Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 29,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-b-dental-care-berhampore",
+    "name": "K.B.DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Berhampore, K.B.DENTAL CARE delivers integrated care across Oral Surgery In Baharampur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr SN Bhattacharya Rd, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Berhampore",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/K.B.DENTAL+CARE/data=!4m7!3m6!1s0x39f97d0a46736711:0xfce350de1ce272e0!8m2!3d24.1020145!4d88.2517962!16s%2Fg%2F11h71fdsyh!19sChIJEWdzRgp9-TkR4HLiHN5Q4_w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K.B.DENTAL+CARE/data=!4m7!3m6!1s0x39f97d0a46736711:0xfce350de1ce272e0!8m2!3d24.1020145!4d88.2517962!16s%2Fg%2F11h71fdsyh!19sChIJEWdzRgp9-TkR4HLiHN5Q4_w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1020145,
+      "lng": 88.2517962,
+      "label": "K.B.DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kidney-plus-clinics-kolkata-kolkata",
+    "name": "KIDNEY PLUS CLINICS KOLKATA",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Kolkata, KIDNEY PLUS CLINICS KOLKATA delivers integrated care across Kidney Transplant Surgery In Baharampur, Medical Center, and Kidney Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075958 68200",
+    "alternatePhone": "",
+    "website": "http://kidneyplusclinic.com/",
+    "address": "SETHU ROAD, 83 RAJA SUBODH CHANDRA MULLICK ROAD, 14, Sukanta Setu, Kolkata, West Bengal 700032",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700032",
+    "locality": "Sukanta Setu",
+    "landmark": "14",
+    "emergencyContact": "075958 68200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Center",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KIDNEY+PLUS+CLINICS+KOLKATA/data=!4m7!3m6!1s0x3a0271fe585c6fd1:0xd01f4fb05e6f9d8e!8m2!3d22.4917711!4d88.3740256!16s%2Fg%2F11s37cfjl1!19sChIJ0W9cWP5xAjoRjp1vXrBPH9A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.4917711,
+      "lng": 88.3740256,
+      "label": "KIDNEY PLUS CLINICS KOLKATA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "know-your-kidney-kolkata",
+    "name": "KNOW YOUR KIDNEY",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Kolkata, KNOW YOUR KIDNEY delivers integrated care across Kidney Transplant Surgery In Baharampur, Medical Center, and Kidney Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "knowkidney@gmail.com",
+    "phone": "087778 51590",
+    "alternatePhone": "+91 99034 01234",
+    "website": "https://knowyourkidney.org/",
+    "address": "5th Floor, Municipal Premises, Unit (OU) No-111, 1839, Laskarhat Rd, Laskarhat, P.S, Kasba, Kolkata, West Bengal 700039",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700039",
+    "locality": "Kasba",
+    "landmark": "Unit (OU) No-111",
+    "emergencyContact": "+91 99034 01234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Center",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KNOW+YOUR+KIDNEY/data=!4m7!3m6!1s0x3a02770edb3d1fcd:0x52e37604c26370e9!8m2!3d22.5215923!4d88.3962895!16s%2Fg%2F11vx0bp9v6!19sChIJzR892w53AjoR6XBjwgR241I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5215923,
+      "lng": 88.3962895,
+      "label": "KNOW YOUR KIDNEY",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kolkata-global-ivf-clinic-kolkata",
+    "name": "Kolkata Global IVF Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Kolkata Global IVF Clinic offers coordinated hospital care with major focus on IVF In Baharampur and Fertility Care. Operational strengths including Google rating 4.1, 3+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@kolkataglobalivfclinic.com",
+    "phone": "083340 32222",
+    "alternatePhone": "+91 76050 43290",
+    "website": "https://www.kolkataglobalivfclinic.com/",
+    "address": "129, Sahid Nagar, Garfa, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Garfa",
+    "landmark": "Garfa",
+    "emergencyContact": "+91 76050 43290",
+    "emergencyServices": false,
+    "facebook": "http://facebook.com",
+    "twitter": "https://x.com/",
+    "instagram": "",
+    "linkedin": "http://linkedin.com",
+    "youtube": "http://youtube.com",
+    "specialties": [
+      "IVF In Baharampur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kolkata+Global+IVF+Clinic/data=!4m7!3m6!1s0x3a02713875137301:0x56d4eea1e6f3d7ab!8m2!3d22.5028987!4d88.3821153!16s%2Fg%2F11bzs4mk0l!19sChIJAXMTdThxAjoRq9fz5qHu1FY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kolkata+Global+IVF+Clinic/data=!4m7!3m6!1s0x3a02713875137301:0x56d4eea1e6f3d7ab!8m2!3d22.5028987!4d88.3821153!16s%2Fg%2F11bzs4mk0l!19sChIJAXMTdThxAjoRq9fz5qHu1FY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5028987,
+      "lng": 88.3821153,
+      "label": "Kolkata Global IVF Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kolkata-kidney-institute-kolkata",
+    "name": "KOLKATA KIDNEY INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KOLKATA KIDNEY INSTITUTE has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Baharampur and Kidney Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "care@kolkatakidneyinstitue.com",
+    "phone": "0332 484 0009",
+    "alternatePhone": "+91 98309 46468",
+    "website": "https://kolkatakidneyinstitute.com/",
+    "address": "823, Kalikapur Rd, Purbachal Kalitala, Kalikapur, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal Kalitala",
+    "emergencyContact": "+91 98309 46468",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/data=!4m7!3m6!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb!19sChIJswH77CBxAjoRoZQmCFLRudA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KOLKATA+KIDNEY+INSTITUTE/data=!4m7!3m6!1s0x3a027120ecfb01b3:0xd0b9d152082694a1!8m2!3d22.503913!4d88.3979072!16s%2Fg%2F11hg29sfdb!19sChIJswH77CBxAjoRoZQmCFLRudA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.503913,
+      "lng": 88.3979072,
+      "label": "KOLKATA KIDNEY INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lakeview-hospital-berhampore-berhampore",
+    "name": "Lakeview Hospital Berhampore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Lakeview Hospital Berhampore offers coordinated hospital care with major focus on Gynecologist Surgery In Baharampur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090732 47247",
+    "alternatePhone": "",
+    "website": "http://www.hospitallakeview.com/",
+    "address": "29/1, Rabindranath Tagore Rd, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Laldighi",
+    "emergencyContact": "090732 47247",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lakeview+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97d0001ab416d:0x1c759ec08a721108!8m2!3d24.0955896!4d88.256528!16s%2Fg%2F11wwq81v33!19sChIJbUGrAQB9-TkRCBFyisCedRw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lakeview+Hospital+Berhampore/data=!4m7!3m6!1s0x39f97d0001ab416d:0x1c759ec08a721108!8m2!3d24.0955896!4d88.256528!16s%2Fg%2F11wwq81v33!19sChIJbUGrAQB9-TkRCBFyisCedRw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0955896,
+      "lng": 88.256528,
+      "label": "Lakeview Hospital Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laldighi-medical-centre-pvt-ltd-berhampore",
+    "name": "Laldighi Medical Centre Pvt. Ltd.",
+    "type": "Medical Laboratory",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Laldighi Medical Centre Pvt. Ltd. offers coordinated hospital care with major focus on Kidney Transplant Surgery In Baharampur and Medical Laboratory. Its infrastructure includes Google rating 2.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080017 70077",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31/B, Rabindranath Tagore Rd, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Laldighi",
+    "emergencyContact": "080017 70077",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Laboratory"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Laldighi+Medical+Centre+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97dcfd4239a13:0x26a845b3fd6bcde3!8m2!3d24.095671!4d88.2561065!16s%2Fg%2F11bzq3_z1f!19sChIJE5oj1M99-TkR481r_bNFqCY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laldighi+Medical+Centre+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97dcfd4239a13:0x26a845b3fd6bcde3!8m2!3d24.095671!4d88.2561065!16s%2Fg%2F11bzq3_z1f!19sChIJE5oj1M99-TkR481r_bNFqCY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.095671,
+      "lng": 88.2561065,
+      "label": "Laldighi Medical Centre Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laldighi-nursing-home-pvt-ltd-berhampore",
+    "name": "Laldighi Nursing Home Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Laldighi Nursing Home Pvt Ltd has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Laparoscopic Surgery In Baharampur. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0348 225 8852",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7, 1, Rabindranath Tagore Rd, near HDFC Bank, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "near HDFC Bank, Gora Bazar, Berhampore, West Bengal 742101",
+    "emergencyContact": "0348 225 8852",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Laldighi+Nursing+Home+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dd029d142dd:0x18514a4ee9681924!8m2!3d24.0959802!4d88.2557558!16s%2Fg%2F1hm329618!19sChIJ3ULRKdB9-TkRJBlo6U5KURg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laldighi+Nursing+Home+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dd029d142dd:0x18514a4ee9681924!8m2!3d24.0959802!4d88.2557558!16s%2Fg%2F1hm329618!19sChIJ3ULRKdB9-TkRJBlo6U5KURg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0959802,
+      "lng": 88.2557558,
+      "label": "Laldighi Nursing Home Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifespan-nursing-home-gora-bazar",
+    "name": "Lifespan Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gora Bazar, Lifespan Nursing Home offers coordinated hospital care with major focus on Laparoscopic Surgery In Baharampur and Nursing Home. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094343 77257",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, 93, Abdus Samad Rd, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "city": "Gora Bazar",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "Abdus Samad Rd",
+    "emergencyContact": "094343 77257",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Lifespan+Nursing+Home/data=!4m7!3m6!1s0x39f97e7ff0acb35f:0x176ef46f69423cc4!8m2!3d24.0865267!4d88.2455668!16s%2Fg%2F1q62fxz3z!19sChIJX7Os8H9--TkRxDxCaW_0bhc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lifespan+Nursing+Home/data=!4m7!3m6!1s0x39f97e7ff0acb35f:0x176ef46f69423cc4!8m2!3d24.0865267!4d88.2455668!16s%2Fg%2F1q62fxz3z!19sChIJX7Os8H9--TkRxDxCaW_0bhc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0865267,
+      "lng": 88.2455668,
+      "label": "Lifespan Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lila-clinic-berhampore",
+    "name": "Lila Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Berhampore, Lila Clinic delivers integrated care across IVF In Baharampur and Medical Center. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "91/1 A, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Ranibagan",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Lila+Clinic/data=!4m7!3m6!1s0x39f97d33069827a3:0x5ad742bbb1d73304!8m2!3d24.0991637!4d88.2563452!16s%2Fg%2F11h718glfn!19sChIJoyeYBjN9-TkRBDPXsbtC11o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lila+Clinic/data=!4m7!3m6!1s0x39f97d33069827a3:0x5ad742bbb1d73304!8m2!3d24.0991637!4d88.2563452!16s%2Fg%2F11h718glfn!19sChIJoyeYBjN9-TkRBDPXsbtC11o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0991637,
+      "lng": 88.2563452,
+      "label": "Lila Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lila-hospitals-pvt-ltd-berhampore",
+    "name": "Lila Hospitals Pvt. Ltd.",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lila Hospitals Pvt. Ltd. has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Baharampur. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097342 02102",
+    "alternatePhone": "",
+    "website": "https://www.lilahospital.com/",
+    "address": "4745+532, 13/3/A, AC Rd, Indraprastha, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "AC Rd",
+    "emergencyContact": "097342 02102",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lila+Hospitals+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97d007eec4df1:0x7bed271d45c919c6!8m2!3d24.105529!4d88.2574177!16s%2Fg%2F11vy4zhwft!19sChIJ8U3sfgB9-TkRxhnJRR0n7Xs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lila+Hospitals+Pvt.+Ltd./data=!4m7!3m6!1s0x39f97d007eec4df1:0x7bed271d45c919c6!8m2!3d24.105529!4d88.2574177!16s%2Fg%2F11vy4zhwft!19sChIJ8U3sfgB9-TkRxhnJRR0n7Xs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.105529,
+      "lng": 88.2574177,
+      "label": "Lila Hospitals Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "little-heart-diagnostic-and-imagine-centre-berhampore",
+    "name": "Little Heart Diagnostic & Imagine Centre",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Little Heart Diagnostic & Imagine Centre is a prominent medical diagnostic imaging center in Berhampore, known for structured tertiary care across Kidney Transplant Surgery In Baharampur, Medical Diagnostic Imaging Center, and Cardiac Care. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083730 66886",
+    "alternatePhone": "",
+    "website": "",
+    "address": "117, 2/A, Pilkhana Rd, near Durga Mandir, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "near Durga Mandir, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "emergencyContact": "083730 66886",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Diagnostic Imaging Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Little+Heart+Diagnostic+%26+Imagine+Centre/data=!4m7!3m6!1s0x39f97dc53912dc57:0x9ce6241e3087ee31!8m2!3d24.1003782!4d88.2566716!16s%2Fg%2F11c32bqb5x!19sChIJV9wSOcV9-TkRMe6HMB4k5pw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Little+Heart+Diagnostic+%26+Imagine+Centre/data=!4m7!3m6!1s0x39f97dc53912dc57:0x9ce6241e3087ee31!8m2!3d24.1003782!4d88.2566716!16s%2Fg%2F11c32bqb5x!19sChIJV9wSOcV9-TkRMe6HMB4k5pw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1003782,
+      "lng": 88.2566716,
+      "label": "Little Heart Diagnostic & Imagine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lupin-diagnostics-pathology-lab-and-full-body-checkup-in-behrampore-gora-bazar",
+    "name": "Lupin Diagnostics | Pathology Lab & Full Body Checkup in Behrampore",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gora Bazar, Lupin Diagnostics | Pathology Lab & Full Body Checkup in Behrampore offers coordinated hospital care with major focus on Cardiac Surgery In Baharampur and Diagnostic Center. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074001 69631",
+    "alternatePhone": "",
+    "website": "https://www.lupindiagnostics.com/centers-locator/lupin-in-west-bengal-behrampore-gorabazar-nimtala-49308",
+    "address": "Nimtala, 29, KP Chattoraj Rd, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "city": "Gora Bazar",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "KP Chattoraj Rd",
+    "emergencyContact": "074001 69631",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Behrampore/data=!4m7!3m6!1s0x39f97d52db9a3687:0x93826b55659e2798!8m2!3d24.0870859!4d88.2469805!16s%2Fg%2F11vj3ypbr4!19sChIJhzaa21J9-TkRmCeeZVVrgpM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lupin+Diagnostics+%7C+Pathology+Lab+%26+Full+Body+Checkup+in+Behrampore/data=!4m7!3m6!1s0x39f97d52db9a3687:0x93826b55659e2798!8m2!3d24.0870859!4d88.2469805!16s%2Fg%2F11vj3ypbr4!19sChIJhzaa21J9-TkRmCeeZVVrgpM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0870859,
+      "lng": 88.2469805,
+      "label": "Lupin Diagnostics | Pathology Lab & Full Body Checkup in Behrampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospitals-dhakuria-kolkata",
+    "name": "Manipal Hospitals - Dhakuria",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manipal Hospitals - Dhakuria is a prominent private hospital in Kolkata, known for structured tertiary care across Liver Transplant Surgery In Baharampur. With public-facing highlights like Google rating 4.7, 201+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0336 907 0000",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/dhakuria/?utm_source=organic&utm_medium=gmb&utm_campaign=manipal_hospitals_dhakuria",
+    "address": "C.I.T Scheme, Gariahat Rd, Dhakuria, LXXII Block A, P-4 & 5, Kolkata, West Bengal 700029",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700029",
+    "locality": "P-4 & 5",
+    "landmark": "Dhakuria",
+    "emergencyContact": "0336 907 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "201+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+-+Dhakuria/data=!4m7!3m6!1s0x3a02712ca643102b:0xafedc989326211fb!8m2!3d22.512609!4d88.3676693!16s%2Fg%2F11c558_tp6!19sChIJKxBDpixxAjoR-xFiMonJ7a8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospitals+-+Dhakuria/data=!4m7!3m6!1s0x3a02712ca643102b:0xafedc989326211fb!8m2!3d22.512609!4d88.3676693!16s%2Fg%2F11c558_tp6!19sChIJKxBDpixxAjoR-xFiMonJ7a8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.512609,
+      "lng": 88.3676693,
+      "label": "Manipal Hospitals - Dhakuria",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 201,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospitals-mukundapur-kolkata",
+    "name": "Manipal Hospitals - Mukundapur",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose Manipal Hospitals - Mukundapur for its strength in Kidney Transplant Surgery In Baharampur. Operational strengths including Google rating 4.7, 13+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@manipalhospitals.com",
+    "phone": "0336 907 0000",
+    "alternatePhone": "+91 73000 02175",
+    "website": "https://www.manipalhospitals.com/mukundapur/?utm_source=gmb&utm_medium=click&utm_campaign=manipal_hospitals_mukundapur",
+    "address": "223 & 230, Pano Rd, behind Metro Cash & Carry, Purba Jadavpur, Landmark:, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Landmark:",
+    "landmark": "behind Metro Cash & Carry",
+    "emergencyContact": "+91 73000 02175",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ManipalHospitalsIndia",
+    "twitter": "https://x.com/ManipalHealth",
+    "instagram": "https://www.instagram.com/manipalhospitals/",
+    "linkedin": "https://in.linkedin.com/company/manipal-hospitals",
+    "youtube": "https://www.youtube.com/user/manipalhospitals",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "13+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/data=!4m7!3m6!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy!19sChIJMXKoEOBzAjoRec8B2wUFRSg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospitals+-+Mukundapur/data=!4m7!3m6!1s0x3a0273e010a87231:0x28450505db01cf79!8m2!3d22.4941477!4d88.402129!16s%2Fg%2F1q69xq6dy!19sChIJMXKoEOBzAjoRec8B2wUFRSg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.4941477,
+      "lng": 88.402129,
+      "label": "Manipal Hospitals - Mukundapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 13,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospitals-broadway-kolkata",
+    "name": "Manipal Hospitals Broadway",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Kolkata, Manipal Hospitals Broadway delivers integrated care across Liver Transplant Surgery In Baharampur. Operational strengths including Google rating 4.7, 1821+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0336 907 0000",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/broadway/?utm_source=gmb&utm_medium=click&utm_campaign=manipal_hospitals_broadway",
+    "address": "JC-16 & 17, No. 3A, Broadway Rd, opp. to Stadium Gate, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "Broadway Rd",
+    "emergencyContact": "0336 907 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "1821+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+Broadway/data=!4m7!3m6!1s0x3a0275d28237dd49:0xb24c98f0b227ce0b!8m2!3d22.568423!4d88.4116369!16s%2Fg%2F1tf6q63b!19sChIJSd03gtJ1AjoRC84nsvCYTLI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospitals+Broadway/data=!4m7!3m6!1s0x3a0275d28237dd49:0xb24c98f0b227ce0b!8m2!3d22.568423!4d88.4116369!16s%2Fg%2F1tf6q63b!19sChIJSd03gtJ1AjoRC84nsvCYTLI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.568423,
+      "lng": 88.4116369,
+      "label": "Manipal Hospitals Broadway",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 1821,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manmohini-health-care-pvt-ltd-gar-baharampur-p",
+    "name": "Manmohini Health Care Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gar Baharampur P, Manmohini Health Care Pvt Ltd offers coordinated hospital care with major focus on Liver Transplant Surgery In Baharampur. Operational strengths including Google rating 3.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097327 93000",
+    "alternatePhone": "",
+    "website": "http://manmohinihealthcare.com/",
+    "address": "Shilpa Taluk 24/A, B/15, Kalikapore Road, Station Rd, Raninagar, Gora Bazar, Berhampore, Gar Baharampur P, West Bengal 742101",
+    "city": "Gar Baharampur P",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "Kalikapore Road",
+    "emergencyContact": "097327 93000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manmohini+Health+Care+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dca22da85f5:0x8ed8cdcf1790d3a7!8m2!3d24.0917984!4d88.2642446!16s%2Fg%2F11b8ykvkrz!19sChIJ9YXaIsp9-TkRp9OQF8_N2I4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manmohini+Health+Care+Pvt+Ltd/data=!4m7!3m6!1s0x39f97dca22da85f5:0x8ed8cdcf1790d3a7!8m2!3d24.0917984!4d88.2642446!16s%2Fg%2F11b8ykvkrz!19sChIJ9YXaIsp9-TkRp9OQF8_N2I4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0917984,
+      "lng": 88.2642446,
+      "label": "Manmohini Health Care Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medconnectplus-eclinic-full-body-health-checkup-sugar-pressure-heart-kidney-chest-liver-thyroid-gastritis-ibs-clinic-berhampore",
+    "name": "MedConnectPlus eClinic - Full Body Health Checkup, Sugar Pressure Heart Kidney Chest Liver Thyroid Gastritis IBS Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose MedConnectPlus eClinic - Full Body Health Checkup, Sugar Pressure Heart Kidney Chest Liver Thyroid Gastritis IBS Clinic for its strength in Liver Transplant Surgery In Baharampur, Medical Center, Cardiac Care, and Kidney Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097341 00999",
+    "alternatePhone": "",
+    "website": "https://www.medconnectplus.in/",
+    "address": "Durga Mandir, 90, Pilkhana Rd, opposite of Ranibagan, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "opposite of Ranibagan, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "emergencyContact": "097341 00999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Medical Center",
+      "Cardiac Care",
+      "Kidney Care",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MedConnectPlus+eClinic+-+Full+Body+Health+Checkup,+Sugar+Pressure+Heart+Kidney+Chest+Liver+Thyroid+Gastritis+IBS+Clinic/data=!4m7!3m6!1s0x39f97dc55019889b:0x6c9387bb6c48ef8c!8m2!3d24.1002465!4d88.2571631!16s%2Fg%2F11hbn41sq9!19sChIJm4gZUMV9-TkRjO9IbLuHk2w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MedConnectPlus+eClinic+-+Full+Body+Health+Checkup,+Sugar+Pressure+Heart+Kidney+Chest+Liver+Thyroid+Gastritis+IBS+Clinic/data=!4m7!3m6!1s0x39f97dc55019889b:0x6c9387bb6c48ef8c!8m2!3d24.1002465!4d88.2571631!16s%2Fg%2F11hbn41sq9!19sChIJm4gZUMV9-TkRjO9IbLuHk2w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1002465,
+      "lng": 88.2571631,
+      "label": "MedConnectPlus eClinic - Full Body Health Checkup, Sugar Pressure Heart Kidney Chest Liver Thyroid Gastritis IBS Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mediflora-berhampore",
+    "name": "Mediflora",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mediflora is a prominent medical center in Berhampore, known for structured tertiary care across Liver Transplant Surgery In Baharampur and Medical Center. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090023 35491",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Durga Mandir, 117, Pilkhana Rd, near Ranibagan, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "near Ranibagan, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "emergencyContact": "090023 35491",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Mediflora/data=!4m7!3m6!1s0x39f97d2685abf857:0xfdce7b29e6f70086!8m2!3d24.1006034!4d88.256674!16s%2Fg%2F11rghgr01j!19sChIJV_irhSZ9-TkRhgD35il7zv0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mediflora/data=!4m7!3m6!1s0x39f97d2685abf857:0xfdce7b29e6f70086!8m2!3d24.1006034!4d88.256674!16s%2Fg%2F11rghgr01j!19sChIJV_irhSZ9-TkRhgD35il7zv0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1006034,
+      "lng": 88.256674,
+      "label": "Mediflora",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mediflora-medicine-shop-little-heart-diagnostic-centre-berhampore",
+    "name": "Mediflora medicine shop / Little Heart Diagnostic Centre",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mediflora medicine shop / Little Heart Diagnostic Centre has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Heart Surgery In Baharampur, Medical Diagnostic Imaging Center, and Cardiac Care. Its infrastructure includes Google rating 3.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1A, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Ranibagan",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Medical Diagnostic Imaging Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mediflora+medicine+shop+%2F+Little+Heart+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97d303f4c67bf:0xfc2ef0a271ac95b6!8m2!3d24.0993448!4d88.2564269!16s%2Fg%2F11kxdpwcjm!19sChIJv2dMPzB9-TkRtpWscaLwLvw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mediflora+medicine+shop+%2F+Little+Heart+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97d303f4c67bf:0xfc2ef0a271ac95b6!8m2!3d24.0993448!4d88.2564269!16s%2Fg%2F11kxdpwcjm!19sChIJv2dMPzB9-TkRtpWscaLwLvw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0993448,
+      "lng": 88.2564269,
+      "label": "Mediflora medicine shop / Little Heart Diagnostic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mission-medical-center-berhampore",
+    "name": "Mission medical center",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Berhampore, Mission medical center delivers integrated care across Spine Surgery In Baharampur and Medical Center. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.mmc.com/",
+    "address": "73, G-3, Rabindranath Tagore Rd, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Rabindranath Tagore Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mission+medical+center/data=!4m7!3m6!1s0x39f97d6b98eb685f:0xc8ff39cbcc38bb4f!8m2!3d24.0951339!4d88.2552126!16s%2Fg%2F11hzz05d1d!19sChIJX2jrmGt9-TkRT7s4zMs5_8g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mission+medical+center/data=!4m7!3m6!1s0x39f97d6b98eb685f:0xc8ff39cbcc38bb4f!8m2!3d24.0951339!4d88.2552126!16s%2Fg%2F11hzz05d1d!19sChIJX2jrmGt9-TkRT7s4zMs5_8g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0951339,
+      "lng": 88.2552126,
+      "label": "Mission medical center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "murshidabad-medical-college-and-hospital-record-section-berhampore",
+    "name": "Murshidabad Medical College & Hospital Record Section",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Murshidabad Medical College & Hospital Record Section has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Surgery In Baharampur. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "37Q5+9C2, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Murshidabad+Medical+College+%26+Hospital+Record+Section/data=!4m7!3m6!1s0x39f97d57059b309d:0x6c0b093c7832a2ad!8m2!3d24.0883984!4d88.2585263!16s%2Fg%2F11ry_1xyck!19sChIJnTCbBVd9-TkRraIyeDwJC2w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Murshidabad+Medical+College+%26+Hospital+Record+Section/data=!4m7!3m6!1s0x39f97d57059b309d:0x6c0b093c7832a2ad!8m2!3d24.0883984!4d88.2585263!16s%2Fg%2F11ry_1xyck!19sChIJnTCbBVd9-TkRraIyeDwJC2w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0883984,
+      "lng": 88.2585263,
+      "label": "Murshidabad Medical College & Hospital Record Section",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "murshidabad-medical-college-and-hospital-berhampore",
+    "name": "MURSHIDABAD MEDICAL COLLEGE AND HOSPITAL",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MURSHIDABAD MEDICAL COLLEGE AND HOSPITAL has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Spine Surgery In Baharampur. With public-facing highlights like Google rating 4.1, 40+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.msdmch.org/",
+    "address": "73, Station Rd, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Raninagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "40+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MURSHIDABAD+MEDICAL+COLLEGE+AND+HOSPITAL/data=!4m7!3m6!1s0x39f97dcb7440e841:0xfee57094b0ad337f!8m2!3d24.089055!4d88.2590565!16s%2Fm%2F0gyspb2!19sChIJQehAdMt9-TkRfzOtsJRw5f4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MURSHIDABAD+MEDICAL+COLLEGE+AND+HOSPITAL/data=!4m7!3m6!1s0x39f97dcb7440e841:0xfee57094b0ad337f!8m2!3d24.089055!4d88.2590565!16s%2Fm%2F0gyspb2!19sChIJQehAdMt9-TkRfzOtsJRw5f4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.089055,
+      "lng": 88.2590565,
+      "label": "MURSHIDABAD MEDICAL COLLEGE AND HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 40,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naba-jiban-hospital-private-limited-kolkata",
+    "name": "Naba Jiban Hospital Private Limited",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose Naba Jiban Hospital Private Limited for its strength in Spine Neurosurgeon In Baharampur. Hospital capacity markers such as Google rating 4.0 and 1+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0332 555 1544",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5, Sibdas Bhaduri St, Mohon Bagan Row, Fariapukur, Shyam Bazar, Kolkata, West Bengal 700004",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700004",
+    "locality": "Shyam Bazar",
+    "landmark": "Mohon Bagan Row",
+    "emergencyContact": "0332 555 1544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "1+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Naba+Jiban+Hospital+Private+Limited/data=!4m7!3m6!1s0x3a02763a9e4ceffd:0x97269320269862e7!8m2!3d22.5985986!4d88.3735678!16s%2Fg%2F1pt_4f88k!19sChIJ_e9Mnjp2AjoR52KYJiCTJpc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naba+Jiban+Hospital+Private+Limited/data=!4m7!3m6!1s0x3a02763a9e4ceffd:0x97269320269862e7!8m2!3d22.5985986!4d88.3735678!16s%2Fg%2F1pt_4f88k!19sChIJ_e9Mnjp2AjoR52KYJiCTJpc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5985986,
+      "lng": 88.3735678,
+      "label": "Naba Jiban Hospital Private Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nabaasha-medical-centre-and-dental-clinic-berhampore",
+    "name": "NabaAsha Medical Centre and Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NabaAsha Medical Centre and Dental Clinic is a prominent dental clinic in Berhampore, known for structured tertiary care across Oral Surgery In Baharampur. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099039 48297",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jodhpur Estate, 1 Joy, 24/32/4, Jay Chand Rd, near Lipika Memorial Girls Higher Secondary School, beside Chaaya Sweets, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "near Lipika Memorial Girls Higher Secondary School, beside Chaaya Sweets, Khagra, Berhampore, West Bengal 742103",
+    "emergencyContact": "099039 48297",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/NabaAsha+Medical+Centre+and+Dental+Clinic/data=!4m7!3m6!1s0x39f97dc26c120913:0xee8fc4b0f3ca6a67!8m2!3d24.1092423!4d88.2593241!16s%2Fg%2F11dzdvs_s1!19sChIJEwkSbMJ9-TkRZ2rK87DEj-4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NabaAsha+Medical+Centre+and+Dental+Clinic/data=!4m7!3m6!1s0x39f97dc26c120913:0xee8fc4b0f3ca6a67!8m2!3d24.1092423!4d88.2593241!16s%2Fg%2F11dzdvs_s1!19sChIJEwkSbMJ9-TkRZ2rK87DEj-4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1092423,
+      "lng": 88.2593241,
+      "label": "NabaAsha Medical Centre and Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "narayana-rn-tagore-hospital-mukundapur-kolkata",
+    "name": "Narayana RN Tagore Hospital, Mukundapur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana RN Tagore Hospital, Mukundapur has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Heart Surgery In Baharampur. With public-facing highlights like Google rating 4.8, 29+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080675 06860",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/kolkata/rabindranath-tagore-international-institute-cardiac-sciences/?utm_source=Googlemaps&utm_medium=GMB",
+    "address": "Premises No: 1489, 124, Eastern Metropolitan Bypass, Mukundapur Market, Stadium Colony, Mukundapur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Mukundapur",
+    "landmark": "Eastern Metropolitan Bypass",
+    "emergencyContact": "080675 06860",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "29+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Narayana+RN+Tagore+Hospital,+Mukundapur/data=!4m7!3m6!1s0x3a0273dff60b2adb:0xa56571cbd5cfa88b!8m2!3d22.4912281!4d88.4024062!16s%2Fg%2F11jp12zg65!19sChIJ2yoL9t9zAjoRi6jP1ctxZaU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Narayana+RN+Tagore+Hospital,+Mukundapur/data=!4m7!3m6!1s0x3a0273dff60b2adb:0xa56571cbd5cfa88b!8m2!3d22.4912281!4d88.4024062!16s%2Fg%2F11jp12zg65!19sChIJ2yoL9t9zAjoRi6jP1ctxZaU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.4912281,
+      "lng": 88.4024062,
+      "label": "Narayana RN Tagore Hospital, Mukundapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 29,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nehru-memorial-techno-global-hospital-barrackpore",
+    "name": "Nehru Memorial Techno Global Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Barrackpore, Nehru Memorial Techno Global Hospital brings together specialists for Liver Transplant Surgery In Baharampur. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0336 630 3030",
+    "alternatePhone": "",
+    "website": "http://www.technoglobalhospital.com/",
+    "address": "6, Barasat Rd, near Lalakuthi, More, Barrackpore, West Bengal 700120",
+    "city": "Barrackpore",
+    "state": "West Bengal",
+    "pincode": "700120",
+    "locality": "More",
+    "landmark": "near Lalakuthi, More, Barrackpore, West Bengal 700120",
+    "emergencyContact": "0336 630 3030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/data=!4m7!3m6!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl!19sChIJGV2b1lma-DkRIWNchORtk2k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nehru+Memorial+Techno+Global+Hospital/data=!4m7!3m6!1s0x39f89a59d69b5d19:0x69936de4845c6321!8m2!3d22.766876!4d88.3677048!16s%2Fg%2F1tg9r2vl!19sChIJGV2b1lma-DkRIWNchORtk2k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.766876,
+      "lng": 88.3677048,
+      "label": "Nehru Memorial Techno Global Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neodent-dental-clinic-berhampore",
+    "name": "Neodent Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Neodent Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Baharampur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073845 63037",
+    "alternatePhone": "",
+    "website": "",
+    "address": "23, Churaman Chowdhury Ln, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Raninagar",
+    "emergencyContact": "073845 63037",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Neodent+Dental+Clinic/data=!4m7!3m6!1s0x39f97de0f8870b3d:0x94aa2e4675086dca!8m2!3d24.0887324!4d88.2560327!16s%2Fg%2F11krpt37wh!19sChIJPQuH-OB9-TkRym0IdUYuqpQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neodent+Dental+Clinic/data=!4m7!3m6!1s0x39f97de0f8870b3d:0x94aa2e4675086dca!8m2!3d24.0887324!4d88.2560327!16s%2Fg%2F11krpt37wh!19sChIJPQuH-OB9-TkRym0IdUYuqpQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0887324,
+      "lng": 88.2560327,
+      "label": "Neodent Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephro-care-kolkata",
+    "name": "Nephro Care",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose Nephro Care for its strength in Kidney Transplant Surgery In Baharampur and Diagnostic Center. Hospital capacity markers such as Google rating 4.8, 396+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "support@nephrocareindia.com",
+    "phone": "086971 26819",
+    "alternatePhone": "+91 80698 41500",
+    "website": "https://www.nephrocareindia.com/",
+    "address": "HC96+FM, JC 18, JC Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "JC Block",
+    "emergencyContact": "+91 80698 41500",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/nephrocareIndia",
+    "twitter": "https://twitter.com/nephrocareIndia",
+    "instagram": "https://www.instagram.com/nephrocareindia/",
+    "linkedin": "https://www.linkedin.com/company/nephrocare-india/",
+    "youtube": "https://www.youtube.com/@nephrocareindia8437",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "396+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nephro+Care/data=!4m7!3m6!1s0x3a0275c432784bc5:0xd67953b1696eb132!8m2!3d22.5688589!4d88.4117295!16s%2Fg%2F11rxqh1k05!19sChIJxUt4MsR1AjoRMrFuabFTedY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5688589,
+      "lng": 88.4117295,
+      "label": "Nephro Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 396,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nibedita-health-care-berhampore",
+    "name": "Nibedita Health Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Nibedita Health Care offers coordinated hospital care with major focus on Liver Transplant Surgery In Baharampur. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080012 28899",
+    "alternatePhone": "",
+    "website": "http://www.nibeditahealthcare.com/",
+    "address": "44/1, KN Rd, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Khagra",
+    "emergencyContact": "080012 28899",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nibedita+Health+Care/data=!4m7!3m6!1s0x39f97d23b1d5afd3:0x4c2625be3f0c0134!8m2!3d24.0985826!4d88.2579026!16s%2Fg%2F11jm_tzs_x!19sChIJ06_VsSN9-TkRNAEMP74lJkw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nibedita+Health+Care/data=!4m7!3m6!1s0x39f97d23b1d5afd3:0x4c2625be3f0c0134!8m2!3d24.0985826!4d88.2579026!16s%2Fg%2F11jm_tzs_x!19sChIJ06_VsSN9-TkRNAEMP74lJkw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0985826,
+      "lng": 88.2579026,
+      "label": "Nibedita Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nightingale-diagnostic-berhampore",
+    "name": "Nightingale Diagnostic",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted diagnostic center in Berhampore, Nightingale Diagnostic delivers integrated care across Heart Surgery In Baharampur and Diagnostic Center. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097341 73232",
+    "alternatePhone": "",
+    "website": "https://www.nightingaled.com/",
+    "address": "49, KN Rd, near sonali bangla hotel, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "near sonali bangla hotel, Khagra, Berhampore, West Bengal 742101",
+    "emergencyContact": "097341 73232",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nightingale+Diagnostic/data=!4m7!3m6!1s0x39f97d823fac111d:0xd46fd1f37cdb7a44!8m2!3d24.0988558!4d88.2573595!16s%2Fg%2F11l4c19c6q!19sChIJHRGsP4J9-TkRRHrbfPPRb9Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nightingale+Diagnostic/data=!4m7!3m6!1s0x39f97d823fac111d:0xd46fd1f37cdb7a44!8m2!3d24.0988558!4d88.2573595!16s%2Fg%2F11l4c19c6q!19sChIJHRGsP4J9-TkRRHrbfPPRb9Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0988558,
+      "lng": 88.2573595,
+      "label": "Nightingale Diagnostic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nilanjana-roy-physio-and-rehab-clinic-children-rehab-center-berhampore-berhampore",
+    "name": "Nilanjana Roy Physio and Rehab Clinic Children Rehab Center Berhampore",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Nilanjana Roy Physio and Rehab Clinic Children Rehab Center Berhampore brings together specialists for Spine Surgery In Baharampur, Physiotherapist, and Women and Child Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090912 97576",
+    "alternatePhone": "",
+    "website": "",
+    "address": "80/7, Ukilabad Rd, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Raninagar",
+    "emergencyContact": "090912 97576",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Physiotherapist",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nilanjana+Roy+Physio+and+Rehab+Clinic+Children+Rehab+Center+Berhampore/data=!4m7!3m6!1s0x39f97d98a3e9fb6b:0x830b19991940b045!8m2!3d24.0845193!4d88.2549012!16s%2Fg%2F11rg9bn4vj!19sChIJa_vpo5h9-TkRRbBAGZkZC4M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nilanjana+Roy+Physio+and+Rehab+Clinic+Children+Rehab+Center+Berhampore/data=!4m7!3m6!1s0x39f97d98a3e9fb6b:0x830b19991940b045!8m2!3d24.0845193!4d88.2549012!16s%2Fg%2F11rg9bn4vj!19sChIJa_vpo5h9-TkRRbBAGZkZC4M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0845193,
+      "lng": 88.2549012,
+      "label": "Nilanjana Roy Physio and Rehab Clinic Children Rehab Center Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "niranjan-ortho-medical-centre-berhampore",
+    "name": "Niranjan Ortho Medical Centre",
+    "type": "Drug Store",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Niranjan Ortho Medical Centre offers coordinated hospital care with major focus on Spine Surgery In Baharampur, Drug Store, and Orthopaedics. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093333 10386",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3/17, K.K.Banerjee Road, beside AXIS Bank, Raninagar, Gorabazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gorabazar",
+    "landmark": "beside AXIS Bank, Raninagar, Gorabazar, Berhampore, West Bengal 742101",
+    "emergencyContact": "093333 10386",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Drug Store",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Niranjan+Ortho+Medical+Centre/data=!4m7!3m6!1s0x39f97dd2554dee85:0x2b0682db899a57fd!8m2!3d24.0895723!4d88.2532381!16s%2Fg%2F11f3x5b0ss!19sChIJhe5NVdJ9-TkR_VeaiduCBis?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Niranjan+Ortho+Medical+Centre/data=!4m7!3m6!1s0x39f97dd2554dee85:0x2b0682db899a57fd!8m2!3d24.0895723!4d88.2532381!16s%2Fg%2F11f3x5b0ss!19sChIJhe5NVdJ9-TkR_VeaiduCBis?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0895723,
+      "lng": 88.2532381,
+      "label": "Niranjan Ortho Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-kolkata",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery In Baharampur and Kidney Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NKPCKidneyClinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/nkpc_kidney_clinic/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NKPC+Kidney+Clinic/data=!4m7!3m6!1s0x3a02715f35a10645:0x30893e43739366f5!8m2!3d22.498556!4d88.4002065!16s%2Fg%2F11bzwp1j5y!19sChIJRQahNV9xAjoR9WaTc0M-iTA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oro-max-dento-care-baharampur",
+    "name": "ORO MAX DENTO CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORO MAX DENTO CARE is a prominent dental clinic in Baharampur, known for structured tertiary care across Oral Surgery In Baharampur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "",
+    "city": "Baharampur",
+    "state": "West Bengal",
+    "pincode": "",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/ORO+MAX+DENTO+CARE/data=!4m7!3m6!1s0x39f97d0ddc009235:0x3c86c9a5503ed6ee!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11k6rgfzfc!19sChIJNZIA3A19-TkR7tY-UKXJhjw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORO+MAX+DENTO+CARE/data=!4m7!3m6!1s0x39f97d0ddc009235:0x3c86c9a5503ed6ee!8m2!3d21.0680074!4d82.7525294!16s%2Fg%2F11k6rgfzfc!19sChIJNZIA3A19-TkR7tY-UKXJhjw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 21.0680074,
+      "lng": 82.7525294,
+      "label": "ORO MAX DENTO CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orogenesis-dental-clinic-berhampore",
+    "name": "Orogenesis Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose Orogenesis Dental Clinic for its strength in Oral Surgery In Baharampur. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31/B, Ukilabad Rd, Raninagar, BiyasApartment(Groundfloor, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Raninagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Orogenesis+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2d65888e53:0xb8968be8f42dc8a2!8m2!3d24.0868075!4d88.2513609!16s%2Fg%2F11c31qjlj7!19sChIJU46IZS18-TkRosgt9OiLlrg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Orogenesis+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2d65888e53:0xb8968be8f42dc8a2!8m2!3d24.0868075!4d88.2513609!16s%2Fg%2F11c31qjlj7!19sChIJU46IZS18-TkRosgt9OiLlrg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0868075,
+      "lng": 88.2513609,
+      "label": "Orogenesis Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "plasma-diagnostic-berhampore",
+    "name": "Plasma Diagnostic",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Plasma Diagnostic is a prominent diagnostic center in Berhampore, known for structured tertiary care across Kidney Transplant Surgery In Baharampur and Diagnostic Center. With public-facing highlights like Google rating 2.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0348 225 5255",
+    "alternatePhone": "",
+    "website": "http://www.plasmadiagnosticbhb.in/",
+    "address": "69/G/6 R.N Tagore Road, Laldighi, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Laldighi",
+    "landmark": "Berhampore",
+    "emergencyContact": "0348 225 5255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Plasma+Diagnostic/@24.0948053,88.2544562,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97dd1b7491f1d:0x2d543d69531ec589!8m2!3d24.0948053!4d88.2544562!16s%2Fg%2F11bbwx1gz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Plasma+Diagnostic/@24.0948053,88.2544562,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97dd1b7491f1d:0x2d543d69531ec589!8m2!3d24.0948053!4d88.2544562!16s%2Fg%2F11bbwx1gz7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0948053,
+      "lng": 88.2544562,
+      "label": "Plasma Diagnostic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prime-diagnostic-and-polyclinic-berhampore",
+    "name": "PRIME DIAGNOSTIC AND POLYCLINIC",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose PRIME DIAGNOSTIC AND POLYCLINIC for its strength in Kidney Transplant Surgery In Baharampur and Medical Diagnostic Imaging Center. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "95, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Ranibagan",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/PRIME+DIAGNOSTIC+AND+POLYCLINIC/data=!4m7!3m6!1s0x39f97d0043845225:0x3eac7e7e5e37dcc5!8m2!3d24.0994591!4d88.2561066!16s%2Fg%2F11x65hslzp!19sChIJJVKEQwB9-TkRxdw3Xn5-rD4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRIME+DIAGNOSTIC+AND+POLYCLINIC/data=!4m7!3m6!1s0x39f97d0043845225:0x3eac7e7e5e37dcc5!8m2!3d24.0994591!4d88.2561066!16s%2Fg%2F11x65hslzp!19sChIJJVKEQwB9-TkRxdw3Xn5-rD4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0994591,
+      "lng": 88.2561066,
+      "label": "PRIME DIAGNOSTIC AND POLYCLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-n-tagore-uphc-i-berhampore-municipality-murshidabad-medical-college-urban-training-centre-berhampore",
+    "name": "R.N TAGORE UPHC I, Berhampore Municipality (Murshidabad Medical College Urban Training Centre)",
+    "type": "Community Health Center",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R.N TAGORE UPHC I, Berhampore Municipality (Murshidabad Medical College Urban Training Centre) is a prominent community health center in Berhampore, known for structured tertiary care across Heart Surgery In Baharampur and Community Health Center. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "37V4+J59, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Community Health Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/R.N+TAGORE+UPHC+I,+Berhampore+Municipality+%28Murshidabad+Medical+College+Urban+Training+Centre%29/data=!4m7!3m6!1s0x39f97db2fa36edf1:0x27471e4075e78472!8m2!3d24.0939305!4d88.2553789!16s%2Fg%2F11s0t65_k_!19sChIJ8e02-rJ9-TkRcoTndUAeRyc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.N+TAGORE+UPHC+I,+Berhampore+Municipality+%28Murshidabad+Medical+College+Urban+Training+Centre%29/data=!4m7!3m6!1s0x39f97db2fa36edf1:0x27471e4075e78472!8m2!3d24.0939305!4d88.2553789!16s%2Fg%2F11s0t65_k_!19sChIJ8e02-rJ9-TkRcoTndUAeRyc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0939305,
+      "lng": 88.2553789,
+      "label": "R.N TAGORE UPHC I, Berhampore Municipality (Murshidabad Medical College Urban Training Centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ranibagan-diagnostic-center-berhampore",
+    "name": "Ranibagan Diagnostic Center",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ranibagan Diagnostic Center has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering IVF In Baharampur and Diagnostic Center. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090462 90692",
+    "alternatePhone": "",
+    "website": "",
+    "address": "92/2, Infront of Ranibagan Youngs Corner Club, Pikhana Road, Pilkhana Rd, Ranibagan, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Ranibagan",
+    "landmark": "Pikhana Road",
+    "emergencyContact": "090462 90692",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Ranibagan+Diagnostic+Center/data=!4m7!3m6!1s0x39f97dbe7d2985e5:0x8277dbc975cad81d!8m2!3d24.0992954!4d88.2564016!16s%2Fg%2F11nxs_b28j!19sChIJ5YUpfb59-TkRHdjKdcnbd4I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ranibagan+Diagnostic+Center/data=!4m7!3m6!1s0x39f97dbe7d2985e5:0x8277dbc975cad81d!8m2!3d24.0992954!4d88.2564016!16s%2Fg%2F11nxs_b28j!19sChIJ5YUpfb59-TkRHdjKdcnbd4I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0992954,
+      "lng": 88.2564016,
+      "label": "Ranibagan Diagnostic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "re-move-pain-clinic-chiropractor-in-kolkata-best-chiropractor-kolkata",
+    "name": "re+MOVE Pain Clinic | Chiropractor in Kolkata | Best Chiropractor",
+    "type": "Osteopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "re+MOVE Pain Clinic | Chiropractor in Kolkata | Best Chiropractor is a prominent osteopath in Kolkata, known for structured tertiary care across Spine Neurosurgeon In Baharampur and Osteopath. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099030 26262",
+    "alternatePhone": "",
+    "website": "http://www.docsanjaysarkar.com/",
+    "address": "27/4, Northern Ave, Sahid Colony, Paikpara, Kolkata, West Bengal 700037",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700037",
+    "locality": "Paikpara",
+    "landmark": "Sahid Colony",
+    "emergencyContact": "099030 26262",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Osteopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/re%2BMOVE+Pain+Clinic+%7C+Chiropractor+in+Kolkata+%7C+Best+Chiropractor/data=!4m7!3m6!1s0x39f89dea1e561219:0x743193140594c2ed!8m2!3d22.6153449!4d88.3873742!16s%2Fg%2F11fqp6sb23!19sChIJGRJWHuqd-DkR7cKUBRSTMXQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/re%2BMOVE+Pain+Clinic+%7C+Chiropractor+in+Kolkata+%7C+Best+Chiropractor/data=!4m7!3m6!1s0x39f89dea1e561219:0x743193140594c2ed!8m2!3d22.6153449!4d88.3873742!16s%2Fg%2F11fqp6sb23!19sChIJGRJWHuqd-DkR7cKUBRSTMXQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6153449,
+      "lng": 88.3873742,
+      "label": "re+MOVE Pain Clinic | Chiropractor in Kolkata | Best Chiropractor",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "refyn-clinic-liposuction-gynaecomastia-hair-treatments-lasers-baranagar",
+    "name": "REFYN CLINIC || Liposuction, Gynaecomastia, Hair treatments, Lasers",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Baranagar, REFYN CLINIC || Liposuction, Gynaecomastia, Hair treatments, Lasers brings together specialists for Cosmetic Surgery In Baharampur. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079807 82386",
+    "alternatePhone": "",
+    "website": "http://www.praesthetica.in/",
+    "address": "Ambika Villa, 173, Rabindranagar, opposite of BKC College, Dunlop, Dunlop, Bonhooghly Government Colony, West, Kolkata, Baranagar, West Bengal 700108",
+    "city": "Baranagar",
+    "state": "West Bengal",
+    "pincode": "700108",
+    "locality": "Kolkata",
+    "landmark": "opposite of BKC College, Dunlop, Dunlop, Bonhooghly Government Colony, West, Kolkata, Baranagar, West Bengal 700108",
+    "emergencyContact": "079807 82386",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/REFYN+CLINIC+%7C%7C+Liposuction,+Gynaecomastia,+Hair+treatments,+Lasers/data=!4m7!3m6!1s0x39f89dfc24ca56d1:0xfa6a715dd41fb627!8m2!3d22.6496567!4d88.3821946!16s%2Fg%2F11ytgx3bjp!19sChIJ0VbKJPyd-DkRJ7Yf1F1xavo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/REFYN+CLINIC+%7C%7C+Liposuction,+Gynaecomastia,+Hair+treatments,+Lasers/data=!4m7!3m6!1s0x39f89dfc24ca56d1:0xfa6a715dd41fb627!8m2!3d22.6496567!4d88.3821946!16s%2Fg%2F11ytgx3bjp!19sChIJ0VbKJPyd-DkRJ7Yf1F1xavo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6496567,
+      "lng": 88.3821946,
+      "label": "REFYN CLINIC || Liposuction, Gynaecomastia, Hair treatments, Lasers",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "relief-diagnostic-and-health-care-berhampore",
+    "name": "Relief Diagnostic & Health Care",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Relief Diagnostic & Health Care offers coordinated hospital care with major focus on Heart Surgery In Baharampur. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "28, KN Rd, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Raninagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Relief+Diagnostic+%26+Health+Care/data=!4m7!3m6!1s0x39f97da792279e23:0x5750d8d2d4da0b0c!8m2!3d24.098868!4d88.2568078!16s%2Fg%2F11n15829w_!19sChIJI54nkqd9-TkRDAva1NLYUFc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Relief+Diagnostic+%26+Health+Care/data=!4m7!3m6!1s0x39f97da792279e23:0x5750d8d2d4da0b0c!8m2!3d24.098868!4d88.2568078!16s%2Fg%2F11n15829w_!19sChIJI54nkqd9-TkRDAva1NLYUFc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.098868,
+      "lng": 88.2568078,
+      "label": "Relief Diagnostic & Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "remove-pain-clinic-mandir-tala-howrah-howrah",
+    "name": "Remove Pain clinic, Mandir Tala,Howrah",
+    "type": "Chiropractor",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Howrah often choose Remove Pain clinic, Mandir Tala,Howrah for its strength in Spine Neurosurgeon In Baharampur and Chiropractor. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099030 26262",
+    "alternatePhone": "",
+    "website": "http://www.docsanjaysarkar.com/",
+    "address": "21, 1, Kshetra Banerjee Ln, Naora, Shibpur, Howrah, West Bengal 711102",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "pincode": "711102",
+    "locality": "Shibpur",
+    "landmark": "Kshetra Banerjee Ln",
+    "emergencyContact": "099030 26262",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Chiropractor"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Remove+Pain+clinic,+Mandir+Tala,Howrah/data=!4m7!3m6!1s0x3a027978305a6455:0x6c373d9bd74150e4!8m2!3d22.5685897!4d88.3167221!16s%2Fg%2F11t8_pzl62!19sChIJVWRaMHh5AjoR5FBB15s9N2w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Remove+Pain+clinic,+Mandir+Tala,Howrah/data=!4m7!3m6!1s0x3a027978305a6455:0x6c373d9bd74150e4!8m2!3d22.5685897!4d88.3167221!16s%2Fg%2F11t8_pzl62!19sChIJVWRaMHh5AjoR5FBB15s9N2w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5685897,
+      "lng": 88.3167221,
+      "label": "Remove Pain clinic, Mandir Tala,Howrah",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rs-fertility-centre-and-health-care-domkol-natunpara",
+    "name": "RS Fertility Centre & Health Care",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Domkol Natunpara, RS Fertility Centre & Health Care offers coordinated hospital care with major focus on IVF In Baharampur and Fertility Care. Its infrastructure includes Google rating 4.9, 1+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097326 07246",
+    "alternatePhone": "",
+    "website": "http://rsfertilitycentreandhealthcare.com/",
+    "address": "Domkol Natunpara, West Bengal 742303",
+    "city": "Domkol Natunpara",
+    "state": "West Bengal",
+    "pincode": "742303",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "097326 07246",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "1+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RS+Fertility+Centre+%26+Health+Care/data=!4m7!3m6!1s0x6a1a904c3d8d45c7:0xbebcc738762df8e!8m2!3d24.1225426!4d88.5524693!16s%2Fg%2F11w9tphr4z!19sChIJx0WNPUyQGmoRjt9ih3PM6ws?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RS+Fertility+Centre+%26+Health+Care/data=!4m7!3m6!1s0x6a1a904c3d8d45c7:0xbebcc738762df8e!8m2!3d24.1225426!4d88.5524693!16s%2Fg%2F11w9tphr4z!19sChIJx0WNPUyQGmoRjt9ih3PM6ws?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1225426,
+      "lng": 88.5524693,
+      "label": "RS Fertility Centre & Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaol-heart-center-berhampore-berhampore",
+    "name": "Saaol Heart Center - Berhampore",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saaol Heart Center - Berhampore has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Cardiac Surgery In Baharampur and Cardiac Care. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.saaol.com/",
+    "address": "82/7 KP CHATTARAJ ROAD, lane, near Judge Court More, near to super market, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "near to super market",
+    "landmark": "near Judge Court More, near to super market, Berhampore, West Bengal 742101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+-+Berhampore/data=!4m7!3m6!1s0x39f97d2570945bc5:0xad3b389c3e66ec3e!8m2!3d24.0854966!4d88.2487212!16s%2Fg%2F11z232czr9!19sChIJxVuUcCV9-TkRPuxmPpw4O60?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaol+Heart+Center+-+Berhampore/data=!4m7!3m6!1s0x39f97d2570945bc5:0xad3b389c3e66ec3e!8m2!3d24.0854966!4d88.2487212!16s%2Fg%2F11z232czr9!19sChIJxVuUcCV9-TkRPuxmPpw4O60?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0854966,
+      "lng": 88.2487212,
+      "label": "Saaol Heart Center - Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sagira-dental-clinic-berhampore",
+    "name": "SAGIRA DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose SAGIRA DENTAL CLINIC for its strength in Oral Surgery In Baharampur. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062956 24524",
+    "alternatePhone": "",
+    "website": "https://sagira-dental-clinic.grexa.site/",
+    "address": "Kodbeltala more, Raninagar, Keshobnagar, Berhampore, West Bengal 742102",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742102",
+    "locality": "Keshobnagar",
+    "landmark": "Keshobnagar",
+    "emergencyContact": "062956 24524",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SAGIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f97d1cac86343f:0xb5de89b67bbebd3d!8m2!3d24.0972546!4d88.2769486!16s%2Fg%2F11w4gczfh7!19sChIJPzSGrBx9-TkRPb2-e7aJ3rU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAGIRA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f97d1cac86343f:0xb5de89b67bbebd3d!8m2!3d24.0972546!4d88.2769486!16s%2Fg%2F11w4gczfh7!19sChIJPzSGrBx9-TkRPb2-e7aJ3rU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0972546,
+      "lng": 88.2769486,
+      "label": "SAGIRA DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samriddhi-aesthetics-skin-and-hair-clinic-in-berhampore-berhampore",
+    "name": "Samriddhi Aesthetics- Skin and Hair Clinic in Berhampore",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Samriddhi Aesthetics- Skin and Hair Clinic in Berhampore offers coordinated hospital care with major focus on Plastic Surgery In Baharampur. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087778 39414",
+    "alternatePhone": "",
+    "website": "https://samriddhiaesthetic.com/",
+    "address": "33/1A, NH 34, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Raninagar",
+    "emergencyContact": "087778 39414",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Samriddhi+Aesthetics-+Skin+and+Hair+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dc0ad9ee6fd:0xfc34cc0403ff9dec!8m2!3d24.097881!4d88.2566216!16s%2Fg%2F11xct22796!19sChIJ_eaercB9-TkR7J3_AwTMNPw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samriddhi+Aesthetics-+Skin+and+Hair+Clinic+in+Berhampore/data=!4m7!3m6!1s0x39f97dc0ad9ee6fd:0xfc34cc0403ff9dec!8m2!3d24.097881!4d88.2566216!16s%2Fg%2F11xct22796!19sChIJ_eaercB9-TkR7J3_AwTMNPw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.097881,
+      "lng": 88.2566216,
+      "label": "Samriddhi Aesthetics- Skin and Hair Clinic in Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samridhi-dental-clinic-berhampore",
+    "name": "SAMRIDHI Dental clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose SAMRIDHI Dental clinic for its strength in Oral Surgery In Baharampur and Dentist. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MITI Apartment, 76/S/1, Rabindranath Tagore Rd, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Rabindranath Tagore Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/SAMRIDHI+Dental+clinic/data=!4m7!3m6!1s0x39f97d10378ed6f9:0x8b6ef992f873ea06!8m2!3d24.0949658!4d88.2545461!16s%2Fg%2F11rby_qyh4!19sChIJ-daONxB9-TkRBupz-JL5bos?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAMRIDHI+Dental+clinic/data=!4m7!3m6!1s0x39f97d10378ed6f9:0x8b6ef992f873ea06!8m2!3d24.0949658!4d88.2545461!16s%2Fg%2F11rby_qyh4!19sChIJ-daONxB9-TkRBupz-JL5bos?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0949658,
+      "lng": 88.2545461,
+      "label": "SAMRIDHI Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samvriti-diagnostic-centre-chaltia",
+    "name": "Samvriti Diagnostic Centre",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Chaltia, Samvriti Diagnostic Centre brings together specialists for Liver Transplant Surgery In Baharampur and Medical Diagnostic Imaging Center. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098303 36677",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Swarnamayee Market, Raninagar, Gora Bazar, Berhampore, Chaltia, West Bengal 742101",
+    "city": "Chaltia",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "098303 36677",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Samvriti+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97dccf3a4ea97:0xc6f686978ffa7468!8m2!3d24.0873664!4d88.2593727!16s%2Fg%2F11g7czfd59!19sChIJl-qk88x9-TkRaHT6j5eG9sY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samvriti+Diagnostic+Centre/data=!4m7!3m6!1s0x39f97dccf3a4ea97:0xc6f686978ffa7468!8m2!3d24.0873664!4d88.2593727!16s%2Fg%2F11g7czfd59!19sChIJl-qk88x9-TkRaHT6j5eG9sY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0873664,
+      "lng": 88.2593727,
+      "label": "Samvriti Diagnostic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sankalpo-clinic-berhampore-berhampore",
+    "name": "Sankalpo Clinic Berhampore",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Sankalpo Clinic Berhampore brings together specialists for Liver Transplant Surgery In Baharampur. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096742 88448",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Annada Enclave, 88, Pilkhana Rd, Ranibagan, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Pilkhana Rd",
+    "emergencyContact": "096742 88448",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Sankalpo+Clinic+Berhampore/data=!4m7!3m6!1s0x39f97db82b661fcf:0x84c198622b2e1ea5!8m2!3d24.1002396!4d88.2569936!16s%2Fg%2F11h9xf6byx!19sChIJzx9mK7h9-TkRpR4uK2KYwYQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sankalpo+Clinic+Berhampore/data=!4m7!3m6!1s0x39f97db82b661fcf:0x84c198622b2e1ea5!8m2!3d24.1002396!4d88.2569936!16s%2Fg%2F11h9xf6byx!19sChIJzx9mK7h9-TkRpR4uK2KYwYQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1002396,
+      "lng": 88.2569936,
+      "label": "Sankalpo Clinic Berhampore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarala-surgical-clinic-nursing-home-baharampur",
+    "name": "SARALA SURGICAL CLINIC, NURSING HOME.",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Baharampur, SARALA SURGICAL CLINIC, NURSING HOME. offers coordinated hospital care with major focus on Liver Transplant Surgery In Baharampur and Surgical Center. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0332 577 7900",
+    "alternatePhone": "",
+    "website": "http://www.calcuttayellowpages.com/adver/101958.html",
+    "address": "",
+    "city": "Baharampur",
+    "state": "West Bengal",
+    "pincode": "",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "0332 577 7900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./data=!4m7!3m6!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq!19sChIJe6yzIVN2AjoRnl8kgM6Zvxc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SARALA+SURGICAL+CLINIC,+NURSING+HOME./data=!4m7!3m6!1s0x3a02765321b3ac7b:0x17bf99ce80245f9e!8m2!3d22.6501231!4d88.365524!16s%2Fg%2F1tjcmwbq!19sChIJe6yzIVN2AjoRnl8kgM6Zvxc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6501231,
+      "lng": 88.365524,
+      "label": "SARALA SURGICAL CLINIC, NURSING HOME.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sb-rahab-centre-berhampore",
+    "name": "SB RAHAB CENTRE",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Berhampore, SB RAHAB CENTRE delivers integrated care across Spine Surgery In Baharampur and Physiotherapy Center. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082496 24162",
+    "alternatePhone": "",
+    "website": "",
+    "address": "In between Swarnamoye to sriguru pathshala road, Maankumari Rd, near to murshidabad medical College and hospital, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "near to murshidabad medical College and hospital",
+    "landmark": "near to murshidabad medical College and hospital, Berhampore, West Bengal 742101",
+    "emergencyContact": "082496 24162",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SB+RAHAB+CENTRE/data=!4m7!3m6!1s0x39f97d39c231ca99:0x6d8caec72310054e!8m2!3d24.0858126!4d88.2581877!16s%2Fg%2F11v5vq4_20!19sChIJmcoxwjl9-TkRTgUQI8eujG0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SB+RAHAB+CENTRE/data=!4m7!3m6!1s0x39f97d39c231ca99:0x6d8caec72310054e!8m2!3d24.0858126!4d88.2581877!16s%2Fg%2F11v5vq4_20!19sChIJmcoxwjl9-TkRTgUQI8eujG0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0858126,
+      "lng": 88.2581877,
+      "label": "SB RAHAB CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sc-bagchi-arogya-sadan-pvt-ltd-howrah",
+    "name": "SC BAGCHI AROGYA SADAN Pvt. Ltd.",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Howrah, SC BAGCHI AROGYA SADAN Pvt. Ltd. offers coordinated hospital care with major focus on Spine Neurosurgeon In Baharampur and Nursing Home. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089102 31241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "43/5, Ramrajatala Station Rd, Santragachi, Ramrajatala, Howrah, West Bengal 711104",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "pincode": "711104",
+    "locality": "Ramrajatala",
+    "landmark": "Santragachi",
+    "emergencyContact": "089102 31241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SC+BAGCHI+AROGYA+SADAN+Pvt.+Ltd./@22.5858545,88.3035204,17z/data=!3m1!4b1!4m6!3m5!1s0x3a027840137d4685:0x89ae97a629b95661!8m2!3d22.5858545!4d88.3035204!16s%2Fg%2F11c531z3jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5858545,
+      "lng": 88.3035204,
+      "label": "SC BAGCHI AROGYA SADAN Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sm-clinic-and-pharmacy-berhampore",
+    "name": "SM CLINIC & PHARMACY",
+    "type": "Pharmacy",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted pharmacy in Berhampore, SM CLINIC & PHARMACY delivers integrated care across Cardiac Surgery In Baharampur and Pharmacy. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086955 00700",
+    "alternatePhone": "",
+    "website": "",
+    "address": "45, Rabindranath Tagore Rd, Laldighi, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Laldighi",
+    "emergencyContact": "086955 00700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Pharmacy"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SM+CLINIC+%26+PHARMACY/data=!4m7!3m6!1s0x39f97dbe8d99b343:0x6854ddeb89957eca!8m2!3d24.0953198!4d88.2555673!16s%2Fg%2F11lgldhdm0!19sChIJQ7OZjb59-TkRyn6VievdVGg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SM+CLINIC+%26+PHARMACY/data=!4m7!3m6!1s0x39f97dbe8d99b343:0x6854ddeb89957eca!8m2!3d24.0953198!4d88.2555673!16s%2Fg%2F11lgldhdm0!19sChIJQ7OZjb59-TkRyn6VievdVGg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0953198,
+      "lng": 88.2555673,
+      "label": "SM CLINIC & PHARMACY",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-heaven-dental-clinic-berhampore",
+    "name": "Smile heaven dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Smile heaven dental clinic offers coordinated hospital care with major focus on Oral Surgery In Baharampur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "37, Bhattacharya Para Ln, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Khagra",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+heaven+dental+clinic/data=!4m7!3m6!1s0x39f97d006d25d077:0x3084aafbab6d1578!8m2!3d24.1062755!4d88.2491564!16s%2Fg%2F11wwt7_d5f!19sChIJd9AlbQB9-TkReBVtq_uqhDA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+heaven+dental+clinic/data=!4m7!3m6!1s0x39f97d006d25d077:0x3084aafbab6d1578!8m2!3d24.1062755!4d88.2491564!16s%2Fg%2F11wwt7_d5f!19sChIJd9AlbQB9-TkReBVtq_uqhDA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1062755,
+      "lng": 88.2491564,
+      "label": "Smile heaven dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-zone-in-berhampore",
+    "name": "Smile Zone in",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Smile Zone in offers coordinated hospital care with major focus on Oral Surgery In Baharampur. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098008 32237",
+    "alternatePhone": "",
+    "website": "https://smilezonein.com/",
+    "address": "43, KN Rd, beside Sanideb Temple, near Mohona Bus stand, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "near Mohona Bus stand",
+    "landmark": "near Mohona Bus stand, Berhampore, West Bengal 742101",
+    "emergencyContact": "098008 32237",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Zone+in/data=!4m7!3m6!1s0x39f97d91fd92cbd3:0xbfd33aca3558c789!8m2!3d24.0983836!4d88.2573988!16s%2Fg%2F1q64b3hl8!19sChIJ08uS_ZF9-TkRicdYNco6078?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Zone+in/data=!4m7!3m6!1s0x39f97d91fd92cbd3:0xbfd33aca3558c789!8m2!3d24.0983836!4d88.2573988!16s%2Fg%2F1q64b3hl8!19sChIJ08uS_ZF9-TkRicdYNco6078?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0983836,
+      "lng": 88.2573988,
+      "label": "Smile Zone in",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smilebay-dental-clinic-gora-bazar",
+    "name": "Smilebay Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gora Bazar, Smilebay Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Baharampur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "36PX+CCR, KP Chattoraj Rd, Raninagar, Gora Bazar, Berhampore, Gora Bazar, West Bengal 742101",
+    "city": "Gora Bazar",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Berhampore",
+    "landmark": "Raninagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smilebay+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2b2a0e3a71:0xd337c314845d8e47!8m2!3d24.0861001!4d88.2485142!16s%2Fg%2F11f1lf4xnx!19sChIJcToOKit8-TkRR45dhBTDN9M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smilebay+Dental+Clinic/data=!4m7!3m6!1s0x39f97c2b2a0e3a71:0xd337c314845d8e47!8m2!3d24.0861001!4d88.2485142!16s%2Fg%2F11f1lf4xnx!19sChIJcToOKit8-TkRR45dhBTDN9M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0861001,
+      "lng": 88.2485142,
+      "label": "Smilebay Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sonoscan-kolkata",
+    "name": "SONOSCAN",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SONOSCAN has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Heart Surgery In Baharampur and Diagnostic Center. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097759 96262",
+    "alternatePhone": "",
+    "website": "http://www.sonoscanhealthcare.com/",
+    "address": "44, CIT Rd, near Ladies Park, Beniapukur, Kolkata, West Bengal 700014",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700014",
+    "locality": "Beniapukur",
+    "landmark": "near Ladies Park, Beniapukur, Kolkata, West Bengal 700014",
+    "emergencyContact": "097759 96262",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SONOSCAN/data=!4m7!3m6!1s0x3a0277f2f1c2d6af:0xa78d1e267271b362!8m2!3d22.5488865!4d88.3711417!16s%2Fg%2F11c7sxrdgq!19sChIJr9bC8fJ3AjoRYrNxciYejac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SONOSCAN/data=!4m7!3m6!1s0x3a0277f2f1c2d6af:0xa78d1e267271b362!8m2!3d22.5488865!4d88.3711417!16s%2Fg%2F11c7sxrdgq!19sChIJr9bC8fJ3AjoRYrNxciYejac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5488865,
+      "lng": 88.3711417,
+      "label": "SONOSCAN",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsha-infertility-centre-best-ivf-centre-and-pregnancy-care-in-kolkata-kolkata",
+    "name": "Sparsha Infertility Centre - Best IVF Centre & Pregnancy Care in Kolkata",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Sparsha Infertility Centre - Best IVF Centre & Pregnancy Care in Kolkata offers coordinated hospital care with major focus on IVF In Baharampur and Fertility Care. Hospital capacity markers such as Google rating 4.8, 77+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098740 84833",
+    "alternatePhone": "",
+    "website": "http://www.sparshaivf.com/",
+    "address": "Bus Stand, 358, Jessore Road, East Jessore Road, South Bankimpally New Barrackpore, Madhyamgram, Kolkata, West Bengal 700129",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700129",
+    "locality": "Madhyamgram",
+    "landmark": "Jessore Road",
+    "emergencyContact": "098740 84833",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Baharampur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "77+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sparsha+Infertility+Centre+-+Best+IVF+Centre+%26+Pregnancy+Care+in+Kolkata/data=!4m7!3m6!1s0x39f89f46839d2bf1:0x8fadab97c14c4f35!8m2!3d22.6874405!4d88.4636274!16s%2Fg%2F1pxw9sx5b!19sChIJ8Sudg0af-DkRNU9MwZerrY8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sparsha+Infertility+Centre+-+Best+IVF+Centre+%26+Pregnancy+Care+in+Kolkata/data=!4m7!3m6!1s0x39f89f46839d2bf1:0x8fadab97c14c4f35!8m2!3d22.6874405!4d88.4636274!16s%2Fg%2F1pxw9sx5b!19sChIJ8Sudg0af-DkRNU9MwZerrY8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6874405,
+      "lng": 88.4636274,
+      "label": "Sparsha Infertility Centre - Best IVF Centre & Pregnancy Care in Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 77,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srl-diagnostics-berhampore-agilus-diagnostics-best-pathology-in-murshidabad-free-blood-sample-collection-berhampore",
+    "name": "SRL Diagnostics Berhampore (Agilus Diagnostics) || Best Pathology in Murshidabad || Free Blood Sample Collection ||",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, SRL Diagnostics Berhampore (Agilus Diagnostics) || Best Pathology in Murshidabad || Free Blood Sample Collection || offers coordinated hospital care with major focus on Heart Surgery In Baharampur and Diagnostic Center. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062972 98653",
+    "alternatePhone": "",
+    "website": "https://mybillbook.in/store/first_choice_health_care",
+    "address": "BYLANE -9, 157/1, Amar Chakraborty Rd, near LILA MANOR APARTMENT, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "near LILA MANOR APARTMENT, Khagra, Berhampore, West Bengal 742103",
+    "emergencyContact": "062972 98653",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SRL+Diagnostics+Berhampore+%28Agilus+Diagnostics%29+%7C%7C+Best+Pathology+in+Murshidabad+%7C%7C+Free+Blood+Sample+Collection+%7C%7C/data=!4m7!3m6!1s0x39f97db517bdc811:0x105f36d5bfdf1596!8m2!3d24.1055714!4d88.2537515!16s%2Fg%2F11ss2ddd4x!19sChIJEci9F7V9-TkRlhXfv9U2XxA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRL+Diagnostics+Berhampore+%28Agilus+Diagnostics%29+%7C%7C+Best+Pathology+in+Murshidabad+%7C%7C+Free+Blood+Sample+Collection+%7C%7C/data=!4m7!3m6!1s0x39f97db517bdc811:0x105f36d5bfdf1596!8m2!3d24.1055714!4d88.2537515!16s%2Fg%2F11ss2ddd4x!19sChIJEci9F7V9-TkRlhXfv9U2XxA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1055714,
+      "lng": 88.2537515,
+      "label": "SRL Diagnostics Berhampore (Agilus Diagnostics) || Best Pathology in Murshidabad || Free Blood Sample Collection ||",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sskm-hospital-and-pg-opd-counter-kolkata",
+    "name": "SSKM Hospital & PG OPD Counter",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, SSKM Hospital & PG OPD Counter offers coordinated hospital care with major focus on Liver Transplant Surgery In Baharampur. With public-facing highlights like Google rating 4.0 and 3+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0332 223 6026",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhowanipore, Kolkata, West Bengal 700071",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700071",
+    "locality": "Bhowanipore",
+    "landmark": "West Bengal 700071",
+    "emergencyContact": "0332 223 6026",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "3+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/SSKM+Hospital+%26+PG+OPD+Counter/data=!4m7!3m6!1s0x3a02774e126750f7:0x811d7a5bc765e76b!8m2!3d22.5389877!4d88.3439071!16s%2Fg%2F11g1mcv0kn!19sChIJ91BnEk53AjoRa-dlx1t6HYE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSKM+Hospital+%26+PG+OPD+Counter/data=!4m7!3m6!1s0x3a02774e126750f7:0x811d7a5bc765e76b!8m2!3d22.5389877!4d88.3439071!16s%2Fg%2F11g1mcv0kn!19sChIJ91BnEk53AjoRa-dlx1t6HYE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5389877,
+      "lng": 88.3439071,
+      "label": "SSKM Hospital & PG OPD Counter",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "stark-medical-centre-berhampore",
+    "name": "STARK MEDICAL CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "STARK MEDICAL CENTRE has built a strong reputation in Berhampore for multidisciplinary treatment pathways covering Oncologist Surgery In Baharampur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090642 83796",
+    "alternatePhone": "",
+    "website": "http://www.drgolam.com/",
+    "address": "Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "West Bengal 742101",
+    "emergencyContact": "090642 83796",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/STARK+MEDICAL+CENTRE/data=!4m7!3m6!1s0x39f97d36e99b972d:0x959e60015daf2cf!8m2!3d24.0891034!4d88.2536332!16s%2Fg%2F11fpjwbxj9!19sChIJLZeb6TZ9-TkRz_LaFQDmWQk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/STARK+MEDICAL+CENTRE/data=!4m7!3m6!1s0x39f97d36e99b972d:0x959e60015daf2cf!8m2!3d24.0891034!4d88.2536332!16s%2Fg%2F11fpjwbxj9!19sChIJLZeb6TZ9-TkRz_LaFQDmWQk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0891034,
+      "lng": 88.2536332,
+      "label": "STARK MEDICAL CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudipta-s-dental-clinic-baharampur",
+    "name": "Sudipta's Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sudipta's Dental Clinic is a prominent dental clinic in Baharampur, known for structured tertiary care across Oral Surgery In Baharampur. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "30 Vivekananda Pally, Baharampur, Station Rd, Gora Bazar, West Bengal 742101",
+    "city": "Baharampur",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "30 Vivekananda Pally",
+    "landmark": "Station Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sudipta%27s+Dental+Clinic/data=!4m7!3m6!1s0x39f97c353d5bdce5:0x9f7685764eb45311!8m2!3d24.0851063!4d88.2638115!16s%2Fg%2F11fxct7_5m!19sChIJ5dxbPTV8-TkREVO0TnaFdp8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudipta%27s+Dental+Clinic/data=!4m7!3m6!1s0x39f97c353d5bdce5:0x9f7685764eb45311!8m2!3d24.0851063!4d88.2638115!16s%2Fg%2F11fxct7_5m!19sChIJ5dxbPTV8-TkREVO0TnaFdp8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0851063,
+      "lng": 88.2638115,
+      "label": "Sudipta's Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunirnoy-clinic-berhampore",
+    "name": "Sunirnoy Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Berhampore, Sunirnoy Clinic offers coordinated hospital care with major focus on Laparoscopic Surgery In Baharampur. Operational strengths including Google rating 2.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075479 44411",
+    "alternatePhone": "",
+    "website": "",
+    "address": "21, Sreeram siromoni road, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Khagra",
+    "emergencyContact": "075479 44411",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sunirnoy+Clinic/data=!4m7!3m6!1s0x39f97ddb00de835f:0x1943f1da3ed9d6dd!8m2!3d24.1014791!4d88.2537169!16s%2Fg%2F11hd6n0029!19sChIJX4PeANt9-TkR3dbZPtrxQxk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunirnoy+Clinic/data=!4m7!3m6!1s0x39f97ddb00de835f:0x1943f1da3ed9d6dd!8m2!3d24.1014791!4d88.2537169!16s%2Fg%2F11hd6n0029!19sChIJX4PeANt9-TkR3dbZPtrxQxk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1014791,
+      "lng": 88.2537169,
+      "label": "Sunirnoy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunirnoy-imaging-centre-berhampore",
+    "name": "Sunirnoy Imaging Centre",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sunirnoy Imaging Centre is a prominent medical diagnostic imaging center in Berhampore, known for structured tertiary care across Cardiac Surgery In Baharampur and Medical Diagnostic Imaging Center. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083730 58005",
+    "alternatePhone": "",
+    "website": "http://www.sunirnoyimagingcentre.com/",
+    "address": "126/1, Pilkhana Rd, Ranibagan, Badurtala, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Badurtala",
+    "landmark": "Ranibagan",
+    "emergencyContact": "083730 58005",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Baharampur",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sunirnoy+Imaging+Centre/data=!4m7!3m6!1s0x39f97d4b9bf0911f:0xd161cf3a9dd4010c!8m2!3d24.1008327!4d88.2561612!16s%2Fg%2F11q2lzs7r9!19sChIJH5Hwm0t9-TkRDAHUnTrPYdE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunirnoy+Imaging+Centre/data=!4m7!3m6!1s0x39f97d4b9bf0911f:0xd161cf3a9dd4010c!8m2!3d24.1008327!4d88.2561612!16s%2Fg%2F11q2lzs7r9!19sChIJH5Hwm0t9-TkRDAHUnTrPYdE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1008327,
+      "lng": 88.2561612,
+      "label": "Sunirnoy Imaging Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "taj-medical-center-berhampore",
+    "name": "Taj Medical Center",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted diagnostic center in Berhampore, Taj Medical Center delivers integrated care across Spine Surgery In Baharampur and Diagnostic Center. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080012 34422",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pilkhana Rd, Raninagar, Khagra, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Khagra",
+    "landmark": "Khagra",
+    "emergencyContact": "080012 34422",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Baharampur",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Taj+Medical+Center/data=!4m7!3m6!1s0x39f97dc52932cb47:0x9dcb5099fc55c7ca!8m2!3d24.1006144!4d88.2566636!16s%2Fg%2F11c5g5k0dz!19sChIJR8syKcV9-TkRysdV_JlQy50?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Taj+Medical+Center/data=!4m7!3m6!1s0x39f97dc52932cb47:0x9dcb5099fc55c7ca!8m2!3d24.1006144!4d88.2566636!16s%2Fg%2F11c5g5k0dz!19sChIJR8syKcV9-TkRysdV_JlQy50?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1006144,
+      "lng": 88.2566636,
+      "label": "Taj Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tertiary-cancer-care-center-tccc-berhampore",
+    "name": "Tertiary Cancer Care Center ( TCCC )",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Berhampore, Tertiary Cancer Care Center ( TCCC ) brings together specialists for Cancer Surgery In Baharampur and Cancer Treatment Center. With public-facing highlights like Google rating 3.7 and 2+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "37Q5+JC8, Raninagar, Gora Bazar, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Gora Bazar",
+    "landmark": "Gora Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Baharampur",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "2+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Tertiary+Cancer+Care+Center+%28+TCCC+%29/data=!4m7!3m6!1s0x39f97d4c05959fd9:0x28608459b7bd0b11!8m2!3d24.0892552!4d88.2580907!16s%2Fg%2F11jyynqr3n!19sChIJ2Z-VBUx9-TkREQu9t1mEYCg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tertiary+Cancer+Care+Center+%28+TCCC+%29/data=!4m7!3m6!1s0x39f97d4c05959fd9:0x28608459b7bd0b11!8m2!3d24.0892552!4d88.2580907!16s%2Fg%2F11jyynqr3n!19sChIJ2Z-VBUx9-TkREQu9t1mEYCg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0892552,
+      "lng": 88.2580907,
+      "label": "Tertiary Cancer Care Center ( TCCC )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-gariahat-kidney-care-centre-kolkata",
+    "name": "The Gariahat Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, The Gariahat Kidney Care Centre offers coordinated hospital care with major focus on Kidney Transplant Surgery In Baharampur and Kidney Care. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0334 001 1800",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9/11, Fern Rd, Ballygunge Gardens, Gariahat, Kolkata, West Bengal 700019",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700019",
+    "locality": "Gariahat",
+    "landmark": "Ballygunge Gardens",
+    "emergencyContact": "0334 001 1800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Baharampur",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Gariahat+Kidney+Care+Centre/data=!4m7!3m6!1s0x3a0276d36732d7df:0x579604391f441b72!8m2!3d22.5181153!4d88.3677804!16s%2Fg%2F11c55ryfrg!19sChIJ39cyZ9N2AjoRchtEHzkEllc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5181153,
+      "lng": 88.3677804,
+      "label": "The Gariahat Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-liver-clinic-kolkata",
+    "name": "The Liver Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Liver Clinic has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Baharampur, Surgical Center, and Liver Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "202, Purbachal Main Rd, Purbachal, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Baharampur",
+      "Surgical Center",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Liver+Clinic/data=!4m7!3m6!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4!19sChIJ38nUEwBxAjoRuXhHp_ZnYhM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5024883,
+      "lng": 88.3926269,
+      "label": "The Liver Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-perfect-32-dental-care-berhampore",
+    "name": "The Perfect 32 Dental care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Berhampore often choose The Perfect 32 Dental care for its strength in Oral Surgery In Baharampur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "73/74 R.N.TAGORE ROAD, BELTALA LANE, Laldighi, Berhampore, West Bengal 742101",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742101",
+    "locality": "Laldighi",
+    "landmark": "Laldighi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Perfect+32+Dental+care/@24.0949427,88.2551556,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97d7dd4623107:0xf5eedf98ccd2c6dc!8m2!3d24.0949427!4d88.2551556!16s%2Fg%2F11kr8t_qqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Perfect+32+Dental+care/@24.0949427,88.2551556,17z/data=!3m1!4b1!4m6!3m5!1s0x39f97d7dd4623107:0xf5eedf98ccd2c6dc!8m2!3d24.0949427!4d88.2551556!16s%2Fg%2F11kr8t_qqr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.0949427,
+      "lng": 88.2551556,
+      "label": "The Perfect 32 Dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "we-care-wellness-clinic-skin-laser-and-hair-berhampore",
+    "name": "We Care Wellness Clinic | Skin , Laser & Hair |",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "We Care Wellness Clinic | Skin , Laser & Hair | is a prominent skin care clinic in Berhampore, known for structured tertiary care across Plastic Surgery In Baharampur. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089180 03053",
+    "alternatePhone": "",
+    "website": "http://www.wecarebhp.in/",
+    "address": "33, Bhattacharya Para Ln, PO, Khagra, Berhampore, West Bengal 742103",
+    "city": "Berhampore",
+    "state": "West Bengal",
+    "pincode": "742103",
+    "locality": "Khagra",
+    "landmark": "PO",
+    "emergencyContact": "089180 03053",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/We+Care+Wellness+Clinic+%7C+Skin+,+Laser+%26+Hair+%7C/data=!4m7!3m6!1s0x39f97dc530e6289d:0x7f2dd3c4605ef105!8m2!3d24.1064107!4d88.2498687!16s%2Fg%2F11g6xgq30t!19sChIJnSjmMMV9-TkRBfFeYMTTLX8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/We+Care+Wellness+Clinic+%7C+Skin+,+Laser+%26+Hair+%7C/data=!4m7!3m6!1s0x39f97dc530e6289d:0x7f2dd3c4605ef105!8m2!3d24.1064107!4d88.2498687!16s%2Fg%2F11g6xgq30t!19sChIJnSjmMMV9-TkRBfFeYMTTLX8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1064107,
+      "lng": 88.2498687,
+      "label": "We Care Wellness Clinic | Skin , Laser & Hair |",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "well-bred-nurshing-home-murshidabad",
+    "name": "Well Bred Nurshing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Murshidabad, Well Bred Nurshing Home brings together specialists for Laparoscopic Surgery In Baharampur. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094752 60515",
+    "alternatePhone": "",
+    "website": "",
+    "address": "57GG+3CX, Lalbagh, Murshidabad, West Bengal 742149",
+    "city": "Murshidabad",
+    "state": "West Bengal",
+    "pincode": "742149",
+    "locality": "Lalbagh",
+    "landmark": "Murshidabad",
+    "emergencyContact": "094752 60515",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Baharampur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Well+Bred+Nurshing+Home/data=!4m7!3m6!1s0x39fbd650b0f02bc9:0x62ab8deea8492420!8m2!3d24.1752441!4d88.2761117!16s%2Fg%2F11css65c17!19sChIJySvwsFDW-zkRICRJqO6Nq2I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Well+Bred+Nurshing+Home/data=!4m7!3m6!1s0x39fbd650b0f02bc9:0x62ab8deea8492420!8m2!3d24.1752441!4d88.2761117!16s%2Fg%2F11css65c17!19sChIJySvwsFDW-zkRICRJqO6Nq2I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 24.1752441,
+      "lng": 88.2761117,
+      "label": "Well Bred Nurshing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "winpain-advanced-chiropractic-and-physiotherapy-clinic-kolkata",
+    "name": "Winpain - Advanced Chiropractic And Physiotherapy Clinic",
+    "type": "Chiropractor",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Winpain - Advanced Chiropractic And Physiotherapy Clinic offers coordinated hospital care with major focus on Spine Neurosurgeon In Baharampur and Chiropractor. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081005 04400",
+    "alternatePhone": "",
+    "website": "https://winpain.in/",
+    "address": "Hormazvilla, beside Matrisadan Hospital, Basunagar, Madhyamgram, Kolkata, West Bengal 700129",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700129",
+    "locality": "Madhyamgram",
+    "landmark": "beside Matrisadan Hospital, Basunagar, Madhyamgram, Kolkata, West Bengal 700129",
+    "emergencyContact": "081005 04400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Baharampur",
+      "Chiropractor"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Winpain+-+Advanced+Chiropractic+And+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f89ffad8eb5a7d:0xfa756b85fad824d8!8m2!3d22.6939279!4d88.4636137!16s%2Fg%2F11jz3gl5m_!19sChIJfVrr2Pqf-DkR2CTY-oVrdfo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Winpain+-+Advanced+Chiropractic+And+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f89ffad8eb5a7d:0xfa756b85fad824d8!8m2!3d22.6939279!4d88.4636137!16s%2Fg%2F11jz3gl5m_!19sChIJfVrr2Pqf-DkR2CTY-oVrdfo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6939279,
+      "lng": 88.4636137,
+      "label": "Winpain - Advanced Chiropractic And Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

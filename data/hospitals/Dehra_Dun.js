@@ -1,0 +1,12033 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32-gems-dental-care-dehradun",
+    "name": "32 Gems Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, 32 Gems Dental Care brings together specialists for Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078303 40810",
+    "alternatePhone": "",
+    "website": "https://drabhinavjain.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "7, Maharaja Complex, Saharanpur Rd, opposite Subzi Mandi, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Niranjanpur",
+    "landmark": "opposite Subzi Mandi, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "078303 40810",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/32+Gems+Dental+Care/@30.303938,78.0117249,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a2eed8f9b5d:0xcabdda0aa02d8a71!8m2!3d30.303938!4d78.0117249!16s%2Fg%2F1ptxg2swp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Gems+Dental+Care/@30.303938,78.0117249,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a2eed8f9b5d:0xcabdda0aa02d8a71!8m2!3d30.303938!4d78.0117249!16s%2Fg%2F1ptxg2swp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.303938,
+      "lng": 78.0117249,
+      "label": "32 Gems Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "32-tooth-zone-dental-clinic-dr-maj-nitin-agarwal-dehradun",
+    "name": "32 Tooth Zone: Dental Clinic, Dr(Maj) Nitin Agarwal",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, 32 Tooth Zone: Dental Clinic, Dr(Maj) Nitin Agarwal brings together specialists for Oral Surgery In Dehra Dun and Dentist. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070171 93459",
+    "alternatePhone": "",
+    "website": "",
+    "address": "40, Kalidas Rd, near Meridian Heights, Ravindrapuri, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Hathibarkala Salwala",
+    "landmark": "near Meridian Heights, Ravindrapuri, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "070171 93459",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/32+Tooth+Zone:+Dental+Clinic,+Dr%28Maj%29+Nitin+Agarwal/data=!4m7!3m6!1s0x390929dc042dc6cb:0x6702380123b18a61!8m2!3d30.3394081!4d78.048879!16s%2Fg%2F11c603mw_3!19sChIJy8YtBNwpCTkRYYqxIwE4Amc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Tooth+Zone:+Dental+Clinic,+Dr%28Maj%29+Nitin+Agarwal/data=!4m7!3m6!1s0x390929dc042dc6cb:0x6702380123b18a61!8m2!3d30.3394081!4d78.048879!16s%2Fg%2F11c603mw_3!19sChIJy8YtBNwpCTkRYYqxIwE4Amc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3394081,
+      "lng": 78.048879,
+      "label": "32 Tooth Zone: Dental Clinic, Dr(Maj) Nitin Agarwal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "32-whites-dental-clinic-dehradun",
+    "name": "32 Whites - Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose 32 Whites - Dental Clinic for its strength in Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0135 262 9999",
+    "alternatePhone": "",
+    "website": "https://dradityaverma.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "1, Omkar Plaza, Bindal Bridge, Clock Tower, Chakrata Rd, Bindaal Tirahya, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Bindaal Tirahya",
+    "landmark": "Bindal Bridge",
+    "emergencyContact": "0135 262 9999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/32+Whites+-+Dental+Clinic/data=!4m7!3m6!1s0x390929edd8a0bc09:0x3fb952b71d8d081b!8m2!3d30.3271414!4d78.0325145!16s%2Fg%2F1ptvwdgtm!19sChIJCbyg2O0pCTkRGwiNHbdSuT8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Whites+-+Dental+Clinic/data=!4m7!3m6!1s0x390929edd8a0bc09:0x3fb952b71d8d081b!8m2!3d30.3271414!4d78.0325145!16s%2Fg%2F1ptvwdgtm!19sChIJCbyg2O0pCTkRGwiNHbdSuT8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3271414,
+      "lng": 78.0325145,
+      "label": "32 Whites - Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aesthetix-dental-clinic-implant-and-braces-centre-orthodontist-in-dehradun-specialist-in-ceramic-braces-and-retainers-dehradun",
+    "name": "Aesthetix Dental Clinic, Implant & Braces Centre. Orthodontist in Dehradun. Specialist in Ceramic Braces and Retainers.",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, Aesthetix Dental Clinic, Implant & Braces Centre. Orthodontist in Dehradun. Specialist in Ceramic Braces and Retainers. brings together specialists for Oral Surgery In Dehra Dun, Orthodontist, and Orthopaedics. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "062393 24122",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mata Mandir Rd, Old Officer's Colony, Ajabpur Kalan, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ajabpur Kalan",
+    "landmark": "Ajabpur Kalan",
+    "emergencyContact": "062393 24122",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Aesthetix+Dental+Clinic,+Implant+%26+Braces+Centre.+Orthodontist+in+Dehradun.+Specialist+in+Ceramic+Braces+and+Retainers./@30.2989352,78.0441223,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298fd40b85f9:0xc6e16a42c81b9635!8m2!3d30.2989352!4d78.0441223!16s%2Fg%2F11y5crtpwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aesthetix+Dental+Clinic,+Implant+%26+Braces+Centre.+Orthodontist+in+Dehradun.+Specialist+in+Ceramic+Braces+and+Retainers./@30.2989352,78.0441223,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298fd40b85f9:0xc6e16a42c81b9635!8m2!3d30.2989352!4d78.0441223!16s%2Fg%2F11y5crtpwt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2989352,
+      "lng": 78.0441223,
+      "label": "Aesthetix Dental Clinic, Implant & Braces Centre. Orthodontist in Dehradun. Specialist in Ceramic Braces and Retainers.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrawal-dental-clinic-dehradun",
+    "name": "AGRAWAL DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, AGRAWAL DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094567 56700",
+    "alternatePhone": "",
+    "website": "https://www.doondentist.com/",
+    "address": "82GP+R4V Rajshree Complex, Chakrata Rd, near CHARAK PATHOLOGY, near Nari Shilp Girls Inter College, Tagore Villa, Connaught Place, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Connaught Place",
+    "landmark": "near CHARAK PATHOLOGY, near Nari Shilp Girls Inter College, Tagore Villa, Connaught Place, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "094567 56700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AGRAWAL+DENTAL+CLINIC/@30.3270236,78.0353291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec1f5202b5:0xaaac061fd3b1d369!8m2!3d30.3270236!4d78.0353291!16s%2Fg%2F1tcxbl00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AGRAWAL+DENTAL+CLINIC/@30.3270236,78.0353291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec1f5202b5:0xaaac061fd3b1d369!8m2!3d30.3270236!4d78.0353291!16s%2Fg%2F1tcxbl00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3270236,
+      "lng": 78.0353291,
+      "label": "AGRAWAL DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrika-dental-clinic-dehradun",
+    "name": "Agrika Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Agrika Dental Clinic delivers integrated care across Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097566 11660",
+    "alternatePhone": "",
+    "website": "http://www.agrika.com/",
+    "address": "14, Raipur Rd, Old Dalanwala, Karanpur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Karanpur",
+    "landmark": "Old Dalanwala",
+    "emergencyContact": "097566 11660",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Agrika+Dental+Clinic/@30.3246482,78.0564509,17z/data=!3m1!4b1!4m6!3m5!1s0x39092987f5c3f60d:0x78305695034ec6f1!8m2!3d30.3246482!4d78.0564509!16s%2Fg%2F11rcqkjnf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agrika+Dental+Clinic/@30.3246482,78.0564509,17z/data=!3m1!4b1!4m6!3m5!1s0x39092987f5c3f60d:0x78305695034ec6f1!8m2!3d30.3246482!4d78.0564509!16s%2Fg%2F11rcqkjnf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3246482,
+      "lng": 78.0564509,
+      "label": "Agrika Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aimc-dental-care-and-implant-centre-adjacent-to-union-bank-of-india",
+    "name": "AIMC Dental Care and Implant centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in adjacent to Union Bank Of India often choose AIMC Dental Care and Implant centre for its strength in Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087557 84124",
+    "alternatePhone": "",
+    "website": "https://aimcdentalcare.com/",
+    "address": "19, New Rd, adjacent to Union Bank Of India, opposite Uttarakhand Gramin Bank Head Office, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "adjacent to Union Bank Of India",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "New Rd",
+    "landmark": "opposite Uttarakhand Gramin Bank Head Office, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "087557 84124",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AIMC+Dental+Care+and+Implant+centre/@30.3168985,78.0473171,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be25cabf91:0xa81a5ca0003df235!8m2!3d30.3168985!4d78.0473171!16s%2Fg%2F11f_flmw6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AIMC+Dental+Care+and+Implant+centre/@30.3168985,78.0473171,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be25cabf91:0xa81a5ca0003df235!8m2!3d30.3168985!4d78.0473171!16s%2Fg%2F11f_flmw6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3168985,
+      "lng": 78.0473171,
+      "label": "AIMC Dental Care and Implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "align-dental-clinic-dehradun",
+    "name": "Align Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, Align Dental Clinic brings together specialists for Oral Surgery In Dehra Dun and Dentist. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097602 69979",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Angeethi Momos, A-214, Nehru Colony, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Nehru Colony",
+    "landmark": "Nehru Colony",
+    "emergencyContact": "097602 69979",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Align+Dental+Clinic/@30.3017537,78.0522291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929677337b64f:0x6cc0c21c33d8dc7c!8m2!3d30.3017537!4d78.0522291!16s%2Fg%2F11vk0y4pwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Align+Dental+Clinic/@30.3017537,78.0522291,17z/data=!3m1!4b1!4m6!3m5!1s0x390929677337b64f:0x6cc0c21c33d8dc7c!8m2!3d30.3017537!4d78.0522291!16s%2Fg%2F11vk0y4pwv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3017537,
+      "lng": 78.0522291,
+      "label": "Align Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "align-dental-dehradun",
+    "name": "Aligné Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Aligné Dental offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079833 40445",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 7, doon one complex, New Cantonment Rd, Hathibarkala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Hathibarkala",
+    "landmark": "New Cantonment Rd",
+    "emergencyContact": "079833 40445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Align%C3%A9+Dental/@30.3391494,78.052242,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc9f59e179:0xb8dabbb5b950d174!8m2!3d30.3391494!4d78.052242!16s%2Fg%2F11y2j1s53h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Align%C3%A9+Dental/@30.3391494,78.052242,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc9f59e179:0xb8dabbb5b950d174!8m2!3d30.3391494!4d78.052242!16s%2Fg%2F11y2j1s53h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3391494,
+      "lng": 78.052242,
+      "label": "Aligné Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ankur-dental-implant-and-maxillofacial-clinic-dehradun",
+    "name": "Ankur Dental, Implant & Maxillofacial Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Ankur Dental, Implant & Maxillofacial Clinic delivers integrated care across Oral Surgery In Dehra Dun and Maxillofacial Surgery. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094115 38466",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mata Mandir Rd, near SBI ATM, Anand Vihar, Ajabpur Kalan, Dehradun, Uttarakhand 248121",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248121",
+    "locality": "Ajabpur Kalan",
+    "landmark": "near SBI ATM, Anand Vihar, Ajabpur Kalan, Dehradun, Uttarakhand 248121",
+    "emergencyContact": "094115 38466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Ankur+Dental,+Implant+%26+Maxillofacial+Clinic/@30.297374,78.0429029,17z/data=!3m1!4b1!4m6!3m5!1s0x3909290a952d0aa1:0x75d4e25eba9efec1!8m2!3d30.297374!4d78.0429029!16s%2Fg%2F11c5s9xxdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ankur+Dental,+Implant+%26+Maxillofacial+Clinic/@30.297374,78.0429029,17z/data=!3m1!4b1!4m6!3m5!1s0x3909290a952d0aa1:0x75d4e25eba9efec1!8m2!3d30.297374!4d78.0429029!16s%2Fg%2F11c5s9xxdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.297374,
+      "lng": 78.0429029,
+      "label": "Ankur Dental, Implant & Maxillofacial Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arihant-hospital-dehradun",
+    "name": "Arihant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dehradun, Arihant Hospital delivers integrated care across General Surgery In Dehra Dun. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084770 15555",
+    "alternatePhone": "",
+    "website": "https://arihanthospitals.com/",
+    "address": "18, Main, Haridwar Rd, Shastri Nagar, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248012",
+    "locality": "Ajabpur Kalan",
+    "landmark": "Haridwar Rd",
+    "emergencyContact": "084770 15555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arihant+Hospital/@30.2918152,78.0598542,17z/data=!3m1!4b1!4m6!3m5!1s0x39092910d4878efb:0x510f676c6b12d8ac!8m2!3d30.2918152!4d78.0598542!16s%2Fg%2F11kp7x3dc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2918152,
+      "lng": 78.0598542,
+      "label": "Arihant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arora-surgicare-top-surgical-clinic-in-dehradun-dehradun",
+    "name": "Arora Surgicare - Top Surgical Clinic in Dehradun",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arora Surgicare - Top Surgical Clinic in Dehradun is a prominent surgical center in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun and Surgical Center. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094113 11553",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GMS Rd, near HOTEL SAFFRON LEAF, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Kaonli",
+    "landmark": "near HOTEL SAFFRON LEAF, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "094113 11553",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Arora+Surgicare+-+Top+Surgical+Clinic+in+Dehradun/@30.3109383,78.0092452,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a1b5a610f35:0x9df716c7ba0eb6c1!8m2!3d30.3109383!4d78.0092452!16s%2Fg%2F11f24x249c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arora+Surgicare+-+Top+Surgical+Clinic+in+Dehradun/@30.3109383,78.0092452,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a1b5a610f35:0x9df716c7ba0eb6c1!8m2!3d30.3109383!4d78.0092452!16s%2Fg%2F11f24x249c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3109383,
+      "lng": 78.0092452,
+      "label": "Arora Surgicare - Top Surgical Clinic in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashirwad-hospital-dehradun",
+    "name": "Ashirwad Hospital",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted nursing home in Dehradun, Ashirwad Hospital delivers integrated care across Plastic Surgery In Dehra Dun and Nursing Home. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092597 63011",
+    "alternatePhone": "",
+    "website": "http://cosmeticsurgeonindia.com/",
+    "address": "Under Flyover, 1, Chakrata Rd, opposite Forest Research Institute, Green Park Colony, Ashirwad Enclave, Ballupur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ballupur",
+    "landmark": "opposite Forest Research Institute, Green Park Colony, Ashirwad Enclave, Ballupur, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "092597 63011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Dehra Dun",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashirwad+Hospital/@30.3329415,78.0086309,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a057704a631:0x671952eec9fa9118!8m2!3d30.3329415!4d78.0086309!16s%2Fg%2F1v_n9x5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashirwad+Hospital/@30.3329415,78.0086309,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a057704a631:0x671952eec9fa9118!8m2!3d30.3329415!4d78.0086309!16s%2Fg%2F1v_n9x5s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3329415,
+      "lng": 78.0086309,
+      "label": "Ashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayushmaan-dental-clinic-dehradun",
+    "name": "Ayushmaan Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Ayushmaan Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097617 40018",
+    "alternatePhone": "",
+    "website": "",
+    "address": "118/68, chakrata road, Govind Garh Rd, opposite shani mandir, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "opposite shani mandir",
+    "landmark": "opposite shani mandir, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "097617 40018",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ayushmaan+Dental+Clinic/@30.3284494,78.0306906,17z/data=!3m1!4b1!4m6!3m5!1s0x390929f3d121baf9:0x489c7581150bb2ad!8m2!3d30.3284494!4d78.0306906!16s%2Fg%2F1ptwrp9xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayushmaan+Dental+Clinic/@30.3284494,78.0306906,17z/data=!3m1!4b1!4m6!3m5!1s0x390929f3d121baf9:0x489c7581150bb2ad!8m2!3d30.3284494!4d78.0306906!16s%2Fg%2F1ptwrp9xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3284494,
+      "lng": 78.0306906,
+      "label": "Ayushmaan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baluni-hospital-dehradun",
+    "name": "Baluni Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baluni Hospital is a prominent private hospital in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070175 32638",
+    "alternatePhone": "",
+    "website": "https://balunihospital.com/",
+    "address": "Chakdalanwala, Viveka Nand Gram-Phase-I, Dehradun, Uttarakhand 248014",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248014",
+    "locality": "Viveka Nand Gram-Phase-I",
+    "landmark": "Dehradun",
+    "emergencyContact": "070175 32638",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Baluni+Hospital/@30.2891859,78.0679266,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc64cd0651:0xe96f9f85cb746195!8m2!3d30.2891859!4d78.0679266!16s%2Fg%2F11t6yqqsl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baluni+Hospital/@30.2891859,78.0679266,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bc64cd0651:0xe96f9f85cb746195!8m2!3d30.2891859!4d78.0679266!16s%2Fg%2F11t6yqqsl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2891859,
+      "lng": 78.0679266,
+      "label": "Baluni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bansal-dental-care-dehradun",
+    "name": "Bansal Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Bansal Dental Care offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097604 36805",
+    "alternatePhone": "",
+    "website": "https://drrajeevbansal.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "62, Saharanpur Rd, Arhat Bazaar, Lakkhi Bagh, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Lakkhi Bagh",
+    "landmark": "Arhat Bazaar",
+    "emergencyContact": "097604 36805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bansal+Dental+Care/@30.3165096,78.0268597,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ed4c42f185:0x154d1bcbb04caffb!8m2!3d30.3165096!4d78.0268597!16s%2Fg%2F1trpp4wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bansal+Dental+Care/@30.3165096,78.0268597,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ed4c42f185:0x154d1bcbb04caffb!8m2!3d30.3165096!4d78.0268597!16s%2Fg%2F1trpp4wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3165096,
+      "lng": 78.0268597,
+      "label": "Bansal Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "beyond-smiles-dental-clinic-and-implant-centre-dehradun",
+    "name": "Beyond Smiles, Dental Clinic and Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Beyond Smiles, Dental Clinic and Implant Centre offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0135 272 1537",
+    "alternatePhone": "",
+    "website": "http://www.beyondsmilesdental.in/",
+    "address": "d, 34, Race Course Rd, opp. police line ground, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "Race Course Rd",
+    "emergencyContact": "0135 272 1537",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Beyond+Smiles,+Dental+Clinic+and+Implant+Centre/@30.3054938,78.0411042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998b640f611:0xe6334cb867ef52d0!8m2!3d30.3054938!4d78.0411042!16s%2Fg%2F1tfc4_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Beyond+Smiles,+Dental+Clinic+and+Implant+Centre/@30.3054938,78.0411042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998b640f611:0xe6334cb867ef52d0!8m2!3d30.3054938!4d78.0411042!16s%2Fg%2F1tfc4_5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3054938,
+      "lng": 78.0411042,
+      "label": "Beyond Smiles, Dental Clinic and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharat-heart-institute-dehradun",
+    "name": "Bharat Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose Bharat Heart Institute for its strength in Heart Surgery In Dehra Dun and Cardiac Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mauja Barahamanwala, Haridwar Bypass Rd, near ISBT, Morowala, Clement Town, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Clement Town",
+    "landmark": "near ISBT, Morowala, Clement Town, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Bharat+Heart+Institute/@30.2888511,78.0090988,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0006fd00c1:0x863a0b3fd8509293!8m2!3d30.2888511!4d78.0090988!16s%2Fg%2F11yn2qs497?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bharat+Heart+Institute/@30.2888511,78.0090988,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0006fd00c1:0x863a0b3fd8509293!8m2!3d30.2888511!4d78.0090988!16s%2Fg%2F11yn2qs497?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2888511,
+      "lng": 78.0090988,
+      "label": "Bharat Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cementum-dental-care-dehradun",
+    "name": "CEMENTUM DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CEMENTUM DENTAL CARE has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095350 71555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, bansal plaza,Kishan nagar Chowk, 5, Kaulagarh Rd, opposite singhal jewellers, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Anand Vihar Colony",
+    "landmark": "opposite singhal jewellers, Anand Vihar Colony, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "095350 71555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CEMENTUM+DENTAL+CARE/@30.3344739,78.025418,17z/data=!3m1!4b1!4m6!3m5!1s0x390929158e5ee2d9:0x3fc6f0473190cae7!8m2!3d30.3344739!4d78.025418!16s%2Fg%2F11fn7sqg0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CEMENTUM+DENTAL+CARE/@30.3344739,78.025418,17z/data=!3m1!4b1!4m6!3m5!1s0x390929158e5ee2d9:0x3fc6f0473190cae7!8m2!3d30.3344739!4d78.025418!16s%2Fg%2F11fn7sqg0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3344739,
+      "lng": 78.025418,
+      "label": "CEMENTUM DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cmi-hospital-dehradun",
+    "name": "CMI Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dehradun, CMI Hospital delivers integrated care across General Surgery In Dehra Dun. Its infrastructure includes Google rating 3.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0135 272 0238",
+    "alternatePhone": "",
+    "website": "",
+    "address": "54, Haridwar Rd, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "East Rest Camp",
+    "emergencyContact": "0135 272 0238",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CMI+Hospital/@30.3123446,78.0477508,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0x8836014710cb01ae!8m2!3d30.3123446!4d78.0477508!16s%2Fg%2F11b7cgdmc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CMI+Hospital/@30.3123446,78.0477508,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bca6ae81df:0x8836014710cb01ae!8m2!3d30.3123446!4d78.0477508!16s%2Fg%2F11b7cgdmc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3123446,
+      "lng": 78.0477508,
+      "label": "CMI Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "coronation-hospital-dehradun",
+    "name": "Coronation Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Coronation Hospital offers coordinated hospital care with major focus on Heart Surgery In Dehra Dun. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Curzon Rd, Dalanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dalanwala",
+    "landmark": "Dehradun",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Coronation+Hospital/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b6f7e74bdf:0x7b1ca50c30dcf738!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F1pp2vgsmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Coronation+Hospital/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b6f7e74bdf:0x7b1ca50c30dcf738!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F1pp2vgsmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3207041,
+      "lng": 78.0574377,
+      "label": "Coronation Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cure-dental-clinic-dehradun-dehradun",
+    "name": "CURE DENTAL CLINIC, DEHRADUN",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose CURE DENTAL CLINIC, DEHRADUN for its strength in Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081263 95799",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Eminent Heights, Commercial 11, Balbir Rd, near Dena Bank Chowk, Dalanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dalanwala",
+    "landmark": "near Dena Bank Chowk, Dalanwala, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "081263 95799",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CURE+DENTAL+CLINIC,+DEHRADUN/@30.3067546,78.0558697,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998d74a1769:0x60e30c6dec75276d!8m2!3d30.3067546!4d78.0558697!16s%2Fg%2F11xkvltflr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CURE+DENTAL+CLINIC,+DEHRADUN/@30.3067546,78.0558697,17z/data=!3m1!4b1!4m6!3m5!1s0x39092998d74a1769:0x60e30c6dec75276d!8m2!3d30.3067546!4d78.0558697!16s%2Fg%2F11xkvltflr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3067546,
+      "lng": 78.0558697,
+      "label": "CURE DENTAL CLINIC, DEHRADUN",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dangwal-dental-dehradun",
+    "name": "Dangwal Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dangwal Dental is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099974 25690",
+    "alternatePhone": "",
+    "website": "http://dangwaldental.com/",
+    "address": "Ballupur Chowk, Ram Vihar, Ballupur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ballupur",
+    "landmark": "Ballupur",
+    "emergencyContact": "099974 25690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dangwal+Dental/@30.3340341,78.0111102,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a05ad383b2b:0x6847484ddf50f7b3!8m2!3d30.3340341!4d78.0111102!16s%2Fg%2F11tcxvx60r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dangwal+Dental/@30.3340341,78.0111102,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a05ad383b2b:0x6847484ddf50f7b3!8m2!3d30.3340341!4d78.0111102!16s%2Fg%2F11tcxvx60r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3340341,
+      "lng": 78.0111102,
+      "label": "Dangwal Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dantkala-premium-dental-care-dehradun",
+    "name": "DANTKALA PREMIUM DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DANTKALA PREMIUM DENTAL CARE has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070374 11111",
+    "alternatePhone": "",
+    "website": "https://dantkala.com/",
+    "address": "1A, Race Course Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "Race Course",
+    "emergencyContact": "070374 11111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DANTKALA+PREMIUM+DENTAL+CARE/data=!4m7!3m6!1s0x39092995c0de0af3:0x17e1aade3a99e354!8m2!3d30.3145028!4d78.0466562!16s%2Fg%2F11xn4gprn2!19sChIJ8wrewJUpCTkRVOOZOt6q4Rc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DANTKALA+PREMIUM+DENTAL+CARE/data=!4m7!3m6!1s0x39092995c0de0af3:0x17e1aade3a99e354!8m2!3d30.3145028!4d78.0466562!16s%2Fg%2F11xn4gprn2!19sChIJ8wrewJUpCTkRVOOZOt6q4Rc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3145028,
+      "lng": 78.0466562,
+      "label": "DANTKALA PREMIUM DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dent-fit-dental-care-and-implant-centre-dehradun",
+    "name": "DENT FIT DENTAL CARE AND IMPLANT CENTRE",
+    "type": "Endodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DENT FIT DENTAL CARE AND IMPLANT CENTRE is a prominent endodontist in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun and Endodontist. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075058 07812",
+    "alternatePhone": "",
+    "website": "https://drayushtyagi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "Ground floor, Ojaswi Complex, GMS Rd, Ballupur Chowk, Mohit Nagar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Mohit Nagar",
+    "landmark": "GMS Rd",
+    "emergencyContact": "075058 07812",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Endodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DENT+FIT+DENTAL+CARE+AND+IMPLANT+CENTRE/@30.3323709,78.0105414,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bb31c23469d:0x1c70d6871e587879!8m2!3d30.3323709!4d78.0105414!16s%2Fg%2F11t4x_7zfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENT+FIT+DENTAL+CARE+AND+IMPLANT+CENTRE/@30.3323709,78.0105414,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bb31c23469d:0x1c70d6871e587879!8m2!3d30.3323709!4d78.0105414!16s%2Fg%2F11t4x_7zfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3323709,
+      "lng": 78.0105414,
+      "label": "DENT FIT DENTAL CARE AND IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-360-dehradun",
+    "name": "Dental 360°",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental 360° has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096758 45555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lower Rajeev Nagar, Rajeev Nagar, Danda Dharampur, Dharampur, Dehradun, Uttarakhand 248014",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248014",
+    "locality": "Dharampur",
+    "landmark": "Danda Dharampur",
+    "emergencyContact": "096758 45555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+360%C2%B0/@30.2963609,78.0605768,17z/data=!3m1!4b1!4m6!3m5!1s0x39092919e4191089:0x7db50b1b03b52605!8m2!3d30.2963609!4d78.0605768!16s%2Fg%2F11qnkj9sd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+360%C2%B0/@30.2963609,78.0605768,17z/data=!3m1!4b1!4m6!3m5!1s0x39092919e4191089:0x7db50b1b03b52605!8m2!3d30.2963609!4d78.0605768!16s%2Fg%2F11qnkj9sd9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2963609,
+      "lng": 78.0605768,
+      "label": "Dental 360°",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-avenue-laser-and-implant-centre-dehradun",
+    "name": "DENTAL AVENUE LASER & IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DENTAL AVENUE LASER & IMPLANT CENTRE has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0135 408 1534",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ITBP Rd, near CAPITAL HEIGHTS APARTMENTS, Seema Dwar, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Seema Dwar",
+    "landmark": "near CAPITAL HEIGHTS APARTMENTS, Seema Dwar, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "0135 408 1534",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/DENTAL+AVENUE+LASER+%26+IMPLANT+CENTRE/@30.3056179,78.000581,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0c6fb62c57:0x461eb7fba75158b9!8m2!3d30.3056179!4d78.000581!16s%2Fg%2F11tdqv8xl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTAL+AVENUE+LASER+%26+IMPLANT+CENTRE/@30.3056179,78.000581,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0c6fb62c57:0x461eb7fba75158b9!8m2!3d30.3056179!4d78.000581!16s%2Fg%2F11tdqv8xl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3056179,
+      "lng": 78.000581,
+      "label": "DENTAL AVENUE LASER & IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-centre-dehradun",
+    "name": "Dental Care Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Dehradun, Dental Care Centre delivers integrated care across Oral Surgery In Dehra Dun and Dentist. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081266 86019",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dispensary Road , K C City Centre , opp Gandhi inter college, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "opp Gandhi inter college",
+    "landmark": "opp Gandhi inter college",
+    "emergencyContact": "081266 86019",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care+Centre/@30.3226557,78.041698,17z/data=!3m1!4b1!4m6!3m5!1s0x39092962eba44b71:0x500df7522bbf63d5!8m2!3d30.3226557!4d78.041698!16s%2Fg%2F11gxx64d2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care+Centre/@30.3226557,78.041698,17z/data=!3m1!4b1!4m6!3m5!1s0x39092962eba44b71:0x500df7522bbf63d5!8m2!3d30.3226557!4d78.041698!16s%2Fg%2F11gxx64d2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3226557,
+      "lng": 78.041698,
+      "label": "Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-impression-dehradun",
+    "name": "Dental Impression",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Dehradun, Dental Impression delivers integrated care across Oral Surgery In Dehra Dun and Dentist. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081710 48085",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PLS Plaza, BG 07, Gandhi Rd, near SBI, Dhamawala Mohalla, Dhamawala Bazaar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dhamawala Bazaar",
+    "landmark": "near SBI, Dhamawala Mohalla, Dhamawala Bazaar, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "081710 48085",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Impression/@30.3170232,78.0380148,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299425294a4b:0x39c1ecd6860d50e4!8m2!3d30.3170232!4d78.0380148!16s%2Fg%2F11g_5kmk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Impression/@30.3170232,78.0380148,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299425294a4b:0x39c1ecd6860d50e4!8m2!3d30.3170232!4d78.0380148!16s%2Fg%2F11g_5kmk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3170232,
+      "lng": 78.0380148,
+      "label": "Dental Impression",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentara-best-dentist-in-dehradun-braces-implants-dental-clinic-rct-clinical-cosmetologist-dehradun",
+    "name": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082798 08323",
+    "alternatePhone": "",
+    "website": "http://www.dentara.in/",
+    "address": "39, Court Rd, opposite S.S.P Office, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "opposite S.S.P Office, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "082798 08323",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentara+-+Best+Dentist+in+Dehradun+%7C+Braces+%7C+Implants+%7C+Dental+Clinic+%7C+RCT+%7C+Clinical+Cosmetologist/@30.3172389,78.040235,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be7e541a81:0xdf39211ac9f509!8m2!3d30.3172389!4d78.040235!16s%2Fg%2F11ts11gnkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentara+-+Best+Dentist+in+Dehradun+%7C+Braces+%7C+Implants+%7C+Dental+Clinic+%7C+RCT+%7C+Clinical+Cosmetologist/@30.3172389,78.040235,17z/data=!3m1!4b1!4m6!3m5!1s0x390929be7e541a81:0xdf39211ac9f509!8m2!3d30.3172389!4d78.040235!16s%2Fg%2F11ts11gnkq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3172389,
+      "lng": 78.040235,
+      "label": "Dentara - Best Dentist in Dehradun | Braces | Implants | Dental Clinic | RCT | Clinical Cosmetologist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "doon-family-dental-clinic-dehradun",
+    "name": "Doon Family Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Doon Family Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099178 07508",
+    "alternatePhone": "",
+    "website": "https://drankitakukrati.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "Haridwar Rd, near Doon Valley Nursing home, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "near Doon Valley Nursing home, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "099178 07508",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Doon+Family+Dental+Clinic/@30.3112485,78.0482409,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a4aa431769:0x3fed8955c1336e80!8m2!3d30.3112485!4d78.0482409!16s%2Fg%2F11cnbm0k9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Doon+Family+Dental+Clinic/@30.3112485,78.0482409,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a4aa431769:0x3fed8955c1336e80!8m2!3d30.3112485!4d78.0482409!16s%2Fg%2F11cnbm0k9j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3112485,
+      "lng": 78.0482409,
+      "label": "Doon Family Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "doon-public-hospital-mohkam-pur-kala",
+    "name": "Doon Public Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Doon Public Hospital is a prominent hospital in Mohkam Pur Kala, known for structured tertiary care across General Surgery In Dehra Dun. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070608 05051",
+    "alternatePhone": "",
+    "website": "http://doonpublichospital.in/",
+    "address": "Garh Vihar Phace 2, IIP, Mohkampur, Mohkam Pur Khurd, Mohkam Pur Kala, Uttarakhand 248005",
+    "city": "Mohkam Pur Kala",
+    "state": "Uttarakhand",
+    "pincode": "248005",
+    "locality": "Mohkam Pur Khurd",
+    "landmark": "Mohkampur",
+    "emergencyContact": "070608 05051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Doon+Public+Hospital/@30.2713371,78.080722,17z/data=!3m1!4b1!4m6!3m5!1s0x390929798003493d:0x2ce1ad59f6d59d63!8m2!3d30.2713371!4d78.080722!16s%2Fg%2F11f6dq4l92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Doon+Public+Hospital/@30.2713371,78.080722,17z/data=!3m1!4b1!4m6!3m5!1s0x390929798003493d:0x2ce1ad59f6d59d63!8m2!3d30.2713371!4d78.080722!16s%2Fg%2F11f6dq4l92?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2713371,
+      "lng": 78.080722,
+      "label": "Doon Public Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "doon-smiles-dental-care-and-implant-centre-dehradun",
+    "name": "Doon Smiles Dental Care and Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose Doon Smiles Dental Care and Implant Centre for its strength in Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091059 31373",
+    "alternatePhone": "",
+    "website": "",
+    "address": "32, GMS Rd, opp. Ann Mary School, Balliwala Chowk, Vijay Park Extension, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Vijay Park Extension",
+    "landmark": "opp. Ann Mary School",
+    "emergencyContact": "091059 31373",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Doon+Smiles+Dental+Care+and+Implant+Centre/@30.3236845,78.0133288,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b000fec3383:0x18de57f7e12bb97!8m2!3d30.3236845!4d78.0133288!16s%2Fg%2F11x602n588?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Doon+Smiles+Dental+Care+and+Implant+Centre/@30.3236845,78.0133288,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b000fec3383:0x18de57f7e12bb97!8m2!3d30.3236845!4d78.0133288!16s%2Fg%2F11x602n588?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3236845,
+      "lng": 78.0133288,
+      "label": "Doon Smiles Dental Care and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dwarka-clinics-dehradun",
+    "name": "Dwarka Clinics",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dwarka Clinics has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Heart Surgery In Dehra Dun and Medical Center. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076684 28040",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dwarka clinics, The integrated Super specialities, Race Course Rd, near PNB, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "near PNB, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "076684 28040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Dwarka+Clinics/@30.3121117,78.0458837,17z/data=!3m1!4b1!4m6!3m5!1s0x3909293348b6c61f:0xae8662ee68e4a4cb!8m2!3d30.3121117!4d78.0458837!16s%2Fg%2F11hzm4wf4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dwarka+Clinics/@30.3121117,78.0458837,17z/data=!3m1!4b1!4m6!3m5!1s0x3909293348b6c61f:0xae8662ee68e4a4cb!8m2!3d30.3121117!4d78.0458837!16s%2Fg%2F11hzm4wf4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3121117,
+      "lng": 78.0458837,
+      "label": "Dwarka Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "face-mile-the-dentofacial-clinic-best-dental-maxillofacial-implantology-oral-surgery-clinic-in-dehradun-dehradun",
+    "name": "Face Mile The Dentofacial Clinic- Best Dental | Maxillofacial | Implantology | Oral Surgery Clinic in Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Face Mile The Dentofacial Clinic- Best Dental | Maxillofacial | Implantology | Oral Surgery Clinic in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun and Maxillofacial Surgery. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097197 27172",
+    "alternatePhone": "",
+    "website": "https://facemiledentofacial.com/",
+    "address": "shop no. 5, kushal plaza, Araghar, chowk, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "chowk",
+    "landmark": "Araghar",
+    "emergencyContact": "097197 27172",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Face+Mile+The+Dentofacial+Clinic-+Best+Dental+%7C+Maxillofacial+%7C+Implantology+%7C+Oral+Surgery+Clinic+in+Dehradun/@30.3083028,78.0490968,17z/data=!3m1!4b1!4m6!3m5!1s0x39092999e77d349f:0xa1c8a5e9788eb14e!8m2!3d30.3083028!4d78.0490968!16s%2Fg%2F11j26_90mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Face+Mile+The+Dentofacial+Clinic-+Best+Dental+%7C+Maxillofacial+%7C+Implantology+%7C+Oral+Surgery+Clinic+in+Dehradun/@30.3083028,78.0490968,17z/data=!3m1!4b1!4m6!3m5!1s0x39092999e77d349f:0xa1c8a5e9788eb14e!8m2!3d30.3083028!4d78.0490968!16s%2Fg%2F11j26_90mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3083028,
+      "lng": 78.0490968,
+      "label": "Face Mile The Dentofacial Clinic- Best Dental | Maxillofacial | Implantology | Oral Surgery Clinic in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "first-smile-family-dental-clinic-dehradun",
+    "name": "First Smile Family Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose First Smile Family Dental Clinic for its strength in Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084332 07131",
+    "alternatePhone": "",
+    "website": "https://firstsmilefamilydentalclinic.com/",
+    "address": "Satya tower, Sahastradhara Rd, opp. Canara bank, B Block, Aman Vihar, Dehradun, Uttarakhand 248013",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248013",
+    "locality": "Aman Vihar",
+    "landmark": "opp. Canara bank",
+    "emergencyContact": "084332 07131",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/First+Smile+Family+Dental+Clinic/@30.3485405,78.0762559,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cdd4dc3d2b:0xff7f4a98c89fab73!8m2!3d30.3485405!4d78.0762559!16s%2Fg%2F11qj71bq96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/First+Smile+Family+Dental+Clinic/@30.3485405,78.0762559,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cdd4dc3d2b:0xff7f4a98c89fab73!8m2!3d30.3485405!4d78.0762559!16s%2Fg%2F11qj71bq96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3485405,
+      "lng": 78.0762559,
+      "label": "First Smile Family Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fortis-escorts-hospital-dehradun",
+    "name": "Fortis Escorts Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Escorts Hospital is a prominent hospital in Dehradun, known for structured tertiary care across Heart Surgery In Dehra Dun. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0124 492 1021",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/hospitals?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=FHL-gmb",
+    "address": "2nd Floor, 83C4+7XP Coronation Hospital, Curzon Rd, Dalanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dalanwala",
+    "landmark": "Curzon Rd",
+    "emergencyContact": "0124 492 1021",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fortis+Escorts+Hospital/@30.3206928,78.0576317,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b65632ccad:0xfd495f0b3dcf32ef!8m2!3d30.3206928!4d78.0576317!16s%2Fg%2F1hc3_9py4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fortis+Escorts+Hospital/@30.3206928,78.0576317,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b65632ccad:0xfd495f0b3dcf32ef!8m2!3d30.3206928!4d78.0576317!16s%2Fg%2F1hc3_9py4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3206928,
+      "lng": 78.0576317,
+      "label": "Fortis Escorts Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "garg-ent-dental-tmj-and-vertigo-clinic-best-ent-specialist-best-dentist-tmj-pain-rct-treatment-vertigo-treatment-dehradun",
+    "name": "Garg ENT, Dental ,TMJ & Vertigo Clinic—Best ENT specialist /Best Dentist/TMJ Pain/RCT Treatment/ Vertigo Treatment",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Garg ENT, Dental ,TMJ & Vertigo Clinic—Best ENT specialist /Best Dentist/TMJ Pain/RCT Treatment/ Vertigo Treatment has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun and ENT. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097602 74647",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chakrata Rd, near VMart, Deeplok Colony, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Khurbura Mohalla",
+    "landmark": "near VMart, Deeplok Colony, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "097602 74647",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Garg+ENT,+Dental+,TMJ+%26+Vertigo+Clinic%E2%80%94Best+ENT+specialist+%2FBest+Dentist%2FTMJ+Pain%2FRCT+Treatment%2F+Vertigo+Treatment/@30.3333777,78.0259925,17z/data=!3m1!4b1!4m6!3m5!1s0x390929fa78d0aa9b:0x33a558d45b6815ad!8m2!3d30.3333777!4d78.0259925!16s%2Fg%2F1ptzvn3sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Garg+ENT,+Dental+,TMJ+%26+Vertigo+Clinic%E2%80%94Best+ENT+specialist+%2FBest+Dentist%2FTMJ+Pain%2FRCT+Treatment%2F+Vertigo+Treatment/@30.3333777,78.0259925,17z/data=!3m1!4b1!4m6!3m5!1s0x390929fa78d0aa9b:0x33a558d45b6815ad!8m2!3d30.3333777!4d78.0259925!16s%2Fg%2F1ptzvn3sn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3333777,
+      "lng": 78.0259925,
+      "label": "Garg ENT, Dental ,TMJ & Vertigo Clinic—Best ENT specialist /Best Dentist/TMJ Pain/RCT Treatment/ Vertigo Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ghanshala-polyclinic-dehradun",
+    "name": "Ghanshala Polyclinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose Ghanshala Polyclinic for its strength in Oral Surgery In Dehra Dun and Dentist. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072170 56804",
+    "alternatePhone": "",
+    "website": "https://ghanshalapolyclinic.com/",
+    "address": "Ghanshala Polyclinic, 222, Chakrata Rd, near Ballupur Chowk, Ram Vihar, Ballupur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ballupur",
+    "landmark": "near Ballupur Chowk, Ram Vihar, Ballupur, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "072170 56804",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ghanshala+Polyclinic/@30.3336953,78.012042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a04f66b07ab:0x15bf6424f6951c5!8m2!3d30.3336953!4d78.012042!16s%2Fg%2F11hyn8n13j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ghanshala+Polyclinic/@30.3336953,78.012042,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a04f66b07ab:0x15bf6424f6951c5!8m2!3d30.3336953!4d78.012042!16s%2Fg%2F11hyn8n13j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3336953,
+      "lng": 78.012042,
+      "label": "Ghanshala Polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gleam-premium-derma-clinic-dehradun",
+    "name": "Gleam Premium Derma clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gleam Premium Derma clinic has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Plastic Surgery In Dehra Dun. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070609 08222",
+    "alternatePhone": "",
+    "website": "https://gleamdermaclinic.com/",
+    "address": "2nd FLOOR, 55 NEW NO 235/413, M J TOWER, Rajpur Rd, Dobhalwala, Chukkuwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Chukkuwala",
+    "landmark": "M J TOWER",
+    "emergencyContact": "070609 08222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gleam+Premium+Derma+clinic/@30.3315046,78.048318,17z/data=!3m1!4b1!4m6!3m5!1s0x390929787a15598d:0x8763a11c3961ca25!8m2!3d30.3315046!4d78.048318!16s%2Fg%2F11tp8k4k2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gleam+Premium+Derma+clinic/@30.3315046,78.048318,17z/data=!3m1!4b1!4m6!3m5!1s0x390929787a15598d:0x8763a11c3961ca25!8m2!3d30.3315046!4d78.048318!16s%2Fg%2F11tp8k4k2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3315046,
+      "lng": 78.048318,
+      "label": "Gleam Premium Derma clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "government-doon-medical-college-hospital-dehradun",
+    "name": "Government Doon Medical College Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Government Doon Medical College Hospital offers coordinated hospital care with major focus on General Surgery In Dehra Dun. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0135 272 6020",
+    "alternatePhone": "",
+    "website": "http://www.cmodehradun.org/contact_us.html",
+    "address": "829R+VV2, New Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "Race Course",
+    "emergencyContact": "0135 272 6020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Government+Doon+Medical+College+Hospital/@30.3196299,78.0421506,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299586d37819:0x62078fdbe8bc3559!8m2!3d30.3196299!4d78.0421506!16s%2Fg%2F1tfpy6ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Government+Doon+Medical+College+Hospital/@30.3196299,78.0421506,17z/data=!3m1!4b1!4m6!3m5!1s0x3909299586d37819:0x62078fdbe8bc3559!8m2!3d30.3196299!4d78.0421506!16s%2Fg%2F1tfpy6ts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3196299,
+      "lng": 78.0421506,
+      "label": "Government Doon Medical College Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "happy-soul-dental-clinic-and-implant-centre-best-dental-clinic-in-dehradun-dehradun",
+    "name": "Happy Soul Dental Clinic and Implant Centre | Best Dental Clinic in Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Happy Soul Dental Clinic and Implant Centre | Best Dental Clinic in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094105 07085",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4-a, Chakrata Rd, above Atta Chakki, opposite Shiv Shakti Shani Mandir, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Khurbura Mohalla",
+    "landmark": "opposite Shiv Shakti Shani Mandir, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "094105 07085",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Happy+Soul+Dental+Clinic+and+Implant+Centre+%7C+Best+Dental+Clinic+in+Dehradun/@30.3286381,78.0313763,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c60e4fe6b3:0xbab20613b3de6aa3!8m2!3d30.3286381!4d78.0313763!16s%2Fg%2F11mhgv1p41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Happy+Soul+Dental+Clinic+and+Implant+Centre+%7C+Best+Dental+Clinic+in+Dehradun/@30.3286381,78.0313763,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c60e4fe6b3:0xbab20613b3de6aa3!8m2!3d30.3286381!4d78.0313763!16s%2Fg%2F11mhgv1p41?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3286381,
+      "lng": 78.0313763,
+      "label": "Happy Soul Dental Clinic and Implant Centre | Best Dental Clinic in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healing-touch-hospital-dehradun",
+    "name": "HEALING TOUCH HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, HEALING TOUCH HOSPITAL offers coordinated hospital care with major focus on Heart Surgery In Dehra Dun. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081266 30084",
+    "alternatePhone": "",
+    "website": "https://www.healingtouchhospitalddn.com/",
+    "address": "82, Sahastradhara Rd, opposite Times Square Mall, Vikas Lok, Aamwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Aamwala",
+    "landmark": "opposite Times Square Mall, Vikas Lok, Aamwala, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "081266 30084",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HEALING+TOUCH+HOSPITAL/@30.3287309,78.0659903,17z/data=!3m1!4b1!4m6!3m5!1s0x3909283529b7b5f7:0x12b827e09e2e707c!8m2!3d30.3287309!4d78.0659903!16s%2Fg%2F1hm382r7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HEALING+TOUCH+HOSPITAL/@30.3287309,78.0659903,17z/data=!3m1!4b1!4m6!3m5!1s0x3909283529b7b5f7:0x12b827e09e2e707c!8m2!3d30.3287309!4d78.0659903!16s%2Fg%2F1hm382r7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3287309,
+      "lng": 78.0659903,
+      "label": "HEALING TOUCH HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "helping-hands-hospital-dehradun",
+    "name": "Helping Hands Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Helping Hands Hospital has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering General Surgery In Dehra Dun. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094129 87811",
+    "alternatePhone": "",
+    "website": "http://yogishelpinghands.org/",
+    "address": "Dhoran Rd, Doon IT Park, Kishanpur, Dehradun, Uttarakhand 248013",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248013",
+    "locality": "Kishanpur",
+    "landmark": "Kishanpur",
+    "emergencyContact": "094129 87811",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Helping+Hands+Hospital/@30.3638855,78.0837202,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7c396726fc9:0xee01a2fce722f693!8m2!3d30.3638855!4d78.0837202!16s%2Fg%2F11c71b9d10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Helping+Hands+Hospital/@30.3638855,78.0837202,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7c396726fc9:0xee01a2fce722f693!8m2!3d30.3638855!4d78.0837202!16s%2Fg%2F11c71b9d10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3638855,
+      "lng": 78.0837202,
+      "label": "Helping Hands Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-p-dental-clinic-and-implant-centre-best-dental-clinic-in-dehradun-dehradun",
+    "name": "J.P Dental Clinic & Implant centre| Best Dental clinic in Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "J.P Dental Clinic & Implant centre| Best Dental clinic in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098973 64680",
+    "alternatePhone": "",
+    "website": "https://jpdentalclinic2020.wixstudio.com/my-site",
+    "address": "1st Floor , Shubh Palace, Opp Nexa Showroom , Chakrata Road, Road, Ballupur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ballupur",
+    "landmark": "Opp Nexa Showroom",
+    "emergencyContact": "098973 64680",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/J.P+Dental+Clinic+%26+Implant+centre%7C+Best+Dental+clinic+in+Dehradun/@30.3337053,78.0143569,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bee2ea51167:0x99c05c51eb08b5fd!8m2!3d30.3337053!4d78.0143569!16s%2Fg%2F11j8wg8ggc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J.P+Dental+Clinic+%26+Implant+centre%7C+Best+Dental+clinic+in+Dehradun/@30.3337053,78.0143569,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bee2ea51167:0x99c05c51eb08b5fd!8m2!3d30.3337053!4d78.0143569!16s%2Fg%2F11j8wg8ggc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3337053,
+      "lng": 78.0143569,
+      "label": "J.P Dental Clinic & Implant centre| Best Dental clinic in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jan-sevak-medical-centre-dehradun",
+    "name": "Jan Sevak Medical Centre",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jan Sevak Medical Centre is a prominent medical center in Dehradun, known for structured tertiary care across Heart Surgery In Dehra Dun and Medical Center. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097609 76011",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sewla kalan chowk, Ananya Vihar, G.M.S Road, Majra, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Majra",
+    "landmark": "G.M.S Road",
+    "emergencyContact": "097609 76011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Jan+Sevak+Medical+Centre/@30.2979336,77.9985296,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3509590835:0xab753923f82a37a6!8m2!3d30.2979336!4d77.9985296!16s%2Fg%2F11g8_5qvmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jan+Sevak+Medical+Centre/@30.2979336,77.9985296,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3509590835:0xab753923f82a37a6!8m2!3d30.2979336!4d77.9985296!16s%2Fg%2F11g8_5qvmd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2979336,
+      "lng": 77.9985296,
+      "label": "Jan Sevak Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaya-siddhartha-hospital-danda-khudanewala",
+    "name": "Jaya Siddhartha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jaya Siddhartha Hospital is a prominent hospital in Danda Khudanewala, known for structured tertiary care across General Surgery In Dehra Dun. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097202 97300",
+    "alternatePhone": "",
+    "website": "https://www.jayasiddharthahospital.com/",
+    "address": "Jaya Siddhartha Hospital, Dobacchi Road, near IT Park, Govind Vihar, Dehradun, Danda Khudanewala, Uttarakhand 248013",
+    "city": "Danda Khudanewala",
+    "state": "Uttarakhand",
+    "pincode": "248013",
+    "locality": "Dehradun",
+    "landmark": "near IT Park, Govind Vihar, Dehradun, Danda Khudanewala, Uttarakhand 248013",
+    "emergencyContact": "097202 97300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jaya+Siddhartha+Hospital/@30.3572717,78.0945581,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7980eacf26f:0x94deb569aab25b6d!8m2!3d30.3572717!4d78.0945581!16s%2Fg%2F11wv93v0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaya+Siddhartha+Hospital/@30.3572717,78.0945581,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7980eacf26f:0x94deb569aab25b6d!8m2!3d30.3572717!4d78.0945581!16s%2Fg%2F11wv93v0q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3572717,
+      "lng": 78.0945581,
+      "label": "Jaya Siddhartha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevanleela-dental-clinic-best-implants-smile-design-cosmetic-dentistry-braces-and-aligners-clinic-in-dehradun-dehradun",
+    "name": "Jeevanleela Dental Clinic - Best Implants, Smile Design, Cosmetic Dentistry, Braces & Aligners clinic in Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeevanleela Dental Clinic - Best Implants, Smile Design, Cosmetic Dentistry, Braces & Aligners clinic in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070883 09090",
+    "alternatePhone": "",
+    "website": "https://jeevanleeladentalclinic.com/",
+    "address": "Ground Floor, D22, Nehru Colony Rd, opposite Custom and Excise Office, C Block, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dharampur",
+    "landmark": "opposite Custom and Excise Office, C Block, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "070883 09090",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevanleela+Dental+Clinic+-+Best+Implants,+Smile+Design,+Cosmetic+Dentistry,+Braces+%26+Aligners+clinic+in+Dehradun/@30.2998361,78.0549846,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298459f7b405:0x5ba5b8773fe6cca3!8m2!3d30.2998361!4d78.0549846!16s%2Fg%2F11fph3spwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevanleela+Dental+Clinic+-+Best+Implants,+Smile+Design,+Cosmetic+Dentistry,+Braces+%26+Aligners+clinic+in+Dehradun/@30.2998361,78.0549846,17z/data=!3m1!4b1!4m6!3m5!1s0x3909298459f7b405:0x5ba5b8773fe6cca3!8m2!3d30.2998361!4d78.0549846!16s%2Fg%2F11fph3spwd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2998361,
+      "lng": 78.0549846,
+      "label": "Jeevanleela Dental Clinic - Best Implants, Smile Design, Cosmetic Dentistry, Braces & Aligners clinic in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "johari-s-dental-care-and-maxillofacial-centre-dehradun",
+    "name": "Johari's Dental Care and Maxillofacial Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Johari's Dental Care and Maxillofacial Centre offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun and Maxillofacial Surgery. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080775 07427",
+    "alternatePhone": "",
+    "website": "",
+    "address": "234, near Lovely Market, Bhoor, Panditwari, Dehradun, Uttarakhand 248007",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248007",
+    "locality": "Panditwari",
+    "landmark": "near Lovely Market, Bhoor, Panditwari, Dehradun, Uttarakhand 248007",
+    "emergencyContact": "080775 07427",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Johari's+Dental+Care+and+Maxillofacial+Centre/@30.3259755,77.99259,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b5429b2c8ed:0x1e44e8ee4fcd3122!8m2!3d30.3259755!4d77.99259!16s%2Fg%2F11qq21vy40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Johari's+Dental+Care+and+Maxillofacial+Centre/@30.3259755,77.99259,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b5429b2c8ed:0x1e44e8ee4fcd3122!8m2!3d30.3259755!4d77.99259!16s%2Fg%2F11qq21vy40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3259755,
+      "lng": 77.99259,
+      "label": "Johari's Dental Care and Maxillofacial Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jp-dental-clinic-and-implant-centre-branch-2-dehradun",
+    "name": "JP Dental Clinic And Implant Centre - Branch 2",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, JP Dental Clinic And Implant Centre - Branch 2 delivers integrated care across Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081910 83544",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sanchar Vihar Colony, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248006",
+    "locality": "Indra Nagar Colony",
+    "landmark": "Dehradun",
+    "emergencyContact": "081910 83544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/JP+Dental+Clinic+And+Implant+Centre+-+Branch+2/@30.3156943,77.9992291,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b12c52aa171:0x19dc1fefee2e7b9c!8m2!3d30.3156943!4d77.9992291!16s%2Fg%2F11x1qxs15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JP+Dental+Clinic+And+Implant+Centre+-+Branch+2/@30.3156943,77.9992291,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b12c52aa171:0x19dc1fefee2e7b9c!8m2!3d30.3156943!4d77.9992291!16s%2Fg%2F11x1qxs15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3156943,
+      "lng": 77.9992291,
+      "label": "JP Dental Clinic And Implant Centre - Branch 2",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-k-dental-care-and-implant-centre-poly-clinic-best-dental-clinic-best-root-canal-dehradun",
+    "name": "K K dental care and implant centre poly clinic best dental clinic best root canal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "K K dental care and implant centre poly clinic best dental clinic best root canal has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096900 98806",
+    "alternatePhone": "",
+    "website": "http://www.kkdentalcaredun.com/",
+    "address": "7A, Raipur Rd, Sumanpuri, Adhoiwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Adhoiwala",
+    "landmark": "Sumanpuri",
+    "emergencyContact": "096900 98806",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/K+K+dental+care+and+implant+centre+poly+clinic+best+dental+clinic+best+root+canal/data=!4m7!3m6!1s0x3909284acb768fa9:0x21cc11d737e2e511!8m2!3d30.323788!4d78.0659329!16s%2Fg%2F1q65_239z!19sChIJqY92y0ooCTkREeXiN9cRzCE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+K+dental+care+and+implant+centre+poly+clinic+best+dental+clinic+best+root+canal/data=!4m7!3m6!1s0x3909284acb768fa9:0x21cc11d737e2e511!8m2!3d30.323788!4d78.0659329!16s%2Fg%2F1q65_239z!19sChIJqY92y0ooCTkREeXiN9cRzCE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.323788,
+      "lng": 78.0659329,
+      "label": "K K dental care and implant centre poly clinic best dental clinic best root canal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-and-g-dental-hub-dehradun",
+    "name": "K&G dental hub",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "K&G dental hub is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075792 01066",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nalapani chowk, Sahastradhara Rd, opp. shagun wedding point, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "opp. shagun wedding point",
+    "landmark": "opp. shagun wedding point",
+    "emergencyContact": "075792 01066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/K%26G+dental+hub/@30.330445,78.0662097,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d727c6c4a3cd:0x84f21f722e8c8f37!8m2!3d30.330445!4d78.0662097!16s%2Fg%2F11nx61y65z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K%26G+dental+hub/@30.330445,78.0662097,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d727c6c4a3cd:0x84f21f722e8c8f37!8m2!3d30.330445!4d78.0662097!16s%2Fg%2F11nx61y65z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.330445,
+      "lng": 78.0662097,
+      "label": "K&G dental hub",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kailash-hospital-dehradun",
+    "name": "Kailash Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose Kailash Hospital for its strength in General Surgery In Dehra Dun. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0135 266 3000",
+    "alternatePhone": "",
+    "website": "https://www.kailashhealthcare.com/Kailash-Hospital-Dehradun?utm_source=google&utm_medium=gmb&utm_campaign=kailash-hospital-dehradun-gmb",
+    "address": "Main Haridwar Road, Chowk, Jogiwala, Dehradun, Uttarakhand 248014",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248014",
+    "locality": "Jogiwala",
+    "landmark": "Jogiwala",
+    "emergencyContact": "0135 266 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kailash+Hospital/@30.2882818,78.0641818,17z/data=!3m1!4b1!4m6!3m5!1s0x3909291d803e913d:0x5eb935d7a20054eb!8m2!3d30.2882818!4d78.0641818!16s%2Fg%2F11csqb37t5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2882818,
+      "lng": 78.0641818,
+      "label": "Kailash Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kb-joshi-clinic-dehradun",
+    "name": "KB JOSHI CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KB JOSHI CLINIC has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Heart Surgery In Dehra Dun. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "828W+G6J Kp joshi clinic, Race Course Rd, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "Race Course",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/KB+JOSHI+CLINIC/@30.3163449,78.045518,17z/data=!3m1!4b1!4m6!3m5!1s0x39092948aae073a9:0xe94ace325f4c029b!8m2!3d30.3163449!4d78.045518!16s%2Fg%2F11fm4jhnxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KB+JOSHI+CLINIC/@30.3163449,78.045518,17z/data=!3m1!4b1!4m6!3m5!1s0x39092948aae073a9:0xe94ace325f4c029b!8m2!3d30.3163449!4d78.045518!16s%2Fg%2F11fm4jhnxs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3163449,
+      "lng": 78.045518,
+      "label": "KB JOSHI CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kutiz-skin-care-clinic-in-dehradun-laser-hair-removal-anti-aging-pigmentation-treatment-in-dehradun-dehradun",
+    "name": "Kutiz- Skin Care Clinic in Dehradun, Laser Hair Removal, Anti-Aging, Pigmentation Treatment In Dehradun",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Kutiz- Skin Care Clinic in Dehradun, Laser Hair Removal, Anti-Aging, Pigmentation Treatment In Dehradun offers coordinated hospital care with major focus on Plastic Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094101 02333",
+    "alternatePhone": "",
+    "website": "http://kutizskincare.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "address": "No. 56, Rajdhani Enclave, GMS Rd, near Ann Mary School, Baliwala Chowk, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Baliwala Chowk",
+    "landmark": "near Ann Mary School, Baliwala Chowk, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "094101 02333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kutiz-+Skin+Care+Clinic+in+Dehradun,+Laser+Hair+Removal,+Anti-Aging,+Pigmentation+Treatment+In+Dehradun/@30.3248334,78.0124492,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a195dfa5325:0xb88c260d1931a2bf!8m2!3d30.3248334!4d78.0124492!16s%2Fg%2F1hhmlkst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kutiz-+Skin+Care+Clinic+in+Dehradun,+Laser+Hair+Removal,+Anti-Aging,+Pigmentation+Treatment+In+Dehradun/@30.3248334,78.0124492,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a195dfa5325:0xb88c260d1931a2bf!8m2!3d30.3248334!4d78.0124492!16s%2Fg%2F1hhmlkst4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3248334,
+      "lng": 78.0124492,
+      "label": "Kutiz- Skin Care Clinic in Dehradun, Laser Hair Removal, Anti-Aging, Pigmentation Treatment In Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "luxe-enhance-aesthetics-best-hair-transplant-laser-hair-reduction-anti-aging-treatment-clinic-dehradun-dehradun",
+    "name": "Luxe Enhance Aesthetics - Best Hair Transplant | Laser Hair Reduction | Anti-Aging Treatment | Clinic Dehradun",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Luxe Enhance Aesthetics - Best Hair Transplant | Laser Hair Reduction | Anti-Aging Treatment | Clinic Dehradun offers coordinated hospital care with major focus on Plastic Surgery In Dehra Dun. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094129 90300",
+    "alternatePhone": "",
+    "website": "https://theluxeenhance.com/",
+    "address": "2nd Floor, Astley Tower, Subhash Rd, Ashtley Hall, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ashtley Hall",
+    "landmark": "Subhash Rd",
+    "emergencyContact": "094129 90300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Luxe+Enhance+Aesthetics+-+Best+Hair+Transplant+%7C+Laser+Hair+Reduction+%7C+Anti-Aging+Treatment+%7C+Clinic+Dehradun/@30.327366,78.048564,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c6b1327e0b:0x80c12027eac9e3fc!8m2!3d30.327366!4d78.048564!16s%2Fg%2F11b6hp2f01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Luxe+Enhance+Aesthetics+-+Best+Hair+Transplant+%7C+Laser+Hair+Reduction+%7C+Anti-Aging+Treatment+%7C+Clinic+Dehradun/@30.327366,78.048564,17z/data=!3m1!4b1!4m6!3m5!1s0x390929c6b1327e0b:0x80c12027eac9e3fc!8m2!3d30.327366!4d78.048564!16s%2Fg%2F11b6hp2f01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.327366,
+      "lng": 78.048564,
+      "label": "Luxe Enhance Aesthetics - Best Hair Transplant | Laser Hair Reduction | Anti-Aging Treatment | Clinic Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "luxmi-dental-clinic-dehradun",
+    "name": "Luxmi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Luxmi Dental Clinic delivers integrated care across Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090686 23405",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F4 Nehru Colony, Near Rispna Bridge, Main, Haridwar Road, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Haridwar Road",
+    "landmark": "Near Rispna Bridge, Main, Haridwar Road, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "090686 23405",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Luxmi+Dental+Clinic/@30.2968915,78.0552053,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a9fc8a8ab5:0x2826b65eeb32a1d0!8m2!3d30.2968915!4d78.0552053!16s%2Fg%2F1yg6nptrs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Luxmi+Dental+Clinic/@30.2968915,78.0552053,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a9fc8a8ab5:0x2826b65eeb32a1d0!8m2!3d30.2968915!4d78.0552053!16s%2Fg%2F1yg6nptrs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2968915,
+      "lng": 78.0552053,
+      "label": "Luxmi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manya-dental-clinic-dehradun",
+    "name": "Manya Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Manya Dental Clinic delivers integrated care across Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070885 47722",
+    "alternatePhone": "",
+    "website": "http://manyadental.com/",
+    "address": "Ring Road Upper Nathanpur, Lane No. 2, Indraprastha, Dehradun, Uttarakhand 248014",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248014",
+    "locality": "Indraprastha",
+    "landmark": "Indraprastha",
+    "emergencyContact": "070885 47722",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manya+Dental+Clinic/@30.2937409,78.074845,17z/data=!3m1!4b1!4m6!3m5!1s0x390928faf6ee96ed:0x8185fe65831a9f8a!8m2!3d30.2937409!4d78.074845!16s%2Fg%2F1q65f1fpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manya+Dental+Clinic/@30.2937409,78.074845,17z/data=!3m1!4b1!4m6!3m5!1s0x390928faf6ee96ed:0x8185fe65831a9f8a!8m2!3d30.2937409!4d78.074845!16s%2Fg%2F1q65f1fpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2937409,
+      "lng": 78.074845,
+      "label": "Manya Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mathur-dental-center-dehradun",
+    "name": "Mathur Dental Center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Mathur Dental Center offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun and Dentist. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073096 49411",
+    "alternatePhone": "",
+    "website": "https://www.mathurdentalcenter.com/",
+    "address": "Shop no. 2, Lovely Market, Vasant vihar, Panditwari, Dehradun, Uttarakhand 248007",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248007",
+    "locality": "Panditwari",
+    "landmark": "Vasant vihar",
+    "emergencyContact": "073096 49411",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mathur+Dental+Center/@30.3271965,77.9953536,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bceb02df8c3:0xf730180360376baf!8m2!3d30.3271965!4d77.9953536!16s%2Fg%2F11h80b1v58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mathur+Dental+Center/@30.3271965,77.9953536,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bceb02df8c3:0xf730180360376baf!8m2!3d30.3271965!4d77.9953536!16s%2Fg%2F11h80b1v58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3271965,
+      "lng": 77.9953536,
+      "label": "Mathur Dental Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medbros-surgery-clinic-laser-piles-fissure-fistula-and-varicose-veins-center-dehradun",
+    "name": "Medbros Surgery Clinic - Laser Piles, Fissure, Fistula & Varicose Veins Center",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medbros Surgery Clinic - Laser Piles, Fissure, Fistula & Varicose Veins Center has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering General Surgery In Dehra Dun and Surgical Center. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099977 44220",
+    "alternatePhone": "",
+    "website": "https://www.medbrosurgery.in/",
+    "address": "above HDFC BANK, Shastri Nagar, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248012",
+    "locality": "Ajabpur Kalan",
+    "landmark": "Ajabpur Kalan",
+    "emergencyContact": "099977 44220",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medbros+Surgery+Clinic+-+Laser+Piles,+Fissure,+Fistula+%26+Varicose+Veins+Center/@30.2903558,78.0609334,17z/data=!3m1!4b1!4m6!3m5!1s0x390929efaf466393:0xf4dc793d498467db!8m2!3d30.2903558!4d78.0609334!16s%2Fg%2F11vpl6fv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medbros+Surgery+Clinic+-+Laser+Piles,+Fissure,+Fistula+%26+Varicose+Veins+Center/@30.2903558,78.0609334,17z/data=!3m1!4b1!4m6!3m5!1s0x390929efaf466393:0xf4dc793d498467db!8m2!3d30.2903558!4d78.0609334!16s%2Fg%2F11vpl6fv07?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2903558,
+      "lng": 78.0609334,
+      "label": "Medbros Surgery Clinic - Laser Piles, Fissure, Fistula & Varicose Veins Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicraft-clinic-dehradun",
+    "name": "Medicraft Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, Medicraft Clinic brings together specialists for General Surgery In Dehra Dun. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079835 92166",
+    "alternatePhone": "",
+    "website": "http://www.medicraft.in/",
+    "address": "First Floor, Ophir Complex, GMS Rd, above Bank Of Baroda, Ballupur, Dehradun, Uttarakhand 248006",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248006",
+    "locality": "Ballupur",
+    "landmark": "GMS Rd",
+    "emergencyContact": "079835 92166",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicraft+Clinic/@30.3290285,78.0114048,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b211a98216b:0x5fb5f56ef2d34945!8m2!3d30.3290285!4d78.0114048!16s%2Fg%2F11nn_tm02s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicraft+Clinic/@30.3290285,78.0114048,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b211a98216b:0x5fb5f56ef2d34945!8m2!3d30.3290285!4d78.0114048!16s%2Fg%2F11nn_tm02s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3290285,
+      "lng": 78.0114048,
+      "label": "Medicraft Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meditrina-heart-center-dehradun",
+    "name": "Meditrina Heart Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, Meditrina Heart Center brings together specialists for Heart Surgery In Dehra Dun and Cardiac Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.meditrinahospitals.com/",
+    "address": "2nd floor, coronation hospital, Curzon Rd, Dalanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dalanwala",
+    "landmark": "Curzon Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Dehra Dun",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Meditrina+Heart+Center/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929007ab78745:0x334e62a0c5ae3937!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F11y2hqnltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meditrina+Heart+Center/@30.3207041,78.0574377,17z/data=!3m1!4b1!4m6!3m5!1s0x390929007ab78745:0x334e62a0c5ae3937!8m2!3d30.3207041!4d78.0574377!16s%2Fg%2F11y2hqnltr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3207041,
+      "lng": 78.0574377,
+      "label": "Meditrina Heart Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "menwal-dental-clinic-and-implant-centre-dehradun",
+    "name": "Menwal dental clinic and implant centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose Menwal dental clinic and implant centre for its strength in Oral Surgery In Dehra Dun and Dentist. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089793 13086",
+    "alternatePhone": "",
+    "website": "https://drsaurabhmenwal.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "Pathribagh chowk, Kargi - Patel Nagar Bypass, near blessing farm, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "near blessing farm",
+    "landmark": "near blessing farm, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "089793 13086",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Menwal+dental+clinic+and+implant+centre/@30.3002433,78.0265849,17z/data=!3m1!4b1!4m6!3m5!1s0x39092982364f0579:0xe2f4cfad4c32bd41!8m2!3d30.3002433!4d78.0265849!16s%2Fg%2F11gfp2w4zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Menwal+dental+clinic+and+implant+centre/@30.3002433,78.0265849,17z/data=!3m1!4b1!4m6!3m5!1s0x39092982364f0579:0xe2f4cfad4c32bd41!8m2!3d30.3002433!4d78.0265849!16s%2Fg%2F11gfp2w4zm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3002433,
+      "lng": 78.0265849,
+      "label": "Menwal dental clinic and implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miracle-smiles-dental-care-dental-clinic-kids-dentist-root-canal-treatment-dental-implant-braces-gmsballupurballiwala-dehradun",
+    "name": "Miracle Smiles Dental Care - Dental Clinic | Kids Dentist | Root Canal Treatment | Dental Implant Braces GMSBallupurBalliwala",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Miracle Smiles Dental Care - Dental Clinic | Kids Dentist | Root Canal Treatment | Dental Implant Braces GMSBallupurBalliwala offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079834 36293",
+    "alternatePhone": "",
+    "website": "http://miraclesmilesdentalcare.in/",
+    "address": "Vivek Vihar, 44, GMS Rd, Vijay Park Extension, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Vijay Park Extension",
+    "landmark": "GMS Rd",
+    "emergencyContact": "079834 36293",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miracle+Smiles+Dental+Care+-+Dental+Clinic+%7C+Kids+Dentist+%7C+Root+Canal+Treatment+%7C+Dental+Implant+Braces+GMSBallupurBalliwala/@30.3266636,78.0125494,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0047f4efd5:0x179e0d32dafb1f90!8m2!3d30.3266636!4d78.0125494!16s%2Fg%2F11xf_xj2mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miracle+Smiles+Dental+Care+-+Dental+Clinic+%7C+Kids+Dentist+%7C+Root+Canal+Treatment+%7C+Dental+Implant+Braces+GMSBallupurBalliwala/@30.3266636,78.0125494,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0047f4efd5:0x179e0d32dafb1f90!8m2!3d30.3266636!4d78.0125494!16s%2Fg%2F11xf_xj2mr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3266636,
+      "lng": 78.0125494,
+      "label": "Miracle Smiles Dental Care - Dental Clinic | Kids Dentist | Root Canal Treatment | Dental Implant Braces GMSBallupurBalliwala",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ms-galaxy-hospital-dehradun",
+    "name": "MS Galaxy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MS Galaxy Hospital is a prominent hospital in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097603 16002",
+    "alternatePhone": "",
+    "website": "https://www.msgalaxyhospital.com/",
+    "address": "Haridwar Bypass Rd, near Kargi Chowk, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Brahmanwala",
+    "landmark": "near Kargi Chowk, Brahmanwala, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "097603 16002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MS+Galaxy+Hospital/@30.2887334,78.0211908,17z/data=!3m1!4b1!4m6!3m5!1s0x390929201607f91d:0xe8f7c9152a47812d!8m2!3d30.2887334!4d78.0211908!16s%2Fg%2F11wfjvdqqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MS+Galaxy+Hospital/@30.2887334,78.0211908,17z/data=!3m1!4b1!4m6!3m5!1s0x390929201607f91d:0xe8f7c9152a47812d!8m2!3d30.2887334!4d78.0211908!16s%2Fg%2F11wfjvdqqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2887334,
+      "lng": 78.0211908,
+      "label": "MS Galaxy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oracare-dental-clinic-and-implant-center-dehradun",
+    "name": "Oracare Dental Clinic and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oracare Dental Clinic and Implant Center is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090451 10070",
+    "alternatePhone": "",
+    "website": "",
+    "address": "69-B, near Police Station, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248003",
+    "locality": "Garhi Cantt",
+    "landmark": "near Police Station, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "emergencyContact": "090451 10070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oracare+Dental+Clinic+and+Implant+Center/@30.3530918,78.0240987,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7b3beff7c7f:0x48c3cdf3766aad79!8m2!3d30.3530918!4d78.0240987!16s%2Fg%2F11vw_c9spw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oracare+Dental+Clinic+and+Implant+Center/@30.3530918,78.0240987,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7b3beff7c7f:0x48c3cdf3766aad79!8m2!3d30.3530918!4d78.0240987!16s%2Fg%2F11vw_c9spw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3530918,
+      "lng": 78.0240987,
+      "label": "Oracare Dental Clinic and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthocare-dental-speciality-centre-dehradun",
+    "name": "Orthocare Dental Speciality Centre",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted orthodontist in Dehradun, Orthocare Dental Speciality Centre delivers integrated care across Oral Surgery In Dehra Dun, Orthodontist, Orthopaedics, and Speciality Care. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099352 99169",
+    "alternatePhone": "",
+    "website": "http://orthocare.net.in/",
+    "address": "Near Hotel, Kamla Palace, GMS Rd, Shakti Enclave, Kaonli, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Kaonli",
+    "landmark": "GMS Rd",
+    "emergencyContact": "099352 99169",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Orthodontist",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Orthocare+Dental+Speciality+Centre/@30.3081307,78.0071856,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3aa5e0e7cb:0x331d1a1206f3fe31!8m2!3d30.3081307!4d78.0071856!16s%2Fg%2F11xb_y8f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Orthocare+Dental+Speciality+Centre/@30.3081307,78.0071856,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a3aa5e0e7cb:0x331d1a1206f3fe31!8m2!3d30.3081307!4d78.0071856!16s%2Fg%2F11xb_y8f6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3081307,
+      "lng": 78.0071856,
+      "label": "Orthocare Dental Speciality Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-sewla-kalan-dehradun-dehradun",
+    "name": "OrthoSquare Dental Clinic - Sewla Kalan, Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose OrthoSquare Dental Clinic - Sewla Kalan, Dehradun for its strength in Oral Surgery In Dehra Dun and Orthopaedics. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079662 47122",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/dehradun/Sewla-Kalan/orthosquare-dental-clinic-in-Sewla-Kalan-dehradun--2wRBMO/home",
+    "address": "First Floor, Goswami Tower, Saharanpur Rd, nearby D Singh Riders Bike & Scooty on Rent, Sewla Kalan, Niranjanpur, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Niranjanpur",
+    "landmark": "Saharanpur Rd",
+    "emergencyContact": "079662 47122",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Sewla+Kalan,+Dehradun/@30.3005608,78.0082404,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b35f3098055:0x10ad1da30a8a75a2!8m2!3d30.3005608!4d78.0082404!16s%2Fg%2F11mf7kxm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Sewla+Kalan,+Dehradun/@30.3005608,78.0082404,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b35f3098055:0x10ad1da30a8a75a2!8m2!3d30.3005608!4d78.0082404!16s%2Fg%2F11mf7kxm7m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3005608,
+      "lng": 78.0082404,
+      "label": "OrthoSquare Dental Clinic - Sewla Kalan, Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patnaik-dental-care-dehradun",
+    "name": "PATNAIK DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, PATNAIK DENTAL CARE brings together specialists for Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080775 87688",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2, Ballupur Road Kishan Nagar chowk Lane, adjacent to v mart, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "adjacent to v mart",
+    "landmark": "adjacent to v mart",
+    "emergencyContact": "080775 87688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/PATNAIK+DENTAL+CARE/@30.3329964,78.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x39092931d20b4bd5:0xd5d43c47fbdf6ede!8m2!3d30.3329964!4d78.0257!16s%2Fg%2F11fl9gshrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PATNAIK+DENTAL+CARE/@30.3329964,78.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x39092931d20b4bd5:0xd5d43c47fbdf6ede!8m2!3d30.3329964!4d78.0257!16s%2Fg%2F11fl9gshrl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3329964,
+      "lng": 78.0257,
+      "label": "PATNAIK DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "perfect-smile-dental-care-and-implant-centre-dehradun",
+    "name": "Perfect Smile Dental Care & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Perfect Smile Dental Care & Implant Centre delivers integrated care across Oral Surgery In Dehra Dun. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094113 11030",
+    "alternatePhone": "",
+    "website": "http://www.perfectsmiledentalcare.clinic.net.in/",
+    "address": "1 Tilak Road, Bindal Bridge, near Jaina Restaurant, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "near Jaina Restaurant",
+    "landmark": "near Jaina Restaurant, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "094113 11030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Perfect+Smile+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x390929ed10278a33:0x72dac7937a57d059!8m2!3d30.3261403!4d78.0330897!16s%2Fg%2F1yhbjszsg!19sChIJM4onEO0pCTkRWdBXepPH2nI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Perfect+Smile+Dental+Care+%26+Implant+Centre/data=!4m7!3m6!1s0x390929ed10278a33:0x72dac7937a57d059!8m2!3d30.3261403!4d78.0330897!16s%2Fg%2F1yhbjszsg!19sChIJM4onEO0pCTkRWdBXepPH2nI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3261403,
+      "lng": 78.0330897,
+      "label": "Perfect Smile Dental Care & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rana-dental-clinic-facial-surgery-and-implant-centre-dehradun",
+    "name": "Rana Dental Clinic Facial Surgery And Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Rana Dental Clinic Facial Surgery And Implant Centre offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078307 97717",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-92 C H.I.G, MDDA Colony, Dalanwala, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dalanwala",
+    "landmark": "Dalanwala",
+    "emergencyContact": "078307 97717",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Rana+Dental+Clinic+Facial+Surgery+And+Implant+Centre/@30.3138289,78.0631281,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ad66aaaaab:0x68382a07a3c49b90!8m2!3d30.3138289!4d78.0631281!16s%2Fg%2F11lfbgn057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rana+Dental+Clinic+Facial+Surgery+And+Implant+Centre/@30.3138289,78.0631281,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ad66aaaaab:0x68382a07a3c49b90!8m2!3d30.3138289!4d78.0631281!16s%2Fg%2F11lfbgn057?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3138289,
+      "lng": 78.0631281,
+      "label": "Rana Dental Clinic Facial Surgery And Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rastogi-dental-clinic-best-dentist-best-dental-clinic-for-rct-and-dental-implant-opg-cbct-dehradun",
+    "name": "Rastogi Dental Clinic - Best dentist, Best dental clinic for RCT & Dental Implant, OPG,CBCT",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Rastogi Dental Clinic - Best dentist, Best dental clinic for RCT & Dental Implant, OPG,CBCT delivers integrated care across Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094120 52826",
+    "alternatePhone": "",
+    "website": "https://www.rastogidentalclinic.com/",
+    "address": "Shop No.4, Chanakya Towers, Dilaram Bazaar, Kandholi, Chironwali, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Chironwali",
+    "landmark": "Dilaram Bazaar",
+    "emergencyContact": "094120 52826",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rastogi+Dental+Clinic+-+Best+dentist,+Best+dental+clinic+for+RCT+%26+Dental+Implant,+OPG,CBCT/@30.3368652,78.0561349,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc6f5bfb1d:0x77659fb406774881!8m2!3d30.3368652!4d78.0561349!16s%2Fg%2F1tg9r1n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rastogi+Dental+Clinic+-+Best+dentist,+Best+dental+clinic+for+RCT+%26+Dental+Implant,+OPG,CBCT/@30.3368652,78.0561349,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc6f5bfb1d:0x77659fb406774881!8m2!3d30.3368652!4d78.0561349!16s%2Fg%2F1tg9r1n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3368652,
+      "lng": 78.0561349,
+      "label": "Rastogi Dental Clinic - Best dentist, Best dental clinic for RCT & Dental Implant, OPG,CBCT",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rg-hospital-dehradun",
+    "name": "RG Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RG Hospital is a prominent hospital in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098100 26456",
+    "alternatePhone": "",
+    "website": "https://www.rghospitals.com/urology-hospitals/Uttarakhand/dehradun-uttarakhand",
+    "address": "8, Convent Rd, near SBI Main Branch, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "near SBI Main Branch, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "098100 26456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RG+Hospital/@30.3205596,78.0469734,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bf3c44ecfb:0x685645e1975b9575!8m2!3d30.3205596!4d78.0469734!16s%2Fg%2F11bwqbr40m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RG+Hospital/@30.3205596,78.0469734,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bf3c44ecfb:0x685645e1975b9575!8m2!3d30.3205596!4d78.0469734!16s%2Fg%2F11bwqbr40m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3205596,
+      "lng": 78.0469734,
+      "label": "RG Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-k-memorial-hospital-dehradun",
+    "name": "S.K Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dehradun, S.K Memorial Hospital delivers integrated care across General Surgery In Dehra Dun. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098970 94700",
+    "alternatePhone": "",
+    "website": "",
+    "address": "12, EC Road, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Karanpur",
+    "landmark": "Irigation Colony",
+    "emergencyContact": "098970 94700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/S.K+Memorial+Hospital/@30.3286936,78.0526533,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bb41dc4d87:0x9eab68889f1d0a2e!8m2!3d30.3286936!4d78.0526533!16s%2Fg%2F1tdy2vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S.K+Memorial+Hospital/@30.3286936,78.0526533,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bb41dc4d87:0x9eab68889f1d0a2e!8m2!3d30.3286936!4d78.0526533!16s%2Fg%2F1tdy2vvx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3286936,
+      "lng": 78.0526533,
+      "label": "S.K Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-kripa-dental-implant-solutions-dehradun",
+    "name": "SAI KRIPA DENTAL IMPLANT SOLUTIONS",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, SAI KRIPA DENTAL IMPLANT SOLUTIONS brings together specialists for Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098371 34939",
+    "alternatePhone": "",
+    "website": "http://www.dentalimplantsolutions.co.in/",
+    "address": "84/45, Ansari Marg, near MAA KAALIKA TEMPLE, Machhi Bazar, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Paltan Bazaar",
+    "landmark": "near MAA KAALIKA TEMPLE, Machhi Bazar, Paltan Bazaar, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "098371 34939",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SAI+KRIPA+DENTAL+IMPLANT+SOLUTIONS/@30.3244234,78.0364279,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec8056d5ff:0xba9d7d4fffcebad0!8m2!3d30.3244234!4d78.0364279!16s%2Fg%2F1vknmrfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAI+KRIPA+DENTAL+IMPLANT+SOLUTIONS/@30.3244234,78.0364279,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ec8056d5ff:0xba9d7d4fffcebad0!8m2!3d30.3244234!4d78.0364279!16s%2Fg%2F1vknmrfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3244234,
+      "lng": 78.0364279,
+      "label": "SAI KRIPA DENTAL IMPLANT SOLUTIONS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjul-memorial-ncv-eeg-testing-centre-best-ncv-eeg-emg-ecg-vep-bera-x-ray-centre-in-dehradun-dehradun",
+    "name": "SANJUL MEMORIAL NCV, EEG TESTING CENTRE, BEST NCV, EEG, EMG, ECG, VEP, BERA, X-RAY CENTRE IN DEHRADUN",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Dehradun, SANJUL MEMORIAL NCV, EEG TESTING CENTRE, BEST NCV, EEG, EMG, ECG, VEP, BERA, X-RAY CENTRE IN DEHRADUN delivers integrated care across General Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093891 21256",
+    "alternatePhone": "",
+    "website": "https://sanjulmemorialhospital.com/",
+    "address": "SHRI MUNSHIRAM TOWER, SEWLA KALAN, NEAR ALKA DAIRY GMS ROAD, 1.5KM from ISBT, near, Shimla Bypass Rd, Chowk, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Chowk",
+    "landmark": "NEAR ALKA DAIRY GMS ROAD, 1.5KM from ISBT, near, Shimla Bypass Rd, Chowk, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "093891 21256",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SANJUL+MEMORIAL+NCV,+EEG+TESTING+CENTRE,+BEST+NCV,+EEG,+EMG,+ECG,+VEP,+BERA,+X-RAY+CENTRE+IN+DEHRADUN/@30.2994221,78.0006999,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bd1f5aba63d:0x8177e17b94aa3463!8m2!3d30.2994221!4d78.0006999!16s%2Fg%2F11k4frnbb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANJUL+MEMORIAL+NCV,+EEG+TESTING+CENTRE,+BEST+NCV,+EEG,+EMG,+ECG,+VEP,+BERA,+X-RAY+CENTRE+IN+DEHRADUN/@30.2994221,78.0006999,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bd1f5aba63d:0x8177e17b94aa3463!8m2!3d30.2994221!4d78.0006999!16s%2Fg%2F11k4frnbb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2994221,
+      "lng": 78.0006999,
+      "label": "SANJUL MEMORIAL NCV, EEG TESTING CENTRE, BEST NCV, EEG, EMG, ECG, VEP, BERA, X-RAY CENTRE IN DEHRADUN",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharma-sadbhawna-medical-centre-dehradun",
+    "name": "Sharma Sadbhawna Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sharma Sadbhawna Medical Centre is a prominent hospital in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090683 26868",
+    "alternatePhone": "",
+    "website": "",
+    "address": "17-C, New Rd, near MKP Chowk, Race Course, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Race Course",
+    "landmark": "near MKP Chowk, Race Course, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "090683 26868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sharma+Sadbhawna+Medical+Centre/@30.3171637,78.0469113,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bea36c85f5:0x8041e60065d3673d!8m2!3d30.3171637!4d78.0469113!16s%2Fg%2F11bw5m8gk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharma+Sadbhawna+Medical+Centre/@30.3171637,78.0469113,17z/data=!3m1!4b1!4m6!3m5!1s0x390929bea36c85f5:0x8041e60065d3673d!8m2!3d30.3171637!4d78.0469113!16s%2Fg%2F11bw5m8gk2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3171637,
+      "lng": 78.0469113,
+      "label": "Sharma Sadbhawna Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-gopinath-dental-care-and-implant-center-dehradun-dehradun",
+    "name": "Shree Gopinath Dental care and implant center, Dehradun",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Shree Gopinath Dental care and implant center, Dehradun offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075791 65045",
+    "alternatePhone": "",
+    "website": "https://www.shreegopinathdentalcare.com/",
+    "address": "Shop no219, near Asian school, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248006",
+    "locality": "Indra Nagar Colony",
+    "landmark": "near Asian school, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+    "emergencyContact": "075791 65045",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Gopinath+Dental+care+and+implant+center,+Dehradun/@30.3215163,78.0041757,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b91556dcd65:0x1f4ec565630f3df!8m2!3d30.3215163!4d78.0041757!16s%2Fg%2F11x6xpjl25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Gopinath+Dental+care+and+implant+center,+Dehradun/@30.3215163,78.0041757,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b91556dcd65:0x1f4ec565630f3df!8m2!3d30.3215163!4d78.0041757!16s%2Fg%2F11x6xpjl25?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3215163,
+      "lng": 78.0041757,
+      "label": "Shree Gopinath Dental care and implant center, Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-hari-dental-and-implant-centre-dehradun",
+    "name": "Shree Hari Dental & Implant Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Shree Hari Dental & Implant Centre offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun and Dentist. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "063957 96062",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Haridwar - Dehradun Rd, near Vidhan sabha chowk, Shastri Nagar Market, Danda Dharampur, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248012",
+    "locality": "Ajabpur Kalan",
+    "landmark": "near Vidhan sabha chowk, Shastri Nagar Market, Danda Dharampur, Ajabpur Kalan, Dehradun, Uttarakhand 248012",
+    "emergencyContact": "063957 96062",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Hari+Dental+%26+Implant+Centre/@30.2924768,78.0591129,17z/data=!3m1!4b1!4m6!3m5!1s0x390929719e5fb0df:0x2d7370624aa960e6!8m2!3d30.2924768!4d78.0591129!16s%2Fg%2F11jkmpbygg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Hari+Dental+%26+Implant+Centre/@30.2924768,78.0591129,17z/data=!3m1!4b1!4m6!3m5!1s0x390929719e5fb0df:0x2d7370624aa960e6!8m2!3d30.2924768!4d78.0591129!16s%2Fg%2F11jkmpbygg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2924768,
+      "lng": 78.0591129,
+      "label": "Shree Hari Dental & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreepati-dental-clinic-n-cosmetic-dentistry-dehradun",
+    "name": "SHREEPATI DENTAL CLINIC n cosmetic dentistry",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose SHREEPATI DENTAL CLINIC n cosmetic dentistry for its strength in Oral Surgery In Dehra Dun and Dentist. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://drpradeeppanwar.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "106, near, DL Rd, Kandholi, chowk, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "chowk",
+    "landmark": "DL Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SHREEPATI+DENTAL+CLINIC+n+cosmetic+dentistry/@30.3334266,78.0620737,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e4884de399:0x263b8840dba8bac6!8m2!3d30.3334266!4d78.0620737!16s%2Fg%2F11qrl6_whq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREEPATI+DENTAL+CLINIC+n+cosmetic+dentistry/@30.3334266,78.0620737,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e4884de399:0x263b8840dba8bac6!8m2!3d30.3334266!4d78.0620737!16s%2Fg%2F11qrl6_whq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3334266,
+      "lng": 78.0620737,
+      "label": "SHREEPATI DENTAL CLINIC n cosmetic dentistry",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-mahant-indiresh-hospital-dehradun",
+    "name": "Shri Mahant Indiresh Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Mahant Indiresh Hospital is a prominent general hospital in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0135 667 2400",
+    "alternatePhone": "",
+    "website": "http://www.smihospital.com/",
+    "address": "Kargi - Patel Nagar Bypass, Industrial Area, Govt.Industrial Estate, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Patel Nagar",
+    "landmark": "Govt.Industrial Estate",
+    "emergencyContact": "0135 667 2400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Mahant+Indiresh+Hospital/@30.3045476,78.0208027,17z/data=!3m1!4b1!4m6!3m5!1s0x3909294e64e20bcd:0x2fab582f139ab49e!8m2!3d30.3045476!4d78.0208027!16s%2Fg%2F11cmdfv464?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Mahant+Indiresh+Hospital/@30.3045476,78.0208027,17z/data=!3m1!4b1!4m6!3m5!1s0x3909294e64e20bcd:0x2fab582f139ab49e!8m2!3d30.3045476!4d78.0208027!16s%2Fg%2F11cmdfv464?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3045476,
+      "lng": 78.0208027,
+      "label": "Shri Mahant Indiresh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "simalti-dental-clinic-orthodontic-and-implant-centre-dehradun",
+    "name": "Simalti Dental Clinic Orthodontic And Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Simalti Dental Clinic Orthodontic And Implant Centre delivers integrated care across Oral Surgery In Dehra Dun and Orthopaedics. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095570 80133",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Simalti dental clinic, Mehuwala mafi Shimla by pass, gali, near Chaihan, Dehradun, Uttarakhand 248018",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248018",
+    "locality": "near Chaihan",
+    "landmark": "near Chaihan, Dehradun, Uttarakhand 248018",
+    "emergencyContact": "095570 80133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Simalti+Dental+Clinic+Orthodontic+And+Implant+Centre/@30.3082619,77.9833674,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b4cd662b845:0x913c8871b0033b13!8m2!3d30.3082619!4d77.9833674!16s%2Fg%2F11nt62_54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Simalti+Dental+Clinic+Orthodontic+And+Implant+Centre/@30.3082619,77.9833674,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b4cd662b845:0x913c8871b0033b13!8m2!3d30.3082619!4d77.9833674!16s%2Fg%2F11nt62_54r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3082619,
+      "lng": 77.9833674,
+      "label": "Simalti Dental Clinic Orthodontic And Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-clinic-dehradun",
+    "name": "SMILE DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun often choose SMILE DENTAL CLINIC for its strength in Oral Surgery In Dehra Dun. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074090 13115",
+    "alternatePhone": "",
+    "website": "",
+    "address": "gopal plaza, 5a 5b, Shaheed Kashmir Singh Road, opposite r.i.m.c gate, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248003",
+    "locality": "Garhi Cantt",
+    "landmark": "opposite r.i.m.c gate, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "emergencyContact": "074090 13115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3908d7fee118788b:0xbda71d9ff5d24c87!8m2!3d30.3506652!4d78.0221646!16s%2Fg%2F11rv61j_xc!19sChIJi3gY4f7XCDkRh0zS9Z8dp70?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SMILE+DENTAL+CLINIC/data=!4m7!3m6!1s0x3908d7fee118788b:0xbda71d9ff5d24c87!8m2!3d30.3506652!4d78.0221646!16s%2Fg%2F11rv61j_xc!19sChIJi3gY4f7XCDkRh0zS9Z8dp70?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3506652,
+      "lng": 78.0221646,
+      "label": "SMILE DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-miles-dental-clinic-braces-and-implant-centre-dehradun",
+    "name": "SMILE MILES DENTAL CLINIC, BRACES & IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, SMILE MILES DENTAL CLINIC, BRACES & IMPLANT CENTRE brings together specialists for Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095687 97708",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sahastradhara Rd, Durga Enclave, Saundhon wali, Ekta Vihar, Dehradun, Uttarakhand 248013",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248013",
+    "locality": "Ekta Vihar",
+    "landmark": "Saundhon wali",
+    "emergencyContact": "095687 97708",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SMILE+MILES+DENTAL+CLINIC,+BRACES+%26+IMPLANT+CENTRE/@30.3425899,78.0739247,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ab362b6421:0x8f5453c874fa7d78!8m2!3d30.3425899!4d78.0739247!16s%2Fg%2F11kb9dsd2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SMILE+MILES+DENTAL+CLINIC,+BRACES+%26+IMPLANT+CENTRE/@30.3425899,78.0739247,17z/data=!3m1!4b1!4m6!3m5!1s0x390929ab362b6421:0x8f5453c874fa7d78!8m2!3d30.3425899!4d78.0739247!16s%2Fg%2F11kb9dsd2z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3425899,
+      "lng": 78.0739247,
+      "label": "SMILE MILES DENTAL CLINIC, BRACES & IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-n-shine-dental-care-and-implant-centre-dehradun",
+    "name": "Smile N Shine Dental Care And Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Smile N Shine Dental Care And Implant Centre delivers integrated care across Oral Surgery In Dehra Dun. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082730 27020",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GF-15, MDDA Complex, Guru Nanak Vihar, Dharampur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dharampur",
+    "landmark": "Guru Nanak Vihar",
+    "emergencyContact": "082730 27020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+N+Shine+Dental+Care+And+Implant+Centre/@30.3048393,78.0474678,17z/data=!3m1!4b1!4m6!3m5!1s0x390929005039bdbb:0x3e3e6d720fe66503!8m2!3d30.3048393!4d78.0474678!16s%2Fg%2F11m6rl2p2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+N+Shine+Dental+Care+And+Implant+Centre/@30.3048393,78.0474678,17z/data=!3m1!4b1!4m6!3m5!1s0x390929005039bdbb:0x3e3e6d720fe66503!8m2!3d30.3048393!4d78.0474678!16s%2Fg%2F11m6rl2p2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3048393,
+      "lng": 78.0474678,
+      "label": "Smile N Shine Dental Care And Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-n-braces-dental-clinic-dehradun",
+    "name": "Smile n' Braces Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Smile n' Braces Dental Clinic delivers integrated care across Oral Surgery In Dehra Dun. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095286 04004",
+    "alternatePhone": "",
+    "website": "http://www.smilenbraces.in/",
+    "address": "F-14.15, ground floor, Rajpur Rd, Bhel Chowk, Karanpur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Karanpur",
+    "landmark": "Rajpur Rd",
+    "emergencyContact": "095286 04004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+n'+Braces+Dental+Clinic/@30.3342891,78.0531502,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc66d8bf49:0x5b24da95ad0114b2!8m2!3d30.3342891!4d78.0531502!16s%2Fg%2F11xmv2j1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+n'+Braces+Dental+Clinic/@30.3342891,78.0531502,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d7cc66d8bf49:0x5b24da95ad0114b2!8m2!3d30.3342891!4d78.0531502!16s%2Fg%2F11xmv2j1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3342891,
+      "lng": 78.0531502,
+      "label": "Smile n' Braces Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-walk-dental-clinic-and-implant-centre-dentist-in-dehradun-dehradun",
+    "name": "Smile Walk Dental Clinic And Implant Centre Dentist in Dehradun",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Walk Dental Clinic And Implant Centre Dentist in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079739 65574",
+    "alternatePhone": "",
+    "website": "https://drparasbanga.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "13/9, Ballupur Rd, Sector 3, Deeplok Colony, Hemkunj Colony, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Hemkunj Colony",
+    "landmark": "Sector 3",
+    "emergencyContact": "079739 65574",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Walk+Dental+Clinic+And+Implant+Centre+Dentist+in+Dehradun/@30.3310258,78.0248414,17z/data=!3m1!4b1!4m6!3m5!1s0x3909295a7e663971:0xc67bde1b1abcc613!8m2!3d30.3310258!4d78.0248414!16s%2Fg%2F11qq4fqff3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Walk+Dental+Clinic+And+Implant+Centre+Dentist+in+Dehradun/@30.3310258,78.0248414,17z/data=!3m1!4b1!4m6!3m5!1s0x3909295a7e663971:0xc67bde1b1abcc613!8m2!3d30.3310258!4d78.0248414!16s%2Fg%2F11qq4fqff3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3310258,
+      "lng": 78.0248414,
+      "label": "Smile Walk Dental Clinic And Implant Centre Dentist in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-zone-dental-care-centre-dehradun",
+    "name": "Smile Zone Dental Care Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Smile Zone Dental Care Centre offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun and Dentist. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098975 81019",
+    "alternatePhone": "",
+    "website": "https://www.smilezonedentalcarecentre.com/",
+    "address": "near Punjab National Bank, Anurag Chowk, Dehradun, Uttarakhand 248006",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248006",
+    "locality": "Anurag Chowk",
+    "landmark": "Dehradun",
+    "emergencyContact": "098975 81019",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Zone+Dental+Care+Centre/@30.3241735,78.0064395,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bcacb687c1f:0x20e36239291565ee!8m2!3d30.3241735!4d78.0064395!16s%2Fg%2F11cmm1bmrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Zone+Dental+Care+Centre/@30.3241735,78.0064395,17z/data=!3m1!4b1!4m6!3m5!1s0x39092bcacb687c1f:0x20e36239291565ee!8m2!3d30.3241735!4d78.0064395!16s%2Fg%2F11cmm1bmrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3241735,
+      "lng": 78.0064395,
+      "label": "Smile Zone Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smilline-dental-clinic-and-orthodontic-center-best-dental-clinic-in-dehradun-braces-implant-centre-root-canal-dentist-dehradun",
+    "name": "Smilline Dental Clinic & Orthodontic Center - best dental clinic in dehradun | braces implant centre | root canal | dentist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, Smilline Dental Clinic & Orthodontic Center - best dental clinic in dehradun | braces implant centre | root canal | dentist offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun and Orthopaedics. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075340 75715",
+    "alternatePhone": "",
+    "website": "https://smillinedentalclinic.com/",
+    "address": "41, Nimbuwala, Road, opp. Uk Gramin Bank, Garhi Cantt, Dehradun, Uttarakhand 248003",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248003",
+    "locality": "Garhi Cantt",
+    "landmark": "Road",
+    "emergencyContact": "075340 75715",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smilline+Dental+Clinic+%26+Orthodontic+Center+-+best+dental+clinic+in+dehradun+%7C+braces+implant+centre+%7C+root+canal+%7C+dentist/@30.3523045,78.0226613,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d74da4cca6d5:0x879a509e9f9411b3!8m2!3d30.3523045!4d78.0226613!16s%2Fg%2F11jbc1kwlr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smilline+Dental+Clinic+%26+Orthodontic+Center+-+best+dental+clinic+in+dehradun+%7C+braces+implant+centre+%7C+root+canal+%7C+dentist/@30.3523045,78.0226613,17z/data=!3m1!4b1!4m6!3m5!1s0x3908d74da4cca6d5:0x879a509e9f9411b3!8m2!3d30.3523045!4d78.0226613!16s%2Fg%2F11jbc1kwlr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3523045,
+      "lng": 78.0226613,
+      "label": "Smilline Dental Clinic & Orthodontic Center - best dental clinic in dehradun | braces implant centre | root canal | dentist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "somaksh-healthcare-dehradun",
+    "name": "SOMAKSH HEALTHCARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SOMAKSH HEALTHCARE is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0135 350 2084",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kargi - Patel Nagar Bypass, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Patel Nagar",
+    "landmark": "Dehradun",
+    "emergencyContact": "0135 350 2084",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SOMAKSH+HEALTHCARE/data=!4m7!3m6!1s0x3909290fb81487bd:0xb8f32c0f943d3482!8m2!3d30.2917444!4d78.0251359!16s%2Fg%2F11t9q415c_!19sChIJvYcUuA8pCTkRgjQ9lA8s87g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SOMAKSH+HEALTHCARE/data=!4m7!3m6!1s0x3909290fb81487bd:0xb8f32c0f943d3482!8m2!3d30.2917444!4d78.0251359!16s%2Fg%2F11t9q415c_!19sChIJvYcUuA8pCTkRgjQ9lA8s87g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.2917444,
+      "lng": 78.0251359,
+      "label": "SOMAKSH HEALTHCARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srd-dental-clinic-and-maxillo-facial-surgical-centre-dehradun",
+    "name": "SRD Dental Clinic & Maxillo-facial Surgical Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Dehradun, SRD Dental Clinic & Maxillo-facial Surgical Centre brings together specialists for Oral Surgery In Dehra Dun. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097601 30802",
+    "alternatePhone": "",
+    "website": "https://srddentalclinics.com/",
+    "address": "Blood Bank, 60 Hemkunj Colony, opposite IMA, Vijay Park, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Vijay Park",
+    "landmark": "opposite IMA, Vijay Park, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "097601 30802",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SRD+Dental+Clinic+%26+Maxillo-facial+Surgical+Centre/@30.3328087,78.0172822,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3f2ca6ab3d:0x7a21e6fb312208a1!8m2!3d30.3328087!4d78.0172822!16s%2Fg%2F11s31p1d9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRD+Dental+Clinic+%26+Maxillo-facial+Surgical+Centre/@30.3328087,78.0172822,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3f2ca6ab3d:0x7a21e6fb312208a1!8m2!3d30.3328087!4d78.0172822!16s%2Fg%2F11s31p1d9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3328087,
+      "lng": 78.0172822,
+      "label": "SRD Dental Clinic & Maxillo-facial Surgical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudha-medical-and-dental-clinic-dehradun",
+    "name": "SUDHA MEDICAL & DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SUDHA MEDICAL & DENTAL CLINIC has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094581 06767",
+    "alternatePhone": "",
+    "website": "",
+    "address": "120, opposite Main Gate Of Asian School, Vasant Vihar, Just, Indra Nagar Colony, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Indra Nagar Colony",
+    "landmark": "opposite Main Gate Of Asian School, Vasant Vihar, Just, Indra Nagar Colony, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "094581 06767",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SUDHA+MEDICAL+%26+DENTAL+CLINIC/@30.32204,78.004505,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b748b51b3c5:0x8b524515b12af8c4!8m2!3d30.32204!4d78.004505!16s%2Fg%2F11j042fgkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SUDHA+MEDICAL+%26+DENTAL+CLINIC/@30.32204,78.004505,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b748b51b3c5:0x8b524515b12af8c4!8m2!3d30.32204!4d78.004505!16s%2Fg%2F11j042fgkm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.32204,
+      "lng": 78.004505,
+      "label": "SUDHA MEDICAL & DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "synergy-institute-of-medical-sciences-dehradun",
+    "name": "Synergy Institute of Medical Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dehradun, Synergy Institute of Medical Sciences delivers integrated care across General Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0135 222 6000",
+    "alternatePhone": "",
+    "website": "http://synergyhealthcare.in/",
+    "address": "Canal Rd, Ballupur Chowk, P.O, Ballupur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Ballupur",
+    "landmark": "P.O",
+    "emergencyContact": "0135 222 6000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Synergy+Institute+of+Medical+Sciences/@30.3376537,78.0139069,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a06b4301195:0x7a8d8a16414d26bb!8m2!3d30.3376537!4d78.0139069!16s%2Fg%2F11f1jwqgx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Synergy+Institute+of+Medical+Sciences/@30.3376537,78.0139069,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a06b4301195:0x7a8d8a16414d26bb!8m2!3d30.3376537!4d78.0139069!16s%2Fg%2F11f1jwqgx0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3376537,
+      "lng": 78.0139069,
+      "label": "Synergy Institute of Medical Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tara-dental-care-dehradun",
+    "name": "Tara Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tara Dental Care has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093599 09892",
+    "alternatePhone": "",
+    "website": "",
+    "address": "485, Dharampur Rd, next to भारतीय स्टेट बैंक, Saket Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dharampur",
+    "landmark": "next to भारतीय स्टेट बैंक",
+    "emergencyContact": "093599 09892",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Tara+Dental+Care/@30.3002712,78.0497026,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a77d5cad31:0xec8e1b6343b01168!8m2!3d30.3002712!4d78.0497026!16s%2Fg%2F1thn3wz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tara+Dental+Care/@30.3002712,78.0497026,17z/data=!3m1!4b1!4m6!3m5!1s0x390929a77d5cad31:0xec8e1b6343b01168!8m2!3d30.3002712!4d78.0497026!16s%2Fg%2F1thn3wz4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3002712,
+      "lng": 78.0497026,
+      "label": "Tara Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dental-oasis-dehradun",
+    "name": "The Dental Oasis",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Dehradun, The Dental Oasis offers coordinated hospital care with major focus on Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095284 01791",
+    "alternatePhone": "",
+    "website": "",
+    "address": "291/272, Street Number 7, near rana farms, Rajender Nagar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Rajender Nagar",
+    "landmark": "near rana farms, Rajender Nagar, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "095284 01791",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dental+Oasis/@30.3381896,78.0205586,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e829a9ebeb:0xe8c8e4f7761de7f5!8m2!3d30.3381896!4d78.0205586!16s%2Fg%2F11mrmyh2p0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dental+Oasis/@30.3381896,78.0205586,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e829a9ebeb:0xe8c8e4f7761de7f5!8m2!3d30.3381896!4d78.0205586!16s%2Fg%2F11mrmyh2p0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3381896,
+      "lng": 78.0205586,
+      "label": "The Dental Oasis",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-fairy-kids-and-family-dental-care-dehradun",
+    "name": "Tooth Fairy kids & Family Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tooth Fairy kids & Family Dental Care is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095288 75891",
+    "alternatePhone": "",
+    "website": "https://drshabistajabi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "chowk, near Pathri bagh, opp. SLV Inter college, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Patel Nagar",
+    "landmark": "near Pathri bagh, opp. SLV Inter college, Patel Nagar, Dehradun, Uttarakhand 248001",
+    "emergencyContact": "095288 75891",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Fairy+kids+%26+Family+Dental+Care/@30.3034443,78.0289262,17z/data=!3m1!4b1!4m6!3m5!1s0x39092923e5e8436f:0xb365bde6a229c333!8m2!3d30.3034443!4d78.0289262!16s%2Fg%2F11tjzrft87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Fairy+kids+%26+Family+Dental+Care/@30.3034443,78.0289262,17z/data=!3m1!4b1!4m6!3m5!1s0x39092923e5e8436f:0xb365bde6a229c333!8m2!3d30.3034443!4d78.0289262!16s%2Fg%2F11tjzrft87?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3034443,
+      "lng": 78.0289262,
+      "label": "Tooth Fairy kids & Family Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trident-dental-clinic-best-dentist-in-dehradun-dehradun",
+    "name": "Trident Dental Clinic | Best Dentist in Dehradun",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trident Dental Clinic | Best Dentist in Dehradun has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099971 78202",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Laxmi Chowk, B-218, Nehru Colony Rd, Block B, Nehru Colony, Dharampur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Dharampur",
+    "landmark": "Nehru Colony Rd",
+    "emergencyContact": "099971 78202",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Trident+Dental+Clinic+%7C+Best+Dentist+in+Dehradun/@30.303257,78.0529433,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e52c054643:0x3e18ea494a293c90!8m2!3d30.303257!4d78.0529433!16s%2Fg%2F11mcc6cndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trident+Dental+Clinic+%7C+Best+Dentist+in+Dehradun/@30.303257,78.0529433,17z/data=!3m1!4b1!4m6!3m5!1s0x390929e52c054643:0x3e18ea494a293c90!8m2!3d30.303257!4d78.0529433!16s%2Fg%2F11mcc6cndp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.303257,
+      "lng": 78.0529433,
+      "label": "Trident Dental Clinic | Best Dentist in Dehradun",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "u-need-dental-care-clinic-dehradun",
+    "name": "u need dental care Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "u need dental care Clinic is a prominent dental clinic in Dehradun, known for structured tertiary care across Oral Surgery In Dehra Dun. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098371 88248",
+    "alternatePhone": "",
+    "website": "https://uneeddentalcare.com/",
+    "address": "21 beni bazar, Subhash Rd, opp. sachivalaya gate, Irigation Colony, Karanpur, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Karanpur",
+    "landmark": "opp. sachivalaya gate",
+    "emergencyContact": "098371 88248",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/u+need+dental+care+Clinic/@30.3316587,78.0530719,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b679885e0f:0x60b79d92e0cdc1ef!8m2!3d30.3316587!4d78.0530719!16s%2Fg%2F11trq8n2y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/u+need+dental+care+Clinic/@30.3316587,78.0530719,17z/data=!3m1!4b1!4m6!3m5!1s0x390929b679885e0f:0x60b79d92e0cdc1ef!8m2!3d30.3316587!4d78.0530719!16s%2Fg%2F11trq8n2y0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3316587,
+      "lng": 78.0530719,
+      "label": "u need dental care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "velmed-hospital-dehradun",
+    "name": "Velmed Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Dehradun, Velmed Hospital delivers integrated care across General Surgery In Dehra Dun. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0176 251 2666",
+    "alternatePhone": "",
+    "website": "https://www.indushospital.in/Velmed-Hospitals",
+    "address": "Turner Rd, Morowala, Clement Town, Dehradun, Uttarakhand 248002",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248002",
+    "locality": "Clement Town",
+    "landmark": "Clement Town",
+    "emergencyContact": "0176 251 2666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Velmed+Hospital/@30.272164,78.0077676,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0bb0f3149d:0x26b7699bb919eaac!8m2!3d30.272164!4d78.0077676!16s%2Fg%2F11f5bxm530?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Velmed+Hospital/@30.272164,78.0077676,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b0bb0f3149d:0x26b7699bb919eaac!8m2!3d30.272164!4d78.0077676!16s%2Fg%2F11f5bxm530?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.272164,
+      "lng": 78.0077676,
+      "label": "Velmed Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayak-surgical-centre-dehradun",
+    "name": "Vinayak Surgical Centre",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vinayak Surgical Centre is a prominent nursing home in Dehradun, known for structured tertiary care across General Surgery In Dehra Dun and Nursing Home. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084398 05474",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jain Complex, GMS Rd, opposite Saffron Leaf Hotel, Engineers Enclave, Kanwali, Dehradun, Uttarakhand 248171",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248171",
+    "locality": "Kanwali",
+    "landmark": "opposite Saffron Leaf Hotel, Engineers Enclave, Kanwali, Dehradun, Uttarakhand 248171",
+    "emergencyContact": "084398 05474",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Dehra Dun",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayak+Surgical+Centre/@30.3112712,78.0085778,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a23a948e9d5:0x1a3f3b3ed4fd4326!8m2!3d30.3112712!4d78.0085778!16s%2Fg%2F11dxkx0mq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayak+Surgical+Centre/@30.3112712,78.0085778,17z/data=!3m1!4b1!4m6!3m5!1s0x39092a23a948e9d5:0x1a3f3b3ed4fd4326!8m2!3d30.3112712!4d78.0085778!16s%2Fg%2F11dxkx0mq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3112712,
+      "lng": 78.0085778,
+      "label": "Vinayak Surgical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vital-dental-care-and-implant-center-dehradun",
+    "name": "Vital Dental Care & Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Dehradun, Vital Dental Care & Implant Center delivers integrated care across Oral Surgery In Dehra Dun. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092868 98353",
+    "alternatePhone": "",
+    "website": "http://vitaldentaldoon.in/",
+    "address": "Haripuram Colony, 2, GMS Rd, Engineers Enclave, Kanwali, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Kanwali",
+    "landmark": "GMS Rd",
+    "emergencyContact": "092868 98353",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vital+Dental+Care+%26+Implant+Center/@30.3076669,78.0055684,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3d48ac64fb:0x22a67ed5a56c576a!8m2!3d30.3076669!4d78.0055684!16s%2Fg%2F11yr4ddrjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vital+Dental+Care+%26+Implant+Center/@30.3076669,78.0055684,17z/data=!3m1!4b1!4m6!3m5!1s0x39092b3d48ac64fb:0x22a67ed5a56c576a!8m2!3d30.3076669!4d78.0055684!16s%2Fg%2F11yr4ddrjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3076669,
+      "lng": 78.0055684,
+      "label": "Vital Dental Care & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "wisdom-dental-clinic-dehradun",
+    "name": "WISDOM DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "WISDOM DENTAL CLINIC has built a strong reputation in Dehradun for multidisciplinary treatment pathways covering Oral Surgery In Dehra Dun and Dentist. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074548 71989",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, dental clinic, Thapliyal towers, Wisdom Dental Clinic, Sahastradhara Rd, Dehradun, Uttarakhand 248001",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "pincode": "248001",
+    "locality": "Sahastradhara Rd",
+    "landmark": "Thapliyal towers",
+    "emergencyContact": "074548 71989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Dehra Dun",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/WISDOM+DENTAL+CLINIC/@30.3322512,78.0660314,17z/data=!3m1!4b1!4m6!3m5!1s0x39092993889ac703:0x5fa8d3d85fde65bb!8m2!3d30.3322512!4d78.0660314!16s%2Fg%2F11h7z00mbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/WISDOM+DENTAL+CLINIC/@30.3322512,78.0660314,17z/data=!3m1!4b1!4m6!3m5!1s0x39092993889ac703:0x5fa8d3d85fde65bb!8m2!3d30.3322512!4d78.0660314!16s%2Fg%2F11h7z00mbg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.3322512,
+      "lng": 78.0660314,
+      "label": "WISDOM DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

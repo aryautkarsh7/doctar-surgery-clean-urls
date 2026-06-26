@@ -1,0 +1,16005 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "111-savelife-hospital-jamshedpur",
+    "name": "111 SaveLife Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose 111 SaveLife Hospital for its strength in Cancer Surgery In Jamshedpur. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082101 02212",
+    "alternatePhone": "",
+    "website": "https://111savelifehospital.com/",
+    "address": "Near Adityapur Railway Station, Adityapur - 2, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur - 2",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "082101 02212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/111+SaveLife+Hospital/@22.7810595,86.1630838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bb0d9cb50f:0x5254c6939bead623!8m2!3d22.7810595!4d86.1630838!16s%2Fg%2F1hm5twmqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/111+SaveLife+Hospital/@22.7810595,86.1630838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bb0d9cb50f:0x5254c6939bead623!8m2!3d22.7810595!4d86.1630838!16s%2Fg%2F1hm5twmqy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7810595,
+      "lng": 86.1630838,
+      "label": "111 SaveLife Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "32-smile-station-jamshedpur",
+    "name": "32 Smile Station",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, 32 Smile Station brings together specialists for Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082107 78743",
+    "alternatePhone": "",
+    "website": "",
+    "address": "K L Tower , Ground Floor, Main Road, near Bina Pani, Kadma, Jamshedpur, Jharkhand 831005",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831005",
+    "locality": "Kadma",
+    "landmark": "near Bina Pani, Kadma, Jamshedpur, Jharkhand 831005",
+    "emergencyContact": "082107 78743",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/32+Smile+Station/@22.806429,86.16158,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3029aa9471d:0x491516bffd134367!8m2!3d22.806429!4d86.16158!16s%2Fg%2F12ll2gmd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Smile+Station/@22.806429,86.16158,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3029aa9471d:0x491516bffd134367!8m2!3d22.806429!4d86.16158!16s%2Fg%2F12ll2gmd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.806429,
+      "lng": 86.16158,
+      "label": "32 Smile Station",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "abhinav-surgical-and-maternity-centre-jamshedpur",
+    "name": "Abhinav Surgical & Maternity centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Abhinav Surgical & Maternity centre brings together specialists for Gynecologist Surgery In Jamshedpur. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092797 91780",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Post Office Rd, Gaur Basti, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Mango",
+    "emergencyContact": "092797 91780",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Abhinav+Surgical+%26+Maternity+centre/@22.8184364,86.2199804,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e254174c4c43:0xfb2067f7bd0e814b!8m2!3d22.8184364!4d86.2199804!16s%2Fg%2F11bzy7mfnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Abhinav+Surgical+%26+Maternity+centre/@22.8184364,86.2199804,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e254174c4c43:0xfb2067f7bd0e814b!8m2!3d22.8184364!4d86.2199804!16s%2Fg%2F11bzy7mfnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8184364,
+      "lng": 86.2199804,
+      "label": "Abhinav Surgical & Maternity centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aditya-dental-clinic-jamshedpur",
+    "name": "Aditya Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aditya Dental Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076548 46879",
+    "alternatePhone": "",
+    "website": "",
+    "address": "House no. 175, Main Rd, opposite Bank of India, New Sitaram Dera, Bhalubasa, Jamshedpur, Jharkhand 831009",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831009",
+    "locality": "Bhalubasa",
+    "landmark": "opposite Bank of India, New Sitaram Dera, Bhalubasa, Jamshedpur, Jharkhand 831009",
+    "emergencyContact": "076548 46879",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Aditya+Dental+Clinic/@22.8033054,86.2206778,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37175919fc5:0xb4bac54c0b2e19d3!8m2!3d22.8033054!4d86.2206778!16s%2Fg%2F11yh2pmcgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aditya+Dental+Clinic/@22.8033054,86.2206778,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37175919fc5:0xb4bac54c0b2e19d3!8m2!3d22.8033054!4d86.2206778!16s%2Fg%2F11yh2pmcgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8033054,
+      "lng": 86.2206778,
+      "label": "Aditya Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advance-dental-clinic-jamshedpur",
+    "name": "Advance Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Advance Dental Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089360 46060",
+    "alternatePhone": "",
+    "website": "https://advancedentalclinic.co.in/",
+    "address": "Bhatia Colony, Uliyan, Jamshedpur, Jharkhand 831005",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831005",
+    "locality": "Uliyan",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "089360 46060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8078936,86.1603692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5875324fe5d:0xba3648b11efc7e5e!8m2!3d22.8078936!4d86.1603692!16s%2Fg%2F11j94k5q1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8078936,86.1603692,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5875324fe5d:0xba3648b11efc7e5e!8m2!3d22.8078936!4d86.1603692!16s%2Fg%2F11j94k5q1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8078936,
+      "lng": 86.1603692,
+      "label": "Advance Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advance-dental-clinic-jamshedpur",
+    "name": "Advance Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Advance Dental Clinic delivers integrated care across Oral Surgery In Jamshedpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087097 85208",
+    "alternatePhone": "",
+    "website": "https://advancedentalclinic.co.in/",
+    "address": "Road, beside hotel jagdamba Dimna, Rajendra nagar, Ulidih, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "beside hotel jagdamba Dimna, Rajendra nagar, Ulidih, Mango, Jamshedpur, Jharkhand 831012",
+    "emergencyContact": "087097 85208",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8233933,86.2186287,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a1c4ccb621:0x56a691f4bb753c5!8m2!3d22.8233933!4d86.2186287!16s%2Fg%2F11q4db9t2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Advance+Dental+Clinic/@22.8233933,86.2186287,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a1c4ccb621:0x56a691f4bb753c5!8m2!3d22.8233933!4d86.2186287!16s%2Fg%2F11q4db9t2r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8233933,
+      "lng": 86.2186287,
+      "label": "Advance Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aesthetica-maxillo-facial-and-dental-center-jamshedpur",
+    "name": "Aesthetica (Maxillo Facial & Dental Center)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aesthetica (Maxillo Facial & Dental Center) is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079034 09800",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Ayesha Merlin, Pardih Road, Chepapul, Jamshedpur, Tamlia, Jharkhand 831020",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831020",
+    "locality": "Chepapul",
+    "landmark": "Pardih Road",
+    "emergencyContact": "079034 09800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Aesthetica+(Maxillo+Facial+%26+Dental+Center)/@22.8445603,86.2019964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3967d4b97db:0xbc1b29ad48870159!8m2!3d22.8445603!4d86.2019964!16s%2Fg%2F11h_4465jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aesthetica+(Maxillo+Facial+%26+Dental+Center)/@22.8445603,86.2019964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3967d4b97db:0xbc1b29ad48870159!8m2!3d22.8445603!4d86.2019964!16s%2Fg%2F11h_4465jp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8445603,
+      "lng": 86.2019964,
+      "label": "Aesthetica (Maxillo Facial & Dental Center)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "al-senaan-dental-clinic-jamshedpur",
+    "name": "Al Senaan Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Al Senaan Dental Clinic delivers integrated care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097090 22380",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old Purulia Rd, near madina garden, Zakir Nagar, Mango, Jamshedpur, Jharkhand 832110",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "832110",
+    "locality": "Mango",
+    "landmark": "near madina garden, Zakir Nagar, Mango, Jamshedpur, Jharkhand 832110",
+    "emergencyContact": "097090 22380",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Al+Senaan+Dental+Clinic/@22.8252091,86.2008032,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bb54000aab:0x45c6180994613709!8m2!3d22.8252091!4d86.2008032!16s%2Fg%2F11g6v_1x2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Al+Senaan+Dental+Clinic/@22.8252091,86.2008032,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bb54000aab:0x45c6180994613709!8m2!3d22.8252091!4d86.2008032!16s%2Fg%2F11g6v_1x2s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8252091,
+      "lng": 86.2008032,
+      "label": "Al Senaan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "align-and-braces-dental-clinic-jamshedpur",
+    "name": "ALIGN AND BRACES DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose ALIGN AND BRACES DENTAL CLINIC for its strength in Oral Surgery In Jamshedpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078760 23195",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 34,1st Floor, market, New Kalimati Rd, above Agarwal Book Store, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "market",
+    "emergencyContact": "078760 23195",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/ALIGN+AND+BRACES+DENTAL+CLINIC/@22.8027653,86.20449,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3394001ceab:0x396db38065a985e6!8m2!3d22.8027653!4d86.20449!16s%2Fg%2F11rzbh1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ALIGN+AND+BRACES+DENTAL+CLINIC/@22.8027653,86.20449,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3394001ceab:0x396db38065a985e6!8m2!3d22.8027653!4d86.20449!16s%2Fg%2F11rzbh1h_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8027653,
+      "lng": 86.20449,
+      "label": "ALIGN AND BRACES DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ambarcare-jamshedpur",
+    "name": "AMBARCARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, AMBARCARE brings together specialists for Oral Surgery In Jamshedpur. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074886 00282",
+    "alternatePhone": "",
+    "website": "https://ambarcare.business.site/",
+    "address": "Shop No9, 1st Floor, Panaroma Centre, opposite Shitla Mandir, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "opposite Shitla Mandir, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "074886 00282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AMBARCARE/@22.8071801,86.2053604,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f857ee024b:0x43eb3c152cee1725!8m2!3d22.8071801!4d86.2053604!16s%2Fg%2F11k65x_4wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AMBARCARE/@22.8071801,86.2053604,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f857ee024b:0x43eb3c152cee1725!8m2!3d22.8071801!4d86.2053604!16s%2Fg%2F11k65x_4wh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8071801,
+      "lng": 86.2053604,
+      "label": "AMBARCARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "angik-s-dental-jamshedpur",
+    "name": "Angik's Dental",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Angik's Dental has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and Dentist. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062003 09202",
+    "alternatePhone": "",
+    "website": "https://drrichaangik.com/",
+    "address": "Steel City Nursing Home, Yashkamal Complex, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "062003 09202",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Angik's+Dental/@22.7958776,86.1844588,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a31fc12bf3:0x77717bfe409e0c6a!8m2!3d22.7958776!4d86.1844588!16s%2Fg%2F11sffqt_f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Angik's+Dental/@22.7958776,86.1844588,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a31fc12bf3:0x77717bfe409e0c6a!8m2!3d22.7958776!4d86.1844588!16s%2Fg%2F11sffqt_f2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7958776,
+      "lng": 86.1844588,
+      "label": "Angik's Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ankit-kumar-prasad-cosmetologist-and-aesthetician-best-skin-and-hair-laser-clinic-in-jamshedpur-jamshedpur",
+    "name": "Ankit Kumar Prasad- Cosmetologist & Aesthetician( Best skin & hair laser clinic in Jamshedpur)",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Ankit Kumar Prasad- Cosmetologist & Aesthetician( Best skin & hair laser clinic in Jamshedpur) brings together specialists for Plastic Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079034 91922",
+    "alternatePhone": "",
+    "website": "http://www.brlclinic.com/",
+    "address": "Shop no 3, 2nd floor, Landmark:, above White Rose Restaurant, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Landmark:",
+    "emergencyContact": "079034 91922",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ankit+Kumar+Prasad-+Cosmetologist+%26+Aesthetician(+Best+skin+%26+hair+laser+clinic+in+Jamshedpur)/@22.8066149,86.2035841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39c2e04f5c5:0x3a9ec1b1509cb64!8m2!3d22.8066149!4d86.2035841!16s%2Fg%2F11sdfwhm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ankit+Kumar+Prasad-+Cosmetologist+%26+Aesthetician(+Best+skin+%26+hair+laser+clinic+in+Jamshedpur)/@22.8066149,86.2035841,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39c2e04f5c5:0x3a9ec1b1509cb64!8m2!3d22.8066149!4d86.2035841!16s%2Fg%2F11sdfwhm1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8066149,
+      "lng": 86.2035841,
+      "label": "Ankit Kumar Prasad- Cosmetologist & Aesthetician( Best skin & hair laser clinic in Jamshedpur)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ankuram-ivf-jamshedpur-jamshedpur",
+    "name": "ANKURAM IVF | Jamshedpur",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, ANKURAM IVF | Jamshedpur offers coordinated hospital care with major focus on IVF In Jamshedpur and Fertility Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080844 45554",
+    "alternatePhone": "",
+    "website": "https://www.ankuramivf.com/",
+    "address": "2nd Floor, Meera Tower, Thakur Bari Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Thakur Bari Rd",
+    "emergencyContact": "080844 45554",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Jamshedpur/@22.8059979,86.2039576,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31975978441:0x4836bdb7654b9ea7!8m2!3d22.8059979!4d86.2039576!16s%2Fg%2F11vbqqdgb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ANKURAM+IVF+%7C+Jamshedpur/@22.8059979,86.2039576,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31975978441:0x4836bdb7654b9ea7!8m2!3d22.8059979!4d86.2039576!16s%2Fg%2F11vbqqdgb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8059979,
+      "lng": 86.2039576,
+      "label": "ANKURAM IVF | Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apex-hospital-jamshedpur",
+    "name": "Apex Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apex Hospital is a prominent hospital in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065724 32888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R656+478, Apex Hospital Rd, beside Hotel Ganga Residency, New Bardwari, Baradwari, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Baradwari",
+    "landmark": "beside Hotel Ganga Residency, New Bardwari, Baradwari, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "065724 32888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+Hospital/@22.8096551,86.2103717,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306d1e6d235:0x80407dd9f46408b3!8m2!3d22.8096551!4d86.2103717!16s%2Fg%2F119v_lk82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+Hospital/@22.8096551,86.2103717,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306d1e6d235:0x80407dd9f46408b3!8m2!3d22.8096551!4d86.2103717!16s%2Fg%2F119v_lk82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8096551,
+      "lng": 86.2103717,
+      "label": "Apex Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dental-health-care-centre-jamshedpur",
+    "name": "Apollo Dental Health Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Apollo Dental Health Care Centre offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090062 22283",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pramoth Nagar, Koyla Taal, Road, Main Road, Parsudih, Jamshedpur, Jharkhand 831002",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831002",
+    "locality": "Parsudih",
+    "landmark": "Road",
+    "emergencyContact": "090062 22283",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Health+Care+Centre/@22.7531002,86.2084045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcda7c4ad55d:0xe4377558f448b2bf!8m2!3d22.7531002!4d86.2084045!16s%2Fg%2F11bzzv5zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dental+Health+Care+Centre/@22.7531002,86.2084045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcda7c4ad55d:0xe4377558f448b2bf!8m2!3d22.7531002!4d86.2084045!16s%2Fg%2F11bzzv5zvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7531002,
+      "lng": 86.2084045,
+      "label": "Apollo Dental Health Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apurva-ishan-hospital-golmuri-jamshedpur",
+    "name": "Apurva Ishan Hospital Golmuri",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Apurva Ishan Hospital Golmuri offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065723 41212",
+    "alternatePhone": "",
+    "website": "",
+    "address": "76, Golmuri Market, 36, Golmuri Rd, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "36",
+    "emergencyContact": "065723 41212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Apurva+Ishan+Hospital+Golmuri/@22.7942456,86.2219382,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ce7e63f179:0x1dc90c807f2ca790!8m2!3d22.7942456!4d86.2219382!16s%2Fg%2F11h_4sf8jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apurva+Ishan+Hospital+Golmuri/@22.7942456,86.2219382,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ce7e63f179:0x1dc90c807f2ca790!8m2!3d22.7942456!4d86.2219382!16s%2Fg%2F11h_4sf8jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7942456,
+      "lng": 86.2219382,
+      "label": "Apurva Ishan Hospital Golmuri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashoka-dental-hospital-jamshedpur",
+    "name": "Ashoka Dental Hospital",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Ashoka Dental Hospital for its strength in Oral Surgery In Jamshedpur and Dentist. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079922 58963",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1ST FLOOR, MANSA NIKETAN, Dimna Chowk, near TRANSPORT NAGAR, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "near TRANSPORT NAGAR, Mango, Jamshedpur, Jharkhand 831012",
+    "emergencyContact": "079922 58963",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashoka+Dental+Hospital/@22.837764,86.2293528,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3183f14094b:0xdffda4961df3c816!8m2!3d22.837764!4d86.2293528!16s%2Fg%2F11k52mxxn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashoka+Dental+Hospital/@22.837764,86.2293528,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3183f14094b:0xdffda4961df3c816!8m2!3d22.837764!4d86.2293528!16s%2Fg%2F11k52mxxn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.837764,
+      "lng": 86.2293528,
+      "label": "Ashoka Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "atul-dental-care-jamshedpur",
+    "name": "ATUL DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ATUL DENTAL CARE is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094313 97968",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dayal Tower, Chandni Chowk, Haludbani, Parsudih, Jamshedpur, Jharkhand 831002",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831002",
+    "locality": "Parsudih",
+    "landmark": "Haludbani",
+    "emergencyContact": "094313 97968",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/ATUL+DENTAL+CARE/@22.755738,86.2154591,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcd7dee6ac3d:0x3ada2a7fe8c73fde!8m2!3d22.755738!4d86.2154591!16s%2Fg%2F11bzznwvw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ATUL+DENTAL+CARE/@22.755738,86.2154591,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcd7dee6ac3d:0x3ada2a7fe8c73fde!8m2!3d22.755738!4d86.2154591!16s%2Fg%2F11bzznwvw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.755738,
+      "lng": 86.2154591,
+      "label": "ATUL DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "awadh-dental-college-and-hospital-jamshedpur",
+    "name": "Awadh Dental College And Hospital",
+    "type": "College",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Awadh Dental College And Hospital is a prominent college in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur and College. Hospital capacity markers such as Google rating 3.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094715 13504",
+    "alternatePhone": "",
+    "website": "https://awadhdentalcollege.com/",
+    "address": "R7H4+M6Q, NH-33, Danga, P.O. Bhilaipahar, NH 18, Jamshedpur, Deoghar, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "NH 18",
+    "landmark": "Danga",
+    "emergencyContact": "094715 13504",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "College"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Awadh+Dental+College+And+Hospital/@22.8293003,86.2556392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2762f218c59:0x428027f3764eaf3c!8m2!3d22.8293003!4d86.2556392!16s%2Fg%2F1tfk2vln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Awadh+Dental+College+And+Hospital/@22.8293003,86.2556392,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2762f218c59:0x428027f3764eaf3c!8m2!3d22.8293003!4d86.2556392!16s%2Fg%2F1tfk2vln?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8293003,
+      "lng": 86.2556392,
+      "label": "Awadh Dental College And Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bel-patra-dental-jamshedpur",
+    "name": "Bel Patra Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bel Patra Dental has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079093 93008",
+    "alternatePhone": "",
+    "website": "https://www.belpatradental.in/",
+    "address": "Shop No. 25, Maple Complex, near Vijaya Gardens Road, Vijaya Gardens, Baridih, Jamshedpur, Jharkhand 831017",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831017",
+    "locality": "Baridih",
+    "landmark": "near Vijaya Gardens Road, Vijaya Gardens, Baridih, Jamshedpur, Jharkhand 831017",
+    "emergencyContact": "079093 93008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bel+Patra+Dental/@22.7953724,86.2559906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e356255f4267:0xa11cab3024fb0ca!8m2!3d22.7953724!4d86.2559906!16s%2Fg%2F11tn64zqvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bel+Patra+Dental/@22.7953724,86.2559906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e356255f4267:0xa11cab3024fb0ca!8m2!3d22.7953724!4d86.2559906!16s%2Fg%2F11tn64zqvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7953724,
+      "lng": 86.2559906,
+      "label": "Bel Patra Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhavya-dental-care-jamshedpur",
+    "name": "Bhavya Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Bhavya Dental Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur and Dentist. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092043 99926",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q5Q5+PGW, S Type, chowk, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "chowk",
+    "emergencyContact": "092043 99926",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Bhavya+Dental+Care/@22.789356,86.158817,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e495ec5e1f43:0x2043201f4259a027!8m2!3d22.789356!4d86.158817!16s%2Fg%2F11t6jsm1vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhavya+Dental+Care/@22.789356,86.158817,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e495ec5e1f43:0x2043201f4259a027!8m2!3d22.789356!4d86.158817!16s%2Fg%2F11t6jsm1vx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.789356,
+      "lng": 86.158817,
+      "label": "Bhavya Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bishnu-health-clinic-adityapur-jamshedpur-13",
+    "name": "Bishnu Health Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bishnu Health Clinic is a prominent medical clinic in Adityapur Jamshedpur 13, known for structured tertiary care across Laparoscopic Surgery In Jamshedpur. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Holiday Inn, Ground Floor, Besides Relaince Fresh, Adityapur Jamshedpur 13, Jharkhand 831013",
+    "city": "Adityapur Jamshedpur 13",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Besides Relaince Fresh",
+    "landmark": "Besides Relaince Fresh",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Bishnu+Health+Clinic/@22.7872122,86.1686002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53399447195:0x81d1e6b326c42baf!8m2!3d22.7872122!4d86.1686002!16s%2Fg%2F11jr__jz9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bishnu+Health+Clinic/@22.7872122,86.1686002,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53399447195:0x81d1e6b326c42baf!8m2!3d22.7872122!4d86.1686002!16s%2Fg%2F11jr__jz9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7872122,
+      "lng": 86.1686002,
+      "label": "Bishnu Health Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brahmananda-hospitality-services-jamshedpur",
+    "name": "Brahmananda Hospitality Services",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Jamshedpur, Brahmananda Hospitality Services delivers integrated care across Heart Surgery In Jamshedpur. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BRAHMANANDA NAGAR, TAMOLIYA, Jamshedpur, Tamlia, Jharkhand 831020",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831020",
+    "locality": "TAMOLIYA",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Brahmananda+Hospitality+Services/@22.8485888,86.1918188,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e6207998ed:0x5fcf832f7711e0ed!8m2!3d22.8485888!4d86.1918188!16s%2Fg%2F11by_myvwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brahmananda+Hospitality+Services/@22.8485888,86.1918188,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e6207998ed:0x5fcf832f7711e0ed!8m2!3d22.8485888!4d86.1918188!16s%2Fg%2F11by_myvwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8485888,
+      "lng": 86.1918188,
+      "label": "Brahmananda Hospitality Services",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "centre-for-dental-care-jamshedpur",
+    "name": "Centre for Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Centre for Dental Care for its strength in Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "065724 33794",
+    "alternatePhone": "",
+    "website": "",
+    "address": "97, Thakur Bari Rd, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "SNP Area",
+    "emergencyContact": "065724 33794",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Centre+for+Dental+Care/@22.8083963,86.2053645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e308a4094491:0x17bf0f66c1e6ab1e!8m2!3d22.8083963!4d86.2053645!16s%2Fg%2F124ybsvsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Centre+for+Dental+Care/@22.8083963,86.2053645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e308a4094491:0x17bf0f66c1e6ab1e!8m2!3d22.8083963!4d86.2053645!16s%2Fg%2F124ybsvsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8083963,
+      "lng": 86.2053645,
+      "label": "Centre for Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandra-medicare-jamshedpur",
+    "name": "chandra medicare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, chandra medicare offers coordinated hospital care with major focus on Laparoscopic Surgery In Jamshedpur. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065722 20449",
+    "alternatePhone": "",
+    "website": "",
+    "address": "60, New Bardwari, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Sakchi",
+    "emergencyContact": "065722 20449",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/chandra+medicare/@22.8082163,86.2120578,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ae476ca415:0x86bd5828973f5aa!8m2!3d22.8082163!4d86.2120578!16s%2Fg%2F11g19jq0vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/chandra+medicare/@22.8082163,86.2120578,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ae476ca415:0x86bd5828973f5aa!8m2!3d22.8082163!4d86.2120578!16s%2Fg%2F11g19jq0vv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8082163,
+      "lng": 86.2120578,
+      "label": "chandra medicare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "complete-health-care-jamshedpur",
+    "name": "Complete Health Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Complete Health Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094703 15095",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zafar Mahal, opp. Mango Thana, Azad Nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Azad Nagar",
+    "emergencyContact": "094703 15095",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Complete+Health+Care/@22.8294187,86.2110153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b3d902905d:0x3e6a842a2de04de8!8m2!3d22.8294187!4d86.2110153!16s%2Fg%2F11c0r5m1jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Complete+Health+Care/@22.8294187,86.2110153,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b3d902905d:0x3e6a842a2de04de8!8m2!3d22.8294187!4d86.2110153!16s%2Fg%2F11c0r5m1jc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8294187,
+      "lng": 86.2110153,
+      "label": "Complete Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "daya-hospital-jamshedpur",
+    "name": "DAYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, DAYA HOSPITAL offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 3.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082981 50150",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Azad Nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "082981 50150",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/DAYA+HOSPITAL/@22.8283253,86.2116426,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b22ff21881:0x5752c2e9f64a7130!8m2!3d22.8283253!4d86.2116426!16s%2Fg%2F11c6w0bbjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DAYA+HOSPITAL/@22.8283253,86.2116426,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b22ff21881:0x5752c2e9f64a7130!8m2!3d22.8283253!4d86.2116426!16s%2Fg%2F11c6w0bbjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8283253,
+      "lng": 86.2116426,
+      "label": "DAYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-and-cosmo-care-jamshedpur",
+    "name": "Dental & Cosmo Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Dental & Cosmo Care delivers integrated care across Oral Surgery In Jamshedpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Imperial Bank Area, 2, Contractors Area, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Contractors Area",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+%26+Cosmo+Care/@22.7986149,86.1811306,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3943dd3aea3:0x42cdd772ef405e0e!8m2!3d22.7986149!4d86.1811306!16s%2Fg%2F11x80m75st?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+%26+Cosmo+Care/@22.7986149,86.1811306,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3943dd3aea3:0x42cdd772ef405e0e!8m2!3d22.7986149!4d86.1811306!16s%2Fg%2F11x80m75st?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7986149,
+      "lng": 86.1811306,
+      "label": "Dental & Cosmo Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-and-orthodontic-center-jamshedpur",
+    "name": "Dental Care and Orthodontic Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Care and Orthodontic Center has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and Orthopaedics. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089827 89986",
+    "alternatePhone": "",
+    "website": "https://dentalcareorthodontic.in/",
+    "address": "1st Floor, PM Mall, Tank Rd, beside Shitla Mata Mandir, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "beside Shitla Mata Mandir, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "089827 89986",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care+and+Orthodontic+Center/@22.806698,86.2054809,17z/data=!3m1!4b1!4m6!3m5!1s0x6e7784c00ee822b:0x84427756676d1087!8m2!3d22.806698!4d86.2054809!16s%2Fg%2F11wppm121b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care+and+Orthodontic+Center/@22.806698,86.2054809,17z/data=!3m1!4b1!4m6!3m5!1s0x6e7784c00ee822b:0x84427756676d1087!8m2!3d22.806698!4d86.2054809!16s%2Fg%2F11wppm121b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.806698,
+      "lng": 86.2054809,
+      "label": "Dental Care and Orthodontic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-hub-dental-clinic-in-jamshedpur-jamshedpur",
+    "name": "Dental Hub - Dental Clinic in Jamshedpur",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Dental Hub - Dental Clinic in Jamshedpur offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082354 50001",
+    "alternatePhone": "",
+    "website": "https://www.dental-hub.in/",
+    "address": "First floor,7, Shrivalli, Rd Number 3, Contractors Area, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Shrivalli",
+    "emergencyContact": "082354 50001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Hub+-+Dental+Clinic+in+Jamshedpur/@22.7978177,86.1779166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3653e96fd51:0x87d1a99250f1802c!8m2!3d22.7978177!4d86.1779166!16s%2Fg%2F11c0w0g5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Hub+-+Dental+Clinic+in+Jamshedpur/@22.7978177,86.1779166,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3653e96fd51:0x87d1a99250f1802c!8m2!3d22.7978177!4d86.1779166!16s%2Fg%2F11c0w0g5tp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7978177,
+      "lng": 86.1779166,
+      "label": "Dental Hub - Dental Clinic in Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-orion-jamshedpur",
+    "name": "Dental Orion",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Jamshedpur, Dental Orion delivers integrated care across Oral Surgery In Jamshedpur and Dentist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070339 62582",
+    "alternatePhone": "",
+    "website": "http://www.dental-orion.com/",
+    "address": "Shop No.: 7, Krishna Complex, DB Rd, opp. Vishwakarma Mandir, Naya Bazar, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831006",
+    "locality": "Jugsalai",
+    "landmark": "DB Rd",
+    "emergencyContact": "070339 62582",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Orion/@22.7714278,86.1844725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36514723161:0xe473d41f5d84861a!8m2!3d22.7714278!4d86.1844725!16s%2Fg%2F11h818ph52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Orion/@22.7714278,86.1844725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36514723161:0xe473d41f5d84861a!8m2!3d22.7714278!4d86.1844725!16s%2Fg%2F11h818ph52?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7714278,
+      "lng": 86.1844725,
+      "label": "Dental Orion",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-park-fresh-smile-jamshedpur",
+    "name": "Dental Park Fresh Smile",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Park Fresh Smile has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070919 40809",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Baradwari Auto stand Kasidih Auto stand, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Baradwari Auto stand Kasidih Auto stand",
+    "landmark": "Jharkhand 831001",
+    "emergencyContact": "070919 40809",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Park+Fresh+Smile/@22.8045496,86.2125726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fd0c033f2f:0x7907832e7d885b83!8m2!3d22.8045496!4d86.2125726!16s%2Fg%2F11d_71fphp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Park+Fresh+Smile/@22.8045496,86.2125726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fd0c033f2f:0x7907832e7d885b83!8m2!3d22.8045496!4d86.2125726!16s%2Fg%2F11d_71fphp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8045496,
+      "lng": 86.2125726,
+      "label": "Dental Park Fresh Smile",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-point-jamshedpur",
+    "name": "Dental Point",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Dental Point offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098979 38802",
+    "alternatePhone": "",
+    "website": "",
+    "address": "TOWER, MEDICAL LINE, Central Ave, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Central Ave",
+    "emergencyContact": "098979 38802",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Point/@22.8049853,86.1880785,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8076c6755:0x74ed6233a6f32984!8m2!3d22.8049853!4d86.1880785!16s%2Fg%2F11vzcjtyz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Point/@22.8049853,86.1880785,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8076c6755:0x74ed6233a6f32984!8m2!3d22.8049853!4d86.1880785!16s%2Fg%2F11vzcjtyz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8049853,
+      "lng": 86.1880785,
+      "label": "Dental Point",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-spa-laser-implants-and-orthodontic-centre-jamshedpur",
+    "name": "Dental Spa (Laser, Implants and Orthodontic Centre)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Spa (Laser, Implants and Orthodontic Centre) has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and Orthopaedics. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070335 40505",
+    "alternatePhone": "",
+    "website": "",
+    "address": "59, in front of People's Academy School, New Bardwari, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "New Bardwari",
+    "emergencyContact": "070335 40505",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Spa+(Laser,+Implants+and+Orthodontic+Centre)/@22.8084308,86.2122767,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3016f2cca9d:0x87ea86ead2076b46!8m2!3d22.8084308!4d86.2122767!16s%2Fg%2F11g_zdm59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Spa+(Laser,+Implants+and+Orthodontic+Centre)/@22.8084308,86.2122767,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3016f2cca9d:0x87ea86ead2076b46!8m2!3d22.8084308!4d86.2122767!16s%2Fg%2F11g_zdm59?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8084308,
+      "lng": 86.2122767,
+      "label": "Dental Spa (Laser, Implants and Orthodontic Centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-treatment-and-mouth-care-centre-jamshedpur",
+    "name": "Dental Treatment & Mouth Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Dental Treatment & Mouth Care Centre delivers integrated care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065729 03849",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5, Kumar Complex, Kagal Nagar, Sonari, Jamshedpur - 831011, behind Petrol Pump, Kagal Nagar, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "Kagal Nagar",
+    "emergencyContact": "065729 03849",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Treatment+%26+Mouth+Care+Centre/@22.8214067,86.1663818,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47adc5bde63:0x51b70cc0fc56cd5d!8m2!3d22.8214067!4d86.1663818!16s%2Fg%2F1hm53r9p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Treatment+%26+Mouth+Care+Centre/@22.8214067,86.1663818,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47adc5bde63:0x51b70cc0fc56cd5d!8m2!3d22.8214067!4d86.1663818!16s%2Fg%2F1hm53r9p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8214067,
+      "lng": 86.1663818,
+      "label": "Dental Treatment & Mouth Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-villa-jamshedpur",
+    "name": "Dental Villa",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Dental Villa for its strength in Oral Surgery In Jamshedpur and Dentist. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080926 65618",
+    "alternatePhone": "",
+    "website": "http://www.dentalvilla.org/",
+    "address": "beside Indralok Hotel, near bengal club, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "near bengal club, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "080926 65618",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Villa/@22.8070529,86.1995726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339d57c7be3:0x7c21887cabca908f!8m2!3d22.8070529!4d86.1995726!16s%2Fg%2F11h64y9jr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Villa/@22.8070529,86.1995726,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339d57c7be3:0x7c21887cabca908f!8m2!3d22.8070529!4d86.1995726!16s%2Fg%2F11h64y9jr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8070529,
+      "lng": 86.1995726,
+      "label": "Dental Villa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-wworld-jamshedpur",
+    "name": "Dental wworld",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Dental wworld for its strength in Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080924 88060",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zone Number 1/B, Telco Colony, Jamshedpur, Jharkhand 831004",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831004",
+    "locality": "Telco Colony",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "080924 88060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+wworld/@22.7841873,86.2488669,17z/data=!3m1!4b1!4m6!3m5!1s0x39f60804ce2ac09d:0x821bedc063a2010f!8m2!3d22.7841873!4d86.2488669!16s%2Fg%2F11bzq2t78p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+wworld/@22.7841873,86.2488669,17z/data=!3m1!4b1!4m6!3m5!1s0x39f60804ce2ac09d:0x821bedc063a2010f!8m2!3d22.7841873!4d86.2488669!16s%2Fg%2F11bzq2t78p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7841873,
+      "lng": 86.2488669,
+      "label": "Dental wworld",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "emergency-and-trauma-care-24-7-ambulance-service-narayana-hospital-jamshedpur-jamshedpur",
+    "name": "Emergency & Trauma Care | 24/7 Ambulance Service | Narayana Hospital, Jamshedpur",
+    "type": "Emergency Care Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Emergency & Trauma Care | 24/7 Ambulance Service | Narayana Hospital, Jamshedpur is a prominent emergency care service in Jamshedpur, known for structured tertiary care across Heart Surgery In Jamshedpur and Emergency Care Service. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080660 46073",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH-33, near Pardih Chowk, Tamolia, Jamshedpur, Tamlia, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Tamolia",
+    "landmark": "near Pardih Chowk, Tamolia, Jamshedpur, Tamlia, Jharkhand 831012",
+    "emergencyContact": "080660 46073",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur",
+      "Emergency Care Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Emergency+%26+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Jamshedpur/@22.8483007,86.1921513,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e91597d565:0xd9d2f8b611b6acee!8m2!3d22.8483007!4d86.1921513!16s%2Fg%2F11vwqv1wxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Emergency+%26+Trauma+Care+%7C+24%2F7+Ambulance+Service+%7C+Narayana+Hospital,+Jamshedpur/@22.8483007,86.1921513,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3e91597d565:0xd9d2f8b611b6acee!8m2!3d22.8483007!4d86.1921513!16s%2Fg%2F11vwqv1wxq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8483007,
+      "lng": 86.1921513,
+      "label": "Emergency & Trauma Care | 24/7 Ambulance Service | Narayana Hospital, Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gandhi-s-clinic-jamshedpur",
+    "name": "Gandhi’s Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Gandhi’s Clinic offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Its infrastructure includes Google rating 2.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q636+RP3, Unnamed Road, Bistupur, Jamshedpur, Jharkhand 831002",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831002",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Gandhi%E2%80%99s+Clinic/@22.7545059,86.2117851,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a3c410fa3b:0x5974fa1264b2640c!8m2!3d22.7545059!4d86.2117851!16s%2Fg%2F11j0jb70sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gandhi%E2%80%99s+Clinic/@22.7545059,86.2117851,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3a3c410fa3b:0x5974fa1264b2640c!8m2!3d22.7545059!4d86.2117851!16s%2Fg%2F11j0jb70sy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7545059,
+      "lng": 86.2117851,
+      "label": "Gandhi’s Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ganga-memorial-hospital-jamshedpur",
+    "name": "Ganga Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ganga Memorial Hospital is a prominent hospital in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R6JF+2FW, Dimna Rd, Kukudungri, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Kukudungri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Ganga+Memorial+Hospital/@22.830112,86.2237106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e99a23f5d:0xb05372408b6232ca!8m2!3d22.830112!4d86.2237106!16s%2Fg%2F1264qhffq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ganga+Memorial+Hospital/@22.830112,86.2237106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e99a23f5d:0xb05372408b6232ca!8m2!3d22.830112!4d86.2237106!16s%2Fg%2F1264qhffq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.830112,
+      "lng": 86.2237106,
+      "label": "Ganga Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "guru-nanak-hospital-jamshedpur",
+    "name": "Guru Nanak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Guru Nanak Hospital has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Laparoscopic Surgery In Jamshedpur. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "065723 64108",
+    "alternatePhone": "",
+    "website": "http://www.gurunanakhospitaljsr.com/",
+    "address": "Ramkrishna Colony, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "065723 64108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Guru+Nanak+Hospital/@22.8244252,86.2115397,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3adee7ef9a5:0xcdcaa0b7a8d3ef98!8m2!3d22.8244252!4d86.2115397!16s%2Fg%2F11csb152gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Guru+Nanak+Hospital/@22.8244252,86.2115397,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3adee7ef9a5:0xcdcaa0b7a8d3ef98!8m2!3d22.8244252!4d86.2115397!16s%2Fg%2F11csb152gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8244252,
+      "lng": 86.2115397,
+      "label": "Guru Nanak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healthy-smile-jamshedpur",
+    "name": "Healthy Smile",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Healthy Smile is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080922 50003",
+    "alternatePhone": "",
+    "website": "http://www.healthy-smile.in/",
+    "address": "Shop No.141, 3rd Floor, kamani Centre, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "kamani Centre",
+    "emergencyContact": "080922 50003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Healthy+Smile/@22.793141,86.183517,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e366594d1dfd:0x50ebd187f2275e79!8m2!3d22.793141!4d86.183517!16s%2Fg%2F11clwlkcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healthy+Smile/@22.793141,86.183517,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e366594d1dfd:0x50ebd187f2275e79!8m2!3d22.793141!4d86.183517!16s%2Fg%2F11clwlkcct?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.793141,
+      "lng": 86.183517,
+      "label": "Healthy Smile",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healthy-smile-jamshedpur",
+    "name": "Healthy Smile",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Healthy Smile offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065722 93000",
+    "alternatePhone": "",
+    "website": "http://www.healthy-smile.in/",
+    "address": "Marwari Para, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831006",
+    "locality": "Jugsalai",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "065722 93000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Healthy+Smile/@22.7740573,86.1853801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34e2aafbc91:0x7c600f233056d644!8m2!3d22.7740573!4d86.1853801!16s%2Fg%2F11b7jgg326?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healthy+Smile/@22.7740573,86.1853801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34e2aafbc91:0x7c600f233056d644!8m2!3d22.7740573!4d86.1853801!16s%2Fg%2F11b7jgg326?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7740573,
+      "lng": 86.1853801,
+      "label": "Healthy Smile",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heart-surgery-jamshedpur",
+    "name": "Heart Surgery",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Heart Surgery brings together specialists for Laparoscopic Surgery In Jamshedpur and Cardiac Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089693 34410",
+    "alternatePhone": "",
+    "website": "http://www.heartsurgery.in/contact.php",
+    "address": "151, 152, Dhalbhum Road, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Dhalbhum Road",
+    "emergencyContact": "089693 34410",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jamshedpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Heart+Surgery/@22.8103197,86.2038766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30859d05a91:0xa44de1011f4fb34b!8m2!3d22.8103197!4d86.2038766!16s%2Fg%2F11rn3z16qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Heart+Surgery/@22.8103197,86.2038766,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30859d05a91:0xa44de1011f4fb34b!8m2!3d22.8103197!4d86.2038766!16s%2Fg%2F11rn3z16qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8103197,
+      "lng": 86.2038766,
+      "label": "Heart Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "holy-care-hospital-and-research-centre-jamshedpur",
+    "name": "Holy Care Hospital & research centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Holy Care Hospital & research centre is a prominent hospital in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094315 19193",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R637+P94 Kashidih, Bagan Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Sakchi",
+    "emergencyContact": "094315 19193",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Holy+Care+Hospital+%26+research+centre/@22.8043079,86.2134647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3022d4de427:0x8493c27a4ab28298!8m2!3d22.8043079!4d86.2134647!16s%2Fg%2F11fx8qz2yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Holy+Care+Hospital+%26+research+centre/@22.8043079,86.2134647,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3022d4de427:0x8493c27a4ab28298!8m2!3d22.8043079!4d86.2134647!16s%2Fg%2F11fx8qz2yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8043079,
+      "lng": 86.2134647,
+      "label": "Holy Care Hospital & research centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ilysha-dental-care-jamshedpur",
+    "name": "ILYSHA DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, ILYSHA DENTAL CARE brings together specialists for Oral Surgery In Jamshedpur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098011 16665",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 19, Howrah Bakery Lane, A Block, Dhatkidih, Jamshedpur, Jharkhand 831005",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831005",
+    "locality": "Dhatkidih",
+    "landmark": "A Block",
+    "emergencyContact": "098011 16665",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/ILYSHA+DENTAL+CARE/@22.8026665,86.1784427,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37cbfffffff:0x3cc83970da38d25f!8m2!3d22.8026665!4d86.1784427!16s%2Fg%2F11f5h2npg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ILYSHA+DENTAL+CARE/@22.8026665,86.1784427,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37cbfffffff:0x3cc83970da38d25f!8m2!3d22.8026665!4d86.1784427!16s%2Fg%2F11f5h2npg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8026665,
+      "lng": 86.1784427,
+      "label": "ILYSHA DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-jamshedpur-best-ivf-centre-jamshedpur",
+    "name": "Indira IVF Fertility Centre in Jamshedpur - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Indira IVF Fertility Centre in Jamshedpur - Best IVF Centre brings together specialists for IVF In Jamshedpur and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3pS46jv",
+    "address": "First Floor, dayal trade center, Tata Kandra Rd, Dindly Basti, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Tata Kandra Rd",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jamshedpur+-+Best+IVF+Centre/@22.7868023,86.1630789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5efd48c71184b:0x36099419b2a2ea8a!8m2!3d22.7868023!4d86.1630789!16s%2Fg%2F11fkt7h8j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Jamshedpur+-+Best+IVF+Centre/@22.7868023,86.1630789,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5efd48c71184b:0x36099419b2a2ea8a!8m2!3d22.7868023!4d86.1630789!16s%2Fg%2F11fkt7h8j4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7868023,
+      "lng": 86.1630789,
+      "label": "Indira IVF Fertility Centre in Jamshedpur - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jamshedpur-dental-hospital-jamshedpur",
+    "name": "Jamshedpur Dental Hospital",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jamshedpur Dental Hospital has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and Dentist. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094311 81269",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Taj Building, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Ambagan",
+    "emergencyContact": "094311 81269",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jamshedpur+Dental+Hospital/@22.8065824,86.2038369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f2e364a45:0x24a2f6cd6205644b!8m2!3d22.8065824!4d86.2038369!16s%2Fg%2F11dzt20f2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jamshedpur+Dental+Hospital/@22.8065824,86.2038369,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f2e364a45:0x24a2f6cd6205644b!8m2!3d22.8065824!4d86.2038369!16s%2Fg%2F11dzt20f2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8065824,
+      "lng": 86.2038369,
+      "label": "Jamshedpur Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jfec-and-sparsh-ivf-center-jamshedpur",
+    "name": "JFEC & Sparsh IVF Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose JFEC & Sparsh IVF Center for its strength in IVF In Jamshedpur and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099733 73555",
+    "alternatePhone": "",
+    "website": "https://jfecsparshivf.com/",
+    "address": "509-510, 5th Floor, Akashdeep Plaza, Golmuri Rd, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri Rd",
+    "landmark": "Akashdeep Plaza",
+    "emergencyContact": "099733 73555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JFEC+%26+Sparsh+IVF+Center/@22.7953003,86.2240879,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2e7f9f71557:0x70bc325004ffb068!8m2!3d22.7953003!4d86.2240879!16s%2Fg%2F11hbtjbmzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JFEC+%26+Sparsh+IVF+Center/@22.7953003,86.2240879,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2e7f9f71557:0x70bc325004ffb068!8m2!3d22.7953003!4d86.2240879!16s%2Fg%2F11hbtjbmzb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7953003,
+      "lng": 86.2240879,
+      "label": "JFEC & Sparsh IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jiva-ayurveda-clinic-bistupur-jamshedpur-jamshedpur",
+    "name": "Jiva Ayurveda Clinic, Bistupur, Jamshedpur",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jiva Ayurveda Clinic, Bistupur, Jamshedpur has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Jamshedpur. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093114 01964",
+    "alternatePhone": "",
+    "website": "https://clinics.jiva.com/jiva-ayurveda-clinic-bistupur-jamshedpur-ayurvedic-clinic-bistupur-jamshedpur-328935/Home?utm_source=locator&utm_medium=googleplaces",
+    "address": "1st Floor, Yashkamal Complex, near Steel City Hospital, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "near Steel City Hospital, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "093114 01964",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Bistupur,+Jamshedpur/@22.7958917,86.1842345,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee3539b3b3:0xb81d728fed6d11e7!8m2!3d22.7958917!4d86.1842345!16s%2Fg%2F11f61gk6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Bistupur,+Jamshedpur/@22.7958917,86.1842345,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee3539b3b3:0xb81d728fed6d11e7!8m2!3d22.7958917!4d86.1842345!16s%2Fg%2F11f61gk6f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7958917,
+      "lng": 86.1842345,
+      "label": "Jiva Ayurveda Clinic, Bistupur, Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalpa-skin-care-jamshedpur",
+    "name": "Kalpa Skin Care",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kalpa Skin Care has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Plastic Surgery In Jamshedpur. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090317 00772",
+    "alternatePhone": "",
+    "website": "http://kalpafoundation.com/",
+    "address": "2nd Floor,36.SNP Area, Naidu Tower, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Naidu Tower",
+    "emergencyContact": "090317 00772",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kalpa+Skin+Care/@22.806411,86.2038001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee8dec3557:0xe1d558791de41f1d!8m2!3d22.806411!4d86.2038001!16s%2Fg%2F11gtyt6_sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalpa+Skin+Care/@22.806411,86.2038001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3ee8dec3557:0xe1d558791de41f1d!8m2!3d22.806411!4d86.2038001!16s%2Fg%2F11gtyt6_sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.806411,
+      "lng": 86.2038001,
+      "label": "Kalpa Skin Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamini-gorai-chikitsalay-kgc-hospital-jamshedpur",
+    "name": "KAMINI GORAI CHIKITSALAY-KGC Hospital",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose KAMINI GORAI CHIKITSALAY-KGC Hospital for its strength in Gynecologist Surgery In Jamshedpur. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082350 03200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Way to, Durga Bari, Bhatia Basti, Kadma, Jamshedpur, Jharkhand 831005",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831005",
+    "locality": "Kadma",
+    "landmark": "Bhatia Basti",
+    "emergencyContact": "082350 03200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/KAMINI+GORAI+CHIKITSALAY-KGC+Hospital/@22.8068227,86.1556988,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e48b5b297ab9:0xb3d75207e0b902d7!8m2!3d22.8068227!4d86.1556988!16s%2Fg%2F11c5_0hnqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KAMINI+GORAI+CHIKITSALAY-KGC+Hospital/@22.8068227,86.1556988,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e48b5b297ab9:0xb3d75207e0b902d7!8m2!3d22.8068227!4d86.1556988!16s%2Fg%2F11c5_0hnqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8068227,
+      "lng": 86.1556988,
+      "label": "KAMINI GORAI CHIKITSALAY-KGC Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kantilal-gandhi-memorial-hospital-jamshedpur",
+    "name": "Kantilal Gandhi Memorial Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kantilal Gandhi Memorial Hospital is a prominent private hospital in Jamshedpur, known for structured tertiary care across Cancer Surgery In Jamshedpur. Hospital capacity markers such as Google rating 2.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087971 10700",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q5PH+Q4G, Outer Cir Rd, Near Adityapur Bridge, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Near Adityapur Bridge, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "087971 10700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kantilal+Gandhi+Memorial+Hospital/@22.786939,86.177834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35e4c60ef83:0x53dab5f429a61b3f!8m2!3d22.786939!4d86.177834!16s%2Fg%2F1tds539j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kantilal+Gandhi+Memorial+Hospital/@22.786939,86.177834,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35e4c60ef83:0x53dab5f429a61b3f!8m2!3d22.786939!4d86.177834!16s%2Fg%2F1tds539j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.786939,
+      "lng": 86.177834,
+      "label": "Kantilal Gandhi Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kartar-dental-clinic-and-implant-center-jamshedpur",
+    "name": "Kartar Dental Clinic and Implant Center.",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Kartar Dental Clinic and Implant Center. offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088096 86739",
+    "alternatePhone": "",
+    "website": "",
+    "address": "E/532 A Block, East layout, A Block, Sonari Town, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "A Block",
+    "emergencyContact": "088096 86739",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kartar+Dental+Clinic+and+Implant+Center./@22.8186833,86.1660911,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e535a41a8cc9:0xb64973335ec81dd4!8m2!3d22.8186833!4d86.1660911!16s%2Fg%2F11x34v5sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kartar+Dental+Clinic+and+Implant+Center./@22.8186833,86.1660911,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e535a41a8cc9:0xb64973335ec81dd4!8m2!3d22.8186833!4d86.1660911!16s%2Fg%2F11x34v5sq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8186833,
+      "lng": 86.1660911,
+      "label": "Kartar Dental Clinic and Implant Center.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kazmi-dental-care-jamshedpur",
+    "name": "Kazmi Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kazmi Dental Care is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062043 44765",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J D Complex, Old Purulia Rd, Waris Colony, Chepapul, Mango, Jamshedpur, Jharkhand 831020",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831020",
+    "locality": "Mango",
+    "landmark": "Waris Colony",
+    "emergencyContact": "062043 44765",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kazmi+Dental+Care/@22.839835,86.2024687,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3640f2607e3:0x2ab4febfd066cc28!8m2!3d22.839835!4d86.2024687!16s%2Fg%2F11hyjd44db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kazmi+Dental+Care/@22.839835,86.2024687,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3640f2607e3:0x2ab4febfd066cc28!8m2!3d22.839835!4d86.2024687!16s%2Fg%2F11hyjd44db?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.839835,
+      "lng": 86.2024687,
+      "label": "Kazmi Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kedia-eye-and-maternity-centre-jamshedpur",
+    "name": "Kedia Eye & Maternity Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Kedia Eye & Maternity Centre offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065722 92299",
+    "alternatePhone": "",
+    "website": "https://trinetrameyehospital.in/",
+    "address": "Ground Floor, Ice Factory Complex, Ghoda Chowk, Kumar Chowk, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831006",
+    "locality": "Jugsalai",
+    "landmark": "Ghoda Chowk",
+    "emergencyContact": "065722 92299",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kedia+Eye+%26+Maternity+Centre/@22.7724669,86.1921045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35ba0e9d893:0xa40bd13e41bd5dcc!8m2!3d22.7724669!4d86.1921045!16s%2Fg%2F11f9yfqss5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kedia+Eye+%26+Maternity+Centre/@22.7724669,86.1921045,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35ba0e9d893:0xa40bd13e41bd5dcc!8m2!3d22.7724669!4d86.1921045!16s%2Fg%2F11f9yfqss5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7724669,
+      "lng": 86.1921045,
+      "label": "Kedia Eye & Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kumar-dental-clinic-jamshedpur",
+    "name": "KUMAR DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KUMAR DENTAL CLINIC is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094307 12203",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Suvidha complex, main, Rd Number 32, near underground railway bridge, Adityapur 2, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur 2",
+    "landmark": "near underground railway bridge, Adityapur 2, Jamshedpur, Jharkhand 831013",
+    "emergencyContact": "094307 12203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/KUMAR+DENTAL+CLINIC/@22.780624,86.1660068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3abf1ca2ca9:0x68fda0baf0d0ef8a!8m2!3d22.780624!4d86.1660068!16s%2Fg%2F11g6qz3_f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KUMAR+DENTAL+CLINIC/@22.780624,86.1660068,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3abf1ca2ca9:0x68fda0baf0d0ef8a!8m2!3d22.780624!4d86.1660068!16s%2Fg%2F11g6qz3_f7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.780624,
+      "lng": 86.1660068,
+      "label": "KUMAR DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kunal-dental-clinic-and-health-center-jamshedpur",
+    "name": "Kunal Dental Clinic And Health Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kunal Dental Clinic And Health Center is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091623 83777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2/1, Road No. 4, Adityapur 2, Raydih, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Adityapur 2",
+    "emergencyContact": "091623 83777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Kunal+Dental+Clinic+And+Health+Center/@22.7790554,86.1630217,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5dc2f45b471:0x3eec3ec4a0fd717!8m2!3d22.7790554!4d86.1630217!16s%2Fg%2F11pz0myghr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kunal+Dental+Clinic+And+Health+Center/@22.7790554,86.1630217,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5dc2f45b471:0x3eec3ec4a0fd717!8m2!3d22.7790554!4d86.1630217!16s%2Fg%2F11pz0myghr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7790554,
+      "lng": 86.1630217,
+      "label": "Kunal Dental Clinic And Health Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laxmi-nursing-home-jamshedpur",
+    "name": "Laxmi Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Laxmi Nursing Home has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Cardiac Surgery In Jamshedpur and Nursing Home. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092042 68924",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q7M7+PHV, Zone No -1B Q7M7+PH7 Birsanagar, Telco, Zone Number 1B, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831004",
+    "locality": "Birsanagar",
+    "landmark": "Telco",
+    "emergencyContact": "092042 68924",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Jamshedpur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Laxmi+Nursing+Home/@22.7843509,86.264994,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6081a24610be3:0x37ea9ac908d42c9b!8m2!3d22.7843509!4d86.264994!16s%2Fg%2F11c0r5cr5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laxmi+Nursing+Home/@22.7843509,86.264994,17z/data=!3m1!4b1!4m6!3m5!1s0x39f6081a24610be3:0x37ea9ac908d42c9b!8m2!3d22.7843509!4d86.264994!16s%2Fg%2F11c0r5cr5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7843509,
+      "lng": 86.264994,
+      "label": "Laxmi Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-line-nursing-home-jamshedpur",
+    "name": "Life Line Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jamshedpur, Life Line Nursing Home delivers integrated care across Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 2.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098351 81003",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Purulia Road, Rajendra Nagar, near Mahatma Gandhi Memorial (MGM) Hospital OLD BUILDING, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "near Mahatma Gandhi Memorial (MGM) Hospital OLD BUILDING, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "098351 81003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Line+Nursing+Home/@22.8092671,86.2090945,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e301101138bf:0x17cd29dd43824598!8m2!3d22.8092671!4d86.2090945!16s%2Fg%2F11rst6kb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Line+Nursing+Home/@22.8092671,86.2090945,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e301101138bf:0x17cd29dd43824598!8m2!3d22.8092671!4d86.2090945!16s%2Fg%2F11rst6kb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8092671,
+      "lng": 86.2090945,
+      "label": "Life Line Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "liu-s-dental-care-jamshedpur",
+    "name": "Liu's Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Liu's Dental Care brings together specialists for Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097893 97684",
+    "alternatePhone": "",
+    "website": "https://liusdentalcare.in/",
+    "address": "Shop no.7, Tulsi Bhawan, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "097893 97684",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Liu's+Dental+Care/@22.7982151,86.1822734,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34ff2e3c96d:0x40dad1a83b1e6633!8m2!3d22.7982151!4d86.1822734!16s%2Fg%2F11h7f8sv7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Liu's+Dental+Care/@22.7982151,86.1822734,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34ff2e3c96d:0x40dad1a83b1e6633!8m2!3d22.7982151!4d86.1822734!16s%2Fg%2F11h7f8sv7v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7982151,
+      "lng": 86.1822734,
+      "label": "Liu's Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhurekha-eye-care-centre-jamshedpur",
+    "name": "Madhurekha Eye Care Centre",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Madhurekha Eye Care Centre offers coordinated hospital care with major focus on Heart Surgery In Jamshedpur and Eye Care Center. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098357 35324",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A Block, E-501, near Sabuj Sangha Kali Puja Maidan, Sonari East, Sonari Town, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "near Sabuj Sangha Kali Puja Maidan, Sonari East, Sonari Town, Sonari, Jamshedpur, Jharkhand 831011",
+    "emergencyContact": "098357 35324",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Madhurekha+Eye+Care+Centre/@22.8189611,86.1660431,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47f18ce4969:0xa450d786b8301852!8m2!3d22.8189611!4d86.1660431!16s%2Fg%2F11gcm07_fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhurekha+Eye+Care+Centre/@22.8189611,86.1660431,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47f18ce4969:0xa450d786b8301852!8m2!3d22.8189611!4d86.1660431!16s%2Fg%2F11gcm07_fh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8189611,
+      "lng": 86.1660431,
+      "label": "Madhurekha Eye Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mango-nursing-home-jamshedpur",
+    "name": "Mango Nursing Home",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Jamshedpur, Mango Nursing Home delivers integrated care across Gynecologist Surgery In Jamshedpur. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078590 03078",
+    "alternatePhone": "",
+    "website": "http://www.mangonursinghome.in/",
+    "address": "Azad Nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "078590 03078",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mango+Nursing+Home/@22.8267271,86.2095475,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b195457037:0x69978bcb57ffc10b!8m2!3d22.8267271!4d86.2095475!16s%2Fg%2F11jzqr91y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mango+Nursing+Home/@22.8267271,86.2095475,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3b195457037:0x69978bcb57ffc10b!8m2!3d22.8267271!4d86.2095475!16s%2Fg%2F11jzqr91y6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8267271,
+      "lng": 86.2095475,
+      "label": "Mango Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maternity-opd-telco-jamshedpur",
+    "name": "Maternity OPD Telco",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Maternity OPD Telco offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065766 95601",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q794+6GW, Telco Colony, Jamshedpur, Jharkhand 831004",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831004",
+    "locality": "Telco Colony",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "065766 95601",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Maternity+OPD+Telco/@22.7681194,86.2563282,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2aaa1021691:0x71fecef6fb03d55f!8m2!3d22.7681194!4d86.2563282!16s%2Fg%2F11c2nqkk3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maternity+OPD+Telco/@22.7681194,86.2563282,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2aaa1021691:0x71fecef6fb03d55f!8m2!3d22.7681194!4d86.2563282!16s%2Fg%2F11c2nqkk3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7681194,
+      "lng": 86.2563282,
+      "label": "Maternity OPD Telco",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "max-dental-and-implant-center-jamshedpur",
+    "name": "Max Dental & Implant Center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Max Dental & Implant Center is a prominent dentist in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079031 97349",
+    "alternatePhone": "",
+    "website": "https://jsdl.in/DT-332EQK5QJCX",
+    "address": "Shop No. 9, 1st Floor, White House, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "White House",
+    "emergencyContact": "079031 97349",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7929976,86.2222001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b64ab14c5:0xa3946bc8711e25b!8m2!3d22.7929976!4d86.2222001!16s%2Fg%2F11l5t4zmk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7929976,86.2222001,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b64ab14c5:0xa3946bc8711e25b!8m2!3d22.7929976!4d86.2222001!16s%2Fg%2F11l5t4zmk1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7929976,
+      "lng": 86.2222001,
+      "label": "Max Dental & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "max-dental-and-implant-center-jamshedpur",
+    "name": "Max Dental & Implant Center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Max Dental & Implant Center for its strength in Oral Surgery In Jamshedpur and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079031 97349",
+    "alternatePhone": "",
+    "website": "https://jsdl.in/DT-332EQK5QJCX",
+    "address": "Station Rd, opposite Tapadia Complex, Ghora Chowk, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831006",
+    "locality": "Jugsalai",
+    "landmark": "opposite Tapadia Complex, Ghora Chowk, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "emergencyContact": "079031 97349",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7728338,86.1916488,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f0b31ca065:0xdefeaba3eddbac26!8m2!3d22.7728338!4d86.1916488!16s%2Fg%2F11xnmph12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Max+Dental+%26+Implant+Center/@22.7728338,86.1916488,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f0b31ca065:0xdefeaba3eddbac26!8m2!3d22.7728338!4d86.1916488!16s%2Fg%2F11xnmph12g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7728338,
+      "lng": 86.1916488,
+      "label": "Max Dental & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mayank-mrinal-hospital-jamshedpur",
+    "name": "Mayank Mrinal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Mayank Mrinal Hospital for its strength in Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "065779 63939",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dimna Rd, Adarsh Nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Mango",
+    "emergencyContact": "065779 63939",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Mayank+Mrinal+Hospital/@22.8271471,86.2232035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e4a3c540f:0xe83fab87ea97c0e8!8m2!3d22.8271471!4d86.2232035!16s%2Fg%2F1pzrd2g7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mayank+Mrinal+Hospital/@22.8271471,86.2232035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e24e4a3c540f:0xe83fab87ea97c0e8!8m2!3d22.8271471!4d86.2232035!16s%2Fg%2F1pzrd2g7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8271471,
+      "lng": 86.2232035,
+      "label": "Mayank Mrinal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicare-dental-wing-jamshedpur",
+    "name": "Medicare Dental wing",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicare Dental wing has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "065724 23916",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mangyan Palace, 12/372, behind Maruti Car Showroom, Hirasingh Bagan, Kasidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Kasidih",
+    "landmark": "behind Maruti Car Showroom",
+    "emergencyContact": "065724 23916",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Medicare+Dental+wing/@22.8044524,86.2095667,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e304603dbd7d:0x8e6f37af07c8d595!8m2!3d22.8044524!4d86.2095667!16s%2Fg%2F11bzzt0k16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicare+Dental+wing/@22.8044524,86.2095667,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e304603dbd7d:0x8e6f37af07c8d595!8m2!3d22.8044524!4d86.2095667!16s%2Fg%2F11bzzt0k16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8044524,
+      "lng": 86.2095667,
+      "label": "Medicare Dental wing",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medinova-nursing-home-best-child-care-maternity-hospital-in-jamshedpur-jamshedpur",
+    "name": "Medinova Nursing Home - Best Child Care/Maternity Hospital in Jamshedpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medinova Nursing Home - Best Child Care/Maternity Hospital in Jamshedpur is a prominent hospital in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur and Women and Child Care. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079798 94142",
+    "alternatePhone": "",
+    "website": "",
+    "address": "262, M P TOWER, Behind, HIG, New, Housing Colony, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Behind",
+    "emergencyContact": "079798 94142",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Medinova+Nursing+Home+-+Best+Child+Care%2FMaternity+Hospital+in+Jamshedpur/@22.7885758,86.1700645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e498eca31769:0x92cfe1472623218a!8m2!3d22.7885758!4d86.1700645!16s%2Fg%2F11ggvw8456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medinova+Nursing+Home+-+Best+Child+Care%2FMaternity+Hospital+in+Jamshedpur/@22.7885758,86.1700645,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e498eca31769:0x92cfe1472623218a!8m2!3d22.7885758!4d86.1700645!16s%2Fg%2F11ggvw8456?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7885758,
+      "lng": 86.1700645,
+      "label": "Medinova Nursing Home - Best Child Care/Maternity Hospital in Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medipoint-medicals-jamshedpur",
+    "name": "MediPoint Medicals",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, MediPoint Medicals offers coordinated hospital care with major focus on Heart Surgery In Jamshedpur. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065722 22288",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No 36, Geeta tower, Opp SBI Bank, 1, Kashidih Rd, near Thakur Pyarelal Puja Ground, Hirasingh Bagan, Kasidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Kasidih",
+    "landmark": "near Thakur Pyarelal Puja Ground, Hirasingh Bagan, Kasidih, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "065722 22288",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/MediPoint+Medicals/@22.8046953,86.2119654,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3039f6f78a1:0x6c35c3b1f8bd968a!8m2!3d22.8046953!4d86.2119654!16s%2Fg%2F11cnc42v7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MediPoint+Medicals/@22.8046953,86.2119654,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3039f6f78a1:0x6c35c3b1f8bd968a!8m2!3d22.8046953!4d86.2119654!16s%2Fg%2F11cnc42v7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8046953,
+      "lng": 86.2119654,
+      "label": "MediPoint Medicals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medisist-ent-and-general-hospital-jamshedpur",
+    "name": "Medisist Ent And General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Medisist Ent And General Hospital offers coordinated hospital care with major focus on Laparoscopic Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062074 23644",
+    "alternatePhone": "",
+    "website": "http://medisisthospital.com/",
+    "address": "104, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Ambagan",
+    "emergencyContact": "062074 23644",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medisist+Ent+And+General+Hospital/@22.8081678,86.2022156,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e364b9ac53b7:0x205b90c07c24dfa6!8m2!3d22.8081678!4d86.2022156!16s%2Fg%2F11s_yxnjl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medisist+Ent+And+General+Hospital/@22.8081678,86.2022156,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e364b9ac53b7:0x205b90c07c24dfa6!8m2!3d22.8081678!4d86.2022156!16s%2Fg%2F11s_yxnjl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8081678,
+      "lng": 86.2022156,
+      "label": "Medisist Ent And General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meditrina-hospital-jamshedpur",
+    "name": "Meditrina Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meditrina Hospital is a prominent heart hospital in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur and Cardiac Care. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095343 43434",
+    "alternatePhone": "",
+    "website": "http://www.meditrinahospitals.com/",
+    "address": "C2, 11, Dindli Basti, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Dindli Basti",
+    "emergencyContact": "095343 43434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Meditrina+Hospital/data=!4m7!3m6!1s0x39f5e5e05efa7d4f:0x954710c5ab847e5e!8m2!3d22.78724!4d86.1691346!16s%2Fg%2F11c6f8gl6x!19sChIJT336XuDl9TkRXn6Eq8UQR5U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meditrina+Hospital/data=!4m7!3m6!1s0x39f5e5e05efa7d4f:0x954710c5ab847e5e!8m2!3d22.78724!4d86.1691346!16s%2Fg%2F11c6f8gl6x!19sChIJT336XuDl9TkRXn6Eq8UQR5U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.78724,
+      "lng": 86.1691346,
+      "label": "Meditrina Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meherbai-tata-memorial-hospital-jamshedpur",
+    "name": "MEHERBAI TATA MEMORIAL HOSPITAL",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Jamshedpur, MEHERBAI TATA MEMORIAL HOSPITAL delivers integrated care across Oncologist Surgery In Jamshedpur and Cancer Treatment Center. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065724 27910",
+    "alternatePhone": "",
+    "website": "https://www.mtmh.co.in/",
+    "address": "Stocking Road, Northern Town Rd, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "065724 27910",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Jamshedpur",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MEHERBAI+TATA+MEMORIAL+HOSPITAL/@22.8026759,86.1814222,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3544c010121:0xa1ac50f12c53090a!8m2!3d22.8026759!4d86.1814222!16s%2Fg%2F11fnr8bx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MEHERBAI+TATA+MEMORIAL+HOSPITAL/@22.8026759,86.1814222,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3544c010121:0xa1ac50f12c53090a!8m2!3d22.8026759!4d86.1814222!16s%2Fg%2F11fnr8bx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8026759,
+      "lng": 86.1814222,
+      "label": "MEHERBAI TATA MEMORIAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mercy-hospital-jamshedpur",
+    "name": "Mercy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jamshedpur, Mercy Hospital delivers integrated care across Gynecologist Surgery In Jamshedpur. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q6XX+Q59, Medical Corridor, Tube Colony, Jamshedpur, Jharkhand 831017",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831017",
+    "locality": "Tube Colony",
+    "landmark": "Tube Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/Mercy+Hospital/@22.7994125,86.2479844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31e376c0b1f:0x7ad59895d58d0d5a!8m2!3d22.7994125!4d86.2479844!16s%2Fg%2F11j267v2x1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mercy+Hospital/@22.7994125,86.2479844,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e31e376c0b1f:0x7ad59895d58d0d5a!8m2!3d22.7994125!4d86.2479844!16s%2Fg%2F11j267v2x1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7994125,
+      "lng": 86.2479844,
+      "label": "Mercy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mg-memorial-clinic-jamshedpur",
+    "name": "MG Memorial Clinic",
+    "type": "Diabetologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MG Memorial Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Heart Surgery In Jamshedpur and Diabetologist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077177 96771",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No-3, Dayal Trade Centre, Sher-E-Punjab Chowk, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Sher-E-Punjab Chowk",
+    "emergencyContact": "077177 96771",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur",
+      "Diabetologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MG+Memorial+Clinic/@22.7869177,86.162912,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b2678945d:0x361e3f59941d4597!8m2!3d22.7869177!4d86.162912!16s%2Fg%2F11rhf8x6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MG+Memorial+Clinic/@22.7869177,86.162912,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e53b2678945d:0x361e3f59941d4597!8m2!3d22.7869177!4d86.162912!16s%2Fg%2F11rhf8x6dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7869177,
+      "lng": 86.162912,
+      "label": "MG Memorial Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "muskurahat-dental-clinic-jamshedpur",
+    "name": "Muskurahat dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Muskurahat dental clinic for its strength in Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083406 46771",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tapadia complex, Station Rd, near ghora chowk, Kumar Chowk, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831006",
+    "locality": "Jugsalai",
+    "landmark": "near ghora chowk, Kumar Chowk, Jugsalai, Jamshedpur, Jharkhand 831006",
+    "emergencyContact": "083406 46771",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Muskurahat+dental+clinic/@22.7723133,86.1912534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3521d7ea5d7:0x3236e64c0eb0f613!8m2!3d22.7723133!4d86.1912534!16s%2Fg%2F11wtqxglww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Muskurahat+dental+clinic/@22.7723133,86.1912534,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3521d7ea5d7:0x3236e64c0eb0f613!8m2!3d22.7723133!4d86.1912534!16s%2Fg%2F11wtqxglww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7723133,
+      "lng": 86.1912534,
+      "label": "Muskurahat dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nazish-dental-care-jamshedpur",
+    "name": "Nazish Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nazish Dental Care is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070044 62673",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ex 93/94, Rd Number 1, B-Block, Dhatkidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Dhatkidih",
+    "landmark": "B-Block",
+    "emergencyContact": "070044 62673",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nazish+Dental+Care/@22.8047754,86.1776953,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37c4cb5efe5:0xb0fbdb2b484b724b!8m2!3d22.8047754!4d86.1776953!16s%2Fg%2F11c0vy8nyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nazish+Dental+Care/@22.8047754,86.1776953,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37c4cb5efe5:0xb0fbdb2b484b724b!8m2!3d22.8047754!4d86.1776953!16s%2Fg%2F11c0vy8nyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8047754,
+      "lng": 86.1776953,
+      "label": "Nazish Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nehal-s-dental-clinic-best-dentist-in-bistupur-best-dental-clinic-in-bistupur-jamshedpur-jamshedpur",
+    "name": "Nehal's Dental Clinic -Best dentist in Bistupur|Best dental clinic in Bistupur jamshedpur",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Nehal's Dental Clinic -Best dentist in Bistupur|Best dental clinic in Bistupur jamshedpur offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074882 51004",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.7, Yash Kamal Complex, Opposite Natraj Mansion, Main Road, Bistupur,, Jamshedpur - 831001, Tata Hata Main Road, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Opposite Natraj Mansion, Main Road, Bistupur,, Jamshedpur - 831001, Tata Hata Main Road, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "074882 51004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Nehal's+Dental+Clinic+-Best+dentist+in+Bistupur%7CBest+dental+clinic+in+Bistupur+jamshedpur/@22.7955298,86.1843611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef61d7d7:0x86fcf0ab3ebd9e32!8m2!3d22.7955298!4d86.1843611!16s%2Fg%2F1hm1tc_g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nehal's+Dental+Clinic+-Best+dentist+in+Bistupur%7CBest+dental+clinic+in+Bistupur+jamshedpur/@22.7955298,86.1843611,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef61d7d7:0x86fcf0ab3ebd9e32!8m2!3d22.7955298!4d86.1843611!16s%2Fg%2F1hm1tc_g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7955298,
+      "lng": 86.1843611,
+      "label": "Nehal's Dental Clinic -Best dentist in Bistupur|Best dental clinic in Bistupur jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neuro-centre-neuro-and-spine-jamshedpur",
+    "name": "Neuro Centre Neuro & Spine",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neuro Centre Neuro & Spine is a prominent medical center in Jamshedpur, known for structured tertiary care across Spine Neurosurgeon In Jamshedpur, Medical Center, Neurosciences, and Spine Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092635 74120",
+    "alternatePhone": "",
+    "website": "https://neurocentremns.com/",
+    "address": "Aambagan Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Sakchi",
+    "emergencyContact": "092635 74120",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Jamshedpur",
+      "Medical Center",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Neuro+Centre+Neuro+%26+Spine/@22.8068084,86.2047887,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3001e3efcbd:0x763f0de0a20e0b74!8m2!3d22.8068084!4d86.2047887!16s%2Fg%2F11yfc_4hfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neuro+Centre+Neuro+%26+Spine/@22.8068084,86.2047887,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3001e3efcbd:0x763f0de0a20e0b74!8m2!3d22.8068084!4d86.2047887!16s%2Fg%2F11yfc_4hfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8068084,
+      "lng": 86.2047887,
+      "label": "Neuro Centre Neuro & Spine",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nu-life-jamshedpur",
+    "name": "NU-LIFE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, NU-LIFE offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082714 45401",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dindli Basti, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "082714 45401",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/NU-LIFE/@22.7885199,86.1700939,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1fff56d0f:0x8ceca245cfa85afa!8m2!3d22.7885199!4d86.1700939!16s%2Fg%2F11bz_z6ftf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NU-LIFE/@22.7885199,86.1700939,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1fff56d0f:0x8ceca245cfa85afa!8m2!3d22.7885199!4d86.1700939!16s%2Fg%2F11bz_z6ftf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7885199,
+      "lng": 86.1700939,
+      "label": "NU-LIFE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "obs-and-gynae-care-jamshedpur",
+    "name": "Obs & Gynae Care",
+    "type": "Women's Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Obs & Gynae Care is a prominent women's health clinic in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur and Women and Child Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065765 10573",
+    "alternatePhone": "",
+    "website": "",
+    "address": "103,1st Floor, Narayan Tower, Thakur Bari Rd, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Narayan Tower",
+    "emergencyContact": "065765 10573",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Obs+%26+Gynae+Care/@22.8072667,86.2050262,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f4d5106f1:0x98d35086a9a6a5f7!8m2!3d22.8072667!4d86.2050262!16s%2Fg%2F11b_22vrry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Obs+%26+Gynae+Care/@22.8072667,86.2050262,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30f4d5106f1:0x98d35086a9a6a5f7!8m2!3d22.8072667!4d86.2050262!16s%2Fg%2F11b_22vrry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8072667,
+      "lng": 86.2050262,
+      "label": "Obs & Gynae Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "omkarananda-dental-care-and-research-jamshedpur",
+    "name": "Omkarananda Dental Care & Research",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Omkarananda Dental Care & Research brings together specialists for Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089866 37327",
+    "alternatePhone": "",
+    "website": "https://omkaranandadental.com/?utm_source=gmb&utm_medium=organic",
+    "address": "Bharat Petroleum Pump, Main road Bistupur 01, First floor, Tiwary Bechar Building, opposite Softy Corner, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "opposite Softy Corner, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "089866 37327",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Omkarananda+Dental+Care+%26+Research/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365965f38a7:0x9eaea6abecd8f738!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F1tk_mpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Omkarananda+Dental+Care+%26+Research/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365965f38a7:0x9eaea6abecd8f738!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F1tk_mpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7968961,
+      "lng": 86.1845131,
+      "label": "Omkarananda Dental Care & Research",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-dental-care-jamshedpur",
+    "name": "Oral Dental Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jamshedpur, Oral Dental Care delivers integrated care across Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099343 24848",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q5QM+JCH, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "099343 24848",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Dental+Care/@22.7890746,86.1836035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36789b35ff9:0x9309a1d3b1740b2d!8m2!3d22.7890746!4d86.1836035!16s%2Fg%2F11b6ghx78x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Dental+Care/@22.7890746,86.1836035,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36789b35ff9:0x9309a1d3b1740b2d!8m2!3d22.7890746!4d86.1836035!16s%2Fg%2F11b6ghx78x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7890746,
+      "lng": 86.1836035,
+      "label": "Oral Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-dental-care-and-orthodontic-centre-jamshedpur",
+    "name": "Oral Dental Care & Orthodontic centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Oral Dental Care & Orthodontic centre delivers integrated care across Oral Surgery In Jamshedpur and Orthopaedics. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093346 41100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q5P7+QVW, Dindli Basti, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Adityapur",
+    "emergencyContact": "093346 41100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+centre/@22.786993,86.164709,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd4a0741f5:0xd91e841af98c98d6!8m2!3d22.786993!4d86.164709!16s%2Fg%2F11b6gjkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+centre/@22.786993,86.164709,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd4a0741f5:0xd91e841af98c98d6!8m2!3d22.786993!4d86.164709!16s%2Fg%2F11b6gjkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.786993,
+      "lng": 86.164709,
+      "label": "Oral Dental Care & Orthodontic centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-dental-care-and-orthodontic-centre-jamshedpur",
+    "name": "Oral Dental Care & Orthodontic Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Oral Dental Care & Orthodontic Centre delivers integrated care across Oral Surgery In Jamshedpur and Orthopaedics. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065723 08607",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R5C9+C2J, market, Kagal Nagar, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "Kagal Nagar",
+    "emergencyContact": "065723 08607",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+Centre/@22.8210771,86.1675215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47baa6dfdd9:0x47392fa3267b2f48!8m2!3d22.8210771!4d86.1675215!16s%2Fg%2F11td42wqr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Dental+Care+%26+Orthodontic+Centre/@22.8210771,86.1675215,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e47baa6dfdd9:0x47392fa3267b2f48!8m2!3d22.8210771!4d86.1675215!16s%2Fg%2F11td42wqr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8210771,
+      "lng": 86.1675215,
+      "label": "Oral Dental Care & Orthodontic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-health-dental-care-jamshedpur",
+    "name": "Oral Health Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Oral Health Dental Care brings together specialists for Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093088 31149",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sidhgora Market, Agrico Area, Jamshedpur, Jharkhand 831009",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831009",
+    "locality": "Agrico Area",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "093088 31149",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Health+Dental+Care/@22.8003634,86.2308908,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2ee751653e3:0xcb9415ecbbda88e7!8m2!3d22.8003634!4d86.2308908!16s%2Fg%2F11bzrfycyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Health+Dental+Care/@22.8003634,86.2308908,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2ee751653e3:0xcb9415ecbbda88e7!8m2!3d22.8003634!4d86.2308908!16s%2Fg%2F11bzrfycyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8003634,
+      "lng": 86.2308908,
+      "label": "Oral Health Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orcadent-jamshedpur",
+    "name": "ORCADENT",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORCADENT is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097981 01088",
+    "alternatePhone": "",
+    "website": "https://orcadentindia.com/dentist-in-jamshedpur/",
+    "address": "Nirode Apartment, A1/2, L Rd, beside KVC, west, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "beside KVC, west, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "097981 01088",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ORCADENT/@22.7943376,86.179602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e309016c890f:0xb1adf7048a46e5e2!8m2!3d22.7943376!4d86.179602!16s%2Fg%2F11wbdk79qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORCADENT/@22.7943376,86.179602,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e309016c890f:0xb1adf7048a46e5e2!8m2!3d22.7943376!4d86.179602!16s%2Fg%2F11wbdk79qd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7943376,
+      "lng": 86.179602,
+      "label": "ORCADENT",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ordent-implant-and-dental-care-centre-jamshedpur",
+    "name": "Ordent Implant & Dental Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Ordent Implant & Dental Care Centre brings together specialists for Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092418 31313",
+    "alternatePhone": "",
+    "website": "https://wwwordentdentalcare.com/",
+    "address": "Shop no-4, block E, opposite Sweet mart, Kadma Market, Kadma, Jamshedpur, Jharkhand 831005",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831005",
+    "locality": "Kadma",
+    "landmark": "opposite Sweet mart, Kadma Market, Kadma, Jamshedpur, Jharkhand 831005",
+    "emergencyContact": "092418 31313",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ordent+Implant+%26+Dental+Care+Centre/@22.8057319,86.1637065,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e575127048db:0xa4b01427f35b8039!8m2!3d22.8057319!4d86.1637065!16s%2Fg%2F11vsrvcvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ordent+Implant+%26+Dental+Care+Centre/@22.8057319,86.1637065,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e575127048db:0xa4b01427f35b8039!8m2!3d22.8057319!4d86.1637065!16s%2Fg%2F11vsrvcvkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8057319,
+      "lng": 86.1637065,
+      "label": "Ordent Implant & Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patwari-dental-hub-jamshedpur",
+    "name": "Patwari Dental Hub",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Patwari Dental Hub for its strength in Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090315 95690",
+    "alternatePhone": "",
+    "website": "https://patwaridentalhub.netlify.app/",
+    "address": "Gudri Market, near Nurse Quarter, Kagal Nagar, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "near Nurse Quarter, Kagal Nagar, Sonari, Jamshedpur, Jharkhand 831011",
+    "emergencyContact": "090315 95690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Patwari+Dental+Hub/@22.8218244,86.1728941,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4788515ed7d:0x9a7fbd2dcc7be202!8m2!3d22.8218244!4d86.1728941!16s%2Fg%2F11dylsbdtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patwari+Dental+Hub/@22.8218244,86.1728941,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4788515ed7d:0x9a7fbd2dcc7be202!8m2!3d22.8218244!4d86.1728941!16s%2Fg%2F11dylsbdtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8218244,
+      "lng": 86.1728941,
+      "label": "Patwari Dental Hub",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "plastic-and-cosmetic-surgery-clinic-jamshedpur",
+    "name": "Plastic & Cosmetic Surgery Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Plastic & Cosmetic Surgery Clinic for its strength in Plastic Surgery In Jamshedpur. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unit- 94, Water Works Rd, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "SNP Area",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Plastic+%26+Cosmetic+Surgery+Clinic/@22.808338,86.2057279,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3061ded96a7:0xd3fa092279628ef8!8m2!3d22.808338!4d86.2057279!16s%2Fg%2F11h7rr18dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Plastic+%26+Cosmetic+Surgery+Clinic/@22.808338,86.2057279,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3061ded96a7:0xd3fa092279628ef8!8m2!3d22.808338!4d86.2057279!16s%2Fg%2F11h7rr18dd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.808338,
+      "lng": 86.2057279,
+      "label": "Plastic & Cosmetic Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prasad-dental-care-and-orthodontic-centre-jamshedpur",
+    "name": "Prasad Dental Care And Orthodontic Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prasad Dental Care And Orthodontic Centre has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and Orthopaedics. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079797 46464",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zone no.1, Ganpati Complex, near sunday market, Birsanagar, Jamshedpur, Jharkhand 831019",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831019",
+    "locality": "Birsanagar",
+    "landmark": "near sunday market, Birsanagar, Jamshedpur, Jharkhand 831019",
+    "emergencyContact": "079797 46464",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Prasad+Dental+Care+And+Orthodontic+Centre/@22.7841654,86.2513921,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3cef8833769:0x53c7da2cdc11b875!8m2!3d22.7841654!4d86.2513921!16s%2Fg%2F11fmh6hm00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prasad+Dental+Care+And+Orthodontic+Centre/@22.7841654,86.2513921,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3cef8833769:0x53c7da2cdc11b875!8m2!3d22.7841654!4d86.2513921!16s%2Fg%2F11fmh6hm00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7841654,
+      "lng": 86.2513921,
+      "label": "Prasad Dental Care And Orthodontic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "purnima-netralaya-jamshedpur",
+    "name": "PURNIMA NETRALAYA",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, PURNIMA NETRALAYA brings together specialists for Cardiac Surgery In Jamshedpur and Eye Care Center. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072818 33333",
+    "alternatePhone": "",
+    "website": "http://www.purnimanetralaya.com/",
+    "address": "SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Sakchi",
+    "emergencyContact": "072818 33333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Jamshedpur",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PURNIMA+NETRALAYA/@22.8093706,86.2025807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34acc2f415d:0xc2afd64cbffda042!8m2!3d22.8093706!4d86.2025807!16s%2Fg%2F11j02_wn6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PURNIMA+NETRALAYA/@22.8093706,86.2025807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34acc2f415d:0xc2afd64cbffda042!8m2!3d22.8093706!4d86.2025807!16s%2Fg%2F11j02_wn6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8093706,
+      "lng": 86.2025807,
+      "label": "PURNIMA NETRALAYA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-p-dental-clinic-jamshedpur",
+    "name": "R.P DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, R.P DENTAL CLINIC brings together specialists for Oral Surgery In Jamshedpur. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099348 35072",
+    "alternatePhone": "",
+    "website": "https://www.rpdentalclinic.com/",
+    "address": "Silsila Chowk, 370a, Dimna Rd, opposite JRG Bank, Ulidih, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "opposite JRG Bank, Ulidih, Mango, Jamshedpur, Jharkhand 831012",
+    "emergencyContact": "099348 35072",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/R.P+DENTAL+CLINIC/@22.8221399,86.2166787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c5853911d3:0xc3e051fcb7e61ada!8m2!3d22.8221399!4d86.2166787!16s%2Fg%2F11w_rk8f80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.P+DENTAL+CLINIC/@22.8221399,86.2166787,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c5853911d3:0xc3e051fcb7e61ada!8m2!3d22.8221399!4d86.2166787!16s%2Fg%2F11w_rk8f80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8221399,
+      "lng": 86.2166787,
+      "label": "R.P DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "reeta-dental-clinic-jamshedpur",
+    "name": "REETA DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, REETA DENTAL CLINIC brings together specialists for Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073669 05660",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Sri Raj Medical, Baridih Market, Jamshedpur, Jharkhand 831017",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831017",
+    "locality": "Baridih Market",
+    "landmark": "Baridih Market",
+    "emergencyContact": "073669 05660",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/REETA+DENTAL+CLINIC/@22.7946523,86.2434469,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37e48f6f43f:0xa54a64541b01217d!8m2!3d22.7946523!4d86.2434469!16s%2Fg%2F11x_58sv30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/REETA+DENTAL+CLINIC/@22.7946523,86.2434469,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37e48f6f43f:0xa54a64541b01217d!8m2!3d22.7946523!4d86.2434469!16s%2Fg%2F11x_58sv30?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7946523,
+      "lng": 86.2434469,
+      "label": "REETA DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "relife-medicure-jamshedpur",
+    "name": "Relife Medicure",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Relife Medicure is a prominent nursing home in Jamshedpur, known for structured tertiary care across Gynecologist Surgery In Jamshedpur and Nursing Home. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074800 00777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7, Lohar Line Rd, opposite to Canara Bank & New Domino's, Tuiladungri, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "opposite to Canara Bank & New Domino's, Tuiladungri, Golmuri, Jamshedpur, Jharkhand 831003",
+    "emergencyContact": "074800 00777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Relife+Medicure/@22.7929474,86.220964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34d92534197:0xf322df260989b7ee!8m2!3d22.7929474!4d86.220964!16s%2Fg%2F11h49kp4sq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Relife+Medicure/@22.7929474,86.220964,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e34d92534197:0xf322df260989b7ee!8m2!3d22.7929474!4d86.220964!16s%2Fg%2F11h49kp4sq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7929474,
+      "lng": 86.220964,
+      "label": "Relife Medicure",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "remedi-pharma-skin-and-hair-clinic-in-jamshedpur-jamshedpur",
+    "name": "Remedi Pharma - Skin And Hair Clinic In Jamshedpur",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Jamshedpur, Remedi Pharma - Skin And Hair Clinic In Jamshedpur delivers integrated care across Plastic Surgery In Jamshedpur. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065722 21888",
+    "alternatePhone": "",
+    "website": "http://www.hairtransplantation-india.com/",
+    "address": "Q5VM+483, Bistupur Main Rd, Beside City Style, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Beside City Style, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "065722 21888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Remedi+Pharma+-+Skin+And+Hair+Clinic+In+Jamshedpur/@22.7927539,86.1833117,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30e9555545b:0xf362cfdecf73d7c8!8m2!3d22.7927539!4d86.1833117!16s%2Fg%2F12hq8vtgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Remedi+Pharma+-+Skin+And+Hair+Clinic+In+Jamshedpur/@22.7927539,86.1833117,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e30e9555545b:0xf362cfdecf73d7c8!8m2!3d22.7927539!4d86.1833117!16s%2Fg%2F12hq8vtgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7927539,
+      "lng": 86.1833117,
+      "label": "Remedi Pharma - Skin And Hair Clinic In Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "renew-healthcare-jamshedpur",
+    "name": "Renew Healthcare",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Renew Healthcare has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering IVF In Jamshedpur and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062922 69061",
+    "alternatePhone": "",
+    "website": "https://renewhealthcare.in/locations/jamshedpur/",
+    "address": "1st Floor Area, 6, K Road, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "K Road",
+    "emergencyContact": "062922 69061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Renew+Healthcare/@22.7954244,86.1820745,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f61c108ad7:0x67728bfba5628131!8m2!3d22.7954244!4d86.1820745!16s%2Fg%2F11pckjbm3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Renew+Healthcare/@22.7954244,86.1820745,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f61c108ad7:0x67728bfba5628131!8m2!3d22.7954244!4d86.1820745!16s%2Fg%2F11pckjbm3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7954244,
+      "lng": 86.1820745,
+      "label": "Renew Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "royal-oral-and-dental-care-jamshedpur",
+    "name": "Royal Oral And Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Royal Oral And Dental Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur and Dentist. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082350 10013",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mango, Jamshedpur, Jharkhand 831020",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831020",
+    "locality": "Mango",
+    "landmark": "Jharkhand 831020",
+    "emergencyContact": "082350 10013",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Royal+Oral+And+Dental+Care/@22.840968,86.2062906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c89d0e6027:0x95b863fce6b239f3!8m2!3d22.840968!4d86.2062906!16s%2Fg%2F11gj74vy6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Royal+Oral+And+Dental+Care/@22.840968,86.2062906,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3c89d0e6027:0x95b863fce6b239f3!8m2!3d22.840968!4d86.2062906!16s%2Fg%2F11gj74vy6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.840968,
+      "lng": 86.2062906,
+      "label": "Royal Oral And Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "royal-oral-and-dental-care-old-purulia-road-branch-jamshedpur",
+    "name": "Royal oral and dental care old purulia road branch",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Royal oral and dental care old purulia road branch brings together specialists for Oral Surgery In Jamshedpur and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082350 10013",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Al- kabir, H.no -29, Road no - 15, polytechnic road, Zakir Nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Road no - 15",
+    "emergencyContact": "082350 10013",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Royal+oral+and+dental+care+old+purulia+road+branch/@22.8336975,86.2003335,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bc7eb7ce77:0xa1dea894c5d62e37!8m2!3d22.8336975!4d86.2003335!16s%2Fg%2F11wnc2g6rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Royal+oral+and+dental+care+old+purulia+road+branch/@22.8336975,86.2003335,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3bc7eb7ce77:0xa1dea894c5d62e37!8m2!3d22.8336975!4d86.2003335!16s%2Fg%2F11wnc2g6rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8336975,
+      "lng": 86.2003335,
+      "label": "Royal oral and dental care old purulia road branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sadar-hospital-jamshedpur-jamshedpur",
+    "name": "Sadar Hospital, Jamshedpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sadar Hospital, Jamshedpur has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Heart Surgery In Jamshedpur. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q652+FHJ, Sadar Hospital campus, Khasmahal, Jamshedpur, Jharkhand 831002",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831002",
+    "locality": "Khasmahal",
+    "landmark": "Khasmahal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Sadar+Hospital,+Jamshedpur/@22.7587122,86.2013838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcceba537709:0xf251055bb79d995e!8m2!3d22.7587122!4d86.2013838!16s%2Fg%2F11b6glw2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sadar+Hospital,+Jamshedpur/@22.7587122,86.2013838,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fcceba537709:0xf251055bb79d995e!8m2!3d22.7587122!4d86.2013838!16s%2Fg%2F11b6glw2n1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7587122,
+      "lng": 86.2013838,
+      "label": "Sadar Hospital, Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sahara-dental-jamshedpur",
+    "name": "Sahara Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Sahara Dental for its strength in Oral Surgery In Jamshedpur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091355 02403",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gitanjali Madhusudan Complex, Dimna Rd, adjacent to Rajasthan Bhawan, Subhash Colony, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "adjacent to Rajasthan Bhawan",
+    "emergencyContact": "091355 02403",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sahara+Dental/@22.823172,86.220411,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2522f97e711:0xe3980758c8fae789!8m2!3d22.823172!4d86.220411!16s%2Fg%2F11bzzvqvqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sahara+Dental/@22.823172,86.220411,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2522f97e711:0xe3980758c8fae789!8m2!3d22.823172!4d86.220411!16s%2Fg%2F11bzzvqvqv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.823172,
+      "lng": 86.220411,
+      "label": "Sahara Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-dental-clinic-jamshedpur",
+    "name": "Sai dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Sai dental clinic delivers integrated care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095048 61059",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dimna Chowk, Ashiyana Enclave, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Mango",
+    "emergencyContact": "095048 61059",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+dental+clinic/@22.8395161,86.2300725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39a76779ddb:0x7e14c48be6d8a35!8m2!3d22.8395161!4d86.2300725!16s%2Fg%2F11g1hm4hb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+dental+clinic/@22.8395161,86.2300725,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e39a76779ddb:0x7e14c48be6d8a35!8m2!3d22.8395161!4d86.2300725!16s%2Fg%2F11g1hm4hb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8395161,
+      "lng": 86.2300725,
+      "label": "Sai dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-dental-clinic-jamshedpur",
+    "name": "Sai Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Dental Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070701 07701",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tata Kandra, Main Rd, Dhirajganj, Gamharia, Jamshedpur, Jharkhand 832108",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "832108",
+    "locality": "Gamharia",
+    "landmark": "Dhirajganj",
+    "emergencyContact": "070701 07701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic/@22.818323,86.097903,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e58696853229:0x9659f34d90235fc8!8m2!3d22.818323!4d86.097903!16s%2Fg%2F11c45yv4gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Dental+Clinic/@22.818323,86.097903,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e58696853229:0x9659f34d90235fc8!8m2!3d22.818323!4d86.097903!16s%2Fg%2F11c45yv4gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.818323,
+      "lng": 86.097903,
+      "label": "Sai Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-dental-clinic-puja-katyan-jamshedpur",
+    "name": "Sai Dental Clinic (Puja katyan)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Dental Clinic (Puja katyan) has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095048 61059",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dimna Chowk, beside ananda ji sweets, basant vihar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "beside ananda ji sweets, basant vihar, Mango, Jamshedpur, Jharkhand 831012",
+    "emergencyContact": "095048 61059",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Dental+Clinic+(Puja+katyan)/@22.8393292,86.2301497,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e395976b62d7:0x7d0079cc8b10b8c8!8m2!3d22.8393292!4d86.2301497!16s%2Fg%2F11rvlrtm4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Dental+Clinic+(Puja+katyan)/@22.8393292,86.2301497,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e395976b62d7:0x7d0079cc8b10b8c8!8m2!3d22.8393292!4d86.2301497!16s%2Fg%2F11rvlrtm4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8393292,
+      "lng": 86.2301497,
+      "label": "Sai Dental Clinic (Puja katyan)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarita-dental-clinic-jamshedpur",
+    "name": "Sarita Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarita Dental Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072968 50463",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RIT Modh, opposite Jayshree Ford, Dungri Bhata, Adityapur, Jamshedpur, Jharkhand 832109",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "832109",
+    "locality": "Adityapur",
+    "landmark": "opposite Jayshree Ford, Dungri Bhata, Adityapur, Jamshedpur, Jharkhand 832109",
+    "emergencyContact": "072968 50463",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sarita+Dental+Clinic/@22.7923495,86.1429967,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5a210e92c4b:0xb2188e15284fc5e9!8m2!3d22.7923495!4d86.1429967!16s%2Fg%2F11y27cl4yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarita+Dental+Clinic/@22.7923495,86.1429967,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5a210e92c4b:0xb2188e15284fc5e9!8m2!3d22.7923495!4d86.1429967!16s%2Fg%2F11y27cl4yh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7923495,
+      "lng": 86.1429967,
+      "label": "Sarita Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarkar-dental-clinic-jamshedpur",
+    "name": "Sarkar Dental Clinic",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sarkar Dental Clinic has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur, Orthodontist, and Orthopaedics. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072756 35609",
+    "alternatePhone": "",
+    "website": "http://sarkardentalclinic.com/",
+    "address": "Basant Talkies Complex, near Basant Central, Hirasingh Bagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "near Basant Central, Hirasingh Bagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "072756 35609",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8023376,86.2053167,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339402c0c59:0x2d54dbfb8d9dea2b!8m2!3d22.8023376!4d86.2053167!16s%2Fg%2F11h1dl8_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8023376,86.2053167,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e339402c0c59:0x2d54dbfb8d9dea2b!8m2!3d22.8023376!4d86.2053167!16s%2Fg%2F11h1dl8_z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8023376,
+      "lng": 86.2053167,
+      "label": "Sarkar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarkar-dental-clinic-jamshedpur",
+    "name": "Sarkar Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Sarkar Dental Clinic for its strength in Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086172 83251",
+    "alternatePhone": "",
+    "website": "http://sarkardentalclinic.com/",
+    "address": "H.no-6, Rd Number 1, near Kagalnagar Park, opposite to uma jewellers, West Layout, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "near Kagalnagar Park, opposite to uma jewellers, West Layout, Sonari, Jamshedpur, Jharkhand 831011",
+    "emergencyContact": "086172 83251",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8223366,86.1696013,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5bbeb828f4d:0x24abc775e4297ce4!8m2!3d22.8223366!4d86.1696013!16s%2Fg%2F11w3bv7cqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarkar+Dental+Clinic/@22.8223366,86.1696013,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e5bbeb828f4d:0x24abc775e4297ce4!8m2!3d22.8223366!4d86.1696013!16s%2Fg%2F11w3bv7cqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8223366,
+      "lng": 86.1696013,
+      "label": "Sarkar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "savita-dental-clinic-jamshedpur",
+    "name": "Savita Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Savita Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065724 20083",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Block C, above Sarin Medical, Hirasingh Bagan, Kasidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Kasidih",
+    "landmark": "above Sarin Medical",
+    "emergencyContact": "065724 20083",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Savita+Dental+Clinic/@22.8046406,86.2086801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fc9a43b8e5:0x4ee1f3a9222303e!8m2!3d22.8046406!4d86.2086801!16s%2Fg%2F11bztg3c2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Savita+Dental+Clinic/@22.8046406,86.2086801,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2fc9a43b8e5:0x4ee1f3a9222303e!8m2!3d22.8046406!4d86.2086801!16s%2Fg%2F11bztg3c2f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8046406,
+      "lng": 86.2086801,
+      "label": "Savita Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shitala-dentalcare-jamshedpur",
+    "name": "SHITALA DENTALCARE",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose SHITALA DENTALCARE for its strength in Oral Surgery In Jamshedpur and Dentist. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Parsudih Main Rd, opp. central bankof India, Parsudih, Jamshedpur, Jharkhand 831002",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831002",
+    "locality": "Parsudih",
+    "landmark": "Parsudih",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/SHITALA+DENTALCARE/@22.7533141,86.2088352,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fd2fcb90d45b:0xf64c0e8422fabe92!8m2!3d22.7533141!4d86.2088352!16s%2Fg%2F11rwlbftf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHITALA+DENTALCARE/@22.7533141,86.2088352,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5fd2fcb90d45b:0xf64c0e8422fabe92!8m2!3d22.7533141!4d86.2088352!16s%2Fg%2F11rwlbftf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7533141,
+      "lng": 86.2088352,
+      "label": "SHITALA DENTALCARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiva-nursing-home-adityapur-jamshedpur",
+    "name": "Shiva Nursing Home Adityapur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Shiva Nursing Home Adityapur brings together specialists for Gynecologist Surgery In Jamshedpur. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084097 11177",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, River View Colony, near R Type, Aditypur Colony Site No 1, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "near R Type, Aditypur Colony Site No 1, Adityapur, Jamshedpur, Jharkhand 831013",
+    "emergencyContact": "084097 11177",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shiva+Nursing+Home+Adityapur/@22.7863036,86.1716184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1a6cb5237:0xcc1b64865ef85958!8m2!3d22.7863036!4d86.1716184!16s%2Fg%2F11bzv5zhmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiva+Nursing+Home+Adityapur/@22.7863036,86.1716184,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4a1a6cb5237:0xcc1b64865ef85958!8m2!3d22.7863036!4d86.1716184!16s%2Fg%2F11bzv5zhmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7863036,
+      "lng": 86.1716184,
+      "label": "Shiva Nursing Home Adityapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-gopal-dental-clinic-jamshedpur",
+    "name": "Shree Gopal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Shree Gopal Dental Clinic for its strength in Oral Surgery In Jamshedpur. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099737 66692",
+    "alternatePhone": "",
+    "website": "",
+    "address": "onyx hotel, M.P Complex besides Sai Nursing home Indian bank(allahabad bank Opposite aman ultrasound sher e punjab chowk besides, Tata Kandra Rd, beside vmart, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "beside vmart",
+    "landmark": "beside vmart, Jamshedpur, Jharkhand 831013",
+    "emergencyContact": "099737 66692",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Gopal+Dental+Clinic/@22.7866845,86.1637662,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd6aaaaa69:0xea7a143ff8ab8347!8m2!3d22.7866845!4d86.1637662!16s%2Fg%2F11bzzw6h8p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Gopal+Dental+Clinic/@22.7866845,86.1637662,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e4bd6aaaaa69:0xea7a143ff8ab8347!8m2!3d22.7866845!4d86.1637662!16s%2Fg%2F11bzzw6h8p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7866845,
+      "lng": 86.1637662,
+      "label": "Shree Gopal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "siddiqui-dental-care-jamshedpur",
+    "name": "Siddiqui Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Siddiqui Dental Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090317 25238",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Masjid Rd, beside HDFC bank, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "beside HDFC bank, Golmuri, Jamshedpur, Jharkhand 831003",
+    "emergencyContact": "090317 25238",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Siddiqui+Dental+Care/@22.7942891,86.2212947,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3d10df7feaf:0xe162a8d5712b9958!8m2!3d22.7942891!4d86.2212947!16s%2Fg%2F11fjzbb3f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Siddiqui+Dental+Care/@22.7942891,86.2212947,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3d10df7feaf:0xe162a8d5712b9958!8m2!3d22.7942891!4d86.2212947!16s%2Fg%2F11fjzbb3f5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7942891,
+      "lng": 86.2212947,
+      "label": "Siddiqui Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "signaturesmiles-dental-care-and-implant-centre-jamshedpur",
+    "name": "SignatureSmiles-Dental Care & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SignatureSmiles-Dental Care & Implant Centre has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "062072 46008",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sharda Enclave, Signature Smiles - Dental Care & Implant Centre, 151-152, Dhalbhum Road, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "151-152",
+    "emergencyContact": "062072 46008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/SignatureSmiles-Dental+Care+%26+Implant+Centre/@22.8104171,86.2038223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8060ff0b7:0x4a87b70d0727a13f!8m2!3d22.8104171!4d86.2038223!16s%2Fg%2F11h5vht82c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SignatureSmiles-Dental+Care+%26+Implant+Centre/@22.8104171,86.2038223,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3f8060ff0b7:0x4a87b70d0727a13f!8m2!3d22.8104171!4d86.2038223!16s%2Fg%2F11h5vht82c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8104171,
+      "lng": 86.2038223,
+      "label": "SignatureSmiles-Dental Care & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "singh-dental-care-jamshedpur",
+    "name": "Singh Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Singh Dental Care for its strength in Oral Surgery In Jamshedpur and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096614 62813",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q6VC+PGM, Masjid Rd, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "Golmuri",
+    "emergencyContact": "096614 62813",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Singh+Dental+Care/@22.7943426,86.2213003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e300000bb815:0xaded5e79eba3e08a!8m2!3d22.7943426!4d86.2213003!16s%2Fg%2F11mdxqwpx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Singh+Dental+Care/@22.7943426,86.2213003,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e300000bb815:0xaded5e79eba3e08a!8m2!3d22.7943426!4d86.2213003!16s%2Fg%2F11mdxqwpx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7943426,
+      "lng": 86.2213003,
+      "label": "Singh Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-and-shine-dental-care-jamshedpur",
+    "name": "Smile & Shine Dental care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile & Shine Dental care has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062995 44977",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Anand Bhawan, Shere Punjab chowk, Adityapur Basti, Adityapur, Jamshedpur, Jharkhand 831013",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831013",
+    "locality": "Adityapur",
+    "landmark": "Adityapur Basti",
+    "emergencyContact": "062995 44977",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+%26+Shine+Dental+care/@22.7863331,86.1623954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e55ce89b75bd:0xa30bff21883b27c0!8m2!3d22.7863331!4d86.1623954!16s%2Fg%2F11fpffgtxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+%26+Shine+Dental+care/@22.7863331,86.1623954,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e55ce89b75bd:0xa30bff21883b27c0!8m2!3d22.7863331!4d86.1623954!16s%2Fg%2F11fpffgtxd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7863331,
+      "lng": 86.1623954,
+      "label": "Smile & Shine Dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-care-jamshedpur",
+    "name": "Smile Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Smile Dental Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070048 67782",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Subhash Colony, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "070048 67782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Care/@22.8226808,86.22049,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33ab55dd1ad:0x74f8e55d708215df!8m2!3d22.8226808!4d86.22049!16s%2Fg%2F11b_24ztfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Care/@22.8226808,86.22049,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33ab55dd1ad:0x74f8e55d708215df!8m2!3d22.8226808!4d86.22049!16s%2Fg%2F11b_24ztfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8226808,
+      "lng": 86.22049,
+      "label": "Smile Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-zone-dental-clinic-jamshedpur",
+    "name": "Smile Zone Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Jamshedpur, Smile Zone Dental Clinic delivers integrated care across Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082102 77925",
+    "alternatePhone": "",
+    "website": "https://www.smilezonejsr.com/",
+    "address": "Shanti Ani Complex, Water Works Rd, near JIVA Hotel, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "near JIVA Hotel, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "082102 77925",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Zone+Dental+Clinic/@22.8114174,86.2024869,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e360ab2d5937:0xc6702e18360093c1!8m2!3d22.8114174!4d86.2024869!16s%2Fg%2F11vdsf3_yp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Zone+Dental+Clinic/@22.8114174,86.2024869,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e360ab2d5937:0xc6702e18360093c1!8m2!3d22.8114174!4d86.2024869!16s%2Fg%2F11vdsf3_yp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8114174,
+      "lng": 86.2024869,
+      "label": "Smile Zone Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smiles-dental-clinic-jamshedpur",
+    "name": "Smiles Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Smiles Dental Clinic for its strength in Oral Surgery In Jamshedpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070336 24020",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10, Diagonal Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "South Park",
+    "emergencyContact": "070336 24020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smiles+Dental+Clinic/@22.7919572,86.1846824,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e367cdafa371:0x8b7b471e0d52a127!8m2!3d22.7919572!4d86.1846824!16s%2Fg%2F11ckqn97v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smiles+Dental+Clinic/@22.7919572,86.1846824,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e367cdafa371:0x8b7b471e0d52a127!8m2!3d22.7919572!4d86.1846824!16s%2Fg%2F11ckqn97v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7919572,
+      "lng": 86.1846824,
+      "label": "Smiles Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smriti-seva-sadan-jamshedpur",
+    "name": "Smriti Seva Sadan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Smriti Seva Sadan offers coordinated hospital care with major focus on Gynecologist Surgery In Jamshedpur. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065723 63136",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dimna Lake Road, near M.G.M Medical College, siroman nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "near M.G.M Medical College, siroman nagar, Mango, Jamshedpur, Jharkhand 831012",
+    "emergencyContact": "065723 63136",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Smriti+Seva+Sadan/@22.8425791,86.2340843,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e23efef8d9f1:0xbadaf02df9e0575!8m2!3d22.8425791!4d86.2340843!16s%2Fg%2F11dym72__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smriti+Seva+Sadan/@22.8425791,86.2340843,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e23efef8d9f1:0xbadaf02df9e0575!8m2!3d22.8425791!4d86.2340843!16s%2Fg%2F11dym72__r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8425791,
+      "lng": 86.2340843,
+      "label": "Smriti Seva Sadan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "southern-ent-head-neck-foundation-best-ent-clinic-in-jamshedpur-jamshedpur",
+    "name": "Southern ENT Head Neck Foundation - Best ENT Clinic in Jamshedpur",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Southern ENT Head Neck Foundation - Best ENT Clinic in Jamshedpur has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur and ENT. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090737 39999",
+    "alternatePhone": "",
+    "website": "https://enthnskolkata.com/",
+    "address": "Relife Medicure, Lohar Line Rd, opposite केनरा बैंक, Golmuri, Jamshedpur, Jharkhand 831003",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831003",
+    "locality": "Golmuri",
+    "landmark": "opposite केनरा बैंक, Golmuri, Jamshedpur, Jharkhand 831003",
+    "emergencyContact": "090737 39999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Southern+ENT+Head+Neck+Foundation+-+Best+ENT+Clinic+in+Jamshedpur/@22.793098,86.2209686,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a7bc007027:0x223e26c7a54a0e2d!8m2!3d22.793098!4d86.2209686!16s%2Fg%2F11gsd6865c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Southern+ENT+Head+Neck+Foundation+-+Best+ENT+Clinic+in+Jamshedpur/@22.793098,86.2209686,17z/data=!3m1!4b1!4m6!3m5!1s0x3a0271a7bc007027:0x223e26c7a54a0e2d!8m2!3d22.793098!4d86.2209686!16s%2Fg%2F11gsd6865c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.793098,
+      "lng": 86.2209686,
+      "label": "Southern ENT Head Neck Foundation - Best ENT Clinic in Jamshedpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sai-dental-lab-and-clinic-jamshedpur",
+    "name": "Sri Sai Dental Lab & Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Sri Sai Dental Lab & Clinic for its strength in Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098013 44636",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dispensary Rd, Christanpara, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "Sonari",
+    "emergencyContact": "098013 44636",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sai+Dental+Lab+%26+Clinic/@22.819248,86.1742471,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e478b985feff:0xf882d14595415dad!8m2!3d22.819248!4d86.1742471!16s%2Fg%2F1264b3y6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sai+Dental+Lab+%26+Clinic/@22.819248,86.1742471,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e478b985feff:0xf882d14595415dad!8m2!3d22.819248!4d86.1742471!16s%2Fg%2F1264b3y6m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.819248,
+      "lng": 86.1742471,
+      "label": "Sri Sai Dental Lab & Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sathya-sai-sanjeevani-hospital-jamshedpur",
+    "name": "Sri Sathya Sai Sanjeevani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Sri Sathya Sai Sanjeevani Hospital offers coordinated hospital care with major focus on Heart Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080101 19000",
+    "alternatePhone": "",
+    "website": "https://srisathyasaisanjeevani.org/",
+    "address": "Q5PH+Q4G, Outer Cir Rd, near Old Adityapur Bridge, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "near Old Adityapur Bridge, South Park, Bistupur, Jamshedpur, Jharkhand 831001",
+    "emergencyContact": "080101 19000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sathya+Sai+Sanjeevani+Hospital/@22.7870012,86.1777242,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dde4d1dc51:0xf3b2cc1dc4649b7f!8m2!3d22.7870012!4d86.1777242!16s%2Fg%2F11k4w0q1cz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sathya+Sai+Sanjeevani+Hospital/@22.7870012,86.1777242,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dde4d1dc51:0xf3b2cc1dc4649b7f!8m2!3d22.7870012!4d86.1777242!16s%2Fg%2F11k4w0q1cz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7870012,
+      "lng": 86.1777242,
+      "label": "Sri Sathya Sai Sanjeevani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sathya-sai-sanjeevani-hospital-jamshedpur",
+    "name": "SRI SATHYA SAI SANJEEVANI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, SRI SATHYA SAI SANJEEVANI HOSPITAL offers coordinated hospital care with major focus on Heart Surgery In Jamshedpur. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "065724 32203",
+    "alternatePhone": "",
+    "website": "http://jeh.org.in/",
+    "address": "Eye Hospital, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "065724 32203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SRI+SATHYA+SAI+SANJEEVANI+HOSPITAL/@22.8038816,86.2035618,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dbf47402bd:0x7b0da788d0419273!8m2!3d22.8038816!4d86.2035618!16s%2Fg%2F11gjv5fpr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRI+SATHYA+SAI+SANJEEVANI+HOSPITAL/@22.8038816,86.2035618,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3dbf47402bd:0x7b0da788d0419273!8m2!3d22.8038816!4d86.2035618!16s%2Fg%2F11gjv5fpr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8038816,
+      "lng": 86.2035618,
+      "label": "SRI SATHYA SAI SANJEEVANI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srishti-and-drishti-jamshedpur",
+    "name": "Srishti & Drishti",
+    "type": "Pregnancy Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Srishti & Drishti for its strength in IVF In Jamshedpur and Pregnancy Care Center. Hospital capacity markers such as Google rating 3.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "065724 23581",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Srishti & Drishti, 163, New Bardwari, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "New Bardwari",
+    "emergencyContact": "065724 23581",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Pregnancy Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Srishti+%26+Drishti/@22.8092461,86.2106526,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306cc97093f:0x75a51ad5fab2ceb6!8m2!3d22.8092461!4d86.2106526!16s%2Fg%2F11b_000dhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srishti+%26+Drishti/@22.8092461,86.2106526,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e306cc97093f:0x75a51ad5fab2ceb6!8m2!3d22.8092461!4d86.2106526!16s%2Fg%2F11b_000dhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8092461,
+      "lng": 86.2106526,
+      "label": "Srishti & Drishti",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "steel-city-clinic-and-research-centre-jamshedpur",
+    "name": "Steel City Clinic And Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jamshedpur often choose Steel City Clinic And Research Centre for its strength in Brain Surgery In Jamshedpur. With public-facing highlights like Google rating 4.1, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076439 90029",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Yash Kamal Complex, 201, Tata - Hata Main Rd, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "201",
+    "emergencyContact": "076439 90029",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Steel+City+Clinic+And+Research+Centre/@22.7958302,86.1845178,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef20d08f:0xf581941d9a20a63!8m2!3d22.7958302!4d86.1845178!16s%2Fg%2F1w3w1gnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Steel+City+Clinic+And+Research+Centre/@22.7958302,86.1845178,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e365ef20d08f:0xf581941d9a20a63!8m2!3d22.7958302!4d86.1845178!16s%2Fg%2F1w3w1gnp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7958302,
+      "lng": 86.1845178,
+      "label": "Steel City Clinic And Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tata-main-hospital-ccu-jamshedpur",
+    "name": "Tata Main Hospital CCU",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Jamshedpur, Tata Main Hospital CCU delivers integrated care across Cancer Surgery In Jamshedpur. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Q5XH+RCW, Dhatkidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Dhatkidih",
+    "landmark": "Jamshedpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Tata+Main+Hospital+CCU/@22.7996241,86.1785807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3633b8c4d63:0xe213903d754c3248!8m2!3d22.7996241!4d86.1785807!16s%2Fg%2F11f121yj61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tata+Main+Hospital+CCU/@22.7996241,86.1785807,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3633b8c4d63:0xe213903d754c3248!8m2!3d22.7996241!4d86.1785807!16s%2Fg%2F11f121yj61?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7996241,
+      "lng": 86.1785807,
+      "label": "Tata Main Hospital CCU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tata-motors-hospital-jamshedpur",
+    "name": "Tata Motors Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tata Motors Hospital has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Gynecologist Surgery In Jamshedpur. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "065766 95601",
+    "alternatePhone": "",
+    "website": "http://jsrhospital.tatamotors.com/",
+    "address": "Q794+C6P, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831004",
+    "locality": "Telco Colony",
+    "landmark": "Telco Colony",
+    "emergencyContact": "065766 95601",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tata+Motors+Hospital/@22.7685872,86.2555753,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2c6f094ebb1:0x1b935b41307366cc!8m2!3d22.7685872!4d86.2555753!16s%2Fg%2F11c1wxy7d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tata+Motors+Hospital/@22.7685872,86.2555753,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e2c6f094ebb1:0x1b935b41307366cc!8m2!3d22.7685872!4d86.2555753!16s%2Fg%2F11c1wxy7d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7685872,
+      "lng": 86.2555753,
+      "label": "Tata Motors Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dent-o-care-jamshedpur",
+    "name": "The Dent-O-Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, The Dent-O-Care offers coordinated hospital care with major focus on Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098355 15049",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Madhusudhan Plaza, Dimna Rd, Hume Pipe Area, Ulidih, Mango, Jamshedpur, Jharkhand 831012",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831012",
+    "locality": "Mango",
+    "landmark": "Hume Pipe Area",
+    "emergencyContact": "098355 15049",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dent-O-Care/@22.8215274,86.2146458,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33b33326c59:0x973094c45239a7f4!8m2!3d22.8215274!4d86.2146458!16s%2Fg%2F11gy3p42gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dent-O-Care/@22.8215274,86.2146458,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e33b33326c59:0x973094c45239a7f4!8m2!3d22.8215274!4d86.2146458!16s%2Fg%2F11gy3p42gl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8215274,
+      "lng": 86.2146458,
+      "label": "The Dent-O-Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-medicare-clinic-jamshedpur",
+    "name": "The Medicare Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Medicare Clinic is a prominent medical clinic in Jamshedpur, known for structured tertiary care across Heart Surgery In Jamshedpur. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086032 31504",
+    "alternatePhone": "",
+    "website": "",
+    "address": "19, Ram Mandir Area, opp. Punjab National Bank, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "opp. Punjab National Bank",
+    "landmark": "opp. Punjab National Bank",
+    "emergencyContact": "086032 31504",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/The+Medicare+Clinic/@22.7882458,86.1852481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35d4d74468d:0x9150321c9d53fde8!8m2!3d22.7882458!4d86.1852481!16s%2Fg%2F11cpkx7b4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Medicare+Clinic/@22.7882458,86.1852481,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e35d4d74468d:0x9150321c9d53fde8!8m2!3d22.7882458!4d86.1852481!16s%2Fg%2F11cpkx7b4w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7882458,
+      "lng": 86.1852481,
+      "label": "The Medicare Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tmh-tata-main-hospital-jamshedpur",
+    "name": "TMH - Tata Main Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, TMH - Tata Main Hospital offers coordinated hospital care with major focus on Cancer Surgery In Jamshedpur. Operational strengths including Google rating 2.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065766 41012",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tata Main Hospital Rd, NORTHERN TOWN, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Bistupur",
+    "emergencyContact": "065766 41012",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/TMH+-+Tata+Main+Hospital/@22.8015434,86.1799788,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3180b3758ed:0x9cc6b3d0caab4b63!8m2!3d22.8015434!4d86.1799788!16s%2Fg%2F1thbv1y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TMH+-+Tata+Main+Hospital/@22.8015434,86.1799788,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3180b3758ed:0x9cc6b3d0caab4b63!8m2!3d22.8015434!4d86.1799788!16s%2Fg%2F1thbv1y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8015434,
+      "lng": 86.1799788,
+      "label": "TMH - Tata Main Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tmh-opd-jamshedpur",
+    "name": "TMH OPD",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, TMH OPD brings together specialists for Gynecologist Surgery In Jamshedpur. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "065766 44444",
+    "alternatePhone": "",
+    "website": "https://www.tatamainhospital.com/services/opd-services-roster.aspx",
+    "address": "Dhatkidih, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Dhatkidih",
+    "landmark": "Jharkhand 831001",
+    "emergencyContact": "065766 44444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/TMH+OPD/@22.8011544,86.1817358,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37b49ee7e11:0x7074e79c6200e6bd!8m2!3d22.8011544!4d86.1817358!16s%2Fg%2F11fyzfmkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TMH+OPD/@22.8011544,86.1817358,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e37b49ee7e11:0x7074e79c6200e6bd!8m2!3d22.8011544!4d86.1817358!16s%2Fg%2F11fyzfmkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8011544,
+      "lng": 86.1817358,
+      "label": "TMH OPD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-care-dental-clinic-jamshedpur",
+    "name": "Tooth Care Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jamshedpur, Tooth Care Dental Clinic brings together specialists for Oral Surgery In Jamshedpur. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094709 45408",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tooth Care Dental Clinic, near Old CP Club, Christanpara, Sonari, Jamshedpur, Jharkhand 831011",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831011",
+    "locality": "Sonari",
+    "landmark": "near Old CP Club, Christanpara, Sonari, Jamshedpur, Jharkhand 831011",
+    "emergencyContact": "094709 45408",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Care+Dental+Clinic/@22.8218062,86.1769873,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e387a5844215:0x1ef722c407cc5c9e!8m2!3d22.8218062!4d86.1769873!16s%2Fg%2F11fx7r8vry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Care+Dental+Clinic/@22.8218062,86.1769873,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e387a5844215:0x1ef722c407cc5c9e!8m2!3d22.8218062!4d86.1769873!16s%2Fg%2F11fx7r8vry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8218062,
+      "lng": 86.1769873,
+      "label": "Tooth Care Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trupti-dental-clinic-and-implant-center-jamshedpur",
+    "name": "Trupti Dental Clinic and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trupti Dental Clinic and Implant Center is a prominent dental clinic in Jamshedpur, known for structured tertiary care across Oral Surgery In Jamshedpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062009 88220",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, Kunti Tower, New Kalimati Rd, Hirasingh Bagan, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "New Kalimati Rd",
+    "emergencyContact": "062009 88220",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Trupti+Dental+Clinic+and+Implant+Center/@22.8012368,86.2089711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3486d08b38d:0xfd104603c9b4f30e!8m2!3d22.8012368!4d86.2089711!16s%2Fg%2F11txt4blb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trupti+Dental+Clinic+and+Implant+Center/@22.8012368,86.2089711,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3486d08b38d:0xfd104603c9b4f30e!8m2!3d22.8012368!4d86.2089711!16s%2Fg%2F11txt4blb3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8012368,
+      "lng": 86.2089711,
+      "label": "Trupti Dental Clinic and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ujjwal-oral-and-dental-care-jamshedpur",
+    "name": "Ujjwal Oral and Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ujjwal Oral and Dental Care has built a strong reputation in Jamshedpur for multidisciplinary treatment pathways covering Oral Surgery In Jamshedpur. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097981 33551",
+    "alternatePhone": "",
+    "website": "https://ujjwaldental.com/",
+    "address": "New Bardwari, Baradwari, Sakchi, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Sakchi",
+    "landmark": "Sakchi",
+    "emergencyContact": "097981 33551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ujjwal+Oral+and+Dental+Care/@22.8058445,86.2132563,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3004802c0f1:0xa3020b1add31f4d7!8m2!3d22.8058445!4d86.2132563!16s%2Fg%2F11w1cky4ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ujjwal+Oral+and+Dental+Care/@22.8058445,86.2132563,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e3004802c0f1:0xa3020b1add31f4d7!8m2!3d22.8058445!4d86.2132563!16s%2Fg%2F11w1cky4ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.8058445,
+      "lng": 86.2132563,
+      "label": "Ujjwal Oral and Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vardaan-maternity-and-nursing-homes-jamshedpur",
+    "name": "Vardaan Maternity & Nursing Homes",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Vardaan Maternity & Nursing Homes offers coordinated hospital care with major focus on IVF In Jamshedpur and Nursing Home. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "065723 43350",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R742+4JW, Vijaya Gardens Road, near Mercy Hospital, Kendumundi, Baridih, Jamshedpur, Jharkhand 831017",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831017",
+    "locality": "Baridih",
+    "landmark": "near Mercy Hospital, Kendumundi, Baridih, Jamshedpur, Jharkhand 831017",
+    "emergencyContact": "065723 43350",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Jamshedpur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Vardaan+Maternity+%26+Nursing+Homes/@22.7971785,86.2514243,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e29a4d99abbf:0xeb79f9140b55beef!8m2!3d22.7971785!4d86.2514243!16s%2Fg%2F1hm4cylq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vardaan+Maternity+%26+Nursing+Homes/@22.7971785,86.2514243,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e29a4d99abbf:0xeb79f9140b55beef!8m2!3d22.7971785!4d86.2514243!16s%2Fg%2F1hm4cylq3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7971785,
+      "lng": 86.2514243,
+      "label": "Vardaan Maternity & Nursing Homes",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "venus-aesthetics-jamshedpur",
+    "name": "Venus Aesthetics",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jamshedpur, Venus Aesthetics offers coordinated hospital care with major focus on Cosmetic Surgery In Jamshedpur. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087898 85583",
+    "alternatePhone": "",
+    "website": "https://www.venusaestheticsindia.com/",
+    "address": "p1, 2nd floor, Tiwary Bechar Complex, Bistupur Main Rd, Bistupur, Jamshedpur, Jharkhand 831001",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "pincode": "831001",
+    "locality": "Bistupur",
+    "landmark": "Tiwary Bechar Complex",
+    "emergencyContact": "087898 85583",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Jamshedpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Venus+Aesthetics/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36ae7b3631b:0x698b55ad80b5e4d0!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F11y48ypgby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Venus+Aesthetics/@22.7968961,86.1845131,17z/data=!3m1!4b1!4m6!3m5!1s0x39f5e36ae7b3631b:0x698b55ad80b5e4d0!8m2!3d22.7968961!4d86.1845131!16s%2Fg%2F11y48ypgby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7968961,
+      "lng": 86.1845131,
+      "label": "Venus Aesthetics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

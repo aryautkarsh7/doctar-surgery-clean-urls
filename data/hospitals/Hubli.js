@@ -1,0 +1,12484 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "akshay-dental-care-hubballi",
+    "name": "Akshay Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Akshay Dental Care delivers integrated care across Oral Surgery In Hubli. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097432 39862",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No.4, Uma Complex, 580030, Akshay Colony, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Akshay Colony",
+    "landmark": "580030",
+    "emergencyContact": "097432 39862",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Akshay+Dental+Care/@15.3605954,75.1105652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d729a8f60b79:0xa97e83c0c75f1340!8m2!3d15.3605954!4d75.1105652!16s%2Fg%2F11b_00d9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akshay+Dental+Care/@15.3605954,75.1105652,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d729a8f60b79:0xa97e83c0c75f1340!8m2!3d15.3605954!4d75.1105652!16s%2Fg%2F11b_00d9_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3605954,
+      "lng": 75.1105652,
+      "label": "Akshay Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alfa-medical-center-hubballi",
+    "name": "Alfa Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Alfa Medical Center brings together specialists for Heart Surgery In Hubli. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083642 57788",
+    "alternatePhone": "",
+    "website": "http://alfamedicalcenter.in/",
+    "address": "NH-63, Hubli - Karwar Rd, Arvind Nagar, Old Hubli, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Old Hubli",
+    "landmark": "Arvind Nagar",
+    "emergencyContact": "083642 57788",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Alfa+Medical+Center/data=!4m7!3m6!1s0x3bb8d7147f759437:0x95cc48e65c3dab8a!8m2!3d15.341296!4d75.128081!16s%2Fg%2F1pyqfj03v!19sChIJN5R1fxTXuDsRiqs9XOZIzJU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alfa+Medical+Center/data=!4m7!3m6!1s0x3bb8d7147f759437:0x95cc48e65c3dab8a!8m2!3d15.341296!4d75.128081!16s%2Fg%2F1pyqfj03v!19sChIJN5R1fxTXuDsRiqs9XOZIzJU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.341296,
+      "lng": 75.128081,
+      "label": "Alfa Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anjuman-e-islam-hospital-hubballi",
+    "name": "Anjuman-E-Islam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Anjuman-E-Islam Hospital has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering General Surgery In Hubli. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083623 68998",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mehboob Ali Khan Road, Sadar, Station Road, J C Nagar, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "Station Road",
+    "emergencyContact": "083623 68998",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Anjuman-E-Islam+Hospital/@15.3482207,75.1451232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76787754a31:0x6bfffc2331204304!8m2!3d15.3482207!4d75.1451232!16s%2Fg%2F1tctk6yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anjuman-E-Islam+Hospital/@15.3482207,75.1451232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76787754a31:0x6bfffc2331204304!8m2!3d15.3482207!4d75.1451232!16s%2Fg%2F1tctk6yw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3482207,
+      "lng": 75.1451232,
+      "label": "Anjuman-E-Islam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apex-dental-clinic-and-implant-center-hubballi",
+    "name": "Apex dental clinic and implant center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Apex dental clinic and implant center brings together specialists for Oral Surgery In Hubli. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097401 95137",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Gadagkar complex, Sulla Rd, beside Dr shireesh patil child clinic, above khadims showroom, Hemanth Nagar, Bengeri Extension, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "beside Dr shireesh patil child clinic, above khadims showroom, Hemanth Nagar, Bengeri Extension, Keshwapur, Hubballi, Karnataka 580023",
+    "emergencyContact": "097401 95137",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+dental+clinic+and+implant+center/@15.363364,75.1490687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d719691f3c1b:0xf2f87fc7ad58c89a!8m2!3d15.363364!4d75.1490687!16s%2Fg%2F11gy743mdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+dental+clinic+and+implant+center/@15.363364,75.1490687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d719691f3c1b:0xf2f87fc7ad58c89a!8m2!3d15.363364!4d75.1490687!16s%2Fg%2F11gy743mdw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.363364,
+      "lng": 75.1490687,
+      "label": "Apex dental clinic and implant center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arivu-health-care-polyclinic-hubballi",
+    "name": "Arivu health care polyclinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Arivu health care polyclinic offers coordinated hospital care with major focus on General Surgery In Hubli. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094819 13948",
+    "alternatePhone": "",
+    "website": "https://arivuhealthcare.com/",
+    "address": "First floor, opposite Old Income Tax Office Road, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "opposite Old Income Tax Office Road, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "094819 13948",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arivu+health+care+polyclinic/@15.363233,75.127018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73697eb71c3:0x7899a08266076f1b!8m2!3d15.363233!4d75.127018!16s%2Fg%2F11c2kgl0pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arivu+health+care+polyclinic/@15.363233,75.127018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73697eb71c3:0x7899a08266076f1b!8m2!3d15.363233!4d75.127018!16s%2Fg%2F11c2kgl0pb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.363233,
+      "lng": 75.127018,
+      "label": "Arivu health care polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayushman-speciality-clinic-hubballi",
+    "name": "Ayushman Speciality Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Ayushman Speciality Clinic offers coordinated hospital care with major focus on General Surgery In Hubli and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076250 69944",
+    "alternatePhone": "",
+    "website": "https://ayushmanclinic.com/",
+    "address": "Revankar Complex LG-09, Ayushman Speciality Clinic Vasan eye care building, near court circle, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "near court circle",
+    "landmark": "near court circle, Hubballi, Karnataka 580029",
+    "emergencyContact": "076250 69944",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ayushman+Speciality+Clinic/@15.3533695,75.1395655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f596d321f9:0x456daeb2989521c4!8m2!3d15.3533695!4d75.1395655!16s%2Fg%2F11tk1zrb0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayushman+Speciality+Clinic/@15.3533695,75.1395655,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f596d321f9:0x456daeb2989521c4!8m2!3d15.3533695!4d75.1395655!16s%2Fg%2F11tk1zrb0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3533695,
+      "lng": 75.1395655,
+      "label": "Ayushman Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "balaji-hospitals-hubballi",
+    "name": "Balaji Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Balaji Hospitals offers coordinated hospital care with major focus on General Surgery In Hubli. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098862 29701",
+    "alternatePhone": "",
+    "website": "http://www.balajineuroinstitute.com/",
+    "address": "KSRTC Depot, Hosur - Unkal Bypass Rd, behind Hosur, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "behind Hosur",
+    "emergencyContact": "098862 29701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Balaji+Hospitals/@15.3566575,75.126056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738471c89a3:0xfe06f825896f3654!8m2!3d15.3566575!4d75.126056!16s%2Fg%2F12hpp3r27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Balaji+Hospitals/@15.3566575,75.126056,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738471c89a3:0xfe06f825896f3654!8m2!3d15.3566575!4d75.126056!16s%2Fg%2F12hpp3r27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3566575,
+      "lng": 75.126056,
+      "label": "Balaji Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bethel-dental-clinic-hubballi",
+    "name": "BETHEL DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BETHEL DENTAL CLINIC is a prominent dentist in Hubballi, known for structured tertiary care across Oral Surgery In Hubli and Dentist. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074836 43272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "84XP+JRM, NH-63, Kamaripeth, New Hubli, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "New Hubli",
+    "landmark": "Kamaripeth",
+    "emergencyContact": "074836 43272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/BETHEL+DENTAL+CLINIC/@15.3490812,75.1370569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418a7e45c5:0x87712edeebe03729!8m2!3d15.3490812!4d75.1370569!16s%2Fg%2F11krpspjky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BETHEL+DENTAL+CLINIC/@15.3490812,75.1370569,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418a7e45c5:0x87712edeebe03729!8m2!3d15.3490812!4d75.1370569!16s%2Fg%2F11krpspjky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3490812,
+      "lng": 75.1370569,
+      "label": "BETHEL DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhat-dental-care-centre-hubballi",
+    "name": "Bhat Dental Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhat Dental Care Centre has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099458 99316",
+    "alternatePhone": "",
+    "website": "https://www.bhatdentalclinic.com/",
+    "address": "Bhat Dental Care Centre, Enkay Complex 12, opposite Fatima PU College, In, Bhavani Nagar, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "opposite Fatima PU College, In, Bhavani Nagar, Keshwapur, Hubballi, Karnataka 580023",
+    "emergencyContact": "099458 99316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhat+Dental+Care+Centre/@15.3589879,75.1465457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75a7a82075b:0xbd07998670d7f728!8m2!3d15.3589879!4d75.1465457!16s%2Fg%2F11bzzpt640?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhat+Dental+Care+Centre/@15.3589879,75.1465457,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75a7a82075b:0xbd07998670d7f728!8m2!3d15.3589879!4d75.1465457!16s%2Fg%2F11bzzpt640?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3589879,
+      "lng": 75.1465457,
+      "label": "Bhat Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chirayu-clinic-hubballi",
+    "name": "Chirayu Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chirayu Clinic is a prominent medical clinic in Hubballi, known for structured tertiary care across Heart Surgery In Hubli. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097410 42060",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Road, Nekar Nagar Main Rd, Nekar Nagar, Old Hubli, Timmasagar, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Timmasagar",
+    "landmark": "Nekar Nagar",
+    "emergencyContact": "097410 42060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chirayu+Clinic/@15.3233566,75.1243107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1a277158e9b:0x5b5b49bbe509cf59!8m2!3d15.3233566!4d75.1243107!16s%2Fg%2F11tsm4zbdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chirayu+Clinic/@15.3233566,75.1243107,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1a277158e9b:0x5b5b49bbe509cf59!8m2!3d15.3233566!4d75.1243107!16s%2Fg%2F11tsm4zbdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3233566,
+      "lng": 75.1243107,
+      "label": "Chirayu Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-clinic-hubballi",
+    "name": "City Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, City Clinic brings together specialists for General Surgery In Hubli. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083623 63137",
+    "alternatePhone": "",
+    "website": "http://cityclinichubli.com/",
+    "address": "84XQ+PW9, Dajiban Peth Rd, Madhavpura, NearJanta Bazar, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "Madhavpura",
+    "emergencyContact": "083623 63137",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Clinic/@15.3492811,75.1398725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7425dd7773d:0x6d7b602f83bef4bd!8m2!3d15.3492811!4d75.1398725!16s%2Fg%2F11s4z39sd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Clinic/@15.3492811,75.1398725,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7425dd7773d:0x6d7b602f83bef4bd!8m2!3d15.3492811!4d75.1398725!16s%2Fg%2F11s4z39sd1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3492811,
+      "lng": 75.1398725,
+      "label": "City Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deeksha-dental-care-hubballi",
+    "name": "Deeksha Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deeksha Dental Care is a prominent dental clinic in Hubballi, known for structured tertiary care across Oral Surgery In Hubli. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086188 12681",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground floor, Hotel Samrat Ashok, opp. Lamington Boy's High School, J C Nagar, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "opp. Lamington Boy's High School",
+    "emergencyContact": "086188 12681",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Deeksha+Dental+Care/@15.351839,75.1428947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74e364103e7:0x961ac01a36b97f2f!8m2!3d15.351839!4d75.1428947!16s%2Fg%2F11sq_b_vqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deeksha+Dental+Care/@15.351839,75.1428947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74e364103e7:0x961ac01a36b97f2f!8m2!3d15.351839!4d75.1428947!16s%2Fg%2F11sq_b_vqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.351839,
+      "lng": 75.1428947,
+      "label": "Deeksha Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deenar-dental-clinic-and-implant-centre-hubballi",
+    "name": "Deenar Dental Clinic and implant centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Deenar Dental Clinic and implant centre for its strength in Oral Surgery In Hubli. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083622 62480",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gudi Complex, CBT Rd, Shah Bazar, Durgad Bail, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "Shah Bazar",
+    "emergencyContact": "083622 62480",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Deenar+Dental+Clinic+and+implant+centre/@15.3433563,75.1444057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xb172c490fa4959c8!8m2!3d15.3433563!4d75.1444057!16s%2Fg%2F11f4pqyljg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deenar+Dental+Clinic+and+implant+centre/@15.3433563,75.1444057,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xb172c490fa4959c8!8m2!3d15.3433563!4d75.1444057!16s%2Fg%2F11f4pqyljg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3433563,
+      "lng": 75.1444057,
+      "label": "Deenar Dental Clinic and implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-district-hubballi",
+    "name": "Dental District",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Dental District offers coordinated hospital care with major focus on Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090087 01702",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dental District #5 Gurudev Landmark, near MORE, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Vidya Nagar",
+    "landmark": "near MORE, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580031",
+    "emergencyContact": "090087 01702",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+District/@15.3628907,75.1199786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7cff9e14a75:0xd459a4ae77fe4cb3!8m2!3d15.3628907!4d75.1199786!16s%2Fg%2F11pwz8n4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+District/@15.3628907,75.1199786,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7cff9e14a75:0xd459a4ae77fe4cb3!8m2!3d15.3628907!4d75.1199786!16s%2Fg%2F11pwz8n4nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3628907,
+      "lng": 75.1199786,
+      "label": "Dental District",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dev-clinic-hubballi",
+    "name": "Dev clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Dev clinic for its strength in General Surgery In Hubli and Medical Center. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097310 91699",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vidyanagar, Dev Ashirvad\" bldg, opp. old Income tax office, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "opp. old Income tax office",
+    "landmark": "opp. old Income tax office",
+    "emergencyContact": "097310 91699",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dev+clinic/@15.363005,75.1269262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7348dfb6941:0xb7f8d07c42207a84!8m2!3d15.363005!4d75.1269262!16s%2Fg%2F11k5804t3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dev+clinic/@15.363005,75.1269262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7348dfb6941:0xb7f8d07c42207a84!8m2!3d15.363005!4d75.1269262!16s%2Fg%2F11k5804t3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.363005,
+      "lng": 75.1269262,
+      "label": "Dev clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhotrad-health-and-maternity-hospital-hubballi",
+    "name": "Dhotrad Health and Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Dhotrad Health and Maternity Hospital brings together specialists for Heart Surgery In Hubli. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083642 53037",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gokul Rd, Basaveshvar Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Basaveshvar Nagar",
+    "landmark": "Hubballi",
+    "emergencyContact": "083642 53037",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Dhotrad+Health+and+Maternity+Hospital/@15.3523297,75.1031399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6d941e4de41:0x9678f3e3fe001016!8m2!3d15.3523297!4d75.1031399!16s%2Fg%2F11cmvn2f2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhotrad+Health+and+Maternity+Hospital/@15.3523297,75.1031399,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6d941e4de41:0x9678f3e3fe001016!8m2!3d15.3523297!4d75.1031399!16s%2Fg%2F11cmvn2f2p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3523297,
+      "lng": 75.1031399,
+      "label": "Dhotrad Health and Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhotrad-s-sunny-dental-and-orthodontic-clinic-invisalign-aligners-and-braces-hubballi",
+    "name": "Dhotrad's Sunny Dental and Orthodontic Clinic | Invisalign Aligners and Braces",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Dhotrad's Sunny Dental and Orthodontic Clinic | Invisalign Aligners and Braces offers coordinated hospital care with major focus on Oral Surgery In Hubli and Orthopaedics. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093431 09693",
+    "alternatePhone": "",
+    "website": "http://www.dhotraddental.com/",
+    "address": "First Floor, Basaveshwar nagar, C 5, Gokul Rd, Basaveshvar Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Basaveshvar Nagar",
+    "landmark": "C 5",
+    "emergencyContact": "093431 09693",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+and+Orthodontic+Clinic+%7C+Invisalign+Aligners+and+Braces/@15.3524025,75.1031171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6b93aaaaaab:0xb3a404aa08d22f65!8m2!3d15.3524025!4d75.1031171!16s%2Fg%2F11c4wc77l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+and+Orthodontic+Clinic+%7C+Invisalign+Aligners+and+Braces/@15.3524025,75.1031171,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d6b93aaaaaab:0xb3a404aa08d22f65!8m2!3d15.3524025!4d75.1031171!16s%2Fg%2F11c4wc77l9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3524025,
+      "lng": 75.1031171,
+      "label": "Dhotrad's Sunny Dental and Orthodontic Clinic | Invisalign Aligners and Braces",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhotrad-s-sunny-dental-clinic-hubballi",
+    "name": "Dhotrad's Sunny Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhotrad's Sunny Dental Clinic has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093431 09693",
+    "alternatePhone": "",
+    "website": "http://www.dhotrad.com/",
+    "address": "Lingraj Nagar, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Lingraj Nagar",
+    "landmark": "Karnataka 580031",
+    "emergencyContact": "093431 09693",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+Clinic/@15.3685167,75.1128487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72b699d55a5:0x935b548887271ab8!8m2!3d15.3685167!4d75.1128487!16s%2Fg%2F11bzr70n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhotrad's+Sunny+Dental+Clinic/@15.3685167,75.1128487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72b699d55a5:0x935b548887271ab8!8m2!3d15.3685167!4d75.1128487!16s%2Fg%2F11bzr70n17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3685167,
+      "lng": 75.1128487,
+      "label": "Dhotrad's Sunny Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eyesiri-m-m-joshi-eye-institute-hubballi",
+    "name": "EyeSiri - M. M. Joshi Eye Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, EyeSiri - M. M. Joshi Eye Institute brings together specialists for Heart Surgery In Hubli. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083622 29222",
+    "alternatePhone": "",
+    "website": "https://www.mmjoshieyeinstitute.com/eyesiri/",
+    "address": "Hosur - Unkal Bypass Rd, next to shakuntala memorial hospital, Kallur Layout, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Kallur Layout",
+    "landmark": "Kallur Layout",
+    "emergencyContact": "083622 29222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/EyeSiri+-+M.+M.+Joshi+Eye+Institute/@15.3532148,75.1275262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ada2186227:0x28ad2633a1155173!8m2!3d15.3532148!4d75.1275262!16s%2Fg%2F11vqzqbq0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/EyeSiri+-+M.+M.+Joshi+Eye+Institute/@15.3532148,75.1275262,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ada2186227:0x28ad2633a1155173!8m2!3d15.3532148!4d75.1275262!16s%2Fg%2F11vqzqbq0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3532148,
+      "lng": 75.1275262,
+      "label": "EyeSiri - M. M. Joshi Eye Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "g-square-clinic-skin-hair-and-plastic-surgery-hubballi",
+    "name": "G Square Clinic Skin, Hair and Plastic Surgery",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Hubballi, G Square Clinic Skin, Hair and Plastic Surgery delivers integrated care across Oral Surgery In Hubli. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091106 10004",
+    "alternatePhone": "",
+    "website": "https://gsquareskinandaesthetics.in/",
+    "address": "First floor, Besides, New Court Building, Landmark : Prithvi Paradise, G Square Skin and Hair Clinic, Skin and Hair Specialist, Aesthetics & Plastic Surgery Shriya Laxmi Business Center, above Reliance Smart Point, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "above Reliance Smart Point",
+    "landmark": "Landmark : Prithvi Paradise, G Square Skin and Hair Clinic, Skin and Hair Specialist, Aesthetics & Plastic Surgery Shriya Laxmi Business Center, above Reliance Smart Point, Hubballi, Karnataka 580021",
+    "emergencyContact": "091106 10004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/G+Square+Clinic+Skin,+Hair+and+Plastic+Surgery/@15.3565758,75.1250681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7171d17291d:0x309aa5599c80c58c!8m2!3d15.3565758!4d75.1250681!16s%2Fg%2F11k9mmtj2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/G+Square+Clinic+Skin,+Hair+and+Plastic+Surgery/@15.3565758,75.1250681,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7171d17291d:0x309aa5599c80c58c!8m2!3d15.3565758!4d75.1250681!16s%2Fg%2F11k9mmtj2j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3565758,
+      "lng": 75.1250681,
+      "label": "G Square Clinic Skin, Hair and Plastic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gums-and-teeth-dental-clinic-hubballi",
+    "name": "Gums And Teeth Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Gums And Teeth Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Hubli and Dentist. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093416 89820",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RAVENKAR COMPLEX, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "Hubballi",
+    "emergencyContact": "093416 89820",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Gums+And+Teeth+Dental+Clinic/@15.3531222,75.1393058,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418eea861d:0x2d78e191bab0152d!8m2!3d15.3531222!4d75.1393058!16s%2Fg%2F11g03r2kk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gums+And+Teeth+Dental+Clinic/@15.3531222,75.1393058,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7418eea861d:0x2d78e191bab0152d!8m2!3d15.3531222!4d75.1393058!16s%2Fg%2F11g03r2kk9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3531222,
+      "lng": 75.1393058,
+      "label": "Gums And Teeth Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hamsa-healthcare-hubballi",
+    "name": "Hamsa Healthcare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hamsa Healthcare has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering General Surgery In Hubli. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070226 29112",
+    "alternatePhone": "",
+    "website": "http://hamsahealth.org/",
+    "address": "32, Lingraj Rd, Kumara Vyasa Nagar, Lingarajnagar North, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Lingarajnagar North",
+    "landmark": "Kumara Vyasa Nagar",
+    "emergencyContact": "070226 29112",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hamsa+Healthcare/@15.3664656,75.1128396,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70005b9444b:0x93c39992a5d70ccd!8m2!3d15.3664656!4d75.1128396!16s%2Fg%2F11vqs7ptyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hamsa+Healthcare/@15.3664656,75.1128396,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70005b9444b:0x93c39992a5d70ccd!8m2!3d15.3664656!4d75.1128396!16s%2Fg%2F11vqs7ptyv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3664656,
+      "lng": 75.1128396,
+      "label": "Hamsa Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "happy-dentz-dental-clinic-hubballi",
+    "name": "Happy Dentz Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Happy Dentz Dental Clinic brings together specialists for Oral Surgery In Hubli. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090351 75080",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Indraprastha Nagar, 21, Anand Nagar Rd, Old Hubli, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Old Hubli",
+    "landmark": "Anand Nagar Rd",
+    "emergencyContact": "090351 75080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic/@15.3376475,75.1155205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75c3fd7895f:0xd20e5c3ce67d9069!8m2!3d15.3376475!4d75.1155205!16s%2Fg%2F11m6mkwlt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic/@15.3376475,75.1155205,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75c3fd7895f:0xd20e5c3ce67d9069!8m2!3d15.3376475!4d75.1155205!16s%2Fg%2F11m6mkwlt_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3376475,
+      "lng": 75.1155205,
+      "label": "Happy Dentz Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-nmr-cancer-hospital-hubli-hubballi",
+    "name": "HCG NMR Cancer Hospital Hubli",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Hubballi, HCG NMR Cancer Hospital Hubli delivers integrated care across Heart Surgery In Hubli and Cancer Treatment Center. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098862 11522",
+    "alternatePhone": "",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-nmr-cancer-centre-hubli/",
+    "address": "Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "Karnataka 580029",
+    "emergencyContact": "098862 11522",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+NMR+Cancer+Hospital+Hubli/@15.3540542,75.1389776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7440fb4ba31:0x1f0f77c68cfe4fc0!8m2!3d15.3540542!4d75.1389776!16s%2Fg%2F11ddzcldnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+NMR+Cancer+Hospital+Hubli/@15.3540542,75.1389776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7440fb4ba31:0x1f0f77c68cfe4fc0!8m2!3d15.3540542!4d75.1389776!16s%2Fg%2F11ddzcldnn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3540542,
+      "lng": 75.1389776,
+      "label": "HCG NMR Cancer Hospital Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heart-clinic-hubballi",
+    "name": "Heart Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Heart Clinic brings together specialists for Heart Surgery In Hubli and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083622 56799",
+    "alternatePhone": "",
+    "website": "http://www.drnitinkumarkadakol.com/",
+    "address": "Arihant Plaza, Kusugal Rd, opp. Sbi Zonal Office, Hemanth Nagar, Bengeri Extension, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "opp. Sbi Zonal Office",
+    "emergencyContact": "083622 56799",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Heart+Clinic/@15.3615989,75.1499397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7573c2824d3:0xc5848283bbfd76a!8m2!3d15.3615989!4d75.1499397!16s%2Fg%2F11c48xgdyp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Heart+Clinic/@15.3615989,75.1499397,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7573c2824d3:0xc5848283bbfd76a!8m2!3d15.3615989!4d75.1499397!16s%2Fg%2F11c48xgdyp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3615989,
+      "lng": 75.1499397,
+      "label": "Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hema-dental-hubballi",
+    "name": "Hema Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hema Dental has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094484 85233",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. B-2, Balaganur Apartment, Road, near Ramesh Bhavan, Hemanth Nagar, Bengeri Extension, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "near Ramesh Bhavan, Hemanth Nagar, Bengeri Extension, Keshwapur, Hubballi, Karnataka 580023",
+    "emergencyContact": "094484 85233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Hema+Dental/@15.3636302,75.1492881,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d756c8aeb6e7:0x23465dfc9b039292!8m2!3d15.3636302!4d75.1492881!16s%2Fg%2F11bzwp7njy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hema+Dental/@15.3636302,75.1492881,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d756c8aeb6e7:0x23465dfc9b039292!8m2!3d15.3636302!4d75.1492881!16s%2Fg%2F11bzwp7njy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3636302,
+      "lng": 75.1492881,
+      "label": "Hema Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hoskatti-medical-center-hubballi",
+    "name": "Hoskatti Medical center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hoskatti Medical center is a prominent hospital in Hubballi, known for structured tertiary care across General Surgery In Hubli. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2, Gokul Rd, Green Garden, Vikas Nagar, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Vikas Nagar",
+    "landmark": "Green Garden",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Hoskatti+Medical+center/@15.3495136,75.1243258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73f77791fbf:0x108ae18706b97c1e!8m2!3d15.3495136!4d75.1243258!16s%2Fg%2F1hhwc8pb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hoskatti+Medical+center/@15.3495136,75.1243258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73f77791fbf:0x108ae18706b97c1e!8m2!3d15.3495136!4d75.1243258!16s%2Fg%2F1hhwc8pb0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3495136,
+      "lng": 75.1243258,
+      "label": "Hoskatti Medical center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hubli-dental-care-hubballi",
+    "name": "Hubli Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hubli Dental Care has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063644 78999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop. No. 15/1, ﬁrst ﬂoor Mallikarjun Avenue, Koppikar Rd, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Koppikar Rd",
+    "landmark": "Koppikar Rd",
+    "emergencyContact": "063644 78999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Hubli+Dental+Care/@15.3497732,75.1415104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e23e0e4141:0x778fb19baeb78fae!8m2!3d15.3497732!4d75.1415104!16s%2Fg%2F11rvdjqvrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hubli+Dental+Care/@15.3497732,75.1415104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e23e0e4141:0x778fb19baeb78fae!8m2!3d15.3497732!4d75.1415104!16s%2Fg%2F11rvdjqvrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3497732,
+      "lng": 75.1415104,
+      "label": "Hubli Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hubli-dental-clinics-hubballi",
+    "name": "Hubli Dental Clinics",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Hubli Dental Clinics delivers integrated care across Oral Surgery In Hubli. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093431 09693",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Basaveshvar Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Basaveshvar Nagar",
+    "landmark": "Karnataka 580030",
+    "emergencyContact": "093431 09693",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Hubli+Dental+Clinics/@15.3523166,75.1032563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d798916543ff:0x5f17b05fa0096f49!8m2!3d15.3523166!4d75.1032563!16s%2Fg%2F11ghnqhc4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hubli+Dental+Clinics/@15.3523166,75.1032563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d798916543ff:0x5f17b05fa0096f49!8m2!3d15.3523166!4d75.1032563!16s%2Fg%2F11ghnqhc4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3523166,
+      "lng": 75.1032563,
+      "label": "Hubli Dental Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "inspire-clinic-center-for-ent-and-respiratory-diseases-hubli-hubballi",
+    "name": "Inspire Clinic , Center for ENT & Respiratory Diseases, Hubli",
+    "type": "Pulmonologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Inspire Clinic , Center for ENT & Respiratory Diseases, Hubli offers coordinated hospital care with major focus on Heart Surgery In Hubli and Pulmonologist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096112 15598",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp:G M, Navale Landmark, 1st Floor, Shriya - Laxmi Business Center, Hosur - Unkal Bypass Rd, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Hosur - Unkal Bypass Rd",
+    "landmark": "1st Floor",
+    "emergencyContact": "096112 15598",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Pulmonologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Inspire+Clinic+,+Center+for+ENT+%26+Respiratory+Diseases,+Hubli/@15.3567985,75.1253079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d726378710c9:0x7105bc2155fee3a7!8m2!3d15.3567985!4d75.1253079!16s%2Fg%2F11wj3tgvj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Inspire+Clinic+,+Center+for+ENT+%26+Respiratory+Diseases,+Hubli/@15.3567985,75.1253079,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d726378710c9:0x7105bc2155fee3a7!8m2!3d15.3567985!4d75.1253079!16s%2Fg%2F11wj3tgvj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3567985,
+      "lng": 75.1253079,
+      "label": "Inspire Clinic , Center for ENT & Respiratory Diseases, Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "institute-of-laparoscopy-and-gastroenterology-hubballi",
+    "name": "Institute of Laparoscopy and Gastroenterology",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Institute of Laparoscopy and Gastroenterology brings together specialists for General Surgery In Hubli, Medical Center, and Gastroenterology. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097157 95795",
+    "alternatePhone": "",
+    "website": "https://ilggastro.com/",
+    "address": "Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "Karnataka 580020",
+    "emergencyContact": "097157 95795",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Medical Center",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Institute+of+Laparoscopy+and+Gastroenterology/@15.3531671,75.142347,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6bc66115d:0x5cf4a54a08726b20!8m2!3d15.3531671!4d75.142347!16s%2Fg%2F11j3s612p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Institute+of+Laparoscopy+and+Gastroenterology/@15.3531671,75.142347,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6bc66115d:0x5cf4a54a08726b20!8m2!3d15.3531671!4d75.142347!16s%2Fg%2F11j3s612p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3531671,
+      "lng": 75.142347,
+      "label": "Institute of Laparoscopy and Gastroenterology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jashank-dental-clinic-and-implant-center-hubballi",
+    "name": "Jashank Dental Clinic and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Jashank Dental Clinic and Implant Center for its strength in Oral Surgery In Hubli. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087921 33960",
+    "alternatePhone": "",
+    "website": "https://jashankdental.in/",
+    "address": "near Rocker point, behind MedPlus, Siddeshwar Park, Barthi colony, Vidya Nagar, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Vidya Nagar",
+    "landmark": "Siddeshwar Park",
+    "emergencyContact": "087921 33960",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jashank+Dental+Clinic+and+Implant+Center/@15.3643809,75.1146337,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748a926c35b:0x197760fb6ae1cfb0!8m2!3d15.3643809!4d75.1146337!16s%2Fg%2F11rqgfkrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jashank+Dental+Clinic+and+Implant+Center/@15.3643809,75.1146337,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748a926c35b:0x197760fb6ae1cfb0!8m2!3d15.3643809!4d75.1146337!16s%2Fg%2F11rqgfkrdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3643809,
+      "lng": 75.1146337,
+      "label": "Jashank Dental Clinic and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jayade-s-dental-world-hubballi",
+    "name": "Jayade’s Dental World",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Jayade’s Dental World delivers integrated care across Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098866 40275",
+    "alternatePhone": "",
+    "website": "https://jayadedentalworld.com/",
+    "address": "Shop No. 10, 1st Floor, Eureka Corner, Koppikar Rd, Kamaripeth, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "Eureka Corner",
+    "emergencyContact": "098866 40275",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jayade%E2%80%99s+Dental+World/@15.3470671,75.1423387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d752af878bc5:0xd72bf56689221eab!8m2!3d15.3470671!4d75.1423387!16s%2Fg%2F11k6y393x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jayade%E2%80%99s+Dental+World/@15.3470671,75.1423387,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d752af878bc5:0xd72bf56689221eab!8m2!3d15.3470671!4d75.1423387!16s%2Fg%2F11k6y393x2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3470671,
+      "lng": 75.1423387,
+      "label": "Jayade’s Dental World",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jayapriya-hospital-hubballi",
+    "name": "Jayapriya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Jayapriya Hospital for its strength in General Surgery In Hubli. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083622 51767",
+    "alternatePhone": "",
+    "website": "http://jayapriyahospitalhubli.org/",
+    "address": "Deshpande Nagar Rd, near Canara Bank Circle Office, Bailappanavar Nagar, Vidya Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Vidya Nagar",
+    "landmark": "near Canara Bank Circle Office, Bailappanavar Nagar, Vidya Nagar, Hubballi, Karnataka 580029",
+    "emergencyContact": "083622 51767",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jayapriya+Hospital/@15.3611345,75.1353943,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748dd753ad9:0xbd43e3ed6e9b6844!8m2!3d15.3611345!4d75.1353943!16s%2Fg%2F11x9v_bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jayapriya+Hospital/@15.3611345,75.1353943,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d748dd753ad9:0xbd43e3ed6e9b6844!8m2!3d15.3611345!4d75.1353943!16s%2Fg%2F11x9v_bfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3611345,
+      "lng": 75.1353943,
+      "label": "Jayapriya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevannavar-skin-care-clinic-hubballi",
+    "name": "JEEVANNAVAR SKIN CARE CLINIC",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, JEEVANNAVAR SKIN CARE CLINIC offers coordinated hospital care with major focus on Plastic Surgery In Hubli. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083174 53945",
+    "alternatePhone": "",
+    "website": "http://www.jeevannavarskincare.com/",
+    "address": "2nd floor, Access, 944P+PX6 KGS plaza, opp. Reliance Fresh, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "944P+PX6 KGS plaza",
+    "emergencyContact": "083174 53945",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JEEVANNAVAR+SKIN+CARE+CLINIC/@15.3567105,75.1374267,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ec1c844189:0xc9349518c20e271a!8m2!3d15.3567105!4d75.1374267!16s%2Fg%2F11g10gnxcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JEEVANNAVAR+SKIN+CARE+CLINIC/@15.3567105,75.1374267,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ec1c844189:0xc9349518c20e271a!8m2!3d15.3567105!4d75.1374267!16s%2Fg%2F11g10gnxcq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3567105,
+      "lng": 75.1374267,
+      "label": "JEEVANNAVAR SKIN CARE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jituri-s-infinity-dental-care-hubballi",
+    "name": "Jituri's INFINITY DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Jituri's INFINITY DENTAL CARE brings together specialists for Oral Surgery In Hubli. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091480 88586",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr Odugoudar's Building, Club Rd, opposite AADHAAR SEVA KENDRA, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "opposite AADHAAR SEVA KENDRA, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "emergencyContact": "091480 88586",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Jituri's+INFINITY+DENTAL+CARE/@15.3534964,75.1409121,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74361bf36d7:0xc8917d28f5ff954a!8m2!3d15.3534964!4d75.1409121!16s%2Fg%2F11fy5784lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jituri's+INFINITY+DENTAL+CARE/@15.3534964,75.1409121,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74361bf36d7:0xc8917d28f5ff954a!8m2!3d15.3534964!4d75.1409121!16s%2Fg%2F11fy5784lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3534964,
+      "lng": 75.1409121,
+      "label": "Jituri's INFINITY DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "joshi-s-dental-hubballi",
+    "name": "Joshi’s dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Joshi’s dental has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072595 87992",
+    "alternatePhone": "",
+    "website": "http://www.joshidentalclinic.in/",
+    "address": "Chandrika, Pinto Rd, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "Deshpande Nagar",
+    "emergencyContact": "072595 87992",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Joshi%E2%80%99s+dental/@15.3537695,75.1420334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744a7b5011f:0xf3bed25fbd6281e!8m2!3d15.3537695!4d75.1420334!16s%2Fg%2F11c0x8g37z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Joshi%E2%80%99s+dental/@15.3537695,75.1420334,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744a7b5011f:0xf3bed25fbd6281e!8m2!3d15.3537695!4d75.1420334!16s%2Fg%2F11c0x8g37z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3537695,
+      "lng": 75.1420334,
+      "label": "Joshi’s dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalghatgi-hospital-hubballi",
+    "name": "Kalghatgi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Kalghatgi Hospital offers coordinated hospital care with major focus on General Surgery In Hubli. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083622 28334",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chitaguppi Park, Pinto Rd, near Central Telegraph Office, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "near Central Telegraph Office",
+    "landmark": "near Central Telegraph Office, Hubballi, Karnataka 580020",
+    "emergencyContact": "083622 28334",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Kalghatgi+Hospital/@15.3531448,75.1422898,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74346ead7ef:0x56851cc702a6959f!8m2!3d15.3531448!4d75.1422898!16s%2Fg%2F1tzvt_h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalghatgi+Hospital/@15.3531448,75.1422898,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74346ead7ef:0x56851cc702a6959f!8m2!3d15.3531448!4d75.1422898!16s%2Fg%2F1tzvt_h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3531448,
+      "lng": 75.1422898,
+      "label": "Kalghatgi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kareem-hospital-hubballi",
+    "name": "Kareem Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kareem Hospital has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering General Surgery In Hubli. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083622 01111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Fort, Nava Ayodhya Nagar, Ayodhya Nagar, Old Hubli, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Old Hubli",
+    "landmark": "Ayodhya Nagar",
+    "emergencyContact": "083622 01111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kareem+Hospital/@15.3372671,75.1298716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77300000001:0xe769f72b19cc45f7!8m2!3d15.3372671!4d75.1298716!16s%2Fg%2F1tdjplmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kareem+Hospital/@15.3372671,75.1298716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77300000001:0xe769f72b19cc45f7!8m2!3d15.3372671!4d75.1298716!16s%2Fg%2F1tdjplmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3372671,
+      "lng": 75.1298716,
+      "label": "Kareem Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kavlekar-dental-hubballi",
+    "name": "Kavlekar Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kavlekar Dental has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098448 35587",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, above style union, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "Shirur Park",
+    "emergencyContact": "098448 35587",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kavlekar+Dental/@15.3623439,75.1189991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d737731fa873:0x10ace9e8a5f43141!8m2!3d15.3623439!4d75.1189991!16s%2Fg%2F11g9nllg7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kavlekar+Dental/@15.3623439,75.1189991,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d737731fa873:0x10ace9e8a5f43141!8m2!3d15.3623439!4d75.1189991!16s%2Fg%2F11g9nllg7c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3623439,
+      "lng": 75.1189991,
+      "label": "Kavlekar Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kdc-dental-care-hubballi",
+    "name": "KDC Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose KDC Dental Care for its strength in Oral Surgery In Hubli. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083622 52344",
+    "alternatePhone": "",
+    "website": "http://www.kdcdentalcare.org/",
+    "address": "KDC Dental Care and Implant's Centre 3rd Floor, Bhavani Arcade, Opp. Basavavana, near old bus stand, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "near old bus stand",
+    "landmark": "near old bus stand, Hubballi, Karnataka 580029",
+    "emergencyContact": "083622 52344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KDC+Dental+Care/@15.3521405,75.1353005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74137165c37:0xcae7325aa40f9c3d!8m2!3d15.3521405!4d75.1353005!16s%2Fg%2F11bzyndznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KDC+Dental+Care/@15.3521405,75.1353005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74137165c37:0xcae7325aa40f9c3d!8m2!3d15.3521405!4d75.1353005!16s%2Fg%2F11bzyndznc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3521405,
+      "lng": 75.1353005,
+      "label": "KDC Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kims-hospital-kusugal",
+    "name": "KIMS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KIMS Hospital has built a strong reputation in Kusugal for multidisciplinary treatment pathways covering Heart Surgery In Hubli. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083623 70056",
+    "alternatePhone": "",
+    "website": "https://hubballikims.karnataka.gov.in/english",
+    "address": "Hubballi, Kusugal, Karnataka 580021",
+    "city": "Kusugal",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Hubballi",
+    "landmark": "Karnataka 580021",
+    "emergencyContact": "083623 70056",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KIMS+Hospital/@15.3650859,75.2218524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7362c696f51:0xf6ebcd495f43f41a!8m2!3d15.3650859!4d75.2218524!16s%2Fg%2F11h9y64s71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KIMS+Hospital/@15.3650859,75.2218524,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7362c696f51:0xf6ebcd495f43f41a!8m2!3d15.3650859!4d75.2218524!16s%2Fg%2F11h9y64s71?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3650859,
+      "lng": 75.2218524,
+      "label": "KIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "konnur-hospital-hubballi",
+    "name": "Konnur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Konnur Hospital brings together specialists for General Surgery In Hubli. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Fort Road, Diddi Oni, Nava Ayodhya Nagar, Ayodhya Nagar, Old Hubli, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Old Hubli",
+    "landmark": "Nava Ayodhya Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Konnur+Hospital/@15.3368837,75.1294705,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71293839a95:0x2f1d1e5ed086dc83!8m2!3d15.3368837!4d75.1294705!16s%2Fg%2F11c0rqb6rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Konnur+Hospital/@15.3368837,75.1294705,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71293839a95:0x2f1d1e5ed086dc83!8m2!3d15.3368837!4d75.1294705!16s%2Fg%2F11c0rqb6rg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3368837,
+      "lng": 75.1294705,
+      "label": "Konnur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lejoys-dental-care-hubballi",
+    "name": "Lejoys Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Lejoys Dental Care brings together specialists for Oral Surgery In Hubli. With public-facing highlights like Google rating 3.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083622 52494",
+    "alternatePhone": "",
+    "website": "https://app.vervelabs.ai/chat/vrv_f9f65f0c4b9112d905baef6aa3e7f44fa2c219d2dbfa1e28f0ef",
+    "address": "Lejoys Dental Care.Kusugal Road, Keshwapur Circle, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "Keshwapur",
+    "emergencyContact": "083622 52494",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lejoys+Dental+Care/@15.3605137,75.1478528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d750baa4e89d:0x10248ae437bc6153!8m2!3d15.3605137!4d75.1478528!16s%2Fg%2F11gj0x51cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lejoys+Dental+Care/@15.3605137,75.1478528,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d750baa4e89d:0x10248ae437bc6153!8m2!3d15.3605137!4d75.1478528!16s%2Fg%2F11gj0x51cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3605137,
+      "lng": 75.1478528,
+      "label": "Lejoys Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "m-m-joshi-eye-hospital-hubli-hubballi",
+    "name": "M M Joshi Eye Hospital - Hubli",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, M M Joshi Eye Hospital - Hubli brings together specialists for Heart Surgery In Hubli. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083622 28222",
+    "alternatePhone": "",
+    "website": "http://www.mmjoshieyeinstitute.com/",
+    "address": "Gokul Rd, near KH Jituri Hospital, Hosur, Sadashiv Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Sadashiv Nagar",
+    "landmark": "near KH Jituri Hospital, Hosur, Sadashiv Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "083622 28222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Hubli/@15.3533462,75.1304448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70e0588863b:0x68749d2f03041d2f!8m2!3d15.3533462!4d75.1304448!16s%2Fg%2F1w97svlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/M+M+Joshi+Eye+Hospital+-+Hubli/@15.3533462,75.1304448,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70e0588863b:0x68749d2f03041d2f!8m2!3d15.3533462!4d75.1304448!16s%2Fg%2F1w97svlq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3533462,
+      "lng": 75.1304448,
+      "label": "M M Joshi Eye Hospital - Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-clinic-station-road-hubballi",
+    "name": "Madhavbaug clinic - Station Road",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Madhavbaug clinic - Station Road offers coordinated hospital care with major focus on Heart Surgery In Hubli. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0224 893 3666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, RM joshi Motors(Petrol Pumps, Lamington Rd, above SONY SHOWROOM, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "Lamington Rd",
+    "emergencyContact": "0224 893 3666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+clinic+-+Station+Road/@15.3513262,75.1416741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d79db987ec1f:0xb55979b28a58e9f!8m2!3d15.3513262!4d75.1416741!16s%2Fg%2F11mw777_gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+clinic+-+Station+Road/@15.3513262,75.1416741,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d79db987ec1f:0xb55979b28a58e9f!8m2!3d15.3513262!4d75.1416741!16s%2Fg%2F11mw777_gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3513262,
+      "lng": 75.1416741,
+      "label": "Madhavbaug clinic - Station Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-navanagar-hubli-cardiac-care-ayurvedic-clinic-and-panchakarma-center-hubballi",
+    "name": "Madhavbaug Navanagar, Hubli | Cardiac Care Ayurvedic Clinic & Panchakarma Center",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Madhavbaug Navanagar, Hubli | Cardiac Care Ayurvedic Clinic & Panchakarma Center is a prominent ayurvedic clinic in Hubballi, known for structured tertiary care across Heart Surgery In Hubli and Cardiac Care. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Above Corporation Bank, MIG-3 Mahabaleswar, Main Road, Annex, Navanagar, Hubballi, Karnataka 580025",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580025",
+    "locality": "Navanagar",
+    "landmark": "MIG-3 Mahabaleswar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+Navanagar,+Hubli+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@15.39429,75.083258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1bc28ba2533:0x5630c13833abbd0b!8m2!3d15.39429!4d75.083258!16s%2Fg%2F11qnfdfd7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+Navanagar,+Hubli+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@15.39429,75.083258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d1bc28ba2533:0x5630c13833abbd0b!8m2!3d15.39429!4d75.083258!16s%2Fg%2F11qnfdfd7f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.39429,
+      "lng": 75.083258,
+      "label": "Madhavbaug Navanagar, Hubli | Cardiac Care Ayurvedic Clinic & Panchakarma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-vidyanagar-hubballi-hubballi",
+    "name": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Vidyanagar, Hubballi)",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Vidyanagar, Hubballi) offers coordinated hospital care with major focus on Heart Surgery In Hubli and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095917 17095",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/vidyanagar-hubli/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=vidyanagar-hubli",
+    "address": "Prabhat Colony, Vidya Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Vidya Nagar",
+    "landmark": "Hubballi",
+    "emergencyContact": "095917 17095",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Vidyanagar,+Hubballi)/@15.3639193,75.1234966,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d78a583e7727:0x26eeb17b3db8646d!8m2!3d15.3639193!4d75.1234966!16s%2Fg%2F11h12x4xbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Vidyanagar,+Hubballi)/@15.3639193,75.1234966,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d78a583e7727:0x26eeb17b3db8646d!8m2!3d15.3639193!4d75.1234966!16s%2Fg%2F11h12x4xbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3639193,
+      "lng": 75.1234966,
+      "label": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Vidyanagar, Hubballi)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "makaranda-clinic-hubballi",
+    "name": "Makaranda Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Makaranda Clinic brings together specialists for General Surgery In Hubli. Operational strengths including Google rating 3.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097423 59669",
+    "alternatePhone": "",
+    "website": "http://www.drkiranaithal.com/",
+    "address": "main gate, RNS road, beside Akshay Park, Akshay Park, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "beside Akshay Park, Akshay Park, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "emergencyContact": "097423 59669",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Makaranda+Clinic/@15.3487866,75.110132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d720f9c9f4d9:0x43afd474364e9a0e!8m2!3d15.3487866!4d75.110132!16s%2Fg%2F11cs6b9rpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Makaranda+Clinic/@15.3487866,75.110132,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d720f9c9f4d9:0x43afd474364e9a0e!8m2!3d15.3487866!4d75.110132!16s%2Fg%2F11cs6b9rpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3487866,
+      "lng": 75.110132,
+      "label": "Makaranda Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mohan-skin-care-clinic-hubli-hubballi",
+    "name": "Mohan Skin Care Clinic Hubli",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Hubballi, Mohan Skin Care Clinic Hubli delivers integrated care across Cosmetic Surgery In Hubli. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099645 19764",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Koppikar Rd, Above Airtel Showroom, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580028",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580028",
+    "locality": "New Hubli",
+    "landmark": "Dajiban Peth",
+    "emergencyContact": "099645 19764",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Mohan+Skin+Care+Clinic+Hubli/@15.3487053,75.1418442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742bc437d8f:0xf7c198a9d631ecf4!8m2!3d15.3487053!4d75.1418442!16s%2Fg%2F11b6t5swmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mohan+Skin+Care+Clinic+Hubli/@15.3487053,75.1418442,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742bc437d8f:0xf7c198a9d631ecf4!8m2!3d15.3487053!4d75.1418442!16s%2Fg%2F11b6t5swmx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3487053,
+      "lng": 75.1418442,
+      "label": "Mohan Skin Care Clinic Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "moon-maternity-hubballi-hubballi",
+    "name": "Moon Maternity, Hubballi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Moon Maternity, Hubballi has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Heart Surgery In Hubli. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083648 50077",
+    "alternatePhone": "",
+    "website": "http://www.moonmaternity.in/",
+    "address": "Akshay Plaza, Akshay Colony Rd, near Chetana College, 4th Phase, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "near Chetana College, 4th Phase, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "083648 50077",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Moon+Maternity,+Hubballi/@15.3596436,75.109804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d730533e7d91:0x87b2d55f3639773b!8m2!3d15.3596436!4d75.109804!16s%2Fg%2F11c0rtzxg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Moon+Maternity,+Hubballi/@15.3596436,75.109804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d730533e7d91:0x87b2d55f3639773b!8m2!3d15.3596436!4d75.109804!16s%2Fg%2F11c0rtzxg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3596436,
+      "lng": 75.109804,
+      "label": "Moon Maternity, Hubballi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nakshatra-dental-clinic-hubballi",
+    "name": "Nakshatra Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nakshatra Dental Clinic is a prominent dental clinic in Hubballi, known for structured tertiary care across Oral Surgery In Hubli. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074069 21137",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, R K Plaza, opposite Vittal Mandir, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580028",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580028",
+    "locality": "New Hubli",
+    "landmark": "opposite Vittal Mandir, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580028",
+    "emergencyContact": "074069 21137",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nakshatra+Dental+Clinic/@15.3478667,75.1403186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74281a67681:0x91a4a524a4e2af2d!8m2!3d15.3478667!4d75.1403186!16s%2Fg%2F11fxzwkn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nakshatra+Dental+Clinic/@15.3478667,75.1403186,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74281a67681:0x91a4a524a4e2af2d!8m2!3d15.3478667!4d75.1403186!16s%2Fg%2F11fxzwkn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3478667,
+      "lng": 75.1403186,
+      "label": "Nakshatra Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nanjannavar-dental-clinic-hubballi",
+    "name": "Nanjannavar Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nanjannavar Dental Clinic has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088673 31970",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus stand, Shop No 12, Ground Floor, Dhammangi Plaza Old, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Dhammangi Plaza Old",
+    "landmark": "Ground Floor",
+    "emergencyContact": "088673 31970",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Nanjannavar+Dental+Clinic/@15.3515811,75.1361096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7eff4f24bc1:0x79ccc9f67e86a098!8m2!3d15.3515811!4d75.1361096!16s%2Fg%2F11shy142w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nanjannavar+Dental+Clinic/@15.3515811,75.1361096,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7eff4f24bc1:0x79ccc9f67e86a098!8m2!3d15.3515811!4d75.1361096!16s%2Fg%2F11shy142w0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3515811,
+      "lng": 75.1361096,
+      "label": "Nanjannavar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "narayana-general-hospital-24-7-specialty-hospital-in-hubli-hubballi",
+    "name": "Narayana General Hospital – 24/7 Specialty Hospital in Hubli",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Hubballi, Narayana General Hospital – 24/7 Specialty Hospital in Hubli delivers integrated care across General Surgery In Hubli and Speciality Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083622 07493",
+    "alternatePhone": "",
+    "website": "",
+    "address": "84X5+3VG, RN Shetty Rd, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "Chaitanya Nagar",
+    "emergencyContact": "083622 07493",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Narayana+General+Hospital+%E2%80%93+24%2F7+Specialty+Hospital+in+Hubli/@15.3476616,75.1097371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77858302713:0xb992e16f2b7e0999!8m2!3d15.3476616!4d75.1097371!16s%2Fg%2F11l2hppr55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Narayana+General+Hospital+%E2%80%93+24%2F7+Specialty+Hospital+in+Hubli/@15.3476616,75.1097371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d77858302713:0xb992e16f2b7e0999!8m2!3d15.3476616!4d75.1097371!16s%2Fg%2F11l2hppr55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3476616,
+      "lng": 75.1097371,
+      "label": "Narayana General Hospital – 24/7 Specialty Hospital in Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nmr-scan-centre-hubballi",
+    "name": "Nmr Scan Centre",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Nmr Scan Centre offers coordinated hospital care with major focus on Cardiac Surgery In Hubli and Diagnostic Center. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083622 28342",
+    "alternatePhone": "",
+    "website": "",
+    "address": "943Q+3VJ, Club Rd, near Court Circle, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "near Court Circle, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "emergencyContact": "083622 28342",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Hubli",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nmr+Scan+Centre/@15.3527097,75.1396332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x97690cab2cc27954!8m2!3d15.3527097!4d75.1396332!16s%2Fg%2F1vcl26f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nmr+Scan+Centre/@15.3527097,75.1396332,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x97690cab2cc27954!8m2!3d15.3527097!4d75.1396332!16s%2Fg%2F1vcl26f4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3527097,
+      "lng": 75.1396332,
+      "label": "Nmr Scan Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-centre-in-hubli-hubballi",
+    "name": "Nova IVF Fertility Center - Best IVF Centre In Hubli",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova IVF Fertility Center - Best IVF Centre In Hubli has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Heart Surgery In Hubli and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080444 77080",
+    "alternatePhone": "",
+    "website": "https://www.novaivffertility.com/ivf-centre/hubli/fertility-clinic-hubli?utm_source=GMB&utm_medium=organic",
+    "address": "First Floor, Centrum Building, 98/4, Gokul Rd, beside Big Bazaar, above V2 Showroom, Akshay Park, Manjunath Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Manjunath Nagar",
+    "landmark": "beside Big Bazaar, above V2 Showroom, Akshay Park, Manjunath Nagar, Hubballi, Karnataka 580030",
+    "emergencyContact": "080444 77080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hubli/@15.3508367,75.1061799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74823a6d151:0xc148c068e6831eb6!8m2!3d15.3508367!4d75.1061799!16s%2Fg%2F11smm1pv5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+In+Hubli/@15.3508367,75.1061799,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74823a6d151:0xc148c068e6831eb6!8m2!3d15.3508367!4d75.1061799!16s%2Fg%2F11smm1pv5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3508367,
+      "lng": 75.1061799,
+      "label": "Nova IVF Fertility Center - Best IVF Centre In Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-sairam-neelkamal-dental-clinic-hubballi",
+    "name": "Om Sairam Neelkamal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Om Sairam Neelkamal Dental Clinic has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083109 27993",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 1, complex, Shirur Park Road, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "Shirur Park Road",
+    "emergencyContact": "083109 27993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Sairam+Neelkamal+Dental+Clinic/@15.3631071,75.1216172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73ab093db5b:0xe6b28620644c328a!8m2!3d15.3631071!4d75.1216172!16s%2Fg%2F11pc47ggsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Sairam+Neelkamal+Dental+Clinic/@15.3631071,75.1216172,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73ab093db5b:0xe6b28620644c328a!8m2!3d15.3631071!4d75.1216172!16s%2Fg%2F11pc47ggsm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3631071,
+      "lng": 75.1216172,
+      "label": "Om Sairam Neelkamal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oris-dental-hubballi",
+    "name": "Oris Dental",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oris Dental has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli and Dental Implants Periodontist. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098862 12329",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shet Ballet, Behind Reliance Digital, Double Road, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "Double Road",
+    "emergencyContact": "098862 12329",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dental Implants Periodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Oris+Dental/@15.3643208,75.1235232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d733dcbef61b:0xce35bfee1133feca!8m2!3d15.3643208!4d75.1235232!16s%2Fg%2F11bzwmrmvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oris+Dental/@15.3643208,75.1235232,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d733dcbef61b:0xce35bfee1133feca!8m2!3d15.3643208!4d75.1235232!16s%2Fg%2F11bzwmrmvn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3643208,
+      "lng": 75.1235232,
+      "label": "Oris Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-vidya-nagar-hubballi-hubballi",
+    "name": "OrthoSquare Dental Clinic - Vidya Nagar, Hubballi",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OrthoSquare Dental Clinic - Vidya Nagar, Hubballi is a prominent dental clinic in Hubballi, known for structured tertiary care across Oral Surgery In Hubli and Orthopaedics. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080718 20852",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/hubballi/Vidya-Nagar/orthosquare-dental-clinic-in-Vidya-Nagar-hubballi--NV7T9r/home",
+    "address": "Third Cross Road, Hosur - Unkal Bypass Rd, beside Uttar Kannada Vaishya Samaj Hall, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "beside Uttar Kannada Vaishya Samaj Hall, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "080718 20852",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Vidya+Nagar,+Hubballi/@15.3549477,75.1318162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7dc1ea37fe5:0xa0229fb5d5ddc2ce!8m2!3d15.3549477!4d75.1318162!16s%2Fg%2F11krhpqhpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Vidya+Nagar,+Hubballi/@15.3549477,75.1318162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7dc1ea37fe5:0xa0229fb5d5ddc2ce!8m2!3d15.3549477!4d75.1318162!16s%2Fg%2F11krhpqhpc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3549477,
+      "lng": 75.1318162,
+      "label": "OrthoSquare Dental Clinic - Vidya Nagar, Hubballi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "paridhi-dental-care-and-implant-center-hubballi",
+    "name": "PARIDHI DENTAL CARE AND IMPLANT CENTER",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, PARIDHI DENTAL CARE AND IMPLANT CENTER brings together specialists for Oral Surgery In Hubli. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ground floor, Pacific Plaza, Club Rd, beside JTK ELECTRICS, opp. Yes bank, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "beside JTK ELECTRICS, opp. Yes bank, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/PARIDHI+DENTAL+CARE+AND+IMPLANT+CENTER/@15.3536944,75.1402684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74158000621:0x6e4c11f5065f3c83!8m2!3d15.3536944!4d75.1402684!16s%2Fg%2F11wy02fg7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PARIDHI+DENTAL+CARE+AND+IMPLANT+CENTER/@15.3536944,75.1402684,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74158000621:0x6e4c11f5065f3c83!8m2!3d15.3536944!4d75.1402684!16s%2Fg%2F11wy02fg7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3536944,
+      "lng": 75.1402684,
+      "label": "PARIDHI DENTAL CARE AND IMPLANT CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pawar-skin-and-onco-care-clinic-hubballi",
+    "name": "Pawar Skin and Onco Care Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Hubballi, Pawar Skin and Onco Care Clinic delivers integrated care across Cosmetic Surgery In Hubli. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083635 64972",
+    "alternatePhone": "",
+    "website": "https://www.drkirtipawar.com/",
+    "address": "3, UGF, Globus Patil's Avenue, Kusugal Rd, opp. East traffic police station, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "Globus Patil's Avenue",
+    "emergencyContact": "083635 64972",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pawar+Skin+and+Onco+Care+Clinic/@15.3621452,75.1520534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9ff52623b87:0x52139f7f16946d6f!8m2!3d15.3621452!4d75.1520534!16s%2Fg%2F11s98c_ppd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pawar+Skin+and+Onco+Care+Clinic/@15.3621452,75.1520534,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9ff52623b87:0x52139f7f16946d6f!8m2!3d15.3621452!4d75.1520534!16s%2Fg%2F11s98c_ppd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3621452,
+      "lng": 75.1520534,
+      "label": "Pawar Skin and Onco Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearl-dental-clinic-hubballi",
+    "name": "Pearl Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Pearl Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Hubli. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089042 05572",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-16, Dollar heights, Gokul Rd, Dollars Colony, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "Gokul Rd",
+    "emergencyContact": "089042 05572",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pearl+Dental+Clinic/@15.3480303,75.1149481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6be3baa53:0x4714b9bab42964d1!8m2!3d15.3480303!4d75.1149481!16s%2Fg%2F11rmq737kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearl+Dental+Clinic/@15.3480303,75.1149481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e6be3baa53:0x4714b9bab42964d1!8m2!3d15.3480303!4d75.1149481!16s%2Fg%2F11rmq737kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3480303,
+      "lng": 75.1149481,
+      "label": "Pearl Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prabhu-dental-care-hubli-hubballi",
+    "name": "Prabhu Dental Care, Hubli",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Prabhu Dental Care, Hubli offers coordinated hospital care with major focus on Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dajiban Peth Rd, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "New Hubli",
+    "landmark": "Kamaripeth",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Prabhu+Dental+Care,+Hubli/@15.3498008,75.1390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74245809273:0x7becb65bac280077!8m2!3d15.3498008!4d75.1390178!16s%2Fg%2F11g8b5b1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prabhu+Dental+Care,+Hubli/@15.3498008,75.1390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74245809273:0x7becb65bac280077!8m2!3d15.3498008!4d75.1390178!16s%2Fg%2F11g8b5b1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3498008,
+      "lng": 75.1390178,
+      "label": "Prabhu Dental Care, Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pragati-clinic-hubballi",
+    "name": "Pragati Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Pragati Clinic offers coordinated hospital care with major focus on General Surgery In Hubli. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "13, Shambhagi Layout, Main Road, behind NWKRTC DEPO, near Vasavi Mahal, Kotilinga Nagar, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Kotilinga Nagar",
+    "landmark": "near Vasavi Mahal, Kotilinga Nagar, Hubballi, Karnataka 580024",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Pragati+Clinic/@15.3471207,75.1198906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72a33c7bf2b:0xad52a219f2697e2c!8m2!3d15.3471207!4d75.1198906!16s%2Fg%2F11svqzydbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pragati+Clinic/@15.3471207,75.1198906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d72a33c7bf2b:0xad52a219f2697e2c!8m2!3d15.3471207!4d75.1198906!16s%2Fg%2F11svqzydbc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3471207,
+      "lng": 75.1198906,
+      "label": "Pragati Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rakshiit-dental-clinic-hubballi",
+    "name": "Rakshiit Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Rakshiit Dental Clinic brings together specialists for Oral Surgery In Hubli. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083623 66377",
+    "alternatePhone": "",
+    "website": "",
+    "address": "U.G.F.-5,Ashwamedha Trade Center,, Dajiban Peth, Hubli-580025, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580025",
+    "locality": "Hubli-580025",
+    "landmark": "Dajiban Peth",
+    "emergencyContact": "083623 66377",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Rakshiit+Dental+Clinic/@15.3493767,75.1389813,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742439eee9d:0x29b0138d03c23c1a!8m2!3d15.3493767!4d75.1389813!16s%2Fg%2F1tfz8mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rakshiit+Dental+Clinic/@15.3493767,75.1389813,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d742439eee9d:0x29b0138d03c23c1a!8m2!3d15.3493767!4d75.1389813!16s%2Fg%2F1tfz8mwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3493767,
+      "lng": 75.1389813,
+      "label": "Rakshiit Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "regenerative-center-hubballi",
+    "name": "Regenerative Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Regenerative Center has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Heart Surgery In Hubli. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092432 56399",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maratha Galli Rd, opp. Sukh Sagar Mall, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "New Hubli",
+    "emergencyContact": "092432 56399",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Regenerative+Center/@15.3460577,75.1442514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d768f4bd4eb3:0x3833977d0c4fbfd9!8m2!3d15.3460577!4d75.1442514!16s%2Fg%2F11bztf1_13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Regenerative+Center/@15.3460577,75.1442514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d768f4bd4eb3:0x3833977d0c4fbfd9!8m2!3d15.3460577!4d75.1442514!16s%2Fg%2F11bztf1_13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3460577,
+      "lng": 75.1442514,
+      "label": "Regenerative Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "roots-dental-care-hubballi",
+    "name": "ROOTS DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, ROOTS DENTAL CARE delivers integrated care across Oral Surgery In Hubli. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089044 81179",
+    "alternatePhone": "",
+    "website": "http://therootsdentalcare.in/",
+    "address": "1st Floor, Hubli Central Mall, PB Rd, beside Shushruta Hospital, Prabhat Colony, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "beside Shushruta Hospital, Prabhat Colony, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "089044 81179",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ROOTS+DENTAL+CARE/@15.3638299,75.1246429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7a16311aa05:0xf35c2dbd1b28aed9!8m2!3d15.3638299!4d75.1246429!16s%2Fg%2F11k3kw2w_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ROOTS+DENTAL+CARE/@15.3638299,75.1246429,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7a16311aa05:0xf35c2dbd1b28aed9!8m2!3d15.3638299!4d75.1246429!16s%2Fg%2F11k3kw2w_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3638299,
+      "lng": 75.1246429,
+      "label": "ROOTS DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "royal-dental-clinic-hubballi",
+    "name": "Royal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Royal Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Hubli. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072046 15486",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Royal Touch Complex, Shop No. 25,26, Cross, Ganesh Peth, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Ganesh Peth",
+    "landmark": "Shop No. 25",
+    "emergencyContact": "072046 15486",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Royal+Dental+Clinic/@15.3463072,75.1461424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7670b9b1121:0x7022140551e71cec!8m2!3d15.3463072!4d75.1461424!16s%2Fg%2F11c0ts15qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Royal+Dental+Clinic/@15.3463072,75.1461424,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7670b9b1121:0x7022140551e71cec!8m2!3d15.3463072!4d75.1461424!16s%2Fg%2F11c0ts15qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3463072,
+      "lng": 75.1461424,
+      "label": "Royal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-s-dental-hospital-hubballi",
+    "name": "S.S Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose S.S Dental Hospital for its strength in Oral Surgery In Hubli. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093801 55316",
+    "alternatePhone": "",
+    "website": "https://drshivkumardental.in/",
+    "address": "M.T. Sagar, Village Shiggaon Park, 2nd Floor, Indira heights complex, near Tatwadarsha Hospital, Vidya Nagar, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Vidya Nagar",
+    "landmark": "near Tatwadarsha Hospital, Vidya Nagar, Hubballi, Karnataka 580031",
+    "emergencyContact": "093801 55316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/S.S+Dental+Hospital/@15.3586,75.1170561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75dd20f2f9b:0xe930136ba0a8715f!8m2!3d15.3586!4d75.1170561!16s%2Fg%2F11sd6kclj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S.S+Dental+Hospital/@15.3586,75.1170561,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75dd20f2f9b:0xe930136ba0a8715f!8m2!3d15.3586!4d75.1170561!16s%2Fg%2F11sd6kclj1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3586,
+      "lng": 75.1170561,
+      "label": "S.S Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samant-dental-clinic-hubballi",
+    "name": "samant dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose samant dental clinic for its strength in Oral Surgery In Hubli. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090352 06602",
+    "alternatePhone": "",
+    "website": "",
+    "address": "above Bank of Baroda, opposite BRTS bus stand, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "opposite BRTS bus stand, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "090352 06602",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/samant+dental+clinic/@15.356452,75.129905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73867ef68db:0x4f73994e22352f71!8m2!3d15.356452!4d75.129905!16s%2Fg%2F11g6_t9v7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/samant+dental+clinic/@15.356452,75.129905,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73867ef68db:0x4f73994e22352f71!8m2!3d15.356452!4d75.129905!16s%2Fg%2F11g6_t9v7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.356452,
+      "lng": 75.129905,
+      "label": "samant dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevini-speciality-hospital-hubballi",
+    "name": "Sanjeevini Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sanjeevini Speciality Hospital has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering General Surgery In Hubli and Speciality Care. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083623 73303",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shirur Park, Prabhat Colony, Vidya Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Vidya Nagar",
+    "landmark": "Vidya Nagar",
+    "emergencyContact": "083623 73303",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevini+Speciality+Hospital/@15.3636531,75.1219662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7682bbb0fed:0x6f1cb672f68f3a7b!8m2!3d15.3636531!4d75.1219662!16s%2Fg%2F1tgn_7fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevini+Speciality+Hospital/@15.3636531,75.1219662,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7682bbb0fed:0x6f1cb672f68f3a7b!8m2!3d15.3636531!4d75.1219662!16s%2Fg%2F1tgn_7fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3636531,
+      "lng": 75.1219662,
+      "label": "Sanjeevini Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarvodaya-clinic-hubballi",
+    "name": "SARVODAYA CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, SARVODAYA CLINIC offers coordinated hospital care with major focus on Cardiac Surgery In Hubli. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BANKERS BHAVAN, ROAD, Shirur Park Road, beside CHETAN COLLEGE, Shirur Park, PHASE 4, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "beside CHETAN COLLEGE, Shirur Park, PHASE 4, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/SARVODAYA+CLINIC/@15.3605609,75.1127907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74637d49839:0x9185adaaf005f891!8m2!3d15.3605609!4d75.1127907!16s%2Fg%2F11kc6nzl7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SARVODAYA+CLINIC/@15.3605609,75.1127907,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74637d49839:0x9185adaaf005f891!8m2!3d15.3605609!4d75.1127907!16s%2Fg%2F11kc6nzl7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3605609,
+      "lng": 75.1127907,
+      "label": "SARVODAYA CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sattur-heart-care-hubballi",
+    "name": "Sattur Heart Care",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Sattur Heart Care brings together specialists for Heart Surgery In Hubli and Cardiac Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070226 11123",
+    "alternatePhone": "",
+    "website": "http://bestcardiologisthubballi.com/",
+    "address": "Chittaguppi Park, Pinto Rd, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "Deshpande Nagar",
+    "emergencyContact": "070226 11123",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sattur+Heart+Care/@15.3533094,75.1430015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75b5166eefb:0xfd8c1cbe56c525bf!8m2!3d15.3533094!4d75.1430015!16s%2Fg%2F11j3wy37xf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sattur+Heart+Care/@15.3533094,75.1430015,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75b5166eefb:0xfd8c1cbe56c525bf!8m2!3d15.3533094!4d75.1430015!16s%2Fg%2F11j3wy37xf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3533094,
+      "lng": 75.1430015,
+      "label": "Sattur Heart Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sdm-narayana-heart-centre-dharwad-hubballi",
+    "name": "SDM Narayana Heart Centre, Dharwad",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SDM Narayana Heart Centre, Dharwad is a prominent heart hospital in Hubballi, known for structured tertiary care across Heart Surgery In Hubli and Cardiac Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.narayanahealth.org/hospitals/dharwad/sdm-narayana-heart-centre-dharwad/?utm_source=Googlemaps&utm_medium=GMB",
+    "address": "SDM College Of Medical Science, Manjushree Nagar, Sattur Colony, Hubballi, Karnataka 580009",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580009",
+    "locality": "Sattur Colony",
+    "landmark": "Sattur Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SDM+Narayana+Heart+Centre,+Dharwad/@15.4186213,75.0471687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d22e3fac3d8b:0x91441b15f3d6c7c6!8m2!3d15.4186213!4d75.0471687!16s%2Fg%2F11b6c979tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SDM+Narayana+Heart+Centre,+Dharwad/@15.4186213,75.0471687,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d22e3fac3d8b:0x91441b15f3d6c7c6!8m2!3d15.4186213!4d75.0471687!16s%2Fg%2F11b6c979tx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4186213,
+      "lng": 75.0471687,
+      "label": "SDM Narayana Heart Centre, Dharwad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "secure-hospital-hubli-hubballi",
+    "name": "SeCURE Hospital, Hubli",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, SeCURE Hospital, Hubli offers coordinated hospital care with major focus on General Surgery In Hubli. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083642 52020",
+    "alternatePhone": "",
+    "website": "https://www.securehospital.in/branches/hubballi-secure-hospital/",
+    "address": "Gokul Rd, beside new bus stand, Dollars colony, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "beside new bus stand, Dollars colony, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "emergencyContact": "083642 52020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SeCURE+Hospital,+Hubli/@15.348902,75.1150028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7314dae0de1:0x977379937338e52f!8m2!3d15.348902!4d75.1150028!16s%2Fg%2F11j4qs4tsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SeCURE+Hospital,+Hubli/@15.348902,75.1150028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7314dae0de1:0x977379937338e52f!8m2!3d15.348902!4d75.1150028!16s%2Fg%2F11j4qs4tsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.348902,
+      "lng": 75.1150028,
+      "label": "SeCURE Hospital, Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shakuntala-hospital-hubballi",
+    "name": "Shakuntala Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Hubballi, Shakuntala Hospital delivers integrated care across General Surgery In Hubli. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096065 28116",
+    "alternatePhone": "",
+    "website": "",
+    "address": "943H+52M Shakuntala Memorial hospital, Golden Town Building, Hosur, Khalur Layout, Unkal, Hosur - Unkal Bypass Rd, near hosur, cross, Kallur Layout, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Kallur Layout",
+    "landmark": "near hosur, cross, Kallur Layout, Hubballi, Karnataka 580021",
+    "emergencyContact": "096065 28116",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Shakuntala+Hospital/@15.3530729,75.1274017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xbb82c9743a544b4c!8m2!3d15.3530729!4d75.1274017!16s%2Fg%2F1tp_4vdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shakuntala+Hospital/@15.3530729,75.1274017,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xbb82c9743a544b4c!8m2!3d15.3530729!4d75.1274017!16s%2Fg%2F1tp_4vdk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3530729,
+      "lng": 75.1274017,
+      "label": "Shakuntala Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shatayu-hospital-and-research-institute-hubballi",
+    "name": "Shatayu Hospital and Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shatayu Hospital and Research Institute is a prominent hospital in Hubballi, known for structured tertiary care across General Surgery In Hubli. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083623 72811",
+    "alternatePhone": "",
+    "website": "https://shatayuhealth.com/",
+    "address": "Cross, Hosur, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Hosur",
+    "landmark": "Hubballi",
+    "emergencyContact": "083623 72811",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shatayu+Hospital+and+Research+Institute/@15.3536083,75.1306672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738a501377d:0xdae2886f368dbac3!8m2!3d15.3536083!4d75.1306672!16s%2Fg%2F1tlnbwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shatayu+Hospital+and+Research+Institute/@15.3536083,75.1306672,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d738a501377d:0xdae2886f368dbac3!8m2!3d15.3536083!4d75.1306672!16s%2Fg%2F1tlnbwkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3536083,
+      "lng": 75.1306672,
+      "label": "Shatayu Hospital and Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiraganvi-dental-and-maxillofacial-centre-hubballi",
+    "name": "Shiraganvi Dental and Maxillofacial Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Shiraganvi Dental and Maxillofacial Centre brings together specialists for Oral Surgery In Hubli and Maxillofacial Surgery. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098869 68837",
+    "alternatePhone": "",
+    "website": "",
+    "address": "swarna jewellers, circle, near to siddeswar park, opposite to Aryans world scholl, Shirur Park, second stage, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "near to siddeswar park, opposite to Aryans world scholl, Shirur Park, second stage, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "098869 68837",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shiraganvi+Dental+and+Maxillofacial+Centre/@15.3608628,75.1164047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71172edfa61:0x7660fd0205626801!8m2!3d15.3608628!4d75.1164047!16s%2Fg%2F11vbh_9qky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiraganvi+Dental+and+Maxillofacial+Centre/@15.3608628,75.1164047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71172edfa61:0x7660fd0205626801!8m2!3d15.3608628!4d75.1164047!16s%2Fg%2F11vbh_9qky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3608628,
+      "lng": 75.1164047,
+      "label": "Shiraganvi Dental and Maxillofacial Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivakrupa-hospital-dugani-hubballi",
+    "name": "Shivakrupa Hospital (Dugani)",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Hubballi, Shivakrupa Hospital (Dugani) delivers integrated care across General Surgery In Hubli. With public-facing highlights like Google rating 3.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083623 50448",
+    "alternatePhone": "",
+    "website": "http://www.shivakrupahospital.com/",
+    "address": "943V+3MC, Lamington Rd, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "New Hubli",
+    "emergencyContact": "083623 50448",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shivakrupa+Hospital+(Dugani)/@15.3526763,75.1441253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75cbc29d1c5:0x12c5922d4c6db6a7!8m2!3d15.3526763!4d75.1441253!16s%2Fg%2F1tf5c5md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivakrupa+Hospital+(Dugani)/@15.3526763,75.1441253,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d75cbc29d1c5:0x12c5922d4c6db6a7!8m2!3d15.3526763!4d75.1441253!16s%2Fg%2F1tf5c5md?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3526763,
+      "lng": 75.1441253,
+      "label": "Shivakrupa Hospital (Dugani)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivapur-dental-clinic-and-implant-centre-hubballi",
+    "name": "SHIVAPUR DENTAL CLINIC &IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, SHIVAPUR DENTAL CLINIC &IMPLANT CENTRE delivers integrated care across Oral Surgery In Hubli. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076763 02921",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Shriya Lakshmi Business Centre, Hosur - Unkal Bypass Rd, near New District Court, Kallur Layout, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Kallur Layout",
+    "landmark": "near New District Court, Kallur Layout, Hubballi, Karnataka 580021",
+    "emergencyContact": "076763 02921",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SHIVAPUR+DENTAL+CLINIC+%26IMPLANT+CENTRE/@15.3567335,75.1251827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d740bd4d5029:0xd9cefa2bf0f6c0ce!8m2!3d15.3567335!4d75.1251827!16s%2Fg%2F11rqgywgww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHIVAPUR+DENTAL+CLINIC+%26IMPLANT+CENTRE/@15.3567335,75.1251827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d740bd4d5029:0xd9cefa2bf0f6c0ce!8m2!3d15.3567335!4d75.1251827!16s%2Fg%2F11rqgywgww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3567335,
+      "lng": 75.1251827,
+      "label": "SHIVAPUR DENTAL CLINIC &IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-bhanji-d-khimji-lifeline-hospital-hubballi-hubballi",
+    "name": "Shri Bhanji D Khimji Lifeline Hospital Hubballi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Shri Bhanji D Khimji Lifeline Hospital Hubballi offers coordinated hospital care with major focus on General Surgery In Hubli. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083642 60353",
+    "alternatePhone": "",
+    "website": "https://lifelinehubli.com/",
+    "address": "Airport Road, opp. New Bus Stand, Industrial Estate, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Industrial Estate",
+    "landmark": "Industrial Estate",
+    "emergencyContact": "083642 60353",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Bhanji+D+Khimji+Lifeline+Hospital+Hubballi/@15.3509566,75.1164074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x3ba02bcbf75805ef!8m2!3d15.3509566!4d75.1164074!16s%2Fg%2F1vxvg9hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Bhanji+D+Khimji+Lifeline+Hospital+Hubballi/@15.3509566,75.1164074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x3ba02bcbf75805ef!8m2!3d15.3509566!4d75.1164074!16s%2Fg%2F1vxvg9hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3509566,
+      "lng": 75.1164074,
+      "label": "Shri Bhanji D Khimji Lifeline Hospital Hubballi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-sai-dental-care-hubballi",
+    "name": "Shri Sai Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Shri Sai Dental Care brings together specialists for Oral Surgery In Hubli. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083623 71016",
+    "alternatePhone": "",
+    "website": "http://shrisaidentalcare.com/",
+    "address": "2ND FLOOR, times square Building, PB Rd, opp. to K.S Kottamberi College, Prabhat Colony, Vidya Nagar, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Vidya Nagar",
+    "landmark": "PB Rd",
+    "emergencyContact": "083623 71016",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Sai+Dental+Care/@15.3648881,75.1234437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x743f04eb408975f4!8m2!3d15.3648881!4d75.1234437!16s%2Fg%2F1tlvmzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Sai+Dental+Care/@15.3648881,75.1234437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x743f04eb408975f4!8m2!3d15.3648881!4d75.1234437!16s%2Fg%2F1tlvmzwn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3648881,
+      "lng": 75.1234437,
+      "label": "Shri Sai Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shrinidhi-dental-care-hubballi",
+    "name": "Shrinidhi Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Shrinidhi Dental Care offers coordinated hospital care with major focus on Oral Surgery In Hubli. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095384 22840",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lower Ground Floor, Globus and Patils Avenue, Kusugal Rd, opp. East Traffic Police Station, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "Kusugal Rd",
+    "emergencyContact": "095384 22840",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shrinidhi+Dental+Care/@15.3621561,75.1519522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d791e7027377:0xab716a75ec1ae8fb!8m2!3d15.3621561!4d75.1519522!16s%2Fg%2F11tk6l13z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shrinidhi+Dental+Care/@15.3621561,75.1519522,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d791e7027377:0xab716a75ec1ae8fb!8m2!3d15.3621561!4d75.1519522!16s%2Fg%2F11tk6l13z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3621561,
+      "lng": 75.1519522,
+      "label": "Shrinidhi Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shripriya-hospital-hubballi",
+    "name": "SHRIPRIYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHRIPRIYA HOSPITAL is a prominent hospital in Hubballi, known for structured tertiary care across General Surgery In Hubli. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094481 22969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Akshay Enclave, No 13, 14, 20, 21, upper ground floor, Kusugal Rd, Badami Nagar, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Badami Nagar",
+    "landmark": "14",
+    "emergencyContact": "094481 22969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/SHRIPRIYA+HOSPITAL/@15.363115,75.1542566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d757a8affe7f:0x48ced421f75e9bda!8m2!3d15.363115!4d75.1542566!16s%2Fg%2F11c2pmjmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHRIPRIYA+HOSPITAL/@15.363115,75.1542566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d757a8affe7f:0x48ced421f75e9bda!8m2!3d15.363115!4d75.1542566!16s%2Fg%2F11c2pmjmk3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.363115,
+      "lng": 75.1542566,
+      "label": "SHRIPRIYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-again-dental-clinic-hubballi",
+    "name": "Smile Again Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Smile Again Dental Clinic brings together specialists for Oral Surgery In Hubli. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081234 27271",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 1, Pearl Avenue, Hubli - Gadag Rd, opp. Baptist Church, Lalbahadur Colony, Chalukya Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Chalukya Nagar",
+    "landmark": "Hubli - Gadag Rd",
+    "emergencyContact": "081234 27271",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@15.3556863,75.157906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9f485ae04f5:0x1ff9257e795733f5!8m2!3d15.3556863!4d75.157906!16s%2Fg%2F11p61z30bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@15.3556863,75.157906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d9f485ae04f5:0x1ff9257e795733f5!8m2!3d15.3556863!4d75.157906!16s%2Fg%2F11p61z30bf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3556863,
+      "lng": 75.157906,
+      "label": "Smile Again Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-line-dental-clinic-hubballi",
+    "name": "Smile Line Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Smile Line Dental Clinic delivers integrated care across Oral Surgery In Hubli. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083623 55510",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F-7, Vivekandanda Corner, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "Deshpande Nagar",
+    "emergencyContact": "083623 55510",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@15.3551095,75.1413998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x2f6a81843d731d28!8m2!3d15.3551095!4d75.1413998!16s%2Fg%2F1td1n9yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Line+Dental+Clinic/@15.3551095,75.1413998,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x2f6a81843d731d28!8m2!3d15.3551095!4d75.1413998!16s%2Fg%2F1td1n9yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3551095,
+      "lng": 75.1413998,
+      "label": "Smile Line Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-world-best-dentist-in-hubli-implant-centre-orthodontist-specialist-periodontist-cosmetic-dentist-in-hubli-hubballi",
+    "name": "Smile world - Best Dentist in Hubli | Implant Centre | Orthodontist Specialist | Periodontist | Cosmetic Dentist in Hubli",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile world - Best Dentist in Hubli | Implant Centre | Orthodontist Specialist | Periodontist | Cosmetic Dentist in Hubli is a prominent dentist in Hubballi, known for structured tertiary care across Oral Surgery In Hubli, Dentist, and Orthopaedics. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090361 41344",
+    "alternatePhone": "",
+    "website": "",
+    "address": "UGF no 4, A Mallikarjun Avenue, Koppikar Rd, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "Koppikar Rd",
+    "emergencyContact": "090361 41344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dentist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+world+-+Best+Dentist+in+Hubli+%7C+Implant+Centre+%7C+Orthodontist+Specialist+%7C+Periodontist+%7C+Cosmetic+Dentist+in+Hubli/@15.349742,75.141475,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7b7aaf62fe3:0x8f71ae61d931cd62!8m2!3d15.349742!4d75.141475!16s%2Fg%2F11pvmcpn5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+world+-+Best+Dentist+in+Hubli+%7C+Implant+Centre+%7C+Orthodontist+Specialist+%7C+Periodontist+%7C+Cosmetic+Dentist+in+Hubli/@15.349742,75.141475,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7b7aaf62fe3:0x8f71ae61d931cd62!8m2!3d15.349742!4d75.141475!16s%2Fg%2F11pvmcpn5z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.349742,
+      "lng": 75.141475,
+      "label": "Smile world - Best Dentist in Hubli | Implant Centre | Orthodontist Specialist | Periodontist | Cosmetic Dentist in Hubli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-32-hubballi",
+    "name": "Smile-32",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Smile-32 brings together specialists for Oral Surgery In Hubli. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098863 99668",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr. Somashekhar Angadi, Dr. Rashmi S, Angadi Pacific Enclave, opposite Syndicate Bank Building, Vijay Nagar, kori, Vidya Nagar, Hubballi, Karnataka 580032",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580032",
+    "locality": "Vidya Nagar",
+    "landmark": "opposite Syndicate Bank Building, Vijay Nagar, kori, Vidya Nagar, Hubballi, Karnataka 580032",
+    "emergencyContact": "098863 99668",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Smile-32/@15.3670061,75.1383326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74c42bb87a1:0x5a54f83ff0ed4256!8m2!3d15.3670061!4d75.1383326!16s%2Fg%2F1tfqd7s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile-32/@15.3670061,75.1383326,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d74c42bb87a1:0x5a54f83ff0ed4256!8m2!3d15.3670061!4d75.1383326!16s%2Fg%2F1tfqd7s0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3670061,
+      "lng": 75.1383326,
+      "label": "Smile-32",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sona-dental-care-hubballi",
+    "name": "SONA DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, SONA DENTAL CARE brings together specialists for Oral Surgery In Hubli. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087923 60385",
+    "alternatePhone": "",
+    "website": "https://ssona-dental-cares.grexa.site/",
+    "address": "Ground floor, Near, Hosur Cross BRTS opposite Ghanti Hospital, Pitha Complex, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "opposite Ghanti Hospital, Pitha Complex, Vidya Nagar, Hubballi, Karnataka 580021",
+    "emergencyContact": "087923 60385",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SONA+DENTAL+CARE/@15.3549851,75.1313607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e405c742a3:0x7474e46e73a7e98!8m2!3d15.3549851!4d75.1313607!16s%2Fg%2F11rspd50m0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SONA+DENTAL+CARE/@15.3549851,75.1313607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7e405c742a3:0x7474e46e73a7e98!8m2!3d15.3549851!4d75.1313607!16s%2Fg%2F11rspd50m0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3549851,
+      "lng": 75.1313607,
+      "label": "SONA DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sou-mandakini-memorial-hospital-hubli-karnataka-india-hubballi",
+    "name": "Sou Mandakini Memorial Hospital, Hubli Karnataka India.",
+    "type": "Diabetes Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sou Mandakini Memorial Hospital, Hubli Karnataka India. is a prominent diabetes center in Hubballi, known for structured tertiary care across General Surgery In Hubli, Diabetes Center, and Diabetology. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097418 28877",
+    "alternatePhone": "",
+    "website": "http://www.mandakinifootcare.com/",
+    "address": "944P+QFF Dr Sunil Kari, Bhagya Plaza, New Cotton Market Rd, New Cotton Market, Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "New Cotton Market Rd",
+    "emergencyContact": "097418 28877",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli",
+      "Diabetes Center",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sou+Mandakini+Memorial+Hospital,+Hubli+Karnataka+India./@15.3565651,75.1359993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d746c0000001:0x12a49241d1a76efc!8m2!3d15.3565651!4d75.1359993!16s%2Fg%2F1tk_h4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sou+Mandakini+Memorial+Hospital,+Hubli+Karnataka+India./@15.3565651,75.1359993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d746c0000001:0x12a49241d1a76efc!8m2!3d15.3565651!4d75.1359993!16s%2Fg%2F1tk_h4kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3565651,
+      "lng": 75.1359993,
+      "label": "Sou Mandakini Memorial Hospital, Hubli Karnataka India.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spatika-heart-and-lung-clinic-hubballi",
+    "name": "Spatika Heart & Lung Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Hubballi, Spatika Heart & Lung Clinic delivers integrated care across Heart Surgery In Hubli and Cardiac Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099725 29033",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No F-13, Akshay Park Complex, Gokul Rd, beside Bata Showroom, Akshay Park, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "beside Bata Showroom, Akshay Park, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "emergencyContact": "099725 29033",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Spatika+Heart+%26+Lung+Clinic/@15.3503801,75.1095356,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d792aada761b:0x2cdbd217503eb4da!8m2!3d15.3503801!4d75.1095356!16s%2Fg%2F11xnbtvxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spatika+Heart+%26+Lung+Clinic/@15.3503801,75.1095356,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d792aada761b:0x2cdbd217503eb4da!8m2!3d15.3503801!4d75.1095356!16s%2Fg%2F11xnbtvxnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3503801,
+      "lng": 75.1095356,
+      "label": "Spatika Heart & Lung Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sukruti-scan-centre-fetal-medicine-centre-hubballi",
+    "name": "Sukruti Scan Centre / Fetal Medicine Centre",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Sukruti Scan Centre / Fetal Medicine Centre for its strength in Heart Surgery In Hubli, Diagnostic Center, and Fetal Medicine. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083642 53289",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tirumala Trade Centre, Dr Shilpa Gokavi, No. 36A, 37 2nd floor, Tirumala Trade Centre, 22, Neeligin Rd, near Chenamma Circle, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "near Chenamma Circle",
+    "landmark": "near Chenamma Circle, Hubballi, Karnataka 580029",
+    "emergencyContact": "083642 53289",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Diagnostic Center",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Sukruti+Scan+Centre+%2F+Fetal+Medicine+Centre/@15.3512819,75.1374819,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f57482ffa1:0x2077f15efab639ca!8m2!3d15.3512819!4d75.1374819!16s%2Fg%2F11n068dx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sukruti+Scan+Centre+%2F+Fetal+Medicine+Centre/@15.3512819,75.1374819,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7f57482ffa1:0x2077f15efab639ca!8m2!3d15.3512819!4d75.1374819!16s%2Fg%2F11n068dx4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3512819,
+      "lng": 75.1374819,
+      "label": "Sukruti Scan Centre / Fetal Medicine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tatwadarsha-hospital-hubballi",
+    "name": "Tatwadarsha Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose Tatwadarsha Hospital for its strength in General Surgery In Hubli. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Industrial Estate, Near, Gokul Rd, Shreya Nagar, Industrial Estate, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Industrial Estate",
+    "landmark": "Gokul Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Tatwadarsha+Hospital/@15.3560484,75.1181147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d725159e6ca9:0xc8f91414e5da9a34!8m2!3d15.3560484!4d75.1181147!16s%2Fg%2F11b7hlz17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tatwadarsha+Hospital/@15.3560484,75.1181147,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d725159e6ca9:0xc8f91414e5da9a34!8m2!3d15.3560484!4d75.1181147!16s%2Fg%2F11b7hlz17n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3560484,
+      "lng": 75.1181147,
+      "label": "Tatwadarsha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dental-and-physiotherapy-studio-hubballi",
+    "name": "The Dental & Physiotherapy Studio",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Dental & Physiotherapy Studio has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096636 68788",
+    "alternatePhone": "",
+    "website": "http://www.dentalandphysiotherapystudio.com/",
+    "address": "001, Chabbi, Akshay Corner, Gokul Rd, next to Bank of Baroda, Akshay Park, Manjunath Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Manjunath Nagar",
+    "landmark": "Akshay Corner",
+    "emergencyContact": "096636 68788",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dental+%26+Physiotherapy+Studio/@15.3501005,75.108956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7100da18c4b:0x9e437f982549ed22!8m2!3d15.3501005!4d75.108956!16s%2Fg%2F11fv_zy24j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dental+%26+Physiotherapy+Studio/@15.3501005,75.108956,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7100da18c4b:0x9e437f982549ed22!8m2!3d15.3501005!4d75.108956!16s%2Fg%2F11fv_zy24j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3501005,
+      "lng": 75.108956,
+      "label": "The Dental & Physiotherapy Studio",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dental-wellness-clinic-hubballi",
+    "name": "The Dental Wellness Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, The Dental Wellness Clinic delivers integrated care across Oral Surgery In Hubli. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072043 25340",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Cross, Station Road, Keshwapur, Hubballi, Karnataka 580023",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580023",
+    "locality": "Keshwapur",
+    "landmark": "Keshwapur",
+    "emergencyContact": "072043 25340",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dental+Wellness+Clinic/@15.3578542,75.1467554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d776ac706329:0xc7d622ab5bfddbeb!8m2!3d15.3578542!4d75.1467554!16s%2Fg%2F11vst0nvg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dental+Wellness+Clinic/@15.3578542,75.1467554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d776ac706329:0xc7d622ab5bfddbeb!8m2!3d15.3578542!4d75.1467554!16s%2Fg%2F11vst0nvg7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3578542,
+      "lng": 75.1467554,
+      "label": "The Dental Wellness Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-karnatak-cancer-therapy-and-research-institute-hubballi",
+    "name": "The Karnatak Cancer Therapy & Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Hubballi, The Karnatak Cancer Therapy & Research Institute delivers integrated care across Heart Surgery In Hubli. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083622 28217",
+    "alternatePhone": "",
+    "website": "https://www.kctrihubli.com/",
+    "address": "KCTRI, Main Road, Navanagar, Hubballi, Karnataka 580025",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580025",
+    "locality": "Navanagar",
+    "landmark": "Navanagar",
+    "emergencyContact": "083622 28217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Karnatak+Cancer+Therapy+%26+Research+Institute/@15.3949925,75.0847617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x75dd88d64f0c7a5e!8m2!3d15.3949925!4d75.0847617!16s%2Fg%2F1th227n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Karnatak+Cancer+Therapy+%26+Research+Institute/@15.3949925,75.0847617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0x75dd88d64f0c7a5e!8m2!3d15.3949925!4d75.0847617!16s%2Fg%2F1th227n2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3949925,
+      "lng": 75.0847617,
+      "label": "The Karnatak Cancer Therapy & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-tooth-place-hubballi",
+    "name": "The Tooth Place",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Tooth Place has built a strong reputation in Hubballi for multidisciplinary treatment pathways covering Oral Surgery In Hubli. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098867 74344",
+    "alternatePhone": "",
+    "website": "http://thetoothplace.co/",
+    "address": "Maratha Galli Rd, Durgad Bail, New Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "New Hubli",
+    "landmark": "New Hubli",
+    "emergencyContact": "098867 74344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Tooth+Place/@15.3458032,75.1438826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7140b0a1e99:0xd11a874137fcda8e!8m2!3d15.3458032!4d75.1438826!16s%2Fg%2F11gwggl3hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Tooth+Place/@15.3458032,75.1438826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7140b0a1e99:0xd11a874137fcda8e!8m2!3d15.3458032!4d75.1438826!16s%2Fg%2F11gwggl3hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3458032,
+      "lng": 75.1438826,
+      "label": "The Tooth Place",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thousand-smiles-dental-hubballi",
+    "name": "Thousand Smiles Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Thousand Smiles Dental brings together specialists for Oral Surgery In Hubli. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094839 72222",
+    "alternatePhone": "",
+    "website": "https://www.thousandsmiles.in/",
+    "address": "2nd Floor, Shriya Jupiter Complex, bus stand, Gokul Rd, above daaruwala, next to new ksrtc, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580030",
+    "locality": "Rajendra Nagar",
+    "landmark": "bus stand",
+    "emergencyContact": "094839 72222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Thousand+Smiles+Dental/@15.3504738,75.1151202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73a9a08eed9:0xc2ff068611daaa2b!8m2!3d15.3504738!4d75.1151202!16s%2Fg%2F11fl9h0yyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Thousand+Smiles+Dental/@15.3504738,75.1151202,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d73a9a08eed9:0xc2ff068611daaa2b!8m2!3d15.3504738!4d75.1151202!16s%2Fg%2F11fl9h0yyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3504738,
+      "lng": 75.1151202,
+      "label": "Thousand Smiles Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trinity-dental-care-hubballi",
+    "name": "Trinity Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Trinity Dental Care delivers integrated care across Oral Surgery In Hubli. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096860 87131",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Lane, Killa, C.B.T., Fort Road, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Fort Road",
+    "landmark": "C.B.T.",
+    "emergencyContact": "096860 87131",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Trinity+Dental+Care/@15.3447812,75.1447513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7664ebbe6b3:0x6a444fc3894b4a83!8m2!3d15.3447812!4d75.1447513!16s%2Fg%2F11crzy6m8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trinity+Dental+Care/@15.3447812,75.1447513,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7664ebbe6b3:0x6a444fc3894b4a83!8m2!3d15.3447812!4d75.1447513!16s%2Fg%2F11crzy6m8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3447812,
+      "lng": 75.1447513,
+      "label": "Trinity Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urban-dental-clinic-hubballi",
+    "name": "URBAN DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hubballi often choose URBAN DENTAL CLINIC for its strength in Oral Surgery In Hubli and Dentist. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082770 70512",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, R.R.Mahalakshmi Mansion, Pinto Rd, above The IndusInd Bank, Deshpande Nagar, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Deshpande Nagar",
+    "landmark": "Pinto Rd",
+    "emergencyContact": "082770 70512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC/@15.3543792,75.1418264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744bb0f576f:0xbdd5e4a21b79efae!8m2!3d15.3543792!4d75.1418264!16s%2Fg%2F11bzsg8mtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC/@15.3543792,75.1418264,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744bb0f576f:0xbdd5e4a21b79efae!8m2!3d15.3543792!4d75.1418264!16s%2Fg%2F11bzsg8mtl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3543792,
+      "lng": 75.1418264,
+      "label": "URBAN DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vedaant-eye-hospital-and-health-centre-hubballi",
+    "name": "VEDAANT EYE HOSPITAL AND HEALTH CENTRE",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "VEDAANT EYE HOSPITAL AND HEALTH CENTRE is a prominent eye care center in Hubballi, known for structured tertiary care across Heart Surgery In Hubli and Eye Care Center. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086605 70947",
+    "alternatePhone": "",
+    "website": "https://www.vedaanthospitalhubli.com/index.php",
+    "address": "3rd floor, Kothari holdings, Shirur Park Road, opp. to Sukruti Commerce College, Shirur Park, Vidya Nagar, Hubballi, Karnataka 580021",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580021",
+    "locality": "Vidya Nagar",
+    "landmark": "Shirur Park Road",
+    "emergencyContact": "086605 70947",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VEDAANT+EYE+HOSPITAL+AND+HEALTH+CENTRE/@15.3622406,75.1191871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76bf5f6e9df:0xa9ec3ac5cbae8722!8m2!3d15.3622406!4d75.1191871!16s%2Fg%2F11rz954bj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VEDAANT+EYE+HOSPITAL+AND+HEALTH+CENTRE/@15.3622406,75.1191871,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d76bf5f6e9df:0xa9ec3ac5cbae8722!8m2!3d15.3622406!4d75.1191871!16s%2Fg%2F11rz954bj8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3622406,
+      "lng": 75.1191871,
+      "label": "VEDAANT EYE HOSPITAL AND HEALTH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vijapur-dental-clinic-hubballi",
+    "name": "Vijapur Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hubballi, Vijapur Dental Clinic brings together specialists for Oral Surgery In Hubli. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083623 69153",
+    "alternatePhone": "",
+    "website": "",
+    "address": "84WR+V6X, Dajiban Peth, Kamaripeth, New Hubli, Hubballi, Karnataka 580028",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580028",
+    "locality": "New Hubli",
+    "landmark": "Kamaripeth",
+    "emergencyContact": "083623 69153",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Vijapur+Dental+Clinic/@15.3490115,75.1399619,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xc4f59ae02d14ba31!8m2!3d15.3490115!4d75.1399619!16s%2Fg%2F1vpq59sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vijapur+Dental+Clinic/@15.3490115,75.1399619,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8cd70176844d5:0xc4f59ae02d14ba31!8m2!3d15.3490115!4d75.1399619!16s%2Fg%2F1vpq59sg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3490115,
+      "lng": 75.1399619,
+      "label": "Vijapur Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vijapur-dental-maxillofacial-and-implant-center-hubballi",
+    "name": "Vijapur Dental, Maxillofacial & Implant Center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Hubballi, Vijapur Dental, Maxillofacial & Implant Center delivers integrated care across Oral Surgery In Hubli, Dentist, and Maxillofacial Surgery. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lalithe 3rd Cross, Reddy Colony, H No. 5, near Reliance Smart Point, Akshay Colony, Hubballi, Karnataka 580031",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580031",
+    "locality": "Akshay Colony",
+    "landmark": "near Reliance Smart Point, Akshay Colony, Hubballi, Karnataka 580031",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli",
+      "Dentist",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vijapur+Dental,+Maxillofacial+%26+Implant+Center/@15.3627431,75.1086958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70056de0215:0xa07c59cf80a31017!8m2!3d15.3627431!4d75.1086958!16s%2Fg%2F11x5p3w_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vijapur+Dental,+Maxillofacial+%26+Implant+Center/@15.3627431,75.1086958,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d70056de0215:0xa07c59cf80a31017!8m2!3d15.3627431!4d75.1086958!16s%2Fg%2F11x5p3w_27?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3627431,
+      "lng": 75.1086958,
+      "label": "Vijapur Dental, Maxillofacial & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vishal-dental-clinic-hubballi",
+    "name": "Vishal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hubballi, Vishal Dental Clinic delivers integrated care across Oral Surgery In Hubli. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094804 55082",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gayathri Commercial Complex, Fort, Didi, Pagadi Galli, Old Hubli, Hubballi, Karnataka 580020",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580020",
+    "locality": "Old Hubli",
+    "landmark": "Didi",
+    "emergencyContact": "094804 55082",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Vishal+Dental+Clinic/@15.3401682,75.1432237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ba73f85517:0x801245f3e217dc9!8m2!3d15.3401682!4d75.1432237!16s%2Fg%2F11s0vk7yb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vishal+Dental+Clinic/@15.3401682,75.1432237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d7ba73f85517:0x801245f3e217dc9!8m2!3d15.3401682!4d75.1432237!16s%2Fg%2F11s0vk7yb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3401682,
+      "lng": 75.1432237,
+      "label": "Vishal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vivekanand-general-hospital-hubballi",
+    "name": "Vivekanand General Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hubballi, Vivekanand General Hospital offers coordinated hospital care with major focus on Heart Surgery In Hubli. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://vghhubli.com/",
+    "address": "Deshpande Nagar, Hubballi, Karnataka 580029",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580029",
+    "locality": "Deshpande Nagar",
+    "landmark": "Karnataka 580029",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vivekanand+General+Hospital/@15.3550867,75.1403581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744f2f09e63:0x1af09274bead1a06!8m2!3d15.3550867!4d75.1403581!16s%2Fg%2F1td70f_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vivekanand+General+Hospital/@15.3550867,75.1403581,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d744f2f09e63:0x1af09274bead1a06!8m2!3d15.3550867!4d75.1403581!16s%2Fg%2F1td70f_2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3550867,
+      "lng": 75.1403581,
+      "label": "Vivekanand General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "we-care-hubballi",
+    "name": "WE CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "WE CARE is a prominent dental clinic in Hubballi, known for structured tertiary care across Oral Surgery In Hubli. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099808 50783",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Gangolli Complex, Fort Road, opp. Municipal Hospital, Old, Old Hubli, Hubballi, Karnataka 580024",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "pincode": "580024",
+    "locality": "Old Hubli",
+    "landmark": "Fort Road",
+    "emergencyContact": "099808 50783",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Hubli"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/WE+CARE/@15.3349925,75.1312671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71e490a6c27:0xfca8422743b31e6d!8m2!3d15.3349925!4d75.1312671!16s%2Fg%2F11n_v8ykx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/WE+CARE/@15.3349925,75.1312671,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb8d71e490a6c27:0xfca8422743b31e6d!8m2!3d15.3349925!4d75.1312671!16s%2Fg%2F11n_v8ykx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.3349925,
+      "lng": 75.1312671,
+      "label": "WE CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

@@ -1,0 +1,10117 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32-intact-dental-clinic-bilaspur",
+    "name": "32 Intact Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, 32 Intact Dental Clinic delivers integrated care across Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077480 87852",
+    "alternatePhone": "",
+    "website": "https://thirtytwointact.com/",
+    "address": "H2/44, First Floor, Opp Siddhha Shikhar Apartment, Ring Road, 2, Gaurav Path, near Mangla Chowk, Narmada Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Narmada Nagar",
+    "landmark": "near Mangla Chowk, Narmada Nagar, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "077480 87852",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/32+Intact+Dental+Clinic/@22.0883578,82.1259079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c8245bbd653:0xf3035707d6c70ccc!8m2!3d22.0883578!4d82.1259079!16s%2Fg%2F1q629k083?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Intact+Dental+Clinic/@22.0883578,82.1259079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c8245bbd653:0xf3035707d6c70ccc!8m2!3d22.0883578!4d82.1259079!16s%2Fg%2F1q629k083?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0883578,
+      "lng": 82.1259079,
+      "label": "32 Intact Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarogya-hospital-bilaspur",
+    "name": "Aarogya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aarogya Hospital has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077524 06927",
+    "alternatePhone": "",
+    "website": "http://arogyahospitalbilaspur.com/",
+    "address": "Gaurav Path Ring Road-2, Ameri Chowk, Near St. Francis School, Shanti Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Shanti Nagar",
+    "landmark": "Near St. Francis School, Shanti Nagar, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "077524 06927",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarogya+Hospital/@22.0851177,82.1264009,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c82c7f3ec25:0xe5621e9db2e16bbf!8m2!3d22.0851177!4d82.1264009!16s%2Fg%2F11cn3vcfy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarogya+Hospital/@22.0851177,82.1264009,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c82c7f3ec25:0xe5621e9db2e16bbf!8m2!3d22.0851177!4d82.1264009!16s%2Fg%2F11cn3vcfy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0851177,
+      "lng": 82.1264009,
+      "label": "Aarogya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "adhishree-dental-clinic-gol-bazar",
+    "name": "Adhishree Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Adhishree Dental Clinic has built a strong reputation in Gol Bazar for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098266 63430",
+    "alternatePhone": "",
+    "website": "http://adhishreedentalclinic.com/",
+    "address": "Front of Old, Pratap Talkies Rd, opp. Care N Cure Hospital, Pratap Chowk, Gol Bazar, Chhattisgarh 495001",
+    "city": "Gol Bazar",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Pratap Chowk",
+    "landmark": "opp. Care N Cure Hospital",
+    "emergencyContact": "098266 63430",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Adhishree+Dental+Clinic/@22.088816,82.149926,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0cd46e6281:0x2e373bdaeea910b9!8m2!3d22.088816!4d82.149926!16s%2Fg%2F11c0rvmfb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Adhishree+Dental+Clinic/@22.088816,82.149926,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0cd46e6281:0x2e373bdaeea910b9!8m2!3d22.088816!4d82.149926!16s%2Fg%2F11c0rvmfb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.088816,
+      "lng": 82.149926,
+      "label": "Adhishree Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-best-hospital-in-bilaspur-bilaspur",
+    "name": "Apollo Hospitals | Best Hospital in Bilaspur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Hospitals | Best Hospital in Bilaspur has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. With public-facing highlights like Google rating 4.7, 53+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080690 49751",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-bilaspur",
+    "address": "Seepat Rd, opposite Vasant Vihar, Lingiadih, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Lingiadih",
+    "landmark": "opposite Vasant Vihar, Lingiadih, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "080690 49751",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "53+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bilaspur/@22.0840714,82.1773395,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afb46555559:0x399aeec43cf0ffb1!8m2!3d22.0840714!4d82.1773395!16s%2Fg%2F1wbrw5x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Bilaspur/@22.0840714,82.1773395,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afb46555559:0x399aeec43cf0ffb1!8m2!3d22.0840714!4d82.1773395!16s%2Fg%2F1wbrw5x8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0840714,
+      "lng": 82.1773395,
+      "label": "Apollo Hospitals | Best Hospital in Bilaspur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 53,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arsh-family-dental-care-bilaspur",
+    "name": "ARSH Family Dental Care",
+    "type": "Cosmetic Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, ARSH Family Dental Care brings together specialists for Oral Surgery In Bilaspur and Cosmetic Dentist. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098061 88702",
+    "alternatePhone": "",
+    "website": "http://arshcare.in/",
+    "address": "Indu chowk, Magarpara Rd, in front of YAMAHA showroom, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "in front of YAMAHA showroom",
+    "landmark": "in front of YAMAHA showroom",
+    "emergencyContact": "098061 88702",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Cosmetic Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ARSH+Family+Dental+Care/@22.0788511,82.1448784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba725d24b27:0x2c9dac3ae3ad60cd!8m2!3d22.0788511!4d82.1448784!16s%2Fg%2F11fmf1jzb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ARSH+Family+Dental+Care/@22.0788511,82.1448784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba725d24b27:0x2c9dac3ae3ad60cd!8m2!3d22.0788511!4d82.1448784!16s%2Fg%2F11fmf1jzb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0788511,
+      "lng": 82.1448784,
+      "label": "ARSH Family Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashish-dental-hospital-bilaspur",
+    "name": "Ashish Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Ashish Dental Hospital for its strength in Oral Surgery In Bilaspur. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095896 01111",
+    "alternatePhone": "",
+    "website": "https://www.ashishdental.com/",
+    "address": "Ashish Dental Hospital, Mangla Chowk, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla Chowk",
+    "landmark": "Bilaspur",
+    "emergencyContact": "095896 01111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashish+Dental+Hospital/data=!4m7!3m6!1s0x3a280b7e1dad7c09:0x7b4f4c97e708d00!8m2!3d22.0912111!4d82.1283146!16s%2Fg%2F11b72r_g9v!19sChIJCXytHX4LKDoRAI1wfsn0tAc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashish+Dental+Hospital/data=!4m7!3m6!1s0x3a280b7e1dad7c09:0x7b4f4c97e708d00!8m2!3d22.0912111!4d82.1283146!16s%2Fg%2F11b72r_g9v!19sChIJCXytHX4LKDoRAI1wfsn0tAc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0912111,
+      "lng": 82.1283146,
+      "label": "Ashish Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avinash-dental-care-sarkanda",
+    "name": "Avinash Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Sarkanda often choose Avinash Dental Care for its strength in Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091794 73389",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Avinash Dental Care G-19 ,Shree plaza, Seepat Rd, behind Domino's, Sarkanda, Chhattisgarh 495006",
+    "city": "Sarkanda",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "behind Domino's",
+    "landmark": "Seepat Rd",
+    "emergencyContact": "091794 73389",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Avinash+Dental+Care/@22.0980054,82.1555736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba74e4e09db:0xeeb4bbc5f74e1b08!8m2!3d22.0980054!4d82.1555736!16s%2Fg%2F11ck1kkln3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avinash+Dental+Care/@22.0980054,82.1555736,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba74e4e09db:0xeeb4bbc5f74e1b08!8m2!3d22.0980054!4d82.1555736!16s%2Fg%2F11ck1kkln3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0980054,
+      "lng": 82.1555736,
+      "label": "Avinash Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "balani-dental-clinic-bilaspur",
+    "name": "Balani Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Balani Dental Clinic for its strength in Oral Surgery In Bilaspur. The facility stands out for Google rating 4.8, 8+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077523 57322",
+    "alternatePhone": "",
+    "website": "http://balanidentalhospital.com/",
+    "address": "Mungeli Rd, Shubham Vihar, Mangla, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla",
+    "landmark": "Mangla",
+    "emergencyContact": "077523 57322",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "8+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Balani+Dental+Clinic/@22.0953957,82.1192025,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc79cedaf33:0xf555fdeba82acf38!8m2!3d22.0953957!4d82.1192025!16s%2Fg%2F11kbpf_fq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Balani+Dental+Clinic/@22.0953957,82.1192025,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc79cedaf33:0xf555fdeba82acf38!8m2!3d22.0953957!4d82.1192025!16s%2Fg%2F11kbpf_fq9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0953957,
+      "lng": 82.1192025,
+      "label": "Balani Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 8,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhandari-dental-care-bilaspur",
+    "name": "Bhandari Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Bilaspur, Bhandari Dental Care delivers integrated care across Oral Surgery In Bilaspur and Dentist. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097527 88222",
+    "alternatePhone": "",
+    "website": "http://www.bhandaridentalcare.com/",
+    "address": "Shyamlal Chaturvedi marg, Tiranga chowk, smart road, near Balram talkies, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "near Balram talkies",
+    "landmark": "near Balram talkies, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "097527 88222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhandari+Dental+Care/@22.0853711,82.135321,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1a4462d93b:0x499e6279f347df1!8m2!3d22.0853711!4d82.135321!16s%2Fg%2F12qg3g1lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhandari+Dental+Care/@22.0853711,82.135321,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1a4462d93b:0x499e6279f347df1!8m2!3d22.0853711!4d82.135321!16s%2Fg%2F12qg3g1lq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0853711,
+      "lng": 82.135321,
+      "label": "Bhandari Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhandari-dental-care-and-cbct-center-bilaspur",
+    "name": "Bhandari Dental Care & CBCT Center",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental implants periodontist in Bilaspur, Bhandari Dental Care & CBCT Center delivers integrated care across Oral Surgery In Bilaspur and Dental Implants Periodontist. Its infrastructure includes Google rating 4.9, 24+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078690 80808",
+    "alternatePhone": "",
+    "website": "https://bhandaridentalcare.com/",
+    "address": "Shop No.G2, Shri Plaza Ashok Nagar square, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Sarkanda",
+    "emergencyContact": "078690 80808",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dental Implants Periodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "24+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhandari+Dental+Care+%26+CBCT+Center/@22.0982483,82.1558844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd06dfafc47:0x7c372c79d2462db4!8m2!3d22.0982483!4d82.1558844!16s%2Fg%2F11g21r44vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhandari+Dental+Care+%26+CBCT+Center/@22.0982483,82.1558844,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd06dfafc47:0x7c372c79d2462db4!8m2!3d22.0982483!4d82.1558844!16s%2Fg%2F11g21r44vz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0982483,
+      "lng": 82.1558844,
+      "label": "Bhandari Dental Care & CBCT Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 24,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bilaspur-dental-shop-clc-plaza-mangla-chowk",
+    "name": "Bilaspur dental shop",
+    "type": "Dental Supply Store",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Clc Plaza Mangla chowk, Bilaspur dental shop brings together specialists for Oral Surgery In Bilaspur and Dental Supply Store. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082530 28645",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No.FS-10, Clc Plaza Mangla chowk, Chhattisgarh 495001",
+    "city": "Clc Plaza Mangla chowk",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Shop No.FS-10",
+    "landmark": "Chhattisgarh 495001",
+    "emergencyContact": "082530 28645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dental Supply Store"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Bilaspur+dental+shop/@22.0917427,82.1267667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0a006fa201:0xfa06e12b2313d5cb!8m2!3d22.0917427!4d82.1267667!16s%2Fg%2F11flkbhwdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bilaspur+dental+shop/@22.0917427,82.1267667,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0a006fa201:0xfa06e12b2313d5cb!8m2!3d22.0917427!4d82.1267667!16s%2Fg%2F11flkbhwdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0917427,
+      "lng": 82.1267667,
+      "label": "Bilaspur dental shop",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "breast-surgery-clinic-gynecomastia-bilaspur",
+    "name": "Breast Surgery Clinic|Gynecomastia",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Breast Surgery Clinic|Gynecomastia offers coordinated hospital care with major focus on Plastic Surgery In Bilaspur. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093022 25690",
+    "alternatePhone": "",
+    "website": "https://breastsurgery.org.in/",
+    "address": "UMANG HOSPITAL,FIRST FLOOR ,Gaurav path, Ghuru - Ameri Rd, CHOWK, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "CHOWK",
+    "landmark": "Gaurav path",
+    "emergencyContact": "093022 25690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Breast+Surgery+Clinic%7CGynecomastia/data=!4m7!3m6!1s0x3a280bcd221bc949:0x3198d97ef774279f!8m2!3d22.0861368!4d82.1264731!16s%2Fg%2F11r1036zrp!19sChIJSckbIs0LKDoRnyd0937ZmDE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Breast+Surgery+Clinic%7CGynecomastia/data=!4m7!3m6!1s0x3a280bcd221bc949:0x3198d97ef774279f!8m2!3d22.0861368!4d82.1264731!16s%2Fg%2F11r1036zrp!19sChIJSckbIs0LKDoRnyd0937ZmDE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0861368,
+      "lng": 82.1264731,
+      "label": "Breast Surgery Clinic|Gynecomastia",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bright-dental-laboratory-bhartiya-nagar",
+    "name": "Bright Dental laboratory",
+    "type": "Dental Laboratory",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bhartiya Nagar often choose Bright Dental laboratory for its strength in Oral Surgery In Bilaspur and Dental Laboratory. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "34CR+9W8, Chowk, Bhartiya Nagar, Chhattisgarh 495001",
+    "city": "Bhartiya Nagar",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Chowk",
+    "landmark": "Bhartiya Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dental Laboratory"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Bright+Dental+laboratory/@22.0709041,82.1423294,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b08ee70290f:0xbcc5b321f29a11ac!8m2!3d22.0709041!4d82.1423294!16s%2Fg%2F11ssq0sj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bright+Dental+laboratory/@22.0709041,82.1423294,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b08ee70290f:0xbcc5b321f29a11ac!8m2!3d22.0709041!4d82.1423294!16s%2Fg%2F11ssq0sj5m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0709041,
+      "lng": 82.1423294,
+      "label": "Bright Dental laboratory",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bright-smiles-dental-clinic-bilaspur",
+    "name": "Bright Smiles Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bright Smiles Dental Clinic has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074405 56995",
+    "alternatePhone": "",
+    "website": "https://thebrightsmiles.co.in/",
+    "address": "Gurunanak Chowk, RTS Colony, Torwa, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Torwa",
+    "landmark": "Torwa",
+    "emergencyContact": "074405 56995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bright+Smiles+Dental+Clinic/@22.0658915,82.1808135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33851f9e21:0xbfe1951fa1f1427e!8m2!3d22.0658915!4d82.1808135!16s%2Fg%2F11j2zb2dxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bright+Smiles+Dental+Clinic/@22.0658915,82.1808135,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33851f9e21:0xbfe1951fa1f1427e!8m2!3d22.0658915!4d82.1808135!16s%2Fg%2F11j2zb2dxm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0658915,
+      "lng": 82.1808135,
+      "label": "Bright Smiles Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "burn-and-trauma-research-center-bilaspur-bilaspur",
+    "name": "Burn & Trauma Research Center Bilaspur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Burn & Trauma Research Center Bilaspur has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Plastic Surgery In Bilaspur. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077524 12837",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pawan's Doctor Plaza, Chowk, S. V. Road, near MAGNETO MALL, Vaishali Nagar, Vidya Nagar, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Vidya Nagar",
+    "landmark": "near MAGNETO MALL, Vaishali Nagar, Vidya Nagar, Bilaspur, Chhattisgarh 495004",
+    "emergencyContact": "077524 12837",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Burn+%26+Trauma+Research+Center+Bilaspur/@22.071827,82.1507974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3f9609701f:0xa583be394692f202!8m2!3d22.071827!4d82.1507974!16s%2Fg%2F11b5r8sd0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Burn+%26+Trauma+Research+Center+Bilaspur/@22.071827,82.1507974,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3f9609701f:0xa583be394692f202!8m2!3d22.071827!4d82.1507974!16s%2Fg%2F11b5r8sd0_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.071827,
+      "lng": 82.1507974,
+      "label": "Burn & Trauma Research Center Bilaspur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cg-dental-care-bilaspur",
+    "name": "CG DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose CG DENTAL CARE for its strength in Oral Surgery In Bilaspur. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098274 61998",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Seepat Rd, near Bajaj Showroom, Shree Vihar, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "near Bajaj Showroom, Shree Vihar, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "098274 61998",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/CG+DENTAL+CARE/@22.0986642,82.1544545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba0b04d71d3:0xc3f51f669b09450!8m2!3d22.0986642!4d82.1544545!16s%2Fg%2F11gzn8b1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CG+DENTAL+CARE/@22.0986642,82.1544545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba0b04d71d3:0xc3f51f669b09450!8m2!3d22.0986642!4d82.1544545!16s%2Fg%2F11gzn8b1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0986642,
+      "lng": 82.1544545,
+      "label": "CG DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chaturvedi-dental-clinic-bilaspur",
+    "name": "Chaturvedi Dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, Chaturvedi Dental clinic delivers integrated care across Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077524 20888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ware House Rd, near CCN OFFICE, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Sindhi Colony",
+    "landmark": "near CCN OFFICE, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "077524 20888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Chaturvedi+Dental+clinic/@22.0869609,82.1374895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce16fede1:0x746b19f7cd7361a4!8m2!3d22.0869609!4d82.1374895!16s%2Fg%2F11j8kztqmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chaturvedi+Dental+clinic/@22.0869609,82.1374895,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce16fede1:0x746b19f7cd7361a4!8m2!3d22.0869609!4d82.1374895!16s%2Fg%2F11j8kztqmp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0869609,
+      "lng": 82.1374895,
+      "label": "Chaturvedi Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chhattisgarh-dental-care-bilaspur",
+    "name": "Chhattisgarh Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chhattisgarh Dental Care is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Seepat Main Road, near bajaj showroom, Shree Vihar, New Sarkanda, Kapil Nagar, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Kapil Nagar",
+    "landmark": "near bajaj showroom, Shree Vihar, New Sarkanda, Kapil Nagar, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chhattisgarh+Dental+Care/data=!4m7!3m6!1s0x3a280b3032a8f70b:0x30df99f2dd93403d!8m2!3d22.0985114!4d82.1548206!16s%2Fg%2F11h1m0trxr!19sChIJC_eoMjALKDoRPUCT3fKZ3zA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chhattisgarh+Dental+Care/data=!4m7!3m6!1s0x3a280b3032a8f70b:0x30df99f2dd93403d!8m2!3d22.0985114!4d82.1548206!16s%2Fg%2F11h1m0trxr!19sChIJC_eoMjALKDoRPUCT3fKZ3zA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0985114,
+      "lng": 82.1548206,
+      "label": "Chhattisgarh Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chouhan-dental-clinic-bilaspur",
+    "name": "Chouhan Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Chouhan Dental Clinic for its strength in Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079876 94540",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajiv Gandhi Chowk, adjacent to Sonu Chasma Ghar, Chandela Vihar, Agyay Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Agyay Nagar",
+    "landmark": "Chandela Vihar",
+    "emergencyContact": "079876 94540",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chouhan+Dental+Clinic/@22.077568,82.13986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bab9f731601:0x9b802db08497c9a9!8m2!3d22.077568!4d82.13986!16s%2Fg%2F11kj97sl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chouhan+Dental+Clinic/@22.077568,82.13986,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bab9f731601:0x9b802db08497c9a9!8m2!3d22.077568!4d82.13986!16s%2Fg%2F11kj97sl9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.077568,
+      "lng": 82.13986,
+      "label": "Chouhan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-dentist-clinic-bilaspur",
+    "name": "CITY DENTIST CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CITY DENTIST CLINIC has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088392 52815",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr. Divya, Infront of Yash bigbazaar, C/O, near Bajrang Chowk, Brij Vihar Nagar, Rajkishore Nagar, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Rajkishore Nagar",
+    "landmark": "near Bajrang Chowk, Brij Vihar Nagar, Rajkishore Nagar, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "088392 52815",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/CITY+DENTIST+CLINIC/@22.0836205,82.1819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b118fffdb07:0x200a611a91c4089e!8m2!3d22.0836205!4d82.1819584!16s%2Fg%2F11v3g9lc3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CITY+DENTIST+CLINIC/@22.0836205,82.1819584,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b118fffdb07:0x200a611a91c4089e!8m2!3d22.0836205!4d82.1819584!16s%2Fg%2F11v3g9lc3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0836205,
+      "lng": 82.1819584,
+      "label": "CITY DENTIST CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "complete-dental-care-bilaspur",
+    "name": "Complete dental care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Complete dental care has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur and Dentist. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086599 79209",
+    "alternatePhone": "",
+    "website": "https://drdrpindrajeet.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "1st floor, Mangla Chowk, Mundra hospital, Ganga Nagar Sector - 2, Ganga Nagar, Mangla, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla",
+    "landmark": "Mundra hospital",
+    "emergencyContact": "086599 79209",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Complete+dental+care/@22.0932323,82.1276399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d3cd7fb1e9b:0xfe88073aec061175!8m2!3d22.0932323!4d82.1276399!16s%2Fg%2F11t14b8w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Complete+dental+care/@22.0932323,82.1276399,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d3cd7fb1e9b:0xfe88073aec061175!8m2!3d22.0932323!4d82.1276399!16s%2Fg%2F11t14b8w48?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0932323,
+      "lng": 82.1276399,
+      "label": "Complete dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "daya-heart-clinic-bilaspur",
+    "name": "Daya Heart Clinic",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Bilaspur, Daya Heart Clinic delivers integrated care across Heart Surgery In Bilaspur and Cardiac Care. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096446 60550",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Loyala School, Chowk, RK Nagar Rd, Vasant Vihar, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Vasant Vihar",
+    "landmark": "RK Nagar Rd",
+    "emergencyContact": "096446 60550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bilaspur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Daya+Heart+Clinic/@22.0880012,82.1813455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bfa446d8a03:0xb3976254bfd6f64!8m2!3d22.0880012!4d82.1813455!16s%2Fg%2F11mdpf7rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Daya+Heart+Clinic/@22.0880012,82.1813455,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bfa446d8a03:0xb3976254bfd6f64!8m2!3d22.0880012!4d82.1813455!16s%2Fg%2F11mdpf7rkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0880012,
+      "lng": 82.1813455,
+      "label": "Daya Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-clinic-bilaspur",
+    "name": "Dental Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Dental Clinic for its strength in Oral Surgery In Bilaspur. With public-facing highlights like Google rating 2.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "359M+5WX, Torwa, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Torwa",
+    "landmark": "Bilaspur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Clinic/@22.0679869,82.1848707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ac4f53617a7:0xd17c46df0523d410!8m2!3d22.0679869!4d82.1848707!16s%2Fg%2F11g7_f0drz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Clinic/@22.0679869,82.1848707,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ac4f53617a7:0xd17c46df0523d410!8m2!3d22.0679869!4d82.1848707!16s%2Fg%2F11g7_f0drz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0679869,
+      "lng": 82.1848707,
+      "label": "Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "derma-cliniq-bilaspur",
+    "name": "Derma Cliniq",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Bilaspur, Derma Cliniq delivers integrated care across Cosmetic Surgery In Bilaspur. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086691 30298",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Doctors colony, Pratap Talkies Rd, chowk, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "chowk",
+    "landmark": "chowk",
+    "emergencyContact": "086691 30298",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Derma+Cliniq/@22.089595,82.1508133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bcda2c90785:0x96ddd7f70221b6e0!8m2!3d22.089595!4d82.1508133!16s%2Fg%2F11qr9g1f32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Derma+Cliniq/@22.089595,82.1508133,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bcda2c90785:0x96ddd7f70221b6e0!8m2!3d22.089595!4d82.1508133!16s%2Fg%2F11qr9g1f32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.089595,
+      "lng": 82.1508133,
+      "label": "Derma Cliniq",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gaurav-hospital-best-cardiology-hospital-in-bilaspur-best-hospital-for-heart-care-bilaspur",
+    "name": "Gaurav Hospital : Best Cardiology Hospital in Bilaspur | Best Hospital For Heart Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bilaspur, Gaurav Hospital : Best Cardiology Hospital in Bilaspur | Best Hospital For Heart Care delivers integrated care across Heart Surgery In Bilaspur and Cardiac Care. Hospital capacity markers such as Google rating 3.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062631 31490",
+    "alternatePhone": "",
+    "website": "https://thegauravhospital.com/",
+    "address": "Ganga Nagar Sector I, Ganga Nagar, Mangla, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla",
+    "landmark": "Mangla",
+    "emergencyContact": "062631 31490",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bilaspur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gaurav+Hospital+:+Best+Cardiology+Hospital+in+Bilaspur+%7C+Best+Hospital+For+Heart+Care/@22.0952146,82.1285004,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b62ac00ed9f:0xb0a6815528eca92d!8m2!3d22.0952146!4d82.1285004!16s%2Fg%2F11srs378jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gaurav+Hospital+:+Best+Cardiology+Hospital+in+Bilaspur+%7C+Best+Hospital+For+Heart+Care/@22.0952146,82.1285004,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b62ac00ed9f:0xb0a6815528eca92d!8m2!3d22.0952146!4d82.1285004!16s%2Fg%2F11srs378jj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0952146,
+      "lng": 82.1285004,
+      "label": "Gaurav Hospital : Best Cardiology Hospital in Bilaspur | Best Hospital For Heart Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ghosh-dental-clinic-bilaspur",
+    "name": "Ghosh Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, Ghosh Dental Clinic delivers integrated care across Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088154 49963",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 1, Shivaji Chowk, Rajendra Nagar Rd, opposite Mission School, Civil Lines, Bilaspur, Masanganj, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Civil Lines",
+    "landmark": "opposite Mission School, Civil Lines, Bilaspur, Masanganj, Chhattisgarh 495001",
+    "emergencyContact": "088154 49963",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ghosh+Dental+Clinic/@22.0857018,82.1457402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3ccd882b31:0x3b0bae968fefb4df!8m2!3d22.0857018!4d82.1457402!16s%2Fg%2F11s2q2pyvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ghosh+Dental+Clinic/@22.0857018,82.1457402,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3ccd882b31:0x3b0bae968fefb4df!8m2!3d22.0857018!4d82.1457402!16s%2Fg%2F11s2q2pyvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0857018,
+      "lng": 82.1457402,
+      "label": "Ghosh Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "goyal-dental-care-bilaspur",
+    "name": "Goyal Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Goyal Dental Care is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097437 01256",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Narayan Plaza, A-132, 1st Floor, Link Rd, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Link Rd",
+    "landmark": "1st Floor",
+    "emergencyContact": "097437 01256",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Goyal+Dental+Care/@22.0749367,82.1544962,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e6b314521:0x5d4f16822cea5cf4!8m2!3d22.0749367!4d82.1544962!16s%2Fg%2F11j1l3ypl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Goyal+Dental+Care/@22.0749367,82.1544962,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e6b314521:0x5d4f16822cea5cf4!8m2!3d22.0749367!4d82.1544962!16s%2Fg%2F11j1l3ypl6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0749367,
+      "lng": 82.1544962,
+      "label": "Goyal Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "grace-dental-care-bilaspur",
+    "name": "Grace Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Grace Dental Care brings together specialists for Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070008 32639",
+    "alternatePhone": "",
+    "website": "http://gracedentalcarebilaspur.com/",
+    "address": "Vasant Vihar Chowk, Loyola School Rd, near New Sabji Mandi, Rajiv Vihar Colony, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Rajiv Vihar Colony",
+    "landmark": "near New Sabji Mandi, Rajiv Vihar Colony, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "070008 32639",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Grace+Dental+Care/@22.0879931,82.1816983,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afabc8470f7:0x5441163f09323533!8m2!3d22.0879931!4d82.1816983!16s%2Fg%2F11g8g4qr20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Grace+Dental+Care/@22.0879931,82.1816983,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280afabc8470f7:0x5441163f09323533!8m2!3d22.0879931!4d82.1816983!16s%2Fg%2F11g8g4qr20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0879931,
+      "lng": 82.1816983,
+      "label": "Grace Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gurukripa-dant-chiktsalay-ameri-chowk",
+    "name": "Gurukripa Dant Chiktsalay",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Ameri chowk, Gurukripa Dant Chiktsalay delivers integrated care across Oral Surgery In Bilaspur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094062 11335",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aayodhya Nagar, Ameri chowk, Chhattisgarh 495001",
+    "city": "Ameri chowk",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Aayodhya Nagar",
+    "landmark": "Chhattisgarh 495001",
+    "emergencyContact": "094062 11335",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Gurukripa+Dant+Chiktsalay/@22.0845,82.129344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d0a8ef9087f:0xf7daef807a798bb6!8m2!3d22.0845!4d82.129344!16s%2Fg%2F11t4d_0skv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gurukripa+Dant+Chiktsalay/@22.0845,82.129344,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d0a8ef9087f:0xf7daef807a798bb6!8m2!3d22.0845!4d82.129344!16s%2Fg%2F11t4d_0skv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0845,
+      "lng": 82.129344,
+      "label": "Gurukripa Dant Chiktsalay",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gurunanak-dental-clinic-bilaspur",
+    "name": "Gurunanak Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gurunanak Dental Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098279 47848",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Road, near Gurudwara, Tikrapara, Dayalband, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Dayalband",
+    "landmark": "near Gurudwara, Tikrapara, Dayalband, Bilaspur, Chhattisgarh 495004",
+    "emergencyContact": "098279 47848",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Gurunanak+Dental+Clinic/@22.0730025,82.1714299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6b433731e9:0x9fa6e86d817c63e6!8m2!3d22.0730025!4d82.1714299!16s%2Fg%2F11rfn14tp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gurunanak+Dental+Clinic/@22.0730025,82.1714299,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6b433731e9:0x9fa6e86d817c63e6!8m2!3d22.0730025!4d82.1714299!16s%2Fg%2F11rfn14tp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0730025,
+      "lng": 82.1714299,
+      "label": "Gurunanak Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healthy-smile-dental-clinic-bilaspur",
+    "name": "Healthy Smile Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Healthy Smile Dental Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092014 07792",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main road, opposite Tayyab Masjid, Saluja Vihar, Bhartiya nagar, Bhartiya Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Bhartiya Nagar",
+    "landmark": "opposite Tayyab Masjid, Saluja Vihar, Bhartiya nagar, Bhartiya Nagar, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "092014 07792",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/@22.069213,82.1402531,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b06991d1e75:0xc096e98c5dcf1d63!8m2!3d22.069213!4d82.1402531!16s%2Fg%2F11ygjg7lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healthy+Smile+Dental+Clinic/@22.069213,82.1402531,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b06991d1e75:0xc096e98c5dcf1d63!8m2!3d22.069213!4d82.1402531!16s%2Fg%2F11ygjg7lr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.069213,
+      "lng": 82.1402531,
+      "label": "Healthy Smile Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hi-tech-dental-clinic-bilaspur",
+    "name": "Hi Tech Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Hi Tech Dental Clinic for its strength in Oral Surgery In Bilaspur and Dentist. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098931 96669",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hi-Tech Dental Clinic, CMD Chowk, Bilaspur, Telipara, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "CMD Chowk",
+    "landmark": "Bilaspur",
+    "emergencyContact": "098931 96669",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Hi+Tech+Dental+Clinic/@22.0719002,82.1588055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2874d2a8a875c1:0xc6b9db46ec1df1fd!8m2!3d22.0719002!4d82.1588055!16s%2Fg%2F1yf4rdw91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hi+Tech+Dental+Clinic/@22.0719002,82.1588055,17z/data=!3m1!4b1!4m6!3m5!1s0x3a2874d2a8a875c1:0xc6b9db46ec1df1fd!8m2!3d22.0719002!4d82.1588055!16s%2Fg%2F1yf4rdw91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0719002,
+      "lng": 82.1588055,
+      "label": "Hi Tech Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "identified-complete-dental-clinic-bilaspur",
+    "name": "identified COMPLETE DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "identified COMPLETE DENTAL CLINIC is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079997 52796",
+    "alternatePhone": "",
+    "website": "https://identifieddentalclinics.co.in/",
+    "address": "Khwaja auto centre, Near, 2nd water tank road, Yadunandan Nagar, Tifra, Bilaspur, Chhattisgarh 495223",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495223",
+    "locality": "Tifra",
+    "landmark": "2nd water tank road",
+    "emergencyContact": "079997 52796",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/identified+COMPLETE+DENTAL+CLINIC/@22.0679374,82.1215191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dca99f2024b:0xd22f01c7009f8837!8m2!3d22.0679374!4d82.1215191!16s%2Fg%2F11rtz8_hzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/identified+COMPLETE+DENTAL+CLINIC/@22.0679374,82.1215191,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dca99f2024b:0xd22f01c7009f8837!8m2!3d22.0679374!4d82.1215191!16s%2Fg%2F11rtz8_hzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0679374,
+      "lng": 82.1215191,
+      "label": "identified COMPLETE DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-k-dental-and-facial-surgery-centre-bilaspur",
+    "name": "J K Dental and Facial Surgery centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, J K Dental and Facial Surgery centre delivers integrated care across Oral Surgery In Bilaspur. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090662 90949",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NTPC Sipat Rd, Mopka, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Mopka",
+    "landmark": "Bilaspur",
+    "emergencyContact": "090662 90949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/J+K+Dental+and+Facial+Surgery+centre/@22.0877139,82.2055678,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7aba878af7:0xf88e6014c99482a5!8m2!3d22.0877139!4d82.2055678!16s%2Fg%2F11kx3h2rlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J+K+Dental+and+Facial+Surgery+centre/@22.0877139,82.2055678,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7aba878af7:0xf88e6014c99482a5!8m2!3d22.0877139!4d82.2055678!16s%2Fg%2F11kx3h2rlv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0877139,
+      "lng": 82.2055678,
+      "label": "J K Dental and Facial Surgery centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jai-dant-chikitsalaya-bilaspur",
+    "name": "Jai Dant Chikitsalaya",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Jai Dant Chikitsalaya offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "N Square, Civil Lines, Rajendra Nagar, Link Rd, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Link Rd",
+    "landmark": "Rajendra Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Jai+Dant+Chikitsalaya/@22.0830382,82.1437274,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73b5648209:0x69ecf176924f15f6!8m2!3d22.0830382!4d82.1437274!16s%2Fg%2F11k4pr6y3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jai+Dant+Chikitsalaya/@22.0830382,82.1437274,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73b5648209:0x69ecf176924f15f6!8m2!3d22.0830382!4d82.1437274!16s%2Fg%2F11k4pr6y3x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0830382,
+      "lng": 82.1437274,
+      "label": "Jai Dant Chikitsalaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaiswal-dental-clinic-and-implant-center-bilaspur",
+    "name": "JAISWAL DENTAL CLINIC AND IMPLANT CENTER",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JAISWAL DENTAL CLINIC AND IMPLANT CENTER is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096913 35211",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main road, opp. Vishwakarma Aata Chakki, near Sheetla mata mandir & parag medical, Indira Colony, Tarbahar Chowk, Bilaspur, Vidya Nagar, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Tarbahar Chowk",
+    "landmark": "near Sheetla mata mandir & parag medical, Indira Colony, Tarbahar Chowk, Bilaspur, Vidya Nagar, Chhattisgarh 495004",
+    "emergencyContact": "096913 35211",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/JAISWAL+DENTAL+CLINIC+AND+IMPLANT+CENTER/@22.0690642,82.161474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3570f9a6a1:0x219523f93d3e55f4!8m2!3d22.0690642!4d82.161474!16s%2Fg%2F11rvk0k5mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JAISWAL+DENTAL+CLINIC+AND+IMPLANT+CENTER/@22.0690642,82.161474,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3570f9a6a1:0x219523f93d3e55f4!8m2!3d22.0690642!4d82.161474!16s%2Fg%2F11rvk0k5mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0690642,
+      "lng": 82.161474,
+      "label": "JAISWAL DENTAL CLINIC AND IMPLANT CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jn-dental-clinic-bilaspur",
+    "name": "JN Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, JN Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bilaspur and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088190 75497",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J.N.DENTAL CURE & CARE, MADHYANAGRI CHOWK, near RADHAKRISHNA MANDIR, Juni Line, Bilaspur, Gol Bazar, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Juni Line",
+    "landmark": "near RADHAKRISHNA MANDIR, Juni Line, Bilaspur, Gol Bazar, Chhattisgarh 495001",
+    "emergencyContact": "088190 75497",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/JN+Dental+Clinic/@22.0837569,82.1527138,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b081b5a7cc5:0x370a31daa114e8ca!8m2!3d22.0837569!4d82.1527138!16s%2Fg%2F11dxkvrfp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JN+Dental+Clinic/@22.0837569,82.1527138,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b081b5a7cc5:0x370a31daa114e8ca!8m2!3d22.0837569!4d82.1527138!16s%2Fg%2F11dxkvrfp9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0837569,
+      "lng": 82.1527138,
+      "label": "JN Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khatri-dental-care-and-implant-centre-vidya-nagar",
+    "name": "Khatri Dental Care and Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vidya Nagar, Khatri Dental Care and Implant Centre offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082693 35133",
+    "alternatePhone": "",
+    "website": "",
+    "address": "to, Talapara Main Rd, Vidya Nagar, Chhattisgarh 495004",
+    "city": "Vidya Nagar",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Talapara Main Rd",
+    "landmark": "Vidya Nagar",
+    "emergencyContact": "082693 35133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Khatri+Dental+Care+and+Implant+Centre/@22.0708186,82.1540095,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc38d85a1ff:0xfb840255a8b80943!8m2!3d22.0708186!4d82.1540095!16s%2Fg%2F11f760bzbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khatri+Dental+Care+and+Implant+Centre/@22.0708186,82.1540095,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc38d85a1ff:0xfb840255a8b80943!8m2!3d22.0708186!4d82.1540095!16s%2Fg%2F11f760bzbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0708186,
+      "lng": 82.1540095,
+      "label": "Khatri Dental Care and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kids-and-family-dental-care-bilaspur",
+    "name": "Kids & Family Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Kids & Family Dental Care offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087709 52054",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near maharana Pratap chowk,Ring road 2,beside jai ambe nursing home, above indu medical store, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "above indu medical store",
+    "landmark": "beside jai ambe nursing home",
+    "emergencyContact": "087709 52054",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kids+%26+Family+Dental+Care/@22.0743421,82.135784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd7c1c6e76f:0x52b5411f6b13b087!8m2!3d22.0743421!4d82.135784!16s%2Fg%2F11fpqlg5rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kids+%26+Family+Dental+Care/@22.0743421,82.135784,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bd7c1c6e76f:0x52b5411f6b13b087!8m2!3d22.0743421!4d82.135784!16s%2Fg%2F11fpqlg5rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0743421,
+      "lng": 82.135784,
+      "label": "Kids & Family Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kripa-dental-clinic-bilaspur",
+    "name": "Kripa Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kripa Dental Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite Shri Guru Singh Sabha Gurudwara, Sirgitti, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Sirgitti",
+    "landmark": "Bilaspur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kripa+Dental+Clinic/@22.0572137,82.1578173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b317589a2b1:0xa27e172760e56d79!8m2!3d22.0572137!4d82.1578173!16s%2Fg%2F11f0kwx43t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kripa+Dental+Clinic/@22.0572137,82.1578173,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b317589a2b1:0xa27e172760e56d79!8m2!3d22.0572137!4d82.1578173!16s%2Fg%2F11f0kwx43t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0572137,
+      "lng": 82.1578173,
+      "label": "Kripa Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lalchandani-dental-bilaspur",
+    "name": "Lalchandani Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lalchandani Dental is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081094 52218",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old torwa naka, near hotel intercity international, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "near hotel intercity international",
+    "landmark": "near hotel intercity international, Bilaspur, Chhattisgarh 495004",
+    "emergencyContact": "081094 52218",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Lalchandani+Dental/@22.0687206,82.1763199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0e5fcff82d:0x5703f24977bf54f1!8m2!3d22.0687206!4d82.1763199!16s%2Fg%2F11j8htfqxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lalchandani+Dental/@22.0687206,82.1763199,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0e5fcff82d:0x5703f24977bf54f1!8m2!3d22.0687206!4d82.1763199!16s%2Fg%2F11j8htfqxr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0687206,
+      "lng": 82.1763199,
+      "label": "Lalchandani Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laser-care-skin-hair-clinic-bilaspur",
+    "name": "Laser Care Skin Hair Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Bilaspur, Laser Care Skin Hair Clinic delivers integrated care across Plastic Surgery In Bilaspur. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091114 46677",
+    "alternatePhone": "",
+    "website": "http://vslasercareskinclinic.com/",
+    "address": "First floor, Umang Hospital, Ring road 2, in front of RaniSati Mandir, near Govindam palace, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Sindhi Colony",
+    "landmark": "near Govindam palace, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "091114 46677",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Laser+Care+Skin+Hair+Clinic/data=!4m7!3m6!1s0x3a280df3242168ad:0x7edc5575099d98db!8m2!3d22.0887072!4d82.1353756!16s%2Fg%2F11gmsqv01m!19sChIJrWghJPMNKDoR25idCXVV3H4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laser+Care+Skin+Hair+Clinic/data=!4m7!3m6!1s0x3a280df3242168ad:0x7edc5575099d98db!8m2!3d22.0887072!4d82.1353756!16s%2Fg%2F11gmsqv01m!19sChIJrWghJPMNKDoR25idCXVV3H4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0887072,
+      "lng": 82.1353756,
+      "label": "Laser Care Skin Hair Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laxmi-dentacare-bilaspur",
+    "name": "Laxmi Dentacare",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Laxmi Dentacare offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099075 44212",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ameri Rd, opposite Marthoma Church, near Sai Consultancy, Nehru Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Nehru Nagar",
+    "landmark": "near Sai Consultancy, Nehru Nagar, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "099075 44212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Laxmi+Dentacare/@22.0854954,82.1326729,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce7bdac5b:0xc459d99efca80521!8m2!3d22.0854954!4d82.1326729!16s%2Fg%2F11cnwjhddg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laxmi+Dentacare/@22.0854954,82.1326729,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7ce7bdac5b:0xc459d99efca80521!8m2!3d22.0854954!4d82.1326729!16s%2Fg%2F11cnwjhddg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0854954,
+      "lng": 82.1326729,
+      "label": "Laxmi Dentacare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahalaxmi-dental-clinic-bilaspur",
+    "name": "Mahalaxmi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahalaxmi Dental Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070004 70584",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor,Above MRF Galaxy Tyres,R.S. Chamber,Vyapar Vihar Rd, Near, Maharana Pratap Chowk, Chandela Vihar, Agyay Nagar, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Agyay Nagar",
+    "landmark": "R.S. Chamber",
+    "emergencyContact": "070004 70584",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mahalaxmi+Dental+Clinic/@22.0725402,82.1398568,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1351c6a2d5:0x86a8e8b938a82a8a!8m2!3d22.0725402!4d82.1398568!16s%2Fg%2F11fl4b7pyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahalaxmi+Dental+Clinic/@22.0725402,82.1398568,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b1351c6a2d5:0x86a8e8b938a82a8a!8m2!3d22.0725402!4d82.1398568!16s%2Fg%2F11fl4b7pyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0725402,
+      "lng": 82.1398568,
+      "label": "Mahalaxmi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahamaya-dant-chikitsalaya-bilaspur",
+    "name": "MAHAMAYA DANT CHIKITSALAYA",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose MAHAMAYA DANT CHIKITSALAYA for its strength in Oral Surgery In Bilaspur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091093 78708",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rudra Vihar Phase-1, Ashok Nagar, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Sarkanda",
+    "emergencyContact": "091093 78708",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/MAHAMAYA+DANT+CHIKITSALAYA/@22.1005108,82.1581875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b97ee76493d:0x8b5edffb0c809f4b!8m2!3d22.1005108!4d82.1581875!16s%2Fg%2F11ww90fqrh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MAHAMAYA+DANT+CHIKITSALAYA/@22.1005108,82.1581875,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b97ee76493d:0x8b5edffb0c809f4b!8m2!3d22.1005108!4d82.1581875!16s%2Fg%2F11ww90fqrh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.1005108,
+      "lng": 82.1581875,
+      "label": "MAHAMAYA DANT CHIKITSALAYA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahi-dental-clinic-bilaspur",
+    "name": "Mahi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Mahi Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073896 87373",
+    "alternatePhone": "",
+    "website": "",
+    "address": "R - 5 Vinoba Nagar gayatri mandir vyapar vihar road vinoba nagar, road, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "road",
+    "landmark": "Bilaspur",
+    "emergencyContact": "073896 87373",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mahi+Dental+Clinic/@22.0677587,82.1534408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3b74d59abd:0xd433919971a9637a!8m2!3d22.0677587!4d82.1534408!16s%2Fg%2F11c2k50cyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahi+Dental+Clinic/@22.0677587,82.1534408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b3b74d59abd:0xd433919971a9637a!8m2!3d22.0677587!4d82.1534408!16s%2Fg%2F11c2k50cyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0677587,
+      "lng": 82.1534408,
+      "label": "Mahi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mark-hospital-bilaspur",
+    "name": "Mark Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Mark Hospital brings together specialists for Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077527 96230",
+    "alternatePhone": "",
+    "website": "http://markhospital.com/",
+    "address": "geeta palace kapil nagar to chantidih, road, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Sarkanda",
+    "emergencyContact": "077527 96230",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mark+Hospital/@22.0962627,82.1551287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0d567d685d:0xb618f755c1f14727!8m2!3d22.0962627!4d82.1551287!16s%2Fg%2F1yg4m153l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mark+Hospital/@22.0962627,82.1551287,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0d567d685d:0xb618f755c1f14727!8m2!3d22.0962627!4d82.1551287!16s%2Fg%2F1yg4m153l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0962627,
+      "lng": 82.1551287,
+      "label": "Mark Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "med-skin-clinic-bilaspur",
+    "name": "Med-Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Med-Skin Clinic is a prominent skin care clinic in Bilaspur, known for structured tertiary care across Cosmetic Surgery In Bilaspur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093409 38281",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Road, in front of Mundra Hospital, Ganga Nagar Sector I, Ganga Nagar, Mangla, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla",
+    "landmark": "Ganga Nagar Sector I",
+    "emergencyContact": "093409 38281",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Med-Skin+Clinic/@22.0937383,82.1280263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b11c1aae423:0xc522672b439d1c17!8m2!3d22.0937383!4d82.1280263!16s%2Fg%2F11pldlkm26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Med-Skin+Clinic/@22.0937383,82.1280263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b11c1aae423:0xc522672b439d1c17!8m2!3d22.0937383!4d82.1280263!16s%2Fg%2F11pldlkm26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0937383,
+      "lng": 82.1280263,
+      "label": "Med-Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meenakshi-dental-clinic-bilaspur",
+    "name": "MEENAKSHI DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, MEENAKSHI DENTAL CLINIC brings together specialists for Oral Surgery In Bilaspur. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094790 83399",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khamtarai Rd, in front of Rama Green City, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Sarkanda",
+    "emergencyContact": "094790 83399",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/MEENAKSHI+DENTAL+CLINIC/@22.1036969,82.1649044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b34ad404129:0x60c4b3a306a92339!8m2!3d22.1036969!4d82.1649044!16s%2Fg%2F11h91qb6w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MEENAKSHI+DENTAL+CLINIC/@22.1036969,82.1649044,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b34ad404129:0x60c4b3a306a92339!8m2!3d22.1036969!4d82.1649044!16s%2Fg%2F11h91qb6w5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.1036969,
+      "lng": 82.1649044,
+      "label": "MEENAKSHI DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mishra-dental-clinic-bilaspur",
+    "name": "Mishra Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Mishra Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062643 07290",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mungeli Naka Ground, Dharamprakash tah marg, opposite lovina courts apartment, behind DSS complex, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Sindhi Colony",
+    "landmark": "opposite lovina courts apartment, behind DSS complex, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "062643 07290",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mishra+Dental+Clinic/@22.0883578,82.1345725,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7b991e52cb:0xc5de13a1cac02edf!8m2!3d22.0883578!4d82.1345725!16s%2Fg%2F11g6xcf276?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mishra+Dental+Clinic/@22.0883578,82.1345725,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7b991e52cb:0xc5de13a1cac02edf!8m2!3d22.0883578!4d82.1345725!16s%2Fg%2F11g6xcf276?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0883578,
+      "lng": 82.1345725,
+      "label": "Mishra Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-life-heart-care-hospital-shanti-nagar",
+    "name": "New Life Heart Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Shanti Nagar often choose New Life Heart Care Hospital for its strength in Heart Surgery In Bilaspur and Cardiac Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088894 50411",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3/563, Ameri Rd, Shanti Nagar, Chhattisgarh 495001",
+    "city": "Shanti Nagar",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Ameri Rd",
+    "landmark": "Shanti Nagar",
+    "emergencyContact": "088894 50411",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bilaspur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/New+Life+Heart+Care+Hospital/@22.0881601,82.1246884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c83b20705f5:0x71f9582b9bebbf1d!8m2!3d22.0881601!4d82.1246884!16s%2Fg%2F1hm3995zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Life+Heart+Care+Hospital/@22.0881601,82.1246884,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c83b20705f5:0x71f9582b9bebbf1d!8m2!3d22.0881601!4d82.1246884!16s%2Fg%2F1hm3995zk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0881601,
+      "lng": 82.1246884,
+      "label": "New Life Heart Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oplus-eecp-heart-centre-bilaspur-1-eecp-treatment-in-bilaspur-eecp-therapy-centre-bilaspur",
+    "name": "Oplus EECP Heart Centre Bilaspur - #1 EECP Treatment in Bilaspur | EECP Therapy Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Bilaspur, Oplus EECP Heart Centre Bilaspur - #1 EECP Treatment in Bilaspur | EECP Therapy Centre delivers integrated care across Cardiac Surgery In Bilaspur and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099990 10413",
+    "alternatePhone": "",
+    "website": "https://www.oplusheartcentre.com/",
+    "address": "Infront of Subhash Complex, Jarhabhata Rd, Govind Nagar, Jarahbhata, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Jarahbhata",
+    "landmark": "Govind Nagar",
+    "emergencyContact": "099990 10413",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Bilaspur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Bilaspur+-+%231+EECP+Treatment+in+Bilaspur+%7C+EECP+Therapy+Centre/@22.0801572,82.1402841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bda1a10e8e5:0x34ad4932efa53ace!8m2!3d22.0801572!4d82.1402841!16s%2Fg%2F11y4mzdym8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oplus+EECP+Heart+Centre+Bilaspur+-+%231+EECP+Treatment+in+Bilaspur+%7C+EECP+Therapy+Centre/@22.0801572,82.1402841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bda1a10e8e5:0x34ad4932efa53ace!8m2!3d22.0801572!4d82.1402841!16s%2Fg%2F11y4mzdym8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0801572,
+      "lng": 82.1402841,
+      "label": "Oplus EECP Heart Centre Bilaspur - #1 EECP Treatment in Bilaspur | EECP Therapy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-care-dental-clinic-bilaspur",
+    "name": "Oral Care Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, Oral Care Dental Clinic delivers integrated care across Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096698 00086",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of punjab medical, Gurunanak Chowk, Kendriya vidyalaya road, Kashimpara, Torwa, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Torwa",
+    "landmark": "Kendriya vidyalaya road",
+    "emergencyContact": "096698 00086",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Care+Dental+Clinic/@22.06544,82.1812048,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0049ea739b:0xec42e4944e484780!8m2!3d22.06544!4d82.1812048!16s%2Fg%2F11x5d0dvq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Care+Dental+Clinic/@22.06544,82.1812048,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b0049ea739b:0xec42e4944e484780!8m2!3d22.06544!4d82.1812048!16s%2Fg%2F11x5d0dvq0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.06544,
+      "lng": 82.1812048,
+      "label": "Oral Care Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oramax-dental-clinic-mopka",
+    "name": "Oramax Dental clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mopka, Oramax Dental clinic offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097709 77214",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 9 Nikhil tower Opp. Gulab Nagar gate, Seepat Rd, Mopka, Chhattisgarh 495006",
+    "city": "Mopka",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Seepat Rd",
+    "landmark": "Mopka",
+    "emergencyContact": "097709 77214",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oramax+Dental+clinic/@22.0871937,82.1920352,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bffa9ab17c9:0x647f1f1e2c60a097!8m2!3d22.0871937!4d82.1920352!16s%2Fg%2F11gnpqdj_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oramax+Dental+clinic/@22.0871937,82.1920352,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bffa9ab17c9:0x647f1f1e2c60a097!8m2!3d22.0871937!4d82.1920352!16s%2Fg%2F11gnpqdj_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0871937,
+      "lng": 82.1920352,
+      "label": "Oramax Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "panache-dental-and-facial-aesthetic-clinic-bilaspur",
+    "name": "Panache Dental & Facial Aesthetic Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Panache Dental & Facial Aesthetic Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Rama Trade Center, BUS STAND, opposite rajiv plaza, Old, Bilaspur, Telipara, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Old",
+    "landmark": "opposite rajiv plaza, Old, Bilaspur, Telipara, Chhattisgarh 495001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Panache+Dental+%26+Facial+Aesthetic+Clinic/@22.0757164,82.1594969,17z/data=!3m1!4b1!4m6!3m5!1s0x460eda66d0d35913:0x1134cd8c3acd9d8f!8m2!3d22.0757164!4d82.1594969!16s%2Fg%2F11tj8s0y28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Panache+Dental+%26+Facial+Aesthetic+Clinic/@22.0757164,82.1594969,17z/data=!3m1!4b1!4m6!3m5!1s0x460eda66d0d35913:0x1134cd8c3acd9d8f!8m2!3d22.0757164!4d82.1594969!16s%2Fg%2F11tj8s0y28?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0757164,
+      "lng": 82.1594969,
+      "label": "Panache Dental & Facial Aesthetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pathak-dental-clinic-bilaspur",
+    "name": "Pathak Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bilaspur, Pathak Dental Clinic delivers integrated care across Oral Surgery In Bilaspur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093001 43900",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Seepat Rd, beside TVS Showroom, Old Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "beside TVS Showroom, Old Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "093001 43900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Pathak+Dental+Clinic/@22.0992408,82.1458271,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e45b9ea73:0x72470ec6e4930863!8m2!3d22.0992408!4d82.1458271!16s%2Fg%2F11fjvvmx7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pathak+Dental+Clinic/@22.0992408,82.1458271,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b9e45b9ea73:0x72470ec6e4930863!8m2!3d22.0992408!4d82.1458271!16s%2Fg%2F11fjvvmx7x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0992408,
+      "lng": 82.1458271,
+      "label": "Pathak Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rai-dental-clinic-bilaspur-bilaspur",
+    "name": "Rai Dental Clinic Bilaspur",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rai Dental Clinic Bilaspur is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078791 11555",
+    "alternatePhone": "",
+    "website": "https://raidentalclinic.in/",
+    "address": "C/o Dr Anand Rai,Rai Dental Clinic, Satya Sai Plaza, Shiv Talkies Road Old Bus Stand, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Shiv Talkies Road Old Bus Stand",
+    "landmark": "Satya Sai Plaza",
+    "emergencyContact": "078791 11555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rai+Dental+Clinic+Bilaspur/@22.0751447,82.1601902,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b17ee51edbd:0x1911ca59dfa6e242!8m2!3d22.0751447!4d82.1601902!16s%2Fg%2F11bwf7xnsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rai+Dental+Clinic+Bilaspur/@22.0751447,82.1601902,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b17ee51edbd:0x1911ca59dfa6e242!8m2!3d22.0751447!4d82.1601902!16s%2Fg%2F11bwf7xnsh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0751447,
+      "lng": 82.1601902,
+      "label": "Rai Dental Clinic Bilaspur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rakshit-dental-clinic-bilaspur",
+    "name": "Rakshit Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rakshit Dental Clinic has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078984 54675",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mission Hospital Rd, Juni Line, Bilaspur, Gol Bazar, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Juni Line",
+    "landmark": "Bilaspur",
+    "emergencyContact": "078984 54675",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Rakshit+Dental+Clinic/@22.0863209,82.151037,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b89557de03d:0x2b2aa09cecc5f3ba!8m2!3d22.0863209!4d82.151037!16s%2Fg%2F11hzsvdrtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rakshit+Dental+Clinic/@22.0863209,82.151037,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b89557de03d:0x2b2aa09cecc5f3ba!8m2!3d22.0863209!4d82.151037!16s%2Fg%2F11hzsvdrtf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0863209,
+      "lng": 82.151037,
+      "label": "Rakshit Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaol-heart-center-bilaspur",
+    "name": "Saaol Heart Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Saaol Heart Center brings together specialists for Heart Surgery In Bilaspur and Cardiac Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074705 50102",
+    "alternatePhone": "",
+    "website": "http://www.saaol.com/",
+    "address": "Ring road, no. 2, Gaurav Path, Jarahbhata, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Jarahbhata",
+    "landmark": "Gaurav Path",
+    "emergencyContact": "074705 50102",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bilaspur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center/@22.0780913,82.1318451,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b00379a0165:0x1b052fc2fc18e4e6!8m2!3d22.0780913!4d82.1318451!16s%2Fg%2F11g4dtsmkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaol+Heart+Center/@22.0780913,82.1318451,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b00379a0165:0x1b052fc2fc18e4e6!8m2!3d22.0780913!4d82.1318451!16s%2Fg%2F11g4dtsmkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0780913,
+      "lng": 82.1318451,
+      "label": "Saaol Heart Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-dental-care-and-implant-centre-bilaspur",
+    "name": "Sai Dental Care And Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Sai Dental Care And Implant Centre for its strength in Oral Surgery In Bilaspur. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097132 10186",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nutan chowk, Infront of Central Laibery, Central Laibery, Gaya Vihar Colony, Indira Vihar Colony, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Central Laibery",
+    "emergencyContact": "097132 10186",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Dental+Care+And+Implant+Centre/@22.1009833,82.1476621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6522ccd74d:0x6dd37c84c0b4674b!8m2!3d22.1009833!4d82.1476621!16s%2Fg%2F11rxzkkg58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Dental+Care+And+Implant+Centre/@22.1009833,82.1476621,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6522ccd74d:0x6dd37c84c0b4674b!8m2!3d22.1009833!4d82.1476621!16s%2Fg%2F11rxzkkg58?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.1009833,
+      "lng": 82.1476621,
+      "label": "Sai Dental Care And Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saluja-skin-clinic-bilaspur",
+    "name": "Saluja Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Saluja Skin Clinic brings together specialists for Cosmetic Surgery In Bilaspur. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093016 00500",
+    "alternatePhone": "",
+    "website": "http://www.salujaskinclinic.com/",
+    "address": "Mandir chowk, main road, Jarhabhata Rd, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Jarhabhata Rd",
+    "landmark": "Jarhabhata Rd",
+    "emergencyContact": "093016 00500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saluja+Skin+Clinic/@22.0812607,82.1407013,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b371fec2821:0x1269c70d66a9cba3!8m2!3d22.0812607!4d82.1407013!16s%2Fg%2F11kckdqfd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saluja+Skin+Clinic/@22.0812607,82.1407013,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b371fec2821:0x1269c70d66a9cba3!8m2!3d22.0812607!4d82.1407013!16s%2Fg%2F11kckdqfd8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0812607,
+      "lng": 82.1407013,
+      "label": "Saluja Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samriddhi-dental-care-bilaspur",
+    "name": "Samriddhi Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Samriddhi Dental Care brings together specialists for Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081205 15418",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tikrapara, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Tikrapara",
+    "landmark": "Chhattisgarh 495001",
+    "emergencyContact": "081205 15418",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Samriddhi+Dental+Care/@22.0707342,82.1696227,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280babb94c6659:0xc05a981b30e00fbe!8m2!3d22.0707342!4d82.1696227!16s%2Fg%2F11vb_y6khw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samriddhi+Dental+Care/@22.0707342,82.1696227,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280babb94c6659:0xc05a981b30e00fbe!8m2!3d22.0707342!4d82.1696227!16s%2Fg%2F11vb_y6khw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0707342,
+      "lng": 82.1696227,
+      "label": "Samriddhi Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sg-dental-clinic-bilaspur",
+    "name": "SG dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SG dental clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070009 26715",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near dr Kasim Hasan khan, fci chowk, Bilaspur, Vypar Vihar, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "fci chowk",
+    "landmark": "Bilaspur",
+    "emergencyContact": "070009 26715",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SG+dental+clinic/@22.0609736,82.1588244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280beb5df0420d:0xcc95a395dffe99b4!8m2!3d22.0609736!4d82.1588244!16s%2Fg%2F11syrfl6z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SG+dental+clinic/@22.0609736,82.1588244,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280beb5df0420d:0xcc95a395dffe99b4!8m2!3d22.0609736!4d82.1588244!16s%2Fg%2F11syrfl6z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0609736,
+      "lng": 82.1588244,
+      "label": "SG dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharda-dental-care-and-implant-bilaspur",
+    "name": "Sharda dental care and implant",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sharda dental care and implant is a prominent dentist in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099934 29844",
+    "alternatePhone": "",
+    "website": "",
+    "address": "StreetL-10 Vinoba nagar, in front of Shambhavi Infracon, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "in front of Shambhavi Infracon",
+    "landmark": "Bilaspur",
+    "emergencyContact": "099934 29844",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sharda+dental+care+and+implant/@22.0656643,82.1531171,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba95c3c5d33:0x70e410ca2328041e!8m2!3d22.0656643!4d82.1531171!16s%2Fg%2F11kn8vx3lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharda+dental+care+and+implant/@22.0656643,82.1531171,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280ba95c3c5d33:0x70e410ca2328041e!8m2!3d22.0656643!4d82.1531171!16s%2Fg%2F11kn8vx3lg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0656643,
+      "lng": 82.1531171,
+      "label": "Sharda dental care and implant",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharma-burn-trauma-plastic-surgery-center-bilaspur",
+    "name": "Sharma Burn Trauma Plastic Surgery Center",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Sharma Burn Trauma Plastic Surgery Center brings together specialists for Oral Surgery In Bilaspur. Its infrastructure includes Google rating 5.0 and 23+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093022 25690",
+    "alternatePhone": "",
+    "website": "",
+    "address": "34QF+CV4 Newlife Hospital, Ring Rd Number 2, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Ring Rd Number 2",
+    "landmark": "Bilaspur",
+    "emergencyContact": "093022 25690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "23+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Sharma+Burn+Trauma+Plastic+Surgery+Center/@22.088518,82.1246897,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bf901c19147:0xadccd46b52e1e791!8m2!3d22.088518!4d82.1246897!16s%2Fg%2F11fhvfdtcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharma+Burn+Trauma+Plastic+Surgery+Center/@22.088518,82.1246897,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bf901c19147:0xadccd46b52e1e791!8m2!3d22.088518!4d82.1246897!16s%2Fg%2F11fhvfdtcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.088518,
+      "lng": 82.1246897,
+      "label": "Sharma Burn Trauma Plastic Surgery Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 23,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shome-dental-clinic-bilaspur",
+    "name": "Shome Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Shome Dental Clinic brings together specialists for Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lane Number 1, Vinoba Nagar, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Vinoba Nagar",
+    "landmark": "Bilaspur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shome+Dental+Clinic/@22.0689599,82.1546545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73c474dc89:0x899d7fad31804184!8m2!3d22.0689599!4d82.1546545!16s%2Fg%2F11xw8qcktm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shome+Dental+Clinic/@22.0689599,82.1546545,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b73c474dc89:0x899d7fad31804184!8m2!3d22.0689599!4d82.1546545!16s%2Fg%2F11xw8qcktm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0689599,
+      "lng": 82.1546545,
+      "label": "Shome Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-dental-clinic-shree-dant-chikitsalaya-near-birkona-mod",
+    "name": "SHREE DENTAL CLINIC (Shree Dant Chikitsalaya)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Near Birkona mod, SHREE DENTAL CLINIC (Shree Dant Chikitsalaya) delivers integrated care across Oral Surgery In Bilaspur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096913 43977",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Birkona mod, ratanpur road Koni Dist Bilaspur Chhattisgarh pin 495009, Koni, Chhattisgarh 495009",
+    "city": "Near Birkona mod",
+    "state": "Chhattisgarh",
+    "pincode": "495009",
+    "locality": "",
+    "landmark": "Koni",
+    "emergencyContact": "096913 43977",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+(Shree+Dant+Chikitsalaya)/@22.1312269,82.1270699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d80a255a625:0x3d068eb30209f477!8m2!3d22.1312269!4d82.1270699!16s%2Fg%2F11rgcdz6_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREE+DENTAL+CLINIC+(Shree+Dant+Chikitsalaya)/@22.1312269,82.1270699,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d80a255a625:0x3d068eb30209f477!8m2!3d22.1312269!4d82.1270699!16s%2Fg%2F11rgcdz6_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.1312269,
+      "lng": 82.1270699,
+      "label": "SHREE DENTAL CLINIC (Shree Dant Chikitsalaya)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-govind-institute-of-life-care-hospital-best-hospital-in-bilaspur-bilaspur",
+    "name": "Shree Govind Institute Of Life Care Hospital - Best Hospital in Bilaspur.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Govind Institute Of Life Care Hospital - Best Hospital in Bilaspur. is a prominent hospital in Bilaspur, known for structured tertiary care across Cardiac Surgery In Bilaspur. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098937 33202",
+    "alternatePhone": "",
+    "website": "https://shreegovindlch.com/",
+    "address": "Gurunanak Chowk, Torwa, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Torwa",
+    "landmark": "Bilaspur",
+    "emergencyContact": "098937 33202",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Govind+Institute+Of+Life+Care+Hospital+-+Best+Hospital+in+Bilaspur./@22.0656871,82.181909,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7c3d368149:0x6aef61b4074c2bd8!8m2!3d22.0656871!4d82.181909!16s%2Fg%2F11sbptt6jg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Govind+Institute+Of+Life+Care+Hospital+-+Best+Hospital+in+Bilaspur./@22.0656871,82.181909,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7c3d368149:0x6aef61b4074c2bd8!8m2!3d22.0656871!4d82.181909!16s%2Fg%2F11sbptt6jg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0656871,
+      "lng": 82.181909,
+      "label": "Shree Govind Institute Of Life Care Hospital - Best Hospital in Bilaspur.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-mangla-hospital-bilaspur",
+    "name": "Shree Mangla Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Shree Mangla Hospital offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077523 10744",
+    "alternatePhone": "",
+    "website": "http://www.shreemanglahospital.com/",
+    "address": "Mangla Chowk, Nehru Nagar Rd, in front of Bellazio saloon, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "in front of Bellazio saloon",
+    "landmark": "in front of Bellazio saloon",
+    "emergencyContact": "077523 10744",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Mangla+Hospital/@22.0901145,82.1284649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc3de91a9f1:0xb67a4bd19e9d5b94!8m2!3d22.0901145!4d82.1284649!16s%2Fg%2F11s5gvp53v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Mangla+Hospital/@22.0901145,82.1284649,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280dc3de91a9f1:0xb67a4bd19e9d5b94!8m2!3d22.0901145!4d82.1284649!16s%2Fg%2F11s5gvp53v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0901145,
+      "lng": 82.1284649,
+      "label": "Shree Mangla Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-sainath-dental-clinic-bilaspur",
+    "name": "Shree sainath dental clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree sainath dental clinic has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur and Dentist. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "062614 74753",
+    "alternatePhone": "",
+    "website": "https://wa.me/message/3PHZC6TBU2OLP1",
+    "address": "Shop no7 om plaza ,bajrang chowk, Rajkishore nager (Near hanuman mandir Between SBI ATM and ICICI Bank ATM Front of palika vavsaik parisar complex, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Rajkishore nager (Near hanuman mandir Between SBI ATM and ICICI Bank ATM Front of palika vavsaik parisar complex",
+    "landmark": "Rajkishore nager (Near hanuman mandir Between SBI ATM and ICICI Bank ATM Front of palika vavsaik parisar complex",
+    "emergencyContact": "062614 74753",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+sainath+dental+clinic/@22.0862232,82.1818498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b03fdecbdb7:0x8593ae00984ffd5!8m2!3d22.0862232!4d82.1818498!16s%2Fg%2F11q4gyjvxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+sainath+dental+clinic/@22.0862232,82.1818498,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b03fdecbdb7:0x8593ae00984ffd5!8m2!3d22.0862232!4d82.1818498!16s%2Fg%2F11q4gyjvxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0862232,
+      "lng": 82.1818498,
+      "label": "Shree sainath dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-shyama-dental-and-face-hospital-bilaspur",
+    "name": "Shree shyama Dental & Face hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Shree shyama Dental & Face hospital brings together specialists for Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093403 34535",
+    "alternatePhone": "",
+    "website": "https://shree-shyama-dental-face.grexa.site/",
+    "address": "First floor, Sharda medical store, power house square, Kashimpara, torwaBilaspur, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "torwaBilaspur",
+    "landmark": "power house square",
+    "emergencyContact": "093403 34535",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+shyama+Dental+%26+Face+hospital/@22.0619927,82.1856263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc88daad021:0xd10a518d20950453!8m2!3d22.0619927!4d82.1856263!16s%2Fg%2F11j0289vcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+shyama+Dental+%26+Face+hospital/@22.0619927,82.1856263,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bc88daad021:0xd10a518d20950453!8m2!3d22.0619927!4d82.1856263!16s%2Fg%2F11j0289vcg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0619927,
+      "lng": 82.1856263,
+      "label": "Shree shyama Dental & Face hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-ram-dental-clinic-tiwari-para",
+    "name": "Shri Ram Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Tiwari Para often choose Shri Ram Dental Clinic for its strength in Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089650 52282",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jarhabhata, Rajiv Gandhi Chowk, Tiwari Para, Chhattisgarh 495001",
+    "city": "Tiwari Para",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Rajiv Gandhi Chowk",
+    "landmark": "Tiwari Para",
+    "emergencyContact": "089650 52282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/@22.08074,82.1405041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b428f0bc003:0xb01d78123e689d6f!8m2!3d22.08074!4d82.1405041!16s%2Fg%2F11hzm266vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/@22.08074,82.1405041,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b428f0bc003:0xb01d78123e689d6f!8m2!3d22.08074!4d82.1405041!16s%2Fg%2F11hzm266vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.08074,
+      "lng": 82.1405041,
+      "label": "Shri Ram Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shriram-dental-care-bilaspur",
+    "name": "Shriram Dental Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Shriram Dental Care brings together specialists for Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079995 74443",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shri ram Dental care, Sirgitti Rd, near Govind Nagar, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "near Govind Nagar",
+    "landmark": "near Govind Nagar, Bilaspur, Chhattisgarh 495004",
+    "emergencyContact": "079995 74443",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shriram+Dental+Care/@22.0557258,82.1570942,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33cfe9a6bf:0x472b7688d1c9ce16!8m2!3d22.0557258!4d82.1570942!16s%2Fg%2F11f3b47c0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shriram+Dental+Care/@22.0557258,82.1570942,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b33cfe9a6bf:0x472b7688d1c9ce16!8m2!3d22.0557258!4d82.1570942!16s%2Fg%2F11f3b47c0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0557258,
+      "lng": 82.1570942,
+      "label": "Shriram Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-world-skin-clinic-bilaspur",
+    "name": "Skin World Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Skin World Skin Clinic for its strength in Plastic Surgery In Bilaspur. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073892 79448",
+    "alternatePhone": "",
+    "website": "http://skinworldclinic.com/",
+    "address": "Chowk, Idgah Rd, beside NiceTech, Bilaspur, Masanganj, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "beside NiceTech",
+    "landmark": "beside NiceTech, Bilaspur, Masanganj, Chhattisgarh 495001",
+    "emergencyContact": "073892 79448",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+World+Skin+Clinic/@22.0838328,82.1509392,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb0cec0b3c9:0xd7621286b8e8c6b4!8m2!3d22.0838328!4d82.1509392!16s%2Fg%2F11j8dr06q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+World+Skin+Clinic/@22.0838328,82.1509392,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb0cec0b3c9:0xd7621286b8e8c6b4!8m2!3d22.0838328!4d82.1509392!16s%2Fg%2F11j8dr06q7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0838328,
+      "lng": 82.1509392,
+      "label": "Skin World Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-clinic-bilaspur",
+    "name": "Smile Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Dental Clinic is a prominent dental clinic in Bilaspur, known for structured tertiary care across Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajrang chowk, Talapara, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Talapara",
+    "landmark": "Bilaspur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0734318,82.1467347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b41d5a02c85:0xee16e3e476675f37!8m2!3d22.0734318!4d82.1467347!16s%2Fg%2F11fz6h2h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0734318,82.1467347,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b41d5a02c85:0xee16e3e476675f37!8m2!3d22.0734318!4d82.1467347!16s%2Fg%2F11fz6h2h_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0734318,
+      "lng": 82.1467347,
+      "label": "Smile Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-clinic-bilaspur",
+    "name": "Smile Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bilaspur, Smile Dental Clinic brings together specialists for Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081036 94064",
+    "alternatePhone": "",
+    "website": "",
+    "address": "34QP+5PR, Warehouse Road, beside Shafer School, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Sindhi Colony",
+    "landmark": "beside Shafer School, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "emergencyContact": "081036 94064",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0879969,82.136779,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7a586a5787:0xd25d9a0584cbcbd4!8m2!3d22.0879969!4d82.136779!16s%2Fg%2F11c5ss2zq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Clinic/@22.0879969,82.136779,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b7a586a5787:0xd25d9a0584cbcbd4!8m2!3d22.0879969!4d82.136779!16s%2Fg%2F11c5ss2zq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0879969,
+      "lng": 82.136779,
+      "label": "Smile Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-zone-dental-bilaspur",
+    "name": "Smile Zone Dental",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Smile Zone Dental for its strength in Oral Surgery In Bilaspur. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093020 50758",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no G 1/12,Zone, 1, Vyapar Vihar Rd, in front of Elite Medicity Hospital, Bilaspur, Vypar Vihar, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "in front of Elite Medicity Hospital",
+    "landmark": "1",
+    "emergencyContact": "093020 50758",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Zone+Dental/@22.0677506,82.1478526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b24e5bb391b:0x37552b2529200f77!8m2!3d22.0677506!4d82.1478526!16s%2Fg%2F11qqyk5g32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Zone+Dental/@22.0677506,82.1478526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b24e5bb391b:0x37552b2529200f77!8m2!3d22.0677506!4d82.1478526!16s%2Fg%2F11qqyk5g32?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0677506,
+      "lng": 82.1478526,
+      "label": "Smile Zone Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-dental-rootcare-and-implant-centre-bilaspur",
+    "name": "Swastik Dental RootCare & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Swastik Dental RootCare & Implant Centre offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087703 52460",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shri Venkatesh Parisar, Seepat Chowk, near Gayatri mandir, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "near Gayatri mandir, New Sarkanda, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "emergencyContact": "087703 52460",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Dental+RootCare+%26+Implant+Centre/@22.0952726,82.1446807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b586834ccf1:0xe7bf697b5e544510!8m2!3d22.0952726!4d82.1446807!16s%2Fg%2F11v14mnccn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Dental+RootCare+%26+Implant+Centre/@22.0952726,82.1446807,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b586834ccf1:0xe7bf697b5e544510!8m2!3d22.0952726!4d82.1446807!16s%2Fg%2F11v14mnccn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0952726,
+      "lng": 82.1446807,
+      "label": "Swastik Dental RootCare & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tripathi-dant-chikitsalaya-and-cbct-center-nabh-accredited-clinic-bilaspur",
+    "name": "Tripathi Dant Chikitsalaya & CBCT Center NABH ACCREDITED CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tripathi Dant Chikitsalaya & CBCT Center NABH ACCREDITED CLINIC has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097550 20203",
+    "alternatePhone": "",
+    "website": "http://www.tripathidantchikitsalaya.com/",
+    "address": "H2/33 \"Shashwat Tower\" Ring Road No. 2 Narmada Nagar Chowk, Mangla, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Mangla",
+    "landmark": "Bilaspur",
+    "emergencyContact": "097550 20203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tripathi+Dant+Chikitsalaya+%26+CBCT+Center+NABH+ACCREDITED+CLINIC/@22.0895292,82.1263468,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c823d1a5bab:0x99db18e742904f0c!8m2!3d22.0895292!4d82.1263468!16s%2Fg%2F11bc6zlgkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tripathi+Dant+Chikitsalaya+%26+CBCT+Center+NABH+ACCREDITED+CLINIC/@22.0895292,82.1263468,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280c823d1a5bab:0x99db18e742904f0c!8m2!3d22.0895292!4d82.1263468!16s%2Fg%2F11bc6zlgkh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0895292,
+      "lng": 82.1263468,
+      "label": "Tripathi Dant Chikitsalaya & CBCT Center NABH ACCREDITED CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "triveni-institute-of-dental-sciences-hospital-and-research-centre-bodri",
+    "name": "Triveni Institute of Dental Sciences, Hospital & Research Centre",
+    "type": "College",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Triveni Institute of Dental Sciences, Hospital & Research Centre is a prominent college in Bodri, known for structured tertiary care across Oral Surgery In Bilaspur and College. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078696 34030",
+    "alternatePhone": "",
+    "website": "https://www.trivenidental.com/",
+    "address": "24G3+7VR Vidya Sthali, Raipur Road Near New High Court, Bilaspur Airport Road,Village :, Bodri, Chhattisgarh 495003",
+    "city": "Bodri",
+    "state": "Chhattisgarh",
+    "pincode": "495003",
+    "locality": "Village :",
+    "landmark": "Near New High Court, Bilaspur Airport Road,Village :, Bodri, Chhattisgarh 495003",
+    "emergencyContact": "078696 34030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur",
+      "College"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Triveni+Institute+of+Dental+Sciences,+Hospital+%26+Research+Centre/@22.0262451,82.1036003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6f513e426f:0xb84489750a935c2b!8m2!3d22.0262451!4d82.1036003!16s%2Fg%2F1yf_9rrcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Triveni+Institute+of+Dental+Sciences,+Hospital+%26+Research+Centre/@22.0262451,82.1036003,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b6f513e426f:0xb84489750a935c2b!8m2!3d22.0262451!4d82.1036003!16s%2Fg%2F1yf_9rrcx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0262451,
+      "lng": 82.1036003,
+      "label": "Triveni Institute of Dental Sciences, Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "unity-smile-and-trauma-care-hospital-bilaspur",
+    "name": "Unity Smile and Trauma Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Unity Smile and Trauma Care Hospital for its strength in Oral Surgery In Bilaspur. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077524 53131",
+    "alternatePhone": "",
+    "website": "https://unitysmiletc.in/",
+    "address": "Kapil Nagar, Chowk, Seepat Rd, Shree Vihar, Ashok Nagar, Sarkanda, Bilaspur, Chhattisgarh 495006",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495006",
+    "locality": "Sarkanda",
+    "landmark": "Seepat Rd",
+    "emergencyContact": "077524 53131",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Unity+Smile+and+Trauma+Care+Hospital/@22.0992805,82.1539676,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb12c6833db:0x5238ecc9fef3b436!8m2!3d22.0992805!4d82.1539676!16s%2Fg%2F11x6qrpmk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Unity+Smile+and+Trauma+Care+Hospital/@22.0992805,82.1539676,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280bb12c6833db:0x5238ecc9fef3b436!8m2!3d22.0992805!4d82.1539676!16s%2Fg%2F11x6qrpmk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0992805,
+      "lng": 82.1539676,
+      "label": "Unity Smile and Trauma Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "usha-dental-clinic-shanti-nagar",
+    "name": "Usha Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Shanti Nagar, Usha Dental Clinic delivers integrated care across Oral Surgery In Bilaspur. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077524 66814",
+    "alternatePhone": "",
+    "website": "http://www.ushadentalclinic.com/",
+    "address": "Mangla Chowk, Bus Stop, SH 8, Shanti Nagar, Chhattisgarh 495001",
+    "city": "Shanti Nagar",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "SH 8",
+    "landmark": "SH 8",
+    "emergencyContact": "077524 66814",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Usha+Dental+Clinic/@22.0913889,82.1263408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d94a4c53ae3:0xe2304c557701bf81!8m2!3d22.0913889!4d82.1263408!16s%2Fg%2F11smlmsqhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Usha+Dental+Clinic/@22.0913889,82.1263408,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280d94a4c53ae3:0xe2304c557701bf81!8m2!3d22.0913889!4d82.1263408!16s%2Fg%2F11smlmsqhk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0913889,
+      "lng": 82.1263408,
+      "label": "Usha Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vandana-dant-chikitsalaya-bilaspur",
+    "name": "Vandana Dant Chikitsalaya",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bilaspur, Vandana Dant Chikitsalaya delivers integrated care across Oral Surgery In Bilaspur. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099939 06964",
+    "alternatePhone": "",
+    "website": "https://vandanadental.com/",
+    "address": "powerhouse chowk, main road, Torwa, Bilaspur, Chhattisgarh 495004",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495004",
+    "locality": "Torwa",
+    "landmark": "Torwa",
+    "emergencyContact": "099939 06964",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vandana+Dant+Chikitsalaya/@22.0612623,82.1859059,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280acf1398d2e1:0xc7cc8513d33bc7d8!8m2!3d22.0612623!4d82.1859059!16s%2Fg%2F11c2kc01b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vandana+Dant+Chikitsalaya/@22.0612623,82.1859059,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280acf1398d2e1:0xc7cc8513d33bc7d8!8m2!3d22.0612623!4d82.1859059!16s%2Fg%2F11c2kc01b8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0612623,
+      "lng": 82.1859059,
+      "label": "Vandana Dant Chikitsalaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayak-dental-clinic-main-branch-bilaspur",
+    "name": "Vinayak Dental Clinic - Main Branch",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bilaspur often choose Vinayak Dental Clinic - Main Branch for its strength in Oral Surgery In Bilaspur. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090397 30707",
+    "alternatePhone": "",
+    "website": "http://www.vinayakdental.in/",
+    "address": "Bus Stand, Old, Imlipara Main Rd, near Muslim Sarai, Imlipara, Bilaspur, Telipara, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Imlipara",
+    "landmark": "near Muslim Sarai, Imlipara, Bilaspur, Telipara, Chhattisgarh 495001",
+    "emergencyContact": "090397 30707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayak+Dental+Clinic+-+Main+Branch/@22.077877,82.1542879,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b650606f4b1:0x959286fab11a314b!8m2!3d22.077877!4d82.1542879!16s%2Fg%2F11b77d68sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayak+Dental+Clinic+-+Main+Branch/@22.077877,82.1542879,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b650606f4b1:0x959286fab11a314b!8m2!3d22.077877!4d82.1542879!16s%2Fg%2F11b77d68sw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.077877,
+      "lng": 82.1542879,
+      "label": "Vinayak Dental Clinic - Main Branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayak-dental-clinic-head-office-bilaspur",
+    "name": "Vinayak Dental Clinic, HEAD OFFICE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bilaspur, Vinayak Dental Clinic, HEAD OFFICE offers coordinated hospital care with major focus on Oral Surgery In Bilaspur. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089594 92999",
+    "alternatePhone": "",
+    "website": "https://vdcbsp.in/",
+    "address": "opp. BAJRANJG HOTEL, opp. DPS SCHOOL, Tifra, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Tifra",
+    "landmark": "Tifra",
+    "emergencyContact": "089594 92999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayak+Dental+Clinic,+HEAD+OFFICE/@22.0624744,82.1332027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b5855555557:0xe47aeae006aad6f8!8m2!3d22.0624744!4d82.1332027!16s%2Fg%2F11ggz62l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayak+Dental+Clinic,+HEAD+OFFICE/@22.0624744,82.1332027,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b5855555557:0xe47aeae006aad6f8!8m2!3d22.0624744!4d82.1332027!16s%2Fg%2F11ggz62l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0624744,
+      "lng": 82.1332027,
+      "label": "Vinayak Dental Clinic, HEAD OFFICE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bilaspur",
+    "name": "𝐔𝐌𝐂𝐂- 𝐔𝐥𝐭𝐫𝐚 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐬𝐦𝐞𝐭𝐢𝐜 𝐂𝐚𝐫𝐞, 𝐒𝐤𝐢𝐧 𝐚𝐧𝐝 𝐇𝐚𝐢𝐫 𝐜𝐥𝐢𝐧𝐢𝐜 𝐈𝐧 𝐁𝐢𝐥𝐚𝐬𝐩𝐮𝐫",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "𝐔𝐌𝐂𝐂- 𝐔𝐥𝐭𝐫𝐚 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐬𝐦𝐞𝐭𝐢𝐜 𝐂𝐚𝐫𝐞, 𝐒𝐤𝐢𝐧 𝐚𝐧𝐝 𝐇𝐚𝐢𝐫 𝐜𝐥𝐢𝐧𝐢𝐜 𝐈𝐧 𝐁𝐢𝐥𝐚𝐬𝐩𝐮𝐫 has built a strong reputation in Bilaspur for multidisciplinary treatment pathways covering Oral Surgery In Bilaspur. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075039 99997",
+    "alternatePhone": "",
+    "website": "https://umccbilaspur.com/",
+    "address": "First Floor, Mahamay Vihar, Ware House Rd, above Supreme Super Market Bazaar, Sindhi Colony, Bilaspur, Chhattisgarh 495001",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "pincode": "495001",
+    "locality": "Sindhi Colony",
+    "landmark": "Ware House Rd",
+    "emergencyContact": "075039 99997",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bilaspur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%90%94%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%82-+%F0%9D%90%94%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E,+%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AE%F0%9D%90%AB/@22.0867827,82.137554,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b2d16f968d7:0xf1f9b671c5635412!8m2!3d22.0867827!4d82.137554!16s%2Fg%2F11v0l4pkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%90%94%F0%9D%90%8C%F0%9D%90%82%F0%9D%90%82-+%F0%9D%90%94%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A+%F0%9D%90%8C%F0%9D%90%A8%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A7+%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9E,+%F0%9D%90%92%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D+%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%AB+%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%AE%F0%9D%90%AB/@22.0867827,82.137554,17z/data=!3m1!4b1!4m6!3m5!1s0x3a280b2d16f968d7:0xf1f9b671c5635412!8m2!3d22.0867827!4d82.137554!16s%2Fg%2F11v0l4pkqd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.0867827,
+      "lng": 82.137554,
+      "label": "𝐔𝐌𝐂𝐂- 𝐔𝐥𝐭𝐫𝐚 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐬𝐦𝐞𝐭𝐢𝐜 𝐂𝐚𝐫𝐞, 𝐒𝐤𝐢𝐧 𝐚𝐧𝐝 𝐇𝐚𝐢𝐫 𝐜𝐥𝐢𝐧𝐢𝐜 𝐈𝐧 𝐁𝐢𝐥𝐚𝐬𝐩𝐮𝐫",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

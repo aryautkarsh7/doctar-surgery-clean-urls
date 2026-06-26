@@ -1,0 +1,16306 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aarna-s-cosmetic-and-dental-clinic-indore",
+    "name": "Aarna's Cosmetic & Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Aarna's Cosmetic & Dental Clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Indore. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098266 88904",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Manav Trade Centre, 2/1, 104, Sarjoo Prasad road, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "104",
+    "emergencyContact": "098266 88904",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Aarna's+Cosmetic+%26+Dental+Clinic/@22.7156143,75.8755037,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40940bab9d:0xdd15ed7e083ca90b!8m2!3d22.7156143!4d75.8755037!16s%2Fg%2F11vbzrjp0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarna's+Cosmetic+%26+Dental+Clinic/@22.7156143,75.8755037,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40940bab9d:0xdd15ed7e083ca90b!8m2!3d22.7156143!4d75.8755037!16s%2Fg%2F11vbzrjp0r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7156143,
+      "lng": 75.8755037,
+      "label": "Aarna's Cosmetic & Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarogyam-speciality-dental-and-face-clinic-indore",
+    "name": "Aarogyam Speciality Dental and Face Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, Aarogyam Speciality Dental and Face Clinic delivers integrated care across Oral Surgery In Indore and Speciality Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073541 24694",
+    "alternatePhone": "",
+    "website": "https://apollo247.onelink.me/MGY5/gtlxf7wh",
+    "address": "near MR 10 Road, Lavkush Awas Vihar Colony, sabji market, Sukhliya, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Sukhliya",
+    "landmark": "sabji market",
+    "emergencyContact": "073541 24694",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarogyam+Speciality+Dental+and+Face+Clinic/@22.7611918,75.8716677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963029133021939:0x4b836c5349bfadab!8m2!3d22.7611918!4d75.8716677!16s%2Fg%2F1q64k470x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarogyam+Speciality+Dental+and+Face+Clinic/@22.7611918,75.8716677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963029133021939:0x4b836c5349bfadab!8m2!3d22.7611918!4d75.8716677!16s%2Fg%2F1q64k470x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7611918,
+      "lng": 75.8716677,
+      "label": "Aarogyam Speciality Dental and Face Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advanced-dental-care-indore",
+    "name": "Advanced Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Advanced Dental Care is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099931 36216",
+    "alternatePhone": "",
+    "website": "https://dentalcareadvanced.com/",
+    "address": "15 A, near Pooja Dairy, opposite MY Hospital Road, Jaora Compound, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Jaora Compound",
+    "landmark": "near Pooja Dairy, opposite MY Hospital Road, Jaora Compound, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "099931 36216",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Advanced+Dental+Care/@22.7128729,75.8779609,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd22b9d92463:0x82aa8d01e054f7a4!8m2!3d22.7128729!4d75.8779609!16s%2Fg%2F11scks216d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Advanced+Dental+Care/@22.7128729,75.8779609,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd22b9d92463:0x82aa8d01e054f7a4!8m2!3d22.7128729!4d75.8779609!16s%2Fg%2F11scks216d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7128729,
+      "lng": 75.8779609,
+      "label": "Advanced Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aesthetic-dental-clinic-indore",
+    "name": "Aesthetic Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, Aesthetic Dental Clinic delivers integrated care across Oral Surgery In Indore. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096307 92309",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-1, Siddharth Vihar, 12-13, Nemawar Rd, Prakash Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Prakash Nagar",
+    "landmark": "12-13",
+    "emergencyContact": "096307 92309",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Aesthetic+Dental+Clinic/@22.6967166,75.8795347,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcde7c6a3663:0xc2bb51233415e6c6!8m2!3d22.6967166!4d75.8795347!16s%2Fg%2F1q66678vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aesthetic+Dental+Clinic/@22.6967166,75.8795347,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcde7c6a3663:0xc2bb51233415e6c6!8m2!3d22.6967166!4d75.8795347!16s%2Fg%2F1q66678vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6967166,
+      "lng": 75.8795347,
+      "label": "Aesthetic Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akash-hospital-indore",
+    "name": "AKASH HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, AKASH HOSPITAL brings together specialists for Plastic Surgery In Indore. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097525 94080",
+    "alternatePhone": "",
+    "website": "http://www.akashhospital.co.in/",
+    "address": "Bicholi Mardana Main Road, opposite Agrawal Public School, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "opposite Agrawal Public School",
+    "landmark": "opposite Agrawal Public School, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "097525 94080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AKASH+HOSPITAL/@22.7026143,75.9211835,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3204ad91e85:0x9462e3a7d6d37693!8m2!3d22.7026143!4d75.9211835!16s%2Fg%2F1tgz8rvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AKASH+HOSPITAL/@22.7026143,75.9211835,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3204ad91e85:0x9462e3a7d6d37693!8m2!3d22.7026143!4d75.9211835!16s%2Fg%2F1tgz8rvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7026143,
+      "lng": 75.9211835,
+      "label": "AKASH HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "angiography-indore-indore",
+    "name": "Angiography Indore",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Angiography Indore for its strength in Heart Surgery In Indore and Cardiac Care. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081209 81116",
+    "alternatePhone": "",
+    "website": "https://www.cardiologistindore.com/angiography/",
+    "address": "Dr Siddhant Jain. Second Floor, Shalby Hospital ( Janjeerwala square Part 5&6 R S Bhandari Marg, Janjeerwala Square, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "Janjeerwala Square",
+    "landmark": "Janjeerwala Square",
+    "emergencyContact": "081209 81116",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Angiography+Indore/@22.7245917,75.8819168,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453bdcc13:0x7ef1cd95a6c80324!8m2!3d22.7245917!4d75.8819168!16s%2Fg%2F11f08cb0ns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Angiography+Indore/@22.7245917,75.8819168,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453bdcc13:0x7ef1cd95a6c80324!8m2!3d22.7245917!4d75.8819168!16s%2Fg%2F11f08cb0ns?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7245917,
+      "lng": 75.8819168,
+      "label": "Angiography Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dental-clinic-nipania-best-dental-clinic-in-indore-root-canals-aligners-implants-crowns-indore",
+    "name": "Apollo Dental Clinic, Nipania | Best Dental Clinic in Indore | Root Canals, Aligners, Implants, Crowns",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Dental Clinic, Nipania | Best Dental Clinic in Indore | Root Canals, Aligners, Implants, Crowns has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073895 10911",
+    "alternatePhone": "",
+    "website": "https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBNipania",
+    "address": "134, First Floor, Gold Plaza, Apollo DB City, Nipania, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Nipania",
+    "landmark": "Gold Plaza",
+    "emergencyContact": "073895 10911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Nipania+%7C+Best+Dental+Clinic+in+Indore+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@22.759082,75.9229162,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dae3bea1c15:0x1f47ca64d293fee6!8m2!3d22.759082!4d75.9229162!16s%2Fg%2F11y1xg953g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Nipania+%7C+Best+Dental+Clinic+in+Indore+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@22.759082,75.9229162,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dae3bea1c15:0x1f47ca64d293fee6!8m2!3d22.759082!4d75.9229162!16s%2Fg%2F11y1xg953g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.759082,
+      "lng": 75.9229162,
+      "label": "Apollo Dental Clinic, Nipania | Best Dental Clinic in Indore | Root Canals, Aligners, Implants, Crowns",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-indore-new-block-indore",
+    "name": "Apollo Hospitals Indore - New Block",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Apollo Hospitals Indore - New Block brings together specialists for General Surgery In Indore. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073124 45566",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/indore/",
+    "address": "Post office, Plot No-2, Sector B - 6 Rd, Vijay Nagar, Scheme No 74C, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 74C",
+    "landmark": "Sector B - 6 Rd",
+    "emergencyContact": "073124 45566",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Indore+-+New+Block/@22.758545,75.8889088,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af9cd29a33:0x44e2aa069d0f8184!8m2!3d22.758545!4d75.8889088!16s%2Fg%2F1wj_4fm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+Indore+-+New+Block/@22.758545,75.8889088,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af9cd29a33:0x44e2aa069d0f8184!8m2!3d22.758545!4d75.8889088!16s%2Fg%2F1wj_4fm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.758545,
+      "lng": 75.8889088,
+      "label": "Apollo Hospitals Indore - New Block",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-best-hospital-in-indore-indore",
+    "name": "Apollo Hospitals | Best Hospital in Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Apollo Hospitals | Best Hospital in Indore delivers integrated care across Spine Surgery In Indore. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080690 49755",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-indore",
+    "address": "Sector-D, Vijay Nagar, Scheme No 74C, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 74C",
+    "landmark": "Scheme No 74C",
+    "emergencyContact": "080690 49755",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Indore/@22.7575019,75.8851377,17z/data=!3m1!4b1!4m6!3m5!1s0x396303bd0d6aa29f:0x17b069d0af3202ff!8m2!3d22.7575019!4d75.8851377!16s%2Fg%2F11rhnrb3lj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+%7C+Best+Hospital+in+Indore/@22.7575019,75.8851377,17z/data=!3m1!4b1!4m6!3m5!1s0x396303bd0d6aa29f:0x17b069d0af3202ff!8m2!3d22.7575019!4d75.8851377!16s%2Fg%2F11rhnrb3lj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7575019,
+      "lng": 75.8851377,
+      "label": "Apollo Hospitals | Best Hospital in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apple-hospital-indore",
+    "name": "Apple Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Apple Hospital delivers integrated care across Oncologist Surgery In Indore. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073147 69999",
+    "alternatePhone": "",
+    "website": "https://www.applehospital.co.in/",
+    "address": "15/1, Bhawarkua Main Rd, Transport Nagar, Indore, Madhya Pradesh 452014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452014",
+    "locality": "Transport Nagar",
+    "landmark": "Transport Nagar",
+    "emergencyContact": "073147 69999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apple+Hospital/@22.6939541,75.8665271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce495ee903f:0xf0b46034bc2ce47c!8m2!3d22.6939541!4d75.8665271!16s%2Fg%2F11bccd3n9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apple+Hospital/@22.6939541,75.8665271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce495ee903f:0xf0b46034bc2ce47c!8m2!3d22.6939541!4d75.8665271!16s%2Fg%2F11bccd3n9t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6939541,
+      "lng": 75.8665271,
+      "label": "Apple Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arihant-hospital-and-research-centre-indore",
+    "name": "Arihant Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Arihant Hospital & Research Centre brings together specialists for Oncologist Surgery In Indore. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073127 85172",
+    "alternatePhone": "",
+    "website": "http://www.arihanthospital.org/",
+    "address": "283- a, Gumasta Nagar, Scheme 71, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Scheme 71",
+    "landmark": "Scheme 71",
+    "emergencyContact": "073127 85172",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arihant+Hospital+%26+Research+Centre/@22.7014298,75.8292953,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd354a4cda9d:0xaa9f54e6905d5901!8m2!3d22.7014298!4d75.8292953!16s%2Fg%2F1tf73ygq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arihant+Hospital+%26+Research+Centre/@22.7014298,75.8292953,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd354a4cda9d:0xaa9f54e6905d5901!8m2!3d22.7014298!4d75.8292953!16s%2Fg%2F1tf73ygq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7014298,
+      "lng": 75.8292953,
+      "label": "Arihant Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arpit-hospital-and-laparoscopy-centre-indore-indore",
+    "name": "Arpit Hospital & Laparoscopy Centre Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Arpit Hospital & Laparoscopy Centre Indore brings together specialists for General Surgery In Indore. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088399 26562",
+    "alternatePhone": "",
+    "website": "http://arpithospital.in/",
+    "address": "Between Bengali & 9A/FA, Ring Road, Pipliyahana Rd, Scheme 94, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme 94",
+    "landmark": "Pipliyahana Rd",
+    "emergencyContact": "088399 26562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arpit+Hospital+%26+Laparoscopy+Centre+Indore/@22.7119238,75.9061591,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1640000001:0x6514f62f99fc5b48!8m2!3d22.7119238!4d75.9061591!16s%2Fg%2F1tfv3jk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arpit+Hospital+%26+Laparoscopy+Centre+Indore/@22.7119238,75.9061591,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1640000001:0x6514f62f99fc5b48!8m2!3d22.7119238!4d75.9061591!16s%2Fg%2F1tfv3jk4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7119238,
+      "lng": 75.9061591,
+      "label": "Arpit Hospital & Laparoscopy Centre Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashirwad-hospital-indore",
+    "name": "Ashirwad Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Ashirwad Hospital offers coordinated hospital care with major focus on IVF In Indore. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073140 94825",
+    "alternatePhone": "",
+    "website": "http://www.ashirwadhospital.net/",
+    "address": "17A, Babu Lalchand Chajlani Rd, Indralok Colony, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Indralok Colony",
+    "landmark": "Indralok Colony",
+    "emergencyContact": "073140 94825",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashirwad+Hospital/@22.6949776,75.8437853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc51b4f139d5:0xd03e5ac3c3523b41!8m2!3d22.6949776!4d75.8437853!16s%2Fg%2F11g7329rf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashirwad+Hospital/@22.6949776,75.8437853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc51b4f139d5:0xd03e5ac3c3523b41!8m2!3d22.6949776!4d75.8437853!16s%2Fg%2F11g7329rf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6949776,
+      "lng": 75.8437853,
+      "label": "Ashirwad Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asian-institute-of-infertility-management-indore",
+    "name": "Asian Institute Of Infertility Management",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Asian Institute Of Infertility Management offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091114 30055",
+    "alternatePhone": "",
+    "website": "https://www.asianinfertility.com/",
+    "address": "10 - E, HIG Main Road, LIG Circle,, near Christian Eminent School, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "near Christian Eminent School",
+    "landmark": "near Christian Eminent School, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "091114 30055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Asian+Institute+Of+Infertility+Management/@22.7353111,75.8879413,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f30cc53e1:0xdca1056981c06ca1!8m2!3d22.7353111!4d75.8879413!16s%2Fg%2F124sxw427?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Asian+Institute+Of+Infertility+Management/@22.7353111,75.8879413,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f30cc53e1:0xdca1056981c06ca1!8m2!3d22.7353111!4d75.8879413!16s%2Fg%2F124sxw427?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7353111,
+      "lng": 75.8879413,
+      "label": "Asian Institute Of Infertility Management",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asperia-plastic-and-dental-surgery-clinic-indore",
+    "name": "Asperia Plastic & Dental Surgery Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Asperia Plastic & Dental Surgery Clinic for its strength in Plastic Surgery In Indore and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098268 14838",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. A1, A2 - Sector-D, Ring Road, near Lotus hospital, Khajrana Square, Scheme 94 Sector ED, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme 94 Sector ED",
+    "landmark": "near Lotus hospital, Khajrana Square, Scheme 94 Sector ED, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "098268 14838",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Asperia+Plastic+%26+Dental+Surgery+Clinic/@22.7332572,75.9023956,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e377f4908a43:0xccc3642305f540ad!8m2!3d22.7332572!4d75.9023956!16s%2Fg%2F11lcsg4v9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Asperia+Plastic+%26+Dental+Surgery+Clinic/@22.7332572,75.9023956,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e377f4908a43:0xccc3642305f540ad!8m2!3d22.7332572!4d75.9023956!16s%2Fg%2F11lcsg4v9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7332572,
+      "lng": 75.9023956,
+      "label": "Asperia Plastic & Dental Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayushman-heart-and-wellness-centre-indore",
+    "name": "Ayushman Heart And Wellness Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayushman Heart And Wellness Centre is a prominent heart hospital in Indore, known for structured tertiary care across Heart Surgery In Indore and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070894 54541",
+    "alternatePhone": "",
+    "website": "https://www.ayushmanheartandwellness.com/",
+    "address": "561, Greater Brajeshwari Colony, near Agrawal Public School, Pipliyahana, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Pipliyahana",
+    "landmark": "near Agrawal Public School, Pipliyahana, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "070894 54541",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ayushman+Heart+And+Wellness+Centre/@22.7007651,75.9163339,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ee8a5924ab:0xb3ed6bd29db59d23!8m2!3d22.7007651!4d75.9163339!16s%2Fg%2F11lv8x9tv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayushman+Heart+And+Wellness+Centre/@22.7007651,75.9163339,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ee8a5924ab:0xb3ed6bd29db59d23!8m2!3d22.7007651!4d75.9163339!16s%2Fg%2F11lv8x9tv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7007651,
+      "lng": 75.9163339,
+      "label": "Ayushman Heart And Wellness Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bansal-hospital-indore",
+    "name": "Bansal hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Bansal hospital for its strength in Heart Surgery In Indore. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073123 40477",
+    "alternatePhone": "",
+    "website": "http://bansalhospital.org.in/",
+    "address": "L-10, S Rajmohalla, near gangwal bus stand, Raj Mohalla South, Raj Mohalla, Indore, Madhya Pradesh 452002",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452002",
+    "locality": "Raj Mohalla",
+    "landmark": "near gangwal bus stand, Raj Mohalla South, Raj Mohalla, Indore, Madhya Pradesh 452002",
+    "emergencyContact": "073123 40477",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bansal+hospital/@22.7133327,75.843763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda51d1197bd:0xd65717c6ffb51dc!8m2!3d22.7133327!4d75.843763!16s%2Fg%2F11clyqv63h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bansal+hospital/@22.7133327,75.843763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda51d1197bd:0xd65717c6ffb51dc!8m2!3d22.7133327!4d75.843763!16s%2Fg%2F11clyqv63h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7133327,
+      "lng": 75.843763,
+      "label": "Bansal hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "barod-hospital-indore",
+    "name": "Barod Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Barod Hospital brings together specialists for General Surgery In Indore. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097130 38888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bapat Square, Pandit Dindayal Upadhyay Nagar, Sukhliya, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Sukhliya",
+    "landmark": "Sukhliya",
+    "emergencyContact": "097130 38888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Barod+Hospital/@22.7561297,75.8782054,17z/data=!3m1!4b1!4m6!3m5!1s0x39630321e3ccbec1:0xd42cc8f30ad6e440!8m2!3d22.7561297!4d75.8782054!16s%2Fg%2F11qrsf617v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Barod+Hospital/@22.7561297,75.8782054,17z/data=!3m1!4b1!4m6!3m5!1s0x39630321e3ccbec1:0xd42cc8f30ad6e440!8m2!3d22.7561297!4d75.8782054!16s%2Fg%2F11qrsf617v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7561297,
+      "lng": 75.8782054,
+      "label": "Barod Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baser-ivf-center-indore",
+    "name": "Baser IVF Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Baser IVF Center for its strength in IVF In Indore and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073124 96038",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PW3C+3GJ, Sampat Farms, Bicholi Mardana, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Bicholi Mardana",
+    "landmark": "Bicholi Mardana",
+    "emergencyContact": "073124 96038",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Baser+IVF+Center/@22.7027019,75.9212565,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e321b385c399:0x1ea909163954f04e!8m2!3d22.7027019!4d75.9212565!16s%2Fg%2F1yg4vbl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baser+IVF+Center/@22.7027019,75.9212565,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e321b385c399:0x1ea909163954f04e!8m2!3d22.7027019!4d75.9212565!16s%2Fg%2F1yg4vbl6v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7027019,
+      "lng": 75.9212565,
+      "label": "Baser IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bcm-kokilaben-dhirubhai-ambani-hospital-indore-indore",
+    "name": "BCM Kokilaben Dhirubhai Ambani Hospital, Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BCM Kokilaben Dhirubhai Ambani Hospital, Indore is a prominent hospital in Indore, known for structured tertiary care across Oncologist Surgery In Indore. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073148 11111",
+    "alternatePhone": "",
+    "website": "https://indore.kokilabenhospital.com/",
+    "address": "No 1, BCM Estate, Sri. Badalchand Mehta Marg, Tulsi Nagar, Nipania, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Nipania",
+    "landmark": "Sri. Badalchand Mehta Marg",
+    "emergencyContact": "073148 11111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BCM+Kokilaben+Dhirubhai+Ambani+Hospital,+Indore/@22.7522398,75.9256119,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54cfa57299:0x2d9f47c1b220b595!8m2!3d22.7522398!4d75.9256119!16s%2Fg%2F11f4l95g14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BCM+Kokilaben+Dhirubhai+Ambani+Hospital,+Indore/@22.7522398,75.9256119,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54cfa57299:0x2d9f47c1b220b595!8m2!3d22.7522398!4d75.9256119!16s%2Fg%2F11f4l95g14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7522398,
+      "lng": 75.9256119,
+      "label": "BCM Kokilaben Dhirubhai Ambani Hospital, Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhandari-hospital-and-research-centre-indore",
+    "name": "Bhandari Hospital and Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Bhandari Hospital and Research Centre brings together specialists for Oncologist Surgery In Indore. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073147 33333",
+    "alternatePhone": "",
+    "website": "http://www.bhrcindia.com/",
+    "address": "21-23, opp. Meghdoot Garden, Opposite Sayaji, G F, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "Opposite Sayaji, G F, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "073147 33333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhandari+Hospital+and+Research+Centre/@22.7527509,75.8890385,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a8893efb37:0xdccf05a77b7ff3eb!8m2!3d22.7527509!4d75.8890385!16s%2Fg%2F1w0h5xxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhandari+Hospital+and+Research+Centre/@22.7527509,75.8890385,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a8893efb37:0xdccf05a77b7ff3eb!8m2!3d22.7527509!4d75.8890385!16s%2Fg%2F1w0h5xxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7527509,
+      "lng": 75.8890385,
+      "label": "Bhandari Hospital and Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhardwaj-dental-clinic-best-dental-clinic-in-indore-dentist-in-indore-indore",
+    "name": "Bhardwaj Dental Clinic | Best Dental Clinic in Indore | Dentist in Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Bhardwaj Dental Clinic | Best Dental Clinic in Indore | Dentist in Indore offers coordinated hospital care with major focus on Oral Surgery In Indore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094244 88558",
+    "alternatePhone": "",
+    "website": "https://bhardwajdentalclinic.com/",
+    "address": "9-11, Horizon Building, Lower Ground Floor, Nath Mandir Rd, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "Lower Ground Floor",
+    "emergencyContact": "094244 88558",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%7C+Best+Dental+Clinic+in+Indore+%7C+Dentist+in+Indore/@22.720457,75.8765951,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f612c97b:0xb72dff9750c97689!8m2!3d22.720457!4d75.8765951!16s%2Fg%2F1hf8rr7_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhardwaj+Dental+Clinic+%7C+Best+Dental+Clinic+in+Indore+%7C+Dentist+in+Indore/@22.720457,75.8765951,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f612c97b:0xb72dff9750c97689!8m2!3d22.720457!4d75.8765951!16s%2Fg%2F1hf8rr7_q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.720457,
+      "lng": 75.8765951,
+      "label": "Bhardwaj Dental Clinic | Best Dental Clinic in Indore | Dentist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "birla-fertility-and-ivf-center-best-ivf-centre-in-indore-indore",
+    "name": "Birla Fertility & IVF Center - Best IVF Centre in Indore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Birla Fertility & IVF Center - Best IVF Centre in Indore is a prominent fertility clinic in Indore, known for structured tertiary care across IVF In Indore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096500 60449",
+    "alternatePhone": "",
+    "website": "https://birlafertility.com/locations/madhya-pradesh/best-fertility-ivf-center-in-indore/?utm_source=google_my_business&utm_medium=indore",
+    "address": "The Business Bay, Plot No-2&3, AB Rd, opposite CHL Hospital, Shree Nagar Main Colony, Anoop Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Anoop Nagar",
+    "landmark": "opposite CHL Hospital, Shree Nagar Main Colony, Anoop Nagar, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "096500 60449",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore/@22.7308117,75.8895321,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd989173845b:0x98cfe45843c05cb8!8m2!3d22.7308117!4d75.8895321!16s%2Fg%2F11y4797ngr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore/@22.7308117,75.8895321,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd989173845b:0x98cfe45843c05cb8!8m2!3d22.7308117!4d75.8895321!16s%2Fg%2F11y4797ngr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7308117,
+      "lng": 75.8895321,
+      "label": "Birla Fertility & IVF Center - Best IVF Centre in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bombay-hospital-indore",
+    "name": "Bombay Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bombay Hospital is a prominent hospital in Indore, known for structured tertiary care across General Surgery In Indore. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073147 71111",
+    "alternatePhone": "",
+    "website": "https://www.bombayhospitalindore.com/",
+    "address": "No.94, IDA Scheme 95, Eastern Ring Rd, Opp.Prestige CollegeNear Bombay Hospital, Vijay Nagar, Tulsi Nagar, Scheme No 94 Sector WA, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 94 Sector WA",
+    "landmark": "Eastern Ring Rd",
+    "emergencyContact": "073147 71111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bombay+Hospital/@22.7543445,75.9033461,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54503f21d3:0xc114629679b13584!8m2!3d22.7543445!4d75.9033461!16s%2Fg%2F1tkc52c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bombay+Hospital/@22.7543445,75.9033461,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d54503f21d3:0xc114629679b13584!8m2!3d22.7543445!4d75.9033461!16s%2Fg%2F1tkc52c6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7543445,
+      "lng": 75.9033461,
+      "label": "Bombay Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-healer-center-best-cancer-treatment-in-madhya-pradesh-cancer-hospital-in-madhya-pradesh-indore",
+    "name": "Cancer Healer Center - Best Cancer Treatment in Madhya Pradesh | Cancer Hospital in Madhya Pradesh",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Cancer Healer Center - Best Cancer Treatment in Madhya Pradesh | Cancer Hospital in Madhya Pradesh brings together specialists for Oncologist Surgery In Indore. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088822 03690",
+    "alternatePhone": "",
+    "website": "https://www.cancerhealercenter.com/cancer-treatment-hospital-in-indore",
+    "address": "401 Prosperity Tower, MU H.NO 1/2, opposite Bansi Trade Centre, Diamond Colony, New Palasia, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "New Palasia",
+    "landmark": "opposite Bansi Trade Centre, Diamond Colony, New Palasia, Indore, Madhya Pradesh 452003",
+    "emergencyContact": "088822 03690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Madhya+Pradesh+%7C+Cancer+Hospital+in+Madhya+Pradesh/@22.7241875,75.8822901,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453400001:0x4f8fb1f1a38957de!8m2!3d22.7241875!4d75.8822901!16s%2Fg%2F11cktvd13y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Madhya+Pradesh+%7C+Cancer+Hospital+in+Madhya+Pradesh/@22.7241875,75.8822901,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a453400001:0x4f8fb1f1a38957de!8m2!3d22.7241875!4d75.8822901!16s%2Fg%2F11cktvd13y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7241875,
+      "lng": 75.8822901,
+      "label": "Cancer Healer Center - Best Cancer Treatment in Madhya Pradesh | Cancer Hospital in Madhya Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-chl-hospitals-indore-indore",
+    "name": "Care CHL Hospitals Indore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Care CHL Hospitals Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oncologist Surgery In Indore. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0406 810 6589",
+    "alternatePhone": "",
+    "website": "https://www.carehospitals.com/indore/",
+    "address": "Agra Bombay Road, near L.I.G Square, Rss Nagar, Indore, Madhya Pradesh 452008",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452008",
+    "locality": "Rss Nagar",
+    "landmark": "near L.I.G Square, Rss Nagar, Indore, Madhya Pradesh 452008",
+    "emergencyContact": "0406 810 6589",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Care+CHL+Hospitals+Indore/@22.7322578,75.8893409,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4dca1777:0x62bc8f8b155a8bd8!8m2!3d22.7322578!4d75.8893409!16s%2Fg%2F1tfg1h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Care+CHL+Hospitals+Indore/@22.7322578,75.8893409,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4dca1777:0x62bc8f8b155a8bd8!8m2!3d22.7322578!4d75.8893409!16s%2Fg%2F1tfg1h0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7322578,
+      "lng": 75.8893409,
+      "label": "Care CHL Hospitals Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chaitanya-dental-clinic-and-implant-centre-indore",
+    "name": "Chaitanya Dental Clinic and Implant Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chaitanya Dental Clinic and Implant Centre has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore and Dentist. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098265 65844",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G 1 AVANTI APARTMENT 146 MAHAVEER NAGAR, INDORE Behind shree krishna public school, near sanvid nagar, Bangali square, Indore Tilak Nagar near saket nagar ,gulmohar colony , manishpuri, Goyal Nagar, sainath palasia, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "sainath palasia",
+    "landmark": "near sanvid nagar, Bangali square, Indore Tilak Nagar near saket nagar ,gulmohar colony , manishpuri, Goyal Nagar, sainath palasia, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "098265 65844",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Chaitanya+Dental+Clinic+and+Implant+Centre/@22.7194349,75.9008318,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2ccc50ab39b:0x2eb05967d0af764f!8m2!3d22.7194349!4d75.9008318!16s%2Fg%2F11bwf7jcbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chaitanya+Dental+Clinic+and+Implant+Centre/@22.7194349,75.9008318,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2ccc50ab39b:0x2eb05967d0af764f!8m2!3d22.7194349!4d75.9008318!16s%2Fg%2F11bwf7jcbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7194349,
+      "lng": 75.9008318,
+      "label": "Chaitanya Dental Clinic and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chirayu-clinic-indore",
+    "name": "Chirayu Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chirayu Clinic is a prominent medical clinic in Indore, known for structured tertiary care across Orthopedic Surgery In Indore. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097537 80225",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1642-B , Sch. No. 71 Main Rd, Footi Kothi Rd, behind Ranjeet Hanuman Road, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "behind Ranjeet Hanuman Road",
+    "landmark": "Footi Kothi Rd",
+    "emergencyContact": "097537 80225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Chirayu+Clinic/@22.7011134,75.8344024,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb45e353473:0x7f9e88baab6e4612!8m2!3d22.7011134!4d75.8344024!16s%2Fg%2F12m97fn4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chirayu+Clinic/@22.7011134,75.8344024,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb45e353473:0x7f9e88baab6e4612!8m2!3d22.7011134!4d75.8344024!16s%2Fg%2F12m97fn4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7011134,
+      "lng": 75.8344024,
+      "label": "Chirayu Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "choithram-hospital-and-research-centre-indore",
+    "name": "Choithram Hospital & Research Centre",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Choithram Hospital & Research Centre for its strength in Neurosurgeon In Indore. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14, Manik Bagh Rd, Choithram Mandi, Indore, Madhya Pradesh 452014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452014",
+    "locality": "Choithram Mandi",
+    "landmark": "Choithram Mandi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Choithram+Hospital+%26+Research+Centre/@22.6875578,75.8542563,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd072fc57783:0x87cd7c50fde2db84!8m2!3d22.6875578!4d75.8542563!16s%2Fg%2F1tcv98v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Choithram+Hospital+%26+Research+Centre/@22.6875578,75.8542563,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd072fc57783:0x87cd7c50fde2db84!8m2!3d22.6875578!4d75.8542563!16s%2Fg%2F1tcv98v4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6875578,
+      "lng": 75.8542563,
+      "label": "Choithram Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "confident-dental-clinic-and-implant-centre-indore",
+    "name": "Confident Dental Clinic and Implant Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Indore, Confident Dental Clinic and Implant Centre delivers integrated care across Oral Surgery In Indore and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070246 19249",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Singapore Business Park, Shop no, 114-B, AB Rd, LIG Square, Anoop Nagar, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "Anoop Nagar",
+    "landmark": "Shop no",
+    "emergencyContact": "070246 19249",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Confident+Dental+Clinic+and+Implant+Centre/@22.7336478,75.8908875,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1a0a9d62b5:0xba464f05b8d84bd5!8m2!3d22.7336478!4d75.8908875!16s%2Fg%2F11yshqcrhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Confident+Dental+Clinic+and+Implant+Centre/@22.7336478,75.8908875,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1a0a9d62b5:0xba464f05b8d84bd5!8m2!3d22.7336478!4d75.8908875!16s%2Fg%2F11yshqcrhb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7336478,
+      "lng": 75.8908875,
+      "label": "Confident Dental Clinic and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-dental-clinic-indore-dental-implants-invisalign-dentist-in-indore-indore",
+    "name": "Cosmo Dental Clinic Indore | Dental Implants, Invisalign | Dentist in Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cosmo Dental Clinic Indore | Dental Implants, Invisalign | Dentist in Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098260 12592",
+    "alternatePhone": "",
+    "website": "http://drritimagupta.com/",
+    "address": "Panama Tower, 504, Gita Bhawan Rd, beside Hotel Crown Palace, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "beside Hotel Crown Palace, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "098260 12592",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmo+Dental+Clinic+Indore+%7C+Dental+Implants,+Invisalign+%7C+Dentist+in+Indore/@22.7193429,75.8837163,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde811869b69:0x1d6fa214cde8045c!8m2!3d22.7193429!4d75.8837163!16s%2Fg%2F11bxfzcsvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmo+Dental+Clinic+Indore+%7C+Dental+Implants,+Invisalign+%7C+Dentist+in+Indore/@22.7193429,75.8837163,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde811869b69:0x1d6fa214cde8045c!8m2!3d22.7193429!4d75.8837163!16s%2Fg%2F11bxfzcsvt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7193429,
+      "lng": 75.8837163,
+      "label": "Cosmo Dental Clinic Indore | Dental Implants, Invisalign | Dentist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmotouch-skin-clinic-in-indore-indore",
+    "name": "CosmoTouch | Skin Clinic in Indore",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose CosmoTouch | Skin Clinic in Indore for its strength in Cosmetic Surgery In Indore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062629 55555",
+    "alternatePhone": "",
+    "website": "https://cosmotouch.co.in/",
+    "address": "201, Zodiac Mall, opposite Agarwal Public School, Sampat Farms, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme No 140",
+    "landmark": "opposite Agarwal Public School, Sampat Farms, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "062629 55555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CosmoTouch+%7C+Skin+Clinic+in+Indore/@22.7035267,75.9177127,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d848f4ac1f:0xcdde8b6e9a3bb5d9!8m2!3d22.7035267!4d75.9177127!16s%2Fg%2F11l2wpkf3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CosmoTouch+%7C+Skin+Clinic+in+Indore/@22.7035267,75.9177127,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d848f4ac1f:0xcdde8b6e9a3bb5d9!8m2!3d22.7035267!4d75.9177127!16s%2Fg%2F11l2wpkf3g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7035267,
+      "lng": 75.9177127,
+      "label": "CosmoTouch | Skin Clinic in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "daksh-total-dental-solution-dental-clinic-in-indore-indore",
+    "name": "Daksh Total Dental Solution - Dental Clinic in indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Daksh Total Dental Solution - Dental Clinic in indore brings together specialists for Oral Surgery In Indore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094240 11445",
+    "alternatePhone": "",
+    "website": "https://www.drkrishnachitlangya.in/",
+    "address": "Sudama Nagar Main Road, 219, Ranjeet Hanuman Rd, Usha Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Usha Nagar",
+    "landmark": "Ranjeet Hanuman Rd",
+    "emergencyContact": "094240 11445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Daksh+Total+Dental+Solution+-+Dental+Clinic+in+indore/@22.6993382,75.8365216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb3ab57a663:0xa591e1fbe17db325!8m2!3d22.6993382!4d75.8365216!16s%2Fg%2F1q64ld57c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Daksh+Total+Dental+Solution+-+Dental+Clinic+in+indore/@22.6993382,75.8365216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb3ab57a663:0xa591e1fbe17db325!8m2!3d22.6993382!4d75.8365216!16s%2Fg%2F1q64ld57c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6993382,
+      "lng": 75.8365216,
+      "label": "Daksh Total Dental Solution - Dental Clinic in indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-clinic-indore",
+    "name": "Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Clinic has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090123 23232",
+    "alternatePhone": "",
+    "website": "https://teethhub.in/",
+    "address": "12/3, opp. Recovery Hospital1, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "New Palasia",
+    "landmark": "New Palasia",
+    "emergencyContact": "090123 23232",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Clinic/@22.7300407,75.8826754,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd043b6655d9:0x5f275d51994506ee!8m2!3d22.7300407!4d75.8826754!16s%2Fg%2F11mvb4p672?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Clinic/@22.7300407,75.8826754,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd043b6655d9:0x5f275d51994506ee!8m2!3d22.7300407!4d75.8826754!16s%2Fg%2F11mvb4p672?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7300407,
+      "lng": 75.8826754,
+      "label": "Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-gallery-indore",
+    "name": "Dental Gallery",
+    "type": "Cosmetic Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Dental Gallery for its strength in Oral Surgery In Indore and Cosmetic Dentist. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099819 49387",
+    "alternatePhone": "",
+    "website": "https://dentalgallery.in/",
+    "address": "Daksha Parijaat, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "Scheme No 54",
+    "emergencyContact": "099819 49387",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Cosmetic Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Gallery/@22.7566894,75.8808038,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d1ab65155:0xa864ba1d409eddb3!8m2!3d22.7566894!4d75.8808038!16s%2Fg%2F11s6g0xmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Gallery/@22.7566894,75.8808038,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d1ab65155:0xa864ba1d409eddb3!8m2!3d22.7566894!4d75.8808038!16s%2Fg%2F11s6g0xmmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7566894,
+      "lng": 75.8808038,
+      "label": "Dental Gallery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentheal-indore",
+    "name": "DentHeal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DentHeal is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088104 21274",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Annapurna Rd, Annapurna Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Annapurna Nagar",
+    "landmark": "Indore",
+    "emergencyContact": "088104 21274",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/DentHeal/@22.6874829,75.8365239,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd409dfa9693:0xa15846b06cd48c7d!8m2!3d22.6874829!4d75.8365239!16s%2Fg%2F11rxtlk8t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DentHeal/@22.6874829,75.8365239,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd409dfa9693:0xa15846b06cd48c7d!8m2!3d22.6874829!4d75.8365239!16s%2Fg%2F11rxtlk8t_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6874829,
+      "lng": 75.8365239,
+      "label": "DentHeal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devi-ahilya-hospital-and-research-centre-indore",
+    "name": "Devi Ahilya Hospital and Research Centre",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Devi Ahilya Hospital and Research Centre brings together specialists for Cancer Surgery In Indore and Cancer Treatment Center. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073140 84422",
+    "alternatePhone": "",
+    "website": "http://www.dahrc.in/",
+    "address": "1, Chitawad Rd, Anand Nagar, Navlakha, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Navlakha",
+    "landmark": "Anand Nagar",
+    "emergencyContact": "073140 84422",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Indore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Devi+Ahilya+Hospital+and+Research+Centre/@22.6901244,75.8815196,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdcda85036c9:0xc245f2c3b242bd33!8m2!3d22.6901244!4d75.8815196!16s%2Fg%2F11fsvnrk_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devi+Ahilya+Hospital+and+Research+Centre/@22.6901244,75.8815196,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdcda85036c9:0xc245f2c3b242bd33!8m2!3d22.6901244!4d75.8815196!16s%2Fg%2F11fsvnrk_y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6901244,
+      "lng": 75.8815196,
+      "label": "Devi Ahilya Hospital and Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dezy-dental-clinic-in-vijaynagar-get-dental-implants-and-aligners-in-indore-indore",
+    "name": "Dezy Dental Clinic in Vijaynagar | Get Dental Implants & Aligners in Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dezy Dental Clinic in Vijaynagar | Get Dental Implants & Aligners in Indore is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076187 92440",
+    "alternatePhone": "",
+    "website": "https://www.dezy.com/clinics/indore/best-dental-clinic-indore-vijay-nagar",
+    "address": "Upper Ground, BCM Heights, 7A/2, near Bombay Hospital Service Road, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "near Bombay Hospital Service Road, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "076187 92440",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dezy+Dental+Clinic+in+Vijaynagar+%7C+Get+Dental+Implants+%26+Aligners+in+Indore/@22.7585826,75.903911,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d90440c72e9:0xf237d05ee995ce88!8m2!3d22.7585826!4d75.903911!16s%2Fg%2F11v69xkv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dezy+Dental+Clinic+in+Vijaynagar+%7C+Get+Dental+Implants+%26+Aligners+in+Indore/@22.7585826,75.903911,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d90440c72e9:0xf237d05ee995ce88!8m2!3d22.7585826!4d75.903911!16s%2Fg%2F11v69xkv83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7585826,
+      "lng": 75.903911,
+      "label": "Dezy Dental Clinic in Vijaynagar | Get Dental Implants & Aligners in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ekdant-the-complete-dental-solutions-indore",
+    "name": "Ekdant - The Complete Dental Solutions",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ekdant - The Complete Dental Solutions has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099935 67542",
+    "alternatePhone": "",
+    "website": "https://ekdanttcds.wixsite.com/website",
+    "address": "First Floor, G, 150, Sector B, Scheme No 74C, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 74C",
+    "landmark": "150",
+    "emergencyContact": "099935 67542",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ekdant+-+The+Complete+Dental+Solutions/@22.7579279,75.8914488,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdfa6bfaa8eb:0x88a831b89e7cc940!8m2!3d22.7579279!4d75.8914488!16s%2Fg%2F11fktynhws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ekdant+-+The+Complete+Dental+Solutions/@22.7579279,75.8914488,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdfa6bfaa8eb:0x88a831b89e7cc940!8m2!3d22.7579279!4d75.8914488!16s%2Fg%2F11fktynhws?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7579279,
+      "lng": 75.8914488,
+      "label": "Ekdant - The Complete Dental Solutions",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "enhance-aesthetic-hub-indore",
+    "name": "Enhance Aesthetic hub",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Enhance Aesthetic hub is a prominent hair transplantation clinic in Indore, known for structured tertiary care across Cosmetic Surgery In Indore. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080854 35927",
+    "alternatePhone": "",
+    "website": "http://www.enhanceaesthetichubs.com/",
+    "address": "1884 D, Ring Rd, near Vini's Bakery, Sector D, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Sudama Nagar",
+    "landmark": "near Vini's Bakery, Sector D, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "080854 35927",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Enhance+Aesthetic+hub/@22.6898775,75.8290593,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd23dc8c7c39:0x6b237a34dc2758ba!8m2!3d22.6898775!4d75.8290593!16s%2Fg%2F11jygkyx7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Enhance+Aesthetic+hub/@22.6898775,75.8290593,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd23dc8c7c39:0x6b237a34dc2758ba!8m2!3d22.6898775!4d75.8290593!16s%2Fg%2F11jygkyx7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6898775,
+      "lng": 75.8290593,
+      "label": "Enhance Aesthetic hub",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fortmax-clinic-hair-transplant-and-cosmetic-surgery-in-indore-indore",
+    "name": "Fortmax Clinic Hair Transplant & Cosmetic Surgery in Indore",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortmax Clinic Hair Transplant & Cosmetic Surgery in Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering Cosmetic Surgery In Indore. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073758 05894",
+    "alternatePhone": "",
+    "website": "http://promotion.fortmaxclinic.com/",
+    "address": "69, near Ratanlok Colony Park Marg, Vijay Nagar, Ratna Lok Colony, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Ratna Lok Colony",
+    "landmark": "near Ratanlok Colony Park Marg, Vijay Nagar, Ratna Lok Colony, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "073758 05894",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fortmax+Clinic+Hair+Transplant+%26+Cosmetic+Surgery+in+Indore/@22.7494393,75.8985964,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8165178311:0x80bbad025e8471d2!8m2!3d22.7494393!4d75.8985964!16s%2Fg%2F11s99m_y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fortmax+Clinic+Hair+Transplant+%26+Cosmetic+Surgery+in+Indore/@22.7494393,75.8985964,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8165178311:0x80bbad025e8471d2!8m2!3d22.7494393!4d75.8985964!16s%2Fg%2F11s99m_y74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7494393,
+      "lng": 75.8985964,
+      "label": "Fortmax Clinic Hair Transplant & Cosmetic Surgery in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "garbhveda-ayurvedic-fertility-centre-best-ayurvedic-clinic-male-and-female-infertility-clinic-pcos-tubal-blockage-indore",
+    "name": "Garbhveda Ayurvedic Fertility Centre | Best Ayurvedic Clinic | Male & female Infertility Clinic, PCOS, Tubal Blockage",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Garbhveda Ayurvedic Fertility Centre | Best Ayurvedic Clinic | Male & female Infertility Clinic, PCOS, Tubal Blockage is a prominent fertility clinic in Indore, known for structured tertiary care across IVF In Indore and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098934 56897",
+    "alternatePhone": "",
+    "website": "http://www.garbhveda.com/",
+    "address": "Radisson Square, Plot No. P-30, Ring Rd, Scheme No:94, Sector C, Scheme 94 Sector EC, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme 94 Sector EC",
+    "landmark": "Ring Rd",
+    "emergencyContact": "098934 56897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Garbhveda+Ayurvedic+Fertility+Centre+%7C+Best+Ayurvedic+Clinic+%7C+Male+%26+female+Infertility+Clinic,+PCOS,+Tubal+Blockage/@22.7497099,75.9040781,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d00bee7ab07:0x79e809eaba4bcc6!8m2!3d22.7497099!4d75.9040781!16s%2Fg%2F11s2n40r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Garbhveda+Ayurvedic+Fertility+Centre+%7C+Best+Ayurvedic+Clinic+%7C+Male+%26+female+Infertility+Clinic,+PCOS,+Tubal+Blockage/@22.7497099,75.9040781,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d00bee7ab07:0x79e809eaba4bcc6!8m2!3d22.7497099!4d75.9040781!16s%2Fg%2F11s2n40r1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7497099,
+      "lng": 75.9040781,
+      "label": "Garbhveda Ayurvedic Fertility Centre | Best Ayurvedic Clinic | Male & female Infertility Clinic, PCOS, Tubal Blockage",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gbl-hospital-indore",
+    "name": "GBL Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GBL Hospital has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oncologist Surgery In Indore. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082698 73300",
+    "alternatePhone": "",
+    "website": "http://www.gblhospital.com/",
+    "address": "AH/31, Senior HIG, Pandit Dindayal Upadhyay Nagar, Pandit Din Dayal Upadhyay Nagar, Sukhliya, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Sukhliya",
+    "landmark": "Pandit Dindayal Upadhyay Nagar",
+    "emergencyContact": "082698 73300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GBL+Hospital/@22.7564799,75.8778894,17z/data=!3m1!4b1!4m6!3m5!1s0x3963033bd65f5e69:0x1080e517030ead09!8m2!3d22.7564799!4d75.8778894!16s%2Fg%2F11fkqbf404?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GBL+Hospital/@22.7564799,75.8778894,17z/data=!3m1!4b1!4m6!3m5!1s0x3963033bd65f5e69:0x1080e517030ead09!8m2!3d22.7564799!4d75.8778894!16s%2Fg%2F11fkqbf404?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7564799,
+      "lng": 75.8778894,
+      "label": "GBL Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "geetanjali-hospital-indore",
+    "name": "Geetanjali Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Geetanjali Hospital brings together specialists for Cancer Surgery In Indore. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073124 14177",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4 Airport Road, Ramchandra Nagar Chouraha, opposite Police Petrol Pump, Ramachandra Nagar, Indore, Madhya Pradesh 452005",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452005",
+    "locality": "Ramachandra Nagar",
+    "landmark": "opposite Police Petrol Pump, Ramachandra Nagar, Indore, Madhya Pradesh 452005",
+    "emergencyContact": "073124 14177",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Geetanjali+Hospital/@22.721875,75.8347405,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd95f24b8475:0x32e9d551d5e3d0a5!8m2!3d22.721875!4d75.8347405!16s%2Fg%2F124ymbw7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Geetanjali+Hospital/@22.721875,75.8347405,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd95f24b8475:0x32e9d551d5e3d0a5!8m2!3d22.721875!4d75.8347405!16s%2Fg%2F124ymbw7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.721875,
+      "lng": 75.8347405,
+      "label": "Geetanjali Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gender-change-hospital-indore",
+    "name": "GENDER CHANGE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GENDER CHANGE HOSPITAL has built a strong reputation in Indore for multidisciplinary treatment pathways covering Plastic Surgery In Indore. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082259 76859",
+    "alternatePhone": "",
+    "website": "https://zenithplasticsurgery.in/genderchange.html",
+    "address": "OPD No. 2, q, Zenith Hospital, Ring Road, in front of Hanuman Mandir, Khajrana Square, Ganeshpuri, Scheme 94, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme 94",
+    "landmark": "Zenith Hospital",
+    "emergencyContact": "082259 76859",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GENDER+CHANGE+HOSPITAL/@22.7303556,75.9034607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3a3cdc1f09d:0xd1fd3b8e8450c77c!8m2!3d22.7303556!4d75.9034607!16s%2Fg%2F11w8b4jm1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GENDER+CHANGE+HOSPITAL/@22.7303556,75.9034607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3a3cdc1f09d:0xd1fd3b8e8450c77c!8m2!3d22.7303556!4d75.9034607!16s%2Fg%2F11w8b4jm1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7303556,
+      "lng": 75.9034607,
+      "label": "GENDER CHANGE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "general-and-laproscopic-surgery-jtp-hospitals-in-indore-indore",
+    "name": "General & Laproscopic Surgery - JTP Hospitals in Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, General & Laproscopic Surgery - JTP Hospitals in Indore brings together specialists for Laparoscopic Surgery In Indore. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://jtphospitals.com/corporate/best-general-surgeon-doctor-in-indore",
+    "address": "3065-E, near Shankaracharya Gate, Phooti Kothi, Sector E, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Sudama Nagar",
+    "landmark": "near Shankaracharya Gate, Phooti Kothi, Sector E, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/General+%26+Laproscopic+Surgery+-+JTP+Hospitals+in+Indore/@22.6881338,75.825681,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda22f9fa059:0xf9e51a1844dad866!8m2!3d22.6881338!4d75.825681!16s%2Fg%2F11ymhmzbtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/General+%26+Laproscopic+Surgery+-+JTP+Hospitals+in+Indore/@22.6881338,75.825681,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda22f9fa059:0xf9e51a1844dad866!8m2!3d22.6881338!4d75.825681!16s%2Fg%2F11ymhmzbtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6881338,
+      "lng": 75.825681,
+      "label": "General & Laproscopic Surgery - JTP Hospitals in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "global-dental-centre-indore",
+    "name": "Global Dental Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Global Dental Centre offers coordinated hospital care with major focus on Oral Surgery In Indore. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098934 99099",
+    "alternatePhone": "",
+    "website": "https://globaldentalcentre.org/dentist-in-vijay-nagar/",
+    "address": "Office 103, plot no.2 (Hotel PS9 BCM Road, Near Bombay Hospital, Scheme no 54, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "Near Bombay Hospital, Scheme no 54, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "098934 99099",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Global+Dental+Centre/@22.7535362,75.9025906,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dddc9f03d5b:0x64215c5db726409b!8m2!3d22.7535362!4d75.9025906!16s%2Fg%2F11gxgj46wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Global+Dental+Centre/@22.7535362,75.9025906,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dddc9f03d5b:0x64215c5db726409b!8m2!3d22.7535362!4d75.9025906!16s%2Fg%2F11gxgj46wq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7535362,
+      "lng": 75.9025906,
+      "label": "Global Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gokuldas-hospital-indore",
+    "name": "Gokuldas Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Gokuldas Hospital offers coordinated hospital care with major focus on Neurosurgeon In Indore. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073125 19212",
+    "alternatePhone": "",
+    "website": "http://www.gokuldashospital.com/",
+    "address": "11 , DR SARJU PRASAD MARG 11, DR SARJU, Jagannath Verma Marg, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Jagannath Verma Marg",
+    "landmark": "DR SARJU",
+    "emergencyContact": "073125 19212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gokuldas+Hospital/@22.7165807,75.87606,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd162cde2ad7:0x2079ab196bd4cb31!8m2!3d22.7165807!4d75.87606!16s%2Fg%2F1vnth8_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gokuldas+Hospital/@22.7165807,75.87606,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd162cde2ad7:0x2079ab196bd4cb31!8m2!3d22.7165807!4d75.87606!16s%2Fg%2F1vnth8_p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7165807,
+      "lng": 75.87606,
+      "label": "Gokuldas Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "govt-cancer-hospital-indore",
+    "name": "Govt Cancer Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Govt Cancer Hospital for its strength in Oncologist Surgery In Indore. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073125 24466",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PV7H+JFF, M Y H Compound, M Y Hospital Road, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "M Y Hospital Road",
+    "landmark": "M Y Hospital Road",
+    "emergencyContact": "073125 24466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Govt+Cancer+Hospital/@22.7140744,75.8786641,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x4ec0f9708fe8495c!8m2!3d22.7140744!4d75.8786641!16s%2Fg%2F1vhlwl45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Govt+Cancer+Hospital/@22.7140744,75.8786641,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x4ec0f9708fe8495c!8m2!3d22.7140744!4d75.8786641!16s%2Fg%2F1vhlwl45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7140744,
+      "lng": 75.8786641,
+      "label": "Govt Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gupta-hand-surgery-centre-indore",
+    "name": "Gupta Hand Surgery Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gupta Hand Surgery Centre is a prominent hospital in Indore, known for structured tertiary care across Plastic Surgery In Indore. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089892 67127",
+    "alternatePhone": "",
+    "website": "http://www.handsurgeryindore.com/",
+    "address": "9, Chitawad Rd, Anand Nagar, Navlakha, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Navlakha",
+    "landmark": "Anand Nagar",
+    "emergencyContact": "089892 67127",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gupta+Hand+Surgery+Centre/@22.6909272,75.8807849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdcc95ba209:0x6d9304f6cae072c6!8m2!3d22.6909272!4d75.8807849!16s%2Fg%2F11b807w10s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gupta+Hand+Surgery+Centre/@22.6909272,75.8807849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdcc95ba209:0x6d9304f6cae072c6!8m2!3d22.6909272!4d75.8807849!16s%2Fg%2F11b807w10s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6909272,
+      "lng": 75.8807849,
+      "label": "Gupta Hand Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gurjar-hospital-indore",
+    "name": "Gurjar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Gurjar Hospital delivers integrated care across Laparoscopic Surgery In Indore. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073140 95458",
+    "alternatePhone": "",
+    "website": "http://gurjarhospital.co.in/",
+    "address": "2-3, Scheme No. 44, Bhawarkua Square, AB Rd, Indore, Madhya Pradesh 452014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452014",
+    "locality": "AB Rd",
+    "landmark": "Bhawarkua Square",
+    "emergencyContact": "073140 95458",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gurjar+Hospital/@22.6919473,75.8660795,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce520d180b5:0xfe7b2da61f6fae92!8m2!3d22.6919473!4d75.8660795!16s%2Fg%2F1v3_122r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gurjar+Hospital/@22.6919473,75.8660795,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce520d180b5:0xfe7b2da61f6fae92!8m2!3d22.6919473!4d75.8660795!16s%2Fg%2F1v3_122r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6919473,
+      "lng": 75.8660795,
+      "label": "Gurjar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hair-transplant-in-indore-marmm-klinik-indore",
+    "name": "Hair Transplant in Indore | Marmm Klinik",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Hair Transplant in Indore | Marmm Klinik for its strength in Cosmetic Surgery In Indore. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098269 88855",
+    "alternatePhone": "",
+    "website": "https://hairtransplantindore.in/",
+    "address": "154, opposite Renaissance College, Anurag Nagar, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "Anurag Nagar",
+    "landmark": "opposite Renaissance College, Anurag Nagar, Indore, Madhya Pradesh 452011",
+    "emergencyContact": "098269 88855",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hair+Transplant+in+Indore+%7C+Marmm+Klinik/@22.7357962,75.895774,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4c5c000001:0x59708de4d0f7bcdd!8m2!3d22.7357962!4d75.895774!16s%2Fg%2F11rvhplr4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hair+Transplant+in+Indore+%7C+Marmm+Klinik/@22.7357962,75.895774,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4c5c000001:0x59708de4d0f7bcdd!8m2!3d22.7357962!4d75.895774!16s%2Fg%2F11rvhplr4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7357962,
+      "lng": 75.895774,
+      "label": "Hair Transplant in Indore | Marmm Klinik",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-cancer-hospital-phadnis-colony-indore-indore",
+    "name": "HCG Cancer Hospital - (Phadnis Colony, Indore)",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HCG Cancer Hospital - (Phadnis Colony, Indore) is a prominent cancer treatment center in Indore, known for structured tertiary care across Oncologist Surgery In Indore and Cancer Treatment Center. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "063588 88807",
+    "alternatePhone": "",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-cancer-centre-indore/",
+    "address": "142, AB Rd, near Lig Square, Phadnis Colony, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "Phadnis Colony",
+    "landmark": "near Lig Square, Phadnis Colony, Indore, Madhya Pradesh 452011",
+    "emergencyContact": "063588 88807",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Phadnis+Colony,+Indore)/@22.7318146,75.8891889,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd002bd01e41:0x705bd2313ff1fb5d!8m2!3d22.7318146!4d75.8891889!16s%2Fg%2F11vpr8jntd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+Cancer+Hospital+-+(Phadnis+Colony,+Indore)/@22.7318146,75.8891889,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd002bd01e41:0x705bd2313ff1fb5d!8m2!3d22.7318146!4d75.8891889!16s%2Fg%2F11vpr8jntd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7318146,
+      "lng": 75.8891889,
+      "label": "HCG Cancer Hospital - (Phadnis Colony, Indore)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hope-fertility-center-indore",
+    "name": "Hope Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Indore, Hope Fertility Center delivers integrated care across IVF In Indore and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073125 10200",
+    "alternatePhone": "",
+    "website": "http://www.hopefertility.in/",
+    "address": "15/2, South Tukoganj(near Manas Bhawan), Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj(near Manas Bhawan)",
+    "landmark": "Indore",
+    "emergencyContact": "073125 10200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hope+Fertility+Center/@22.71607,75.87399,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd17ab148795:0xd25b17f8681c57bb!8m2!3d22.71607!4d75.87399!16s%2Fg%2F1tfjp2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hope+Fertility+Center/@22.71607,75.87399,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd17ab148795:0xd25b17f8681c57bb!8m2!3d22.71607!4d75.87399!16s%2Fg%2F1tfjp2y2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.71607,
+      "lng": 75.87399,
+      "label": "Hope Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ideal-dental-care-indore",
+    "name": "Ideal Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ideal Dental Care has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore and Dentist. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093038 99919",
+    "alternatePhone": "",
+    "website": "http://idealdentalcare.in/",
+    "address": "Shree Vijay\", 19, Khajrana Rd, near Aanand Bazar, Baikunth Dham, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Baikunth Dham",
+    "landmark": "near Aanand Bazar, Baikunth Dham, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "093038 99919",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ideal+Dental+Care/@22.7286108,75.8956957,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a41204c3f:0xa23b032beb390fcd!8m2!3d22.7286108!4d75.8956957!16s%2Fg%2F1trcdt_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ideal+Dental+Care/@22.7286108,75.8956957,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a41204c3f:0xa23b032beb390fcd!8m2!3d22.7286108!4d75.8956957!16s%2Fg%2F1trcdt_h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7286108,
+      "lng": 75.8956957,
+      "label": "Ideal Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-indore-best-ivf-centre-indore",
+    "name": "Indira IVF Fertility Centre in Indore - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Indira IVF Fertility Centre in Indore - Best IVF Centre offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "+91 74118 04328",
+    "website": "https://www.indiraivf.com/",
+    "address": "Ground Floor, Red Square, AB Rd, behind Tanishq showroom, opp. Malhar, Behind C21 Mall, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "AB Rd",
+    "emergencyContact": "+91 74118 04328",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.7456006,75.892432,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd56994f3379:0xd083b721cd30fd78!8m2!3d22.7456006!4d75.892432!16s%2Fg%2F11bx49c2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.7456006,75.892432,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd56994f3379:0xd083b721cd30fd78!8m2!3d22.7456006!4d75.892432!16s%2Fg%2F11bx49c2r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7456006,
+      "lng": 75.892432,
+      "label": "Indira IVF Fertility Centre in Indore - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-indore-best-ivf-centre-indore",
+    "name": "Indira IVF Fertility Centre in Indore - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Indira IVF Fertility Centre in Indore - Best IVF Centre brings together specialists for IVF In Indore and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "+91 74118 04328",
+    "website": "https://www.indiraivf.com/",
+    "address": "1st Floor, Indira IVF clinic, Chauraha, Annapurna Rd, opposite Zudio, Narmada Nagar, Chanakyapuri, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Chanakyapuri",
+    "landmark": "opposite Zudio, Narmada Nagar, Chanakyapuri, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "+91 74118 04328",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.6828741,75.8357051,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8d559f2f7b:0xdad98e30212d6b80!8m2!3d22.6828741!4d75.8357051!16s%2Fg%2F11ydr9sqgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Indore+-+Best+IVF+Centre/@22.6828741,75.8357051,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8d559f2f7b:0xdad98e30212d6b80!8m2!3d22.6828741!4d75.8357051!16s%2Fg%2F11ydr9sqgs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6828741,
+      "lng": 75.8357051,
+      "label": "Indira IVF Fertility Centre in Indore - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-memorial-hospital-indore",
+    "name": "Indira Memorial Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira Memorial Hospital has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oncologist Surgery In Indore. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073140 60704",
+    "alternatePhone": "",
+    "website": "",
+    "address": "59-B, Rajendra Nagar Main Rd, near Railway Station, Rajendra Nagar, Indore, Madhya Pradesh 452012",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452012",
+    "locality": "Rajendra Nagar",
+    "landmark": "near Railway Station, Rajendra Nagar, Indore, Madhya Pradesh 452012",
+    "emergencyContact": "073140 60704",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+Memorial+Hospital/@22.6694526,75.827855,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc148e698459:0xc45ec6e4d4abf539!8m2!3d22.6694526!4d75.827855!16s%2Fg%2F1q6j3htkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+Memorial+Hospital/@22.6694526,75.827855,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc148e698459:0xc45ec6e4d4abf539!8m2!3d22.6694526!4d75.827855!16s%2Fg%2F1q6j3htkg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6694526,
+      "lng": 75.827855,
+      "label": "Indira Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indore-infertility-clinic-indore",
+    "name": "Indore Infertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Indore Infertility Clinic offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.indoreinfertilityclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "address": "239 - B, Anoop Nagar L.I.G Square, AB Rd, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "AB Rd",
+    "landmark": "AB Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indore+Infertility+Clinic/@22.7313392,75.8925108,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4b1f333b:0xa800e3388b4ef0f9!8m2!3d22.7313392!4d75.8925108!16s%2Fg%2F12qfyvbr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indore+Infertility+Clinic/@22.7313392,75.8925108,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4f4b1f333b:0xa800e3388b4ef0f9!8m2!3d22.7313392!4d75.8925108!16s%2Fg%2F12qfyvbr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7313392,
+      "lng": 75.8925108,
+      "label": "Indore Infertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indore-poly-dental-clinic-indore",
+    "name": "Indore Poly Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Indore Poly Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Indore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094250 55620",
+    "alternatePhone": "",
+    "website": "https://www.polydental.in/",
+    "address": "1/4, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "New Palasia",
+    "landmark": "Indore",
+    "emergencyContact": "094250 55620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indore+Poly+Dental+Clinic/@22.725532,75.884849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3883a19c79:0xcd1b920f981233a6!8m2!3d22.725532!4d75.884849!16s%2Fg%2F1tx8rlrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indore+Poly+Dental+Clinic/@22.725532,75.884849,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3883a19c79:0xcd1b920f981233a6!8m2!3d22.725532!4d75.884849!16s%2Fg%2F1tx8rlrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.725532,
+      "lng": 75.884849,
+      "label": "Indore Poly Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indore-trauma-centre-indore",
+    "name": "Indore Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indore Trauma Centre has built a strong reputation in Indore for multidisciplinary treatment pathways covering General Surgery In Indore. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073129 21555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dayal Bagh Colony, Khandwa Rd, near Holy Cross School, Limbodi, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Limbodi",
+    "landmark": "near Holy Cross School, Limbodi, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "073129 21555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Indore+Trauma+Centre/@22.6721264,75.8809607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd9bf3f9d897:0x9bc7b55e739a1ae6!8m2!3d22.6721264!4d75.8809607!16s%2Fg%2F11mx5p4yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indore+Trauma+Centre/@22.6721264,75.8809607,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd9bf3f9d897:0x9bc7b55e739a1ae6!8m2!3d22.6721264!4d75.8809607!16s%2Fg%2F11mx5p4yvk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6721264,
+      "lng": 75.8809607,
+      "label": "Indore Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "infinity-dental-clinic-indore",
+    "name": "Infinity Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Infinity Dental Clinic is a prominent dentist in Indore, known for structured tertiary care across Oral Surgery In Indore and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094250 88167",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ground floor, infront choudhary cycle and tyre house, 34, Vijay Nagar Main Rd, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "34",
+    "emergencyContact": "094250 88167",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Infinity+Dental+Clinic/@22.7549172,75.8921809,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a93a6b0887:0xfe97c1eb14efa3!8m2!3d22.7549172!4d75.8921809!16s%2Fg%2F1q62mmml1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Infinity+Dental+Clinic/@22.7549172,75.8921809,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a93a6b0887:0xfe97c1eb14efa3!8m2!3d22.7549172!4d75.8921809!16s%2Fg%2F1q62mmml1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7549172,
+      "lng": 75.8921809,
+      "label": "Infinity Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "isfprs-indore",
+    "name": "ISFPRS",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ISFPRS is a prominent plastic surgery clinic in Indore, known for structured tertiary care across Plastic Surgery In Indore. Hospital capacity markers such as Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://isfprs.org/",
+    "address": "9/2, Navratan Bagh Rd, Street No 5, Manorama Ganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Manorama Ganj",
+    "landmark": "Street No 5",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ISFPRS/@22.7171121,75.884803,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3b07c638bd:0xd9ff747641103196!8m2!3d22.7171121!4d75.884803!16s%2Fg%2F11j8zbz5jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ISFPRS/@22.7171121,75.884803,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3b07c638bd:0xd9ff747641103196!8m2!3d22.7171121!4d75.884803!16s%2Fg%2F11j8zbz5jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7171121,
+      "lng": 75.884803,
+      "label": "ISFPRS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-ivf-and-fertility-centre-indore-indore",
+    "name": "Iswarya IVF & Fertility Centre Indore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Iswarya IVF & Fertility Centre Indore is a prominent fertility clinic in Indore, known for structured tertiary care across IVF In Indore and Fertility Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "https://www.iswaryafertility.com/ivf-centers/madhya-pradesh/indore?utm_source=Google_Local_Listing&utm_medium=Local_SEO&utm_campaign=Indore",
+    "address": "First Floor Plot No, Apollo Trade Center, 2-B, Gita Bhawan Rd, Rajgarh Kothi, Manorama Ganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Manorama Ganj",
+    "landmark": "2-B",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Indore/@22.7178909,75.8845171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ff0f0277:0xe35a20e8fbcc36c5!8m2!3d22.7178909!4d75.8845171!16s%2Fg%2F11l3296pjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Indore/@22.7178909,75.8845171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ff0f0277:0xe35a20e8fbcc36c5!8m2!3d22.7178909!4d75.8845171!16s%2Fg%2F11l3296pjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7178909,
+      "lng": 75.8845171,
+      "label": "Iswarya IVF & Fertility Centre Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-dental-care-indore",
+    "name": "Krishna Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Krishna Dental Care is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094254 12254",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BaraPathar Mandir 319, Badi Gwaltoli Rd, near Hanuman mandir, Lalaram Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Lalaram Nagar",
+    "landmark": "near Hanuman mandir, Lalaram Nagar, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "094254 12254",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Dental+Care/@22.7147031,75.888779,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0036df7a35:0xd6bc535acb9b9299!8m2!3d22.7147031!4d75.888779!16s%2Fg%2F11wxg1lnvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Dental+Care/@22.7147031,75.888779,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0036df7a35:0xd6bc535acb9b9299!8m2!3d22.7147031!4d75.888779!16s%2Fg%2F11wxg1lnvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7147031,
+      "lng": 75.888779,
+      "label": "Krishna Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lotus-hospital-indore",
+    "name": "Lotus Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus Hospital has built a strong reputation in Indore for multidisciplinary treatment pathways covering Plastic Surgery In Indore. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082692 74444",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PWM2+8WG, 180-ED, near Police Choki, Khajrana Square, Scheme 94, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme 94",
+    "landmark": "near Police Choki, Khajrana Square, Scheme 94, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "082692 74444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Lotus+Hospital/@22.7338116,75.9022537,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31d89597535:0x83374eea15d82673!8m2!3d22.7338116!4d75.9022537!16s%2Fg%2F11sqh9_zgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lotus+Hospital/@22.7338116,75.9022537,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31d89597535:0x83374eea15d82673!8m2!3d22.7338116!4d75.9022537!16s%2Fg%2F11sqh9_zgc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7338116,
+      "lng": 75.9022537,
+      "label": "Lotus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-cardiac-clinic-vidya-nagar-indore-indore",
+    "name": "Madhavbaug cardiac clinic Vidya Nagar, Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Madhavbaug cardiac clinic Vidya Nagar, Indore delivers integrated care across Heart Surgery In Indore and Cardiac Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091099 79733",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/vidya-nagar-indore/?utm_source=gmb&utm_medium=organic&utm_campaign=vidya_nagar_indore",
+    "address": "Flat G1, Shanti Pearl, Plot 49, near Sapna Sangeeta Road, talkies, Vidya Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Vidya Nagar",
+    "landmark": "near Sapna Sangeeta Road, talkies, Vidya Nagar, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "091099 79733",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+cardiac+clinic+Vidya+Nagar,+Indore/@22.6964832,75.8674428,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce37385b131:0x913b44253d33eb31!8m2!3d22.6964832!4d75.8674428!16s%2Fg%2F11hbbtb1d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+cardiac+clinic+Vidya+Nagar,+Indore/@22.6964832,75.8674428,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce37385b131:0x913b44253d33eb31!8m2!3d22.6964832!4d75.8674428!16s%2Fg%2F11hbbtb1d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6964832,
+      "lng": 75.8674428,
+      "label": "Madhavbaug cardiac clinic Vidya Nagar, Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-clinic-bengali-square-indore-indore",
+    "name": "MADHAVBAUG CLINIC - Bengali Square Indore",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, MADHAVBAUG CLINIC - Bengali Square Indore offers coordinated hospital care with major focus on Heart Surgery In Indore and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091099 79732",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/mahadev-totla-nagar-indore/",
+    "address": "29A Mahadev Total Nagar Near Agrawal Classes Mo No. 9109979732, Bicholi Mardana, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Bicholi Mardana",
+    "landmark": "Near Agrawal Classes Mo No. 9109979732, Bicholi Mardana, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "091099 79732",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MADHAVBAUG+CLINIC+-+Bengali+Square+Indore/@22.7177404,75.9076873,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ccd7341207:0xc8bf269257f19549!8m2!3d22.7177404!4d75.9076873!16s%2Fg%2F11hdjt71q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MADHAVBAUG+CLINIC+-+Bengali+Square+Indore/@22.7177404,75.9076873,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ccd7341207:0xc8bf269257f19549!8m2!3d22.7177404!4d75.9076873!16s%2Fg%2F11hdjt71q1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7177404,
+      "lng": 75.9076873,
+      "label": "MADHAVBAUG CLINIC - Bengali Square Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-scheme-no-74-c-vijay-nagar-indore-indore",
+    "name": "Madhavbaug – Ayurvedic Cardiac Care Clinic (Scheme no- 74 C, Vijay Nagar, Indore)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Madhavbaug – Ayurvedic Cardiac Care Clinic (Scheme no- 74 C, Vijay Nagar, Indore) has built a strong reputation in Indore for multidisciplinary treatment pathways covering Heart Surgery In Indore and Cardiac Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091099 79731",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/vijay-nagar-indore/?utm_source=gmb&utm_medium=organic&utm_campaign=vijay_nagar_indore",
+    "address": "Ch-111 Scheme no- 74 C, In front of Shankara eye hospital Vijay Nagar Indore, Pin- 452010, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Pin- 452010",
+    "landmark": "Pin- 452010",
+    "emergencyContact": "091099 79731",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+(Scheme+no-+74+C,+Vijay+Nagar,+Indore)/@22.7593287,75.8877246,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a5134919bb:0xe4d2f3c74fcb5c16!8m2!3d22.7593287!4d75.8877246!16s%2Fg%2F11g8bwwbss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+(Scheme+no-+74+C,+Vijay+Nagar,+Indore)/@22.7593287,75.8877246,17z/data=!3m1!4b1!4m6!3m5!1s0x396302a5134919bb:0xe4d2f3c74fcb5c16!8m2!3d22.7593287!4d75.8877246!16s%2Fg%2F11g8bwwbss?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7593287,
+      "lng": 75.8877246,
+      "label": "Madhavbaug – Ayurvedic Cardiac Care Clinic (Scheme no- 74 C, Vijay Nagar, Indore)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahajan-ent-and-dental-braces-and-aligner-specialist-dentist-in-indore-indore",
+    "name": "Mahajan Ent & Dental - braces and Aligner specialist - dentist in Indore",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahajan Ent & Dental - braces and Aligner specialist - dentist in Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore and Dentist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078050 09561",
+    "alternatePhone": "",
+    "website": "https://mahajanentdental.com/",
+    "address": "B- 4, MIG Main Rd, near LIG Square, HIG Colony, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "HIG Colony",
+    "landmark": "near LIG Square, HIG Colony, Indore, Madhya Pradesh 452011",
+    "emergencyContact": "078050 09561",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mahajan+Ent+%26+Dental+-+braces+and+Aligner+specialist+-+dentist+in+Indore/@22.7345128,75.8885276,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xfc91a023ea156773!8m2!3d22.7345128!4d75.8885276!16s%2Fg%2F1tq8gz7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahajan+Ent+%26+Dental+-+braces+and+Aligner+specialist+-+dentist+in+Indore/@22.7345128,75.8885276,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xfc91a023ea156773!8m2!3d22.7345128!4d75.8885276!16s%2Fg%2F1tq8gz7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7345128,
+      "lng": 75.8885276,
+      "label": "Mahajan Ent & Dental - braces and Aligner specialist - dentist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "male-fertility-centre-sexologist-in-indore-indore",
+    "name": "Male Fertility Centre - Sexologist in Indore",
+    "type": "Sexologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted sexologist in Indore, Male Fertility Centre - Sexologist in Indore delivers integrated care across IVF In Indore, Sexologist, and Fertility Care. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098270 35123",
+    "alternatePhone": "",
+    "website": "",
+    "address": "110-111, 15/3, Race Course Rd, opposite IDA Building, Near Janjeerwala Square, New Palasia, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "New Palasia",
+    "landmark": "Near Janjeerwala Square, New Palasia, Indore, Madhya Pradesh 452003",
+    "emergencyContact": "098270 35123",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Sexologist",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Male+Fertility+Centre+-+Sexologist+in+Indore/@22.7263918,75.8786755,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4070210caf:0x8849c5a9eafadc3e!8m2!3d22.7263918!4d75.8786755!16s%2Fg%2F11ckr782gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Male+Fertility+Centre+-+Sexologist+in+Indore/@22.7263918,75.8786755,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4070210caf:0x8849c5a9eafadc3e!8m2!3d22.7263918!4d75.8786755!16s%2Fg%2F11ckr782gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7263918,
+      "lng": 75.8786755,
+      "label": "Male Fertility Centre - Sexologist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medanta-homecare-indore-indore",
+    "name": "Medanta HomeCare - Indore",
+    "type": "Home Health Care Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Medanta HomeCare - Indore for its strength in Heart Surgery In Indore and Home Health Care Service. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081307 71414",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No. 8, PU04 Commercial Scheme 54, Rasoma Square, AB Rd, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "Rasoma Square",
+    "emergencyContact": "081307 71414",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Indore",
+      "Home Health Care Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medanta+HomeCare+-+Indore/@22.7488763,75.8961048,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd35e5e22e39:0xc911ad9baaee9314!8m2!3d22.7488763!4d75.8961048!16s%2Fg%2F11t6_5ws9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medanta+HomeCare+-+Indore/@22.7488763,75.8961048,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd35e5e22e39:0xc911ad9baaee9314!8m2!3d22.7488763!4d75.8961048!16s%2Fg%2F11t6_5ws9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7488763,
+      "lng": 75.8961048,
+      "label": "Medanta HomeCare - Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicare-hospital-and-research-centre-indore",
+    "name": "Medicare Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicare Hospital & Research Centre is a prominent hospital in Indore, known for structured tertiary care across Oncologist Surgery In Indore. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073142 71600",
+    "alternatePhone": "",
+    "website": "https://medicareindore.com/",
+    "address": "4/5, Old Palasia, Ravindra Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Ravindra Nagar",
+    "landmark": "Ravindra Nagar",
+    "emergencyContact": "073142 71600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicare+Hospital+%26+Research+Centre/@22.7224053,75.8909271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3696aaaaab:0x588615776af2c7a8!8m2!3d22.7224053!4d75.8909271!16s%2Fg%2F1tf061vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicare+Hospital+%26+Research+Centre/@22.7224053,75.8909271,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3696aaaaab:0x588615776af2c7a8!8m2!3d22.7224053!4d75.8909271!16s%2Fg%2F1tf061vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7224053,
+      "lng": 75.8909271,
+      "label": "Medicare Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mg-plastic-surgery-advanced-cosmetic-and-reconstructive-clinic-indore-indore",
+    "name": "MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore offers coordinated hospital care with major focus on Plastic Surgery In Indore. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097529 48433",
+    "alternatePhone": "",
+    "website": "https://mgplasticsurgeryclinic.com/",
+    "address": "Narmada Kiran Hospital, Plot 77, Tilak Nagar St, in front of MP Pollution control board, Scheme Number 78, Vijay Nagar, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "Tilak Nagar St",
+    "emergencyContact": "097529 48433",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7619343,75.8850383,17z/data=!3m1!4b1!4m6!3m5!1s0x39630320f686ccad:0x57ca0b415d316991!8m2!3d22.7619343!4d75.8850383!16s%2Fg%2F11y_xgc8gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7619343,75.8850383,17z/data=!3m1!4b1!4m6!3m5!1s0x39630320f686ccad:0x57ca0b415d316991!8m2!3d22.7619343!4d75.8850383!16s%2Fg%2F11y_xgc8gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7619343,
+      "lng": 75.8850383,
+      "label": "MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mg-plastic-surgery-advanced-cosmetic-and-reconstructive-clinic-indore-indore",
+    "name": "MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore for its strength in Plastic Surgery In Indore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://mgplasticsurgeryclinic.com/",
+    "address": "Suyog Hospital 195, Bhanwar Kunwa Road, near Railway Cross Mechanic Nagar, Bairathi Colony Number 2, Indore, Madhya Pradesh 452014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452014",
+    "locality": "Bairathi Colony Number 2",
+    "landmark": "near Railway Cross Mechanic Nagar, Bairathi Colony Number 2, Indore, Madhya Pradesh 452014",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7045946,75.8606874,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3eff019261:0x965c68dad744fda0!8m2!3d22.7045946!4d75.8606874!16s%2Fg%2F11ykx49n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MG+Plastic+Surgery+%E2%80%93+Advanced+Cosmetic+%26+Reconstructive+Clinic+Indore/@22.7045946,75.8606874,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd3eff019261:0x965c68dad744fda0!8m2!3d22.7045946!4d75.8606874!16s%2Fg%2F11ykx49n0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7045946,
+      "lng": 75.8606874,
+      "label": "MG Plastic Surgery – Advanced Cosmetic & Reconstructive Clinic Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morpheus-sridhar-indore",
+    "name": "Morpheus Sridhar",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Morpheus Sridhar for its strength in IVF In Indore and Fertility Care. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "622, Narendra Tiwari Marg, Road, near Mastana Dudh Dairy, Bank Colony, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Bank Colony",
+    "landmark": "near Mastana Dudh Dairy, Bank Colony, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Morpheus+Sridhar/@22.6958896,75.8348523,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc4f4077a8f1:0x90f16457cadb2995!8m2!3d22.6958896!4d75.8348523!16s%2Fg%2F1pp2tlj4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Morpheus+Sridhar/@22.6958896,75.8348523,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fc4f4077a8f1:0x90f16457cadb2995!8m2!3d22.6958896!4d75.8348523!16s%2Fg%2F1pp2tlj4p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6958896,
+      "lng": 75.8348523,
+      "label": "Morpheus Sridhar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "motherhood-fertility-and-ivf-center-best-ivf-centre-in-indore-iui-icsi-infertility-treatment-indore",
+    "name": "Motherhood Fertility & IVF Center - Best IVF Centre in Indore | IUI, ICSI, Infertility Treatment",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Motherhood Fertility & IVF Center - Best IVF Centre in Indore | IUI, ICSI, Infertility Treatment offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080695 49271",
+    "alternatePhone": "",
+    "website": "https://www.motherhoodivf.com/best-fertility-ivf-center-in-indore/?utm_source=gmb&utm_medium=localseo&utm_campaign=gmb_ivf_indore",
+    "address": "Ground Floor, Mechanic Nagar, Scheme No 54, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "Scheme No 54",
+    "landmark": "Scheme No 54",
+    "emergencyContact": "080695 49271",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore+%7C+IUI,+ICSI,+Infertility+Treatment/@22.7478976,75.8917963,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4ee98f12c9:0x941d1b3bc3ad8139!8m2!3d22.7478976!4d75.8917963!16s%2Fg%2F11pvmdl839?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Indore+%7C+IUI,+ICSI,+Infertility+Treatment/@22.7478976,75.8917963,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4ee98f12c9:0x941d1b3bc3ad8139!8m2!3d22.7478976!4d75.8917963!16s%2Fg%2F11pvmdl839?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7478976,
+      "lng": 75.8917963,
+      "label": "Motherhood Fertility & IVF Center - Best IVF Centre in Indore | IUI, ICSI, Infertility Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mp-fertility-center-indore",
+    "name": "MP Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, MP Fertility Center offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062623 05050",
+    "alternatePhone": "",
+    "website": "http://www.mpivf.com/",
+    "address": "16/5, Race Course Rd, opp. Nagar Nigam Zonal Office, near Janjeerwala Square, Builders Colony, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "Builders Colony",
+    "landmark": "near Janjeerwala Square, Builders Colony, Indore, Madhya Pradesh 452003",
+    "emergencyContact": "062623 05050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MP+Fertility+Center/@22.7296653,75.8777434,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd400ca690eb:0x3c371a9f16e3f8f2!8m2!3d22.7296653!4d75.8777434!16s%2Fg%2F1z44_c0m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MP+Fertility+Center/@22.7296653,75.8777434,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd400ca690eb:0x3c371a9f16e3f8f2!8m2!3d22.7296653!4d75.8777434!16s%2Fg%2F1z44_c0m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7296653,
+      "lng": 75.8777434,
+      "label": "MP Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mukherjee-fertility-centre-indore",
+    "name": "Mukherjee Fertility Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Mukherjee Fertility Centre delivers integrated care across IVF In Indore and Fertility Care. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095750 78630",
+    "alternatePhone": "",
+    "website": "",
+    "address": "16dd, Slice No 2, Main Rd, Vijay Nagar, Aranya Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Aranya Nagar",
+    "landmark": "Main Rd",
+    "emergencyContact": "095750 78630",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Mukherjee+Fertility+Centre/@22.7647808,75.8927738,17z/data=!3m1!4b1!4m6!3m5!1s0x396302b17460bc55:0x18adac0e44fa320a!8m2!3d22.7647808!4d75.8927738!16s%2Fg%2F11b7q1f812?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mukherjee+Fertility+Centre/@22.7647808,75.8927738,17z/data=!3m1!4b1!4m6!3m5!1s0x396302b17460bc55:0x18adac0e44fa320a!8m2!3d22.7647808!4d75.8927738!16s%2Fg%2F11b7q1f812?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7647808,
+      "lng": 75.8927738,
+      "label": "Mukherjee Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "namah-hospital-and-laparoscopic-centre-indore",
+    "name": "NAMAH HOSPITAL AND LAPAROSCOPIC CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, NAMAH HOSPITAL AND LAPAROSCOPIC CENTRE delivers integrated care across Laparoscopic Surgery In Indore. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073140 93854",
+    "alternatePhone": "",
+    "website": "",
+    "address": "49 GG, Vijay Nagar Main Rd, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "Vijay Nagar",
+    "emergencyContact": "073140 93854",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NAMAH+HOSPITAL+AND+LAPAROSCOPIC+CENTRE/@22.7530288,75.8920926,17z/data=!3m1!4b1!4m6!3m5!1s0x3963030017e1f87d:0x466146ade9a32448!8m2!3d22.7530288!4d75.8920926!16s%2Fg%2F11vt0rn337?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NAMAH+HOSPITAL+AND+LAPAROSCOPIC+CENTRE/@22.7530288,75.8920926,17z/data=!3m1!4b1!4m6!3m5!1s0x3963030017e1f87d:0x466146ade9a32448!8m2!3d22.7530288!4d75.8920926!16s%2Fg%2F11vt0rn337?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7530288,
+      "lng": 75.8920926,
+      "label": "NAMAH HOSPITAL AND LAPAROSCOPIC CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-hope-ivf-fertility-and-research-centre-indore",
+    "name": "New Hope IVF Fertility & Research Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Indore, New Hope IVF Fertility & Research Centre delivers integrated care across IVF In Indore and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098982 26201",
+    "alternatePhone": "",
+    "website": "https://newhopeivffertility.com/",
+    "address": "22/2, Yeshwant Niwas Rd, above HDFC Bank, opp. Rani Sati Gate, Shivaji Nagar, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "Shivaji Nagar",
+    "landmark": "above HDFC Bank",
+    "emergencyContact": "098982 26201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/New+Hope+IVF+Fertility+%26+Research+Centre/@22.7297053,75.8749166,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda2ec6dd795:0xdb5056b2728aab43!8m2!3d22.7297053!4d75.8749166!16s%2Fg%2F11rghfwcn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Hope+IVF+Fertility+%26+Research+Centre/@22.7297053,75.8749166,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda2ec6dd795:0xdb5056b2728aab43!8m2!3d22.7297053!4d75.8749166!16s%2Fg%2F11rghfwcn_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7297053,
+      "lng": 75.8749166,
+      "label": "New Hope IVF Fertility & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-muskan-dental-clinic-top-dental-clinic-dentist-root-canal-treatment-in-indore-indore",
+    "name": "New Muskan Dental Clinic - Top Dental Clinic, Dentist, Root Canal Treatment In Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, New Muskan Dental Clinic - Top Dental Clinic, Dentist, Root Canal Treatment In Indore delivers integrated care across Oral Surgery In Indore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062640 90975",
+    "alternatePhone": "",
+    "website": "http://dentistindore.co.in/",
+    "address": "99/1, ROAD, Mayank Blue Water Park Rd, behind AXIS BANK, Neer Nagar, Bicholi Mardana, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Bicholi Mardana",
+    "landmark": "Mayank Blue Water Park Rd",
+    "emergencyContact": "062640 90975",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/New+Muskan+Dental+Clinic+-+Top+Dental+Clinic,+Dentist,+Root+Canal+Treatment+In+Indore/@22.7109613,75.9209844,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cefeeaea43:0xe17260ac53acf240!8m2!3d22.7109613!4d75.9209844!16s%2Fg%2F1q629jxmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Muskan+Dental+Clinic+-+Top+Dental+Clinic,+Dentist,+Root+Canal+Treatment+In+Indore/@22.7109613,75.9209844,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cefeeaea43:0xe17260ac53acf240!8m2!3d22.7109613!4d75.9209844!16s%2Fg%2F1q629jxmj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7109613,
+      "lng": 75.9209844,
+      "label": "New Muskan Dental Clinic - Top Dental Clinic, Dentist, Root Canal Treatment In Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-centre-best-ivf-center-in-indore-indore",
+    "name": "Nova IVF Fertility Centre - Best IVF Center in Indore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Nova IVF Fertility Centre - Best IVF Center in Indore brings together specialists for IVF In Indore and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080444 74658",
+    "alternatePhone": "",
+    "website": "https://www.novaivffertility.com/ivf-centre/indore/fertility-clinic-indore?utm_source=GMB&utm_medium=organic",
+    "address": "BLOCK B-1, NRK Business Park, Scheme No. 54, PU-4 Vijaynagar Square Near Mangal City Mall Service Road Agra, Bombay Road, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Bombay Road",
+    "landmark": "Near Mangal City Mall Service Road Agra, Bombay Road, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "080444 74658",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Indore/@22.7517825,75.8965712,17z/data=!3m1!4b1!4m6!3m5!1s0x396302aa5e2a9d4d:0x6b25ab7ea97e21f1!8m2!3d22.7517825!4d75.8965712!16s%2Fg%2F11c1nrvlr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Indore/@22.7517825,75.8965712,17z/data=!3m1!4b1!4m6!3m5!1s0x396302aa5e2a9d4d:0x6b25ab7ea97e21f1!8m2!3d22.7517825!4d75.8965712!16s%2Fg%2F11c1nrvlr6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7517825,
+      "lng": 75.8965712,
+      "label": "Nova IVF Fertility Centre - Best IVF Center in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oasis-fertility-best-ivf-centre-in-indore-indore",
+    "name": "Oasis Fertility - Best IVF Centre in Indore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oasis Fertility - Best IVF Centre in Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering IVF In Indore and Fertility Care. Hospital capacity markers such as Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://oasisindia.in/",
+    "address": "3rd Floor, Tiffiny Tower, AB Rd, Sanghi Colony, Old Palasia, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "Old Palasia",
+    "landmark": "AB Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Indore/@22.7292237,75.8891171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdac149bb97f:0x2eb41a365700ab48!8m2!3d22.7292237!4d75.8891171!16s%2Fg%2F11nhxdpqs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Indore/@22.7292237,75.8891171,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdac149bb97f:0x2eb41a365700ab48!8m2!3d22.7292237!4d75.8891171!16s%2Fg%2F11nhxdpqs2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7292237,
+      "lng": 75.8891171,
+      "label": "Oasis Fertility - Best IVF Centre in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-care-centre-indore",
+    "name": "Oral Care Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oral Care Centre is a prominent dentist in Indore, known for structured tertiary care across Oral Surgery In Indore and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070004 05758",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MR-1, Nariman point, 11, Main Rd, Sector R, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Mahalaxmi Nagar",
+    "landmark": "11",
+    "emergencyContact": "070004 05758",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Care+Centre/@22.7583258,75.9121302,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e322ceea37bf:0x8249586b6342859!8m2!3d22.7583258!4d75.9121302!16s%2Fg%2F11rz2sr3v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Care+Centre/@22.7583258,75.9121302,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e322ceea37bf:0x8249586b6342859!8m2!3d22.7583258!4d75.9121302!16s%2Fg%2F11rz2sr3v_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7583258,
+      "lng": 75.9121302,
+      "label": "Oral Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-maxillofacial-surgery-and-dental-clinic-indore",
+    "name": "Oral Maxillofacial Surgery and Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oral Maxillofacial Surgery and Dental Clinic is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore and Maxillofacial Surgery. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098939 37937",
+    "alternatePhone": "",
+    "website": "",
+    "address": "452001, 102, Manik Bagh Rd, Palsikar Colony, Indore, Madhya Pradesh 452014",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Palsikar Colony",
+    "landmark": "Manik Bagh Rd",
+    "emergencyContact": "098939 37937",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Maxillofacial+Surgery+and+Dental+Clinic/@22.6988542,75.8545192,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcffe9484ce1:0xa34e9d7d87079d8c!8m2!3d22.6988542!4d75.8545192!16s%2Fg%2F11b6dydf5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Maxillofacial+Surgery+and+Dental+Clinic/@22.6988542,75.8545192,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcffe9484ce1:0xa34e9d7d87079d8c!8m2!3d22.6988542!4d75.8545192!16s%2Fg%2F11b6dydf5y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6988542,
+      "lng": 75.8545192,
+      "label": "Oral Maxillofacial Surgery and Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-scheme-no-140-indore-indore",
+    "name": "OrthoSquare Dental Clinic - Scheme No 140, Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, OrthoSquare Dental Clinic - Scheme No 140, Indore offers coordinated hospital care with major focus on Oral Surgery In Indore and Orthopaedics. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080718 20874",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/indore/Scheme-No-140/orthosquare-dental-clinic-in-Scheme-No-140-indore--3S9P9B/home",
+    "address": "No 148, Ground Floor, Parasmani Apartment, Anchal Nagar, nearby V Makeover Beauty Salon, Scheme No 140, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Scheme No 140",
+    "landmark": "Parasmani Apartment",
+    "emergencyContact": "080718 20874",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Scheme+No+140,+Indore/@22.7120203,75.9140853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3926c009a0d:0xf8e9c7fb66f1edd8!8m2!3d22.7120203!4d75.9140853!16s%2Fg%2F11y3lps1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Scheme+No+140,+Indore/@22.7120203,75.9140853,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3926c009a0d:0xf8e9c7fb66f1edd8!8m2!3d22.7120203!4d75.9140853!16s%2Fg%2F11y3lps1sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7120203,
+      "lng": 75.9140853,
+      "label": "OrthoSquare Dental Clinic - Scheme No 140, Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "osteosmile-dental-and-physiotherapy-clinic-by-maheshwari-s-indore",
+    "name": "OsteoSmile Dental & Physiotherapy Clinic By Maheshwari’s",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, OsteoSmile Dental & Physiotherapy Clinic By Maheshwari’s offers coordinated hospital care with major focus on Oral Surgery In Indore. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070001 76751",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pipliyahana Rd, near Arpit Hospital, 16FM, Scheme 94, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme 94",
+    "landmark": "near Arpit Hospital, 16FM, Scheme 94, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "070001 76751",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/OsteoSmile+Dental+%26+Physiotherapy+Clinic+By+Maheshwari%E2%80%99s/@22.7123972,75.9062415,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31b7f95f453:0xbfab2af86515f729!8m2!3d22.7123972!4d75.9062415!16s%2Fg%2F11y0xlkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OsteoSmile+Dental+%26+Physiotherapy+Clinic+By+Maheshwari%E2%80%99s/@22.7123972,75.9062415,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e31b7f95f453:0xbfab2af86515f729!8m2!3d22.7123972!4d75.9062415!16s%2Fg%2F11y0xlkdbp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7123972,
+      "lng": 75.9062415,
+      "label": "OsteoSmile Dental & Physiotherapy Clinic By Maheshwari’s",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pacific-dental-clinic-and-implant-center-root-canal-specialist-dental-crown-and-bridge-centre-indore",
+    "name": "Pacific Dental Clinic and Implant center| Root canal specialist| Dental crown and bridge centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Pacific Dental Clinic and Implant center| Root canal specialist| Dental crown and bridge centre offers coordinated hospital care with major focus on Oral Surgery In Indore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088788 11161",
+    "alternatePhone": "",
+    "website": "https://pacific-dental-clinic.grexa.site/",
+    "address": "21 dc, near ida water tank, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Scheme No 140",
+    "landmark": "near ida water tank, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "088788 11161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pacific+Dental+Clinic+and+Implant+center%7C+Root+canal+specialist%7C+Dental+crown+and+bridge+centre/@22.7058053,75.914178,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d87d34af7f:0x2340e813f7c4fc2e!8m2!3d22.7058053!4d75.914178!16s%2Fg%2F11c2pc1j73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pacific+Dental+Clinic+and+Implant+center%7C+Root+canal+specialist%7C+Dental+crown+and+bridge+centre/@22.7058053,75.914178,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2d87d34af7f:0x2340e813f7c4fc2e!8m2!3d22.7058053!4d75.914178!16s%2Fg%2F11c2pc1j73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7058053,
+      "lng": 75.914178,
+      "label": "Pacific Dental Clinic and Implant center| Root canal specialist| Dental crown and bridge centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pc-trust-dental-clinic-your-smile-is-our-identity-indore",
+    "name": "PC TRUST DENTAL CLINIC \"Your smile is our identity \"",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PC TRUST DENTAL CLINIC \"Your smile is our identity \" is a prominent dentist in Indore, known for structured tertiary care across Oral Surgery In Indore and Dentist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090980 68334",
+    "alternatePhone": "",
+    "website": "https://pc-trust-dental-clinic.grexa.site/",
+    "address": "51 A, Sector A, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Mahalaxmi Nagar",
+    "landmark": "Mahalaxmi Nagar",
+    "emergencyContact": "090980 68334",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PC+TRUST+DENTAL+CLINIC+%22Your+smile+is+our+identity+%22/@22.755545,75.9075471,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d56ea126e23:0x2e43e02973464dec!8m2!3d22.755545!4d75.9075471!16s%2Fg%2F11g8fmnyw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PC+TRUST+DENTAL+CLINIC+%22Your+smile+is+our+identity+%22/@22.755545,75.9075471,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d56ea126e23:0x2e43e02973464dec!8m2!3d22.755545!4d75.9075471!16s%2Fg%2F11g8fmnyw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.755545,
+      "lng": 75.9075471,
+      "label": "PC TRUST DENTAL CLINIC \"Your smile is our identity \"",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "plastic-surgery-clinic-indore",
+    "name": "Plastic surgery clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Plastic surgery clinic has built a strong reputation in Indore for multidisciplinary treatment pathways covering Plastic Surgery In Indore. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "77, Ravindra Nagar, Old Palasia, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Old Palasia",
+    "landmark": "Old Palasia",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Plastic+surgery+clinic/@22.7229572,75.8917263,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdc89d78e8bd:0xd248ed1f61b8256c!8m2!3d22.7229572!4d75.8917263!16s%2Fg%2F11m5csvm9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Plastic+surgery+clinic/@22.7229572,75.8917263,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdc89d78e8bd:0xd248ed1f61b8256c!8m2!3d22.7229572!4d75.8917263!16s%2Fg%2F11m5csvm9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7229572,
+      "lng": 75.8917263,
+      "label": "Plastic surgery clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pramila-hospital-ivf-center-best-fertility-center-in-indore-indore",
+    "name": "Pramila Hospital | IVF Center | Best Fertility Center in Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pramila Hospital | IVF Center | Best Fertility Center in Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering IVF In Indore and Fertility Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073142 83555",
+    "alternatePhone": "",
+    "website": "https://pramilahospital.com/",
+    "address": "10, near Annapurna Misthan Bhandar, Gumasta Nagar, Scheme 71, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Scheme 71",
+    "landmark": "near Annapurna Misthan Bhandar, Gumasta Nagar, Scheme 71, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "073142 83555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pramila+Hospital+%7C+IVF+Center+%7C+Best+Fertility+Center+in+Indore/@22.6968261,75.8316768,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd5676f2db5:0x37d1a64f715d9daa!8m2!3d22.6968261!4d75.8316768!16s%2Fg%2F11hrxzjc1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pramila+Hospital+%7C+IVF+Center+%7C+Best+Fertility+Center+in+Indore/@22.6968261,75.8316768,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd5676f2db5:0x37d1a64f715d9daa!8m2!3d22.6968261!4d75.8316768!16s%2Fg%2F11hrxzjc1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6968261,
+      "lng": 75.8316768,
+      "label": "Pramila Hospital | IVF Center | Best Fertility Center in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-k-hospital-indore",
+    "name": "R K Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R K Hospital is a prominent hospital in Indore, known for structured tertiary care across Spine Surgery In Indore. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093994 84434",
+    "alternatePhone": "",
+    "website": "https://rkhospitalindore.in/",
+    "address": "1 PRAKASH NAGAR SQUARE, Nemawar Rd, Navlakha, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Navlakha",
+    "landmark": "Navlakha",
+    "emergencyContact": "093994 84434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/R+K+Hospital/@22.6978229,75.8786129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0a65fdb3b7:0x9a51dbda785c46cc!8m2!3d22.6978229!4d75.8786129!16s%2Fg%2F11h5vhvc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R+K+Hospital/@22.6978229,75.8786129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd0a65fdb3b7:0x9a51dbda785c46cc!8m2!3d22.6978229!4d75.8786129!16s%2Fg%2F11h5vhvc5k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6978229,
+      "lng": 75.8786129,
+      "label": "R K Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rawal-indore",
+    "name": "Rawal",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rawal is a prominent fertility clinic in Indore, known for structured tertiary care across IVF In Indore and Fertility Care. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095751 05373",
+    "alternatePhone": "",
+    "website": "https://rawalfertility.com/",
+    "address": "Avasa Society Rd, Bijalpur, Indore, Madhya Pradesh 452012",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452012",
+    "locality": "Bijalpur",
+    "landmark": "Indore",
+    "emergencyContact": "095751 05373",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rawal/@22.6709402,75.8377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf42526579b:0xb8cb1d79a6bb142!8m2!3d22.6709402!4d75.8377216!16s%2Fg%2F11gtqjkf1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rawal/@22.6709402,75.8377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf42526579b:0xb8cb1d79a6bb142!8m2!3d22.6709402!4d75.8377216!16s%2Fg%2F11gtqjkf1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6709402,
+      "lng": 75.8377216,
+      "label": "Rawal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rejuvenate-hair-transplant-indore",
+    "name": "Rejuvenate Hair Transplant",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Indore, Rejuvenate Hair Transplant delivers integrated care across Plastic Surgery In Indore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091444 44433",
+    "alternatePhone": "",
+    "website": "http://www.rejuvenatehairtransplant.com/",
+    "address": "2/1, RS Bhandari Marg, Janjeerwala Chouraha, New Palasia, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "New Palasia",
+    "landmark": "Janjeerwala Chouraha",
+    "emergencyContact": "091444 44433",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rejuvenate+Hair+Transplant/@22.7282699,75.8798891,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40fe3c852f:0x42f1bd93f3def787!8m2!3d22.7282699!4d75.8798891!16s%2Fg%2F119t_9srf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rejuvenate+Hair+Transplant/@22.7282699,75.8798891,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40fe3c852f:0x42f1bd93f3def787!8m2!3d22.7282699!4d75.8798891!16s%2Fg%2F119t_9srf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7282699,
+      "lng": 75.8798891,
+      "label": "Rejuvenate Hair Transplant",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rmd-hair-transplant-clinic-best-hair-transplant-clinic-in-indore-indore",
+    "name": "RMD Hair Transplant clinic Best Hair Transplant Clinic in Indore",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose RMD Hair Transplant clinic Best Hair Transplant Clinic in Indore for its strength in Cosmetic Surgery In Indore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081716 66690",
+    "alternatePhone": "",
+    "website": "https://rmdhairtransplant.com/",
+    "address": "Office No. 301, Lakshya Badgara Crest, 13/1, Curewell Hospital Rd, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "New Palasia",
+    "landmark": "13/1",
+    "emergencyContact": "081716 66690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RMD+Hair+Transplant+clinic+Best+Hair+Transplant+Clinic+in+Indore/@22.7269895,75.8835584,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8300618fa1:0xc744f52a4c989336!8m2!3d22.7269895!4d75.8835584!16s%2Fg%2F11lmkc2dfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RMD+Hair+Transplant+clinic+Best+Hair+Transplant+Clinic+in+Indore/@22.7269895,75.8835584,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd8300618fa1:0xc744f52a4c989336!8m2!3d22.7269895!4d75.8835584!16s%2Fg%2F11lmkc2dfb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7269895,
+      "lng": 75.8835584,
+      "label": "RMD Hair Transplant clinic Best Hair Transplant Clinic in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "roots-dental-care-indore",
+    "name": "Roots Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Roots Dental Care has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097708 70077",
+    "alternatePhone": "",
+    "website": "https://rootsdentalcareindore.com/",
+    "address": "infront of bank of india, 452010, Indore 38, Vijay Nagar, Part I, Scheme No 114, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 114",
+    "landmark": "Indore 38",
+    "emergencyContact": "097708 70077",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Roots+Dental+Care/@22.7672196,75.8989348,17z/data=!3m1!4b1!4m6!3m5!1s0x396303da1d270137:0x692ff1b374261386!8m2!3d22.7672196!4d75.8989348!16s%2Fg%2F11mvrydysn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Roots+Dental+Care/@22.7672196,75.8989348,17z/data=!3m1!4b1!4m6!3m5!1s0x396303da1d270137:0x692ff1b374261386!8m2!3d22.7672196!4d75.8989348!16s%2Fg%2F11mvrydysn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7672196,
+      "lng": 75.8989348,
+      "label": "Roots Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sakhiya-skin-clinic-indore-top-skincare-and-cosmetic-treatments-indore",
+    "name": "Sakhiya Skin Clinic Indore - Top Skincare and Cosmetic Treatments",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Sakhiya Skin Clinic Indore - Top Skincare and Cosmetic Treatments brings together specialists for Plastic Surgery In Indore. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.sakhiyaskinclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=indore",
+    "address": "3rd Floor, Orbit Mall, 326, AB Rd, Opposite Raghunath Prasad Petrol Pump, Scheme 54 PU4, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme 54 PU4",
+    "landmark": "Opposite Raghunath Prasad Petrol Pump, Scheme 54 PU4, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+Indore+-+Top+Skincare+and+Cosmetic+Treatments/@22.7454704,75.8941763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb9f3f99589:0xe080556fb0c078b0!8m2!3d22.7454704!4d75.8941763!16s%2Fg%2F11y9qj7r39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+Indore+-+Top+Skincare+and+Cosmetic+Treatments/@22.7454704,75.8941763,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb9f3f99589:0xe080556fb0c078b0!8m2!3d22.7454704!4d75.8941763!16s%2Fg%2F11y9qj7r39?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7454704,
+      "lng": 75.8941763,
+      "label": "Sakhiya Skin Clinic Indore - Top Skincare and Cosmetic Treatments",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-dental-implant-and-laser-clinic-indore",
+    "name": "SANJEEVANI DENTAL IMPLANT & LASER CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Indore, SANJEEVANI DENTAL IMPLANT & LASER CLINIC delivers integrated care across Oral Surgery In Indore and Dentist. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098260 61973",
+    "alternatePhone": "",
+    "website": "http://www.sanjeevanidental.in/",
+    "address": "101,102,103, SANSKRITI APT. 82 Kanadia Road Swami Vivekanand Nagar, Near Axis Bank, Telephone Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Telephone Nagar",
+    "landmark": "Near Axis Bank, Telephone Nagar, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "098260 61973",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SANJEEVANI+DENTAL+IMPLANT+%26+LASER+CLINIC/@22.7207768,75.9028449,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cc62728e25:0xa185d3c21cc7844e!8m2!3d22.7207768!4d75.9028449!16s%2Fg%2F1xg5r21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANJEEVANI+DENTAL+IMPLANT+%26+LASER+CLINIC/@22.7207768,75.9028449,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2cc62728e25:0xa185d3c21cc7844e!8m2!3d22.7207768!4d75.9028449!16s%2Fg%2F1xg5r21_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7207768,
+      "lng": 75.9028449,
+      "label": "SANJEEVANI DENTAL IMPLANT & LASER CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santati-infertility-and-test-tube-baby-center-best-ivf-center-in-indore-iui-infertility-icsi-treatment-indore",
+    "name": "Santati Infertility & Test Tube Baby Center - Best IVF Center in Indore | IUI, Infertility, ICSI Treatment",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Santati Infertility & Test Tube Baby Center - Best IVF Center in Indore | IUI, Infertility, ICSI Treatment is a prominent fertility clinic in Indore, known for structured tertiary care across IVF In Indore and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094248 25000",
+    "alternatePhone": "",
+    "website": "http://www.santatiivf.co.in/",
+    "address": "Life Care Hospital, 2, Scheme No 78 - III, Scheme Number 78, Vijay Nagar, Part II, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "Scheme No 78 - III",
+    "emergencyContact": "094248 25000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Santati+Infertility+%26+Test+Tube+Baby+Center+-+Best+IVF+Center+in+Indore+%7C+IUI,+Infertility,+ICSI+Treatment/@22.7626575,75.8841697,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd541e8a5353:0x5e3d4266d1b8f831!8m2!3d22.7626575!4d75.8841697!16s%2Fg%2F1jkw6k0qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santati+Infertility+%26+Test+Tube+Baby+Center+-+Best+IVF+Center+in+Indore+%7C+IUI,+Infertility,+ICSI+Treatment/@22.7626575,75.8841697,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd541e8a5353:0x5e3d4266d1b8f831!8m2!3d22.7626575!4d75.8841697!16s%2Fg%2F1jkw6k0qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7626575,
+      "lng": 75.8841697,
+      "label": "Santati Infertility & Test Tube Baby Center - Best IVF Center in Indore | IUI, Infertility, ICSI Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarvam-hospital-indore",
+    "name": "SARVAM HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SARVAM HOSPITAL has built a strong reputation in Indore for multidisciplinary treatment pathways covering Plastic Surgery In Indore. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://sarvamhospitalllp.in/",
+    "address": "SCHEME 94 RING ROAD, MAHALAXMI NAGAR, 115, square Service Road, opposite to Hotel Dlive, near Hotel aventus by urbantara, Vrindavan Palace Colony, Nipania, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Nipania",
+    "landmark": "near Hotel aventus by urbantara, Vrindavan Palace Colony, Nipania, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SARVAM+HOSPITAL/@22.7675254,75.9081903,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d052a80e8d1:0x1f9d253867c31cd!8m2!3d22.7675254!4d75.9081903!16s%2Fg%2F11z2xs1cbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SARVAM+HOSPITAL/@22.7675254,75.9081903,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d052a80e8d1:0x1f9d253867c31cd!8m2!3d22.7675254!4d75.9081903!16s%2Fg%2F11z2xs1cbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7675254,
+      "lng": 75.9081903,
+      "label": "SARVAM HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "seraphic-dental-clinic-in-indore-dental-implants-smile-design-invisalign-braces-best-dentist-in-indore-indore",
+    "name": "Seraphic Dental clinic in Indore | Dental Implants | Smile Design | Invisalign | Braces | Best Dentist in Indore",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Indore, Seraphic Dental clinic in Indore | Dental Implants | Smile Design | Invisalign | Braces | Best Dentist in Indore delivers integrated care across Oral Surgery In Indore and Dentist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099933 84941",
+    "alternatePhone": "",
+    "website": "https://www.seraphicdental.com/",
+    "address": "30, Banwari Lal Jaju Marg, behind Ithlati Sarees, near Gita Bhawan Road, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "near Gita Bhawan Road, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "099933 84941",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Seraphic+Dental+clinic+in+Indore+%7C+Dental+Implants+%7C+Smile+Design+%7C+Invisalign+%7C+Braces+%7C+Best+Dentist+in+Indore/@22.7195594,75.8815792,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd27555108cb:0x421c03be3d4f4add!8m2!3d22.7195594!4d75.8815792!16s%2Fg%2F11hdnyg4s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Seraphic+Dental+clinic+in+Indore+%7C+Dental+Implants+%7C+Smile+Design+%7C+Invisalign+%7C+Braces+%7C+Best+Dentist+in+Indore/@22.7195594,75.8815792,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd27555108cb:0x421c03be3d4f4add!8m2!3d22.7195594!4d75.8815792!16s%2Fg%2F11hdnyg4s8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7195594,
+      "lng": 75.8815792,
+      "label": "Seraphic Dental clinic in Indore | Dental Implants | Smile Design | Invisalign | Braces | Best Dentist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sevyam-heart-centre-no-bypass-no-angioplasty-no-surgery-indore",
+    "name": "Sevyam Heart Centre- (No Bypass, No Angioplasty, No surgery)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Indore, Sevyam Heart Centre- (No Bypass, No Angioplasty, No surgery) delivers integrated care across Cardiac Surgery In Indore and Cardiac Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077239 11555",
+    "alternatePhone": "",
+    "website": "https://www.sevyam.in/",
+    "address": "Manglam Residency, G-2, 100, near LifeLine Hospital, Anoop Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Anoop Nagar",
+    "landmark": "near LifeLine Hospital, Anoop Nagar, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "077239 11555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Indore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sevyam+Heart+Centre-+(No+Bypass,+No+Angioplasty,+No+surgery)/@22.7312783,75.8909454,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd48d1555555:0x1f56e5d8918b6f09!8m2!3d22.7312783!4d75.8909454!16s%2Fg%2F11c20qdgrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sevyam+Heart+Centre-+(No+Bypass,+No+Angioplasty,+No+surgery)/@22.7312783,75.8909454,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd48d1555555:0x1f56e5d8918b6f09!8m2!3d22.7312783!4d75.8909454!16s%2Fg%2F11c20qdgrk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7312783,
+      "lng": 75.8909454,
+      "label": "Sevyam Heart Centre- (No Bypass, No Angioplasty, No surgery)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shakuntala-devi-hospital-and-research-centre-indore",
+    "name": "Shakuntala Devi Hospital And Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Shakuntala Devi Hospital And Research Centre brings together specialists for General Surgery In Indore. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073140 35401",
+    "alternatePhone": "",
+    "website": "http://www.shakuntaladevihospital.com/",
+    "address": "442 - 443 Goyal Nagar Justice Ram Krishna Vijaywargiya Marg, near Bengali Square, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "near Bengali Square",
+    "landmark": "near Bengali Square, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "073140 35401",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shakuntala+Devi+Hospital+And+Research+Centre/@22.7175201,75.9055927,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x9699989f91264889!8m2!3d22.7175201!4d75.9055927!16s%2Fg%2F1tcxn20p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shakuntala+Devi+Hospital+And+Research+Centre/@22.7175201,75.9055927,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x9699989f91264889!8m2!3d22.7175201!4d75.9055927!16s%2Fg%2F1tcxn20p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7175201,
+      "lng": 75.9055927,
+      "label": "Shakuntala Devi Hospital And Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shakuntala-netralaya-indore-indore",
+    "name": "SHAKUNTALA NETRALAYA INDORE",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, SHAKUNTALA NETRALAYA INDORE brings together specialists for Plastic Surgery In Indore and Eye Care Center. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088270 57827",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SHUBHAM CORPORATE, Sapna Sangeeta Rd, Sarvoday Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Sarvoday Nagar",
+    "landmark": "Sarvoday Nagar",
+    "emergencyContact": "088270 57827",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/SHAKUNTALA+NETRALAYA+INDORE/@22.699895,75.867395,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce21ad080c3:0xbae1fae2091e9dd3!8m2!3d22.699895!4d75.867395!16s%2Fg%2F11bzq2y4mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHAKUNTALA+NETRALAYA+INDORE/@22.699895,75.867395,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fce21ad080c3:0xbae1fae2091e9dd3!8m2!3d22.699895!4d75.867395!16s%2Fg%2F11bzq2y4mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.699895,
+      "lng": 75.867395,
+      "label": "SHAKUNTALA NETRALAYA INDORE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shankar-clinic-and-infertility-center-indore",
+    "name": "Shankar Clinic & Infertility Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Shankar Clinic & Infertility Center for its strength in IVF In Indore and Fertility Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094245 15376",
+    "alternatePhone": "",
+    "website": "",
+    "address": "32 Airport Rd, Aerodrum Rd, Kalani Nagar, Indore, Madhya Pradesh 452005",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452005",
+    "locality": "Kalani Nagar",
+    "landmark": "Kalani Nagar",
+    "emergencyContact": "094245 15376",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shankar+Clinic+%26+Infertility+Center/@22.7245799,75.8230907,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde96a573859:0x3fe265d8691af1a2!8m2!3d22.7245799!4d75.8230907!16s%2Fg%2F11bbrj2tsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shankar+Clinic+%26+Infertility+Center/@22.7245799,75.8230907,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fde96a573859:0x3fe265d8691af1a2!8m2!3d22.7245799!4d75.8230907!16s%2Fg%2F11bbrj2tsc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7245799,
+      "lng": 75.8230907,
+      "label": "Shankar Clinic & Infertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivaay-dental-clinic-and-implant-center-indore",
+    "name": "Shivaay Dental Clinic & Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Shivaay Dental Clinic & Implant Center offers coordinated hospital care with major focus on Oral Surgery In Indore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078695 84612",
+    "alternatePhone": "",
+    "website": "http://www.shivaaydentalclinic.com/",
+    "address": "201, Krishna Tower, 2/1, Janjeerwala Square, above Meera Chemist, opp. Curewell Hospital Road, New Palasia, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "New Palasia",
+    "landmark": "2/1",
+    "emergencyContact": "078695 84612",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shivaay+Dental+Clinic+%26+Implant+Center/@22.727032,75.881801,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40b9ea3a09:0x8615e9a76c8449f8!8m2!3d22.727032!4d75.881801!16s%2Fg%2F11gfhyv0z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivaay+Dental+Clinic+%26+Implant+Center/@22.727032,75.881801,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd40b9ea3a09:0x8615e9a76c8449f8!8m2!3d22.727032!4d75.881801!16s%2Fg%2F11gfhyv0z7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.727032,
+      "lng": 75.881801,
+      "label": "Shivaay Dental Clinic & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-trinetram-eye-hospital-indore",
+    "name": "Shree Trinetram Eye Hospital",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Shree Trinetram Eye Hospital offers coordinated hospital care with major focus on Plastic Surgery In Indore and Eye Care Center. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://trinetrameyehospital.com/?utm_source=gmb&utm_medium=organic&utm_campaign=digitalastic",
+    "address": "WB-33, Bombay Hospital Service Rd, Sector B, Scheme No 94 Sector EB, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 94 Sector EB",
+    "landmark": "Sector B",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Trinetram+Eye+Hospital/@22.7604716,75.9052376,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d2ed68d0627:0x15cacff0f5896c27!8m2!3d22.7604716!4d75.9052376!16s%2Fg%2F11vd747h51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Trinetram+Eye+Hospital/@22.7604716,75.9052376,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d2ed68d0627:0x15cacff0f5896c27!8m2!3d22.7604716!4d75.9052376!16s%2Fg%2F11vd747h51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7604716,
+      "lng": 75.9052376,
+      "label": "Shree Trinetram Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-nanka-nursing-home-advanced-neuro-and-skin-care-center-indore",
+    "name": "Shri Nanka Nursing Home -Advanced Neuro & Skin Care Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Shri Nanka Nursing Home -Advanced Neuro & Skin Care Center brings together specialists for Neurosurgeon In Indore and Neurosciences. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "062686 30021",
+    "alternatePhone": "",
+    "website": "",
+    "address": "84, Shri Vinayak Township, Devguradiya, Indore, Deoguradia, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Devguradiya",
+    "landmark": "Devguradiya",
+    "emergencyContact": "062686 30021",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Indore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Nanka+Nursing+Home+-Advanced+Neuro+%26+Skin+Care+Center/@22.682248,75.9325942,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e32169a52367:0x96e4ffefbdb80bf3!8m2!3d22.682248!4d75.9325942!16s%2Fg%2F11sshfhfjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Nanka+Nursing+Home+-Advanced+Neuro+%26+Skin+Care+Center/@22.682248,75.9325942,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e32169a52367:0x96e4ffefbdb80bf3!8m2!3d22.682248!4d75.9325942!16s%2Fg%2F11sshfhfjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.682248,
+      "lng": 75.9325942,
+      "label": "Shri Nanka Nursing Home -Advanced Neuro & Skin Care Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-p-d-siddhi-vinayak-hospital-indore",
+    "name": "Shri P.D. Siddhi Vinayak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Shri P.D. Siddhi Vinayak Hospital brings together specialists for General Surgery In Indore. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078699 57097",
+    "alternatePhone": "",
+    "website": "",
+    "address": "EE-53 Eastern Ring Rd Main Kharjana Square, Scheme No.94, Ridhi Sidhi, Utkarsh Vihar Colony, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Utkarsh Vihar Colony",
+    "landmark": "Ridhi Sidhi",
+    "emergencyContact": "078699 57097",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+P.D.+Siddhi+Vinayak+Hospital/@22.7298316,75.903683,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2b5b05fc731:0x36a3356ac58b8201!8m2!3d22.7298316!4d75.903683!16s%2Fg%2F11bbtkqdbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+P.D.+Siddhi+Vinayak+Hospital/@22.7298316,75.903683,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e2b5b05fc731:0x36a3356ac58b8201!8m2!3d22.7298316!4d75.903683!16s%2Fg%2F11bbtkqdbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7298316,
+      "lng": 75.903683,
+      "label": "Shri P.D. Siddhi Vinayak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubham-hospital-and-maternity-home-indore-indore",
+    "name": "Shubham Hospital & Maternity Home,Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Shubham Hospital & Maternity Home,Indore for its strength in IVF In Indore. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094253 17555",
+    "alternatePhone": "",
+    "website": "https://www.shubhamhealthcare.in/",
+    "address": "E/2546, Sector E, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Sudama Nagar",
+    "landmark": "Sudama Nagar",
+    "emergencyContact": "094253 17555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shubham+Hospital+%26+Maternity+Home,Indore/@22.6913687,75.8264288,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c245f127:0x1e5dff33d4990dce!8m2!3d22.6913687!4d75.8264288!16s%2Fg%2F11y_gycjm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shubham+Hospital+%26+Maternity+Home,Indore/@22.6913687,75.8264288,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c245f127:0x1e5dff33d4990dce!8m2!3d22.6913687!4d75.8264288!16s%2Fg%2F11y_gycjm1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6913687,
+      "lng": 75.8264288,
+      "label": "Shubham Hospital & Maternity Home,Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shukla-hospital-indore",
+    "name": "Shukla Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shukla Hospital is a prominent general hospital in Indore, known for structured tertiary care across General Surgery In Indore. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073142 44415",
+    "alternatePhone": "",
+    "website": "http://shuklahospital.in/",
+    "address": "1-A, Nemawar Road, Navlakha Rd, chourha, Sajan Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Sajan Nagar",
+    "landmark": "Navlakha Rd",
+    "emergencyContact": "073142 44415",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shukla+Hospital/@22.6942604,75.8814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdc43cc9809:0x52ee9f434c0bd107!8m2!3d22.6942604!4d75.8814291!16s%2Fg%2F1hg518hkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shukla+Hospital/@22.6942604,75.8814291,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fcdc43cc9809:0x52ee9f434c0bd107!8m2!3d22.6942604!4d75.8814291!16s%2Fg%2F1hg518hkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6942604,
+      "lng": 75.8814291,
+      "label": "Shukla Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-n-shine-dental-clinic-indore",
+    "name": "Smile n shine dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Smile n shine dental clinic for its strength in Oral Surgery In Indore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095842 42127",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, 2, Khajrana Rd, near shifa hospital Between mahakali mandir and ganesh mandir, Haji Noor Patel Market, Mamta Colony, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "Mamta Colony",
+    "landmark": "near shifa hospital Between mahakali mandir and ganesh mandir, Haji Noor Patel Market, Mamta Colony, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "095842 42127",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+n+shine+dental+clinic/@22.731945,75.9103355,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e35216fb3dbd:0x3643b2eb9a67618f!8m2!3d22.731945!4d75.9103355!16s%2Fg%2F11fqz8d1d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+n+shine+dental+clinic/@22.731945,75.9103355,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e35216fb3dbd:0x3643b2eb9a67618f!8m2!3d22.731945!4d75.9103355!16s%2Fg%2F11fqz8d1d4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.731945,
+      "lng": 75.9103355,
+      "label": "Smile n shine dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smylexl-dental-clinic-basant-vihar-vijay-nagar-indore-indore",
+    "name": "SmyleXL Dental Clinic Basant Vihar Vijay Nagar Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, SmyleXL Dental Clinic Basant Vihar Vijay Nagar Indore offers coordinated hospital care with major focus on Oral Surgery In Indore. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079990 35453",
+    "alternatePhone": "",
+    "website": "https://smylexl.com/dental-clinic-in-vijay-nagar-indore/",
+    "address": "Bh. Satya Sai School, A-9, AB Rd, Vasant Vihar Colony, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vasant Vihar Colony",
+    "landmark": "AB Rd",
+    "emergencyContact": "079990 35453",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Basant+Vihar+Vijay+Nagar+Indore/@22.7571768,75.8982447,17z/data=!3m1!4b1!4m6!3m5!1s0x396303b88b930659:0x13964ff1110dfae0!8m2!3d22.7571768!4d75.8982447!16s%2Fg%2F11y7b0lt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Basant+Vihar+Vijay+Nagar+Indore/@22.7571768,75.8982447,17z/data=!3m1!4b1!4m6!3m5!1s0x396303b88b930659:0x13964ff1110dfae0!8m2!3d22.7571768!4d75.8982447!16s%2Fg%2F11y7b0lt1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7571768,
+      "lng": 75.8982447,
+      "label": "SmyleXL Dental Clinic Basant Vihar Vijay Nagar Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sng-hospital-indore",
+    "name": "SNG Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SNG Hospital has built a strong reputation in Indore for multidisciplinary treatment pathways covering General Surgery In Indore. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073142 19191",
+    "alternatePhone": "",
+    "website": "http://www.snghospital.com/",
+    "address": "Navkar - II Apartment, Banwari Lal Jaju Marg, near Jain Temple, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "near Jain Temple, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "073142 19191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SNG+Hospital/@22.7202848,75.8816224,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf0e614e0c5:0x728aa04c2a007156!8m2!3d22.7202848!4d75.8816224!16s%2Fg%2F11lk1j7p2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SNG+Hospital/@22.7202848,75.8816224,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdf0e614e0c5:0x728aa04c2a007156!8m2!3d22.7202848!4d75.8816224!16s%2Fg%2F11lk1j7p2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7202848,
+      "lng": 75.8816224,
+      "label": "SNG Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsh-skin-hair-and-aesthetic-clinic-indore",
+    "name": "Sparsh Skin Hair And Aesthetic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Sparsh Skin Hair And Aesthetic Clinic for its strength in Plastic Surgery In Indore. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070890 45733",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ranjeet hanuman road, Near Shree Ranjit Hanuman Mandir, Dravid Nagar, Scheme No 71, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Scheme No 71",
+    "landmark": "Near Shree Ranjit Hanuman Mandir, Dravid Nagar, Scheme No 71, Indore, Madhya Pradesh 452009",
+    "emergencyContact": "070890 45733",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Sparsh+Skin+Hair+And+Aesthetic+Clinic/@22.7011523,75.837527,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb30a13573d:0xf9f181857be7796f!8m2!3d22.7011523!4d75.837527!16s%2Fg%2F1q62fxt_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sparsh+Skin+Hair+And+Aesthetic+Clinic/@22.7011523,75.837527,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdb30a13573d:0xf9f181857be7796f!8m2!3d22.7011523!4d75.837527!16s%2Fg%2F1q62fxt_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7011523,
+      "lng": 75.837527,
+      "label": "Sparsh Skin Hair And Aesthetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "speciality-dental-care-indore",
+    "name": "Speciality Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, Speciality Dental Care delivers integrated care across Oral Surgery In Indore and Speciality Care. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098930 90616",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, 28/2 Old Palasia Amar Darshan Building, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "28/2 Old Palasia Amar Darshan Building",
+    "landmark": "Indore",
+    "emergencyContact": "098930 90616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Speciality+Dental+Care/@22.7255103,75.8948129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda0adb68ad7:0xf404f5522aa37f94!8m2!3d22.7255103!4d75.8948129!16s%2Fg%2F11h1yh8c5r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Speciality+Dental+Care/@22.7255103,75.8948129,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fda0adb68ad7:0xf404f5522aa37f94!8m2!3d22.7255103!4d75.8948129!16s%2Fg%2F11h1yh8c5r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7255103,
+      "lng": 75.8948129,
+      "label": "Speciality Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suraj-vision-and-dental-centre-dental-clinic-in-indore-eye-clinic-in-indore-indore",
+    "name": "Suraj Vision And Dental Centre - Dental Clinic in Indore | Eye Clinic in Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Suraj Vision And Dental Centre - Dental Clinic in Indore | Eye Clinic in Indore offers coordinated hospital care with major focus on Oral Surgery In Indore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088716 86517",
+    "alternatePhone": "",
+    "website": "http://surajvisioncentre.in/index.html",
+    "address": "Yashwant Plaza G-117-118, Near, Railway Station Rd, Agarwal Nagar, Chhoti Gwaltoli, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Chhoti Gwaltoli",
+    "landmark": "Railway Station Rd",
+    "emergencyContact": "088716 86517",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Suraj+Vision+And+Dental+Centre+-+Dental+Clinic+in+Indore+%7C+Eye+Clinic+in+Indore/@22.7187954,75.8694071,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f0a449c9:0x9eaffe0d0d8688b4!8m2!3d22.7187954!4d75.8694071!16s%2Fg%2F119v92nv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suraj+Vision+And+Dental+Centre+-+Dental+Clinic+in+Indore+%7C+Eye+Clinic+in+Indore/@22.7187954,75.8694071,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd15f0a449c9:0x9eaffe0d0d8688b4!8m2!3d22.7187954!4d75.8694071!16s%2Fg%2F119v92nv6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7187954,
+      "lng": 75.8694071,
+      "label": "Suraj Vision And Dental Centre - Dental Clinic in Indore | Eye Clinic in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surana-dental-clinic-indore",
+    "name": "Surana Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, Surana Dental Clinic delivers integrated care across Oral Surgery In Indore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094259 21793",
+    "alternatePhone": "",
+    "website": "https://suranadentalclinic.com/",
+    "address": "103, First Floor, Sanrachna Avenue, Above Sodani Diagnostic, near HDFC Bank, Satya Sai Chouraha, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "near HDFC Bank, Satya Sai Chouraha, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "094259 21793",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Surana+Dental+Clinic/@22.7557821,75.8965123,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af45d8f831:0x594d8a0f1d292998!8m2!3d22.7557821!4d75.8965123!16s%2Fg%2F1q62kk3vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Surana+Dental+Clinic/@22.7557821,75.8965123,17z/data=!3m1!4b1!4m6!3m5!1s0x396302af45d8f831:0x594d8a0f1d292998!8m2!3d22.7557821!4d75.8965123!16s%2Fg%2F1q62kk3vn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7557821,
+      "lng": 75.8965123,
+      "label": "Surana Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suyash-hospital-indore",
+    "name": "Suyash Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Suyash Hospital offers coordinated hospital care with major focus on Neurosurgeon In Indore. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073124 93911",
+    "alternatePhone": "",
+    "website": "http://www.suyashhospital.com/",
+    "address": "5, 1, AB Rd, opposite MGM Medical College, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "South Tukoganj",
+    "landmark": "opposite MGM Medical College, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "073124 93911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Suyash+Hospital/@22.7137987,75.8840006,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c94dff33:0x1921cc5ec69a838!8m2!3d22.7137987!4d75.8840006!16s%2Fg%2F1thxjgjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suyash+Hospital/@22.7137987,75.8840006,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd24c94dff33:0x1921cc5ec69a838!8m2!3d22.7137987!4d75.8840006!16s%2Fg%2F1thxjgjf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7137987,
+      "lng": 75.8840006,
+      "label": "Suyash Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "test-tube-baby-centre-indore",
+    "name": "Test Tube Baby Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Test Tube Baby Centre brings together specialists for IVF In Indore. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073125 79595",
+    "alternatePhone": "",
+    "website": "http://www.asianinfertility.com/",
+    "address": "10-E, LIG Cir, Near Christian Eminent School, Sector F, LIG Colony, Indore, Madhya Pradesh 452011",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452011",
+    "locality": "LIG Colony",
+    "landmark": "Near Christian Eminent School, Sector F, LIG Colony, Indore, Madhya Pradesh 452011",
+    "emergencyContact": "073125 79595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Test+Tube+Baby+Centre/@22.735436,75.8877973,15z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xcf24204044639b1!8m2!3d22.735436!4d75.8877973!16s%2Fg%2F1v82_hp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Test+Tube+Baby+Centre/@22.735436,75.8877973,15z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0xcf24204044639b1!8m2!3d22.735436!4d75.8877973!16s%2Fg%2F1v82_hp3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.735436,
+      "lng": 75.8877973,
+      "label": "Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dental-360-dental-clinic-best-dentist-in-indore-dr-manish-patel-dentist-indore",
+    "name": "The Dental 360 dental clinic | Best dentist in Indore |Dr Manish Patel dentist | दाँत का अस्पताल",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Dental 360 dental clinic | Best dentist in Indore |Dr Manish Patel dentist | दाँत का अस्पताल is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099260 86732",
+    "alternatePhone": "",
+    "website": "https://canva.link/thedental360",
+    "address": "Gate no -2, Babu Lalchand Chajlani Rd, Lokmanya Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Lokmanya Nagar",
+    "landmark": "Lokmanya Nagar",
+    "emergencyContact": "099260 86732",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dental+360+dental+clinic+%7C+Best+dentist+in+Indore+%7CDr+Manish+Patel+dentist+%7C+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@22.6938244,75.8443233,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd5d6bf72a4d:0x47e51cfda7018785!8m2!3d22.6938244!4d75.8443233!16s%2Fg%2F11kpwyd0yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dental+360+dental+clinic+%7C+Best+dentist+in+Indore+%7CDr+Manish+Patel+dentist+%7C+%E0%A4%A6%E0%A4%BE%E0%A4%81%E0%A4%A4+%E0%A4%95%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BE%E0%A4%B2/@22.6938244,75.8443233,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd5d6bf72a4d:0x47e51cfda7018785!8m2!3d22.6938244!4d75.8443233!16s%2Fg%2F11kpwyd0yv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6938244,
+      "lng": 75.8443233,
+      "label": "The Dental 360 dental clinic | Best dentist in Indore |Dr Manish Patel dentist | दाँत का अस्पताल",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-shining-32-dental-clinic-braces-implant-and-root-canal-centre-best-dentist-indore",
+    "name": "The Shining 32 Dental Clinic Braces implant and root canal centre. Best dentist",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, The Shining 32 Dental Clinic Braces implant and root canal centre. Best dentist brings together specialists for Oral Surgery In Indore and Dentist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086021 79039",
+    "alternatePhone": "",
+    "website": "https://theshining32.in/",
+    "address": "104, First Floor, Starlit Tower, Yeshwant Niwas Rd, near Lantern Square, Sanghi Colony, Yeshwant Colony, Indore, Madhya Pradesh 452003",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452003",
+    "locality": "Yeshwant Colony",
+    "landmark": "near Lantern Square, Sanghi Colony, Yeshwant Colony, Indore, Madhya Pradesh 452003",
+    "emergencyContact": "086021 79039",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Shining+32+Dental+Clinic+Braces+implant+and+root+canal+centre.+Best+dentist/@22.723738,75.874385,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1660af26fb:0x4bdcceef078bfbdc!8m2!3d22.723738!4d75.874385!16s%2Fg%2F11gdqtmxbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Shining+32+Dental+Clinic+Braces+implant+and+root+canal+centre.+Best+dentist/@22.723738,75.874385,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd1660af26fb:0x4bdcceef078bfbdc!8m2!3d22.723738!4d75.874385!16s%2Fg%2F11gdqtmxbl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.723738,
+      "lng": 75.874385,
+      "label": "The Shining 32 Dental Clinic Braces implant and root canal centre. Best dentist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-smile-store-advanced-dental-care-and-implant-centre-indore",
+    "name": "The Smile Store - Advanced Dental Care & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose The Smile Store - Advanced Dental Care & Implant Centre for its strength in Oral Surgery In Indore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073149 99655",
+    "alternatePhone": "",
+    "website": "https://thesmilestore.in/",
+    "address": "Sundar Sadan 3, 102, Annapurna Rd, sector 2, Vaishali Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Vaishali Nagar",
+    "landmark": "Annapurna Rd",
+    "emergencyContact": "073149 99655",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Smile+Store+-+Advanced+Dental+Care+%26+Implant+Centre/@22.6809571,75.8347218,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2b41b5d563:0xd8b9e6898b458828!8m2!3d22.6809571!4d75.8347218!16s%2Fg%2F11fjzkcns6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Smile+Store+-+Advanced+Dental+Care+%26+Implant+Centre/@22.6809571,75.8347218,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2b41b5d563:0xd8b9e6898b458828!8m2!3d22.6809571!4d75.8347218!16s%2Fg%2F11fjzkcns6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6809571,
+      "lng": 75.8347218,
+      "label": "The Smile Store - Advanced Dental Care & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-sneh-care-co-clinic-best-cosmetologist-in-indore-indore",
+    "name": "The Sneh Care Co. Clinic - Best Cosmetologist in Indore",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Indore, The Sneh Care Co. Clinic - Best Cosmetologist in Indore delivers integrated care across Cosmetic Surgery In Indore. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077710 55564",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sunder Nagar Extenstion, Bhawrasla, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Bhawrasla",
+    "landmark": "Indore",
+    "emergencyContact": "077710 55564",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/The+Sneh+Care+Co.+Clinic+-+Best+Cosmetologist+in+Indore/@22.7624464,75.8691152,17z/data=!3m1!4b1!4m6!3m5!1s0x396303ac819ba2d9:0xe4399f0b89795dac!8m2!3d22.7624464!4d75.8691152!16s%2Fg%2F11f09qhb3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Sneh+Care+Co.+Clinic+-+Best+Cosmetologist+in+Indore/@22.7624464,75.8691152,17z/data=!3m1!4b1!4m6!3m5!1s0x396303ac819ba2d9:0xe4399f0b89795dac!8m2!3d22.7624464!4d75.8691152!16s%2Fg%2F11f09qhb3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7624464,
+      "lng": 75.8691152,
+      "label": "The Sneh Care Co. Clinic - Best Cosmetologist in Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-savvy-dental-clinic-indore",
+    "name": "Tooth Savvy Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tooth Savvy Dental Clinic is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094251 08728",
+    "alternatePhone": "",
+    "website": "",
+    "address": "67, opposite Neighbourhood Cafe, near Electricity Office, Saket Nagar, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Saket Nagar",
+    "landmark": "near Electricity Office, Saket Nagar, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "094251 08728",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Savvy+Dental+Clinic/@22.7254413,75.8978028,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fddfee3194df:0x2f066d4ad87d4c80!8m2!3d22.7254413!4d75.8978028!16s%2Fg%2F11fswclnn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Savvy+Dental+Clinic/@22.7254413,75.8978028,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fddfee3194df:0x2f066d4ad87d4c80!8m2!3d22.7254413!4d75.8978028!16s%2Fg%2F11fswclnn4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7254413,
+      "lng": 75.8978028,
+      "label": "Tooth Savvy Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uk-dental-anand-bazar-indore-indore",
+    "name": "UK Dental | Anand Bazar | Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose UK Dental | Anand Bazar | Indore for its strength in Oral Surgery In Indore. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099267 77225",
+    "alternatePhone": "",
+    "website": "https://ukdental.in/",
+    "address": "Shop No. 2, 758/2, Anand Bazar Rd, opposite Chappan Bhog, Near Saket Square, Old Palasia, Indore, Madhya Pradesh 452018",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452018",
+    "locality": "Old Palasia",
+    "landmark": "Near Saket Square, Old Palasia, Indore, Madhya Pradesh 452018",
+    "emergencyContact": "099267 77225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Anand+Bazar+%7C+Indore/@22.7257817,75.8946586,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd045ddbc7af:0x88f1ecac09f5593e!8m2!3d22.7257817!4d75.8946586!16s%2Fg%2F11vz6832r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UK+Dental+%7C+Anand+Bazar+%7C+Indore/@22.7257817,75.8946586,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd045ddbc7af:0x88f1ecac09f5593e!8m2!3d22.7257817!4d75.8946586!16s%2Fg%2F11vz6832r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7257817,
+      "lng": 75.8946586,
+      "label": "UK Dental | Anand Bazar | Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uk-dental-kalani-nagar-indore-indore",
+    "name": "UK Dental | Kalani Nagar | Indore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UK Dental | Kalani Nagar | Indore has built a strong reputation in Indore for multidisciplinary treatment pathways covering Oral Surgery In Indore. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099267 77225",
+    "alternatePhone": "",
+    "website": "https://ukdental.in/",
+    "address": "10, Airport Rd, Anjani Nagar, Parihar Market, Kalani Nagar, Indore, Madhya Pradesh 452005",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452005",
+    "locality": "Kalani Nagar",
+    "landmark": "Anjani Nagar",
+    "emergencyContact": "099267 77225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Kalani+Nagar+%7C+Indore/@22.7247658,75.8252075,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2436ce2ec3:0xff56fa6d541981d5!8m2!3d22.7247658!4d75.8252075!16s%2Fg%2F11vw_vstz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UK+Dental+%7C+Kalani+Nagar+%7C+Indore/@22.7247658,75.8252075,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd2436ce2ec3:0xff56fa6d541981d5!8m2!3d22.7247658!4d75.8252075!16s%2Fg%2F11vw_vstz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7247658,
+      "lng": 75.8252075,
+      "label": "UK Dental | Kalani Nagar | Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uk-dental-sch-no-140-pipliyahana-indore",
+    "name": "UK Dental | Sch. No.140 (Pipliyahana)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UK Dental | Sch. No.140 (Pipliyahana) is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099267 77225",
+    "alternatePhone": "",
+    "website": "https://ukdental.in/",
+    "address": "450, GREATER BRIJESHWARI, 450, near Ultrascan, behind JBM sweets, Sector A, GREATER BRIJESHWARI, Indore, Madhya Pradesh 452016",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452016",
+    "locality": "GREATER BRIJESHWARI",
+    "landmark": "near Ultrascan, behind JBM sweets, Sector A, GREATER BRIJESHWARI, Indore, Madhya Pradesh 452016",
+    "emergencyContact": "099267 77225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UK+Dental+%7C+Sch.+No.140+(Pipliyahana)/@22.7033997,75.9134595,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ca7f16373d:0xbe5bbee6addcd95e!8m2!3d22.7033997!4d75.9134595!16s%2Fg%2F11y486cfg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UK+Dental+%7C+Sch.+No.140+(Pipliyahana)/@22.7033997,75.9134595,17z/data=!3m1!4b1!4m6!3m5!1s0x3962e3ca7f16373d:0xbe5bbee6addcd95e!8m2!3d22.7033997!4d75.9134595!16s%2Fg%2F11y486cfg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7033997,
+      "lng": 75.9134595,
+      "label": "UK Dental | Sch. No.140 (Pipliyahana)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urocare-hospital-scheme-94c-between-bombay-hospital-and-radisson-hotel-square",
+    "name": "UROCARE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UROCARE HOSPITAL has built a strong reputation in Scheme 94C Between Bombay Hospital And Radisson Hotel Square for multidisciplinary treatment pathways covering General Surgery In Indore. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081204 64646",
+    "alternatePhone": "",
+    "website": "http://www.urocare.co.in/",
+    "address": "EC-72,73, Ring Road (Service Lane), Scheme 94C Between Bombay Hospital And Radisson Hotel Square, Madhya Pradesh 452010",
+    "city": "Scheme 94C Between Bombay Hospital And Radisson Hotel Square",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Ring Road (Service Lane)",
+    "landmark": "Ring Road (Service Lane)",
+    "emergencyContact": "081204 64646",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UROCARE+HOSPITAL/@22.7518904,75.9042788,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x7e64ff7e00e88341!8m2!3d22.7518904!4d75.9042788!16s%2Fg%2F1tfph6j2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UROCARE+HOSPITAL/@22.7518904,75.9042788,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd6d5c629411:0x7e64ff7e00e88341!8m2!3d22.7518904!4d75.9042788!16s%2Fg%2F1tfph6j2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7518904,
+      "lng": 75.9042788,
+      "label": "UROCARE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-one-hospital-indore",
+    "name": "V One Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "V One Hospital is a prominent hospital in Indore, known for structured tertiary care across General Surgery In Indore. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073135 88888",
+    "alternatePhone": "",
+    "website": "http://www.vonehospital.com/",
+    "address": "2/1, AB Rd, near Geeta Bhawan, Chouraha, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Chouraha",
+    "landmark": "near Geeta Bhawan, Chouraha, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "073135 88888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/V+One+Hospital/@22.7166843,75.8842311,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ba636e09:0xaaa9249802b39ea4!8m2!3d22.7166843!4d75.8842311!16s%2Fg%2F11rhkvqybq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V+One+Hospital/@22.7166843,75.8842311,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd36ba636e09:0xaaa9249802b39ea4!8m2!3d22.7166843!4d75.8842311!16s%2Fg%2F11rhkvqybq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7166843,
+      "lng": 75.8842311,
+      "label": "V One Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vardaan-fertility-center-indore",
+    "name": "Vardaan Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Vardaan Fertility Center brings together specialists for IVF In Indore and Fertility Care. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082692 60260",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no 90, AB Rd, Maguda Nagar, Vijay Nagar, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Scheme No 54",
+    "landmark": "Maguda Nagar",
+    "emergencyContact": "082692 60260",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Vardaan+Fertility+Center/@22.7532406,75.883495,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dbea110dc35:0xf24220005d60cb8f!8m2!3d22.7532406!4d75.883495!16s%2Fg%2F11gntv5xvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vardaan+Fertility+Center/@22.7532406,75.883495,17z/data=!3m1!4b1!4m6!3m5!1s0x39631dbea110dc35:0xf24220005d60cb8f!8m2!3d22.7532406!4d75.883495!16s%2Fg%2F11gntv5xvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7532406,
+      "lng": 75.883495,
+      "label": "Vardaan Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "varma-union-hospital-indore",
+    "name": "Varma Union Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Indore often choose Varma Union Hospital for its strength in Oncologist Surgery In Indore. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099930 87887",
+    "alternatePhone": "",
+    "website": "https://varmaunionhospital.com/",
+    "address": "120, Dhar Rd, Gurunanak Timber Market, Indore, Madhya Pradesh 452002",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452002",
+    "locality": "Gurunanak Timber Market",
+    "landmark": "Gurunanak Timber Market",
+    "emergencyContact": "099930 87887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Varma+Union+Hospital/@22.711952,75.838128,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd3ebbfb295:0x601c8695b6341f3a!8m2!3d22.711952!4d75.838128!16s%2Fg%2F11pkfnvdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Varma+Union+Hospital/@22.711952,75.838128,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fdd3ebbfb295:0x601c8695b6341f3a!8m2!3d22.711952!4d75.838128!16s%2Fg%2F11pkfnvdr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.711952,
+      "lng": 75.838128,
+      "label": "Varma Union Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "virang-s-dental-care-and-implant-center-indore",
+    "name": "Virang's Dental Care and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Virang's Dental Care and Implant Center is a prominent dental clinic in Indore, known for structured tertiary care across Oral Surgery In Indore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098260 30762",
+    "alternatePhone": "",
+    "website": "https://virang.in/",
+    "address": "Bus Stand, 103 Pukhraj Corporate Navlakha main road Infront of Navlakha, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "103 Pukhraj Corporate Navlakha main road Infront of Navlakha",
+    "landmark": "Indore",
+    "emergencyContact": "098260 30762",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Virang's+Dental+Care+and+Implant+Center/@22.7004138,75.8759805,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd18bb4d30d7:0x2221a8137f1c3f17!8m2!3d22.7004138!4d75.8759805!16s%2Fg%2F1v6p2pdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Virang's+Dental+Care+and+Implant+Center/@22.7004138,75.8759805,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd18bb4d30d7:0x2221a8137f1c3f17!8m2!3d22.7004138!4d75.8759805!16s%2Fg%2F1v6p2pdh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7004138,
+      "lng": 75.8759805,
+      "label": "Virang's Dental Care and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vishesh-jupiter-hospital-indore",
+    "name": "Vishesh Jupiter Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vishesh Jupiter Hospital is a prominent hospital in Indore, known for structured tertiary care across Oncologist Surgery In Indore. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073147 18111",
+    "alternatePhone": "",
+    "website": "https://www.jupiterhospital.com/indore/",
+    "address": "Scheme No 94, Ring Road, near Teen Imli Chauraha, Sector 1, Radha Swami Nagar, Indore, Madhya Pradesh 452001",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452001",
+    "locality": "Radha Swami Nagar",
+    "landmark": "near Teen Imli Chauraha, Sector 1, Radha Swami Nagar, Indore, Madhya Pradesh 452001",
+    "emergencyContact": "073147 18111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vishesh+Jupiter+Hospital/@22.6838092,75.8816723,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d28522ddaa7:0x82accb333fb3f6d4!8m2!3d22.6838092!4d75.8816723!16s%2Fg%2F11q7mh7zsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vishesh+Jupiter+Hospital/@22.6838092,75.8816723,17z/data=!3m1!4b1!4m6!3m5!1s0x39631d28522ddaa7:0x82accb333fb3f6d4!8m2!3d22.6838092!4d75.8816723!16s%2Fg%2F11q7mh7zsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6838092,
+      "lng": 75.8816723,
+      "label": "Vishesh Jupiter Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vivek-memorial-hospital-indore-indore",
+    "name": "Vivek Memorial Hospital Indore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Indore, Vivek Memorial Hospital Indore brings together specialists for Spine Surgery In Indore. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083058 73191",
+    "alternatePhone": "",
+    "website": "http://vivekmemorialhospital.in/",
+    "address": "11-C/3, AB Rd, Utsah Chouraha, Slice 3, Aranya Nagar, Scheme 78, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vijay Nagar",
+    "landmark": "Utsah Chouraha",
+    "emergencyContact": "083058 73191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vivek+Memorial+Hospital+Indore/@22.7663914,75.8995403,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7376e35443:0x7e6cdff90ad2a9f6!8m2!3d22.7663914!4d75.8995403!16s%2Fg%2F11s4_zmmcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vivek+Memorial+Hospital+Indore/@22.7663914,75.8995403,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd7376e35443:0x7e6cdff90ad2a9f6!8m2!3d22.7663914!4d75.8995403!16s%2Fg%2F11s4_zmmcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7663914,
+      "lng": 75.8995403,
+      "label": "Vivek Memorial Hospital Indore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yaami-fertility-and-ivf-center-indore-best-ivf-center-in-indore-madhya-pradesh-indore",
+    "name": "Yaami Fertility and IVF Center Indore - Best IVF Center in Indore, Madhya Pradesh",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Indore, Yaami Fertility and IVF Center Indore - Best IVF Center in Indore, Madhya Pradesh offers coordinated hospital care with major focus on IVF In Indore and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078800 07281",
+    "alternatePhone": "",
+    "website": "https://www.yaamifertility.com/",
+    "address": "Third floor, Yaami Fertility and IVF center, Vidyaraj Annexe, near Nera Satya Sai Square, above SBI E LOBBY, Vijay Nagar, Vasant Vihar Colony, Indore, Madhya Pradesh 452010",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452010",
+    "locality": "Vasant Vihar Colony",
+    "landmark": "near Nera Satya Sai Square, above SBI E LOBBY, Vijay Nagar, Vasant Vihar Colony, Indore, Madhya Pradesh 452010",
+    "emergencyContact": "078800 07281",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Indore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yaami+Fertility+and+IVF+Center+Indore+-+Best+IVF+Center+in+Indore,+Madhya+Pradesh/@22.7587475,75.8982551,17z/data=!3m1!4b1!4m6!3m5!1s0x396303db7621a377:0x688e4e9728dec0d7!8m2!3d22.7587475!4d75.8982551!16s%2Fg%2F11r_rtgt80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yaami+Fertility+and+IVF+Center+Indore+-+Best+IVF+Center+in+Indore,+Madhya+Pradesh/@22.7587475,75.8982551,17z/data=!3m1!4b1!4m6!3m5!1s0x396303db7621a377:0x688e4e9728dec0d7!8m2!3d22.7587475!4d75.8982551!16s%2Fg%2F11r_rtgt80?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.7587475,
+      "lng": 75.8982551,
+      "label": "Yaami Fertility and IVF Center Indore - Best IVF Center in Indore, Madhya Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashlok-dental-face-and-jaw-surgery-centre-indore",
+    "name": "Yashlok Dental Face and Jaw Surgery Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Indore, Yashlok Dental Face and Jaw Surgery Centre delivers integrated care across Oral Surgery In Indore. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083193 23797",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2335E, Sudama Nagar Service Rd, Sector E, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "pincode": "452009",
+    "locality": "Sudama Nagar",
+    "landmark": "Sector E",
+    "emergencyContact": "083193 23797",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Indore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Yashlok+Dental+Face+and+Jaw+Surgery+Centre/@22.6905021,75.8283631,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a12cbf08f:0x94acf8c7e2805d0c!8m2!3d22.6905021!4d75.8283631!16s%2Fg%2F11trgd6v98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashlok+Dental+Face+and+Jaw+Surgery+Centre/@22.6905021,75.8283631,17z/data=!3m1!4b1!4m6!3m5!1s0x3962fd4a12cbf08f:0x94acf8c7e2805d0c!8m2!3d22.6905021!4d75.8283631!16s%2Fg%2F11trgd6v98?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.6905021,
+      "lng": 75.8283631,
+      "label": "Yashlok Dental Face and Jaw Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

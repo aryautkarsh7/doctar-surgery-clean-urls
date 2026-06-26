@@ -1,0 +1,3410 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "bandodkar-clinic-mapusa",
+    "name": "Bandodkar Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mapusa often choose Bandodkar Clinic for its strength in Liver Transplant Surgery In Mapusa. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098231 00705",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Boshan Homes, Calangute Road, Day Care Surgery Center, Opposite Bodgeshwar Temple, Mapusa, Goa, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Opposite Bodgeshwar Temple",
+    "landmark": "Opposite Bodgeshwar Temple, Mapusa, Goa, Mapusa, Goa 403507",
+    "emergencyContact": "098231 00705",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Bandodkar+Clinic/data=!4m7!3m6!1s0x3bbfeafb4be96dc9:0xead9d31cc58c00b8!8m2!3d15.5872305!4d73.806312!16s%2Fg%2F11b6dg4h2l!19sChIJyW3pS_vqvzsRuACMxRzT2eo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bandodkar+Clinic/data=!4m7!3m6!1s0x3bbfeafb4be96dc9:0xead9d31cc58c00b8!8m2!3d15.5872305!4d73.806312!16s%2Fg%2F11b6dg4h2l!19sChIJyW3pS_vqvzsRuACMxRzT2eo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5872305,
+      "lng": 73.806312,
+      "label": "Bandodkar Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "district-hospital-mapusa",
+    "name": "District Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mapusa, District Hospital delivers integrated care across Kidney Transplant Surgery In Mapusa. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mapusa Jamatkhana Road, Peddem, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Peddem",
+    "landmark": "Mapusa",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/District+Hospital/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb20441cb14f:0x3780637101679c2f!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F1tf5zr3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/District+Hospital/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb20441cb14f:0x3780637101679c2f!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F1tf5zr3z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5968924,
+      "lng": 73.8201766,
+      "label": "District Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dncc-hair-transplant-skin-and-obesity-centre-panjim-panaji",
+    "name": "DNCC Hair Transplant, Skin & Obesity Centre - Panjim",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Panaji often choose DNCC Hair Transplant, Skin & Obesity Centre - Panjim for its strength in Kidney Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074149 69509",
+    "alternatePhone": "",
+    "website": "https://www.dncc.in/",
+    "address": "A wing, Rizvi Tower, 101, 18th June Rd, St. Inez, Santa Inez, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Santa Inez",
+    "landmark": "101",
+    "emergencyContact": "074149 69509",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DrNishitaCosmeticClinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/dncc_clinic/",
+    "linkedin": "https://www.linkedin.com/company/7581646/admin/page-posts/published/",
+    "youtube": "https://www.youtube.com",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DNCC+Hair+Transplant,+Skin+%26+Obesity+Centre+-+Panjim/@15.4949581,73.8207821,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc08ea46efc69:0x2496ee8c9719efd9!8m2!3d15.4949581!4d73.8207821!16s%2Fg%2F11dxd2cn9k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4949581,
+      "lng": 73.8207821,
+      "label": "DNCC Hair Transplant, Skin & Obesity Centre - Panjim",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ess-bee-hospital-kupwara-mapusa",
+    "name": "ESS BEE hospital Kupwara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mapusa, ESS BEE hospital Kupwara offers coordinated hospital care with major focus on Liver Transplant Surgery In Mapusa. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HRV8+9CC, District Hospital Rd, Dangui Colony, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Dangui Colony",
+    "landmark": "Dangui Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/ESS+BEE+hospital+Kupwara/@15.5934254,73.8160045,17z/data=!3m1!4b1!4m6!3m5!1s0x38e11f8fbec78185:0xc50ebf10f0965fc9!8m2!3d15.5934254!4d73.8160045!16s%2Fg%2F11c71ln2nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ESS+BEE+hospital+Kupwara/@15.5934254,73.8160045,17z/data=!3m1!4b1!4m6!3m5!1s0x38e11f8fbec78185:0xc50ebf10f0965fc9!8m2!3d15.5934254!4d73.8160045!16s%2Fg%2F11c71ln2nw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5934254,
+      "lng": 73.8160045,
+      "label": "ESS BEE hospital Kupwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "face-360-sangolda",
+    "name": "Face 360",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Face 360 is a prominent hair transplantation clinic in Sangolda, known for structured tertiary care across Kidney Transplant Surgery In Mapusa. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091460 63360",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Sushila Apartment, next to Bharat petrol pump, Porvorim, Sangolda, Goa 403521",
+    "city": "Sangolda",
+    "state": "Goa",
+    "pincode": "403521",
+    "locality": "Porvorim",
+    "landmark": "next to Bharat petrol pump",
+    "emergencyContact": "091460 63360",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Face+360/@15.5190664,73.8290214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc18a1e63225b:0xe5229b1b98553c07!8m2!3d15.5190664!4d73.8290214!16s%2Fg%2F11svsbk5cm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5190664,
+      "lng": 73.8290214,
+      "label": "Face 360",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "galaxy-hospital-mapusa-goa-mapusa",
+    "name": "Galaxy Hospital Mapusa Goa",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mapusa, Galaxy Hospital Mapusa Goa brings together specialists for Liver Transplant Surgery In Mapusa. Operational strengths including Google rating 3.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083800 65970",
+    "alternatePhone": "",
+    "website": "https://www.galaxyhospitalgoa.com/",
+    "address": "near Severina Gardens Xelpem, Duler Ground Rd, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Duler Ground Rd",
+    "landmark": "Mapusa",
+    "emergencyContact": "083800 65970",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Galaxy+Hospital+Mapusa+Goa/data=!4m7!3m6!1s0x3bbfeb19fda362a9:0xded12d6f905c6f2!8m2!3d15.6059159!4d73.8131328!16s%2Fg%2F11c60j5bpy!19sChIJqWKj_RnrvzsR8sYF-dYS7Q0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6059159,
+      "lng": 73.8131328,
+      "label": "Galaxy Hospital Mapusa Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "goa-robotic-surgery-centre-panaji",
+    "name": "Goa Robotic Surgery Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Panaji, Goa Robotic Surgery Centre brings together specialists for Liver Transplant Surgery In Mapusa. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://goaroboticsurgerycentre.com/",
+    "address": "2nd Floor, Urban Co-op Bank, Aakash Bhavan, above Mapusa, opp. Mathias Plaza, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "opp. Mathias Plaza",
+    "landmark": "Aakash Bhavan",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Goa+Robotic+Surgery+Centre/@15.4967374,73.8236188,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1f846857447:0xb624c7b13d48d455!8m2!3d15.4967374!4d73.8236188!16s%2Fg%2F11p47sm9z4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4967374,
+      "lng": 73.8236188,
+      "label": "Goa Robotic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hair-transplant-and-cosmetic-clinic-my-looks-care-looks-cosmetic-clinic-best-aesthetic-clinic-in-panjim-skin-clinic-panaji",
+    "name": "Hair Transplant and Cosmetic Clinic | My Looks Care (Looks Cosmetic Clinic) | Best Aesthetic Clinic in Panjim| Skin Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hair Transplant and Cosmetic Clinic | My Looks Care (Looks Cosmetic Clinic) | Best Aesthetic Clinic in Panjim| Skin Clinic is a prominent hair transplantation clinic in Panaji, known for structured tertiary care across Kidney Transplant Surgery In Mapusa. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091307 01787",
+    "alternatePhone": "",
+    "website": "https://www.mylookscare.com/",
+    "address": "3rd floor, Edcon Galleria, 302 - 303, opp. Sunshine Building, Near Hotel Delmon, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Near Hotel Delmon",
+    "landmark": "Near Hotel Delmon, Panaji, Goa 403001",
+    "emergencyContact": "091307 01787",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+%28Looks+Cosmetic+Clinic%29+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/data=!4m7!3m6!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6!19sChIJ0az3AIzAvzsRSLejYnzIhRI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hair+Transplant+and+Cosmetic+Clinic+%7C+My+Looks+Care+%28Looks+Cosmetic+Clinic%29+%7C+Best+Aesthetic+Clinic+in+Panjim%7C+Skin+Clinic/data=!4m7!3m6!1s0x3bbfc08c00f7acd1:0x1285c87c62a3b748!8m2!3d15.4985645!4d73.8240516!16s%2Fg%2F11f2rskkt6!19sChIJ0az3AIzAvzsRSLejYnzIhRI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4985645,
+      "lng": 73.8240516,
+      "label": "Hair Transplant and Cosmetic Clinic | My Looks Care (Looks Cosmetic Clinic) | Best Aesthetic Clinic in Panjim| Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healthway-hospital-panaji",
+    "name": "Healthway Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Panaji, Healthway Hospital brings together specialists for Liver Transplant Surgery In Mapusa. Its infrastructure includes Google rating 3.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083224 24966",
+    "alternatePhone": "",
+    "website": "https://healthwayhospitals.com/",
+    "address": "block B ,1st floor, campal trade centre, Rua Armada Portuguesa, Mala, Fantainhas, Altinho, near People's High School, Fontainhas (quarter), Mala, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Mala",
+    "landmark": "near People's High School, Fontainhas (quarter), Mala, Panaji, Goa 403001",
+    "emergencyContact": "083224 24966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healthway+Hospital/@15.4941205,73.8310719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0854a4ea0d7:0x6b321ec0897e1f68!8m2!3d15.4941205!4d73.8310719!16s%2Fg%2F11b6nplwy6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4941205,
+      "lng": 73.8310719,
+      "label": "Healthway Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "holy-cross-general-remanso-hospital-mapusa",
+    "name": "Holy Cross General Remanso Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mapusa, Holy Cross General Remanso Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Mapusa. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajvaddo, Holy Cross General Remanso Hospital, Mapasa Bardeza, near Alankar Theatre, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "near Alankar Theatre",
+    "landmark": "near Alankar Theatre, Mapusa, Goa 403507",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Holy+Cross+General+Remanso+Hospital/data=!4m7!3m6!1s0x3bbfeae0c649fd57:0x64aa5f51c5e89f8b!8m2!3d15.5899772!4d73.8166973!16s%2Fg%2F1tdwcctw!19sChIJV_1JxuDqvzsRi5_oxVFfqmQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Holy+Cross+General+Remanso+Hospital/data=!4m7!3m6!1s0x3bbfeae0c649fd57:0x64aa5f51c5e89f8b!8m2!3d15.5899772!4d73.8166973!16s%2Fg%2F1tdwcctw!19sChIJV_1JxuDqvzsRi5_oxVFfqmQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5899772,
+      "lng": 73.8166973,
+      "label": "Holy Cross General Remanso Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalangutkar-s-nursing-home-mapusa",
+    "name": "Kalangutkar's Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kalangutkar's Nursing Home has built a strong reputation in Mapusa for multidisciplinary treatment pathways covering Liver Transplant Surgery In Mapusa. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HRR8+888, near Alankar Theatre, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "near Alankar Theatre",
+    "landmark": "near Alankar Theatre, Mapusa, Goa 403507",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Kalangutkar's+Nursing+Home/@15.590797,73.8158244,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae0e6ca0aa9:0xcfbc542351fb8f0a!8m2!3d15.590797!4d73.8158244!16s%2Fg%2F12637txll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalangutkar's+Nursing+Home/@15.590797,73.8158244,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae0e6ca0aa9:0xcfbc542351fb8f0a!8m2!3d15.590797!4d73.8158244!16s%2Fg%2F12637txll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.590797,
+      "lng": 73.8158244,
+      "label": "Kalangutkar's Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "livom-clinic-panaji",
+    "name": "Livom Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Livom Clinic is a prominent hair transplantation clinic in Panaji, known for structured tertiary care across Kidney Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082628 67234",
+    "alternatePhone": "",
+    "website": "https://livomclinic.com/",
+    "address": "Office No. 211, Kamat Grand, St Inez Rd, behind Caculo Mall, Santa Inez, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Santa Inez",
+    "landmark": "St Inez Rd",
+    "emergencyContact": "082628 67234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Livom+Clinic/data=!4m7!3m6!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33!19sChIJ56HGUxPBvzsRajEWSqpfSCE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Livom+Clinic/data=!4m7!3m6!1s0x3bbfc11353c6a1e7:0x21485faa4a16316a!8m2!3d15.4860771!4d73.818024!16s%2Fg%2F11sw_2s_33!19sChIJ56HGUxPBvzsRajEWSqpfSCE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4860771,
+      "lng": 73.818024,
+      "label": "Livom Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospitals-goa-dr-e-borges-rd",
+    "name": "Manipal Hospitals Goa",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manipal Hospitals Goa has built a strong reputation in Dr E Borges Rd for multidisciplinary treatment pathways covering Liver Transplant Surgery In Mapusa. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/goa/?utm_source=gmb",
+    "address": "Dona Paula, Dr E Borges Rd, Goa, Durgavado, Goa 403004",
+    "city": "Dr E Borges Rd",
+    "state": "Goa",
+    "pincode": "403004",
+    "locality": "Dona Paula",
+    "landmark": "Goa",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospitals+Goa/@15.4600884,73.8132224,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0cb6f59b763:0x5fef15ef316a7759!8m2!3d15.4600884!4d73.8132224!16s%2Fg%2F1tgz8t96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4600884,
+      "lng": 73.8132224,
+      "label": "Manipal Hospitals Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medi-services-mapusa",
+    "name": "Medi Services",
+    "type": "Local Medical Services",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted local medical services in Mapusa, Medi Services delivers integrated care across Liver Transplant Surgery In Mapusa and Local Medical Services. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Duler Ground Rd, near Vision Hospital, Karaswada, Mapusa, Goa 403526",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403526",
+    "locality": "Karaswada",
+    "landmark": "near Vision Hospital, Karaswada, Mapusa, Goa 403526",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa",
+      "Local Medical Services"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Medi+Services/@15.605433,73.8198807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb4261b6305b:0x1f28355f329c10a3!8m2!3d15.605433!4d73.8198807!16s%2Fg%2F11vm8cwjw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medi+Services/@15.605433,73.8198807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb4261b6305b:0x1f28355f329c10a3!8m2!3d15.605433!4d73.8198807!16s%2Fg%2F11vm8cwjw7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.605433,
+      "lng": 73.8198807,
+      "label": "Medi Services",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "modern-clinic-mapusa",
+    "name": "Modern Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mapusa, Modern Clinic brings together specialists for Liver Transplant Surgery In Mapusa. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083222 52390",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near, Calangute - Mapusa Rd, Taxi Stand, Aldona, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Aldona",
+    "landmark": "Taxi Stand",
+    "emergencyContact": "083222 52390",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Modern+Clinic/@15.5920368,73.808983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae2fae1f7d9:0x6d4b0f540391957!8m2!3d15.5920368!4d73.808983!16s%2Fg%2F1tk6tc29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Modern+Clinic/@15.5920368,73.808983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeae2fae1f7d9:0x6d4b0f540391957!8m2!3d15.5920368!4d73.808983!16s%2Fg%2F1tk6tc29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5920368,
+      "lng": 73.808983,
+      "label": "Modern Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neel-clinic-health-and-physiotherapy-mapusa",
+    "name": "Neel Clinic (Health and Physiotherapy)",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neel Clinic (Health and Physiotherapy) has built a strong reputation in Mapusa for multidisciplinary treatment pathways covering Spine Surgery In Mapusa and Physiotherapist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Duler Ground Rd, Dangui Colony, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Dangui Colony",
+    "landmark": "Mapusa",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mapusa",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Neel+Clinic+(Health+and+Physiotherapy)/@15.6003765,73.8154449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb3364d2be83:0xb32e3b310771fe5c!8m2!3d15.6003765!4d73.8154449!16s%2Fg%2F11ssfn2m4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neel+Clinic+(Health+and+Physiotherapy)/@15.6003765,73.8154449,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb3364d2be83:0xb32e3b310771fe5c!8m2!3d15.6003765!4d73.8154449!16s%2Fg%2F11ssfn2m4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6003765,
+      "lng": 73.8154449,
+      "label": "Neel Clinic (Health and Physiotherapy)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "north-goa-district-hospital-asilo-mapusa",
+    "name": "North Goa District Hospital (Asilo)",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dialysis center in Mapusa, North Goa District Hospital (Asilo) delivers integrated care across Liver Transplant Surgery In Mapusa and Dialysis Center. With public-facing highlights like Google rating 2.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://apexkidneycare.com/center_list.php?centerarea=Goa",
+    "address": "Asilo District Hospital, Peddem, Karaswada, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Karaswada",
+    "landmark": "Karaswada",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/North+Goa+District+Hospital+(Asilo)/@15.5968924,73.8201766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebd8ba888167:0xe92e711cf882c22c!8m2!3d15.5968924!4d73.8201766!16s%2Fg%2F11ryf3894v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5968924,
+      "lng": 73.8201766,
+      "label": "North Goa District Hospital (Asilo)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pereira-medical-and-research-mapusa-l-mapusa",
+    "name": "Pereira medical and research mapusa L",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mapusa, Pereira medical and research mapusa L brings together specialists for Liver Transplant Surgery In Mapusa. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8/3, Anjuna Mapusa Rd, Khorlim, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Khorlim",
+    "landmark": "Khorlim",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Pereira+medical+and+research+mapusa+L/data=!4m7!3m6!1s0x3bbfeafdc3d3ae9f:0x986dd72d8f048a78!8m2!3d15.5928449!4d73.8026763!16s%2Fg%2F11g8v28466!19sChIJn67Tw_3qvzsReIoEjy3XbZg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pereira+medical+and+research+mapusa+L/data=!4m7!3m6!1s0x3bbfeafdc3d3ae9f:0x986dd72d8f048a78!8m2!3d15.5928449!4d73.8026763!16s%2Fg%2F11g8v28466!19sChIJn67Tw_3qvzsReIoEjy3XbZg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5928449,
+      "lng": 73.8026763,
+      "label": "Pereira medical and research mapusa L",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "physiomantra-physiotherapy-consultation-services-galaxy-hospital-mapusa-goa-mapusa",
+    "name": "PhysioMantra | Physiotherapy Consultation Services | Galaxy Hospital | Mapusa, Goa",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mapusa, PhysioMantra | Physiotherapy Consultation Services | Galaxy Hospital | Mapusa, Goa brings together specialists for Spine Surgery In Mapusa and Physiotherapist. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092721 65061",
+    "alternatePhone": "",
+    "website": "http://www.physiomantra.com/",
+    "address": "Galaxy Hospital, Duler Ground Rd, Mapusa, Goa 403526",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403526",
+    "locality": "Duler Ground Rd",
+    "landmark": "Mapusa",
+    "emergencyContact": "092721 65061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mapusa",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PhysioMantra+%7C+Physiotherapy+Consultation+Services+%7C+Galaxy+Hospital+%7C+Mapusa,+Goa/@15.6059769,73.8130552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebb536cd8599:0x965d764428455be7!8m2!3d15.6059769!4d73.8130552!16s%2Fg%2F11fm7m9p50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PhysioMantra+%7C+Physiotherapy+Consultation+Services+%7C+Galaxy+Hospital+%7C+Mapusa,+Goa/@15.6059769,73.8130552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfebb536cd8599:0x965d764428455be7!8m2!3d15.6059769!4d73.8130552!16s%2Fg%2F11fm7m9p50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6059769,
+      "lng": 73.8130552,
+      "label": "PhysioMantra | Physiotherapy Consultation Services | Galaxy Hospital | Mapusa, Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "piles-clinic-mapusa",
+    "name": "Piles Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Piles Clinic has built a strong reputation in Mapusa for multidisciplinary treatment pathways covering Liver Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098231 80116",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G 6, Plies Clinic, Shreeyash Chambers, Ansabhat Rd, behind Police station, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "behind Police station",
+    "landmark": "Shreeyash Chambers",
+    "emergencyContact": "098231 80116",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Piles+Clinic/@15.5920137,73.8092371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb908db6bc17:0xb04a7526db77ccdb!8m2!3d15.5920137!4d73.8092371!16s%2Fg%2F11gjjbr3vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Piles+Clinic/@15.5920137,73.8092371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb908db6bc17:0xb04a7526db77ccdb!8m2!3d15.5920137!4d73.8092371!16s%2Fg%2F11gjjbr3vm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5920137,
+      "lng": 73.8092371,
+      "label": "Piles Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "redymed-cosmetic-surgery-and-hair-transplant-centre-best-hair-transplant-in-goa-porvorim",
+    "name": "REDYMED Cosmetic Surgery & hair transplant centre, Best hair transplant in Goa",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Porvorim, REDYMED Cosmetic Surgery & hair transplant centre, Best hair transplant in Goa brings together specialists for Kidney Transplant Surgery In Mapusa. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086866 04004",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Brahma Tower ,2 nd floor, 2nd lane, Mhapusa Highway, near Hotel Neo Majestic, Panaji, Porvorim, Goa 403521",
+    "city": "Porvorim",
+    "state": "Goa",
+    "pincode": "403521",
+    "locality": "Panaji",
+    "landmark": "near Hotel Neo Majestic, Panaji, Porvorim, Goa 403521",
+    "emergencyContact": "086866 04004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/REDYMED+Cosmetic+Surgery+%26+hair+transplant+centre,+Best+hair+transplant+in+Goa/@15.5084466,73.8389657,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc1170da91cd9:0x184bcfad9654d47c!8m2!3d15.5084466!4d73.8389657!16s%2Fg%2F11j4ss30z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5084466,
+      "lng": 73.8389657,
+      "label": "REDYMED Cosmetic Surgery & hair transplant centre, Best hair transplant in Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rg-stone-urology-and-laparoscopy-hospital-pilern",
+    "name": "RG Stone Urology & Laparoscopy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RG Stone Urology & Laparoscopy Hospital is a prominent hospital in Pilern, known for structured tertiary care across Kidney Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098100 26456",
+    "alternatePhone": "",
+    "website": "https://www.rghospitals.com/urology-hospitals/goa/bardez",
+    "address": "217-218, Plot No, Mapusa Highway, PDA Colony, Panaji, Pilern, Goa 403521",
+    "city": "Pilern",
+    "state": "Goa",
+    "pincode": "403521",
+    "locality": "Panaji",
+    "landmark": "Mapusa Highway",
+    "emergencyContact": "098100 26456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r!19sChIJqw2oyGzAvzsR52hYfkRmJKc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3bbfc06cc8a80dab:0xa72466447e5868e7!8m2!3d15.526834!4d73.825984!16s%2Fg%2F11clq2cs0r!19sChIJqw2oyGzAvzsR52hYfkRmJKc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.526834,
+      "lng": 73.825984,
+      "label": "RG Stone Urology & Laparoscopy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sankalp-nursing-home-mapusa",
+    "name": "Sankalp Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mapusa often choose Sankalp Nursing Home for its strength in Spine Surgery In Mapusa and Nursing Home. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083229 94158",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Road, Duler Ground Rd, opp. St. Anthony's High School, Karaswada, Mapusa, Goa 403526",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403526",
+    "locality": "Karaswada",
+    "landmark": "opp. St. Anthony's High School",
+    "emergencyContact": "083229 94158",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mapusa",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sankalp+Nursing+Home/@15.6030048,73.8175377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeca855555555:0xc2d82956aefc0b6a!8m2!3d15.6030048!4d73.8175377!16s%2Fg%2F1vgqbjmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sankalp+Nursing+Home/@15.6030048,73.8175377,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeca855555555:0xc2d82956aefc0b6a!8m2!3d15.6030048!4d73.8175377!16s%2Fg%2F1vgqbjmb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6030048,
+      "lng": 73.8175377,
+      "label": "Sankalp Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ss-hair-transplant-clinic-panaji",
+    "name": "SS Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SS Hair Transplant Clinic is a prominent hair transplantation clinic in Panaji, known for structured tertiary care across Kidney Transplant Surgery In Mapusa. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093591 85976",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sesa Ghor, Bus stand, 511, 5th Floor, Gerra Imporium I, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Gerra Imporium I",
+    "landmark": "511",
+    "emergencyContact": "093591 85976",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80!19sChIJI4QwCxjBvzsRZDexzKJNEnM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SS+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3bbfc1180b308423:0x73124da2ccb13764!8m2!3d15.4937066!4d73.8360534!16s%2Fg%2F11s19cpm80!19sChIJI4QwCxjBvzsRZDexzKJNEnM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.4937066,
+      "lng": 73.8360534,
+      "label": "SS Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunrise-oncology-centre-mapusa-center-goa-mapusa",
+    "name": "Sunrise Oncology Centre | Mapusa Center – Goa",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mapusa often choose Sunrise Oncology Centre | Mapusa Center – Goa for its strength in Oncologist Surgery In Mapusa and Cancer Treatment Center. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074000 66780",
+    "alternatePhone": "",
+    "website": "https://sunriseoncocare.com/",
+    "address": "Vision Hospital, Duler Ground Rd, Karaswada, Mapusa, Goa 403526",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403526",
+    "locality": "Karaswada",
+    "landmark": "Karaswada",
+    "emergencyContact": "074000 66780",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mapusa",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sunrise+Oncology+Centre+%7C+Mapusa+Center+%E2%80%93+Goa/@15.6046417,73.820384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb5ae3cf53b1:0x2cd4a0fe8cc7a17!8m2!3d15.6046417!4d73.820384!16s%2Fg%2F11vx6hqn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunrise+Oncology+Centre+%7C+Mapusa+Center+%E2%80%93+Goa/@15.6046417,73.820384,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb5ae3cf53b1:0x2cd4a0fe8cc7a17!8m2!3d15.6046417!4d73.820384!16s%2Fg%2F11vx6hqn7g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6046417,
+      "lng": 73.820384,
+      "label": "Sunrise Oncology Centre | Mapusa Center – Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tendulkar-memorial-hospital-mapusa",
+    "name": "Tendulkar Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tendulkar Memorial Hospital is a prominent hospital in Mapusa, known for structured tertiary care across Liver Transplant Surgery In Mapusa. The facility stands out for Google rating 1.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HRX6+J2P, Alto Duler, Dattawadi, Mapusa, Goa 403507",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403507",
+    "locality": "Dattawadi",
+    "landmark": "Dattawadi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://www.google.com/maps/place/Tendulkar+Memorial+Hospital/@15.599096,73.810074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb1c644f1f8d:0x3eaff2596533aa2d!8m2!3d15.599096!4d73.810074!16s%2Fg%2F11dxbc_kmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tendulkar+Memorial+Hospital/@15.599096,73.810074,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb1c644f1f8d:0x3eaff2596533aa2d!8m2!3d15.599096!4d73.810074!16s%2Fg%2F11dxbc_kmt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.599096,
+      "lng": 73.810074,
+      "label": "Tendulkar Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trinity-healthcare-and-medical-research-esperan-a-hospital-panaji",
+    "name": "Trinity Healthcare And Medical Research, Esperança Hospital",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trinity Healthcare And Medical Research, Esperança Hospital is a prominent medical clinic in Panaji, known for structured tertiary care across Liver Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095797 82088",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dayanand Bandodkar Marg, St Mary Colony, Miramar, Panaji, Goa 403001",
+    "city": "Panaji",
+    "state": "Goa",
+    "pincode": "403001",
+    "locality": "Miramar",
+    "landmark": "Miramar",
+    "emergencyContact": "095797 82088",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Trinity+Healthcare+And+Medical+Research,+Esperan%C3%A7a+Hospital/@15.484833,73.8115511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e974000001:0x9d22530232f07e12!8m2!3d15.484833!4d73.8115511!16s%2Fg%2F11b6nt188p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trinity+Healthcare+And+Medical+Research,+Esperan%C3%A7a+Hospital/@15.484833,73.8115511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc0e974000001:0x9d22530232f07e12!8m2!3d15.484833!4d73.8115511!16s%2Fg%2F11b6nt188p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.484833,
+      "lng": 73.8115511,
+      "label": "Trinity Healthcare And Medical Research, Esperança Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ved-ayurved-bhavan-ayurvedic-clinic-and-panchakarma-center-goa-india-penha-de-franc",
+    "name": "Ved Ayurved Bhavan Ayurvedic Clinic And Panchakarma Center Goa India",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ved Ayurved Bhavan Ayurvedic Clinic And Panchakarma Center Goa India has built a strong reputation in Penha de Franc for multidisciplinary treatment pathways covering Liver Transplant Surgery In Mapusa. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089998 49013",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-3, HILL TOP APARTMENT,NEAR GAURI PETROL PUMP,TEEN BUILDING.PORVORIM., Edapally - Panvel Highway, Alto Porvorim, Penha de Franc, Goa 403521",
+    "city": "Penha de Franc",
+    "state": "Goa",
+    "pincode": "403521",
+    "locality": "Alto Porvorim",
+    "landmark": "NEAR GAURI PETROL PUMP",
+    "emergencyContact": "089998 49013",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ved+Ayurved+Bhavan+Ayurvedic+Clinic+And+Panchakarma+Center+Goa+India/@15.5195571,73.828935,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfc06e75ec71ad:0x7f38b7cf60afd7fe!8m2!3d15.5195571!4d73.828935!16s%2Fg%2F1hhkq5d_v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.5195571,
+      "lng": 73.828935,
+      "label": "Ved Ayurved Bhavan Ayurvedic Clinic And Panchakarma Center Goa India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vision-hospital-goa-mapusa",
+    "name": "Vision Hospital Goa",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mapusa often choose Vision Hospital Goa for its strength in Liver Transplant Surgery In Mapusa. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091122 46688",
+    "alternatePhone": "",
+    "website": "https://visionhospitalgoa.com/",
+    "address": "Duler Ground Rd, Karaswada, Mapusa, Goa 403526",
+    "city": "Mapusa",
+    "state": "Goa",
+    "pincode": "403526",
+    "locality": "Karaswada",
+    "landmark": "Mapusa",
+    "emergencyContact": "091122 46688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mapusa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vision+Hospital+Goa/@15.6041085,73.8200155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bbfeb22e915b243:0xe169c686ad111a19!8m2!3d15.6041085!4d73.8200155!16s%2Fg%2F11dfwyb40x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 15.6041085,
+      "lng": 73.8200155,
+      "label": "Vision Hospital Goa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

@@ -1,0 +1,8966 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "a4-fertility-centre-best-fertility-centre-in-vellore-iui-icsi-and-ivf-treatment-in-vellore-fertility-hospital-in-vellore-vellore",
+    "name": "A4 Fertility Centre |Best Fertility Centre in Vellore | IUI, ICSI & IVF Treatment in Vellore| Fertility Hospital in Vellore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Vellore, A4 Fertility Centre |Best Fertility Centre in Vellore | IUI, ICSI & IVF Treatment in Vellore| Fertility Hospital in Vellore delivers integrated care across IVF In Vellore and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073583 93583",
+    "alternatePhone": "+91 82875 82875",
+    "website": "https://www.a4fertility.com/locations/best-fertility-centre-in-vellore/?GMB",
+    "address": "W5Q9+FFR TNHB, Plot No. 495 & 496, Phase 1, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 1",
+    "emergencyContact": "+91 82875 82875",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/a4fertility",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/a4fertility/",
+    "linkedin": "https://www.linkedin.com/company/a4fertility/",
+    "youtube": "https://www.youtube.com/channel/UCYMVUE_9tS76DZXOjdGTiwQ",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/A4+Fertility+Centre+%7CBest+Fertility+Centre+in+Vellore+%7C+IUI,+ICSI+%26+IVF+Treatment+in+Vellore%7C+Fertility+Hospital+in+Vellore/data=!4m7!3m6!1s0x3bad39d69eac63c9:0x210236dc4d6e1eeb!8m2!3d12.9386875!4d79.1686875!16s%2Fg%2F11xth39ld0!19sChIJyWOsntY5rTsR6x5uTdw2AiE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/A4+Fertility+Centre+%7CBest+Fertility+Centre+in+Vellore+%7C+IUI,+ICSI+%26+IVF+Treatment+in+Vellore%7C+Fertility+Hospital+in+Vellore/data=!4m7!3m6!1s0x3bad39d69eac63c9:0x210236dc4d6e1eeb!8m2!3d12.9386875!4d79.1686875!16s%2Fg%2F11xth39ld0!19sChIJyWOsntY5rTsR6x5uTdw2AiE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9386875,
+      "lng": 79.1686875,
+      "label": "A4 Fertility Centre |Best Fertility Centre in Vellore | IUI, ICSI & IVF Treatment in Vellore| Fertility Hospital in Vellore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "abitha-fertility-clinic-vellore",
+    "name": "Abitha Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Vellore, Abitha Fertility Clinic delivers integrated care across IVF In Vellore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://abithafertilityclinic.com/",
+    "address": "2nd Floor, 71, Anna Salai, Thiyagarajapuram Rd, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Thiyagarajapuram Rd",
+    "landmark": "Anna Salai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Abitha+Fertility+Clinic/data=!4m7!3m6!1s0x3bad3862b9336819:0x4ef2f0a23c3caf39!8m2!3d12.9033205!4d79.1319829!16s%2Fg%2F1trtsrmw!19sChIJGWgzuWI4rTsROa88PKLw8k4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Abitha+Fertility+Clinic/data=!4m7!3m6!1s0x3bad3862b9336819:0x4ef2f0a23c3caf39!8m2!3d12.9033205!4d79.1319829!16s%2Fg%2F1trtsrmw!19sChIJGWgzuWI4rTsROa88PKLw8k4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9033205,
+      "lng": 79.1319829,
+      "label": "Abitha Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akshayaa-hospital-vellore",
+    "name": "AKSHAYAA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AKSHAYAA HOSPITAL is a prominent hospital in Vellore, known for structured tertiary care across Gynecologist Surgery In Vellore. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084284 50699",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 1, 4th Street, Gopalapuram, Venkatraman Nagar, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Katpadi",
+    "landmark": "Gopalapuram",
+    "emergencyContact": "084284 50699",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/AKSHAYAA+HOSPITAL/data=!4m7!3m6!1s0x3bad4768a5969807:0x391fd932f8021a7f!8m2!3d12.9577709!4d79.1371641!16s%2Fg%2F11g9vsf7bd!19sChIJB5iWpWhHrTsRfxoC-DLZHzk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AKSHAYAA+HOSPITAL/data=!4m7!3m6!1s0x3bad4768a5969807:0x391fd932f8021a7f!8m2!3d12.9577709!4d79.1371641!16s%2Fg%2F11g9vsf7bd!19sChIJB5iWpWhHrTsRfxoC-DLZHzk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9577709,
+      "lng": 79.1371641,
+      "label": "AKSHAYAA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alpha-clinic-cmc-vellore",
+    "name": "Alpha Clinic CMC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, Alpha Clinic CMC brings together specialists for Gynecologist Surgery In Vellore. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "pro@cmcvellore.ac.in",
+    "phone": "0416 228 2299",
+    "alternatePhone": "+91 94987 60000",
+    "website": "https://www.cmch-vellore.edu/2col.aspx?ptype=CONTENT&pid=P160818014&mid=M160818079",
+    "address": "W4FM+VQJ, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "",
+    "landmark": "Tamil Nadu 632004",
+    "emergencyContact": "+91 94987 60000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cmcvelloreindia/",
+    "twitter": "https://twitter.com/offcmcvellore?lang=en",
+    "instagram": "https://www.instagram.com/cmcvellore/",
+    "linkedin": "https://in.linkedin.com/school/cmc-vellore/",
+    "youtube": "https://www.youtube.com/channel/UCxAN3KCjZ8u109OUwaJlC0w/videos",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Alpha+Clinic+CMC/data=!4m7!3m6!1s0x3bad38951820cc57:0x22084cb47d7cd2e0!8m2!3d12.9247096!4d79.1343988!16s%2Fg%2F11ggw0hflr!19sChIJV8wgGJU4rTsR4NJ8fbRMCCI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alpha+Clinic+CMC/data=!4m7!3m6!1s0x3bad38951820cc57:0x22084cb47d7cd2e0!8m2!3d12.9247096!4d79.1343988!16s%2Fg%2F11ggw0hflr!19sChIJV8wgGJU4rTsR4NJ8fbRMCCI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9247096,
+      "lng": 79.1343988,
+      "label": "Alpha Clinic CMC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amudham-ayurveda-clinic-vellore",
+    "name": "Amudham Ayurveda Clinic",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amudham Ayurveda Clinic has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Orthopedic Surgery In Vellore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097895 63635",
+    "alternatePhone": "",
+    "website": "",
+    "address": "53, Marakadai Kandappan St, Velapadi, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Velapadi",
+    "landmark": "Velapadi",
+    "emergencyContact": "097895 63635",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Amudham+Ayurveda+Clinic/data=!4m7!3m6!1s0x3bad397591f58035:0x2be5a000126e9580!8m2!3d12.9066913!4d79.1374378!16s%2Fg%2F11q1vs1ljh!19sChIJNYD1kXU5rTsRgJVuEgCg5Ss?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amudham+Ayurveda+Clinic/data=!4m7!3m6!1s0x3bad397591f58035:0x2be5a000126e9580!8m2!3d12.9066913!4d79.1374378!16s%2Fg%2F11q1vs1ljh!19sChIJNYD1kXU5rTsRgJVuEgCg5Ss?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9066913,
+      "lng": 79.1374378,
+      "label": "Amudham Ayurveda Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anitha-hospital-and-medical-centre-general-surgery-endoscopy-laparoscopy-laser-pilesand-fertility-centre-vellore",
+    "name": "ANITHA HOSPITAL & MEDICAL CENTRE (General Surgery,Endoscopy, Laparoscopy, Laser pilesAnd Fertility Centre)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose ANITHA HOSPITAL & MEDICAL CENTRE (General Surgery,Endoscopy, Laparoscopy, Laser pilesAnd Fertility Centre) for its strength in Liver Transplant Surgery In Vellore and Fertility Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098422 82996",
+    "alternatePhone": "",
+    "website": "",
+    "address": "258/1, Arni Main Road, Kamalakshipuram Rd, near Nippon Paint, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "near Nippon Paint",
+    "landmark": "near Nippon Paint, Vellore, Tamil Nadu 632002",
+    "emergencyContact": "098422 82996",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/ANITHA+HOSPITAL+%26+MEDICAL+CENTRE+%28General+Surgery,Endoscopy,+Laparoscopy,+Laser+pilesAnd+Fertility+Centre%29/data=!4m7!3m6!1s0x3bad39b1afb46eb3:0xee7cad4500a0fc71!8m2!3d12.8864048!4d79.1365429!16s%2Fg%2F11tfx4ljs_!19sChIJs260r7E5rTsRcfygAEWtfO4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ANITHA+HOSPITAL+%26+MEDICAL+CENTRE+%28General+Surgery,Endoscopy,+Laparoscopy,+Laser+pilesAnd+Fertility+Centre%29/data=!4m7!3m6!1s0x3bad39b1afb46eb3:0xee7cad4500a0fc71!8m2!3d12.8864048!4d79.1365429!16s%2Fg%2F11tfx4ljs_!19sChIJs260r7E5rTsRcfygAEWtfO4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8864048,
+      "lng": 79.1365429,
+      "label": "ANITHA HOSPITAL & MEDICAL CENTRE (General Surgery,Endoscopy, Laparoscopy, Laser pilesAnd Fertility Centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apa-hospital-vellore",
+    "name": "APA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, APA HOSPITAL delivers integrated care across Orthopedic Surgery In Vellore. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W4FC+C89, Bangalore Rd, near IOB bank, Ganthi Nagar, Shenbakkam, Vellore, Tamil Nadu 632008",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632008",
+    "locality": "Shenbakkam",
+    "landmark": "near IOB bank, Ganthi Nagar, Shenbakkam, Vellore, Tamil Nadu 632008",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/APA+HOSPITAL/@12.923526,79.120856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38b7f7ccc165:0xd2f45817997d435f!8m2!3d12.923526!4d79.120856!16s%2Fg%2F11vdp2t5h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/APA+HOSPITAL/@12.923526,79.120856,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38b7f7ccc165:0xd2f45817997d435f!8m2!3d12.923526!4d79.120856!16s%2Fg%2F11vdp2t5h5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.923526,
+      "lng": 79.120856,
+      "label": "APA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-kh-hospital-melvisharam",
+    "name": "Apollo KH Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Melvisharam often choose Apollo KH Hospital for its strength in Gynecologist Surgery In Vellore. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@apollokh.com",
+    "phone": "0417 226 9581",
+    "alternatePhone": "95004 58786",
+    "website": "http://www.apollokh.com/",
+    "address": "NH48, Chennai-Banglore Highway, Melvisharam Ranipet, Kanchipuram - Vellore Rd, Melvisharam, Tamil Nadu 632509",
+    "city": "Melvisharam",
+    "state": "Tamil Nadu",
+    "pincode": "632509",
+    "locality": "Kanchipuram - Vellore Rd",
+    "landmark": "Melvisharam Ranipet",
+    "emergencyContact": "95004 58786",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+KH+Hospital/data=!4m7!3m6!1s0x3bad366e906e0339:0x3b2eecb133e9052f!8m2!3d12.9223712!4d79.2751417!16s%2Fm%2F0_s43p0!19sChIJOQNukG42rTsRLwXpM7HsLjs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+KH+Hospital/data=!4m7!3m6!1s0x3bad366e906e0339:0x3b2eecb133e9052f!8m2!3d12.9223712!4d79.2751417!16s%2Fm%2F0_s43p0!19sChIJOQNukG42rTsRLwXpM7HsLjs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9223712,
+      "lng": 79.2751417,
+      "label": "Apollo KH Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arc-fertility-hospitals-vellore",
+    "name": "ARC Fertility Hospitals",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose ARC Fertility Hospitals for its strength in IVF In Vellore and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078119 99999",
+    "alternatePhone": "",
+    "website": "http://www.arcivf.com/",
+    "address": "102/283, Opp to New bus stand, New Bridge Rd, next to Hotel Saravana Bhavan, Vevekanandar Nagar, Thottapalayam, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "Thottapalayam",
+    "landmark": "New Bridge Rd",
+    "emergencyContact": "078119 99999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ARC+Fertility+Hospitals/data=!4m7!3m6!1s0x3bad3890c4252b21:0x8a2610153920bf5a!8m2!3d12.9333261!4d79.1388539!16s%2Fg%2F11c30x0fc3!19sChIJISslxJA4rTsRWr8gORUQJoo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ARC+Fertility+Hospitals/data=!4m7!3m6!1s0x3bad3890c4252b21:0x8a2610153920bf5a!8m2!3d12.9333261!4d79.1388539!16s%2Fg%2F11c30x0fc3!19sChIJISslxJA4rTsRWr8gORUQJoo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9333261,
+      "lng": 79.1388539,
+      "label": "ARC Fertility Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arul-physiotherapy-clinic-and-fitness-gym-vellore",
+    "name": "Arul physiotherapy Clinic & Fitness Gym",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Arul physiotherapy Clinic & Fitness Gym for its strength in Orthopedic Surgery In Vellore and Physiotherapist. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094430 36291",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Arul Physio, Bus stop, Aaranyas coffee, near DKM, Sankaranpalayam, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Sankaranpalayam",
+    "landmark": "near DKM, Sankaranpalayam, Vellore, Tamil Nadu 632001",
+    "emergencyContact": "094430 36291",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Arul+physiotherapy+Clinic+%26+Fitness+Gym/@12.9001924,79.1350258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad395edd581b8b:0x4e628611f2960f02!8m2!3d12.9001924!4d79.1350258!16s%2Fg%2F1q64b7nfq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arul+physiotherapy+Clinic+%26+Fitness+Gym/@12.9001924,79.1350258,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad395edd581b8b:0x4e628611f2960f02!8m2!3d12.9001924!4d79.1350258!16s%2Fg%2F1q64b7nfq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9001924,
+      "lng": 79.1350258,
+      "label": "Arul physiotherapy Clinic & Fitness Gym",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arun-hospital-ortho-and-trauma-care-vellore",
+    "name": "Arun Hospital Ortho & Trauma Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Arun Hospital Ortho & Trauma Care for its strength in Orthopedic Surgery In Vellore and Orthopaedics. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0416 223 4217",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No-15, Thiyagarajapuram Rd, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Veerasamy Nagar",
+    "landmark": "Veerasamy Nagar",
+    "emergencyContact": "0416 223 4217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Arun+Hospital+Ortho+%26+Trauma+Care/data=!4m7!3m6!1s0x3bad38e0610c78df:0x82cc24d5e19fba15!8m2!3d12.9030855!4d79.1334338!16s%2Fg%2F11c2pc4b48!19sChIJ33gMYeA4rTsRFbqf4dUkzII?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arun+Hospital+Ortho+%26+Trauma+Care/data=!4m7!3m6!1s0x3bad38e0610c78df:0x82cc24d5e19fba15!8m2!3d12.9030855!4d79.1334338!16s%2Fg%2F11c2pc4b48!19sChIJ33gMYeA4rTsRFbqf4dUkzII?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9030855,
+      "lng": 79.1334338,
+      "label": "Arun Hospital Ortho & Trauma Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashoka-diabetes-and-women-s-centre-vellore",
+    "name": "Ashoka Diabetes and Women’s Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashoka Diabetes and Women’s Centre is a prominent medical clinic in Vellore, known for structured tertiary care across Gynecologist Surgery In Vellore, Women and Child Care, and Diabetology. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096006 43094",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6, Thulasingam, Muthu Pillai St, Sankaranpalayam, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Sankaranpalayam",
+    "landmark": "Muthu Pillai St",
+    "emergencyContact": "096006 43094",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore",
+      "Women and Child Care",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ashoka+Diabetes+and+Women%E2%80%99s+Centre/@12.9003541,79.1339988,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad39ffa6b34537:0xab9c2820a4bdda2a!8m2!3d12.9003541!4d79.1339988!16s%2Fg%2F11v0p8krr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashoka+Diabetes+and+Women%E2%80%99s+Centre/@12.9003541,79.1339988,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad39ffa6b34537:0xab9c2820a4bdda2a!8m2!3d12.9003541!4d79.1339988!16s%2Fg%2F11v0p8krr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9003541,
+      "lng": 79.1339988,
+      "label": "Ashoka Diabetes and Women’s Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baba-hospital-vellore",
+    "name": "Baba Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Baba Hospital delivers integrated care across Gynecologist Surgery In Vellore. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "South Avenue Road, behind Sub Court, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Baba+Hospital/data=!4m7!3m6!1s0x3bad38633d2065b5:0xa2f7ffd9e44a8dec!8m2!3d12.934198!4d79.158405!16s%2Fg%2F1tfjjkm_!19sChIJtWUgPWM4rTsR7I1K5Nn_96I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baba+Hospital/data=!4m7!3m6!1s0x3bad38633d2065b5:0xa2f7ffd9e44a8dec!8m2!3d12.934198!4d79.158405!16s%2Fg%2F1tfjjkm_!19sChIJtWUgPWM4rTsR7I1K5Nn_96I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.934198,
+      "lng": 79.158405,
+      "label": "Baba Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-health-and-wellness-centre-vellore",
+    "name": "Best Health & Wellness Centre",
+    "type": "Pain Control Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted pain control clinic in Vellore, Best Health & Wellness Centre delivers integrated care across Cancer Surgery In Vellore. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072001 54111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "332, South Avenue Road, near srinivasa super market, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "near srinivasa super market, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "emergencyContact": "072001 54111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Health+%26+Wellness+Centre/data=!4m7!3m6!1s0x3bad394f3ba767bb:0xd3cb04527828fc52!8m2!3d12.9334332!4d79.155303!16s%2Fg%2F11lttbhgty!19sChIJu2enO085rTsRUvwoeFIEy9M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Health+%26+Wellness+Centre/data=!4m7!3m6!1s0x3bad394f3ba767bb:0xd3cb04527828fc52!8m2!3d12.9334332!4d79.155303!16s%2Fg%2F11lttbhgty!19sChIJu2enO085rTsRUvwoeFIEy9M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9334332,
+      "lng": 79.155303,
+      "label": "Best Health & Wellness Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-hospital-vellore",
+    "name": "Best hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Best hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sripuram road, Ariyur, Vellore, Tamil Nadu 632055",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632055",
+    "locality": "Ariyur",
+    "landmark": "Vellore",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Best+hospital/data=!4m7!3m6!1s0x3bad3eca7cda5e2f:0x370b7e571ae4c286!8m2!3d12.877346!4d79.1066168!16s%2Fg%2F11bw47h1h3!19sChIJL17afMo-rTsRhsLkGld-Czc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+hospital/data=!4m7!3m6!1s0x3bad3eca7cda5e2f:0x370b7e571ae4c286!8m2!3d12.877346!4d79.1066168!16s%2Fg%2F11bw47h1h3!19sChIJL17afMo-rTsRhsLkGld-Czc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.877346,
+      "lng": 79.1066168,
+      "label": "Best hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandramohan-urology-clinic-vellore",
+    "name": "Chandramohan Urology Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Chandramohan Urology Clinic for its strength in Urologist Surgery In Vellore. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W5M4+QFP, Regional Transport Office Rd, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Chandramohan+Urology+Clinic/data=!4m7!3m6!1s0x3bad39ffcc8b5f2b:0xe7ba8e4f69f0d9be!8m2!3d12.9344517!4d79.1562032!16s%2Fg%2F11h1qysfb7!19sChIJK1-LzP85rTsRvtnwaU-Ouuc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandramohan+Urology+Clinic/data=!4m7!3m6!1s0x3bad39ffcc8b5f2b:0xe7ba8e4f69f0d9be!8m2!3d12.9344517!4d79.1562032!16s%2Fg%2F11h1qysfb7!19sChIJK1-LzP85rTsRvtnwaU-Ouuc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9344517,
+      "lng": 79.1562032,
+      "label": "Chandramohan Urology Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandran-hospital-vellore",
+    "name": "Chandran Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, Chandran Hospital brings together specialists for Gynecologist Surgery In Vellore. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0416 224 2631",
+    "alternatePhone": "",
+    "website": "http://chandranhospital.wix.com/hospital",
+    "address": "1, 4th West Cross Rd, Suthanthira Ponvizha Nagar, Gandhinagar West, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Gandhi Nagar",
+    "landmark": "Suthanthira Ponvizha Nagar",
+    "emergencyContact": "0416 224 2631",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Chandran+Hospital/data=!4m7!3m6!1s0x3bad4761ae11092d:0x133565e4bf50e1e8!8m2!3d12.9482496!4d79.1356273!16s%2Fg%2F11bv5qtsw6!19sChIJLQkRrmFHrTsR6OFQv-RlNRM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandran+Hospital/data=!4m7!3m6!1s0x3bad4761ae11092d:0x133565e4bf50e1e8!8m2!3d12.9482496!4d79.1356273!16s%2Fg%2F11bv5qtsw6!19sChIJLQkRrmFHrTsR6OFQv-RlNRM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9482496,
+      "lng": 79.1356273,
+      "label": "Chandran Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "christian-medical-college-and-hospital-ranipet-campus-vellore-ratnagiri-kilminnal",
+    "name": "Christian Medical College and Hospital, Ranipet Campus - Vellore",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratnagiri Kilminnal, Christian Medical College and Hospital, Ranipet Campus - Vellore offers coordinated hospital care with major focus on Liver Transplant Surgery In Vellore. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "pro@cmcvellore.ac.in",
+    "phone": "0416 228 1000",
+    "alternatePhone": "+91 94987 60000",
+    "website": "https://www.cmch-vellore.edu/content.aspx?Pid=P220824022",
+    "address": "Campus, Ratnagiri Kilminnal, Tamil Nadu 632517",
+    "city": "Ratnagiri Kilminnal",
+    "state": "Tamil Nadu",
+    "pincode": "632517",
+    "locality": "Campus",
+    "landmark": "Tamil Nadu 632517",
+    "emergencyContact": "+91 94987 60000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cmcvelloreindia/",
+    "twitter": "https://twitter.com/offcmcvellore?lang=en",
+    "instagram": "https://www.instagram.com/cmcvellore/",
+    "linkedin": "https://in.linkedin.com/school/cmc-vellore/",
+    "youtube": "https://www.youtube.com/channel/UCxAN3KCjZ8u109OUwaJlC0w/videos",
+    "specialties": [
+      "Liver Transplant Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Christian+Medical+College+and+Hospital,+Ranipet+Campus+-+Vellore/data=!4m7!3m6!1s0x3bad374304ae1249:0x77617f161cfad670!8m2!3d12.9384508!4d79.2376943!16s%2Fg%2F11h8fg9q7k!19sChIJSRKuBEM3rTsRcNb6HBZ_YXc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Christian+Medical+College+and+Hospital,+Ranipet+Campus+-+Vellore/data=!4m7!3m6!1s0x3bad374304ae1249:0x77617f161cfad670!8m2!3d12.9384508!4d79.2376943!16s%2Fg%2F11h8fg9q7k!19sChIJSRKuBEM3rTsRcNb6HBZ_YXc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9384508,
+      "lng": 79.2376943,
+      "label": "Christian Medical College and Hospital, Ranipet Campus - Vellore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cmc-eye-hospital-vellore",
+    "name": "CMC Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, CMC Eye Hospital brings together specialists for Gynecologist Surgery In Vellore. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "085722 11962",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W45Q+QMF, 30, Arni Rd, Kosapet, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Kosapet",
+    "landmark": "Arni Rd",
+    "emergencyContact": "085722 11962",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/CMC+Eye+Hospital/data=!4m7!3m6!1s0x3bad38e816015df5:0xec9d26067eeb7322!8m2!3d12.9130838!4d79.1336256!16s%2Fg%2F11c718l28d!19sChIJ9V0BFug4rTsRInPrfgYmnew?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CMC+Eye+Hospital/data=!4m7!3m6!1s0x3bad38e816015df5:0xec9d26067eeb7322!8m2!3d12.9130838!4d79.1336256!16s%2Fg%2F11c718l28d!19sChIJ9V0BFug4rTsRInPrfgYmnew?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9130838,
+      "lng": 79.1336256,
+      "label": "CMC Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cmc-vellore-hematology-opd-vellore",
+    "name": "Cmc Vellore Hematology Opd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, Cmc Vellore Hematology Opd brings together specialists for Cancer Surgery In Vellore. Hospital capacity markers such as Google rating 3.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W4GP+659, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "",
+    "landmark": "Tamil Nadu 632004",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Cmc+Vellore+Hematology+Opd/data=!4m7!3m6!1s0x3bad3894fb839663:0x9eca5546f3aaaa90!8m2!3d12.9255485!4d79.135479!16s%2Fg%2F11gh3579lg!19sChIJY5aD-5Q4rTsRkKqq80ZVyp4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cmc+Vellore+Hematology+Opd/data=!4m7!3m6!1s0x3bad3894fb839663:0x9eca5546f3aaaa90!8m2!3d12.9255485!4d79.135479!16s%2Fg%2F11gh3579lg!19sChIJY5aD-5Q4rTsRkKqq80ZVyp4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9255485,
+      "lng": 79.135479,
+      "label": "Cmc Vellore Hematology Opd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "csk-charlie-s-spine-klinic-vellore",
+    "name": "CSK ~ Charlie's Spine Klinic",
+    "type": "Pain Control Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted pain control clinic in Vellore, CSK ~ Charlie's Spine Klinic delivers integrated care across Spine Surgery In Vellore and Spine Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090822 49505",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7/32, 4th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Gandhi Nagar",
+    "landmark": "Suthanthira Ponvizha Nagar",
+    "emergencyContact": "090822 49505",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vellore",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/CSK+~+Charlie%27s+Spine+Klinic/data=!4m7!3m6!1s0x3bad47448521ce0f:0xe72dc39e1b230a2c!8m2!3d12.9586284!4d79.1428855!16s%2Fg%2F11svp34__0!19sChIJD84hhURHrTsRLAojG57DLec?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CSK+~+Charlie%27s+Spine+Klinic/data=!4m7!3m6!1s0x3bad47448521ce0f:0xe72dc39e1b230a2c!8m2!3d12.9586284!4d79.1428855!16s%2Fg%2F11svp34__0!19sChIJD84hhURHrTsRLAojG57DLec?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9586284,
+      "lng": 79.1428855,
+      "label": "CSK ~ Charlie's Spine Klinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhanya-ortho-hospital-and-pediatric-vaccination-centre-vellore",
+    "name": "Dhanya ortho hospital and Pediatric Vaccination Centre",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhanya ortho hospital and Pediatric Vaccination Centre is a prominent orthodontist in Vellore, known for structured tertiary care across Orthopedic Surgery In Vellore, Orthodontist, and Orthopaedics. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W43P+HQ6, Pillaiyar Koil St, Sankaranpalayam, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Sankaranpalayam",
+    "landmark": "Sankaranpalayam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Dhanya+ortho+hospital+and+Pediatric+Vaccination+Centre/data=!4m7!3m6!1s0x3bad39ec5c10636b:0x43b3c81dc111b8c3!8m2!3d12.903919!4d79.1368858!16s%2Fg%2F11fj0v07mk!19sChIJa2MQXOw5rTsRw7gRwR3Is0M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhanya+ortho+hospital+and+Pediatric+Vaccination+Centre/data=!4m7!3m6!1s0x3bad39ec5c10636b:0x43b3c81dc111b8c3!8m2!3d12.903919!4d79.1368858!16s%2Fg%2F11fj0v07mk!19sChIJa2MQXOw5rTsRw7gRwR3Is0M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.903919,
+      "lng": 79.1368858,
+      "label": "Dhanya ortho hospital and Pediatric Vaccination Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhinesh-speciality-hospital-edayansathu",
+    "name": "DHINESH SPECIALITY HOSPITAL",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Edayansathu, DHINESH SPECIALITY HOSPITAL offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore and Speciality Care. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "drarunprakash24@gmail.com",
+    "phone": "096004 35667",
+    "alternatePhone": "0416 222 7700",
+    "website": "http://www.dhineshhospitals.com/",
+    "address": "Ramalinga Nagar, Bagayam, Edayansathu, Tamil Nadu 632002",
+    "city": "Edayansathu",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "Bagayam",
+    "landmark": "Edayansathu",
+    "emergencyContact": "0416 222 7700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DHINESH+SPECIALITY+HOSPITAL/data=!4m7!3m6!1s0x3bad393898c9caf3:0x8e3a52ed33b3b3d0!8m2!3d12.872977!4d79.13363!16s%2Fg%2F11ghnph0rx!19sChIJ88rJmDg5rTsR0LOzM-1SOo4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DHINESH+SPECIALITY+HOSPITAL/data=!4m7!3m6!1s0x3bad393898c9caf3:0x8e3a52ed33b3b3d0!8m2!3d12.872977!4d79.13363!16s%2Fg%2F11ghnph0rx!19sChIJ88rJmDg5rTsR0LOzM-1SOo4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.872977,
+      "lng": 79.13363,
+      "label": "DHINESH SPECIALITY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "guru-hospital-vellore",
+    "name": "Guru Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Guru Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0416 222 7824",
+    "alternatePhone": "",
+    "website": "",
+    "address": "36, Lalsingh Kumundan St, Big Ali Puran, Kosapet, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Kosapet",
+    "landmark": "Big Ali Puran",
+    "emergencyContact": "0416 222 7824",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Guru+Hospital/@12.9142232,79.1358688,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38e8e4c6cba3:0xea62e5db25f87521!8m2!3d12.9142232!4d79.1358688!16s%2Fg%2F1t_wmsvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Guru+Hospital/@12.9142232,79.1358688,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38e8e4c6cba3:0xea62e5db25f87521!8m2!3d12.9142232!4d79.1358688!16s%2Fg%2F1t_wmsvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9142232,
+      "lng": 79.1358688,
+      "label": "Guru Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-nursing-home-vellore",
+    "name": "Indira Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Indira Nursing Home delivers integrated care across Orthopedic Surgery In Vellore. The facility stands out for Google rating 3.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098423 24425",
+    "alternatePhone": "",
+    "website": "http://www.indiranursinghome.com/",
+    "address": "452, Main Bazaar Rd, near CMC, Saidapet, Vellore, Tamil Nadu 632012",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632012",
+    "locality": "Saidapet",
+    "landmark": "near CMC, Saidapet, Vellore, Tamil Nadu 632012",
+    "emergencyContact": "098423 24425",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+Nursing+Home/data=!4m7!3m6!1s0x3bad3890563e2d3f:0xd059cd5df955c459!8m2!3d12.9244533!4d79.1401831!16s%2Fg%2F12lk47rf9!19sChIJPy0-VpA4rTsRWcRV-V3NWdA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+Nursing+Home/data=!4m7!3m6!1s0x3bad3890563e2d3f:0xd059cd5df955c459!8m2!3d12.9244533!4d79.1401831!16s%2Fg%2F12lk47rf9!19sChIJPy0-VpA4rTsRWcRV-V3NWdA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9244533,
+      "lng": 79.1401831,
+      "label": "Indira Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "isscc-building-cmc-vellore",
+    "name": "ISSCC Building (CMC)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, ISSCC Building (CMC) offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0416 228 3575",
+    "alternatePhone": "",
+    "website": "http://clin.cmcvellore.ac.in/",
+    "address": "Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "0416 228 3575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ISSCC+Building+%28CMC%29/data=!4m7!3m6!1s0x3bad3894e9a6e9e5:0x65990c431a4084ce!8m2!3d12.9248789!4d79.1358455!16s%2Fg%2F1tfjz93y!19sChIJ5emm6ZQ4rTsRzoRAGkMMmWU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ISSCC+Building+%28CMC%29/data=!4m7!3m6!1s0x3bad3894e9a6e9e5:0x65990c431a4084ce!8m2!3d12.9248789!4d79.1358455!16s%2Fg%2F1tfjz93y!19sChIJ5emm6ZQ4rTsRzoRAGkMMmWU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9248789,
+      "lng": 79.1358455,
+      "label": "ISSCC Building (CMC)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-fertility-centre-vellore-vellore",
+    "name": "Iswarya Fertility Centre Vellore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Iswarya Fertility Centre Vellore has built a strong reputation in Vellore for multidisciplinary treatment pathways covering IVF In Vellore and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "https://www.iswaryafertility.com/",
+    "address": "79, Arcot Rd, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+Fertility+Centre+Vellore/data=!4m7!3m6!1s0x3bad399d96f6eea3:0x3d915c28ac003873!8m2!3d12.9355051!4d79.1562159!16s%2Fg%2F11rsg12jpr!19sChIJo-72lp05rTsRczgArChckT0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+Fertility+Centre+Vellore/data=!4m7!3m6!1s0x3bad399d96f6eea3:0x3d915c28ac003873!8m2!3d12.9355051!4d79.1562159!16s%2Fg%2F11rsg12jpr!19sChIJo-72lp05rTsRczgArChckT0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9355051,
+      "lng": 79.1562159,
+      "label": "Iswarya Fertility Centre Vellore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-k-r-hospital-and-dialysis-center-vellore",
+    "name": "K K R Hospital and dialysis center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, K K R Hospital and dialysis center brings together specialists for Kidney Transplant Surgery In Vellore. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0416 222 0511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W43P+R94, Battai St, opposite indian bank, Velapadi, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Velapadi",
+    "landmark": "opposite indian bank, Velapadi, Vellore, Tamil Nadu 632001",
+    "emergencyContact": "0416 222 0511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/K+K+R+Hospital+and+dialysis+center/data=!4m7!3m6!1s0x3bad38e13d4d658b:0xc48acf2e3398e132!8m2!3d12.9045039!4d79.1359457!16s%2Fg%2F1tlqnf68!19sChIJi2VNPeE4rTsRMuGYMy7PisQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+K+R+Hospital+and+dialysis+center/data=!4m7!3m6!1s0x3bad38e13d4d658b:0xc48acf2e3398e132!8m2!3d12.9045039!4d79.1359457!16s%2Fg%2F1tlqnf68!19sChIJi2VNPeE4rTsRMuGYMy7PisQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9045039,
+      "lng": 79.1359457,
+      "label": "K K R Hospital and dialysis center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-v-r-kidney-and-diabetic-centre-no-438",
+    "name": "K V R KIDNEY & DIABETIC CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in No 438, K V R KIDNEY & DIABETIC CENTRE delivers integrated care across Urologist Surgery In Vellore and Kidney Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "drramanandm@gmail.com",
+    "phone": "083001 61000",
+    "alternatePhone": "+91 95665 71712",
+    "website": "http://www.kvrkidneykare.com/",
+    "address": "No 438, Tamil Nadu Civil Supply Godown, OTTERI, street, behind Priya Mahal, Bagayam, Tamil Nadu 632002",
+    "city": "No 438",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "",
+    "landmark": "OTTERI",
+    "emergencyContact": "+91 95665 71712",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/K+V+R+KIDNEY+%26+DIABETIC+CENTRE/data=!4m7!3m6!1s0x3bad39821ca6eb81:0x567a03adf115f6eb!8m2!3d12.8847041!4d79.1346677!16s%2Fg%2F11cjj6cj__!19sChIJgeumHII5rTsR6_YV8a0DelY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+V+R+KIDNEY+%26+DIABETIC+CENTRE/data=!4m7!3m6!1s0x3bad39821ca6eb81:0x567a03adf115f6eb!8m2!3d12.8847041!4d79.1346677!16s%2Fg%2F11cjj6cj__!19sChIJgeumHII5rTsR6_YV8a0DelY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8847041,
+      "lng": 79.1346677,
+      "label": "K V R KIDNEY & DIABETIC CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kks-neuro-clinic-vellore",
+    "name": "Kks Neuro Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Kks Neuro Clinic for its strength in Neurosurgeon In Vellore and Neurosciences. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No:65, Kamarajar St, Ramset Nagar, Thorapadi, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "Thorapadi",
+    "landmark": "Ramset Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Vellore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Kks+Neuro+Clinic/data=!4m7!3m6!1s0x3bad39231f46a775:0x1967051d24d7a250!8m2!3d12.8903823!4d79.1291339!16s%2Fg%2F11j1hz3rpr!19sChIJdadGHyM5rTsRUKLXJB0FZxk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kks+Neuro+Clinic/data=!4m7!3m6!1s0x3bad39231f46a775:0x1967051d24d7a250!8m2!3d12.8903823!4d79.1291339!16s%2Fg%2F11j1hz3rpr!19sChIJdadGHyM5rTsRUKLXJB0FZxk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8903823,
+      "lng": 79.1291339,
+      "label": "Kks Neuro Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-physiotherapy-clinic-vellore",
+    "name": "KRISHNA PHYSIOTHERAPY CLINIC",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapist in Vellore, KRISHNA PHYSIOTHERAPY CLINIC delivers integrated care across Orthopedic Surgery In Vellore and Physiotherapist. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "krishnakumar1322@icloud.com",
+    "phone": "094892 30048",
+    "alternatePhone": "+91 70095 88297",
+    "website": "http://krishnaphysiotherapyclinic.com/?utm_source=gmb&utm_medium=referral",
+    "address": "27/310, 13th St, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "+91 70095 88297",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KRISHNA+PHYSIOTHERAPY+CLINIC/data=!4m7!3m6!1s0x3bad3862a80c21c3:0x209a5712148aa0e9!8m2!3d12.9339008!4d79.1547779!16s%2Fg%2F11dxm6q0hh!19sChIJwyEMqGI4rTsR6aCKFBJXmiA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KRISHNA+PHYSIOTHERAPY+CLINIC/data=!4m7!3m6!1s0x3bad3862a80c21c3:0x209a5712148aa0e9!8m2!3d12.9339008!4d79.1547779!16s%2Fg%2F11dxm6q0hh!19sChIJwyEMqGI4rTsR6aCKFBJXmiA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9339008,
+      "lng": 79.1547779,
+      "label": "KRISHNA PHYSIOTHERAPY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kumaran-hospital-vellore",
+    "name": "Kumaran Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Kumaran Hospital for its strength in Orthopedic Surgery In Vellore. Hospital capacity markers such as Google rating 2.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0416 224 3630",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W4WQ+FW6, #112, Katpadi Road, Gandhinagar, Near Kotak Mahindra Bank, Mottur, Viruthampattu, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Viruthampattu",
+    "landmark": "Near Kotak Mahindra Bank, Mottur, Viruthampattu, Vellore, Tamil Nadu 632006",
+    "emergencyContact": "0416 224 3630",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3"
+    ],
+    "image": "https://www.google.com/maps/place/Kumaran+Hospital/data=!4m7!3m6!1s0x3bad389e1d622db1:0xe75f742c780220b8!8m2!3d12.9459279!4d79.1373!16s%2Fg%2F1w0qzbxr!19sChIJsS1iHZ44rTsRuCACeCx0X-c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kumaran+Hospital/data=!4m7!3m6!1s0x3bad389e1d622db1:0xe75f742c780220b8!8m2!3d12.9459279!4d79.1373!16s%2Fg%2F1w0qzbxr!19sChIJsS1iHZ44rTsRuCACeCx0X-c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9459279,
+      "lng": 79.1373,
+      "label": "Kumaran Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-hospital-vellore",
+    "name": "MAA HOSPITAL",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, MAA HOSPITAL offers coordinated hospital care with major focus on Gynecologist Surgery In Vellore. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093446 63145",
+    "alternatePhone": "",
+    "website": "",
+    "address": "50, Vallimalai Rd, Kumarappan Nagar, KRS Nagar, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "Kumarappan Nagar",
+    "emergencyContact": "093446 63145",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/MAA+HOSPITAL/data=!4m7!3m6!1s0x3bad47035562b755:0x85412e558938d7f9!8m2!3d12.9771445!4d79.1374738!16s%2Fg%2F11q1q6ky66!19sChIJVbdiVQNHrTsR-dc4iVUuQYU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MAA+HOSPITAL/data=!4m7!3m6!1s0x3bad47035562b755:0x85412e558938d7f9!8m2!3d12.9771445!4d79.1374738!16s%2Fg%2F11q1q6ky66!19sChIJVbdiVQNHrTsR-dc4iVUuQYU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9771445,
+      "lng": 79.1374738,
+      "label": "MAA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mohan-s-physio-clinic-vellore",
+    "name": "mohan's physio clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, mohan's physio clinic brings together specialists for Orthopedic Surgery In Vellore and Physiotherapy Center. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094427 56140",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 92, KR complex, kumarapa nagar, Vallimalai Rd, opp. to vinayagar temple, Kumarappan Nagar, KRS Nagar, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "kumarapa nagar",
+    "emergencyContact": "094427 56140",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/mohan%27s+physio+clinic/data=!4m7!3m6!1s0x3bad4716d61845f5:0x800d350a48c537c1!8m2!3d12.9770578!4d79.1377865!16s%2Fg%2F11c5_dv1ns!19sChIJ9UUY1hZHrTsRwTfFSAo1DYA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/mohan%27s+physio+clinic/data=!4m7!3m6!1s0x3bad4716d61845f5:0x800d350a48c537c1!8m2!3d12.9770578!4d79.1377865!16s%2Fg%2F11c5_dv1ns!19sChIJ9UUY1hZHrTsRwTfFSAo1DYA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9770578,
+      "lng": 79.1377865,
+      "label": "mohan's physio clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naga-clinic-vellore",
+    "name": "Naga Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Vellore, Naga Clinic delivers integrated care across Gynecologist Surgery In Vellore. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0416 224 2964",
+    "alternatePhone": "",
+    "website": "",
+    "address": "272, Vellore-Chittoor Main Road Dharapadavedu Katpadi Near Chittoor Bus Stand, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Vellore-Chittoor Main Road Dharapadavedu Katpadi Near Chittoor Bus Stand",
+    "landmark": "Near Chittoor Bus Stand, Vellore, Tamil Nadu 632007",
+    "emergencyContact": "0416 224 2964",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Naga+Clinic/data=!4m7!3m6!1s0x3bad476b6562f4e3:0xfc94d6e742e0d571!8m2!3d12.9665003!4d79.1370517!16s%2Fg%2F1vcjkpjq!19sChIJ4_RiZWtHrTsRcdXgQufWlPw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naga+Clinic/data=!4m7!3m6!1s0x3bad476b6562f4e3:0xfc94d6e742e0d571!8m2!3d12.9665003!4d79.1370517!16s%2Fg%2F1vcjkpjq!19sChIJ4_RiZWtHrTsRcdXgQufWlPw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9665003,
+      "lng": 79.1370517,
+      "label": "Naga Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nalam-medical-center-and-hospital-vellore",
+    "name": "Nalam Medical Center and Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Nalam Medical Center and Hospital for its strength in Spine Surgery In Vellore. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "admin@nmch.org",
+    "phone": "0416 225 4461",
+    "alternatePhone": "+91 94420 84462",
+    "website": "http://www.nmch.org/",
+    "address": "44, Arcot Road, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "+91 94420 84462",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/nalammedicalcentre",
+    "twitter": "https://twitter.com/",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCsP205cQ0TnYeslgUmnDycA",
+    "specialties": [
+      "Spine Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nalam+Medical+Center+and+Hospital/data=!4m7!3m6!1s0x3bad39f5dc00b2bb:0xe1f5ae0ff8cbc7df!8m2!3d12.9348794!4d79.1537372!16s%2Fg%2F1tj3jhqc!19sChIJu7IA3PU5rTsR38fL-A-u9eE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nalam+Medical+Center+and+Hospital/data=!4m7!3m6!1s0x3bad39f5dc00b2bb:0xe1f5ae0ff8cbc7df!8m2!3d12.9348794!4d79.1537372!16s%2Fg%2F1tj3jhqc!19sChIJu7IA3PU5rTsR38fL-A-u9eE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9348794,
+      "lng": 79.1537372,
+      "label": "Nalam Medical Center and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naruvi-hospitals-vellore",
+    "name": "Naruvi Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Naruvi Hospitals offers coordinated hospital care with major focus on Urologist Surgery In Vellore. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0416 666 1111",
+    "alternatePhone": "",
+    "website": "https://www.naruvihospitals.com/",
+    "address": "12, Chennai - Bengaluru Highway, 72, Collector's Office Rd, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "Collector's Office Rd",
+    "landmark": "72",
+    "emergencyContact": "0416 666 1111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Naruvi+Hospitals/data=!4m7!3m6!1s0x3bad38907aaafc99:0x85f4e76c54e6ef28!8m2!3d12.9334455!4d79.1415148!16s%2Fg%2F11hbpsb_w_!19sChIJmfyqepA4rTsRKO_mVGzn9IU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naruvi+Hospitals/data=!4m7!3m6!1s0x3bad38907aaafc99:0x85f4e76c54e6ef28!8m2!3d12.9334455!4d79.1415148!16s%2Fg%2F11hbpsb_w_!19sChIJmfyqepA4rTsRKO_mVGzn9IU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9334455,
+      "lng": 79.1415148,
+      "label": "Naruvi Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nithin-s-homeopathy-clinic-general-health-all-joint-pain-weight-loss-skin-speciality-clinic-vellore",
+    "name": "Nithin's Homeopathy Clinic- General health, All joint pain, Weight loss, Skin, speciality clinic",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Nithin's Homeopathy Clinic- General health, All joint pain, Weight loss, Skin, speciality clinic offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore, Homeopath, Orthopaedics, and Speciality Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "nithinshomeo@gmail.com",
+    "phone": "088071 10110",
+    "alternatePhone": "",
+    "website": "https://www.nithinshomeopathy.in/",
+    "address": "Nithins Homeopathy 1, MKS TOWERS, Sripuram Main Rd, Kamaraj Nagar, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "Kamaraj Nagar",
+    "landmark": "Sripuram Main Rd",
+    "emergencyContact": "088071 10110",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/nithinshomeopathy/",
+    "twitter": "https://twitter.com/ClinicNithin/",
+    "instagram": "https://www.instagram.com/nithinshomeopathy/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Homeopath",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nithin%27s+Homeopathy+Clinic-+General+health,+All+joint+pain,+Weight+loss,+Skin,+speciality+clinic/data=!4m7!3m6!1s0x3bad38e7372ad639:0x6492a52c04aee6b4!8m2!3d12.8899867!4d79.1220399!16s%2Fg%2F11f3vnnmkw!19sChIJOdYqN-c4rTsRtOauBCylkmQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nithin%27s+Homeopathy+Clinic-+General+health,+All+joint+pain,+Weight+loss,+Skin,+speciality+clinic/data=!4m7!3m6!1s0x3bad38e7372ad639:0x6492a52c04aee6b4!8m2!3d12.8899867!4d79.1220399!16s%2Fg%2F11f3vnnmkw!19sChIJOdYqN-c4rTsRtOauBCylkmQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8899867,
+      "lng": 79.1220399,
+      "label": "Nithin's Homeopathy Clinic- General health, All joint pain, Weight loss, Skin, speciality clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nithins-homeopathy-vellore",
+    "name": "Nithins Homeopathy",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Nithins Homeopathy delivers integrated care across Orthopedic Surgery In Vellore. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "nithinshomeo@gmail.com",
+    "phone": "0416 226 7346",
+    "alternatePhone": "+91 88071 10110",
+    "website": "http://nithinshomeopathy.in/",
+    "address": "1/28, DKM College Rd, Sainathapuram, RV Nagar, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "RV Nagar",
+    "landmark": "Sainathapuram",
+    "emergencyContact": "+91 88071 10110",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/nithinshomeopathy/",
+    "twitter": "https://twitter.com/ClinicNithin/",
+    "instagram": "https://www.instagram.com/nithinshomeopathy/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nithins+Homeopathy/data=!4m7!3m6!1s0x3bad398b8984b427:0x86ae44869700012f!8m2!3d12.8996467!4d79.1355012!16s%2Fg%2F11f7mwlq0j!19sChIJJ7SEiYs5rTsRLwEAl4ZEroY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nithins+Homeopathy/data=!4m7!3m6!1s0x3bad398b8984b427:0x86ae44869700012f!8m2!3d12.8996467!4d79.1355012!16s%2Fg%2F11f7mwlq0j!19sChIJJ7SEiYs5rTsRLwEAl4ZEroY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8996467,
+      "lng": 79.1355012,
+      "label": "Nithins Homeopathy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nizhal-hospitals-vellore",
+    "name": "Nizhal Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in vellore, Nizhal Hospitals brings together specialists for Gynecologist Surgery In Vellore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "hr@nizhalhospitals.com",
+    "phone": "099165 40481",
+    "alternatePhone": "90804 04375",
+    "website": "https://www.nizhalhospitals.com/",
+    "address": "No-1, ST-2, Ponnai Koot Road, vellore, Thiruvalam, Tamil Nadu 632515",
+    "city": "vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632515",
+    "locality": "Ponnai Koot Road",
+    "landmark": "Ponnai Koot Road",
+    "emergencyContact": "90804 04375",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://www.twitter.com/",
+    "instagram": "https://www.instagram.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nizhal+Hospitals/data=!4m7!3m6!1s0x3bad4926cf776795:0xe181db5ec32d5d9d!8m2!3d12.9899936!4d79.2623111!16s%2Fg%2F11xt_mxzyj!19sChIJlWd3zyZJrTsRnV0tw17bgeE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nizhal+Hospitals/data=!4m7!3m6!1s0x3bad4926cf776795:0xe181db5ec32d5d9d!8m2!3d12.9899936!4d79.2623111!16s%2Fg%2F11xt_mxzyj!19sChIJlWd3zyZJrTsRnV0tw17bgeE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9899936,
+      "lng": 79.2623111,
+      "label": "Nizhal Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-center-in-vellore-vellore",
+    "name": "Nova IVF Fertility Center - Best IVF Center in Vellore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Nova IVF Fertility Center - Best IVF Center in Vellore for its strength in IVF In Vellore and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 77112",
+    "alternatePhone": "080493 88781",
+    "website": "https://www.novaivffertility.com/ivf-centre/vellore/fertility-clinic-vellore?utm_source=GMB&utm_medium=organic",
+    "address": "Nova IVF Fertility, 2nd & 3rd Floor, NRK Towers Palar Salai, Above OLA Electric Bikes Viruthampet, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Katpadi",
+    "landmark": "NRK Towers Palar Salai",
+    "emergencyContact": "080493 88781",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Vellore/data=!4m7!3m6!1s0x3bad39ff450bc2eb:0x1f0b2879823cd904!8m2!3d12.9422578!4d79.1378803!16s%2Fg%2F11wntx60kc!19sChIJ68ILRf85rTsRBNk8gnkoCx8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Vellore/data=!4m7!3m6!1s0x3bad39ff450bc2eb:0x1f0b2879823cd904!8m2!3d12.9422578!4d79.1378803!16s%2Fg%2F11wntx60kc!19sChIJ68ILRf85rTsRBNk8gnkoCx8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9422578,
+      "lng": 79.1378803,
+      "label": "Nova IVF Fertility Center - Best IVF Center in Vellore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ortho-clinic-the-unite-of-manisundaram-medical-mission-vellore",
+    "name": "ORTHO CLINIC (The unite of Manisundaram medical mission)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORTHO CLINIC (The unite of Manisundaram medical mission) has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Orthopedic Surgery In Vellore and Orthopaedics. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094436 90837",
+    "alternatePhone": "",
+    "website": "",
+    "address": "V4QP+4F3, Jinnu Mudiyar St, RV Nagar, Bagayam, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "Bagayam",
+    "landmark": "RV Nagar",
+    "emergencyContact": "094436 90837",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/ORTHO+CLINIC+%28The+unite+of+Manisundaram+medical+mission%29/data=!4m7!3m6!1s0x3bad393750202e8f:0xa3da09a1cc047933!8m2!3d12.8877576!4d79.1361627!16s%2Fg%2F11qlsnwtdm!19sChIJjy4gUDc5rTsRM3kEzKEJ2qM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORTHO+CLINIC+%28The+unite+of+Manisundaram+medical+mission%29/data=!4m7!3m6!1s0x3bad393750202e8f:0xa3da09a1cc047933!8m2!3d12.8877576!4d79.1361627!16s%2Fg%2F11qlsnwtdm!19sChIJjy4gUDc5rTsRM3kEzKEJ2qM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8877576,
+      "lng": 79.1361627,
+      "label": "ORTHO CLINIC (The unite of Manisundaram medical mission)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pediatree-dr-naresh-child-clinic-vellore",
+    "name": "Pediatree-Dr Naresh child clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Pediatree-Dr Naresh child clinic for its strength in Gynecologist Surgery In Vellore and Women and Child Care. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080567 45999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10, Post Office Rd, near Venus theatre, Krishna Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Veerasamy Nagar",
+    "landmark": "near Venus theatre, Krishna Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
+    "emergencyContact": "080567 45999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Pediatree-Dr+Naresh+child+clinic/data=!4m7!3m6!1s0x3bad394c93ca69ab:0xf8cbdcf8a158586e!8m2!3d12.9023646!4d79.129257!16s%2Fg%2F11rttd9cg1!19sChIJq2nKk0w5rTsRblhYofjcy_g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pediatree-Dr+Naresh+child+clinic/data=!4m7!3m6!1s0x3bad394c93ca69ab:0xf8cbdcf8a158586e!8m2!3d12.9023646!4d79.129257!16s%2Fg%2F11rttd9cg1!19sChIJq2nKk0w5rTsRblhYofjcy_g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9023646,
+      "lng": 79.129257,
+      "label": "Pediatree-Dr Naresh child clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "premji-neuro-hospital-vellore",
+    "name": "Premji Neuro Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Premji Neuro Hospital for its strength in Spine Surgery In Vellore and Neurosciences. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@premjineuro.com",
+    "phone": "093805 26266",
+    "alternatePhone": "0416 226 7266",
+    "website": "http://premjineuro2004.com/",
+    "address": "Chitheri, road, near Female jail, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "near Female jail",
+    "landmark": "near Female jail, Vellore, Tamil Nadu 632002",
+    "emergencyContact": "0416 226 7266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Vellore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Premji+Neuro+Hospital/data=!4m7!3m6!1s0x3bad3943a0860ce9:0x2bfaa6d888b60150!8m2!3d12.8768839!4d79.1188701!16s%2Fg%2F11fk8fhk71!19sChIJ6QyGoEM5rTsRUAG2iNim-is?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Premji+Neuro+Hospital/data=!4m7!3m6!1s0x3bad3943a0860ce9:0x2bfaa6d888b60150!8m2!3d12.8768839!4d79.1188701!16s%2Fg%2F11fk8fhk71!19sChIJ6QyGoEM5rTsRUAG2iNim-is?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8768839,
+      "lng": 79.1188701,
+      "label": "Premji Neuro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prithviraj-ortho-and-neuro-pain-clinic-vellore",
+    "name": "Prithviraj Ortho and Neuro Pain Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Vellore, Prithviraj Ortho and Neuro Pain Clinic delivers integrated care across Orthopedic Surgery In Vellore, Neurosciences, and Orthopaedics. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094439 99999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W4WP+Q6G 2nd West main Road Suthanthira Ponvizha Nagar, Gandhinagar West, Gandhi Nagar, VIDHYA NIKETHEN SCHOOL ROAD, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Katpadi",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "094439 99999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Neurosciences",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Prithviraj+Ortho+and+Neuro+Pain+Clinic/@12.9469245,79.135608,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad470f1f75a5b5:0xc74677c8e6cf3770!8m2!3d12.9469245!4d79.135608!16s%2Fg%2F11hycm1b8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prithviraj+Ortho+and+Neuro+Pain+Clinic/@12.9469245,79.135608,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad470f1f75a5b5:0xc74677c8e6cf3770!8m2!3d12.9469245!4d79.135608!16s%2Fg%2F11hycm1b8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9469245,
+      "lng": 79.135608,
+      "label": "Prithviraj Ortho and Neuro Pain Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "priya-nursing-home-and-kidney-stone-centre-vellore",
+    "name": "PRIYA NURSING HOME & KIDNEY STONE CENTRE",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted nursing home in Vellore, PRIYA NURSING HOME & KIDNEY STONE CENTRE delivers integrated care across Urologist Surgery In Vellore, Nursing Home, and Kidney Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080451 33662",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NO-27, Veppamaram St, Velapadi, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Velapadi",
+    "landmark": "Velapadi",
+    "emergencyContact": "080451 33662",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore",
+      "Nursing Home",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PRIYA+NURSING+HOME+%26+KIDNEY+STONE+CENTRE/data=!4m7!3m6!1s0x3bad38e12ecaba61:0x5ce919e232ef48ce!8m2!3d12.9057768!4d79.1355196!16s%2Fg%2F11c5rmfwy8!19sChIJYbrKLuE4rTsRzkjvMuIZ6Vw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRIYA+NURSING+HOME+%26+KIDNEY+STONE+CENTRE/data=!4m7!3m6!1s0x3bad38e12ecaba61:0x5ce919e232ef48ce!8m2!3d12.9057768!4d79.1355196!16s%2Fg%2F11c5rmfwy8!19sChIJYbrKLuE4rTsRzkjvMuIZ6Vw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9057768,
+      "lng": 79.1355196,
+      "label": "PRIYA NURSING HOME & KIDNEY STONE CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-m-hospital-vellore",
+    "name": "R M Hospital",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R M Hospital is a prominent medical center in Vellore, known for structured tertiary care across Gynecologist Surgery In Vellore and Medical Center. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "support@rmhospital.org",
+    "phone": "084384 57292",
+    "alternatePhone": "0416 224 8279",
+    "website": "https://rmhospital.org/",
+    "address": "286/176, Vellore - Chittoor Rd, Chittoor Bus Stand, Dharapadavedu, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "Chittoor Bus Stand",
+    "emergencyContact": "0416 224 8279",
+    "emergencyServices": false,
+    "facebook": "http://facebook.com",
+    "twitter": "http://twitter.com",
+    "instagram": "https://www.instagram.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/R+M+Hospital/@12.9666824,79.1369249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad47002df0f005:0xddfb3f06a0b795be!8m2!3d12.9666824!4d79.1369249!16s%2Fg%2F11w7hlkt5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R+M+Hospital/@12.9666824,79.1369249,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad47002df0f005:0xddfb3f06a0b795be!8m2!3d12.9666824!4d79.1369249!16s%2Fg%2F11w7hlkt5w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9666824,
+      "lng": 79.1369249,
+      "label": "R M Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajiv-ortho-clinic-vellore",
+    "name": "Rajiv Ortho Clinic",
+    "type": "Business Related",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rajiv Ortho Clinic is a prominent business related in Vellore, known for structured tertiary care across Orthopedic Surgery In Vellore, Business Related, and Orthopaedics. Its infrastructure includes Google rating 3.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074187 00950",
+    "alternatePhone": "",
+    "website": "",
+    "address": "16, 4th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Gandhi Nagar",
+    "landmark": "Suthanthira Ponvizha Nagar",
+    "emergencyContact": "074187 00950",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Business Related",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Rajiv+Ortho+Clinic/data=!4m7!3m6!1s0x3bad476f4ae6907d:0x66c5060872597ffa!8m2!3d12.9586847!4d79.1380267!16s%2Fg%2F11tms0q7_h!19sChIJfZDmSm9HrTsR-n9ZcggGxWY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajiv+Ortho+Clinic/data=!4m7!3m6!1s0x3bad476f4ae6907d:0x66c5060872597ffa!8m2!3d12.9586847!4d79.1380267!16s%2Fg%2F11tms0q7_h!19sChIJfZDmSm9HrTsR-n9ZcggGxWY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9586847,
+      "lng": 79.1380267,
+      "label": "Rajiv Ortho Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "renu-s-physiotherapy-clinic-vellore",
+    "name": "Renu's Physiotherapy Clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Vellore, Renu's Physiotherapy Clinic delivers integrated care across Orthopedic Surgery In Vellore and Physiotherapy Center. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099441 21310",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10, 8th East Main Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Katpadi",
+    "landmark": "Suthanthira Ponvizha Nagar",
+    "emergencyContact": "099441 21310",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Renu%27s+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bad477ca9803d9d:0xdd57ddeb7fee3949!8m2!3d12.9506727!4d79.1414761!16s%2Fg%2F11c74hghs2!19sChIJnT2AqXxHrTsRSTnuf-vdV90?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Renu%27s+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bad477ca9803d9d:0xdd57ddeb7fee3949!8m2!3d12.9506727!4d79.1414761!16s%2Fg%2F11c74hghs2!19sChIJnT2AqXxHrTsRSTnuf-vdV90?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9506727,
+      "lng": 79.1414761,
+      "label": "Renu's Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rjr-herbal-hospital-vellore-vellore",
+    "name": "RJR Herbal Hospital - Vellore",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RJR Herbal Hospital - Vellore has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Orthopedic Surgery In Vellore. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "care@rjrherbalhospitals.com",
+    "phone": "0416 223 4006",
+    "alternatePhone": "+91 95149 55555",
+    "website": "https://www.rjrherbalhospitals.com/vellore.php",
+    "address": "No 61/1B2, 1st Floor, SK Tower Ward No 1 Block No 3 Palar river Side Road New Bypass, Bengaluru - Chennai Hwy, Chennai, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "Chennai",
+    "landmark": "SK Tower Ward No 1 Block No 3 Palar river Side Road New Bypass",
+    "emergencyContact": "+91 95149 55555",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rjrherbalhospitals/?ref=pages_you_manage",
+    "twitter": "https://twitter.com/HospitalsRjr?s=09",
+    "instagram": "https://www.instagram.com/rjrherbalhospitals/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCD4PIJkloBDx5XzR4I9ayAA",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+Vellore/data=!4m7!3m6!1s0x3bad388f0b58e243:0xd3c7dc676cc30062!8m2!3d12.9333612!4d79.1424934!16s%2Fg%2F11f_j3ftv_!19sChIJQ-JYC484rTsRYgDDbGfcx9M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RJR+Herbal+Hospital+-+Vellore/data=!4m7!3m6!1s0x3bad388f0b58e243:0xd3c7dc676cc30062!8m2!3d12.9333612!4d79.1424934!16s%2Fg%2F11f_j3ftv_!19sChIJQ-JYC484rTsRYgDDbGfcx9M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9333612,
+      "lng": 79.1424934,
+      "label": "RJR Herbal Hospital - Vellore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-n-murthy-clinic-vellore",
+    "name": "S N Murthy Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, S N Murthy Clinic brings together specialists for Neurosurgeon In Vellore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094869 70175",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 641, South Avenue Road, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "094869 70175",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/S+N+Murthy+Clinic/data=!4m7!3m6!1s0x3bad3862b39fbc8f:0x39ac698d1b2f9e5d!8m2!3d12.9344243!4d79.1590339!16s%2Fg%2F11c61l126t!19sChIJj7yfs2I4rTsRXZ4vG41prDk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S+N+Murthy+Clinic/data=!4m7!3m6!1s0x3bad3862b39fbc8f:0x39ac698d1b2f9e5d!8m2!3d12.9344243!4d79.1590339!16s%2Fg%2F11c61l126t!19sChIJj7yfs2I4rTsRXZ4vG41prDk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9344243,
+      "lng": 79.1590339,
+      "label": "S N Murthy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-m-gynec-and-infertility-clinic-omsakthi-vinayagar-kovil-street",
+    "name": "S.M.GYNEC AND INFERTILITY CLINIC",
+    "type": "Women's Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in omsakthi vinayagar kovil street, S.M.GYNEC AND INFERTILITY CLINIC offers coordinated hospital care with major focus on Gynecologist Surgery In Vellore, Women and Child Care, and Fertility Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086109 90988",
+    "alternatePhone": "",
+    "website": "",
+    "address": "no 180,omsakthi vinayagar kovil street, Tamil Nadu 632006",
+    "city": "omsakthi vinayagar kovil street",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "no 180",
+    "landmark": "Tamil Nadu 632006",
+    "emergencyContact": "086109 90988",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/S.M.GYNEC+AND+INFERTILITY+CLINIC/@12.9521389,79.1459499,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad4764d879bd2d:0xccb86eccd6b6d1ae!8m2!3d12.9521389!4d79.1459499!16s%2Fg%2F11ny4bs_62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S.M.GYNEC+AND+INFERTILITY+CLINIC/@12.9521389,79.1459499,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad4764d879bd2d:0xccb86eccd6b6d1ae!8m2!3d12.9521389!4d79.1459499!16s%2Fg%2F11ny4bs_62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9521389,
+      "lng": 79.1459499,
+      "label": "S.M.GYNEC AND INFERTILITY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-p-mother-care-clinic-vellore",
+    "name": "S.P Mother care clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, S.P Mother care clinic offers coordinated hospital care with major focus on Gynecologist Surgery In Vellore. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086829 00966",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old Katpadi, Solai Nagar, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "Katpadi",
+    "emergencyContact": "086829 00966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/S.P+Mother+care+clinic/data=!4m7!3m6!1s0x3bad4772acb20ea9:0xd9b4d4295f93023!8m2!3d12.9691627!4d79.1440094!16s%2Fg%2F1pp2tzpcj!19sChIJqQ6yrHJHrTsRIzD5lUJNmw0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S.P+Mother+care+clinic/data=!4m7!3m6!1s0x3bad4772acb20ea9:0xd9b4d4295f93023!8m2!3d12.9691627!4d79.1440094!16s%2Fg%2F1pp2tzpcj!19sChIJqQ6yrHJHrTsRIzD5lUJNmw0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9691627,
+      "lng": 79.1440094,
+      "label": "S.P Mother care clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaral-fertility-and-women-s-health-centre-vellore",
+    "name": "Saaral Fertility and Women's Health Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, Saaral Fertility and Women's Health Centre brings together specialists for IVF In Vellore, Women and Child Care, and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "saaralfertilitycentre@gmail.com",
+    "phone": "063851 69309",
+    "alternatePhone": "",
+    "website": "http://saaralfertilitycentre.com/",
+    "address": "Vasan Dental Complex, 73/1, Vellore - Chittoor Rd, next to Easybuy, Suthanthira Ponvizha Nagar, Venkatraman Nagar, Katpadi, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Katpadi",
+    "landmark": "Vellore - Chittoor Rd",
+    "emergencyContact": "063851 69309",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vellore",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaral+Fertility+and+Women%27s+Health+Centre/data=!4m7!3m6!1s0x3bad47a8e7250cdb:0xc6e88a539f4c2e74!8m2!3d12.9568606!4d79.1368718!16s%2Fg%2F11x1n4wt_j!19sChIJ2wwl56hHrTsRdC5Mn1OK6MY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaral+Fertility+and+Women%27s+Health+Centre/data=!4m7!3m6!1s0x3bad47a8e7250cdb:0xc6e88a539f4c2e74!8m2!3d12.9568606!4d79.1368718!16s%2Fg%2F11x1n4wt_j!19sChIJ2wwl56hHrTsRdC5Mn1OK6MY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9568606,
+      "lng": 79.1368718,
+      "label": "Saaral Fertility and Women's Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-srishti-women-and-fertility-clinic-arun-hospital-vellore",
+    "name": "Sai srishti women and fertility clinic -Arun Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Sai srishti women and fertility clinic -Arun Hospital delivers integrated care across IVF In Vellore, Women and Child Care, and Fertility Care. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0416 223 4217",
+    "alternatePhone": "",
+    "website": "",
+    "address": "no.15, Thiyagarajapuram Rd, Sasthri Nagar, Veerasamy Nagar, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Veerasamy Nagar",
+    "landmark": "Sasthri Nagar",
+    "emergencyContact": "0416 223 4217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Vellore",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+srishti+women+and+fertility+clinic+-Arun+Hospital/@12.9037646,79.132012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38e083693f6b:0x65a7c09e41deca8a!8m2!3d12.9037646!4d79.132012!16s%2Fg%2F11c6qpk2k7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+srishti+women+and+fertility+clinic+-Arun+Hospital/@12.9037646,79.132012,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38e083693f6b:0x65a7c09e41deca8a!8m2!3d12.9037646!4d79.132012!16s%2Fg%2F11c6qpk2k7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9037646,
+      "lng": 79.132012,
+      "label": "Sai srishti women and fertility clinic -Arun Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saint-marys-hospital-vellore",
+    "name": "Saint Marys Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saint Marys Hospital is a prominent hospital in Vellore, known for structured tertiary care across Urologist Surgery In Vellore. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "stmaryshospitalkpd@gmail.com",
+    "phone": "099433 34063",
+    "alternatePhone": "",
+    "website": "http://www.stmaryskpd.com/",
+    "address": "53, Saint Marys Hospital, Plot No 52, Balaji Nagar Extension Main Rd, Suthanthira Ponvizha Nagar, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "Plot No 52",
+    "emergencyContact": "099433 34063",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saint+Marys+Hospital/data=!4m7!3m6!1s0x3bad4700547dbfd1:0x89967713e7b0db70!8m2!3d12.9653443!4d79.1357694!16s%2Fg%2F11x2qsd12p!19sChIJ0b99VABHrTsRcNuw5xN3lok?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saint+Marys+Hospital/data=!4m7!3m6!1s0x3bad4700547dbfd1:0x89967713e7b0db70!8m2!3d12.9653443!4d79.1357694!16s%2Fg%2F11x2qsd12p!19sChIJ0b99VABHrTsRcNuw5xN3lok?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9653443,
+      "lng": 79.1357694,
+      "label": "Saint Marys Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sakthibalaji-clinic-and-nursing-home-vellore",
+    "name": "Sakthibalaji Clinic & Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sakthibalaji Clinic & Nursing Home has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Gynecologist Surgery In Vellore. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090039 36769",
+    "alternatePhone": "",
+    "website": "https://sakthibalajiclinic.com/",
+    "address": "Thorapadi kumarasamy, 2nd St, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "2nd St",
+    "landmark": "Vellore",
+    "emergencyContact": "090039 36769",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sakthibalaji+Clinic+%26+Nursing+Home/data=!4m7!3m6!1s0x3bad39246cc5bfcf:0x8815acacc390f3d8!8m2!3d12.8930163!4d79.1257236!16s%2Fg%2F11dxck2gzg!19sChIJz7_FbCQ5rTsR2POQw6ysFYg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sakthibalaji+Clinic+%26+Nursing+Home/data=!4m7!3m6!1s0x3bad39246cc5bfcf:0x8815acacc390f3d8!8m2!3d12.8930163!4d79.1257236!16s%2Fg%2F11dxck2gzg!19sChIJz7_FbCQ5rTsR2POQw6ysFYg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8930163,
+      "lng": 79.1257236,
+      "label": "Sakthibalaji Clinic & Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sandhya-hospital-vellore",
+    "name": "Sandhya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Sandhya Hospital delivers integrated care across Orthopedic Surgery In Vellore. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@sandhyahospital.com",
+    "phone": "0416 225 3357",
+    "alternatePhone": "+91 84898 99900",
+    "website": "http://sandhyahospital.com/",
+    "address": "W5Q9+C9X, No.565,, Phase.I, Sathuvachary, Phase III, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase.I",
+    "emergencyContact": "+91 84898 99900",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/Sandhya-Hospital-Vellore-100078062542287/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sandhya+Hospital/data=!4m7!3m6!1s0x3bad387050af0a83:0x1f0d2b1176b02d15!8m2!3d12.9383188!4d79.1683498!16s%2Fg%2F1tl7m4fw!19sChIJgwqvUHA4rTsRFS2wdhErDR8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sandhya+Hospital/data=!4m7!3m6!1s0x3bad387050af0a83:0x1f0d2b1176b02d15!8m2!3d12.9383188!4d79.1683498!16s%2Fg%2F1tl7m4fw!19sChIJgwqvUHA4rTsRFS2wdhErDR8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9383188,
+      "lng": 79.1683498,
+      "label": "Sandhya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santhosh-physiotherapy-ortho-and-neuro-pain-clinic-vellore",
+    "name": "Santhosh Physiotherapy Ortho & Neuro Pain Clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Vellore, Santhosh Physiotherapy Ortho & Neuro Pain Clinic delivers integrated care across Orthopedic Surgery In Vellore, Physiotherapy Center, Neurosciences, and Orthopaedics. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097908 43307",
+    "alternatePhone": "",
+    "website": "",
+    "address": "36, Azad Rd, above Tata play sales & services, Balaji Nagar, Thorapadi, Vellore, Tamil Nadu 632002",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632002",
+    "locality": "Thorapadi",
+    "landmark": "above Tata play sales & services",
+    "emergencyContact": "097908 43307",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapy Center",
+      "Neurosciences",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Santhosh+Physiotherapy+Ortho+%26+Neuro+Pain+Clinic/data=!4m7!3m6!1s0x3bad396f80e51587:0x816828880f457878!8m2!3d12.8913944!4d79.1236137!16s%2Fg%2F11lc_z7vm4!19sChIJhxXlgG85rTsReHhFD4goaIE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santhosh+Physiotherapy+Ortho+%26+Neuro+Pain+Clinic/data=!4m7!3m6!1s0x3bad396f80e51587:0x816828880f457878!8m2!3d12.8913944!4d79.1236137!16s%2Fg%2F11lc_z7vm4!19sChIJhxXlgG85rTsReHhFD4goaIE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8913944,
+      "lng": 79.1236137,
+      "label": "Santhosh Physiotherapy Ortho & Neuro Pain Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-clinic-vellore",
+    "name": "Shivam Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Shivam Clinic offers coordinated hospital care with major focus on Gynecologist Surgery In Vellore. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097866 22321",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 9, 5, Thiruvalluvar St, Dharapadavedu, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "Thiruvalluvar St",
+    "emergencyContact": "097866 22321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shivam+Clinic/data=!4m7!3m6!1s0x3bad4714b249ca87:0xf320f19c45f0b1!8m2!3d12.9685557!4d79.1380973!16s%2Fg%2F1tj94w56!19sChIJh8pJshRHrTsRsfBFnPEg8wA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivam+Clinic/data=!4m7!3m6!1s0x3bad4714b249ca87:0xf320f19c45f0b1!8m2!3d12.9685557!4d79.1380973!16s%2Fg%2F1tj94w56!19sChIJh8pJshRHrTsRsfBFnPEg8wA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9685557,
+      "lng": 79.1380973,
+      "label": "Shivam Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-nidhi-physiotherapy-clinic-vellore",
+    "name": "Shree Nidhi Physiotherapy Clinic",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Shree Nidhi Physiotherapy Clinic offers coordinated hospital care with major focus on Orthopedic Surgery In Vellore and Physiotherapist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099944 17011",
+    "alternatePhone": "",
+    "website": "https://shreenidhiphysio.com/",
+    "address": "No: 14 646 A, 42nd St, near Bhuvaneswari Lodge, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "near Bhuvaneswari Lodge, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "emergencyContact": "099944 17011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Nidhi+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bad3862d9ed9a81:0xd438ad3c17e744c5!8m2!3d12.9347053!4d79.15737!16s%2Fg%2F11dxb0g1n2!19sChIJgZrt2WI4rTsRxUTnFzytONQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Nidhi+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3bad3862d9ed9a81:0xd438ad3c17e744c5!8m2!3d12.9347053!4d79.15737!16s%2Fg%2F11dxb0g1n2!19sChIJgZrt2WI4rTsRxUTnFzytONQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9347053,
+      "lng": 79.15737,
+      "label": "Shree Nidhi Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sims-hospitals-vellore-office-vellore",
+    "name": "SIMS Hospitals - Vellore Office",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, SIMS Hospitals - Vellore Office delivers integrated care across Gynecologist Surgery In Vellore. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0442 000 2020",
+    "alternatePhone": "",
+    "website": "http://www.simshospitals.com/",
+    "address": "Thottapalayam, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "Thottapalayam",
+    "landmark": "Tamil Nadu 632004",
+    "emergencyContact": "0442 000 2020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "http://nginx.com/",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SIMS+Hospitals+-+Vellore+Office/data=!4m7!3m6!1s0x3bad397841ed055b:0x304c97d612b3f72!8m2!3d12.9319776!4d79.1407094!16s%2Fg%2F11j3hr_cty!19sChIJWwXtQXg5rTsRcj8rYX3JBAM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SIMS+Hospitals+-+Vellore+Office/data=!4m7!3m6!1s0x3bad397841ed055b:0x304c97d612b3f72!8m2!3d12.9319776!4d79.1407094!16s%2Fg%2F11j3hr_cty!19sChIJWwXtQXg5rTsRcj8rYX3JBAM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9319776,
+      "lng": 79.1407094,
+      "label": "SIMS Hospitals - Vellore Office",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-hari-medical-centre-vellore",
+    "name": "Sri Hari Medical Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Hari Medical Centre has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Urologist Surgery In Vellore. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096775 46544",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Municipal Colony, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Gandhi Nagar",
+    "landmark": "Vellore",
+    "emergencyContact": "096775 46544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Hari+Medical+Centre/data=!4m7!3m6!1s0x3bad4761ea46954d:0xafaebf4887d207b0!8m2!3d12.9485896!4d79.1382636!16s%2Fg%2F11b62zmblz!19sChIJTZVG6mFHrTsRsAfSh0i_rq8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Hari+Medical+Centre/data=!4m7!3m6!1s0x3bad4761ea46954d:0xafaebf4887d207b0!8m2!3d12.9485896!4d79.1382636!16s%2Fg%2F11b62zmblz!19sChIJTZVG6mFHrTsRsAfSh0i_rq8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9485896,
+      "lng": 79.1382636,
+      "label": "Sri Hari Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-narayani-hospital-and-research-centre-vellore",
+    "name": "Sri Narayani Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, Sri Narayani Hospital & Research Centre brings together specialists for Liver Transplant Surgery In Vellore. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@snhrc.org",
+    "phone": "0416 220 6300",
+    "alternatePhone": "+91 99522 81684",
+    "website": "https://narayanihospital.com/",
+    "address": "Azad Rd, Thirumalaikodi, Vellore, Tamil Nadu 632055",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632055",
+    "locality": "Thirumalaikodi",
+    "landmark": "Vellore",
+    "emergencyContact": "+91 99522 81684",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SriNarayaniHospitalAndResearchCentre/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/srinarayanihospital/",
+    "linkedin": "",
+    "youtube": "https://youtu.be/dreND0-OVx8?si=4xXZc7b5WWkzZ3wy",
+    "specialties": [
+      "Liver Transplant Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Narayani+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3bad3ebe7d3e3d61:0x170fc3990f60433b!8m2!3d12.8704797!4d79.089967!16s%2Fm%2F0_s1tkx!19sChIJYT0-fb4-rTsRO0NgD5nDDxc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Narayani+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3bad3ebe7d3e3d61:0x170fc3990f60433b!8m2!3d12.8704797!4d79.089967!16s%2Fm%2F0_s1tkx!19sChIJYT0-fb4-rTsRO0NgD5nDDxc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.8704797,
+      "lng": 79.089967,
+      "label": "Sri Narayani Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-priyam-speciality-clinic-vellore",
+    "name": "SRI PRIYAM SPECIALITY CLINIC",
+    "type": "Specialized Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Vellore, SRI PRIYAM SPECIALITY CLINIC brings together specialists for Orthopedic Surgery In Vellore and Speciality Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073898 17445",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jandamara Street, opposite UZHAVAR SANDHAI, M.G.R. Nagar, Kilithampatarai, Katpadi, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Katpadi",
+    "landmark": "opposite UZHAVAR SANDHAI, M.G.R. Nagar, Kilithampatarai, Katpadi, Vellore, Tamil Nadu 632007",
+    "emergencyContact": "073898 17445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SRI+PRIYAM+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x3bad470076f6126d:0xb3eaf9e891a8ffeb!8m2!3d12.9737108!4d79.136463!16s%2Fg%2F11y288fjry!19sChIJbRL2dgBHrTsR6_-okej56rM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRI+PRIYAM+SPECIALITY+CLINIC/data=!4m7!3m6!1s0x3bad470076f6126d:0xb3eaf9e891a8ffeb!8m2!3d12.9737108!4d79.136463!16s%2Fg%2F11y288fjry!19sChIJbRL2dgBHrTsR6_-okej56rM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9737108,
+      "lng": 79.136463,
+      "label": "SRI PRIYAM SPECIALITY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-ragav-neuro-clinic-vellore",
+    "name": "Sri Ragav Neuro Clinic",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Sri Ragav Neuro Clinic for its strength in Neurosurgeon In Vellore and Neurosciences. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 64, Kosa St, Kosapet, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Kosapet",
+    "landmark": "Kosapet",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Vellore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Ragav+Neuro+Clinic/data=!4m7!3m6!1s0x3bad38e84f40e905:0x8dd48fadf71c711e!8m2!3d12.9140314!4d79.134111!16s%2Fg%2F11q2ykbxpf!19sChIJBelAT-g4rTsRHnEc962P1I0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Ragav+Neuro+Clinic/data=!4m7!3m6!1s0x3bad38e84f40e905:0x8dd48fadf71c711e!8m2!3d12.9140314!4d79.134111!16s%2Fg%2F11q2ykbxpf!19sChIJBelAT-g4rTsRHnEc962P1I0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9140314,
+      "lng": 79.134111,
+      "label": "Sri Ragav Neuro Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sakthi-amma-hospital-next-to-k-s-t-suresh-clinic-vallalar",
+    "name": "Sri Sakthi Amma Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Sakthi Amma Hospital has built a strong reputation in Next To K.S.T. Suresh Clinic Vallalar for multidisciplinary treatment pathways covering Orthopedic Surgery In Vellore. Hospital capacity markers such as Google rating 3.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 80, Phase 1, Bharathi Nagar Phase- 1, Next To K.S.T. Suresh Clinic Vallalar, Tamil Nadu 632009",
+    "city": "Next To K.S.T. Suresh Clinic Vallalar",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Bharathi Nagar Phase- 1",
+    "landmark": "Bharathi Nagar Phase- 1",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sakthi+Amma+Hospital/@12.9361366,79.1643798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad387acbe01fed:0xb2069385aef578cd!8m2!3d12.9361366!4d79.1643798!16s%2Fg%2F1tdd3q4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sakthi+Amma+Hospital/@12.9361366,79.1643798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad387acbe01fed:0xb2069385aef578cd!8m2!3d12.9361366!4d79.1643798!16s%2Fg%2F1tdd3q4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9361366,
+      "lng": 79.1643798,
+      "label": "Sri Sakthi Amma Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinisha-clinic-vellore",
+    "name": "Srinisha Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vellore, Srinisha Clinic offers coordinated hospital care with major focus on Gynecologist Surgery In Vellore. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090802 29456",
+    "alternatePhone": "",
+    "website": "",
+    "address": "mosque, Nazam Center Katpadi Road, Street, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Street",
+    "landmark": "Street",
+    "emergencyContact": "090802 29456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Srinisha+Clinic/@12.943594,79.1349483,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad394cd470532f:0x547193925473f79!8m2!3d12.943594!4d79.1349483!16s%2Fg%2F11lf2lq3bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinisha+Clinic/@12.943594,79.1349483,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad394cd470532f:0x547193925473f79!8m2!3d12.943594!4d79.1349483!16s%2Fg%2F11lf2lq3bk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.943594,
+      "lng": 79.1349483,
+      "label": "Srinisha Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ssv-clinic-vellore",
+    "name": "SSV Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SSV Clinic has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Orthopedic Surgery In Vellore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "X48Q+W2R Om siva Medicals back side, Elango Street, Dharapadavedu, Vellore, Tamil Nadu 632007",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632007",
+    "locality": "Dharapadavedu",
+    "landmark": "Dharapadavedu",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SSV+Clinic/@12.967366,79.1375128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad47aa9d11e975:0xdcd1eb6a10227bd6!8m2!3d12.967366!4d79.1375128!16s%2Fg%2F11qn0bmtbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSV+Clinic/@12.967366,79.1375128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad47aa9d11e975:0xdcd1eb6a10227bd6!8m2!3d12.967366!4d79.1375128!16s%2Fg%2F11qn0bmtbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.967366,
+      "lng": 79.1375128,
+      "label": "SSV Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudha-fertility-centre-vellore-best-fertility-centre-in-vellore-ivf-specialist-best-ivf-treatment-centre-vellore",
+    "name": "Sudha Fertility Centre Vellore - Best Fertility Centre in Vellore | IVF Specialist | Best IVF Treatment Centre.",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Sudha Fertility Centre Vellore - Best Fertility Centre in Vellore | IVF Specialist | Best IVF Treatment Centre. for its strength in IVF In Vellore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "care@sudhahospitals.com",
+    "phone": "076700 76006",
+    "alternatePhone": "",
+    "website": "https://sudhafertilitycentre.com/fertility-centre-in-vellore",
+    "address": "X45R+C2X, 24, 4th East Cross Rd, Suthanthira Ponvizha Nagar, Gandhi Nagar, Vellore, Tamil Nadu 632006",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632006",
+    "locality": "Gandhi Nagar",
+    "landmark": "4th East Cross Rd",
+    "emergencyContact": "076700 76006",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/sudhafertilitycentre/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/sudhafertilitycentre/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@sudhafertilitycentre",
+    "specialties": [
+      "IVF In Vellore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sudha+Fertility+Centre+Vellore+-+Best+Fertility+Centre+in+Vellore+%7C+IVF+Specialist+%7C+Best+IVF+Treatment+Centre./data=!4m7!3m6!1s0x3bad476f40487181:0xcb743a89b8b7a800!8m2!3d12.9586256!4d79.1402773!16s%2Fg%2F11k4rk72m_!19sChIJgXFIQG9HrTsRAKi3uIk6dMs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudha+Fertility+Centre+Vellore+-+Best+Fertility+Centre+in+Vellore+%7C+IVF+Specialist+%7C+Best+IVF+Treatment+Centre./data=!4m7!3m6!1s0x3bad476f40487181:0xcb743a89b8b7a800!8m2!3d12.9586256!4d79.1402773!16s%2Fg%2F11k4rk72m_!19sChIJgXFIQG9HrTsRAKi3uIk6dMs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9586256,
+      "lng": 79.1402773,
+      "label": "Sudha Fertility Centre Vellore - Best Fertility Centre in Vellore | IVF Specialist | Best IVF Treatment Centre.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudhagar-hospital-vellore",
+    "name": "Sudhagar Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Sudhagar Hospital for its strength in Orthopedic Surgery In Vellore. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094876 12141",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14, Government Pentland Hospital Rd, Kosapet, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Kosapet",
+    "landmark": "Kosapet",
+    "emergencyContact": "094876 12141",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sudhagar+Hospital/data=!4m7!3m6!1s0x3bad38e9b9d4c857:0xc66e5cac19797f9f!8m2!3d12.9154309!4d79.1333126!16s%2Fg%2F1hm5g871p!19sChIJV8jUuek4rTsRn395GaxcbsY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudhagar+Hospital/data=!4m7!3m6!1s0x3bad38e9b9d4c857:0xc66e5cac19797f9f!8m2!3d12.9154309!4d79.1333126!16s%2Fg%2F1hm5g871p!19sChIJV8jUuek4rTsRn395GaxcbsY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9154309,
+      "lng": 79.1333126,
+      "label": "Sudhagar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "varshini-hospital-vellore",
+    "name": "Varshini Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Varshini Hospital is a prominent hospital in Vellore, known for structured tertiary care across Orthopedic Surgery In Vellore. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0416 222 2108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "78, Veppamaram St, Arni Rd, Velapadi, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Velapadi",
+    "landmark": "Arni Rd",
+    "emergencyContact": "0416 222 2108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Varshini+Hospital/data=!4m7!3m6!1s0x3bad38e0d5e4a613:0x635fd82d193ade50!8m2!3d12.905953!4d79.1355468!16s%2Fg%2F11csccjcs2!19sChIJE6bk1eA4rTsRUN46GS3YX2M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Varshini+Hospital/data=!4m7!3m6!1s0x3bad38e0d5e4a613:0x635fd82d193ade50!8m2!3d12.905953!4d79.1355468!16s%2Fg%2F11csccjcs2!19sChIJE6bk1eA4rTsRUN46GS3YX2M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.905953,
+      "lng": 79.1355468,
+      "label": "Varshini Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vellore-cancer-and-surgery-centre-vellore",
+    "name": "Vellore Cancer and Surgery Centre",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Vellore often choose Vellore Cancer and Surgery Centre for its strength in Oncologist Surgery In Vellore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096597 07555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Central complex, Thennamara St, Big Ali Puran, Kosapet, Vellore, Tamil Nadu 632001",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632001",
+    "locality": "Kosapet",
+    "landmark": "Big Ali Puran",
+    "emergencyContact": "096597 07555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vellore+Cancer+and+Surgery+Centre/data=!4m7!3m6!1s0x3bad4719cf0959f9:0x9345c09f99e6671c!8m2!3d12.9137974!4d79.1340685!16s%2Fg%2F11mvtp53wm!19sChIJ-VkJzxlHrTsRHGfmmZ_ARZM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vellore+Cancer+and+Surgery+Centre/data=!4m7!3m6!1s0x3bad4719cf0959f9:0x9345c09f99e6671c!8m2!3d12.9137974!4d79.1340685!16s%2Fg%2F11mvtp53wm!19sChIJ-VkJzxlHrTsRHGfmmZ_ARZM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9137974,
+      "lng": 79.1340685,
+      "label": "Vellore Cancer and Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vellore-cmc-hospital-vellore",
+    "name": "Vellore CMC Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vellore CMC Hospital is a prominent hospital in Vellore, known for structured tertiary care across Liver Transplant Surgery In Vellore. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "princi@cmcvellore.ac.in",
+    "phone": "080003 38855",
+    "alternatePhone": "+91 93852 85928",
+    "website": "http://www.cmch-vellore.edu/",
+    "address": "W4FP+Q82 Christian Medical College, IDA Scudder Rd, Vellore, Tamil Nadu 632004",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632004",
+    "locality": "IDA Scudder Rd",
+    "landmark": "Vellore",
+    "emergencyContact": "+91 93852 85928",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cmcvelloreindia/",
+    "twitter": "https://twitter.com/offcmcvellore?lang=en",
+    "instagram": "https://www.instagram.com/cmcvellore/",
+    "linkedin": "https://in.linkedin.com/school/cmc-vellore/",
+    "youtube": "https://www.youtube.com/channel/UCxAN3KCjZ8u109OUwaJlC0w/videos",
+    "specialties": [
+      "Liver Transplant Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vellore+CMC+Hospital/@12.9243825,79.1357407,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38dfe87b0e5b:0x67e1306dbd083711!8m2!3d12.9243825!4d79.1357407!16s%2Fg%2F11gdzq7cq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vellore+CMC+Hospital/@12.9243825,79.1357407,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38dfe87b0e5b:0x67e1306dbd083711!8m2!3d12.9243825!4d79.1357407!16s%2Fg%2F11gdzq7cq1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9243825,
+      "lng": 79.1357407,
+      "label": "Vellore CMC Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vellore-eye-hospital-vellore",
+    "name": "Vellore Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vellore, Vellore Eye Hospital delivers integrated care across Orthopedic Surgery In Vellore. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098432 72176",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 683/2, 3rd St, Nehru Nagar, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Nehru Nagar",
+    "emergencyContact": "098432 72176",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Vellore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Vellore+Eye+Hospital/@12.9311383,79.1553237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38620ca40acd:0x117052e27501a00f!8m2!3d12.9311383!4d79.1553237!16s%2Fg%2F1tdn2jj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vellore+Eye+Hospital/@12.9311383,79.1553237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bad38620ca40acd:0x117052e27501a00f!8m2!3d12.9311383!4d79.1553237!16s%2Fg%2F1tdn2jj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9311383,
+      "lng": 79.1553237,
+      "label": "Vellore Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vellore-gastro-and-hernia-clinic-vellore",
+    "name": "Vellore Gastro & Hernia Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vellore Gastro & Hernia Clinic has built a strong reputation in Vellore for multidisciplinary treatment pathways covering Liver Transplant Surgery In Vellore and Gastroenterology. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W5M4+R89, 12th St, Phase 2, Sathuvachari, Vellore, Tamil Nadu 632009",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "pincode": "632009",
+    "locality": "Sathuvachari",
+    "landmark": "Phase 2",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Vellore",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Vellore+Gastro+%26+Hernia+Clinic/data=!4m7!3m6!1s0x3bad3862ba2d6333:0xfc6817a98b169394!8m2!3d12.9345389!4d79.1558708!16s%2Fg%2F11y1f8tmsr!19sChIJM2MtumI4rTsRlJMWi6kXaPw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vellore+Gastro+%26+Hernia+Clinic/data=!4m7!3m6!1s0x3bad3862ba2d6333:0xfc6817a98b169394!8m2!3d12.9345389!4d79.1558708!16s%2Fg%2F11y1f8tmsr!19sChIJM2MtumI4rTsRlJMWi6kXaPw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.9345389,
+      "lng": 79.1558708,
+      "label": "Vellore Gastro & Hernia Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

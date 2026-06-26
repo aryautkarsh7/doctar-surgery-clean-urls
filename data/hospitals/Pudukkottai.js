@@ -1,0 +1,7058 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "adhira-aravind-hospital-pudukkottai",
+    "name": "Adhira Aravind Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose Adhira Aravind Hospital for its strength in General Surgery In Pudukkottai. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://adhiraaravindhospital.com/",
+    "address": "250 Metres From Brindavanam, N 3rd St, near Karthick Marriage Hall, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "near Karthick Marriage Hall",
+    "landmark": "near Karthick Marriage Hall, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Adhira+Aravind+Hospital/@10.3876875,78.8248686,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00799699c78137:0x8d29b86cc68e0f3a!8m2!3d10.3876875!4d78.8248686!16s%2Fg%2F11tc_f5x1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Adhira+Aravind+Hospital/@10.3876875,78.8248686,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00799699c78137:0x8d29b86cc68e0f3a!8m2!3d10.3876875!4d78.8248686!16s%2Fg%2F11tc_f5x1b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3876875,
+      "lng": 78.8248686,
+      "label": "Adhira Aravind Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amrita-ortho-and-trauma-care-amrita-fertility-care-senthil-nursing-home-pudukkottai",
+    "name": "AMRITA ORTHO&TRAUMA CARE, AMRITA FERTILITY CARE, SENTHIL NURSING HOME",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AMRITA ORTHO&TRAUMA CARE, AMRITA FERTILITY CARE, SENTHIL NURSING HOME is a prominent private hospital in Pudukkottai, known for structured tertiary care across Orthopedic Surgery In Pudukkottai, Orthopaedics, and Fertility Care. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0432 223 0066",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9953/2, OPP TO COURT, THIRUMAYAM ROAD SENTHIL NURSING HOME, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "THIRUMAYAM ROAD SENTHIL NURSING HOME",
+    "landmark": "THIRUMAYAM ROAD SENTHIL NURSING HOME",
+    "emergencyContact": "0432 223 0066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Pudukkottai",
+      "Orthopaedics",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/AMRITA+ORTHO%26TRAUMA+CARE,+AMRITA+FERTILITY+CARE,+SENTHIL+NURSING+HOME/@10.376143,78.819831,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb0d2a771b:0x3f7edd9b2cde3b79!8m2!3d10.376143!4d78.819831!16s%2Fg%2F11xjhx2bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AMRITA+ORTHO%26TRAUMA+CARE,+AMRITA+FERTILITY+CARE,+SENTHIL+NURSING+HOME/@10.376143,78.819831,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb0d2a771b:0x3f7edd9b2cde3b79!8m2!3d10.376143!4d78.819831!16s%2Fg%2F11xjhx2bc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.376143,
+      "lng": 78.819831,
+      "label": "AMRITA ORTHO&TRAUMA CARE, AMRITA FERTILITY CARE, SENTHIL NURSING HOME",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-reach-clinic-karaikudi",
+    "name": "Apollo Reach Clinic அப்பல்லோ ரீச் கிளினிக்",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Karaikudi, Apollo Reach Clinic அப்பல்லோ ரீச் கிளினிக் delivers integrated care across Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3QGC+RQG, Aruna Nagar, Karaikudi, Tamil Nadu 630001",
+    "city": "Karaikudi",
+    "state": "Tamil Nadu",
+    "pincode": "630001",
+    "locality": "Aruna Nagar",
+    "landmark": "Karaikudi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Reach+Clinic+%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8B+%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%8D+%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%95%E0%AF%8D/@10.0770527,78.7719515,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006767be3132dd:0x7f39ef65ea3e72ce!8m2!3d10.0770527!4d78.7719515!16s%2Fg%2F11f3zhqpcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Reach+Clinic+%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%8B+%E0%AE%B0%E0%AF%80%E0%AE%9A%E0%AF%8D+%E0%AE%95%E0%AE%BF%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%95%E0%AF%8D/@10.0770527,78.7719515,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006767be3132dd:0x7f39ef65ea3e72ce!8m2!3d10.0770527!4d78.7719515!16s%2Fg%2F11f3zhqpcy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.0770527,
+      "lng": 78.7719515,
+      "label": "Apollo Reach Clinic அப்பல்லோ ரீச் கிளினிக்",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "be-well-dialysis-centre-pudukkottai",
+    "name": "BE WELL DIALYSIS CENTRE",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose BE WELL DIALYSIS CENTRE for its strength in Kidney Transplant Surgery In Pudukkottai and Dialysis Center. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "ask@bewellhospitals.in",
+    "phone": "+91 96983 00300",
+    "alternatePhone": "+91 89397 92000",
+    "website": "http://bewellhospitals.in/",
+    "address": "Bus Stand, 5371, Alangudi Rd, near Reliance Petrol Bunk, near Pudukottai, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "near Reliance Petrol Bunk, near Pudukottai, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "+91 96983 00300",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/bewellhospitals",
+    "twitter": "https://twitter.com/BeWellHospitals",
+    "instagram": "https://www.instagram.com/bewell_hospitals/",
+    "linkedin": "https://www.linkedin.com/company/bewellhospitals",
+    "youtube": "https://www.youtube.com/channel/UCHHjEE2R5HE569Py1ICi0uw",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BE+WELL+DIALYSIS+CENTRE/@10.3773229,78.820925,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079f75ebdd42b:0x3e2c426b41da22f1!8m2!3d10.3773229!4d78.820925!16s%2Fg%2F11qbt_759b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BE+WELL+DIALYSIS+CENTRE/@10.3773229,78.820925,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079f75ebdd42b:0x3e2c426b41da22f1!8m2!3d10.3773229!4d78.820925!16s%2Fg%2F11qbt_759b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3773229,
+      "lng": 78.820925,
+      "label": "BE WELL DIALYSIS CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "be-well-hospitals-pudukkottai-pudukkottai",
+    "name": "Be Well Hospitals Pudukkottai",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, Be Well Hospitals Pudukkottai offers coordinated hospital care with major focus on Urologist Surgery In Pudukkottai. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "ask@bewellhospitals.in",
+    "phone": "096983 00300",
+    "alternatePhone": "+91 89397 92000",
+    "website": "https://bewellhospitals.in/24-hours-hospital-in-pudukkottai.php",
+    "address": "5371, 5, Alangudi Rd, near Reliance Petrol Bunk, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "near Reliance Petrol Bunk, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "+91 89397 92000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/bewellhospitals",
+    "twitter": "https://twitter.com/BeWellHospitals",
+    "instagram": "https://www.instagram.com/bewell_hospitals/",
+    "linkedin": "https://www.linkedin.com/company/bewellhospitals",
+    "youtube": "https://www.youtube.com/channel/UCHHjEE2R5HE569Py1ICi0uw",
+    "specialties": [
+      "Urologist Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Be+Well+Hospitals+Pudukkottai/@10.3764495,78.8248305,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb5e501559:0x73ec36da1435499f!8m2!3d10.3764495!4d78.8248305!16s%2Fg%2F11bvt4pg_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Be+Well+Hospitals+Pudukkottai/@10.3764495,78.8248305,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079cb5e501559:0x73ec36da1435499f!8m2!3d10.3764495!4d78.8248305!16s%2Fg%2F11bvt4pg_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3764495,
+      "lng": 78.8248305,
+      "label": "Be Well Hospitals Pudukkottai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cethar-hospitals-tiruchirappalli",
+    "name": "CETHAR HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Tiruchirappalli, CETHAR HOSPITALS offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0431 248 2240",
+    "alternatePhone": "",
+    "website": "http://www.cetharhospitals.com/",
+    "address": "No-C-108 Fort Station Road 5th Cross Road East, Thillai Nagar Main Rd, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620018",
+    "locality": "Thillai Nagar Main Rd",
+    "landmark": "Tiruchirappalli",
+    "emergencyContact": "0431 248 2240",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CETHAR+HOSPITALS/@10.8240013,78.6843618,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a396694093:0x3b05fbdb469bf1de!8m2!3d10.8240013!4d78.6843618!16s%2Fg%2F1th7wsvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CETHAR+HOSPITALS/@10.8240013,78.6843618,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a396694093:0x3b05fbdb469bf1de!8m2!3d10.8240013!4d78.6843618!16s%2Fg%2F1th7wsvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8240013,
+      "lng": 78.6843618,
+      "label": "CETHAR HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "frontline-hospital-tiruchirappalli",
+    "name": "Frontline Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Frontline Hospital is a prominent hospital in Tiruchirappalli, known for structured tertiary care across Liver Transplant Surgery In Pudukkottai. The facility stands out for Google rating 3.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "contact@frontlinehospital.org",
+    "phone": "0431 404 7760",
+    "alternatePhone": "+91 84899 12738",
+    "website": "http://www.frontlinehospital.org/",
+    "address": "37 & 39, near Anna Statue, Chinthamani Bazaar, Melachinthamani, Tiruchirappalli, Tamil Nadu 620002",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620002",
+    "locality": "Melachinthamani",
+    "landmark": "near Anna Statue, Chinthamani Bazaar, Melachinthamani, Tiruchirappalli, Tamil Nadu 620002",
+    "emergencyContact": "+91 84899 12738",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/frontlinetrichy/",
+    "twitter": "https://twitter.com/Frontlinetri/",
+    "instagram": "https://www.instagram.com/frontline_hospital/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Frontline+Hospital/@10.8338698,78.6946446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b6cea6067f:0xae99de5ac3fa1901!8m2!3d10.8338698!4d78.6946446!16s%2Fg%2F124ynv0gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Frontline+Hospital/@10.8338698,78.6946446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b6cea6067f:0xae99de5ac3fa1901!8m2!3d10.8338698!4d78.6946446!16s%2Fg%2F124ynv0gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8338698,
+      "lng": 78.6946446,
+      "label": "Frontline Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "galaxy-healthcare-tourism-tiruchirappalli",
+    "name": "Galaxy Healthcare Tourism",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Tiruchirappalli, Galaxy Healthcare Tourism brings together specialists for Liver Transplant Surgery In Pudukkottai. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@galaxyhealthcareindia.com",
+    "phone": "090039 66544",
+    "alternatePhone": "+91 99443 15615",
+    "website": "http://galaxyhealthcareindia.com/",
+    "address": "No:60, 3rd Floor, Kannan Ravi Towers, near by Anna Statue, Chinthamani Bazaar, Melachinthamani, Tiruchirappalli, Tamil Nadu 620002",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620002",
+    "locality": "Melachinthamani",
+    "landmark": "near by Anna Statue, Chinthamani Bazaar, Melachinthamani, Tiruchirappalli, Tamil Nadu 620002",
+    "emergencyContact": "+91 99443 15615",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Galaxy+Healthcare+Tourism/@10.8333298,78.6952701,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b149bf7cff:0xc39635c630e1e9d0!8m2!3d10.8333298!4d78.6952701!16s%2Fg%2F11hf8lr_zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Galaxy+Healthcare+Tourism/@10.8333298,78.6952701,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5b149bf7cff:0xc39635c630e1e9d0!8m2!3d10.8333298!4d78.6952701!16s%2Fg%2F11hf8lr_zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8333298,
+      "lng": 78.6952701,
+      "label": "Galaxy Healthcare Tourism",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "get-well-clinic-pudukkottai",
+    "name": "Get Well Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Get Well Clinic has built a strong reputation in Pudukkottai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Pudukkottai. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080987 86868",
+    "alternatePhone": "",
+    "website": "https://nfc.dgtechsoln.com/get-well-speaciality-clinic/",
+    "address": "TSNO 5484, Marthandapuram First St, near R R Hospital, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Marthandapuram",
+    "landmark": "near R R Hospital, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "080987 86868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Get+Well+Clinic/@10.3786504,78.8221564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079273201859d:0xf830b204222c50e6!8m2!3d10.3786504!4d78.8221564!16s%2Fg%2F11stgsm4fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Get+Well+Clinic/@10.3786504,78.8221564,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079273201859d:0xf830b204222c50e6!8m2!3d10.3786504!4d78.8221564!16s%2Fg%2F11stgsm4fb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3786504,
+      "lng": 78.8221564,
+      "label": "Get Well Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hrudhaya-cardiac-centre-pudukkottai",
+    "name": "HRUDHAYA CARDIAC CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, HRUDHAYA CARDIAC CENTRE brings together specialists for Heart Surgery In Pudukkottai and Cardiac Care. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094876 08108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "TS No 1900, manimegalai medical centre, N Main St, Wadair Santha, Brindavan, Pudukkottai, Tamil Nadu 622002",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622002",
+    "locality": "Brindavan",
+    "landmark": "N Main St",
+    "emergencyContact": "094876 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pudukkottai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/HRUDHAYA+CARDIAC+CENTRE/@10.3871795,78.8147404,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079537e37e923:0x891b63b2c5b34721!8m2!3d10.3871795!4d78.8147404!16s%2Fg%2F11wx131qjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HRUDHAYA+CARDIAC+CENTRE/@10.3871795,78.8147404,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079537e37e923:0x891b63b2c5b34721!8m2!3d10.3871795!4d78.8147404!16s%2Fg%2F11wx131qjd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3871795,
+      "lng": 78.8147404,
+      "label": "HRUDHAYA CARDIAC CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indian-ivf-fertility-center-pudukkottai",
+    "name": "Indian IVF Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, Indian IVF Fertility Center offers coordinated hospital care with major focus on IVF In Pudukkottai and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "indianivf@gmail.com",
+    "phone": "098400 84009",
+    "alternatePhone": "",
+    "website": "https://indianivf.com/",
+    "address": "5590, S 4th St, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "Kadukkakadu",
+    "emergencyContact": "098400 84009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/",
+    "specialties": [
+      "IVF In Pudukkottai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indian+IVF+Fertility+Center/@10.3800751,78.8192637,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00790073a69ff7:0xa4339be8b8c2bfed!8m2!3d10.3800751!4d78.8192637!16s%2Fg%2F11wx8lx0vb?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indian+IVF+Fertility+Center/@10.3800751,78.8192637,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00790073a69ff7:0xa4339be8b8c2bfed!8m2!3d10.3800751!4d78.8192637!16s%2Fg%2F11wx8lx0vb?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3800751,
+      "lng": 78.8192637,
+      "label": "Indian IVF Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indian-surgical-clinic-devakottai",
+    "name": "Indian Surgical clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Devakottai often choose Indian Surgical clinic for its strength in Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 1.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0456 127 2416",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WRX9+PW9, சரஸ்வதி வாசகசாலை தெரு, Devakottai, Tamil Nadu 630302",
+    "city": "Devakottai",
+    "state": "Tamil Nadu",
+    "pincode": "630302",
+    "locality": "சரஸ்வதி வாசகசாலை தெரு",
+    "landmark": "Devakottai",
+    "emergencyContact": "0456 127 2416",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://www.google.com/maps/place/Indian+Surgical+clinic/@9.9492904,78.8198441,17z/data=!3m1!4b1!4m6!3m5!1s0x3b005b3cc0a8e5cd:0xb429610028375a3e!8m2!3d9.9492904!4d78.8198441!16s%2Fg%2F11dxsn0dp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indian+Surgical+clinic/@9.9492904,78.8198441,17z/data=!3m1!4b1!4m6!3m5!1s0x3b005b3cc0a8e5cd:0xb429610028375a3e!8m2!3d9.9492904!4d78.8198441!16s%2Fg%2F11dxsn0dp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 9.9492904,
+      "lng": 78.8198441,
+      "label": "Indian Surgical clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaundice-clinic-jaundice-rd",
+    "name": "JAUNDICE CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jaundice Rd, JAUNDICE CLINIC delivers integrated care across Liver Transplant Surgery In Pudukkottai. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6QHR+24J, Jaundice Rd, Tamil Nadu 622505",
+    "city": "Jaundice Rd",
+    "state": "Tamil Nadu",
+    "pincode": "622505",
+    "locality": "",
+    "landmark": "Tamil Nadu 622505",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/JAUNDICE+CLINIC/@10.2275883,78.7902629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0064df28666213:0x4c361907b6fa9892!8m2!3d10.2275883!4d78.7902629!16s%2Fg%2F11b6d1qq2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JAUNDICE+CLINIC/@10.2275883,78.7902629,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0064df28666213:0x4c361907b6fa9892!8m2!3d10.2275883!4d78.7902629!16s%2Fg%2F11b6d1qq2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.2275883,
+      "lng": 78.7902629,
+      "label": "JAUNDICE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevan-hospital-pattukkottai",
+    "name": "Jeevan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pattukkottai, Jeevan Hospital brings together specialists for Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C8G7+4J5, Deva Theatre Rd, Thangavel Nagar, Pattukkottai, Tamil Nadu 614601",
+    "city": "Pattukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "614601",
+    "locality": "Thangavel Nagar",
+    "landmark": "Thangavel Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Jeevan+Hospital/@10.4252511,79.3141116,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000096362ef7cb:0xc92f99abe59ceddc!8m2!3d10.4252511!4d79.3141116!16s%2Fg%2F11gcd_1jnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevan+Hospital/@10.4252511,79.3141116,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000096362ef7cb:0xc92f99abe59ceddc!8m2!3d10.4252511!4d79.3141116!16s%2Fg%2F11gcd_1jnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.4252511,
+      "lng": 79.3141116,
+      "label": "Jeevan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kannan-hospital-pudukkottai",
+    "name": "Kannan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, Kannan Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Pudukkottai. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9RH8+PGC, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/Kannan+Hospital/data=!4m7!3m6!1s0x3b0078355b69da37:0x487621c598eb9bc1!8m2!3d10.3793182!4d78.8162529!16s%2Fg%2F11r8dr3pl!19sChIJN9ppWzV4ADsRwZvrmMUhdkg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kannan+Hospital/data=!4m7!3m6!1s0x3b0078355b69da37:0x487621c598eb9bc1!8m2!3d10.3793182!4d78.8162529!16s%2Fg%2F11r8dr3pl!19sChIJN9ppWzV4ADsRwZvrmMUhdkg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3793182,
+      "lng": 78.8162529,
+      "label": "Kannan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "karaikudi-kidney-and-speciality-hospital-t-soorakudi",
+    "name": "Karaikudi Kidney & Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in T.Soorakudi, Karaikudi Kidney & Speciality Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai, Kidney Care, and Speciality Care. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "kkckidneycare@gmail.com",
+    "phone": "098437 22515",
+    "alternatePhone": "+91 456 528 3633",
+    "website": "http://www.kksh.in/",
+    "address": "4QC6+77M, T.Soorakudi, Tamil Nadu 630208",
+    "city": "T.Soorakudi",
+    "state": "Tamil Nadu",
+    "pincode": "630208",
+    "locality": "",
+    "landmark": "Tamil Nadu 630208",
+    "emergencyContact": "+91 456 528 3633",
+    "emergencyServices": false,
+    "facebook": "https://m.facebook.com/Karaikudi-kidney-care-104034205372506/?ref=page_internal",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai",
+      "Kidney Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Karaikudi+Kidney+%26+Speciality+Hospital/@10.1197098,78.7611892,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00670016e08d8f:0x2e22383667b159a9!8m2!3d10.1197098!4d78.7611892!16s%2Fg%2F11w3p8zjbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Karaikudi+Kidney+%26+Speciality+Hospital/@10.1197098,78.7611892,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00670016e08d8f:0x2e22383667b159a9!8m2!3d10.1197098!4d78.7611892!16s%2Fg%2F11w3p8zjbb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.1197098,
+      "lng": 78.7611892,
+      "label": "Karaikudi Kidney & Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kathavarayan-clinic-pudukkottai",
+    "name": "Kathavarayan Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kathavarayan Clinic has built a strong reputation in Pudukkottai for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Pudukkottai. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099425 19055",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chettiendal, Pudukkottai, SH-71, Pudukkottai Alangudi Peravurani Sethubavachatram Road, Pudukkottai, Pudukkottai, Tamil Nadu 622304",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622304",
+    "locality": "Chettiendal",
+    "landmark": "SH-71",
+    "emergencyContact": "099425 19055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Kathavarayan+Clinic/@10.3361267,79.0947003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000c0eeef9008b:0x86fb91dd4de62511!8m2!3d10.3361267!4d79.0947003!16s%2Fg%2F11cn94s_gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kathavarayan+Clinic/@10.3361267,79.0947003,17z/data=!3m1!4b1!4m6!3m5!1s0x3b000c0eeef9008b:0x86fb91dd4de62511!8m2!3d10.3361267!4d79.0947003!16s%2Fg%2F11cn94s_gr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3361267,
+      "lng": 79.0947003,
+      "label": "Kathavarayan Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kauvery-hospital-tiruchirappalli",
+    "name": "Kauvery Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Tiruchirappalli, Kauvery Hospital brings together specialists for Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0431 407 7777",
+    "alternatePhone": "080680 16901",
+    "website": "https://www.kauveryhospital.com/our-locations/trichy-tennur/?utm_source=Google&utm_medium=Maps",
+    "address": "No.1, K.C.Road, Tennur, Tiruchirappalli, Tamil Nadu 620017",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620017",
+    "locality": "Tennur",
+    "landmark": "Tennur",
+    "emergencyContact": "080680 16901",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/kauveryhospitalchennai/",
+    "twitter": "https://twitter.com/kauveryhospital",
+    "instagram": "https://www.instagram.com/kauveryhospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/c/KauveryHospital",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kauvery+Hospital/@10.816792,78.6811299,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a074f160d5:0x66325f8422f65d25!8m2!3d10.816792!4d78.6811299!16s%2Fg%2F1tdd88hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kauvery+Hospital/@10.816792,78.6811299,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a074f160d5:0x66325f8422f65d25!8m2!3d10.816792!4d78.6811299!16s%2Fg%2F1tdd88hp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.816792,
+      "lng": 78.6811299,
+      "label": "Kauvery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kottai-surgicals-pattukkottai",
+    "name": "Kottai Surgicals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pattukkottai, Kottai Surgicals offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "33.e.sd.lingam complex, Pillaiyar Koil St, vadasery road, Pattukkottai, Tamil Nadu 614601",
+    "city": "Pattukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "614601",
+    "locality": "vadasery road",
+    "landmark": "vadasery road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Kottai+Surgicals/@10.4231707,79.3199884,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00011d1b4927fd:0xecdf1623235f175e!8m2!3d10.4231707!4d79.3199884!16s%2Fg%2F11hm51mcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kottai+Surgicals/@10.4231707,79.3199884,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00011d1b4927fd:0xecdf1623235f175e!8m2!3d10.4231707!4d79.3199884!16s%2Fg%2F11hm51mcgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.4231707,
+      "lng": 79.3199884,
+      "label": "Kottai Surgicals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maaha-dental-clinic-and-implant-center-pudukkottai",
+    "name": "MAAHA DENTAL CLINIC AND IMPLANT CENTER",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose MAAHA DENTAL CLINIC AND IMPLANT CENTER for its strength in Oral Surgery In Pudukkottai. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090808 41591",
+    "alternatePhone": "",
+    "website": "https://www.maahadental.com/",
+    "address": "T.S.no.9726/5, 1st St, Kalif Nagar, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kalif Nagar",
+    "landmark": "Kalif Nagar",
+    "emergencyContact": "090808 41591",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MAAHA+DENTAL+CLINIC+AND+IMPLANT+CENTER/@10.3697579,78.8142711,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e35bbfe073:0xe6c54a06d839635e!8m2!3d10.3697579!4d78.8142711!16s%2Fg%2F11py1crs4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MAAHA+DENTAL+CLINIC+AND+IMPLANT+CENTER/@10.3697579,78.8142711,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e35bbfe073:0xe6c54a06d839635e!8m2!3d10.3697579!4d78.8142711!16s%2Fg%2F11py1crs4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3697579,
+      "lng": 78.8142711,
+      "label": "MAAHA DENTAL CLINIC AND IMPLANT CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "malar-dental-clinic-pudukkottai",
+    "name": "MALAR DENTAL CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, MALAR DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Pudukkottai. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090920 32333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Jaya Tower, S 4th St, near Anna Statue, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "near Anna Statue, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "090920 32333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/MALAR+DENTAL+CLINIC/@10.3798589,78.8211386,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078336486a623:0x69d1701b7f8bb1b7!8m2!3d10.3798589!4d78.8211386!16s%2Fg%2F11dxl9v767?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MALAR+DENTAL+CLINIC/@10.3798589,78.8211386,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078336486a623:0x69d1701b7f8bb1b7!8m2!3d10.3798589!4d78.8211386!16s%2Fg%2F11dxl9v767?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3798589,
+      "lng": 78.8211386,
+      "label": "MALAR DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manian-medical-centre-m",
+    "name": "MANIAN MEDICAL CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in M, MANIAN MEDICAL CENTRE brings together specialists for Liver Transplant Surgery In Pudukkottai. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085319 19191",
+    "alternatePhone": "",
+    "website": "http://manianmedicalcentre.in/",
+    "address": "100,Power House Road, Erode, M, Tamil Nadu 638001",
+    "city": "M",
+    "state": "Tamil Nadu",
+    "pincode": "638001",
+    "locality": "Erode",
+    "landmark": "Erode",
+    "emergencyContact": "085319 19191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MANIAN+MEDICAL+CENTRE/@11.3370035,77.7188598,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f101c4946e7:0xf0c7b5efc9d85538!8m2!3d11.3370035!4d77.7188598!16s%2Fg%2F11grc14z_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MANIAN+MEDICAL+CENTRE/@11.3370035,77.7188598,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba96f101c4946e7:0xf0c7b5efc9d85538!8m2!3d11.3370035!4d77.7188598!16s%2Fg%2F11grc14z_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.3370035,
+      "lng": 77.7188598,
+      "label": "MANIAN MEDICAL CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meenakshi-mission-hospital-and-research-centre-madurai",
+    "name": "Meenakshi Mission Hospital & Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Madurai, Meenakshi Mission Hospital & Research Centre offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0452 426 3000",
+    "alternatePhone": "",
+    "website": "https://mmhrc.in/",
+    "address": "Lake Area, Melur Main Rd, Madurai, Tamil Nadu 625107",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "pincode": "625107",
+    "locality": "Melur Main Rd",
+    "landmark": "Madurai",
+    "emergencyContact": "0452 426 3000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Meenakshi+Mission+Hospital+%26+Research+Centre/@9.9479215,78.1625445,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c42e06b12177:0xa2fa266ff55371c4!8m2!3d9.9479215!4d78.1625445!16s%2Fg%2F1q6j2xzjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meenakshi+Mission+Hospital+%26+Research+Centre/@9.9479215,78.1625445,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00c42e06b12177:0xa2fa266ff55371c4!8m2!3d9.9479215!4d78.1625445!16s%2Fg%2F1q6j2xzjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 9.9479215,
+      "lng": 78.1625445,
+      "label": "Meenakshi Mission Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mohammed-ismail-clinic-pudukkottai",
+    "name": "Mohammed Ismail Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose Mohammed Ismail Clinic for its strength in Kidney Transplant Surgery In Pudukkottai. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Brindavan, Pudukkottai, NH-226, Thanjavur Gandharvakottai Pudukkottai Road, Pudukkottai, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Brindavan",
+    "landmark": "NH-226",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Mohammed+Ismail+Clinic/@10.383643,78.822887,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007833de8177eb:0x16835a87c136dbe7!8m2!3d10.383643!4d78.822887!16s%2Fg%2F11dxlg8mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mohammed+Ismail+Clinic/@10.383643,78.822887,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007833de8177eb:0x16835a87c136dbe7!8m2!3d10.383643!4d78.822887!16s%2Fg%2F11dxlg8mlk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.383643,
+      "lng": 78.822887,
+      "label": "Mohammed Ismail Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mr-diabetic-centre-pudukkottai",
+    "name": "MR Diabetic Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pudukkottai, MR Diabetic Centre delivers integrated care across Liver Transplant Surgery In Pudukkottai. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aranthangi, Gopala Samuthiram, Pudukkottai, SH-29, Trichy Pudukottai Aranthangi Mimisal Bypass Road, Pudukkottai, Pudukkottai, Tamil Nadu 614616",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "614616",
+    "locality": "Gopala Samuthiram",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/MR+Diabetic+Centre/@10.166877,78.993334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006c9ee4d5fa59:0x10098b46d59b94a0!8m2!3d10.166877!4d78.993334!16s%2Fg%2F11c70d7673?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MR+Diabetic+Centre/@10.166877,78.993334,17z/data=!3m1!4b1!4m6!3m5!1s0x3b006c9ee4d5fa59:0x10098b46d59b94a0!8m2!3d10.166877!4d78.993334!16s%2Fg%2F11c70d7673?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.166877,
+      "lng": 78.993334,
+      "label": "MR Diabetic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "msk-diabetic-clinic-pudukkottai",
+    "name": "Msk Diabetic clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, Msk Diabetic clinic brings together specialists for Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086089 93623",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Msk diabetic clinic, 160.19, near munikovil bus stop, Karky Nagar, saluvan nagar, Pudukkottai, Tamil Nadu 622303",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622303",
+    "locality": "saluvan nagar",
+    "landmark": "near munikovil bus stop, Karky Nagar, saluvan nagar, Pudukkottai, Tamil Nadu 622303",
+    "emergencyContact": "086089 93623",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Msk+Diabetic+clinic/@10.364952,78.834752,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007900736e2741:0x37af76d6eae50051!8m2!3d10.364952!4d78.834752!16s%2Fg%2F11lttdr990?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Msk+Diabetic+clinic/@10.364952,78.834752,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007900736e2741:0x37af76d6eae50051!8m2!3d10.364952!4d78.834752!16s%2Fg%2F11lttdr990?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.364952,
+      "lng": 78.834752,
+      "label": "Msk Diabetic clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "muthumeenakshi-hospitals-pvt-ltd-pudukkottai",
+    "name": "MuthuMeenakshi Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose MuthuMeenakshi Hospitals Pvt Ltd for its strength in Urologist Surgery In Pudukkottai. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075051 75051",
+    "alternatePhone": "",
+    "website": "http://muthumeenakshihospitals.com/",
+    "address": "S 4th St, near Anna Statue, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Marthandapuram",
+    "landmark": "near Anna Statue, Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "075051 75051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MuthuMeenakshi+Hospitals+Pvt+Ltd/@10.3794013,78.82189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335ad9c90f:0x98b91842ebc2ea37!8m2!3d10.3794013!4d78.82189!16s%2Fg%2F11bbx03_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MuthuMeenakshi+Hospitals+Pvt+Ltd/@10.3794013,78.82189,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335ad9c90f:0x98b91842ebc2ea37!8m2!3d10.3794013!4d78.82189!16s%2Fg%2F11bbx03_g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3794013,
+      "lng": 78.82189,
+      "label": "MuthuMeenakshi Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-life-hospital-pudukkottai",
+    "name": "NEW LIFE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEW LIFE HOSPITAL is a prominent hospital in Pudukkottai, known for structured tertiary care across Kidney Transplant Surgery In Pudukkottai. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, N Main St, Wadair Santha, Jeeva nagar, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Jeeva nagar",
+    "landmark": "Wadair Santha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/@10.3864368,78.8163612,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e44fa9a175:0xd76167d0040d1088!8m2!3d10.3864368!4d78.8163612!16s%2Fg%2F11vlqdg0ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEW+LIFE+HOSPITAL/@10.3864368,78.8163612,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079e44fa9a175:0xd76167d0040d1088!8m2!3d10.3864368!4d78.8163612!16s%2Fg%2F11vlqdg0ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3864368,
+      "lng": 78.8163612,
+      "label": "NEW LIFE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "newgen-clinic-pudukkottai",
+    "name": "Newgen Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Newgen Clinic is a prominent hospital in Pudukkottai, known for structured tertiary care across Kidney Transplant Surgery In Pudukkottai. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Saravana Theatre, Subramaniapuram, Machuvadi, busstop, Pudukkottai, Tamil Nadu 622004",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622004",
+    "locality": "busstop",
+    "landmark": "Machuvadi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Newgen+Clinic/@10.3959174,78.8284896,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007944268f119b:0x50dbc846ea050cf3!8m2!3d10.3959174!4d78.8284896!16s%2Fg%2F11h0ml7zb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Newgen+Clinic/@10.3959174,78.8284896,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007944268f119b:0x50dbc846ea050cf3!8m2!3d10.3959174!4d78.8284896!16s%2Fg%2F11h0ml7zb5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3959174,
+      "lng": 78.8284896,
+      "label": "Newgen Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "newlife-ent-hospital-pudukkottai",
+    "name": "NEWLIFE ENT HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEWLIFE ENT HOSPITAL has built a strong reputation in Pudukkottai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Pudukkottai. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063845 39655",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, N Main St, near thilagar thidal, Wadair Santha, Brindavan, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Brindavan",
+    "landmark": "near thilagar thidal, Wadair Santha, Brindavan, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "063845 39655",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/NEWLIFE+ENT+HOSPITAL/@10.3864017,78.8163436,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007ecd66eb:0x72777a5ed1723869!8m2!3d10.3864017!4d78.8163436!16s%2Fg%2F11wp_7h7m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEWLIFE+ENT+HOSPITAL/@10.3864017,78.8163436,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007ecd66eb:0x72777a5ed1723869!8m2!3d10.3864017!4d78.8163436!16s%2Fg%2F11wp_7h7m2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3864017,
+      "lng": 78.8163436,
+      "label": "NEWLIFE ENT HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nila-speciality-clinic-ortho-and-ent-pudukkottai",
+    "name": "NILA SPECIALITY CLINIC (ORTHO and ENT)",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose NILA SPECIALITY CLINIC (ORTHO and ENT) for its strength in Orthopedic Surgery In Pudukkottai, ENT, Orthopaedics, and Speciality Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076959 64299",
+    "alternatePhone": "",
+    "website": "",
+    "address": "bus stop, Alangudi Rd, Perangulam, Ayyanar Puram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Ayyanar Puram",
+    "landmark": "Perangulam",
+    "emergencyContact": "076959 64299",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Pudukkottai",
+      "ENT",
+      "Orthopaedics",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/NILA+SPECIALITY+CLINIC+(ORTHO+and+ENT)/@10.3760869,78.826017,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d9940575e5:0xe81ad306772dff0f!8m2!3d10.3760869!4d78.826017!16s%2Fg%2F11xrkzyzkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NILA+SPECIALITY+CLINIC+(ORTHO+and+ENT)/@10.3760869,78.826017,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d9940575e5:0xe81ad306772dff0f!8m2!3d10.3760869!4d78.826017!16s%2Fg%2F11xrkzyzkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3760869,
+      "lng": 78.826017,
+      "label": "NILA SPECIALITY CLINIC (ORTHO and ENT)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "p-s-k-diabetic-and-medical-center-pudukkottai",
+    "name": "P.S.K Diabetic and Medical center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pudukkottai, P.S.K Diabetic and Medical center delivers integrated care across Liver Transplant Surgery In Pudukkottai. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073396 47829",
+    "alternatePhone": "",
+    "website": "",
+    "address": "812, E Main Rd, Wadair Santha, Malamelkudi, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Malamelkudi",
+    "landmark": "Wadair Santha",
+    "emergencyContact": "073396 47829",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/P.S.K+Diabetic+and+Medical+center/@10.3861083,78.8225642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079953735d571:0x6885974b09803f4e!8m2!3d10.3861083!4d78.8225642!16s%2Fg%2F11jyj9p3h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/P.S.K+Diabetic+and+Medical+center/@10.3861083,78.8225642,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079953735d571:0x6885974b09803f4e!8m2!3d10.3861083!4d78.8225642!16s%2Fg%2F11jyj9p3h7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3861083,
+      "lng": 78.8225642,
+      "label": "P.S.K Diabetic and Medical center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pills-hospital-mahalingapuram",
+    "name": "Pills Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pills Hospital has built a strong reputation in Mahalingapuram for multidisciplinary treatment pathways covering Liver Transplant Surgery In Pudukkottai. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@pillshospital.com",
+    "phone": "098433 13609",
+    "alternatePhone": "0425 923 5757",
+    "website": "http://www.pillshospital.com/",
+    "address": "70/53, Bharathi Street, Mahalingapuram, Tamil Nadu 642001",
+    "city": "Mahalingapuram",
+    "state": "Tamil Nadu",
+    "pincode": "642001",
+    "locality": "Bharathi Street",
+    "landmark": "Mahalingapuram",
+    "emergencyContact": "0425 923 5757",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/PillsHospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/pillshospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/pillshospital",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pills+Hospital/@10.6641203,77.0104091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8378077dbfb9b:0x31ab95b7db51ab56!8m2!3d10.6641203!4d77.0104091!16s%2Fg%2F11bwmvgx00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pills+Hospital/@10.6641203,77.0104091,17z/data=!3m1!4b1!4m6!3m5!1s0x3ba8378077dbfb9b:0x31ab95b7db51ab56!8m2!3d10.6641203!4d77.0104091!16s%2Fg%2F11bwmvgx00?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.6641203,
+      "lng": 77.0104091,
+      "label": "Pills Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prabha-skin-clinic-pudukkottai",
+    "name": "Prabha skin clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose Prabha skin clinic for its strength in Plastic Surgery In Pudukkottai. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063827 97858",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd St, near Kannan Hospital, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "near Kannan Hospital, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "063827 97858",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Prabha+skin+clinic/@10.3794805,78.8161281,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079a624898423:0xe60d9036c3603f34!8m2!3d10.3794805!4d78.8161281!16s%2Fg%2F11t77l3z5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prabha+skin+clinic/@10.3794805,78.8161281,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079a624898423:0xe60d9036c3603f34!8m2!3d10.3794805!4d78.8161281!16s%2Fg%2F11t77l3z5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3794805,
+      "lng": 78.8161281,
+      "label": "Prabha skin clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pudugai-diabetes-and-vascular-center-pudukkottai",
+    "name": "Pudugai Diabetes & Vascular Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pudugai Diabetes & Vascular Center is a prominent hospital in Pudukkottai, known for structured tertiary care across Kidney Transplant Surgery In Pudukkottai and Diabetology. Hospital capacity markers such as Google rating 2.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0432 222 5522",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kadukkakadu, Pudukkottai, SH-71, Manapparai Pudukottai Alangudi Peravurani Road, Pudukkottai, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "SH-71",
+    "emergencyContact": "0432 222 5522",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3"
+    ],
+    "image": "https://www.google.com/maps/place/Pudugai+Diabetes+%26+Vascular+Center/@10.3810271,78.81485,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784a62a1123d:0x9c7b04ff7a1f54b5!8m2!3d10.3810271!4d78.81485!16s%2Fg%2F11g6xwdwmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pudugai+Diabetes+%26+Vascular+Center/@10.3810271,78.81485,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784a62a1123d:0x9c7b04ff7a1f54b5!8m2!3d10.3810271!4d78.81485!16s%2Fg%2F11g6xwdwmk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3810271,
+      "lng": 78.81485,
+      "label": "Pudugai Diabetes & Vascular Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pudugai-star-hospital-private-limited-pudukkottai",
+    "name": "Pudugai Star Hospital private limited",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pudukkottai often choose Pudugai Star Hospital private limited for its strength in Liver Transplant Surgery In Pudukkottai. Its infrastructure includes Google rating 3.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073730 79795",
+    "alternatePhone": "",
+    "website": "http://www.pudugaistarhospitals.com/",
+    "address": "9RCJ+VQV, Alangudi Rd, Ashok Nagar, Senthamiz Nagar, Pudukkottai, Tamil Nadu 622303",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622303",
+    "locality": "Senthamiz Nagar",
+    "landmark": "Ashok Nagar",
+    "emergencyContact": "073730 79795",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pudugai+Star+Hospital+private+limited/@10.3722393,78.831922,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d14f509503:0x1d0e14673957b2b4!8m2!3d10.3722393!4d78.831922!16s%2Fg%2F11cjk85zvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pudugai+Star+Hospital+private+limited/@10.3722393,78.831922,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079d14f509503:0x1d0e14673957b2b4!8m2!3d10.3722393!4d78.831922!16s%2Fg%2F11cjk85zvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3722393,
+      "lng": 78.831922,
+      "label": "Pudugai Star Hospital private limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rr-hospital-pudukottai-pudukkottai",
+    "name": "RR Hospital Pudukottai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, RR Hospital Pudukottai offers coordinated hospital care with major focus on Laparoscopic Surgery In Pudukkottai. With public-facing highlights like Google rating 4.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0432 222 5515",
+    "alternatePhone": "",
+    "website": "http://www.rrhospitals.com/",
+    "address": "Marthandapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Marthandapuram",
+    "landmark": "Tamil Nadu 622001",
+    "emergencyContact": "0432 222 5515",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RR+Hospital+Pudukottai/@10.3786057,78.8216522,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335516a299:0xfe00b9635cf3d6cc!8m2!3d10.3786057!4d78.8216522!16s%2Fg%2F11hbqddpl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RR+Hospital+Pudukottai/@10.3786057,78.8216522,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0078335516a299:0xfe00b9635cf3d6cc!8m2!3d10.3786057!4d78.8216522!16s%2Fg%2F11hbqddpl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3786057,
+      "lng": 78.8216522,
+      "label": "RR Hospital Pudukottai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-b-hospital-thanjavur",
+    "name": "S B Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Thanjavur, S B Hospital brings together specialists for Liver Transplant Surgery In Pudukkottai. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070944 40532",
+    "alternatePhone": "",
+    "website": "http://www.sbhospital.in/",
+    "address": "Q4GG+65C, Medical College Rd, Rajjappa Nagar, Thanjavur, Tamil Nadu 613007",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "pincode": "613007",
+    "locality": "Rajjappa Nagar",
+    "landmark": "Rajjappa Nagar",
+    "emergencyContact": "070944 40532",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/S+B+Hospital/@10.7755558,79.1253808,17z/data=!3m1!4b1!4m6!3m5!1s0x3baab8bb6af705a9:0x79ccd73ca7b0d130!8m2!3d10.7755558!4d79.1253808!16s%2Fg%2F11rrjrdqcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S+B+Hospital/@10.7755558,79.1253808,17z/data=!3m1!4b1!4m6!3m5!1s0x3baab8bb6af705a9:0x79ccd73ca7b0d130!8m2!3d10.7755558!4d79.1253808!16s%2Fg%2F11rrjrdqcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.7755558,
+      "lng": 79.1253808,
+      "label": "S B Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-hospital-pudukkottai",
+    "name": "Sanjeevani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, Sanjeevani Hospital brings together specialists for Liver Transplant Surgery In Pudukkottai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@sanjeevanihospitals.com",
+    "phone": "075029 02699",
+    "alternatePhone": "0432 223 2363",
+    "website": "http://www.sanjeevanihospitals.com/",
+    "address": "T.S, 4053, S 4th St, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Kadukkakadu",
+    "landmark": "S 4th St",
+    "emergencyContact": "0432 223 2363",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SanjeevaniHospitalpudukottai/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/sanjeevani_hospital_pudukottai/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital/@10.3801861,78.8185323,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007834e2f2c753:0xf210d662aae95425!8m2!3d10.3801861!4d78.8185323!16s%2Fg%2F11cn5rq9z6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevani+Hospital/@10.3801861,78.8185323,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007834e2f2c753:0xf210d662aae95425!8m2!3d10.3801861!4d78.8185323!16s%2Fg%2F11cn5rq9z6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3801861,
+      "lng": 78.8185323,
+      "label": "Sanjeevani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sathya-skin-and-dental-care-pudukkottai",
+    "name": "Sathya Skin &Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, Sathya Skin &Dental Care offers coordinated hospital care with major focus on Kidney Transplant Surgery In Pudukkottai. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096557 02130",
+    "alternatePhone": "",
+    "website": "https://sathyahealthcare.in/",
+    "address": "Bus stop, E Main Rd, opposite to PCC Bank, Wadair Santha, Brindavan, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Brindavan",
+    "landmark": "opposite to PCC Bank, Wadair Santha, Brindavan, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "096557 02130",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sathya+Skin+%26Dental+Care/@10.3867415,78.8226289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783651e01d3f:0xb22af0a93496c9a3!8m2!3d10.3867415!4d78.8226289!16s%2Fg%2F11gfctnjgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sathya+Skin+%26Dental+Care/@10.3867415,78.8226289,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783651e01d3f:0xb22af0a93496c9a3!8m2!3d10.3867415!4d78.8226289!16s%2Fg%2F11gfctnjgb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3867415,
+      "lng": 78.8226289,
+      "label": "Sathya Skin &Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanmuga-hospital-limited-salem",
+    "name": "Shanmuga Hospital Limited",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shanmuga Hospital Limited is a prominent hospital in Salem, known for structured tertiary care across Liver Transplant Surgery In Pudukkottai. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0427 270 6666",
+    "alternatePhone": "",
+    "website": "http://www.shanmugahospital.com/",
+    "address": "24, Sarada College Rd, LRN Colony, Chinna Pudur, Salem, Tamil Nadu 636007",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "pincode": "636007",
+    "locality": "Chinna Pudur",
+    "landmark": "LRN Colony",
+    "emergencyContact": "0427 270 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shanmuga+Hospital+Limited/@11.676736,78.1529594,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04dfdd95555:0xcf541ea00b53a672!8m2!3d11.676736!4d78.1529594!16s%2Fg%2F11tg802577?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanmuga+Hospital+Limited/@11.676736,78.1529594,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04dfdd95555:0xcf541ea00b53a672!8m2!3d11.676736!4d78.1529594!16s%2Fg%2F11tg802577?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 11.676736,
+      "lng": 78.1529594,
+      "label": "Shanmuga Hospital Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-visalam-clinic-pudukkottai",
+    "name": "Shri Visalam Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, Shri Visalam Clinic brings together specialists for Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9RJ8+4FR, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Visalam+Clinic/@10.3803588,78.8161295,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007b1d34ab:0x40262abb812562f!8m2!3d10.3803588!4d78.8161295!16s%2Fg%2F11yb8htd_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Visalam+Clinic/@10.3803588,78.8161295,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079007b1d34ab:0x40262abb812562f!8m2!3d10.3803588!4d78.8161295!16s%2Fg%2F11yb8htd_f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3803588,
+      "lng": 78.8161295,
+      "label": "Shri Visalam Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sk-hospital-pudukkottai",
+    "name": "SK Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, SK Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Pudukkottai. Operational strengths including Google rating 2.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0432 227 0055",
+    "alternatePhone": "+91 96456 11118",
+    "website": "http://skhospitals.com/",
+    "address": "Puda Nagar, Pudukkottai, NH-226, Thanjavur Gandharvakottai Pudukkottai Road, Pudukkottai, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Puda Nagar",
+    "landmark": "NH-226",
+    "emergencyContact": "+91 96456 11118",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SK+Hospital/@10.393118,78.8260025,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783adcdfe1ed:0x8f85a790a8ad82b7!8m2!3d10.393118!4d78.8260025!16s%2Fg%2F11c70cfb0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SK+Hospital/@10.393118,78.8260025,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783adcdfe1ed:0x8f85a790a8ad82b7!8m2!3d10.393118!4d78.8260025!16s%2Fg%2F11c70cfb0g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.393118,
+      "lng": 78.8260025,
+      "label": "SK Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-specialist-pudukkottai-pudukkottai",
+    "name": "Skin Specialist, Pudukkottai",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, Skin Specialist, Pudukkottai brings together specialists for Kidney Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093611 44507",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Team Speciality Hospital, opposite to New Bus stand, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "opposite to New Bus stand, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "093611 44507",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Specialist,+Pudukkottai/@10.3786303,78.8134022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007994df4d5e75:0x6947db0badea1205!8m2!3d10.3786303!4d78.8134022!16s%2Fg%2F11lylc6fj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Specialist,+Pudukkottai/@10.3786303,78.8134022,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007994df4d5e75:0x6947db0badea1205!8m2!3d10.3786303!4d78.8134022!16s%2Fg%2F11lylc6fj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3786303,
+      "lng": 78.8134022,
+      "label": "Skin Specialist, Pudukkottai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sreevi-lung-hospital-dr-mathiyalgan-m-pudukkottai",
+    "name": "Sreevi lung hospital (Dr Mathiyalgan M)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pudukkottai, Sreevi lung hospital (Dr Mathiyalgan M) offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9RF6+CV8, Rajagopalapuram, Pudukkottai, Tamil Nadu 622003",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622003",
+    "locality": "Rajagopalapuram",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sreevi+lung+hospital+(Dr+Mathiyalgan+M)/@10.3735272,78.8122028,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00794d180256db:0x9b984fbe125aed57!8m2!3d10.3735272!4d78.8122028!16s%2Fg%2F11y24m2rfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sreevi+lung+hospital+(Dr+Mathiyalgan+M)/@10.3735272,78.8122028,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00794d180256db:0x9b984fbe125aed57!8m2!3d10.3735272!4d78.8122028!16s%2Fg%2F11y24m2rfc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3735272,
+      "lng": 78.8122028,
+      "label": "Sreevi lung hospital (Dr Mathiyalgan M)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-durga-surg-clinic-pudukottai-tn-varpattu",
+    "name": "Sri Durga Surg Clinic,Pudukottai Tn.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Durga Surg Clinic,Pudukottai Tn. is a prominent hospital in Varpattu, known for structured tertiary care across Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7G8Q+XPX, Varpattu, Tamil Nadu 622407",
+    "city": "Varpattu",
+    "state": "Tamil Nadu",
+    "pincode": "622407",
+    "locality": "",
+    "landmark": "Tamil Nadu 622407",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Durga+Surg+Clinic,Pudukottai+Tn./@10.2674889,78.5393735,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b9bedf76c3:0x5ec28daefd23e213!8m2!3d10.2674889!4d78.5393735!16s%2Fg%2F11pbrjfkyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Durga+Surg+Clinic,Pudukottai+Tn./@10.2674889,78.5393735,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b9bedf76c3:0x5ec28daefd23e213!8m2!3d10.2674889!4d78.5393735!16s%2Fg%2F11pbrjfkyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.2674889,
+      "lng": 78.5393735,
+      "label": "Sri Durga Surg Clinic,Pudukottai Tn.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-durga-surgical-clinic-and-research-center-varpattu",
+    "name": "Sri Durga Surgical Clinic and Research Center",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Varpattu, Sri Durga Surgical Clinic and Research Center delivers integrated care across Liver Transplant Surgery In Pudukkottai and Medical Center. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097871 53656",
+    "alternatePhone": "",
+    "website": "http://www.sridsc.com/",
+    "address": "7G8Q+VGR, Unnamed Road, Varpattu, Tamil Nadu 622407",
+    "city": "Varpattu",
+    "state": "Tamil Nadu",
+    "pincode": "622407",
+    "locality": "Unnamed Road",
+    "landmark": "Varpattu",
+    "emergencyContact": "097871 53656",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Durga+Surgical+Clinic+and+Research+Center/@10.267247,78.5387663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b996abfe15:0x2e400379636d5f1a!8m2!3d10.267247!4d78.5387663!16s%2Fg%2F11hczkvt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Durga+Surgical+Clinic+and+Research+Center/@10.267247,78.5387663,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0085b996abfe15:0x2e400379636d5f1a!8m2!3d10.267247!4d78.5387663!16s%2Fg%2F11hczkvt2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.267247,
+      "lng": 78.5387663,
+      "label": "Sri Durga Surgical Clinic and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-ramakrishna-specialty-hospitals-pvt-ltd-tiruchirappalli",
+    "name": "Sri Ramakrishna Specialty Hospitals Pvt.Ltd.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Ramakrishna Specialty Hospitals Pvt.Ltd. is a prominent hospital in Tiruchirappalli, known for structured tertiary care across Liver Transplant Surgery In Pudukkottai and Speciality Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090470 41111",
+    "alternatePhone": "",
+    "website": "http://sriramakrishnahospitaltrichy.com/",
+    "address": "B20, 2nd Cross Rd, West Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620018",
+    "locality": "West Thillai Nagar",
+    "landmark": "West Thillai Nagar",
+    "emergencyContact": "090470 41111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Ramakrishna+Specialty+Hospitals+Pvt.Ltd./@10.8259422,78.6827907,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a313ccc2b5:0x2418ec7b330ed9b5!8m2!3d10.8259422!4d78.6827907!16s%2Fg%2F11c2np7d89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Ramakrishna+Specialty+Hospitals+Pvt.Ltd./@10.8259422,78.6827907,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a313ccc2b5:0x2418ec7b330ed9b5!8m2!3d10.8259422!4d78.6827907!16s%2Fg%2F11c2np7d89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8259422,
+      "lng": 78.6827907,
+      "label": "Sri Ramakrishna Specialty Hospitals Pvt.Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-skin-clinic-pudukkottai",
+    "name": "SRI SKIN CLINIC",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, SRI SKIN CLINIC brings together specialists for Plastic Surgery In Pudukkottai. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085264 50991",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.7, Nijam Complex, near Brahadhambal school, A M A Nagar, Nizam Colony, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Nizam Colony",
+    "landmark": "near Brahadhambal school, A M A Nagar, Nizam Colony, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "085264 50991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SRI+SKIN+CLINIC/@10.3752556,78.8199921,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079de181fc31b:0x94cf47387028336f!8m2!3d10.3752556!4d78.8199921!16s%2Fg%2F11txcg8kn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRI+SKIN+CLINIC/@10.3752556,78.8199921,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079de181fc31b:0x94cf47387028336f!8m2!3d10.3752556!4d78.8199921!16s%2Fg%2F11txcg8kn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3752556,
+      "lng": 78.8199921,
+      "label": "SRI SKIN CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ss-hospital-pudukkottai",
+    "name": "SS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pudukkottai, SS Hospital delivers integrated care across Urologist Surgery In Pudukkottai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "sshospitalpudukkottai@gmail.com",
+    "phone": "0432 222 9494",
+    "alternatePhone": "73053 26246",
+    "website": "http://www.sshospitalpudukkottai.com/",
+    "address": "3rd St, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "73053 26246",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/sshospitalpdkt/",
+    "twitter": "https://twitter.com/sshospitalpdkt/",
+    "instagram": "https://www.instagram.com/sshospitalpdkt/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCijaf9BiSCzc61xmQZB_fOA",
+    "specialties": [
+      "Urologist Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SS+Hospital/@10.3786736,78.8157179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783544d62fdf:0x72f5b80b21df4e98!8m2!3d10.3786736!4d78.8157179!16s%2Fg%2F11cn6gn78b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SS+Hospital/@10.3786736,78.8157179,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00783544d62fdf:0x72f5b80b21df4e98!8m2!3d10.3786736!4d78.8157179!16s%2Fg%2F11cn6gn78b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3786736,
+      "lng": 78.8157179,
+      "label": "SS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "star-kims-hospital-tiruchirappalli",
+    "name": "Star Kims Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Tiruchirappalli, Star Kims Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073737 63031",
+    "alternatePhone": "",
+    "website": "https://starkimshospital.com/",
+    "address": "D, 6, 7th Cross St W, Extension, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620018",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620018",
+    "locality": "Thillai Nagar",
+    "landmark": "7th Cross St W",
+    "emergencyContact": "073737 63031",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/FoodpandaSingapore",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/foodpandasg",
+    "linkedin": "https://www.linkedin.com/company/foodpanda",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Star+Kims+Hospital/@10.8233429,78.6819864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a235dfae13:0xce4f8643177d8306!8m2!3d10.8233429!4d78.6819864!16s%2Fg%2F11g8p8j5hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Star+Kims+Hospital/@10.8233429,78.6819864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5a235dfae13:0xce4f8643177d8306!8m2!3d10.8233429!4d78.6819864!16s%2Fg%2F11g8p8j5hk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8233429,
+      "lng": 78.6819864,
+      "label": "Star Kims Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sundaram-hospital-tiruchirappalli",
+    "name": "Sundaram Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Tiruchirappalli, Sundaram Hospital brings together specialists for Liver Transplant Surgery In Pudukkottai. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@sundaramhospital.com",
+    "phone": "0431 402 4444",
+    "alternatePhone": "96775 79666",
+    "website": "http://sundaramhospital.com/",
+    "address": "No 20, EVR Main Road, Aruna Nagar, Puthur, Thillai Nagar, Tiruchirappalli, Tamil Nadu 620017",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "pincode": "620017",
+    "locality": "Thillai Nagar",
+    "landmark": "Aruna Nagar",
+    "emergencyContact": "96775 79666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sundaram+Hospital/@10.8144086,78.6778527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5623319f1ab:0x96216d6caf8900a5!8m2!3d10.8144086!4d78.6778527!16s%2Fg%2F11bvtcd15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sundaram+Hospital/@10.8144086,78.6778527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baaf5623319f1ab:0x96216d6caf8900a5!8m2!3d10.8144086!4d78.6778527!16s%2Fg%2F11bvtcd15h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.8144086,
+      "lng": 78.6778527,
+      "label": "Sundaram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "team-speciality-hospital-pudukkottai",
+    "name": "Team Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pudukkottai, Team Speciality Hospital delivers integrated care across Urologist Surgery In Pudukkottai and Speciality Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@teamhospital.in",
+    "phone": "090925 69256",
+    "alternatePhone": "+91 82967 91847",
+    "website": "https://www.teamhospital.in/",
+    "address": "Sathiyamoorthy Road, near New Bus Stand, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "near New Bus Stand, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "emergencyContact": "+91 82967 91847",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/teamspecialityhospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/teamspecialityhospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@teamspecialtyhospital/",
+    "specialties": [
+      "Urologist Surgery In Pudukkottai",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Team+Speciality+Hospital/@10.3786238,78.8133979,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784ad1b5fb7f:0x69e82dc823946f13!8m2!3d10.3786238!4d78.8133979!16s%2Fg%2F1261ldm7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Team+Speciality+Hospital/@10.3786238,78.8133979,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00784ad1b5fb7f:0x69e82dc823946f13!8m2!3d10.3786238!4d78.8133979!16s%2Fg%2F1261ldm7w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3786238,
+      "lng": 78.8133979,
+      "label": "Team Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thamil-dialysis-centre-kadukkakadu",
+    "name": "Thamil dialysis centre",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kadukkakadu often choose Thamil dialysis centre for its strength in Kidney Transplant Surgery In Pudukkottai and Dialysis Center. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088832 47856",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M.Malar hospital, Kadukkakadu, Tamil Nadu 622001",
+    "city": "Kadukkakadu",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "M.Malar hospital",
+    "landmark": "Tamil Nadu 622001",
+    "emergencyContact": "088832 47856",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pudukkottai",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Thamil+dialysis+centre/@10.380035,78.8190274,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079424854f1e5:0x1c9e79bcf45b5936!8m2!3d10.380035!4d78.8190274!16s%2Fg%2F11l1q79690?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Thamil+dialysis+centre/@10.380035,78.8190274,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079424854f1e5:0x1c9e79bcf45b5936!8m2!3d10.380035!4d78.8190274!16s%2Fg%2F11l1q79690?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.380035,
+      "lng": 78.8190274,
+      "label": "Thamil dialysis centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thangam-advanced-dental-clinic-bose-nagar",
+    "name": "THANGAM ADVANCED DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bose Nagar, THANGAM ADVANCED DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Pudukkottai and Dentist. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090421 21676",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Thangam Towers, NEW BUSTAND, opposite Pudukkottai, Bose Nagar, Tamil Nadu 622303",
+    "city": "Bose Nagar",
+    "state": "Tamil Nadu",
+    "pincode": "622303",
+    "locality": "opposite Pudukkottai",
+    "landmark": "opposite Pudukkottai, Bose Nagar, Tamil Nadu 622303",
+    "emergencyContact": "090421 21676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/THANGAM+ADVANCED+DENTAL+CLINIC/@10.3843175,78.8326089,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007965139eba4f:0xf6e44e1c8ceb35ea!8m2!3d10.3843175!4d78.8326089!16s%2Fg%2F11gx_wycys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/THANGAM+ADVANCED+DENTAL+CLINIC/@10.3843175,78.8326089,17z/data=!3m1!4b1!4m6!3m5!1s0x3b007965139eba4f:0xf6e44e1c8ceb35ea!8m2!3d10.3843175!4d78.8326089!16s%2Fg%2F11gx_wycys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3843175,
+      "lng": 78.8326089,
+      "label": "THANGAM ADVANCED DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thangam-dental-pudukkottai",
+    "name": "THANGAM DENTAL",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, THANGAM DENTAL brings together specialists for Oral Surgery In Pudukkottai. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090421 21676",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lakshmipuram 2nd St, behind TEAM Hospital, Santhanathapuram, Pudukkottai, Tamil Nadu 622001",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622001",
+    "locality": "Santhanathapuram",
+    "landmark": "Santhanathapuram",
+    "emergencyContact": "090421 21676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/THANGAM+DENTAL/@10.3790951,78.8134658,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079501964975d:0x6767e7be4d80f4e9!8m2!3d10.3790951!4d78.8134658!16s%2Fg%2F11mvnf4f_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/THANGAM+DENTAL/@10.3790951,78.8134658,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079501964975d:0x6767e7be4d80f4e9!8m2!3d10.3790951!4d78.8134658!16s%2Fg%2F11mvnf4f_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3790951,
+      "lng": 78.8134658,
+      "label": "THANGAM DENTAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-liver-clinic-kolkata",
+    "name": "The Liver Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Liver Clinic has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Pudukkottai, Surgical Center, and Liver Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "202, Purbachal Main Rd, Purbachal, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai",
+      "Surgical Center",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5024883,
+      "lng": 88.3926269,
+      "label": "The Liver Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thiagu-dental-clinic-pudukkottai",
+    "name": "Thiagu dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pudukkottai, Thiagu dental clinic delivers integrated care across Oral Surgery In Pudukkottai. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097514 99399",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No - 7 Laxmi Industrial Estate, Rajagopalapuram, Pudukkottai, Tamil Nadu 622003",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622003",
+    "locality": "Rajagopalapuram",
+    "landmark": "Pudukkottai",
+    "emergencyContact": "097514 99399",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Thiagu+dental+clinic/@10.3682794,78.8038588,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079766b68103f:0x3cff40536f5dcd70!8m2!3d10.3682794!4d78.8038588!16s%2Fg%2F11ngd7dlhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Thiagu+dental+clinic/@10.3682794,78.8038588,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079766b68103f:0x3cff40536f5dcd70!8m2!3d10.3682794!4d78.8038588!16s%2Fg%2F11ngd7dlhh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3682794,
+      "lng": 78.8038588,
+      "label": "Thiagu dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "usha-dharshan-dental-care-pudukkottai",
+    "name": "USHA DHARSHAN DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pudukkottai, USHA DHARSHAN DENTAL CARE brings together specialists for Oral Surgery In Pudukkottai. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097898 32008",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajagopalapuram, Pudukkottai, Tamil Nadu 622003",
+    "city": "Pudukkottai",
+    "state": "Tamil Nadu",
+    "pincode": "622003",
+    "locality": "Rajagopalapuram",
+    "landmark": "Tamil Nadu 622003",
+    "emergencyContact": "097898 32008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/USHA+DHARSHAN+DENTAL+CARE/@10.3743114,78.807595,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079c22b728a05:0xf7f02e0c587569c0!8m2!3d10.3743114!4d78.807595!16s%2Fg%2F11j9722zsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/USHA+DHARSHAN+DENTAL+CARE/@10.3743114,78.807595,17z/data=!3m1!4b1!4m6!3m5!1s0x3b0079c22b728a05:0xf7f02e0c587569c0!8m2!3d10.3743114!4d78.807595!16s%2Fg%2F11j9722zsg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.3743114,
+      "lng": 78.807595,
+      "label": "USHA DHARSHAN DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vadamalayan-hospitals-pvt-ltd-dindigul",
+    "name": "Vadamalayan Hospitals Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dindigul often choose Vadamalayan Hospitals Pvt Ltd for its strength in Liver Transplant Surgery In Pudukkottai. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0451 356 1000",
+    "alternatePhone": "",
+    "website": "https://vadamalayanhospitals.com/services/hospitals-in-dindigul/",
+    "address": "649/ A2, Chettinaikanpatti village Road, Angu Bharathi Nagar, J.J. Nagar, Dindigul, Tamil Nadu 624004",
+    "city": "Dindigul",
+    "state": "Tamil Nadu",
+    "pincode": "624004",
+    "locality": "J.J. Nagar",
+    "landmark": "Angu Bharathi Nagar",
+    "emergencyContact": "0451 356 1000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pudukkottai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vadamalayan+Hospitals+Pvt+Ltd/@10.380779,77.9689421,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00ab74c53d4f9f:0xbf2b8b4efb85fc59!8m2!3d10.380779!4d77.9689421!16s%2Fg%2F11fmsg72gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vadamalayan+Hospitals+Pvt+Ltd/@10.380779,77.9689421,17z/data=!3m1!4b1!4m6!3m5!1s0x3b00ab74c53d4f9f:0xbf2b8b4efb85fc59!8m2!3d10.380779!4d77.9689421!16s%2Fg%2F11fmsg72gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 10.380779,
+      "lng": 77.9689421,
+      "label": "Vadamalayan Hospitals Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

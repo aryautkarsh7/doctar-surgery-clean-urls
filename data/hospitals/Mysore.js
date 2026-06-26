@@ -1,0 +1,26656 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32-happy-teeth-dental-clinic-hutagalli",
+    "name": "32 Happy Teeth, Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Hutagalli, 32 Happy Teeth, Dental Clinic delivers integrated care across Oral Surgery In Mysore. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094811 86603",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hinkal, Ilavala Hobli, Hutagalli, Karnataka 570017",
+    "city": "Hutagalli",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Ilavala Hobli",
+    "landmark": "Hutagalli",
+    "emergencyContact": "094811 86603",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/32+Happy+Teeth,+Dental+Clinic/@12.3319582,76.6007372,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b15a349d5ad:0x38b5cab6a19d7df5!8m2!3d12.3319582!4d76.6007372!16s%2Fg%2F11klvlb3sp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Happy+Teeth,+Dental+Clinic/@12.3319582,76.6007372,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b15a349d5ad:0x38b5cab6a19d7df5!8m2!3d12.3319582!4d76.6007372!16s%2Fg%2F11klvlb3sp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3319582,
+      "lng": 76.6007372,
+      "label": "32 Happy Teeth, Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "a-r-hospital-mysuru",
+    "name": "A R Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, A R Hospital offers coordinated hospital care with major focus on Urologist Surgery In Mysore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082135 01645",
+    "alternatePhone": "",
+    "website": "http://arhospitalmysuru.com/",
+    "address": "22, New Kantharaj Urs Rd, CFTRI layout, Sharadadevi Nagar, Mysuru, Karnataka 570022",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570022",
+    "locality": "Sharadadevi Nagar",
+    "landmark": "CFTRI layout",
+    "emergencyContact": "082135 01645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/A+R+Hospital/@12.295517,76.6107101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4efeac7085:0x36d66538722173d9!8m2!3d12.295517!4d76.6107101!16s%2Fg%2F11s3pvcrgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/A+R+Hospital/@12.295517,76.6107101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4efeac7085:0x36d66538722173d9!8m2!3d12.295517!4d76.6107101!16s%2Fg%2F11s3pvcrgk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.295517,
+      "lng": 76.6107101,
+      "label": "A R Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "a-s-health-center-eahtesham-traditional-chiropractor-nerves-and-bones-specialist-mysuru",
+    "name": "A S Health Center - Eahtesham Traditional Chiropractor (Nerves & Bones Specialist)",
+    "type": "Chiropractor",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, A S Health Center - Eahtesham Traditional Chiropractor (Nerves & Bones Specialist) offers coordinated hospital care with major focus on Spine Surgery In Mysore, Chiropractor, and Orthopaedics. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097419 49711",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1010/M, Kabir Rd, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Mandi Mohalla",
+    "emergencyContact": "097419 49711",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Chiropractor",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/A+S+Health+Center+-+Eahtesham+Traditional+Chiropractor+(Nerves+%26+Bones+Specialist)/@12.3165779,76.6540051,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706c4b59fd85:0xf7cb6ccb3fc5bce2!8m2!3d12.3165779!4d76.6540051!16s%2Fg%2F11g6bkhzb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/A+S+Health+Center+-+Eahtesham+Traditional+Chiropractor+(Nerves+%26+Bones+Specialist)/@12.3165779,76.6540051,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706c4b59fd85:0xf7cb6ccb3fc5bce2!8m2!3d12.3165779!4d76.6540051!16s%2Fg%2F11g6bkhzb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3165779,
+      "lng": 76.6540051,
+      "label": "A S Health Center - Eahtesham Traditional Chiropractor (Nerves & Bones Specialist)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aadithya-adhikari-hospital-mysuru",
+    "name": "Aadithya Adhikari Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Mysuru, Aadithya Adhikari Hospital delivers integrated care across Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "076191 22526",
+    "alternatePhone": "",
+    "website": "",
+    "address": "417, Contour Rd, opp. Vishnu Bhavan, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "opp. Vishnu Bhavan",
+    "emergencyContact": "076191 22526",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Aadithya+Adhikari+Hospital/@12.33159,76.6272025,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a88fecaa0e9:0xdff695b1f5535654!8m2!3d12.33159!4d76.6272025!16s%2Fg%2F1tk1lfjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aadithya+Adhikari+Hospital/@12.33159,76.6272025,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a88fecaa0e9:0xdff695b1f5535654!8m2!3d12.33159!4d76.6272025!16s%2Fg%2F1tk1lfjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.33159,
+      "lng": 76.6272025,
+      "label": "Aadithya Adhikari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarya-dental-clinic-mysuru",
+    "name": "Aarya Dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Aarya Dental clinic offers coordinated hospital care with major focus on Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Keerthi Plaza, C-4, NS Road, opp. to vidyaranya hospital, Chamundipuram, chamundipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "chamundipuram",
+    "landmark": "NS Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Aarya+Dental+clinic/@12.288855,76.6493973,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6fd6a4dcc3d1:0x45d4bad9730382d9!8m2!3d12.288855!4d76.6493973!16s%2Fg%2F11ww7vl_yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarya+Dental+clinic/@12.288855,76.6493973,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6fd6a4dcc3d1:0x45d4bad9730382d9!8m2!3d12.288855!4d76.6493973!16s%2Fg%2F11ww7vl_yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.288855,
+      "lng": 76.6493973,
+      "label": "Aarya Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarya-hospital-mysuru",
+    "name": "Aarya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aarya Hospital is a prominent hospital in Mysuru, known for structured tertiary care across Urologist Surgery In Mysore. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082123 30233",
+    "alternatePhone": "",
+    "website": "http://www.aaryahospitalmysuru.com/",
+    "address": "1199, New Kantharaj Urs Rd, Chamaraja Mohalla, Chamarajapuram Mohalla, Krishnamurthy Puram, Mysuru, Karnataka 570005",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570005",
+    "locality": "Krishnamurthy Puram",
+    "landmark": "Chamaraja Mohalla",
+    "emergencyContact": "082123 30233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarya+Hospital/@12.2958685,76.6389473,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b01a77d95d9:0xf7b9ef7ae903901b!8m2!3d12.2958685!4d76.6389473!16s%2Fg%2F11kt8swgmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarya+Hospital/@12.2958685,76.6389473,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b01a77d95d9:0xf7b9ef7ae903901b!8m2!3d12.2958685!4d76.6389473!16s%2Fg%2F11kt8swgmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2958685,
+      "lng": 76.6389473,
+      "label": "Aarya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aayra-dermatology-and-aesthetics-mysuru",
+    "name": "Aayra Dermatology & Aesthetics",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aayra Dermatology & Aesthetics has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Cosmetic Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099167 71109",
+    "alternatePhone": "",
+    "website": "https://www.aayraaesthetics.com/",
+    "address": "Second Floor, 1, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Vishwamanava Double Road",
+    "emergencyContact": "099167 71109",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aayra+Dermatology+%26+Aesthetics/@12.2928185,76.6244991,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b093afe3a11:0xaad18ec7fa024eef!8m2!3d12.2928185!4d76.6244991!16s%2Fg%2F11yls707t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aayra+Dermatology+%26+Aesthetics/@12.2928185,76.6244991,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b093afe3a11:0xaad18ec7fa024eef!8m2!3d12.2928185!4d76.6244991!16s%2Fg%2F11yls707t3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2928185,
+      "lng": 76.6244991,
+      "label": "Aayra Dermatology & Aesthetics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "acesobkg-s-diagnostics-and-health-care-mysuru",
+    "name": "AcesoBKG's Diagnostics & Health Care",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, AcesoBKG's Diagnostics & Health Care offers coordinated hospital care with major focus on Spine Surgery In Mysore. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082123 47272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "574, New Kantharaj Urs Rd, near Vijaya Bank Circle, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "near Vijaya Bank Circle, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "emergencyContact": "082123 47272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/AcesoBKG's+Diagnostics+%26+Health+Care/@12.2959127,76.6247954,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab6a3f545df:0x4fc971fb900a4978!8m2!3d12.2959127!4d76.6247954!16s%2Fg%2F11d_761qp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AcesoBKG's+Diagnostics+%26+Health+Care/@12.2959127,76.6247954,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab6a3f545df:0x4fc971fb900a4978!8m2!3d12.2959127!4d76.6247954!16s%2Fg%2F11d_761qp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2959127,
+      "lng": 76.6247954,
+      "label": "AcesoBKG's Diagnostics & Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ahis-aesthetics-the-hair-transplant-specialist-mysuru",
+    "name": "AHIS Aesthetics -The Hair Transplant Specialist",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, AHIS Aesthetics -The Hair Transplant Specialist offers coordinated hospital care with major focus on Liver Transplant Surgery In Mysore. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084948 86676",
+    "alternatePhone": "",
+    "website": "http://ahisaesthetics.com/",
+    "address": "AHIS Aesthetics, 610, 2nd Floor, M V Arcade, Panchamantra Rd, above Federal Bank, opposite Janata Fruits & Vegetable, Akshaya Bhandar, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "opposite Janata Fruits & Vegetable, Akshaya Bhandar, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "emergencyContact": "084948 86676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AHIS+Aesthetics+-The+Hair+Transplant+Specialist/@12.293797,76.6283842,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab219b25c29:0xc08eb8d22ba0a7c9!8m2!3d12.293797!4d76.6283842!16s%2Fg%2F11c6cqs2_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AHIS+Aesthetics+-The+Hair+Transplant+Specialist/@12.293797,76.6283842,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab219b25c29:0xc08eb8d22ba0a7c9!8m2!3d12.293797!4d76.6283842!16s%2Fg%2F11c6cqs2_b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.293797,
+      "lng": 76.6283842,
+      "label": "AHIS Aesthetics -The Hair Transplant Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aishwarya-hospital-mysuru",
+    "name": "Aishwarya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Aishwarya Hospital brings together specialists for Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 3.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 10255",
+    "alternatePhone": "",
+    "website": "",
+    "address": "a-1 block, 30, 1st Main Rd, Vijay Nagar 3rd Stage, Vijayanagar, Mysuru, Karnataka 570030",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570030",
+    "locality": "Vijayanagar",
+    "landmark": "1st Main Rd",
+    "emergencyContact": "082124 10255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Aishwarya+Hospital/@12.3232344,76.6092656,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ae5b0000001:0x505e14303dc36cc7!8m2!3d12.3232344!4d76.6092656!16s%2Fg%2F11cn30ybhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aishwarya+Hospital/@12.3232344,76.6092656,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ae5b0000001:0x505e14303dc36cc7!8m2!3d12.3232344!4d76.6092656!16s%2Fg%2F11cn30ybhq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3232344,
+      "lng": 76.6092656,
+      "label": "Aishwarya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "al-ansaar-hospital-mysore-mysuru",
+    "name": "Al Ansaar Hospital Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Al Ansaar Hospital Mysore for its strength in Urologist Surgery In Mysore. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088618 55551",
+    "alternatePhone": "",
+    "website": "http://www.alansaarhospitals.com/",
+    "address": "Mohammed sait block, 3206/12 A, 3208, Lashkar Mohalla, Earangere, Gayathri Puram, Mysuru, Karnataka 570007",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570007",
+    "locality": "Gayathri Puram",
+    "landmark": "3208",
+    "emergencyContact": "088618 55551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Al+Ansaar+Hospital+Mysore/@12.3193502,76.6637611,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf714d8de07541:0x291abf2f0e0a7574!8m2!3d12.3193502!4d76.6637611!16s%2Fg%2F11j1mg911q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Al+Ansaar+Hospital+Mysore/@12.3193502,76.6637611,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf714d8de07541:0x291abf2f0e0a7574!8m2!3d12.3193502!4d76.6637611!16s%2Fg%2F11j1mg911q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3193502,
+      "lng": 76.6637611,
+      "label": "Al Ansaar Hospital Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alpha-hospital-mysuru",
+    "name": "Alpha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Alpha Hospital delivers integrated care across Urologist Surgery In Mysore. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082120 01400",
+    "alternatePhone": "",
+    "website": "https://alphahospitalmysore.com/",
+    "address": "242,bibi Ayesha complex, Subhash Nagar, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "Subhash Nagar",
+    "emergencyContact": "082120 01400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Alpha+Hospital/@12.3368272,76.657411,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71407a7a9e2f:0xfc594b0ae32e682b!8m2!3d12.3368272!4d76.657411!16s%2Fg%2F11rxsjbn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alpha+Hospital/@12.3368272,76.657411,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71407a7a9e2f:0xfc594b0ae32e682b!8m2!3d12.3368272!4d76.657411!16s%2Fg%2F11rxsjbn26?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3368272,
+      "lng": 76.657411,
+      "label": "Alpha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anagha-hospital-mysuru",
+    "name": "Anagha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Anagha Hospital for its strength in Orthopedic Surgery In Mysore. Hospital capacity markers such as Google rating 2.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082145 21253",
+    "alternatePhone": "",
+    "website": "",
+    "address": "67/7A, 67/7, Sayyaji Rao Rd, Agrahara, Agrahara Circle, Fort Mohalla, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Fort Mohalla",
+    "landmark": "Sayyaji Rao Rd",
+    "emergencyContact": "082145 21253",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Anagha+Hospital/data=!4m7!3m6!1s0x3baf70052ab091db:0x704a117b1b27014a!8m2!3d12.2995996!4d76.6527565!16s%2Fg%2F11clym2h2m!19sChIJ25GwKgVwrzsRSgEnG3sRSnA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anagha+Hospital/data=!4m7!3m6!1s0x3baf70052ab091db:0x704a117b1b27014a!8m2!3d12.2995996!4d76.6527565!16s%2Fg%2F11clym2h2m!19sChIJ25GwKgVwrzsRSgEnG3sRSnA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2995996,
+      "lng": 76.6527565,
+      "label": "Anagha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anantha-plastic-surgery-hair-tansplant-and-cosmetology-centre-mysuru",
+    "name": "ANANTHA Plastic surgery Hair Tansplant and Cosmetology Centre",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, ANANTHA Plastic surgery Hair Tansplant and Cosmetology Centre offers coordinated hospital care with major focus on Liver Transplant Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097399 74511",
+    "alternatePhone": "",
+    "website": "https://benewhaircare.com/",
+    "address": "1489/2, Sayyaji Rao Rd, Devaraja Mohalla, Tilak Nagar, Sayyaji Rao Rd, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Devaraja Mohalla",
+    "emergencyContact": "097399 74511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ANANTHA+Plastic+surgery+Hair+Tansplant+and+Cosmetology+Centre/@12.316758,76.6503567,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf714ffaa0cdc3:0xa679402a2840cbb1!8m2!3d12.316758!4d76.6503567!16s%2Fg%2F11rvcvy0bx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ANANTHA+Plastic+surgery+Hair+Tansplant+and+Cosmetology+Centre/@12.316758,76.6503567,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf714ffaa0cdc3:0xa679402a2840cbb1!8m2!3d12.316758!4d76.6503567!16s%2Fg%2F11rvcvy0bx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.316758,
+      "lng": 76.6503567,
+      "label": "ANANTHA Plastic surgery Hair Tansplant and Cosmetology Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "annapoorna-eye-hospital-sharadadevi-nagar-mysuru",
+    "name": "Annapoorna Eye Hospital, Sharadadevi Nagar",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Annapoorna Eye Hospital, Sharadadevi Nagar offers coordinated hospital care with major focus on Cancer Surgery In Mysore and Eye Care Center. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077603 62404",
+    "alternatePhone": "",
+    "website": "https://www.annapoornaeyehospital.com/",
+    "address": "199, Sai Paadam New Kanthraja, New Kantharaj Urs Rd, Basaveshwaranagar, Sharadadevi Nagar, TK Layout, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "TK Layout",
+    "landmark": "New Kantharaj Urs Rd",
+    "emergencyContact": "077603 62404",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mysore",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Annapoorna+Eye+Hospital,+Sharadadevi+Nagar/@12.2956362,76.6147273,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aa82ecbfa69:0x7f0712ffb0239ea5!8m2!3d12.2956362!4d76.6147273!16s%2Fg%2F1ptvtrf09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Annapoorna+Eye+Hospital,+Sharadadevi+Nagar/@12.2956362,76.6147273,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aa82ecbfa69:0x7f0712ffb0239ea5!8m2!3d12.2956362!4d76.6147273!16s%2Fg%2F1ptvtrf09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2956362,
+      "lng": 76.6147273,
+      "label": "Annapoorna Eye Hospital, Sharadadevi Nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-bgs-hospitals-best-hospital-in-mysuru-mysuru",
+    "name": "Apollo BGS Hospitals | Best Hospital in Mysuru",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Apollo BGS Hospitals | Best Hospital in Mysuru brings together specialists for Urologist Surgery In Mysore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080690 49759",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-bgs-hospitals-mysore",
+    "address": "Adichunchanagiri Road, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Mysuru",
+    "emergencyContact": "080690 49759",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+BGS+Hospitals+%7C+Best+Hospital+in+Mysuru/@12.2955694,76.6321863,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aab67734a87:0x9a88cfb78df5e7c7!8m2!3d12.2955694!4d76.6321863!16s%2Fg%2F1tcw6mp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+BGS+Hospitals+%7C+Best+Hospital+in+Mysuru/@12.2955694,76.6321863,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aab67734a87:0x9a88cfb78df5e7c7!8m2!3d12.2955694!4d76.6321863!16s%2Fg%2F1tcw6mp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2955694,
+      "lng": 76.6321863,
+      "label": "Apollo BGS Hospitals | Best Hospital in Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-clinic-mysuru",
+    "name": "Apollo Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Apollo Clinic for its strength in Urologist Surgery In Mysore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.apolloclinic.com/clinic-locator/india/karnataka/mysore/vv-mohalla?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBVijayanagar",
+    "address": "Panchvati Circle, 23, Kalidasa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "Kalidasa Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Clinic/@12.3245177,76.6240322,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8de1e51acb:0xcc3850f99505a9d7!8m2!3d12.3245177!4d76.6240322!16s%2Fg%2F1tjdpsl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Clinic/@12.3245177,76.6240322,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8de1e51acb:0xcc3850f99505a9d7!8m2!3d12.3245177!4d76.6240322!16s%2Fg%2F1tjdpsl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3245177,
+      "lng": 76.6240322,
+      "label": "Apollo Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dental-clinic-mysuru",
+    "name": "Apollo Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Apollo Dental Clinic brings together specialists for Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082140 06040",
+    "alternatePhone": "",
+    "website": "https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKalidasaRoad",
+    "address": "23, Kalidasa Rd, above Aircel Office, Vani Vilas Mohalla, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "above Aircel Office",
+    "emergencyContact": "082140 06040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic/@12.324547,76.623886,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9ae621a941:0x806027bfb10c2173!8m2!3d12.324547!4d76.623886!16s%2Fg%2F11b_2r8s22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dental+Clinic/@12.324547,76.623886,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9ae621a941:0x806027bfb10c2173!8m2!3d12.324547!4d76.623886!16s%2Fg%2F11b_2r8s22?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.324547,
+      "lng": 76.623886,
+      "label": "Apollo Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dental-clinic-krishnamurthypuram-best-dental-clinic-in-mysuru-root-canals-aligners-implants-crowns-mysuru",
+    "name": "Apollo Dental Clinic, Krishnamurthypuram | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, Apollo Dental Clinic, Krishnamurthypuram | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns delivers integrated care across Oral Surgery In Mysore. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088677 45153",
+    "alternatePhone": "",
+    "website": "https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKrishnamurthypuram",
+    "address": "1241/A, 2nd west cross, Landmark:, beside vinayaka nursing home, Krishnamurthy Puram, Mysuru, Karnataka 570014",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570014",
+    "locality": "Krishnamurthy Puram",
+    "landmark": "beside vinayaka nursing home, Krishnamurthy Puram, Mysuru, Karnataka 570014",
+    "emergencyContact": "088677 45153",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Krishnamurthypuram+%7C+Best+Dental+Clinic+in+Mysuru+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@12.2946469,76.6417662,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71a748908011:0x1aa841128396847b!8m2!3d12.2946469!4d76.6417662!16s%2Fg%2F11tj68xpjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Krishnamurthypuram+%7C+Best+Dental+Clinic+in+Mysuru+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@12.2946469,76.6417662,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71a748908011:0x1aa841128396847b!8m2!3d12.2946469!4d76.6417662!16s%2Fg%2F11tj68xpjk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2946469,
+      "lng": 76.6417662,
+      "label": "Apollo Dental Clinic, Krishnamurthypuram | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dental-clinic-kuvempunagar-best-dental-clinic-in-mysuru-root-canals-aligners-implants-crowns-mysuru",
+    "name": "Apollo Dental Clinic, Kuvempunagar | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Apollo Dental Clinic, Kuvempunagar | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns for its strength in Oral Surgery In Mysore. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081234 31714",
+    "alternatePhone": "",
+    "website": "https://apollodental.in/?utm_source=GMB&utm_medium=GMBWebsiteButton&utm_campaign=GMBKuvempunagar",
+    "address": "Apollo BGS Hospitals, Adichunchanagiri Road ,Kuvempunagar, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempunagar",
+    "landmark": "Kuvempunagar",
+    "emergencyContact": "081234 31714",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Kuvempunagar+%7C+Best+Dental+Clinic+in+Mysuru+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@12.295699,76.632025,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf655261e40e57:0x9e6bc9fa5573f7bd!8m2!3d12.295699!4d76.632025!16s%2Fg%2F11bzx8vv9s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dental+Clinic,+Kuvempunagar+%7C+Best+Dental+Clinic+in+Mysuru+%7C+Root+Canals,+Aligners,+Implants,+Crowns/@12.295699,76.632025,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf655261e40e57:0x9e6bc9fa5573f7bd!8m2!3d12.295699!4d76.632025!16s%2Fg%2F11bzx8vv9s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.295699,
+      "lng": 76.632025,
+      "label": "Apollo Dental Clinic, Kuvempunagar | Best Dental Clinic in Mysuru | Root Canals, Aligners, Implants, Crowns",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-proton-therapy-in-mysore-mysuru",
+    "name": "Apollo Proton Therapy in Mysore",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Mysuru, Apollo Proton Therapy in Mysore delivers integrated care across Oncologist Surgery In Mysore and Cancer Treatment Center. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080629 72782",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/proton-therapy/proton-therapy/",
+    "address": "Paduvaralli, Vinayakanagara, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Vinayakanagara",
+    "landmark": "Mysuru",
+    "emergencyContact": "080629 72782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Mysore/@12.316734,76.627455,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8883c5deaf:0xe81956dab3848f49!8m2!3d12.316734!4d76.627455!16s%2Fg%2F11xs7v64r5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Mysore/@12.316734,76.627455,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8883c5deaf:0xe81956dab3848f49!8m2!3d12.316734!4d76.627455!16s%2Fg%2F11xs7v64r5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.316734,
+      "lng": 76.627455,
+      "label": "Apollo Proton Therapy in Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aravinda-hospital-aravinda-nagar-mysore-mysuru",
+    "name": "Aravinda Hospital, Aravinda Nagar, Mysore",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aravinda Hospital, Aravinda Nagar, Mysore is a prominent private hospital in Mysuru, known for structured tertiary care across General Surgery In Mysore. With public-facing highlights like Google rating 3.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096325 06208",
+    "alternatePhone": "",
+    "website": "https://aravindahospital.com/",
+    "address": "644, Adichunchanagiri Road, Aravinda Nagar, Kuvempu Nagara, Mysuru, Karnataka 570034",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570034",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Aravinda Nagar",
+    "emergencyContact": "096325 06208",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aravinda+Hospital,+Aravinda+Nagar,+Mysore/@12.2779763,76.6293982,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65454dd42bd1:0xd4c1e3f8654e3bb9!8m2!3d12.2779763!4d76.6293982!16s%2Fg%2F1pxq4j5gs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aravinda+Hospital,+Aravinda+Nagar,+Mysore/@12.2779763,76.6293982,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65454dd42bd1:0xd4c1e3f8654e3bb9!8m2!3d12.2779763!4d76.6293982!16s%2Fg%2F1pxq4j5gs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2779763,
+      "lng": 76.6293982,
+      "label": "Aravinda Hospital, Aravinda Nagar, Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "atharva-dental-clinic-mysuru",
+    "name": "Atharva Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Atharva Dental Clinic for its strength in Oral Surgery In Mysore and Dentist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094800 16676",
+    "alternatePhone": "",
+    "website": "https://atharvadentalmysore.in/",
+    "address": "20, M.I.G, Ist floor, Nrupatunga Rd ( shanthisagar complex to bus depot road, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Ist floor",
+    "emergencyContact": "094800 16676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Atharva+Dental+Clinic/@12.283369,76.6255409,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654e00795397:0x3c35d9ff3fbadd89!8m2!3d12.283369!4d76.6255409!16s%2Fg%2F11q9s5zlhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Atharva+Dental+Clinic/@12.283369,76.6255409,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654e00795397:0x3c35d9ff3fbadd89!8m2!3d12.283369!4d76.6255409!16s%2Fg%2F11q9s5zlhx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.283369,
+      "lng": 76.6255409,
+      "label": "Atharva Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aura-dental-and-aesthetic-center-mysuru",
+    "name": "Aura Dental & Aesthetic Center",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Mysuru, Aura Dental & Aesthetic Center delivers integrated care across Oral Surgery In Mysore and Medical Center. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082140 51557",
+    "alternatePhone": "",
+    "website": "https://auraclinics.in/",
+    "address": "Water Tank, MIG 16, Subhash Nagar, P.H. Colony, Oppsite, Mysuru, Karnataka 570007",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570007",
+    "locality": "Oppsite",
+    "landmark": "Subhash Nagar",
+    "emergencyContact": "082140 51557",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aura+Dental+%26+Aesthetic+Center/@12.3313686,76.6601262,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71d0425323cb:0x78c04e180095f0ed!8m2!3d12.3313686!4d76.6601262!16s%2Fg%2F11s9dkxtzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aura+Dental+%26+Aesthetic+Center/@12.3313686,76.6601262,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71d0425323cb:0x78c04e180095f0ed!8m2!3d12.3313686!4d76.6601262!16s%2Fg%2F11s9dkxtzj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3313686,
+      "lng": 76.6601262,
+      "label": "Aura Dental & Aesthetic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avant-bkg-hospitals-bhogadi",
+    "name": "Avant BKG Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Avant BKG Hospitals is a prominent hospital in Bhogadi, known for structured tertiary care across Spine Surgery In Mysore. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082125 20000",
+    "alternatePhone": "",
+    "website": "http://www.avantbkghospitals.com/",
+    "address": "6/2A3 Bogadi Ring Road, near Bogadi Road, Bhogadi, Karnataka 570026",
+    "city": "Bhogadi",
+    "state": "Karnataka",
+    "pincode": "570026",
+    "locality": "near Bogadi Road",
+    "landmark": "near Bogadi Road, Bhogadi, Karnataka 570026",
+    "emergencyContact": "082125 20000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Avant+BKG+Hospitals/@12.3017532,76.6017993,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bcd7d8c6659:0x6aebda13bf04a206!8m2!3d12.3017532!4d76.6017993!16s%2Fg%2F11vjp4rvs7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avant+BKG+Hospitals/@12.3017532,76.6017993,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bcd7d8c6659:0x6aebda13bf04a206!8m2!3d12.3017532!4d76.6017993!16s%2Fg%2F11vjp4rvs7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3017532,
+      "lng": 76.6017993,
+      "label": "Avant BKG Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avinya-dental-clinic-mysuru",
+    "name": "Avinya Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Avinya Dental Clinic for its strength in Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095388 27185",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1491, First Floor, Srinivasa Complex, Vinoba Rd, opposite DBS Bank, Devaraja Mohalla, Shivarampet, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Shivarampet",
+    "landmark": "opposite DBS Bank, Devaraja Mohalla, Shivarampet, Mysuru, Karnataka 570001",
+    "emergencyContact": "095388 27185",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Avinya+Dental+Clinic/@12.3102017,76.6486121,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71c4827eda39:0x5e95e335ba73ff24!8m2!3d12.3102017!4d76.6486121!16s%2Fg%2F11vl0pnr2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avinya+Dental+Clinic/@12.3102017,76.6486121,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71c4827eda39:0x5e95e335ba73ff24!8m2!3d12.3102017!4d76.6486121!16s%2Fg%2F11vl0pnr2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3102017,
+      "lng": 76.6486121,
+      "label": "Avinya Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayur-esthederm-mysuru",
+    "name": "Ayur Esthederm",
+    "type": "Permanent Make-up Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ayur Esthederm has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Cosmetic Surgery In Mysore. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, 1st Main Rd, Bogadi 2nd Stage North, Mysuru, Karnataka 570006",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570006",
+    "locality": "Bogadi 2nd Stage North",
+    "landmark": "Bogadi 2nd Stage North",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ayur+Esthederm/@12.3078308,76.6089602,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4806e64eaf:0xaf8cd4528ae88073!8m2!3d12.3078308!4d76.6089602!16s%2Fg%2F11t86ncg6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayur+Esthederm/@12.3078308,76.6089602,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4806e64eaf:0xaf8cd4528ae88073!8m2!3d12.3078308!4d76.6089602!16s%2Fg%2F11t86ncg6t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3078308,
+      "lng": 76.6089602,
+      "label": "Ayur Esthederm",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayur-matam-ayurveda-health-village-mysuru",
+    "name": "AYUR MATAM AYURVEDA HEALTH VILLAGE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose AYUR MATAM AYURVEDA HEALTH VILLAGE for its strength in Spine Surgery In Mysore. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 77800",
+    "alternatePhone": "",
+    "website": "http://ayurmatam.com/",
+    "address": "295/3, Near Govt School, Shooting Mahadeva pura Main Road Kalisiddanahundi, Rammanahalli, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Rammanahalli",
+    "landmark": "Near Govt School, Shooting Mahadeva pura Main Road Kalisiddanahundi, Rammanahalli, Mysuru, Karnataka 570019",
+    "emergencyContact": "082124 77800",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AYUR+MATAM+AYURVEDA+HEALTH+VILLAGE/@12.3533025,76.7173779,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a1c6896b8f3:0x61a63431024b5d04!8m2!3d12.3533025!4d76.7173779!16s%2Fg%2F11s1wbx2p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AYUR+MATAM+AYURVEDA+HEALTH+VILLAGE/@12.3533025,76.7173779,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a1c6896b8f3:0x61a63431024b5d04!8m2!3d12.3533025!4d76.7173779!16s%2Fg%2F11s1wbx2p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3533025,
+      "lng": 76.7173779,
+      "label": "AYUR MATAM AYURVEDA HEALTH VILLAGE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baandhavya-mother-and-child-care-clinic-jp-nagar",
+    "name": "Baandhavya Mother and Child Care Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baandhavya Mother and Child Care Clinic has built a strong reputation in JP Nagar for multidisciplinary treatment pathways covering Gynecologist Surgery In Mysore and Women and Child Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "E Block, Near Gobli Mara Circle, JSS College Road #285/C, 1st Stage, 10th Main Rd, opposite Axis Bank, JP Nagar, Karnataka 570031",
+    "city": "JP Nagar",
+    "state": "Karnataka",
+    "pincode": "570031",
+    "locality": "opposite Axis Bank",
+    "landmark": "Near Gobli Mara Circle, JSS College Road #285/C, 1st Stage, 10th Main Rd, opposite Axis Bank, JP Nagar, Karnataka 570031",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Baandhavya+Mother+and+Child+Care+Clinic/@12.2630781,76.6425277,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6fd50dea5bff:0x3b7a0d7cc7c2fd89!8m2!3d12.2630781!4d76.6425277!16s%2Fg%2F11sfdlb_91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baandhavya+Mother+and+Child+Care+Clinic/@12.2630781,76.6425277,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6fd50dea5bff:0x3b7a0d7cc7c2fd89!8m2!3d12.2630781!4d76.6425277!16s%2Fg%2F11sfdlb_91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2630781,
+      "lng": 76.6425277,
+      "label": "Baandhavya Mother and Child Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "balaji-elite-dental-mysuru",
+    "name": "Balaji Elite Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Balaji Elite Dental brings together specialists for Oral Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096112 45805",
+    "alternatePhone": "",
+    "website": "https://balajielitedental.com/",
+    "address": "Sapthagiri Shopping Complex, 262, 2nd Main Rd, Gokulam 2nd Stage, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "2nd Main Rd",
+    "emergencyContact": "096112 45805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Balaji+Elite+Dental/@12.3296938,76.6300122,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be4870b4bc7:0x332c6e6eedb4db8c!8m2!3d12.3296938!4d76.6300122!16s%2Fg%2F11xdvt9v83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Balaji+Elite+Dental/@12.3296938,76.6300122,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be4870b4bc7:0x332c6e6eedb4db8c!8m2!3d12.3296938!4d76.6300122!16s%2Fg%2F11xdvt9v83?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3296938,
+      "lng": 76.6300122,
+      "label": "Balaji Elite Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-radiation-oncology-centre-in-mysore-cancer-and-radiotherapy-treatment-clearmedi-radiant-hospital-mysuru",
+    "name": "Best Radiation Oncology Centre in Mysore | Cancer & Radiotherapy Treatment | ClearMedi Radiant Hospital",
+    "type": "Radiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Best Radiation Oncology Centre in Mysore | Cancer & Radiotherapy Treatment | ClearMedi Radiant Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Mysore and Radiotherapist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://clearmedi.in/",
+    "address": "Radiant Hospital, Vijay Nagar 3rd Stage ClearMedi, Vijayanagar, Mysuru, Karnataka 570030",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570030",
+    "locality": "Vijayanagar",
+    "landmark": "Vijayanagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Radiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Radiation+Oncology+Centre+in+Mysore+%7C+Cancer+%26+Radiotherapy+Treatment+%7C+ClearMedi+Radiant+Hospital/@12.321563,76.609242,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9208e5d53d:0x98a228cfb6ef2f3d!8m2!3d12.321563!4d76.609242!16s%2Fg%2F11w1c8mmf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Radiation+Oncology+Centre+in+Mysore+%7C+Cancer+%26+Radiotherapy+Treatment+%7C+ClearMedi+Radiant+Hospital/@12.321563,76.609242,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9208e5d53d:0x98a228cfb6ef2f3d!8m2!3d12.321563!4d76.609242!16s%2Fg%2F11w1c8mmf3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.321563,
+      "lng": 76.609242,
+      "label": "Best Radiation Oncology Centre in Mysore | Cancer & Radiotherapy Treatment | ClearMedi Radiant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhanavi-hospital-mysuru",
+    "name": "Bhanavi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Bhanavi Hospital delivers integrated care across Kidney Transplant Surgery In Mysore. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082166 44500",
+    "alternatePhone": "",
+    "website": "http://www.bhanavihospital.com/",
+    "address": "P- 2, Bhanavi Hospital Complex,GCST, Anikethana Rd, E&F Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "GCST",
+    "emergencyContact": "082166 44500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhanavi+Hospital/@12.2928559,76.6271866,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab2ff5f3b41:0x1355d7ca94663c9d!8m2!3d12.2928559!4d76.6271866!16s%2Fg%2F1hdz4cycm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhanavi+Hospital/@12.2928559,76.6271866,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab2ff5f3b41:0x1355d7ca94663c9d!8m2!3d12.2928559!4d76.6271866!16s%2Fg%2F1hdz4cycm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2928559,
+      "lng": 76.6271866,
+      "label": "Bhanavi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharath-bone-setters-mysuru",
+    "name": "Bharath bone setters",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bharath bone setters is a prominent medical clinic in Mysuru, known for structured tertiary care across Orthopedic Surgery In Mysore and Orthopaedics. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098806 91187",
+    "alternatePhone": "",
+    "website": "http://www.bharathbonesetter.com/",
+    "address": "476, MG Road, Ramachandra Agrahara, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Ramachandra Agrahara",
+    "landmark": "Ramachandra Agrahara",
+    "emergencyContact": "098806 91187",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bharath+bone+setters/@12.2976127,76.6525186,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71318c1cc117:0x17d7103ff833f571!8m2!3d12.2976127!4d76.6525186!16s%2Fg%2F11lm17t4gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bharath+bone+setters/@12.2976127,76.6525186,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71318c1cc117:0x17d7103ff833f571!8m2!3d12.2976127!4d76.6525186!16s%2Fg%2F11lm17t4gm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2976127,
+      "lng": 76.6525186,
+      "label": "Bharath bone setters",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharath-cancer-hospital-glass-house-lab-and-x-ray-billing-section-mysuru",
+    "name": "Bharath Cancer Hospital Glass House Lab and X-Ray Billing Section",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Bharath Cancer Hospital Glass House Lab and X-Ray Billing Section delivers integrated care across Cancer Surgery In Mysore. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NO 135, HEBBAL INDUSTRIAL AREA, Ring Rd, near BHARATH CANCER HOSPITAL, Hebbal, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal",
+    "landmark": "near BHARATH CANCER HOSPITAL, Hebbal, Mysuru, Karnataka 570016",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Bharath+Cancer+Hospital+Glass+House+Lab+and+X-Ray+Billing+Section/@12.3529979,76.6083124,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8671fa1907:0x2fb7971c49460960!8m2!3d12.3529979!4d76.6083124!16s%2Fg%2F11l5h358pd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bharath+Cancer+Hospital+Glass+House+Lab+and+X-Ray+Billing+Section/@12.3529979,76.6083124,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8671fa1907:0x2fb7971c49460960!8m2!3d12.3529979!4d76.6083124!16s%2Fg%2F11l5h358pd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3529979,
+      "lng": 76.6083124,
+      "label": "Bharath Cancer Hospital Glass House Lab and X-Ray Billing Section",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharath-cancer-hospital-water-fall-mysuru",
+    "name": "Bharath Cancer Hospital Water fall",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Bharath Cancer Hospital Water fall offers coordinated hospital care with major focus on Oncologist Surgery In Mysore and Cancer Treatment Center. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9J35+54H, Lakshmikanth Nagar, Hebbal 1st Stage, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal 1st Stage",
+    "landmark": "Hebbal 1st Stage",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Bharath+Cancer+Hospital+Water+fall/@12.3530409,76.6080003,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bb15d4df2cb:0x6df060a5af7c0511!8m2!3d12.3530409!4d76.6080003!16s%2Fg%2F11j_2fkgks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bharath+Cancer+Hospital+Water+fall/@12.3530409,76.6080003,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bb15d4df2cb:0x6df060a5af7c0511!8m2!3d12.3530409!4d76.6080003!16s%2Fg%2F11j_2fkgks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3530409,
+      "lng": 76.6080003,
+      "label": "Bharath Cancer Hospital Water fall",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharath-hospital-and-institute-of-oncology-mysuru",
+    "name": "Bharath Hospital & Institute Of Oncology",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Bharath Hospital & Institute Of Oncology for its strength in Oncologist Surgery In Mysore and Cancer Treatment Center. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082123 00600",
+    "alternatePhone": "",
+    "website": "http://www.bharathcancerhospital.com/",
+    "address": "No. 438, Outer Ring Road, beside Hotel Kalyani, Lakshmikanth Nagar, Hebbal Industrial Area, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal Industrial Area",
+    "landmark": "beside Hotel Kalyani, Lakshmikanth Nagar, Hebbal Industrial Area, Mysuru, Karnataka 570016",
+    "emergencyContact": "082123 00600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bharath+Hospital+%26+Institute+Of+Oncology/@12.3531482,76.6079925,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a4647d445e1:0x2d52f5d6329626b7!8m2!3d12.3531482!4d76.6079925!16s%2Fg%2F1tfj1mhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bharath+Hospital+%26+Institute+Of+Oncology/@12.3531482,76.6079925,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a4647d445e1:0x2d52f5d6329626b7!8m2!3d12.3531482!4d76.6079925!16s%2Fg%2F1tfj1mhm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3531482,
+      "lng": 76.6079925,
+      "label": "Bharath Hospital & Institute Of Oncology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bodhisattva-health-care-center-rammanahalli",
+    "name": "Bodhisattva health care center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bodhisattva health care center is a prominent medical clinic in Rammanahalli, known for structured tertiary care across Orthopedic Surgery In Mysore. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082123 42550",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Devegowda Circle, 2 Virat complex, 1st Cross Road, Bannur Rd, Alanahalli, Rammanahalli, Karnataka 570029",
+    "city": "Rammanahalli",
+    "state": "Karnataka",
+    "pincode": "570029",
+    "locality": "Alanahalli",
+    "landmark": "1st Cross Road",
+    "emergencyContact": "082123 42550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Bodhisattva+health+care+center/@12.3053824,76.7043084,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf713fcdd4c1ff:0x13b37902087f826f!8m2!3d12.3053824!4d76.7043084!16s%2Fg%2F11tn2ws4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bodhisattva+health+care+center/@12.3053824,76.7043084,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf713fcdd4c1ff:0x13b37902087f826f!8m2!3d12.3053824!4d76.7043084!16s%2Fg%2F11tn2ws4tf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3053824,
+      "lng": 76.7043084,
+      "label": "Bodhisattva health care center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brindavan-hospital-mysuru",
+    "name": "Brindavan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brindavan Hospital is a prominent hospital in Mysuru, known for structured tertiary care across Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082140 00782",
+    "alternatePhone": "",
+    "website": "https://www.brindavanhospital.in/",
+    "address": "8JCF+W32, 64,64-1 ,3dr cross, Kalidasa Rd, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "64-1",
+    "emergencyContact": "082140 00782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Brindavan+Hospital/@12.3231188,76.6268991,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a902bb3e2bb:0x98da9c27bf9bbddd!8m2!3d12.3231188!4d76.6268991!16s%2Fg%2F11b77k54rl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brindavan+Hospital/@12.3231188,76.6268991,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a902bb3e2bb:0x98da9c27bf9bbddd!8m2!3d12.3231188!4d76.6268991!16s%2Fg%2F11b77k54rl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3231188,
+      "lng": 76.6268991,
+      "label": "Brindavan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-treatment-center-in-mysore-chemotherapy-and-oncology-care-clearmedi-center-of-oncology-mysuru",
+    "name": "Cancer Treatment Center in Mysore | Chemotherapy & Oncology Care | ClearMedi Center of Oncology",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Cancer Treatment Center in Mysore | Chemotherapy & Oncology Care | ClearMedi Center of Oncology for its strength in Oncologist Surgery In Mysore and Cancer Treatment Center. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092115 15282",
+    "alternatePhone": "",
+    "website": "https://clearmedi.in/",
+    "address": "Block No 3, Located in ClearMedi Radiant Hospital, Vijyanagar, Garudachar Layout, Mysuru, Karnataka 570030",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570030",
+    "locality": "Garudachar Layout",
+    "landmark": "Vijyanagar",
+    "emergencyContact": "092115 15282",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Treatment+Center+in+Mysore+%7C+Chemotherapy+%26+Oncology+Care+%7C+ClearMedi+Center+of+Oncology/@12.3215219,76.6091942,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9f0eb344f3:0xaccba2f92e4979fe!8m2!3d12.3215219!4d76.6091942!16s%2Fg%2F11y431mpgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Treatment+Center+in+Mysore+%7C+Chemotherapy+%26+Oncology+Care+%7C+ClearMedi+Center+of+Oncology/@12.3215219,76.6091942,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9f0eb344f3:0xaccba2f92e4979fe!8m2!3d12.3215219!4d76.6091942!16s%2Fg%2F11y431mpgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3215219,
+      "lng": 76.6091942,
+      "label": "Cancer Treatment Center in Mysore | Chemotherapy & Oncology Care | ClearMedi Center of Oncology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandini-neurosurgical-clinic-mysuru",
+    "name": "Chandini Neurosurgical Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Chandini Neurosurgical Clinic brings together specialists for Neurosurgeon In Mysore and Neurosciences. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082124 23886",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No:#9, IMA Building, Sayyaji Rao Rd, Medar Block, Yadavagiri, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Yadavagiri",
+    "landmark": "Sayyaji Rao Rd",
+    "emergencyContact": "082124 23886",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Mysore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Chandini+Neurosurgical+Clinic/@12.3166832,76.6499913,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072534041ff:0x5c73f11b5a456ef6!8m2!3d12.3166832!4d76.6499913!16s%2Fg%2F12649jd9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandini+Neurosurgical+Clinic/@12.3166832,76.6499913,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072534041ff:0x5c73f11b5a456ef6!8m2!3d12.3166832!4d76.6499913!16s%2Fg%2F12649jd9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3166832,
+      "lng": 76.6499913,
+      "label": "Chandini Neurosurgical Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandrakala-hospital-mysuru",
+    "name": "Chandrakala Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Mysuru, Chandrakala Hospital delivers integrated care across Gynecologist Surgery In Mysore. Hospital capacity markers such as Google rating 2.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "135, Kalidasa Rd, Jayalakshmipuram, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Jayalakshmipuram",
+    "landmark": "Jayalakshmipuram",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Chandrakala+Hospital/@12.3257279,76.6195275,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8d2040a24f:0x91f8282f61db1d9a!8m2!3d12.3257279!4d76.6195275!16s%2Fg%2F1tdxj9fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandrakala+Hospital/@12.3257279,76.6195275,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8d2040a24f:0x91f8282f61db1d9a!8m2!3d12.3257279!4d76.6195275!16s%2Fg%2F1tdxj9fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3257279,
+      "lng": 76.6195275,
+      "label": "Chandrakala Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chitra-s-hospital-mysuru",
+    "name": "Chitra's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Chitra's Hospital brings together specialists for Spine Surgery In Mysore. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082124 45954",
+    "alternatePhone": "",
+    "website": "http://chitrashospital.com/",
+    "address": "No:#25/1, Irwin Rd, opposite Jamia Masjid, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "opposite Jamia Masjid, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "emergencyContact": "082124 45954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Chitra's+Hospital/@12.314428,76.655237,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706d258f7fa1:0xb936c5fafc3b12c5!8m2!3d12.314428!4d76.655237!16s%2Fg%2F1tfd0vb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chitra's+Hospital/@12.314428,76.655237,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706d258f7fa1:0xb936c5fafc3b12c5!8m2!3d12.314428!4d76.655237!16s%2Fg%2F1tfd0vb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.314428,
+      "lng": 76.655237,
+      "label": "Chitra's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-bones-and-joints-centre-mysuru",
+    "name": "City Bones & Joints Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose City Bones & Joints Centre for its strength in Orthopedic Surgery In Mysore and Orthopaedics. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082125 18899",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 40, Vinoba Rd, Paduvaralli, Vinayakanagara, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Vinayakanagara",
+    "landmark": "Paduvaralli",
+    "emergencyContact": "082125 18899",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/City+Bones+%26+Joints+Centre/@12.316555,76.629526,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a97605f2425:0xd27753489820228!8m2!3d12.316555!4d76.629526!16s%2Fg%2F1tfkd0g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Bones+%26+Joints+Centre/@12.316555,76.629526,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a97605f2425:0xd27753489820228!8m2!3d12.316555!4d76.629526!16s%2Fg%2F1tfkd0g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.316555,
+      "lng": 76.629526,
+      "label": "City Bones & Joints Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-heart-care-centre-mysuru",
+    "name": "City Heart Care Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose City Heart Care Centre for its strength in Heart Surgery In Mysore and Cardiac Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 14039",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 11, Andal Mandiram Complex, 4th Main Road, V.V Mohalla, Vontikoppal, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vontikoppal",
+    "landmark": "4th Main Road",
+    "emergencyContact": "082124 14039",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/City+Heart+Care+Centre/@12.323908,76.631486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a853486421b:0x2f5bde4fd929f8f3!8m2!3d12.323908!4d76.631486!16s%2Fg%2F1pty39k5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Heart+Care+Centre/@12.323908,76.631486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a853486421b:0x2f5bde4fd929f8f3!8m2!3d12.323908!4d76.631486!16s%2Fg%2F1pty39k5c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.323908,
+      "lng": 76.631486,
+      "label": "City Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-brunga-physiotherapy-mysuru",
+    "name": "Clinic Brunga Physiotherapy",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Clinic Brunga Physiotherapy has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Spine Surgery In Mysore and Physiotherapy Center. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099004 51409",
+    "alternatePhone": "",
+    "website": "",
+    "address": "18, 12th Cross Rd, Mahayana Layout, Gokulam 2nd Stage, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "Mahayana Layout",
+    "emergencyContact": "099004 51409",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Clinic+Brunga+Physiotherapy/@12.3269935,76.6258603,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8e64e8c1fd:0x4b39bfb999aad0da!8m2!3d12.3269935!4d76.6258603!16s%2Fg%2F11b7c4wwm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic+Brunga+Physiotherapy/@12.3269935,76.6258603,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8e64e8c1fd:0x4b39bfb999aad0da!8m2!3d12.3269935!4d76.6258603!16s%2Fg%2F11b7c4wwm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3269935,
+      "lng": 76.6258603,
+      "label": "Clinic Brunga Physiotherapy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-dental-mysuru",
+    "name": "Clinic Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Clinic Dental has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098865 55462",
+    "alternatePhone": "",
+    "website": "",
+    "address": "16th Main Rd, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "Mysuru",
+    "emergencyContact": "098865 55462",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Clinic+Dental/@12.3007992,76.6271732,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b41cce9f5ef:0xa287aecac47d3a78!8m2!3d12.3007992!4d76.6271732!16s%2Fg%2F11jvdt0lw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic+Dental/@12.3007992,76.6271732,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b41cce9f5ef:0xa287aecac47d3a78!8m2!3d12.3007992!4d76.6271732!16s%2Fg%2F11jvdt0lw3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3007992,
+      "lng": 76.6271732,
+      "label": "Clinic Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "complete-dentistry-mysuru",
+    "name": "Complete Dentistry",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Complete Dentistry brings together specialists for Oral Surgery In Mysore. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082141 94867",
+    "alternatePhone": "",
+    "website": "",
+    "address": "# 175 , 6th cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "6th Main Rd",
+    "emergencyContact": "082141 94867",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Complete+Dentistry/@12.3236735,76.6287604,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a901dfca15f:0xef701136eb2d112f!8m2!3d12.3236735!4d76.6287604!16s%2Fg%2F1q67w9bhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Complete+Dentistry/@12.3236735,76.6287604,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a901dfca15f:0xef701136eb2d112f!8m2!3d12.3236735!4d76.6287604!16s%2Fg%2F1q67w9bhc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3236735,
+      "lng": 76.6287604,
+      "label": "Complete Dentistry",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-dental-mysuru",
+    "name": "Cosmo Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Cosmo Dental offers coordinated hospital care with major focus on Oral Surgery In Mysore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091484 09363",
+    "alternatePhone": "",
+    "website": "https://cosmodentalmysuru.com/",
+    "address": "1143, Contour Rd, opp. to Glen's bakehouse, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "opp. to Glen's bakehouse",
+    "emergencyContact": "091484 09363",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmo+Dental/@12.3319815,76.6241462,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4e3eb3f9a3:0x6bb7a3be8e4732a8!8m2!3d12.3319815!4d76.6241462!16s%2Fg%2F11qrp4z7lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmo+Dental/@12.3319815,76.6241462,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4e3eb3f9a3:0x6bb7a3be8e4732a8!8m2!3d12.3319815!4d76.6241462!16s%2Fg%2F11qrp4z7lx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3319815,
+      "lng": 76.6241462,
+      "label": "Cosmo Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-surg-aesthetic-centre-mysuru",
+    "name": "Cosmo Surg Aesthetic Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Cosmo Surg Aesthetic Centre offers coordinated hospital care with major focus on Plastic Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Rashinkar Plaza, 104, D Devaraj Urs Rd, Subbarayanakere, Chamrajpura, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Chamrajpura",
+    "landmark": "104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmo+Surg+Aesthetic+Centre/@12.3093196,76.6464108,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf718dd204777f:0xe94f53222d52af92!8m2!3d12.3093196!4d76.6464108!16s%2Fg%2F11zhywmkwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmo+Surg+Aesthetic+Centre/@12.3093196,76.6464108,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf718dd204777f:0xe94f53222d52af92!8m2!3d12.3093196!4d76.6464108!16s%2Fg%2F11zhywmkwp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3093196,
+      "lng": 76.6464108,
+      "label": "Cosmo Surg Aesthetic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "crystallize-and-gloss-dental-cgdent-mysuru",
+    "name": "Crystallize and Gloss Dental(cgdent)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Crystallize and Gloss Dental(cgdent) has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079755 69562",
+    "alternatePhone": "",
+    "website": "http://cgdent.in/",
+    "address": "1557, High Tension Double Rd, beside Canara bank and Post office, Manchegowdana koppalu, Vijay Nagar 2nd Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "beside Canara bank and Post office, Manchegowdana koppalu, Vijay Nagar 2nd Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "emergencyContact": "079755 69562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Crystallize+and+Gloss+Dental(cgdent)/@12.3372486,76.6121185,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bb254e2a20f:0x708426255373b123!8m2!3d12.3372486!4d76.6121185!16s%2Fg%2F11rrqf41h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Crystallize+and+Gloss+Dental(cgdent)/@12.3372486,76.6121185,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bb254e2a20f:0x708426255373b123!8m2!3d12.3372486!4d76.6121185!16s%2Fg%2F11rrqf41h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3372486,
+      "lng": 76.6121185,
+      "label": "Crystallize and Gloss Dental(cgdent)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "csi-holdsworth-memorial-mission-hospital-mysuru",
+    "name": "CSI Holdsworth Memorial Mission Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose CSI Holdsworth Memorial Mission Hospital for its strength in Spine Surgery In Mysore. Its infrastructure includes Google rating 3.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082140 07000",
+    "alternatePhone": "",
+    "website": "https://csihmh.com/",
+    "address": "PB No 38, Sawday Rd, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Mandi Mohalla",
+    "emergencyContact": "082140 07000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CSI+Holdsworth+Memorial+Mission+Hospital/@12.3201582,76.6506101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a40413e3d6d:0x5f57691da6de3207!8m2!3d12.3201582!4d76.6506101!16s%2Fg%2F1tfc519j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CSI+Holdsworth+Memorial+Mission+Hospital/@12.3201582,76.6506101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a40413e3d6d:0x5f57691da6de3207!8m2!3d12.3201582!4d76.6506101!16s%2Fg%2F1tfc519j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3201582,
+      "lng": 76.6506101,
+      "label": "CSI Holdsworth Memorial Mission Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cutie-pie-clinic-mysuru",
+    "name": "Cutie Pie Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Mysuru, Cutie Pie Clinic delivers integrated care across Cosmetic Surgery In Mysore. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097404 67263",
+    "alternatePhone": "",
+    "website": "",
+    "address": "664/a, Kamakshi Hospital Rd, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "Saraswathipuram",
+    "emergencyContact": "097404 67263",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cutie+Pie+Clinic/@12.2999568,76.626446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b50f720242d:0xb41570eb93c5059!8m2!3d12.2999568!4d76.626446!16s%2Fg%2F11pk_50jyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cutie+Pie+Clinic/@12.2999568,76.626446,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b50f720242d:0xb41570eb93c5059!8m2!3d12.2999568!4d76.626446!16s%2Fg%2F11pk_50jyx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2999568,
+      "lng": 76.626446,
+      "label": "Cutie Pie Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dent-and-derm-mysuru",
+    "name": "Dent&Derm",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Dent&Derm brings together specialists for Cosmetic Surgery In Mysore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082172 66279",
+    "alternatePhone": "",
+    "website": "https://www.dentderm.in/",
+    "address": "437, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempunagara North",
+    "emergencyContact": "082172 66279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dent%26Derm/@12.2963529,76.6255786,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab11a133dc3:0xd466772828452120!8m2!3d12.2963529!4d76.6255786!16s%2Fg%2F11v5f9fxv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dent%26Derm/@12.2963529,76.6255786,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab11a133dc3:0xd466772828452120!8m2!3d12.2963529!4d76.6255786!16s%2Fg%2F11v5f9fxv_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2963529,
+      "lng": 76.6255786,
+      "label": "Dent&Derm",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-360-mysuru",
+    "name": "DENTAL 360",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DENTAL 360 has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088845 36360",
+    "alternatePhone": "",
+    "website": "",
+    "address": "129, First Floor, 80 Feet Rd, Vani Vilas Layout, Vijay Nagar 2nd Stage, Hebbal 2nd Stage, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Hebbal 2nd Stage",
+    "landmark": "80 Feet Rd",
+    "emergencyContact": "088845 36360",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DENTAL+360/@12.3409337,76.6148831,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b88d271eeeb:0x5e8f1d78b2e23440!8m2!3d12.3409337!4d76.6148831!16s%2Fg%2F11vf586sfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTAL+360/@12.3409337,76.6148831,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b88d271eeeb:0x5e8f1d78b2e23440!8m2!3d12.3409337!4d76.6148831!16s%2Fg%2F11vf586sfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3409337,
+      "lng": 76.6148831,
+      "label": "DENTAL 360",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-mysuru",
+    "name": "Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Care has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098452 35853",
+    "alternatePhone": "",
+    "website": "http://mysoredentalcare.com/",
+    "address": "# 581, off, Kalidasa Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "Kalidasa Rd",
+    "emergencyContact": "098452 35853",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care/@12.3253292,76.6151518,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70089c650dc9:0x8b15714d51075297!8m2!3d12.3253292!4d76.6151518!16s%2Fg%2F1tdqm2qj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care/@12.3253292,76.6151518,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70089c650dc9:0x8b15714d51075297!8m2!3d12.3253292!4d76.6151518!16s%2Fg%2F1tdqm2qj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3253292,
+      "lng": 76.6151518,
+      "label": "Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-the-oral-health-care-clinic-mysuru",
+    "name": "DENTAL CARE, THE ORAL HEALTH CARE CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, DENTAL CARE, THE ORAL HEALTH CARE CLINIC delivers integrated care across Oral Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095383 61906",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MCC Shop no #3 , HUDCO Main Road, 1, HUDCO Main Road, behind JSS DENTAL COLLEGE, Jayalakshmipuram, Bannimantap A Layout, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "1",
+    "emergencyContact": "095383 61906",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/DENTAL+CARE,+THE+ORAL+HEALTH+CARE+CLINIC/@12.3415668,76.6514246,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7085de4525a1:0xb256a0a3f103d5d5!8m2!3d12.3415668!4d76.6514246!16s%2Fg%2F11c6cfr0ty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTAL+CARE,+THE+ORAL+HEALTH+CARE+CLINIC/@12.3415668,76.6514246,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7085de4525a1:0xb256a0a3f103d5d5!8m2!3d12.3415668!4d76.6514246!16s%2Fg%2F11c6cfr0ty?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3415668,
+      "lng": 76.6514246,
+      "label": "DENTAL CARE, THE ORAL HEALTH CARE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-house-mysuru",
+    "name": "Dental House",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, Dental House delivers integrated care across Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072080 01030",
+    "alternatePhone": "",
+    "website": "https://dentalhouse.care/",
+    "address": "Shop 187/A, Anikethana Rd, opp. Ashokapuram Police Station, I Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "opp. Ashokapuram Police Station",
+    "emergencyContact": "072080 01030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+House/@12.289114,76.6307613,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf659f1c3d7549:0xc1e4b0528b94fac2!8m2!3d12.289114!4d76.6307613!16s%2Fg%2F11h4x2rcfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+House/@12.289114,76.6307613,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf659f1c3d7549:0xc1e4b0528b94fac2!8m2!3d12.289114!4d76.6307613!16s%2Fg%2F11h4x2rcfd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.289114,
+      "lng": 76.6307613,
+      "label": "Dental House",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-planet-mysuru",
+    "name": "Dental Planet",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Dental Planet for its strength in Oral Surgery In Mysore. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063626 27736",
+    "alternatePhone": "",
+    "website": "http://www.mydentalplanet.com/",
+    "address": "I floor, 374, Kalidasa Rd, above Meritus Diagnostics, opposite to MUDA complex, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "opposite to MUDA complex, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "emergencyContact": "063626 27736",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Planet/@12.3260166,76.6173568,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a590aa7cccd:0xd14b6f9ec6ac2aab!8m2!3d12.3260166!4d76.6173568!16s%2Fg%2F1tf5np45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Planet/@12.3260166,76.6173568,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a590aa7cccd:0xd14b6f9ec6ac2aab!8m2!3d12.3260166!4d76.6173568!16s%2Fg%2F1tf5np45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3260166,
+      "lng": 76.6173568,
+      "label": "Dental Planet",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-point-mysuru",
+    "name": "Dental Point",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Point has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097317 57588",
+    "alternatePhone": "",
+    "website": "http://dentalpoint.co.in/",
+    "address": "1311 5th cross Paduvana Road TK Layout, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Mysuru",
+    "emergencyContact": "097317 57588",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Point/@12.293305,76.6215058,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab597d8f8a9:0x31b73eac0fbb08d5!8m2!3d12.293305!4d76.6215058!16s%2Fg%2F1td6wknb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Point/@12.293305,76.6215058,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab597d8f8a9:0x31b73eac0fbb08d5!8m2!3d12.293305!4d76.6215058!16s%2Fg%2F1td6wknb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.293305,
+      "lng": 76.6215058,
+      "label": "Dental Point",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-practice-mysuru",
+    "name": "Dental Practice",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Practice is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094480 25252",
+    "alternatePhone": "",
+    "website": "https://click4appointment.com/clinic-details/dentalclinic-2638",
+    "address": "186, 9th Cross Rd, near Doctor's Corner, 3rd Stage, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "near Doctor's Corner, 3rd Stage, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "emergencyContact": "094480 25252",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Practice/@12.3344207,76.627992,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8823e1ad01:0x5ec46e0c0b5f1141!8m2!3d12.3344207!4d76.627992!16s%2Fg%2F11ggqttffh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Practice/@12.3344207,76.627992,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8823e1ad01:0x5ec46e0c0b5f1141!8m2!3d12.3344207!4d76.627992!16s%2Fg%2F11ggqttffh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3344207,
+      "lng": 76.627992,
+      "label": "Dental Practice",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-square-mysuru",
+    "name": "Dental Square",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Dental Square offers coordinated hospital care with major focus on Oral Surgery In Mysore. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093538 97653",
+    "alternatePhone": "",
+    "website": "",
+    "address": "13, Bannimantap Rd, above Dolphin, A extension, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "above Dolphin",
+    "emergencyContact": "093538 97653",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Square/@12.3320168,76.6531228,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71de1694abf1:0x89a16a0246807aaa!8m2!3d12.3320168!4d76.6531228!16s%2Fg%2F11pzx6w9yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Square/@12.3320168,76.6531228,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71de1694abf1:0x89a16a0246807aaa!8m2!3d12.3320168!4d76.6531228!16s%2Fg%2F11pzx6w9yf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3320168,
+      "lng": 76.6531228,
+      "label": "Dental Square",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-touch-mysuru",
+    "name": "Dental Touch",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Dental Touch for its strength in Oral Surgery In Mysore. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094496 57400",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6A, Gokulam Main Rd, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "3rd Block",
+    "emergencyContact": "094496 57400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Touch/@12.322157,76.6223905,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a926b6d096f:0xe0c44c66f63db140!8m2!3d12.322157!4d76.6223905!16s%2Fg%2F1tscmfr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Touch/@12.322157,76.6223905,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a926b6d096f:0xe0c44c66f63db140!8m2!3d12.322157!4d76.6223905!16s%2Fg%2F1tscmfr_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.322157,
+      "lng": 76.6223905,
+      "label": "Dental Touch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentocare-dental-clinic-mysuru",
+    "name": "DENTOCARE DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DENTOCARE DENTAL CLINIC is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082125 00318",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayachamarajendra Rd, near corporation bank, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "near corporation bank, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "emergencyContact": "082125 00318",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/DENTOCARE+DENTAL+CLINIC/@12.3291055,76.6157954,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b87d92933c5:0xf072aa58b0cf121b!8m2!3d12.3291055!4d76.6157954!16s%2Fg%2F11fn9s6cr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTOCARE+DENTAL+CLINIC/@12.3291055,76.6157954,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b87d92933c5:0xf072aa58b0cf121b!8m2!3d12.3291055!4d76.6157954!16s%2Fg%2F11fn9s6cr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3291055,
+      "lng": 76.6157954,
+      "label": "DENTOCARE DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dps-dental-care-mysuru",
+    "name": "DPS DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, DPS DENTAL CARE brings together specialists for Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070192 52270",
+    "alternatePhone": "",
+    "website": "https://www.dpsdentalcare.com/",
+    "address": "First floor, Geetha Nanjegowda Arcade, Teresian college circle, 417-376, Dr Rajkumar Rd, above Poorvika Mobiles, Siddhartha Nagar, Yaraganahalli, Mysuru, Karnataka 570011",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570011",
+    "locality": "Yaraganahalli",
+    "landmark": "Teresian college circle",
+    "emergencyContact": "070192 52270",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DPS+DENTAL+CARE/@12.3056477,76.6930092,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71f5e76eaea9:0x87087b450e94675f!8m2!3d12.3056477!4d76.6930092!16s%2Fg%2F11khkq3jtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DPS+DENTAL+CARE/@12.3056477,76.6930092,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71f5e76eaea9:0x87087b450e94675f!8m2!3d12.3056477!4d76.6930092!16s%2Fg%2F11khkq3jtv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3056477,
+      "lng": 76.6930092,
+      "label": "DPS DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "farooqia-dental-college-mysuru",
+    "name": "Farooqia dental College",
+    "type": "University",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Farooqia dental College is a prominent university in Mysuru, known for structured tertiary care across Oral Surgery In Mysore and University. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JGW+5W9, Tilak Nagar, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Tilak Nagar",
+    "landmark": "Mysuru",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "University"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Farooqia+dental+College/@12.3254027,76.6473566,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7148beb54e93:0x55fa97cbcbb48e52!8m2!3d12.3254027!4d76.6473566!16s%2Fg%2F11s_v9ydh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Farooqia+dental+College/@12.3254027,76.6473566,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7148beb54e93:0x55fa97cbcbb48e52!8m2!3d12.3254027!4d76.6473566!16s%2Fg%2F11s_v9ydh8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3254027,
+      "lng": 76.6473566,
+      "label": "Farooqia dental College",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "floradent-dental-studio-mysuru",
+    "name": "Floradent Dental Studio",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Floradent Dental Studio has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore and Dentist. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099459 28960",
+    "alternatePhone": "",
+    "website": "https://floradentdentalstudio.com/",
+    "address": "Gayathri Bhavan Building, 1434/1-D4/1, Ground Floor, Sangeetha Vidwan Devendrappa Circle, Hotel, Dhanavantri Rd, opp. to HP Petrol Bunk, Diagonally, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Diagonally",
+    "landmark": "Ground Floor",
+    "emergencyContact": "099459 28960",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Floradent+Dental+Studio/@12.3125444,76.6476238,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700ca522d7f7:0x508afd8ab23e3ebc!8m2!3d12.3125444!4d76.6476238!16s%2Fg%2F11f54s6l2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Floradent+Dental+Studio/@12.3125444,76.6476238,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700ca522d7f7:0x508afd8ab23e3ebc!8m2!3d12.3125444!4d76.6476238!16s%2Fg%2F11f54s6l2m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3125444,
+      "lng": 76.6476238,
+      "label": "Floradent Dental Studio",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "four-chambers-heart-care-centre-mysuru",
+    "name": "Four Chambers Heart Care Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Four Chambers Heart Care Centre brings together specialists for Heart Surgery In Mysore and Cardiac Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088844 40703",
+    "alternatePhone": "",
+    "website": "http://www.4chambersheartcare.com/",
+    "address": "First floor, Venkatadri, 475, Udayaravi Rd, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "475",
+    "emergencyContact": "088844 40703",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Four+Chambers+Heart+Care+Centre/@12.2868661,76.6244148,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65e5e470f4eb:0x5bd67cf00eeb0f78!8m2!3d12.2868661!4d76.6244148!16s%2Fg%2F11qprz32p2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Four+Chambers+Heart+Care+Centre/@12.2868661,76.6244148,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65e5e470f4eb:0x5bd67cf00eeb0f78!8m2!3d12.2868661!4d76.6244148!16s%2Fg%2F11qprz32p2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2868661,
+      "lng": 76.6244148,
+      "label": "Four Chambers Heart Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gayathri-dental-speciality-care-mysuru",
+    "name": "Gayathri Dental speciality care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Gayathri Dental speciality care offers coordinated hospital care with major focus on Oral Surgery In Mysore and Speciality Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098861 28601",
+    "alternatePhone": "",
+    "website": "",
+    "address": "841/C, Contour Rd, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "Gokulam 3rd Stage",
+    "emergencyContact": "098861 28601",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Gayathri+Dental+speciality+care/@12.334552,76.6311179,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3239238259:0xce87ec4d7d256862!8m2!3d12.334552!4d76.6311179!16s%2Fg%2F11fj8fsbzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gayathri+Dental+speciality+care/@12.334552,76.6311179,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3239238259:0xce87ec4d7d256862!8m2!3d12.334552!4d76.6311179!16s%2Fg%2F11fj8fsbzz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.334552,
+      "lng": 76.6311179,
+      "label": "Gayathri Dental speciality care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gbj-hospital-mysuru",
+    "name": "GBJ Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose GBJ Hospital for its strength in Urologist Surgery In Mysore. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://gbjhospitals.com/",
+    "address": "BEML Layout 2nd Stage, Rajarajeshwari Nagar, Mysuru, Karnataka 570033",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570033",
+    "locality": "Rajarajeshwari Nagar",
+    "landmark": "Mysuru",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GBJ+Hospital/@12.2885309,76.6032146,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf650d58e0f425:0x1c05dd9d4f4ec62f!8m2!3d12.2885309!4d76.6032146!16s%2Fg%2F11ss3cznj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GBJ+Hospital/@12.2885309,76.6032146,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf650d58e0f425:0x1c05dd9d4f4ec62f!8m2!3d12.2885309!4d76.6032146!16s%2Fg%2F11ss3cznj9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2885309,
+      "lng": 76.6032146,
+      "label": "GBJ Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gopala-gowda-shanthaveri-memorial-hospital-mysuru",
+    "name": "Gopala Gowda Shanthaveri Memorial Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Gopala Gowda Shanthaveri Memorial Hospital offers coordinated hospital care with major focus on Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082140 01600",
+    "alternatePhone": "",
+    "website": "http://www.gopalagowdahospital.com/",
+    "address": "8M59+94M, T Narasipura Main Rd, Nazarbad, Mysuru, Karnataka 570010",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570010",
+    "locality": "Nazarbad",
+    "landmark": "Nazarbad",
+    "emergencyContact": "082140 01600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gopala+Gowda+Shanthaveri+Memorial+Hospital/@12.3084604,76.6678078,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf703c28343dab:0x1e76b8f945b83973!8m2!3d12.3084604!4d76.6678078!16s%2Fg%2F1tmphz3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gopala+Gowda+Shanthaveri+Memorial+Hospital/@12.3084604,76.6678078,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf703c28343dab:0x1e76b8f945b83973!8m2!3d12.3084604!4d76.6678078!16s%2Fg%2F1tmphz3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3084604,
+      "lng": 76.6678078,
+      "label": "Gopala Gowda Shanthaveri Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "guru-medicals-and-brain-and-spine-clinic-mysuru",
+    "name": "Guru Medicals and Brain & Spine Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Guru Medicals and Brain & Spine Clinic offers coordinated hospital care with major focus on Spine Surgery In Mysore, Medical Center, Neurosciences, and Spine Care. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 446/447, F-4, Chavadi St, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Fort Mohalla",
+    "landmark": "Chavadi St",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Medical Center",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Guru+Medicals+and+Brain+%26+Spine+Clinic/@12.2979459,76.6525242,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71f185eeff4b:0xfc4c0c5d65e00485!8m2!3d12.2979459!4d76.6525242!16s%2Fg%2F11qp4wwdbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Guru+Medicals+and+Brain+%26+Spine+Clinic/@12.2979459,76.6525242,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71f185eeff4b:0xfc4c0c5d65e00485!8m2!3d12.2979459!4d76.6525242!16s%2Fg%2F11qp4wwdbk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2979459,
+      "lng": 76.6525242,
+      "label": "Guru Medicals and Brain & Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gynoveda-mysore-jayalakshmipuram-ayurveda-clinic-for-fertility-pcos-periods-mysuru",
+    "name": "Gynoveda, Mysore, Jayalakshmipuram. Ayurveda Clinic for Fertility, PCOS, Periods.",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mysuru, Gynoveda, Mysore, Jayalakshmipuram. Ayurveda Clinic for Fertility, PCOS, Periods. delivers integrated care across IVF In Mysore and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072400 00700",
+    "alternatePhone": "+91 80423 02695",
+    "website": "https://www.gynoveda.com/",
+    "address": "G11A Ground floor, 22/B, Gokulam Main Rd, inside BM Habitat Mall, behind BM Hospital, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "Gokulam Main Rd",
+    "emergencyContact": "+91 80423 02695",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gynoveda",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/gynoveda",
+    "linkedin": "https://in.linkedin.com/company/gynoveda",
+    "youtube": "https://www.youtube.com/@Gynoveda",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gynoveda,+Mysore,+Jayalakshmipuram.+Ayurveda+Clinic+for+Fertility,+PCOS,+Periods./@12.321507,76.621336,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b5516a6e0cd:0x51df729ff4b068c1!8m2!3d12.321507!4d76.621336!16s%2Fg%2F11xgfrtx5x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gynoveda,+Mysore,+Jayalakshmipuram.+Ayurveda+Clinic+for+Fertility,+PCOS,+Periods./@12.321507,76.621336,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b5516a6e0cd:0x51df729ff4b068c1!8m2!3d12.321507!4d76.621336!16s%2Fg%2F11xgfrtx5x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.321507,
+      "lng": 76.621336,
+      "label": "Gynoveda, Mysore, Jayalakshmipuram. Ayurveda Clinic for Fertility, PCOS, Periods.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hair-o-craft-hair-transplant-clinic-mysore-mysuru",
+    "name": "Hair O Craft Hair Transplant Clinic Mysore",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hair O Craft Hair Transplant Clinic Mysore is a prominent hair transplantation clinic in Mysuru, known for structured tertiary care across Liver Transplant Surgery In Mysore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089432 28884",
+    "alternatePhone": "",
+    "website": "http://www.hairocraft.com/",
+    "address": "Door No. H/8C, Kantharaja Urs Road Bogadi, Chamaraja Mohalla, Sharadadevi Nagar, Mysuru, Karnataka 570022",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570022",
+    "locality": "Sharadadevi Nagar",
+    "landmark": "Chamaraja Mohalla",
+    "emergencyContact": "089432 28884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hair+O+Craft+Hair+Transplant+Clinic+Mysore/@12.2952383,76.6128197,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bef64c66aef:0x62a563b29ef1e92!8m2!3d12.2952383!4d76.6128197!16s%2Fg%2F11sjtk15np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hair+O+Craft+Hair+Transplant+Clinic+Mysore/@12.2952383,76.6128197,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bef64c66aef:0x62a563b29ef1e92!8m2!3d12.2952383!4d76.6128197!16s%2Fg%2F11sjtk15np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2952383,
+      "lng": 76.6128197,
+      "label": "Hair O Craft Hair Transplant Clinic Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hari-laser-clinics-laser-piles-laser-varicose-veins-treatment-in-mysore-mysuru",
+    "name": "Hari Laser Clinics - Laser Piles | Laser Varicose Veins Treatment in Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Hari Laser Clinics - Laser Piles | Laser Varicose Veins Treatment in Mysore for its strength in Laparoscopic Surgery In Mysore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099860 01112",
+    "alternatePhone": "",
+    "website": "https://harilaserclinics.com/",
+    "address": "120, F - 58 B,1st Main, Jhansi Rani Lakshmi Bai Rd, opposite St. Mary's School, Vidyaranyapura, Mysuru, Karnataka 570008",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570008",
+    "locality": "Vidyaranyapura",
+    "landmark": "opposite St. Mary's School, Vidyaranyapura, Mysuru, Karnataka 570008",
+    "emergencyContact": "099860 01112",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hari+Laser+Clinics+-+Laser+Piles+%7C+Laser+Varicose+Veins+Treatment+in+Mysore/@12.2862335,76.6518214,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ff7f18ff9cd:0xb3d5eda2c810564c!8m2!3d12.2862335!4d76.6518214!16s%2Fg%2F11szd1qh6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hari+Laser+Clinics+-+Laser+Piles+%7C+Laser+Varicose+Veins+Treatment+in+Mysore/@12.2862335,76.6518214,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ff7f18ff9cd:0xb3d5eda2c810564c!8m2!3d12.2862335!4d76.6518214!16s%2Fg%2F11szd1qh6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2862335,
+      "lng": 76.6518214,
+      "label": "Hari Laser Clinics - Laser Piles | Laser Varicose Veins Treatment in Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hegde-heart-and-diabetes-care-mysuru",
+    "name": "Hegde Heart & Diabetes Care",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hegde Heart & Diabetes Care has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Heart Surgery In Mysore, Cardiac Care, and Diabetology. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099648 82045",
+    "alternatePhone": "",
+    "website": "",
+    "address": "High Tension Double Rd, Manchegowdana koppalu, Vijay Nagar 2nd Stage, Mahadeshwara Badavane Layout, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Mahadeshwara Badavane Layout",
+    "landmark": "Vijay Nagar 2nd Stage",
+    "emergencyContact": "099648 82045",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Hegde+Heart+%26+Diabetes+Care/@12.3380661,76.6152429,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3749ec08d5:0x8016f4d019a8b4dc!8m2!3d12.3380661!4d76.6152429!16s%2Fg%2F11ht4zkvb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hegde+Heart+%26+Diabetes+Care/@12.3380661,76.6152429,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3749ec08d5:0x8016f4d019a8b4dc!8m2!3d12.3380661!4d76.6152429!16s%2Fg%2F11ht4zkvb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3380661,
+      "lng": 76.6152429,
+      "label": "Hegde Heart & Diabetes Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hitech-kidney-stone-hospital-mysuru",
+    "name": "Hitech Kidney Stone Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Hitech Kidney Stone Hospital brings together specialists for Urologist Surgery In Mysore and Kidney Care. With public-facing highlights like Google rating 2.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098457 04408",
+    "alternatePhone": "",
+    "website": "http://www.hitechkidneystonehospital.org/",
+    "address": "Branch: 1779, Kabir Road Cross, Near K.R Hospital, Opp. IMA Building, Kabir Rd, Devaraja Mohalla, Mandi Mohalla, CFTRI Campus, Yadavagiri, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Yadavagiri",
+    "landmark": "Near K.R Hospital, Opp. IMA Building, Kabir Rd, Devaraja Mohalla, Mandi Mohalla, CFTRI Campus, Yadavagiri, Mysuru, Karnataka 570001",
+    "emergencyContact": "098457 04408",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hitech+Kidney+Stone+Hospital/@12.3169544,76.6504861,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072502d03e1:0xba44d061d0578f86!8m2!3d12.3169544!4d76.6504861!16s%2Fg%2F1vgw_5qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hitech+Kidney+Stone+Hospital/@12.3169544,76.6504861,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072502d03e1:0xba44d061d0578f86!8m2!3d12.3169544!4d76.6504861!16s%2Fg%2F1vgw_5qn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3169544,
+      "lng": 76.6504861,
+      "label": "Hitech Kidney Stone Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "impulse-medical-centre-mysuru",
+    "name": "Impulse Medical Centre",
+    "type": "Walk-in Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Impulse Medical Centre is a prominent walk-in clinic in Mysuru, known for structured tertiary care across Neurosurgeon In Mysore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091102 61102",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 2, 13/2, Scarlet tower, Temple Rd, next to Vidyashrama college, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "Scarlet tower",
+    "emergencyContact": "091102 61102",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Impulse+Medical+Centre/@12.3184226,76.6253158,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b6b68fe100f:0xecf5fa821447140e!8m2!3d12.3184226!4d76.6253158!16s%2Fg%2F11v6bvr9tz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Impulse+Medical+Centre/@12.3184226,76.6253158,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b6b68fe100f:0xecf5fa821447140e!8m2!3d12.3184226!4d76.6253158!16s%2Fg%2F11v6bvr9tz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3184226,
+      "lng": 76.6253158,
+      "label": "Impulse Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-mysore-best-ivf-centre-mysuru",
+    "name": "Indira IVF Fertility Centre in Mysore - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Indira IVF Fertility Centre in Mysore - Best IVF Centre offers coordinated hospital care with major focus on IVF In Mysore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3o9sxZ6",
+    "address": "2nd Floor, Bangalore Nilgiri Rd, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Lashkar Mohalla",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Mysore+-+Best+IVF+Centre/@12.3148048,76.6589484,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71c9562ddd9d:0xb92593ac6c046147!8m2!3d12.3148048!4d76.6589484!16s%2Fg%2F11fqsz1gtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Mysore+-+Best+IVF+Centre/@12.3148048,76.6589484,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71c9562ddd9d:0xb92593ac6c046147!8m2!3d12.3148048!4d76.6589484!16s%2Fg%2F11fqsz1gtj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3148048,
+      "lng": 76.6589484,
+      "label": "Indira IVF Fertility Centre in Mysore - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indus-valley-ayurvedic-centre-ivac-mysore",
+    "name": "Indus Valley Ayurvedic Centre - IVAC",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted clinic in Mysore, Indus Valley Ayurvedic Centre - IVAC delivers integrated care across Spine Surgery In Mysore. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://ayurindus.com/",
+    "address": "",
+    "city": "Mysore",
+    "state": "West Bengal",
+    "pincode": "",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indus+Valley+Ayurvedic+Centre+-+IVAC/@12.2894002,76.6930825,17z/data=!3m1!4b1!4m9!3m8!1s0x3baf6e2bbe4dce2d:0x43291f3830d8bd07!5m2!4m1!1i2!8m2!3d12.2894002!4d76.6930825!16s%2Fg%2F11b6vbhv17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indus+Valley+Ayurvedic+Centre+-+IVAC/@12.2894002,76.6930825,17z/data=!3m1!4b1!4m9!3m8!1s0x3baf6e2bbe4dce2d:0x43291f3830d8bd07!5m2!4m1!1i2!8m2!3d12.2894002!4d76.6930825!16s%2Fg%2F11b6vbhv17?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2894002,
+      "lng": 76.6930825,
+      "label": "Indus Valley Ayurvedic Centre - IVAC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "institute-of-nephrourology-mysuru-branch-mysuru",
+    "name": "Institute of Nephrourology, Mysuru Branch",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Institute of Nephrourology, Mysuru Branch offers coordinated hospital care with major focus on Urologist Surgery In Mysore. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.triangleinfotech.com/nephro-urology",
+    "address": "8M72+H7F, Institute of Nephrourology 4th Floor, Old Jayadeva building KR Hospital Campus, Irwin Rd, Devaraja Mohalla, Yadavagiri, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Yadavagiri",
+    "landmark": "Old Jayadeva building KR Hospital Campus",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Institute+of+Nephrourology,+Mysuru+Branch/@12.3125082,76.6506139,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71452cd19529:0xcfc67d709a39d971!8m2!3d12.3125082!4d76.6506139!16s%2Fg%2F11rqj2f2z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Institute+of+Nephrourology,+Mysuru+Branch/@12.3125082,76.6506139,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71452cd19529:0xcfc67d709a39d971!8m2!3d12.3125082!4d76.6506139!16s%2Fg%2F11rqj2f2z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3125082,
+      "lng": 76.6506139,
+      "label": "Institute of Nephrourology, Mysuru Branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-ivf-and-fertility-centre-mysuru-mysuru",
+    "name": "Iswarya IVF & Fertility Centre Mysuru",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Iswarya IVF & Fertility Centre Mysuru offers coordinated hospital care with major focus on IVF In Mysore and Fertility Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "https://www.iswaryafertility.com/ivf-centers/karnataka/mysuru?utm_source=Google_Local_Listing&utm_medium=Local_SEO&utm_campaign=Mysuru",
+    "address": "Old No 2911,New, 10, Temple Rd, Vontikoppal, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vontikoppal",
+    "landmark": "10",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Mysuru/@12.3256113,76.6323713,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b711469960f:0x627a2030d5403258!8m2!3d12.3256113!4d76.6323713!16s%2Fg%2F11vqgy96tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Mysuru/@12.3256113,76.6323713,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b711469960f:0x627a2030d5403258!8m2!3d12.3256113!4d76.6323713!16s%2Fg%2F11vqgy96tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3256113,
+      "lng": 76.6323713,
+      "label": "Iswarya IVF & Fertility Centre Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-k-dental-care-mysuru",
+    "name": "J K DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "J K DENTAL CARE is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090191 04703",
+    "alternatePhone": "",
+    "website": "",
+    "address": "463,F-20,1st floor, MG Road, JSS Hospital Rd, near Old, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Fort Mohalla",
+    "landmark": "near Old, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004",
+    "emergencyContact": "090191 04703",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/J+K+DENTAL+CARE/@12.2976921,76.6535291,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf718370a06429:0xebcb3f987b3ff327!8m2!3d12.2976921!4d76.6535291!16s%2Fg%2F11l6d9yy1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J+K+DENTAL+CARE/@12.2976921,76.6535291,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf718370a06429:0xebcb3f987b3ff327!8m2!3d12.2976921!4d76.6535291!16s%2Fg%2F11l6d9yy1m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2976921,
+      "lng": 76.6535291,
+      "label": "J K DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-s-dental-clinic-mysuru",
+    "name": "J.S. Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, J.S. Dental Clinic delivers integrated care across Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094481 06487",
+    "alternatePhone": "",
+    "website": "https://jsdentalclinicnext.netlify.app/#/",
+    "address": "7JXR+GC, 1103, Vani Villas Rd, Chamarajapura, Chamarajapuram Mohalla, Chamarajapuram, Mysuru, Karnataka 570005",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570005",
+    "locality": "Chamarajapuram",
+    "landmark": "Vani Villas Rd",
+    "emergencyContact": "094481 06487",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/J.S.+Dental+Clinic/@12.2988125,76.6410625,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700df090a2ab:0xc330f12002ecf661!8m2!3d12.2988125!4d76.6410625!16s%2Fg%2F1tqycypp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J.S.+Dental+Clinic/@12.2988125,76.6410625,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700df090a2ab:0xc330f12002ecf661!8m2!3d12.2988125!4d76.6410625!16s%2Fg%2F1tqycypp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2988125,
+      "lng": 76.6410625,
+      "label": "J.S. Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeeva-healthcare-women-s-wellness-and-kidney-care-centre-mysuru",
+    "name": "JEEVA HEALTHCARE - Women's wellness and kidney care centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JEEVA HEALTHCARE - Women's wellness and kidney care centre has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Laparoscopic Surgery In Mysore, Kidney Care, and Women and Child Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093530 63690",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B8, block 27, Dr Rajkumar Rd, JSS Layout, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "JSS Layout",
+    "landmark": "Dr Rajkumar Rd",
+    "emergencyContact": "093530 63690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Mysore",
+      "Kidney Care",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/JEEVA+HEALTHCARE+-+Women's+wellness+and+kidney+care+centre/@12.3167278,76.6915475,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71e2d7d4c985:0x4e2c5ed5a5c47028!8m2!3d12.3167278!4d76.6915475!16s%2Fg%2F11yfs87kb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JEEVA+HEALTHCARE+-+Women's+wellness+and+kidney+care+centre/@12.3167278,76.6915475,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71e2d7d4c985:0x4e2c5ed5a5c47028!8m2!3d12.3167278!4d76.6915475!16s%2Fg%2F11yfs87kb7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3167278,
+      "lng": 76.6915475,
+      "label": "JEEVA HEALTHCARE - Women's wellness and kidney care centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jia-dental-mysuru",
+    "name": "Jia Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Jia Dental for its strength in Oral Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098446 17387",
+    "alternatePhone": "",
+    "website": "",
+    "address": "524, Anikethana Rd, Anikethana Main Road, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Anikethana Main Road",
+    "emergencyContact": "098446 17387",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jia+Dental/@12.2933528,76.6266595,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9eb501e3a9:0xb5e1c5dcd58dcbc2!8m2!3d12.2933528!4d76.6266595!16s%2Fg%2F11r27pdr91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jia+Dental/@12.2933528,76.6266595,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9eb501e3a9:0xb5e1c5dcd58dcbc2!8m2!3d12.2933528!4d76.6266595!16s%2Fg%2F11r27pdr91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2933528,
+      "lng": 76.6266595,
+      "label": "Jia Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jss-dental-college-and-hospital-mysuru",
+    "name": "JSS Dental College and Hospital",
+    "type": "Dental School",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, JSS Dental College and Hospital brings together specialists for Oral Surgery In Mysore and Dental School. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082125 48349",
+    "alternatePhone": "",
+    "website": "http://www.jssuni.edu.in/",
+    "address": "8MV2+6WQ, Bangalore - Mysore Rd, Sri, Shivarathreeshwara Nagar, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "Sri",
+    "emergencyContact": "082125 48349",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dental School"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JSS+Dental+College+and+Hospital/@12.343079,76.652371,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7085f15b03a5:0x36e22c7750c2fa4c!8m2!3d12.343079!4d76.652371!16s%2Fg%2F1tdflqc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JSS+Dental+College+and+Hospital/@12.343079,76.652371,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7085f15b03a5:0x36e22c7750c2fa4c!8m2!3d12.343079!4d76.652371!16s%2Fg%2F1tdflqc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.343079,
+      "lng": 76.652371,
+      "label": "JSS Dental College and Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jss-hospital-mysore-mysuru",
+    "name": "JSS Hospital, Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, JSS Hospital, Mysore delivers integrated care across Urologist Surgery In Mysore. Operational strengths including Google rating 2.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082123 35555",
+    "alternatePhone": "",
+    "website": "https://jsshospital.in/",
+    "address": "Mahathma Gandhi Road, Ramachandra Agrahara, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Ramachandra Agrahara",
+    "landmark": "Mysuru",
+    "emergencyContact": "082123 35555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JSS+Hospital,+Mysore/@12.2955614,76.655683,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b30c0a2ae3:0x2981a75406bdcce9!8m2!3d12.2955614!4d76.655683!16s%2Fg%2F11fj8ds8p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JSS+Hospital,+Mysore/@12.2955614,76.655683,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b30c0a2ae3:0x2981a75406bdcce9!8m2!3d12.2955614!4d76.655683!16s%2Fg%2F11fj8ds8p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2955614,
+      "lng": 76.655683,
+      "label": "JSS Hospital, Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-r-hospital-mysore-mysuru",
+    "name": "K R Hospital Mysore",
+    "type": "Health",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose K R Hospital Mysore for its strength in Oncologist Surgery In Mysore and Health. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8M72+H7F, Irwin Rd, Devaraja Mohalla, Yadavagiri, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Yadavagiri",
+    "landmark": "Devaraja Mohalla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore",
+      "Health"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/K+R+Hospital+Mysore/@12.3139367,76.6506825,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072cfcd3211:0x2479d2abf68c11c2!8m2!3d12.3139367!4d76.6506825!16s%2Fg%2F11rb63rpbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+R+Hospital+Mysore/@12.3139367,76.6506825,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072cfcd3211:0x2479d2abf68c11c2!8m2!3d12.3139367!4d76.6506825!16s%2Fg%2F11rb63rpbh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3139367,
+      "lng": 76.6506825,
+      "label": "K R Hospital Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalanara-mysuru",
+    "name": "Kalanara",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Kalanara brings together specialists for Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076250 90720",
+    "alternatePhone": "",
+    "website": "",
+    "address": "976/A, Main Rd, Aravinda Nagar, Vivekananda Nagar, Mysuru, Karnataka 570034",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570034",
+    "locality": "Vivekananda Nagar",
+    "landmark": "Aravinda Nagar",
+    "emergencyContact": "076250 90720",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Kalanara/@12.2771435,76.6243148,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6545ddfc9aa3:0xefba382737989ca!8m2!3d12.2771435!4d76.6243148!16s%2Fg%2F11fylkjr9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalanara/@12.2771435,76.6243148,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6545ddfc9aa3:0xefba382737989ca!8m2!3d12.2771435!4d76.6243148!16s%2Fg%2F11fylkjr9b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2771435,
+      "lng": 76.6243148,
+      "label": "Kalanara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamakshi-hospital-mysuru-mysuru",
+    "name": "Kamakshi Hospital Mysuru",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Kamakshi Hospital Mysuru brings together specialists for Urologist Surgery In Mysore. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082125 45981",
+    "alternatePhone": "",
+    "website": "http://www.kamakshihospital.org/",
+    "address": "Kamakshi Hospital Rd, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempu Nagara",
+    "emergencyContact": "082125 45981",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kamakshi+Hospital+Mysuru/@12.2998285,76.6237351,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab735a0053f:0x36b46e10756a3e7d!8m2!3d12.2998285!4d76.6237351!16s%2Fg%2F1tdvn5h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kamakshi+Hospital+Mysuru/@12.2998285,76.6237351,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab735a0053f:0x36b46e10756a3e7d!8m2!3d12.2998285!4d76.6237351!16s%2Fg%2F1tdvn5h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2998285,
+      "lng": 76.6237351,
+      "label": "Kamakshi Hospital Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kangaroo-care-women-and-children-hospital-in-mysore-mysuru",
+    "name": "Kangaroo Care - Women and Children Hospital in Mysore",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kangaroo Care - Women and Children Hospital in Mysore has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Orthopedic Surgery In Mysore, Maternity Centre, and Women and Child Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kangaroocareindia.com/",
+    "address": "8JG9+73W, #505, Kalidasa Rd, opp. MUDA Commercial complex, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "Kalidasa Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore",
+      "Maternity Centre",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kangaroo+Care+-+Women+and+Children+Hospital+in+Mysore/@12.3259285,76.6167714,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bf8e5146c2d:0x943d76f12d7067bb!8m2!3d12.3259285!4d76.6167714!16s%2Fg%2F11jcl7z681?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kangaroo+Care+-+Women+and+Children+Hospital+in+Mysore/@12.3259285,76.6167714,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bf8e5146c2d:0x943d76f12d7067bb!8m2!3d12.3259285!4d76.6167714!16s%2Fg%2F11jcl7z681?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3259285,
+      "lng": 76.6167714,
+      "label": "Kangaroo Care - Women and Children Hospital in Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kangaroo-care-fertility-mysore-mysuru",
+    "name": "Kangaroo Care Fertility - Mysore",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Kangaroo Care Fertility - Mysore brings together specialists for IVF In Mysore and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://kangaroocarefertility.com/centers/mysore",
+    "address": "384, Kalidasa Rd, opposite to Kangaroo Care Hospitals, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "opposite to Kangaroo Care Hospitals, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kangaroo+Care+Fertility+-+Mysore/@12.326222,76.6167298,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b7c8fcd0e21:0xa8b84d1f06c67c5f!8m2!3d12.326222!4d76.6167298!16s%2Fg%2F11y7wsjf13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kangaroo+Care+Fertility+-+Mysore/@12.326222,76.6167298,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b7c8fcd0e21:0xa8b84d1f06c67c5f!8m2!3d12.326222!4d76.6167298!16s%2Fg%2F11y7wsjf13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.326222,
+      "lng": 76.6167298,
+      "label": "Kangaroo Care Fertility - Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "karuna-hospitals-mysuru",
+    "name": "Karuna Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Karuna Hospitals is a prominent hospital in Mysuru, known for structured tertiary care across Gynecologist Surgery In Mysore. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063634 34782",
+    "alternatePhone": "",
+    "website": "",
+    "address": "671/B, Nrupathugha Rd, M-Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "M-Block",
+    "emergencyContact": "063634 34782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Karuna+Hospitals/@12.2797607,76.6253639,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654f41e61af1:0x3fee52383615f2e4!8m2!3d12.2797607!4d76.6253639!16s%2Fg%2F1tfldpm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Karuna+Hospitals/@12.2797607,76.6253639,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654f41e61af1:0x3fee52383615f2e4!8m2!3d12.2797607!4d76.6253639!16s%2Fg%2F1tfldpm7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2797607,
+      "lng": 76.6253639,
+      "label": "Karuna Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kaveri-dental-clinic-mysuru",
+    "name": "KAVERI DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose KAVERI DENTAL CLINIC for its strength in Oral Surgery In Mysore. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099004 06255",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Door no. 786, kaveri circle, 1022, Manchegowdana koppalu, 2nd Stage, Hebbal, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal",
+    "landmark": "1022",
+    "emergencyContact": "099004 06255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/KAVERI+DENTAL+CLINIC/@12.346018,76.608739,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a453b4f15bd:0x411d3338e12e8c54!8m2!3d12.346018!4d76.608739!16s%2Fg%2F11b879xbv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KAVERI+DENTAL+CLINIC/@12.346018,76.608739,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a453b4f15bd:0x411d3338e12e8c54!8m2!3d12.346018!4d76.608739!16s%2Fg%2F11b879xbv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.346018,
+      "lng": 76.608739,
+      "label": "KAVERI DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-rajendra-hospital-mysuru",
+    "name": "Krishna Rajendra Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Krishna Rajendra Hospital offers coordinated hospital care with major focus on Urologist Surgery In Mysore. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082125 26200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "KR Hospital, Irwin Rd, Devaraja Mohalla, Yadavagiri, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Yadavagiri",
+    "landmark": "Devaraja Mohalla",
+    "emergencyContact": "082125 26200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Rajendra+Hospital/@12.3140248,76.6507101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700cd5376b37:0x1fb775ae37f3ae0d!8m2!3d12.3140248!4d76.6507101!16zL20vMGI1ZDdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Rajendra+Hospital/@12.3140248,76.6507101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700cd5376b37:0x1fb775ae37f3ae0d!8m2!3d12.3140248!4d76.6507101!16zL20vMGI1ZDdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3140248,
+      "lng": 76.6507101,
+      "label": "Krishna Rajendra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kshema-dental-clinic-mysuru",
+    "name": "Kshema dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Kshema dental clinic brings together specialists for Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091481 06454",
+    "alternatePhone": "",
+    "website": "http://kshemadentalclinic.com/?utm_source=gmb&utm_medium=referral",
+    "address": "8/2,6th main temple road , vinayakanagar, 5th block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "vinayakanagar",
+    "emergencyContact": "091481 06454",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kshema+dental+clinic/@12.3209242,76.6282878,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b316efdd53b:0x7eaf942c65884a8f!8m2!3d12.3209242!4d76.6282878!16s%2Fg%2F11jsjcs3g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kshema+dental+clinic/@12.3209242,76.6282878,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b316efdd53b:0x7eaf942c65884a8f!8m2!3d12.3209242!4d76.6282878!16s%2Fg%2F11jsjcs3g1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3209242,
+      "lng": 76.6282878,
+      "label": "Kshema dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lakshmi-dental-clinic-mysuru",
+    "name": "Lakshmi dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lakshmi dental clinic is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073496 02857",
+    "alternatePhone": "",
+    "website": "https://lakshmilakshmiab94.wixsite.com/lakshmidentalclinic",
+    "address": "EWS #9, CITB Choultry Rd, near Madhegowda circle, opposite Nadhini Milk Parlour, Lokanayaka Nagar, Hebbal 1st Stage, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal 1st Stage",
+    "landmark": "near Madhegowda circle, opposite Nadhini Milk Parlour, Lokanayaka Nagar, Hebbal 1st Stage, Mysuru, Karnataka 570016",
+    "emergencyContact": "073496 02857",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lakshmi+dental+clinic/@12.345799,76.6147656,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bdb95197d31:0xa224e4aa9d63acfc!8m2!3d12.345799!4d76.6147656!16s%2Fg%2F11g07svndw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lakshmi+dental+clinic/@12.345799,76.6147656,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bdb95197d31:0xa224e4aa9d63acfc!8m2!3d12.345799!4d76.6147656!16s%2Fg%2F11g07svndw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.345799,
+      "lng": 76.6147656,
+      "label": "Lakshmi dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "leelavathi-health-care-gynec-and-dental-clinic-mysuru",
+    "name": "Leelavathi Health Care (Gynec & Dental Clinic)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Leelavathi Health Care (Gynec & Dental Clinic) is a prominent medical clinic in Mysuru, known for structured tertiary care across Gynecologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094480 54184",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CH29, 7th Main, 5th Cross Road, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "5th Cross Road",
+    "emergencyContact": "094480 54184",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Leelavathi+Health+Care+(Gynec+%26+Dental+Clinic)/@12.3008859,76.6311931,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ffcce4404eb:0xcd46de6f6e8dd190!8m2!3d12.3008859!4d76.6311931!16s%2Fg%2F1tcw218t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Leelavathi+Health+Care+(Gynec+%26+Dental+Clinic)/@12.3008859,76.6311931,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ffcce4404eb:0xcd46de6f6e8dd190!8m2!3d12.3008859!4d76.6311931!16s%2Fg%2F1tcw218t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3008859,
+      "lng": 76.6311931,
+      "label": "Leelavathi Health Care (Gynec & Dental Clinic)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-care-dental-clinic-mysuru",
+    "name": "Life Care Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Life Care Dental Clinic is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098860 37522",
+    "alternatePhone": "",
+    "website": "http://lifecaredentalclinic.com/?utm_source=GMBlisting&utm_medium=Organic",
+    "address": "2979, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "Vani Vilas Mohalla",
+    "emergencyContact": "098860 37522",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Care+Dental+Clinic/@12.3249403,76.6287827,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fdb89aff5:0x5447820134290f84!8m2!3d12.3249403!4d76.6287827!16s%2Fg%2F1v44cdqs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Care+Dental+Clinic/@12.3249403,76.6287827,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fdb89aff5:0x5447820134290f84!8m2!3d12.3249403!4d76.6287827!16s%2Fg%2F1v44cdqs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3249403,
+      "lng": 76.6287827,
+      "label": "Life Care Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "liv-max-clinic-mysuru",
+    "name": "Liv max clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Liv max clinic brings together specialists for Oncologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081053 53907",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M I G 4, New kantharaja urs road Next To Accura, Near, Sri S Nijalingappa Cir, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Near",
+    "emergencyContact": "081053 53907",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Liv+max+clinic/@12.2960071,76.6262883,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4509d2a86d:0x24db2679b8fd6b27!8m2!3d12.2960071!4d76.6262883!16s%2Fg%2F11flg3c_n3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Liv+max+clinic/@12.2960071,76.6262883,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b4509d2a86d:0x24db2679b8fd6b27!8m2!3d12.2960071!4d76.6262883!16s%2Fg%2F11flg3c_n3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2960071,
+      "lng": 76.6262883,
+      "label": "Liv max clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "m-m-a-hospital-mysuru",
+    "name": "M M A Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M M A Hospital is a prominent hospital in Mysuru, known for structured tertiary care across Gynecologist Surgery In Mysore. Operational strengths including Google rating 4.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089515 61361",
+    "alternatePhone": "",
+    "website": "https://mmamysorehospital.wixsite.com/my-site",
+    "address": "2nd Stage, Rajiv Nagar, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Rajiv Nagar",
+    "landmark": "Mysuru",
+    "emergencyContact": "089515 61361",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/M+M+A+Hospital/@12.3346435,76.6778392,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b566b9ddbb:0x51998bba62a86778!8m2!3d12.3346435!4d76.6778392!16s%2Fg%2F11qsn0nz0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/M+M+A+Hospital/@12.3346435,76.6778392,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b566b9ddbb:0x51998bba62a86778!8m2!3d12.3346435!4d76.6778392!16s%2Fg%2F11qsn0nz0h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3346435,
+      "lng": 76.6778392,
+      "label": "M M A Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maanasa-dental-health-centre-mysuru",
+    "name": "Maanasa Dental Health Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Maanasa Dental Health Centre offers coordinated hospital care with major focus on Oral Surgery In Mysore. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098867 88167",
+    "alternatePhone": "",
+    "website": "",
+    "address": "V VComplex, SBI Main Rd, near Surya Bakery Circle, Lokanayaka Nagar, Hebbal, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal",
+    "landmark": "near Surya Bakery Circle, Lokanayaka Nagar, Hebbal, Mysuru, Karnataka 570016",
+    "emergencyContact": "098867 88167",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Maanasa+Dental+Health+Centre/@12.3459022,76.6184592,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a68015f031f:0x4fc5250acbbf273c!8m2!3d12.3459022!4d76.6184592!16s%2Fg%2F1th55fg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maanasa+Dental+Health+Centre/@12.3459022,76.6184592,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a68015f031f:0x4fc5250acbbf273c!8m2!3d12.3459022!4d76.6184592!16s%2Fg%2F1th55fg9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3459022,
+      "lng": 76.6184592,
+      "label": "Maanasa Dental Health Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospital-mysore-mysuru",
+    "name": "Manipal Hospital Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Manipal Hospital Mysore delivers integrated care across Spine Surgery In Mysore. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/mysore/?utm_source=GMB&utm_medium=",
+    "address": "No. 85-86, Bangalore-Mysore Ring Road Junction Bannimantapa 'A' Layout, Siddique Nagar, Mandi Mohalla, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Mandi Mohalla",
+    "landmark": "Siddique Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospital+Mysore/@12.3499753,76.6601803,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7092496f2c85:0xd84f0cc826a451aa!8m2!3d12.3499753!4d76.6601803!16s%2Fg%2F1tfmlv50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospital+Mysore/@12.3499753,76.6601803,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7092496f2c85:0xd84f0cc826a451aa!8m2!3d12.3499753!4d76.6601803!16s%2Fg%2F1tfmlv50?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3499753,
+      "lng": 76.6601803,
+      "label": "Manipal Hospital Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maratts-dental-mysuru",
+    "name": "Maratts Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Maratts Dental offers coordinated hospital care with major focus on Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082124 23509",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 133 1st floor, D Devaraj Urs Rd, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "D Devaraj Urs Rd",
+    "landmark": "Mysuru",
+    "emergencyContact": "082124 23509",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Maratts+Dental/@12.309494,76.6450804,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c75fb231f:0xabcf791f18a3cdfc!8m2!3d12.309494!4d76.6450804!16s%2Fg%2F1tdw1x_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maratts+Dental/@12.309494,76.6450804,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c75fb231f:0xabcf791f18a3cdfc!8m2!3d12.309494!4d76.6450804!16s%2Fg%2F1tdw1x_3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.309494,
+      "lng": 76.6450804,
+      "label": "Maratts Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mathoshree-clinic-mysuru",
+    "name": "Mathoshree Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Mysuru, Mathoshree Clinic delivers integrated care across Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098455 33365",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1477, Sayyaji Rao Rd, inside K R diagnostic centre, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "inside K R diagnostic centre",
+    "emergencyContact": "098455 33365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mathoshree+Clinic/@12.3158579,76.6510139,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072f0d17bd3:0xe6c7502f46f296d!8m2!3d12.3158579!4d76.6510139!16s%2Fg%2F11hyn8jnq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mathoshree+Clinic/@12.3158579,76.6510139,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7072f0d17bd3:0xe6c7502f46f296d!8m2!3d12.3158579!4d76.6510139!16s%2Fg%2F11hyn8jnq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3158579,
+      "lng": 76.6510139,
+      "label": "Mathoshree Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maurya-hospital-mysuru",
+    "name": "Maurya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maurya Hospital is a prominent hospital in Mysuru, known for structured tertiary care across Orthopedic Surgery In Mysore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097415 96356",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1306, Sahukar Chennaiah Road, Janatha Nagar, Bogadi 2nd Stage, TK Layout, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "TK Layout",
+    "landmark": "Janatha Nagar",
+    "emergencyContact": "097415 96356",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Maurya+Hospital/data=!4m7!3m6!1s0x3baf7b9f6a588a41:0x5b341196fb539694!8m2!3d12.3028078!4d76.6151571!16s%2Fg%2F11h5smzw3y!19sChIJQYpYap97rzsRlJZT-5YRNFs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maurya+Hospital/data=!4m7!3m6!1s0x3baf7b9f6a588a41:0x5b341196fb539694!8m2!3d12.3028078!4d76.6151571!16s%2Fg%2F11h5smzw3y!19sChIJQYpYap97rzsRlJZT-5YRNFs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3028078,
+      "lng": 76.6151571,
+      "label": "Maurya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mediwave-ivf-and-fertility-research-hospital-mysuru",
+    "name": "Mediwave IVF & Fertility Research Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mediwave IVF & Fertility Research Hospital has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering IVF In Mysore and Fertility Care. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082142 55019",
+    "alternatePhone": "",
+    "website": "http://mediwave.net/",
+    "address": "City X-Ray Complex, Sayyaji Rao Rd, opp. IMA Building, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "opp. IMA Building",
+    "landmark": "opp. IMA Building",
+    "emergencyContact": "082142 55019",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mediwave+IVF+%26+Fertility+Research+Hospital/@12.3171903,76.6501532,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70724dfd37dd:0xf7486be1899ef880!8m2!3d12.3171903!4d76.6501532!16s%2Fg%2F1tp06k2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mediwave+IVF+%26+Fertility+Research+Hospital/@12.3171903,76.6501532,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70724dfd37dd:0xf7486be1899ef880!8m2!3d12.3171903!4d76.6501532!16s%2Fg%2F1tp06k2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3171903,
+      "lng": 76.6501532,
+      "label": "Mediwave IVF & Fertility Research Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mg-dental-clinic-mysuru",
+    "name": "MG dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose MG dental clinic for its strength in Oral Surgery In Mysore. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099861 24484",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.2894/3, kenchappa building, 1st Main Rd, opposite HDFC Bank, Saraswathipuram, Mysuru, Karnataka 570005",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570005",
+    "locality": "Saraswathipuram",
+    "landmark": "opposite HDFC Bank, Saraswathipuram, Mysuru, Karnataka 570005",
+    "emergencyContact": "099861 24484",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/MG+dental+clinic/@12.3004416,76.6353554,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b77201592a1:0xc98d2f50ce566ec9!8m2!3d12.3004416!4d76.6353554!16s%2Fg%2F11n08dkmz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MG+dental+clinic/@12.3004416,76.6353554,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b77201592a1:0xc98d2f50ce566ec9!8m2!3d12.3004416!4d76.6353554!16s%2Fg%2F11n08dkmz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3004416,
+      "lng": 76.6353554,
+      "label": "MG dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "minds-hospital-and-radhakrishna-hospital-mysuru",
+    "name": "Minds Hospital and Radhakrishna hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Minds Hospital and Radhakrishna hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Mysore. With public-facing highlights like Google rating 3.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8J9X+WJP, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Mysuru",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Minds+Hospital+and+Radhakrishna+hospital/@12.3198471,76.6490766,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70716ee50bb5:0x285a8b575c9dcc09!8m2!3d12.3198471!4d76.6490766!16s%2Fg%2F11g6jv987n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Minds+Hospital+and+Radhakrishna+hospital/@12.3198471,76.6490766,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70716ee50bb5:0x285a8b575c9dcc09!8m2!3d12.3198471!4d76.6490766!16s%2Fg%2F11g6jv987n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3198471,
+      "lng": 76.6490766,
+      "label": "Minds Hospital and Radhakrishna hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mithi-surgery-hospital-mysuru",
+    "name": "Mithi Surgery Hospital",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Mithi Surgery Hospital for its strength in Kidney Transplant Surgery In Mysore. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 21199",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ramanuja Rd, opp. JSS Hospital Road, Ramachandra Agrahara, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Ramachandra Agrahara",
+    "landmark": "Ramachandra Agrahara",
+    "emergencyContact": "082124 21199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Mithi+Surgery+Hospital/@12.297292,76.6536196,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701b5a6bbbbf:0x3d39b78cd9ff7cba!8m2!3d12.297292!4d76.6536196!16s%2Fg%2F1tddqmxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mithi+Surgery+Hospital/@12.297292,76.6536196,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701b5a6bbbbf:0x3d39b78cd9ff7cba!8m2!3d12.297292!4d76.6536196!16s%2Fg%2F1tddqmxg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.297292,
+      "lng": 76.6536196,
+      "label": "Mithi Surgery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mms-dental-centre-mysuru",
+    "name": "MMS DENTAL Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose MMS DENTAL Centre for its strength in Oral Surgery In Mysore. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082124 11572",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gokulum Main Rd, 2nd Stage, Mysuru,, 2963, Gokulam Main Rd, Gokulam 2nd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "Mysuru",
+    "emergencyContact": "082124 11572",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/MMS+DENTAL+Centre/@12.3270965,76.6267821,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8f02eada31:0xa8a0fa52f811e66f!8m2!3d12.3270965!4d76.6267821!16s%2Fg%2F11cm9b_yvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MMS+DENTAL+Centre/@12.3270965,76.6267821,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8f02eada31:0xa8a0fa52f811e66f!8m2!3d12.3270965!4d76.6267821!16s%2Fg%2F11cm9b_yvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3270965,
+      "lng": 76.6267821,
+      "label": "MMS DENTAL Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "momtree-ivf-mysuru",
+    "name": "Momtree IVF",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Momtree IVF is a prominent hospital in Mysuru, known for structured tertiary care across IVF In Mysore and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096114 54999",
+    "alternatePhone": "",
+    "website": "https://momtreeivf.com/",
+    "address": "Sankalp Solitaire, 5671/B, General Thimmaiah Rd, Vijay Nagar 2nd Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "General Thimmaiah Rd",
+    "emergencyContact": "096114 54999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Momtree+IVF/@12.3285124,76.6117088,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b165d35d5e7:0xae50fe01640b0dd1!8m2!3d12.3285124!4d76.6117088!16s%2Fg%2F11w85fvh9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Momtree+IVF/@12.3285124,76.6117088,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b165d35d5e7:0xae50fe01640b0dd1!8m2!3d12.3285124!4d76.6117088!16s%2Fg%2F11w85fvh9m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3285124,
+      "lng": 76.6117088,
+      "label": "Momtree IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mother-s-care-clinic-mysuru",
+    "name": "Mother's Care Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mother's Care Clinic is a prominent medical clinic in Mysuru, known for structured tertiary care across Gynecologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076760 33656",
+    "alternatePhone": "",
+    "website": "",
+    "address": "586, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempunagara North",
+    "emergencyContact": "076760 33656",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Mother's+Care+Clinic/@12.2954323,76.6249337,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab1589f83d7:0x5a7ca81773ffbd27!8m2!3d12.2954323!4d76.6249337!16s%2Fg%2F11g8v2xnsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mother's+Care+Clinic/@12.2954323,76.6249337,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab1589f83d7:0x5a7ca81773ffbd27!8m2!3d12.2954323!4d76.6249337!16s%2Fg%2F11g8v2xnsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2954323,
+      "lng": 76.6249337,
+      "label": "Mother's Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "murthy-dental-and-braces-clinic-mysore-mysuru",
+    "name": "Murthy Dental And Braces Clinic Mysore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Murthy Dental And Braces Clinic Mysore brings together specialists for Oral Surgery In Mysore. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098868 70040",
+    "alternatePhone": "",
+    "website": "https://murthydentalclinic.com/?utm_source=gmb&utm_medium=organic",
+    "address": "3rd Floor, No.E10, Sayyaji Rao Rd, above SBI Bank, Agrahara, KR Mohalla, Fort Mohalla, Mysuru, Karnataka 570024",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570024",
+    "locality": "Fort Mohalla",
+    "landmark": "Sayyaji Rao Rd",
+    "emergencyContact": "098868 70040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Murthy+Dental+And+Braces+Clinic+Mysore/@12.2992731,76.6526783,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf710c62c51ad1:0xc915321a3f05b1af!8m2!3d12.2992731!4d76.6526783!16s%2Fg%2F11hz7gy0z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Murthy+Dental+And+Braces+Clinic+Mysore/@12.2992731,76.6526783,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf710c62c51ad1:0xc915321a3f05b1af!8m2!3d12.2992731!4d76.6526783!16s%2Fg%2F11hz7gy0z9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2992731,
+      "lng": 76.6526783,
+      "label": "Murthy Dental And Braces Clinic Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-arogya-siri-ayurveda-center-mysuru",
+    "name": "Mysore Arogya Siri Ayurveda Center",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mysore Arogya Siri Ayurveda Center is a prominent ayurvedic clinic in Mysuru, known for structured tertiary care across Spine Surgery In Mysore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096068 89512",
+    "alternatePhone": "",
+    "website": "https://mysorearogyasiriayurvedacenter.com/",
+    "address": "2nd Phase G, !3/A HIG, 4, KHB Colony Double Rd, Hootagalli, Mysuru, Karnataka 570018",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570018",
+    "locality": "Hootagalli",
+    "landmark": "4",
+    "emergencyContact": "096068 89512",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Arogya+Siri+Ayurveda+Center/@12.3393138,76.5838196,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b5dd2a867ed:0xb647f9cff143576d!8m2!3d12.3393138!4d76.5838196!16s%2Fg%2F11y245jpwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Arogya+Siri+Ayurveda+Center/@12.3393138,76.5838196,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b5dd2a867ed:0xb647f9cff143576d!8m2!3d12.3393138!4d76.5838196!16s%2Fg%2F11y245jpwx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3393138,
+      "lng": 76.5838196,
+      "label": "Mysore Arogya Siri Ayurveda Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-child-neurology-and-rehabilitation-center-mysuru",
+    "name": "Mysore Child Neurology & Rehabilitation Center",
+    "type": "Child Health Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mysore Child Neurology & Rehabilitation Center has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Brain Surgery In Mysore, Child Health Care Center, Neurosciences, and Women and Child Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BANU\", K-block, A-27, Adichunchanagiri Road, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "A-27",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Mysore",
+      "Child Health Care Center",
+      "Neurosciences",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Child+Neurology+%26+Rehabilitation+Center/@12.2906397,76.6314375,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be2f6ac8c33:0x9c75c7ba24a9bc9d!8m2!3d12.2906397!4d76.6314375!16s%2Fg%2F11tp278_b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Child+Neurology+%26+Rehabilitation+Center/@12.2906397,76.6314375,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be2f6ac8c33:0x9c75c7ba24a9bc9d!8m2!3d12.2906397!4d76.6314375!16s%2Fg%2F11tp278_b7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2906397,
+      "lng": 76.6314375,
+      "label": "Mysore Child Neurology & Rehabilitation Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-institute-of-gastroenterology-mysuru",
+    "name": "Mysore Institute of Gastroenterology",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mysore Institute of Gastroenterology is a prominent hospital in Mysuru, known for structured tertiary care across Liver Transplant Surgery In Mysore and Gastroenterology. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://mighospital.health/",
+    "address": "205/1, 205/2, Aloka Palace Road, Hunsur Bypass, Road, Mysuru, Karnataka 571130",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "571130",
+    "locality": "Road",
+    "landmark": "Aloka Palace Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mysore",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Institute+of+Gastroenterology/@12.3482404,76.5520581,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bcad37cc317:0xe5eb1bada34edd89!8m2!3d12.3482404!4d76.5520581!16s%2Fg%2F11sjk850fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Institute+of+Gastroenterology/@12.3482404,76.5520581,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bcad37cc317:0xe5eb1bada34edd89!8m2!3d12.3482404!4d76.5520581!16s%2Fg%2F11sjk850fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3482404,
+      "lng": 76.5520581,
+      "label": "Mysore Institute of Gastroenterology",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-institute-of-gastroenterology-n-j-hospital-mysuru",
+    "name": "Mysore Institute of Gastroenterology (N J Hospital)",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Mysuru, Mysore Institute of Gastroenterology (N J Hospital) delivers integrated care across Cancer Surgery In Mysore and Gastroenterology. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073377 01619",
+    "alternatePhone": "",
+    "website": "http://www.bestgastrohospitals.com/",
+    "address": "8J9H+8R7, 2265, 4th Main Road, Gokulam, 4th Main Rd, Paduvaralli, Vinayakanagara, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Vinayakanagara",
+    "landmark": "4th Main Road",
+    "emergencyContact": "073377 01619",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mysore",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Institute+of+Gastroenterology+(N+J+Hospital)/@12.3173201,76.6293318,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a975a1614ff:0x7587583a8e4d42f1!8m2!3d12.3173201!4d76.6293318!16s%2Fg%2F1tv22lwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Institute+of+Gastroenterology+(N+J+Hospital)/@12.3173201,76.6293318,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a975a1614ff:0x7587583a8e4d42f1!8m2!3d12.3173201!4d76.6293318!16s%2Fg%2F1tv22lwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3173201,
+      "lng": 76.6293318,
+      "label": "Mysore Institute of Gastroenterology (N J Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-kidney-stone-clinic-and-scanning-centre-mysuru",
+    "name": "Mysore Kidney Stone Clinic & Scanning Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Mysore Kidney Stone Clinic & Scanning Centre for its strength in Urologist Surgery In Mysore and Kidney Care. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082124 32448",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kamakshi Hospital Rd, Kuvempunagara North, TK Layout, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "TK Layout",
+    "landmark": "TK Layout",
+    "emergencyContact": "082124 32448",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Kidney+Stone+Clinic+%26+Scanning+Centre/@12.3002889,76.6238676,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab752706f03:0x9aaebec52dc25970!8m2!3d12.3002889!4d76.6238676!16s%2Fg%2F1ptwrb_b4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Kidney+Stone+Clinic+%26+Scanning+Centre/@12.3002889,76.6238676,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab752706f03:0x9aaebec52dc25970!8m2!3d12.3002889!4d76.6238676!16s%2Fg%2F1ptwrb_b4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3002889,
+      "lng": 76.6238676,
+      "label": "Mysore Kidney Stone Clinic & Scanning Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-maxillofacial-surgery-mysuru",
+    "name": "Mysore Maxillofacial Surgery",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mysore Maxillofacial Surgery is a prominent hospital in Mysuru, known for structured tertiary care across Oral Surgery In Mysore and Maxillofacial Surgery. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097396 16278",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9M26+239, SH17, Siddique Nagar, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "Siddique Nagar",
+    "emergencyContact": "097396 16278",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mysore+Maxillofacial+Surgery/@12.350045,76.66024,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7092490638db:0xea6822c7d4a70c37!8m2!3d12.350045!4d76.66024!16s%2Fg%2F12338d39y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysore+Maxillofacial+Surgery/@12.350045,76.66024,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7092490638db:0xea6822c7d4a70c37!8m2!3d12.350045!4d76.66024!16s%2Fg%2F12338d39y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.350045,
+      "lng": 76.66024,
+      "label": "Mysore Maxillofacial Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysore-smile-dental-mysuru",
+    "name": "MYSORE SMILE :) DENTAL",
+    "type": "Cosmetic Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MYSORE SMILE :) DENTAL has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore and Cosmetic Dentist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098458 54977",
+    "alternatePhone": "",
+    "website": "http://www.mysoresmileclinic.com/",
+    "address": "No. 2689, Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "Near Mallappa Flour shop. V V Mohalla 8th Cross, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "emergencyContact": "098458 54977",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Cosmetic Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MYSORE+SMILE+:)+DENTAL/@12.3247434,76.628442,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fea4191ab:0xa6407dd8ad49384a!8m2!3d12.3247434!4d76.628442!16s%2Fg%2F11cn9lcnb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MYSORE+SMILE+:)+DENTAL/@12.3247434,76.628442,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fea4191ab:0xa6407dd8ad49384a!8m2!3d12.3247434!4d76.628442!16s%2Fg%2F11cn9lcnb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3247434,
+      "lng": 76.628442,
+      "label": "MYSORE SMILE :) DENTAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mysuru-fertility-centre-mysuru",
+    "name": "Mysuru Fertility Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Mysuru Fertility Centre for its strength in IVF In Mysore and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090191 61221",
+    "alternatePhone": "",
+    "website": "http://www.ivfmysore.com/",
+    "address": "12246/A Vijayanagar 4th stage 2nd Phase Outer, Ring Rd, Mysuru, Karnataka 570032",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570032",
+    "locality": "Ring Rd",
+    "landmark": "Mysuru",
+    "emergencyContact": "090191 61221",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mysuru+Fertility+Centre/@12.3160121,76.5951662,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bc2103c5205:0x95b95d979fb6380!8m2!3d12.3160121!4d76.5951662!16s%2Fg%2F11jt71lwgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mysuru+Fertility+Centre/@12.3160121,76.5951662,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bc2103c5205:0x95b95d979fb6380!8m2!3d12.3160121!4d76.5951662!16s%2Fg%2F11jt71lwgr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3160121,
+      "lng": 76.5951662,
+      "label": "Mysuru Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "n-j-hospital-mysuru",
+    "name": "N J HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose N J HOSPITAL for its strength in Spine Surgery In Mysore. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070199 75338",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aloka Palace Road, Yelawala, Bypass, Mysuru, Karnataka 571130",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "571130",
+    "locality": "Bypass",
+    "landmark": "Bypass",
+    "emergencyContact": "070199 75338",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/N+J+HOSPITAL/@12.3481587,76.5515849,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8a2c425cb7:0x79feb967acad4085!8m2!3d12.3481587!4d76.5515849!16s%2Fg%2F11c0xtv3tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/N+J+HOSPITAL/@12.3481587,76.5515849,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b8a2c425cb7:0x79feb967acad4085!8m2!3d12.3481587!4d76.5515849!16s%2Fg%2F11c0xtv3tn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3481587,
+      "lng": 76.5515849,
+      "label": "N J HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nagaraje-gowda-memorial-hospital-prajwal-health-care-mysuru",
+    "name": "NAGARAJE GOWDA MEMORIAL HOSPITAL (Prajwal Health Care)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NAGARAJE GOWDA MEMORIAL HOSPITAL (Prajwal Health Care) has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Urologist Surgery In Mysore. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096116 86100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 45, Bangalore - Mysore Rd, near Saint Joseph Hospital, HUDCO 2nd Stage, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "near Saint Joseph Hospital, HUDCO 2nd Stage, Bannimantap, Mysuru, Karnataka 570015",
+    "emergencyContact": "096116 86100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/NAGARAJE+GOWDA+MEMORIAL+HOSPITAL+(Prajwal+Health+Care)/@12.3410245,76.6536434,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7088d61a20b3:0x8ce72cf99ec55ce!8m2!3d12.3410245!4d76.6536434!16s%2Fg%2F1tj6s8cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NAGARAJE+GOWDA+MEMORIAL+HOSPITAL+(Prajwal+Health+Care)/@12.3410245,76.6536434,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7088d61a20b3:0x8ce72cf99ec55ce!8m2!3d12.3410245!4d76.6536434!16s%2Fg%2F1tj6s8cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3410245,
+      "lng": 76.6536434,
+      "label": "NAGARAJE GOWDA MEMORIAL HOSPITAL (Prajwal Health Care)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "narendra-urology-clinic-mysuru",
+    "name": "Narendra Urology Clinic",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narendra Urology Clinic is a prominent urology clinic in Mysuru, known for structured tertiary care across Urologist Surgery In Mysore. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082124 47557",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1380/3A,L-1, Krein Road, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Krein Road",
+    "emergencyContact": "082124 47557",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Narendra+Urology+Clinic/@12.3144912,76.6547713,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706d3a5d7205:0x12d1243d12d60e58!8m2!3d12.3144912!4d76.6547713!16s%2Fg%2F11gdg2z3js?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Narendra+Urology+Clinic/@12.3144912,76.6547713,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706d3a5d7205:0x12d1243d12d60e58!8m2!3d12.3144912!4d76.6547713!16s%2Fg%2F11gdg2z3js?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3144912,
+      "lng": 76.6547713,
+      "label": "Narendra Urology Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navya-fertility-centre-mysuru",
+    "name": "Navya Fertility Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navya Fertility Centre has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering IVF In Mysore and Fertility Care. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 60465",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7JHG+W4X, Nrupathugha Rd, Vivekanandana Nagar, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Vivekanandana Nagar",
+    "emergencyContact": "082124 60465",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Navya+Fertility+Centre/@12.2798554,76.6253527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654f41b33157:0x42c2902fb93ecfec!8m2!3d12.2798554!4d76.6253527!16s%2Fg%2F11cs5_6v0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navya+Fertility+Centre/@12.2798554,76.6253527,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654f41b33157:0x42c2902fb93ecfec!8m2!3d12.2798554!4d76.6253527!16s%2Fg%2F11cs5_6v0b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2798554,
+      "lng": 76.6253527,
+      "label": "Navya Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neuro-care-mysuru",
+    "name": "Neuro Care",
+    "type": "Psychoneurological Specialized Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neuro Care is a prominent psychoneurological specialized clinic in Mysuru, known for structured tertiary care across Neurosurgeon In Mysore and Neurosciences. With public-facing highlights like Google rating 2.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082124 40499",
+    "alternatePhone": "",
+    "website": "http://www.neurocaremysore.com/",
+    "address": "898, Ch-44, NS Road, near Nanjumalige Circle, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "near Nanjumalige Circle, Lakshmipuram, Mysuru, Karnataka 570004",
+    "emergencyContact": "082124 40499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Mysore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Neuro+Care/@12.2938559,76.6482073,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701cab8c5455:0x777801f7480b1884!8m2!3d12.2938559!4d76.6482073!16s%2Fg%2F11c6f9l_wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neuro+Care/@12.2938559,76.6482073,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701cab8c5455:0x777801f7480b1884!8m2!3d12.2938559!4d76.6482073!16s%2Fg%2F11c6f9l_wl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2938559,
+      "lng": 76.6482073,
+      "label": "Neuro Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neuro-zone-gopalagowda-shanthaveri-memorial-hospital-campus-mysuru",
+    "name": "Neuro Zone (Gopalagowda Shanthaveri Memorial Hospital Campus)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neuro Zone (Gopalagowda Shanthaveri Memorial Hospital Campus) is a prominent hospital in Mysuru, known for structured tertiary care across Spine Surgery In Mysore and Neurosciences. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093803 79840",
+    "alternatePhone": "",
+    "website": "http://www.neurozoneindia.com/",
+    "address": "Inside Gopal Gowda Hospital, TN Pura Road, Bannur Rd, Chamundi Vihar Layout, Mysuru, Karnataka 570010",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570010",
+    "locality": "Chamundi Vihar Layout",
+    "landmark": "Bannur Rd",
+    "emergencyContact": "093803 79840",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Neuro+Zone+%28Gopalagowda+Shanthaveri+Memorial+Hospital+Campus%29/data=!4m7!3m6!1s0x3baf715d510d58c7:0x8dd025d98b8c74eb!8m2!3d12.3084856!4d76.6680026!16s%2Fg%2F11h081f5nc!19sChIJx1gNUV1xrzsR63SMi9kl0I0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neuro+Zone+%28Gopalagowda+Shanthaveri+Memorial+Hospital+Campus%29/data=!4m7!3m6!1s0x3baf715d510d58c7:0x8dd025d98b8c74eb!8m2!3d12.3084856!4d76.6680026!16s%2Fg%2F11h081f5nc!19sChIJx1gNUV1xrzsR63SMi9kl0I0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3084856,
+      "lng": 76.6680026,
+      "label": "Neuro Zone (Gopalagowda Shanthaveri Memorial Hospital Campus)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-priyadarshini-hospital-n-p-hospital-mysuru",
+    "name": "New Priyadarshini Hospital (N P Hospital)",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose New Priyadarshini Hospital (N P Hospital) for its strength in Urologist Surgery In Mysore. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076194 27745",
+    "alternatePhone": "",
+    "website": "http://newpriyadarshinihospital.com/",
+    "address": "13, 4th Cross, 7th Main, 72/1, KRS Rd, near Janatha Bazar, Brindavan Extension 1st Stage, Brindavan Extension, Mysuru, Karnataka 570020",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570020",
+    "locality": "Brindavan Extension",
+    "landmark": "near Janatha Bazar, Brindavan Extension 1st Stage, Brindavan Extension, Mysuru, Karnataka 570020",
+    "emergencyContact": "076194 27745",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/New+Priyadarshini+Hospital+(N+P+Hospital)/@12.342101,76.6333576,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a7b989c5c89:0x29552e5ac52c671d!8m2!3d12.342101!4d76.6333576!16s%2Fg%2F1tjs3ct_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Priyadarshini+Hospital+(N+P+Hospital)/@12.342101,76.6333576,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a7b989c5c89:0x29552e5ac52c671d!8m2!3d12.342101!4d76.6333576!16s%2Fg%2F1tjs3ct_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.342101,
+      "lng": 76.6333576,
+      "label": "New Priyadarshini Hospital (N P Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "niramaya-medical-care-mysuru",
+    "name": "NIRAMAYA MEDICAL CARE",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, NIRAMAYA MEDICAL CARE brings together specialists for General Surgery In Mysore and Medical Center. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082145 37458",
+    "alternatePhone": "",
+    "website": "https://niramayamedicalcare.com/",
+    "address": "Diya Arcade, Kantharaja Urs Rd, K.G Koppal, Kukkarahalli, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "K.G Koppal",
+    "emergencyContact": "082145 37458",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Mysore",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NIRAMAYA+MEDICAL+CARE/@12.3049458,76.6353733,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b0007ae21d3:0xd2bf493051010474!8m2!3d12.3049458!4d76.6353733!16s%2Fg%2F11yl6zpv78?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NIRAMAYA+MEDICAL+CARE/@12.3049458,76.6353733,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b0007ae21d3:0xd2bf493051010474!8m2!3d12.3049458!4d76.6353733!16s%2Fg%2F11yl6zpv78?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3049458,
+      "lng": 76.6353733,
+      "label": "NIRAMAYA MEDICAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ntr-the-dentist-mysuru",
+    "name": "NTR The Dentist",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, NTR The Dentist brings together specialists for Oral Surgery In Mysore and Dental Implants Periodontist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082142 56611",
+    "alternatePhone": "",
+    "website": "http://ntrthedentist.com/",
+    "address": "1st floor, kaveri grameena bank Building, 235, Kumbara Koppal Main Rd, Manchegowdana koppalu, hebbal, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "hebbal",
+    "landmark": "235",
+    "emergencyContact": "082142 56611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dental Implants Periodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NTR+The+Dentist/@12.3443157,76.6158203,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a5d4680a389:0x8ffca37201c34906!8m2!3d12.3443157!4d76.6158203!16s%2Fg%2F1hd_t13gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NTR+The+Dentist/@12.3443157,76.6158203,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a5d4680a389:0x8ffca37201c34906!8m2!3d12.3443157!4d76.6158203!16s%2Fg%2F1hd_t13gd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3443157,
+      "lng": 76.6158203,
+      "label": "NTR The Dentist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "olive-dental-care-mysuru",
+    "name": "Olive Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Olive Dental Care is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "541, Al Badar Circle, opposite to Eastern Super Market, Rajiv Nagar 2nd Stage, 2nd Stage, Rajiv Nagar, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Rajiv Nagar",
+    "landmark": "opposite to Eastern Super Market, Rajiv Nagar 2nd Stage, 2nd Stage, Rajiv Nagar, Mysuru, Karnataka 570019",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Olive+Dental+Care/@12.3340856,76.6762531,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71377148feb3:0xeb79605464854999!8m2!3d12.3340856!4d76.6762531!16s%2Fg%2F11y1g0s8ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Olive+Dental+Care/@12.3340856,76.6762531,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71377148feb3:0xeb79605464854999!8m2!3d12.3340856!4d76.6762531!16s%2Fg%2F11y1g0s8ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3340856,
+      "lng": 76.6762531,
+      "label": "Olive Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ora-dental-care-mysuru",
+    "name": "Ora dental care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ora dental care is a prominent dentist in Mysuru, known for structured tertiary care across Oral Surgery In Mysore and Dentist. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080957 90359",
+    "alternatePhone": "",
+    "website": "https://www.oradentalcare.co.in/",
+    "address": "99, D Devaraj Urs Rd, above CARAT LANE showroom, Subbarayanakere, Shivarampet, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Shivarampet",
+    "landmark": "above CARAT LANE showroom",
+    "emergencyContact": "080957 90359",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ora+dental+care/@12.3093924,76.6470201,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71734a0fe9c9:0xd35bc09534c2f924!8m2!3d12.3093924!4d76.6470201!16s%2Fg%2F11ghw3zvzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ora+dental+care/@12.3093924,76.6470201,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71734a0fe9c9:0xd35bc09534c2f924!8m2!3d12.3093924!4d76.6470201!16s%2Fg%2F11ghw3zvzl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3093924,
+      "lng": 76.6470201,
+      "label": "Ora dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-d-mysuru",
+    "name": "ORAL D",
+    "type": "Dental Radiology",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORAL D is a prominent dental radiology in Mysuru, known for structured tertiary care across Oral Surgery In Mysore and Dental Radiology. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.oraldimaging.com/",
+    "address": "38, Nrupathugha Rd, Khb Colony, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Khb Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dental Radiology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ORAL+D/@12.285678,76.6253673,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6539a1f74ded:0x49bd5e0ef4f94fdb!8m2!3d12.285678!4d76.6253673!16s%2Fg%2F11t1c08drv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORAL+D/@12.285678,76.6253673,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6539a1f74ded:0x49bd5e0ef4f94fdb!8m2!3d12.285678!4d76.6253673!16s%2Fg%2F11t1c08drv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.285678,
+      "lng": 76.6253673,
+      "label": "ORAL D",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oro-care-dental-clinic-mysuru",
+    "name": "Oro Care Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oro Care Dental Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098864 35262",
+    "alternatePhone": "",
+    "website": "https://www.oradentalcare.co.in/",
+    "address": "992, Hebbal Main Rd, Lokanayaka Nagar, Hebbal 1st Stage, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal 1st Stage",
+    "landmark": "Lokanayaka Nagar",
+    "emergencyContact": "098864 35262",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oro+Care+Dental+Clinic/@12.3475624,76.629287,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a6fc379b053:0x6447982fe62a43a1!8m2!3d12.3475624!4d76.629287!16s%2Fg%2F11fx8mfl9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oro+Care+Dental+Clinic/@12.3475624,76.629287,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a6fc379b053:0x6447982fe62a43a1!8m2!3d12.3475624!4d76.629287!16s%2Fg%2F11fx8mfl9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3475624,
+      "lng": 76.629287,
+      "label": "Oro Care Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-mysuru",
+    "name": "OrthoSquare Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, OrthoSquare Dental Clinic brings together specialists for Oral Surgery In Mysore and Orthopaedics. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079662 47119",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/mysuru/Lokanayaka-Nagar/orthosquare-dental-clinic-in-Lokanayaka-Nagar-mysuru--6dC2Ac/home",
+    "address": "No 359, First Floor, Hebbal, Kumbara Koppal Main Rd, nearby Surya Bakery Main Road, Lokanayaka Nagar, Metagalli, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Metagalli",
+    "landmark": "Hebbal",
+    "emergencyContact": "079662 47119",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic/@12.3444341,76.615636,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf710e8f411105:0x7559c88eef0baa76!8m2!3d12.3444341!4d76.615636!16s%2Fg%2F11t310rx1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic/@12.3444341,76.615636,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf710e8f411105:0x7559c88eef0baa76!8m2!3d12.3444341!4d76.615636!16s%2Fg%2F11t310rx1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3444341,
+      "lng": 76.615636,
+      "label": "OrthoSquare Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "padmashri-healthcare-clinic-mysuru",
+    "name": "Padmashri Healthcare (CLINIC)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Padmashri Healthcare (CLINIC) offers coordinated hospital care with major focus on Laparoscopic Surgery In Mysore. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063633 19954",
+    "alternatePhone": "",
+    "website": "https://jsdl.in/DT-44P9IORLS36",
+    "address": "466/1, Ramanuja Rd, Agrahara, Ramachandra Agrahara, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Ramachandra Agrahara",
+    "landmark": "Agrahara",
+    "emergencyContact": "063633 19954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Padmashri+Healthcare+(CLINIC)/@12.2975509,76.6534721,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7189b69b1acd:0x4d1d8a21887ab09d!8m2!3d12.2975509!4d76.6534721!16s%2Fg%2F11xlk8445y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Padmashri+Healthcare+(CLINIC)/@12.2975509,76.6534721,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7189b69b1acd:0x4d1d8a21887ab09d!8m2!3d12.2975509!4d76.6534721!16s%2Fg%2F11xlk8445y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2975509,
+      "lng": 76.6534721,
+      "label": "Padmashri Healthcare (CLINIC)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pancham-dental-clinic-mysuru",
+    "name": "Pancham Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Pancham Dental Clinic for its strength in Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098444 04044",
+    "alternatePhone": "",
+    "website": "",
+    "address": "104, New Kantharaj Urs Rd, A & B Block, Sharadadevi Nagar, TK Layout, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "TK Layout",
+    "landmark": "A & B Block",
+    "emergencyContact": "098444 04044",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Pancham+Dental+Clinic/@12.2956145,76.6148302,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ac97bab284b:0xbc687150948bc342!8m2!3d12.2956145!4d76.6148302!16s%2Fg%2F1hjh0zgsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pancham+Dental+Clinic/@12.2956145,76.6148302,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ac97bab284b:0xbc687150948bc342!8m2!3d12.2956145!4d76.6148302!16s%2Fg%2F1hjh0zgsx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2956145,
+      "lng": 76.6148302,
+      "label": "Pancham Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pandit-s-dental-care-mysuru",
+    "name": "Pandit's Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pandit's Dental Care has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097392 99306",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 892, New Kantharaj Urs Rd, opp. Bandanthamma Temple, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "opp. Bandanthamma Temple",
+    "emergencyContact": "097392 99306",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pandit's+Dental+Care/@12.2964786,76.6303296,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9c00c9241d:0x5855db3b84dd5145!8m2!3d12.2964786!4d76.6303296!16s%2Fg%2F11l3nk1p1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pandit's+Dental+Care/@12.2964786,76.6303296,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9c00c9241d:0x5855db3b84dd5145!8m2!3d12.2964786!4d76.6303296!16s%2Fg%2F11l3nk1p1j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2964786,
+      "lng": 76.6303296,
+      "label": "Pandit's Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearl-dental-care-mysuru",
+    "name": "Pearl Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pearl Dental Care is a prominent dentist in Mysuru, known for structured tertiary care across Oral Surgery In Mysore and Dentist. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098867 33902",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Star Galaxy Complex, M.I.G 1, Mahatma Gandhi Rd, near Bilal Masjid, Udayagir, Udayagiri, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Udayagiri",
+    "landmark": "near Bilal Masjid, Udayagir, Udayagiri, Mysuru, Karnataka 570019",
+    "emergencyContact": "098867 33902",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Pearl+Dental+Care/@12.3253564,76.6735739,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b07b71f877:0x5d0a220574b7d55d!8m2!3d12.3253564!4d76.6735739!16s%2Fg%2F11fjzb9yh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearl+Dental+Care/@12.3253564,76.6735739,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b07b71f877:0x5d0a220574b7d55d!8m2!3d12.3253564!4d76.6735739!16s%2Fg%2F11fjzb9yh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3253564,
+      "lng": 76.6735739,
+      "label": "Pearl Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearl-health-care-mysuru",
+    "name": "Pearl Health Care",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Pearl Health Care offers coordinated hospital care with major focus on Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090080 32244",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kabir Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Mandi Mohalla",
+    "emergencyContact": "090080 32244",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pearl+Health+Care/@12.3169912,76.6505137,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71e21a82c851:0x8ee5249740976b3c!8m2!3d12.3169912!4d76.6505137!16s%2Fg%2F11kyp3z_8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearl+Health+Care/@12.3169912,76.6505137,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71e21a82c851:0x8ee5249740976b3c!8m2!3d12.3169912!4d76.6505137!16s%2Fg%2F11kyp3z_8w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3169912,
+      "lng": 76.6505137,
+      "label": "Pearl Health Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "phaneesh-hospital-mysuru",
+    "name": "PHANEESH HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, PHANEESH HOSPITAL delivers integrated care across Spine Surgery In Mysore. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082123 72258",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1075, Akkamahadevi Rd, opp. JSS Public School, C-Block, JP Nagar, Mysuru, Karnataka 570031",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570031",
+    "locality": "JP Nagar",
+    "landmark": "opp. JSS Public School",
+    "emergencyContact": "082123 72258",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/PHANEESH+HOSPITAL/@12.2601733,76.6443784,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6f88ff8e46ef:0xb3862aca46f90cde!8m2!3d12.2601733!4d76.6443784!16s%2Fg%2F124yr0_cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PHANEESH+HOSPITAL/@12.2601733,76.6443784,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6f88ff8e46ef:0xb3862aca46f90cde!8m2!3d12.2601733!4d76.6443784!16s%2Fg%2F124yr0_cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2601733,
+      "lng": 76.6443784,
+      "label": "PHANEESH HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "poornima-hospital-mysuru",
+    "name": "Poornima Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Poornima Hospital delivers integrated care across Gynecologist Surgery In Mysore. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082142 53333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "662, Vishwamanava Double Road, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempu Nagara",
+    "emergencyContact": "082142 53333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Poornima+Hospital/@12.3004459,76.6265288,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b682587e603:0x2aef02ee92a72135!8m2!3d12.3004459!4d76.6265288!16s%2Fg%2F11h2ffhj4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Poornima+Hospital/@12.3004459,76.6265288,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b682587e603:0x2aef02ee92a72135!8m2!3d12.3004459!4d76.6265288!16s%2Fg%2F11h2ffhj4_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3004459,
+      "lng": 76.6265288,
+      "label": "Poornima Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prabhu-urology-and-kidney-stone-clinic-mysuru",
+    "name": "Prabhu Urology & Kidney Stone Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Prabhu Urology & Kidney Stone Clinic brings together specialists for Urologist Surgery In Mysore and Kidney Care. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082124 49986",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8M82+P4W, Lehar Complex, New Sayyaji Rao Road, I.M.I Building, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "I.M.I Building",
+    "landmark": "New Sayyaji Rao Road",
+    "emergencyContact": "082124 49986",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Prabhu+Urology+%26+Kidney+Stone+Clinic/@12.316867,76.6503309,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706c1665d48b:0xad424c94bc461b03!8m2!3d12.316867!4d76.6503309!16s%2Fg%2F1whdgsxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prabhu+Urology+%26+Kidney+Stone+Clinic/@12.316867,76.6503309,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706c1665d48b:0xad424c94bc461b03!8m2!3d12.316867!4d76.6503309!16s%2Fg%2F1whdgsxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.316867,
+      "lng": 76.6503309,
+      "label": "Prabhu Urology & Kidney Stone Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "praisha-physiotherapy-center-mysuru",
+    "name": "Praisha physiotherapy center",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapist in Mysuru, Praisha physiotherapy center delivers integrated care across Spine Surgery In Mysore and Physiotherapist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096068 39348",
+    "alternatePhone": "",
+    "website": "https://click4appointment.com/clinic-details/praishaphysiotherapycenter-3080",
+    "address": "1034, Panchamantra Rd, E&F Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "E&F Block",
+    "emergencyContact": "096068 39348",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Praisha+physiotherapy+center/@12.2896532,76.6272728,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf657e96993567:0xc214072e3d7da8ba!8m2!3d12.2896532!4d76.6272728!16s%2Fg%2F11s4xmby9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Praisha+physiotherapy+center/@12.2896532,76.6272728,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf657e96993567:0xc214072e3d7da8ba!8m2!3d12.2896532!4d76.6272728!16s%2Fg%2F11s4xmby9f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2896532,
+      "lng": 76.6272728,
+      "label": "Praisha physiotherapy center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pralaksha-hospital-ilavala-hobli",
+    "name": "Pralaksha Hospital (ಪ್ರಲಕ್ಷ ಆಸ್ಪತ್ರೆ)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ilavala Hobli often choose Pralaksha Hospital (ಪ್ರಲಕ್ಷ ಆಸ್ಪತ್ರೆ) for its strength in Spine Surgery In Mysore. The facility stands out for Google rating 3.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.pralakshahospital.com/",
+    "address": "Vedha Arcade, 275-1, Mysore - Madikeri Rd, Hootagalli, Ilavala Hobli, Karnataka 570018",
+    "city": "Ilavala Hobli",
+    "state": "Karnataka",
+    "pincode": "570018",
+    "locality": "Hootagalli",
+    "landmark": "Mysore - Madikeri Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pralaksha+Hospital+(%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%B2%E0%B2%95%E0%B3%8D%E0%B2%B7+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86)/@12.3403163,76.5858094,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7baf1adc91b3:0xa1d394a7be65182b!8m2!3d12.3403163!4d76.5858094!16s%2Fg%2F11cs5scy4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pralaksha+Hospital+(%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%B2%E0%B2%95%E0%B3%8D%E0%B2%B7+%E0%B2%86%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%86)/@12.3403163,76.5858094,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7baf1adc91b3:0xa1d394a7be65182b!8m2!3d12.3403163!4d76.5858094!16s%2Fg%2F11cs5scy4r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3403163,
+      "lng": 76.5858094,
+      "label": "Pralaksha Hospital (ಪ್ರಲಕ್ಷ ಆಸ್ಪತ್ರೆ)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prerana-psychiatry-and-gynaecology-hospital-mysuru",
+    "name": "Prerana Psychiatry & Gynaecology Hospital",
+    "type": "Psychiatric Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Prerana Psychiatry & Gynaecology Hospital offers coordinated hospital care with major focus on Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082142 46000",
+    "alternatePhone": "",
+    "website": "http://preranahospitalmysore.com/",
+    "address": "Landmark: Water tank, 452, Paduvana Road, Kuvempunagara North, TK Layout, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "TK Layout",
+    "landmark": "Paduvana Road",
+    "emergencyContact": "082142 46000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prerana+Psychiatry+%26+Gynaecology+Hospital/@12.2886737,76.6223372,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654b38d6c57b:0xe653a8e0000a1ff6!8m2!3d12.2886737!4d76.6223372!16s%2Fg%2F11s1wqwgmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prerana+Psychiatry+%26+Gynaecology+Hospital/@12.2886737,76.6223372,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654b38d6c57b:0xe653a8e0000a1ff6!8m2!3d12.2886737!4d76.6223372!16s%2Fg%2F11s1wqwgmw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2886737,
+      "lng": 76.6223372,
+      "label": "Prerana Psychiatry & Gynaecology Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pristyn-care-mysuru",
+    "name": "Pristyn Care",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pristyn Care has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Urologist Surgery In Mysore and Medical Center. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/c/proctology/?utm_source=gmb&utm_medium=organic&utm_campaign=clinic-gmb",
+    "address": "No D9/A, 1st Floor, 6th Main Rd, above Cafe Coffee Day, Gokulam 2nd Stage, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "6th Main Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pristyn+Care/@12.3265642,76.6267801,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3a8fa40737:0x34473582a20fe4b9!8m2!3d12.3265642!4d76.6267801!16s%2Fg%2F11nxfzz43d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pristyn+Care/@12.3265642,76.6267801,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b3a8fa40737:0x34473582a20fe4b9!8m2!3d12.3265642!4d76.6267801!16s%2Fg%2F11nxfzz43d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3265642,
+      "lng": 76.6267801,
+      "label": "Pristyn Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pulmonology-and-chest-clinic-in-mysore-asthma-and-lung-care-clearmedi-radiant-hospital-mysuru",
+    "name": "Pulmonology & Chest Clinic in Mysore | Asthma & Lung Care | ClearMedi Radiant Hospital",
+    "type": "Pulmonologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Pulmonology & Chest Clinic in Mysore | Asthma & Lung Care | ClearMedi Radiant Hospital for its strength in Cancer Surgery In Mysore and Pulmonologist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082723 36666",
+    "alternatePhone": "",
+    "website": "https://clearmedi.in/",
+    "address": "Radiant Hospital, Vijay Nagar 3rd Stage ClearMedi, Vijayanagar, Mysuru, Karnataka 570030",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570030",
+    "locality": "Vijayanagar",
+    "landmark": "Vijayanagar",
+    "emergencyContact": "082723 36666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mysore",
+      "Pulmonologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pulmonology+%26+Chest+Clinic+in+Mysore+%7C+Asthma+%26+Lung+Care+%7C+ClearMedi+Radiant+Hospital/@12.321567,76.609267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b767aa0160f:0x2b487a99f55242db!8m2!3d12.321567!4d76.609267!16s%2Fg%2F11w3m32ljj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pulmonology+%26+Chest+Clinic+in+Mysore+%7C+Asthma+%26+Lung+Care+%7C+ClearMedi+Radiant+Hospital/@12.321567,76.609267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b767aa0160f:0x2b487a99f55242db!8m2!3d12.321567!4d76.609267!16s%2Fg%2F11w3m32ljj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.321567,
+      "lng": 76.609267,
+      "label": "Pulmonology & Chest Clinic in Mysore | Asthma & Lung Care | ClearMedi Radiant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "radiance-skin-clinic-mysuru",
+    "name": "Radiance Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Radiance Skin Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Cosmetic Surgery In Mysore. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081232 96936",
+    "alternatePhone": "",
+    "website": "https://radianceskinclinicmysore.com/",
+    "address": "Lalitha Arcade, 1st floor, #825, Vinaya Marga, above Axis Bank, Siddhartha Layout, Mysuru, Karnataka 570011",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570011",
+    "locality": "Siddhartha Layout",
+    "landmark": "#825",
+    "emergencyContact": "081232 96936",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Radiance+Skin+Clinic/@12.3037881,76.6906388,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71ee81e1be87:0x175a8bf2a97b12fe!8m2!3d12.3037881!4d76.6906388!16s%2Fg%2F11lgkty1_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Radiance+Skin+Clinic/@12.3037881,76.6906388,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71ee81e1be87:0x175a8bf2a97b12fe!8m2!3d12.3037881!4d76.6906388!16s%2Fg%2F11lgkty1_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3037881,
+      "lng": 76.6906388,
+      "label": "Radiance Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raihan-dental-clinic-mysuru",
+    "name": "Raihan dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Raihan dental clinic offers coordinated hospital care with major focus on Oral Surgery In Mysore. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "063607 06472",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Azeez Sait Main Rd, Udayagiri, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Udayagiri",
+    "landmark": "Mysuru",
+    "emergencyContact": "063607 06472",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Raihan+dental+clinic/@12.3287892,76.6861674,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf717b7f08e5c7:0xa5d1874018e0c070!8m2!3d12.3287892!4d76.6861674!16s%2Fg%2F11fpkhnvls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Raihan+dental+clinic/@12.3287892,76.6861674,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf717b7f08e5c7:0xa5d1874018e0c070!8m2!3d12.3287892!4d76.6861674!16s%2Fg%2F11fpkhnvls?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3287892,
+      "lng": 76.6861674,
+      "label": "Raihan dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raksha-clinic-mysuru",
+    "name": "Raksha Clinic",
+    "type": "Reproductive Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Raksha Clinic brings together specialists for Gynecologist Surgery In Mysore and Reproductive Medicine. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082125 42494",
+    "alternatePhone": "",
+    "website": "",
+    "address": "602, 11th Cross, Anikethana Rd, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Anikethana Rd",
+    "emergencyContact": "082125 42494",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore",
+      "Reproductive Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Raksha+Clinic/@12.2941384,76.6259631,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab3b87607a5:0x2e3deae4e40942!8m2!3d12.2941384!4d76.6259631!16s%2Fg%2F11g8xhslyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Raksha+Clinic/@12.2941384,76.6259631,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab3b87607a5:0x2e3deae4e40942!8m2!3d12.2941384!4d76.6259631!16s%2Fg%2F11g8xhslyn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2941384,
+      "lng": 76.6259631,
+      "label": "Raksha Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rashmi-kishore-mysuru",
+    "name": "Rashmi Kishore",
+    "type": "Women's Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rashmi Kishore is a prominent women's health clinic in Mysuru, known for structured tertiary care across Gynecologist Surgery In Mysore and Women and Child Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "59-266, 1st Main Rd, Gokulam 2nd Stage, Gokulam, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Gokulam",
+    "landmark": "Gokulam 2nd Stage",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Rashmi+Kishore/@12.3303544,76.6306923,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bf4d333e843:0xba6754b13a14487c!8m2!3d12.3303544!4d76.6306923!16s%2Fg%2F11gjw31cl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rashmi+Kishore/@12.3303544,76.6306923,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bf4d333e843:0xba6754b13a14487c!8m2!3d12.3303544!4d76.6306923!16s%2Fg%2F11gjw31cl8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3303544,
+      "lng": 76.6306923,
+      "label": "Rashmi Kishore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ravikiran-dental-care-bogadi-mysore",
+    "name": "RAVIKIRAN DENTAL CARE BOGADI",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RAVIKIRAN DENTAL CARE BOGADI has built a strong reputation in mysore for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097394 59544",
+    "alternatePhone": "",
+    "website": "",
+    "address": "#433,1st floor, gaddige main road,bogadi,mysore,pin code 570026, Bogadi Rd, Bhogadi, Karnataka 570026",
+    "city": "mysore",
+    "state": "Karnataka",
+    "pincode": "570026",
+    "locality": "bogadi",
+    "landmark": "gaddige main road",
+    "emergencyContact": "097394 59544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/RAVIKIRAN+DENTAL+CARE+BOGADI/@12.3054211,76.5987067,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7adecc9a9adb:0x7284e75bd397d801!8m2!3d12.3054211!4d76.5987067!16s%2Fg%2F11c582810v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RAVIKIRAN+DENTAL+CARE+BOGADI/@12.3054211,76.5987067,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7adecc9a9adb:0x7284e75bd397d801!8m2!3d12.3054211!4d76.5987067!16s%2Fg%2F11c582810v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3054211,
+      "lng": 76.5987067,
+      "label": "RAVIKIRAN DENTAL CARE BOGADI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "regrowth-skin-and-hair-transplant-clinic-mysuru",
+    "name": "REGROWTH Skin & Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Mysuru, REGROWTH Skin & Hair Transplant Clinic delivers integrated care across Liver Transplant Surgery In Mysore. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098447 78611",
+    "alternatePhone": "",
+    "website": "http://www.regrowrthhairtransplantclinic.com/",
+    "address": "2818, 1st floor, Kalidasa Rd, next to Hotel Greenleaf, 4th Block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "Kalidasa Rd",
+    "emergencyContact": "098447 78611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/REGROWTH+Skin+%26+Hair+Transplant+Clinic/@12.3239519,76.625864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be2380cf58f:0x6b23725869f25c2f!8m2!3d12.3239519!4d76.625864!16s%2Fg%2F11y36cdlyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/REGROWTH+Skin+%26+Hair+Transplant+Clinic/@12.3239519,76.625864,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be2380cf58f:0x6b23725869f25c2f!8m2!3d12.3239519!4d76.625864!16s%2Fg%2F11y36cdlyh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3239519,
+      "lng": 76.625864,
+      "label": "REGROWTH Skin & Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "reliva-physiotherapy-and-rehab-mysore-mysuru",
+    "name": "ReLiva Physiotherapy & Rehab, Mysore",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose ReLiva Physiotherapy & Rehab, Mysore for its strength in Spine Surgery In Mysore and Physiotherapy Center. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099209 91584",
+    "alternatePhone": "",
+    "website": "https://reliva.in/physiotherapy-clinics/reliva-physiotherapy-kalidasa-road-mysuru/?utm_source=gmb",
+    "address": "Apollo Clinic, Panchvati Circle, 23, Kalidasa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "23",
+    "emergencyContact": "099209 91584",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab,+Mysore/@12.3245732,76.6240443,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9860e0440d:0xdb93e8b9b6be5bec!8m2!3d12.3245732!4d76.6240443!16s%2Fg%2F11h_trsy2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ReLiva+Physiotherapy+%26+Rehab,+Mysore/@12.3245732,76.6240443,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9860e0440d:0xdb93e8b9b6be5bec!8m2!3d12.3245732!4d76.6240443!16s%2Fg%2F11h_trsy2c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3245732,
+      "lng": 76.6240443,
+      "label": "ReLiva Physiotherapy & Rehab, Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "roshan-s-hi-tech-dental-center-mysuru",
+    "name": "ROSHAN'S Hi-tech dental center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, ROSHAN'S Hi-tech dental center delivers integrated care across Oral Surgery In Mysore. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098866 87550",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Majestic arcade Mahadevapura Main Road Udaygiri, Kyathamaranahalli, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Kyathamaranahalli",
+    "landmark": "Mysuru",
+    "emergencyContact": "098866 87550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/ROSHAN'S+Hi-tech+dental+center/@12.3244335,76.6760603,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf704f8b86b5a7:0xc25bd5f29577e95!8m2!3d12.3244335!4d76.6760603!16s%2Fg%2F1ptx5f3kt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ROSHAN'S+Hi-tech+dental+center/@12.3244335,76.6760603,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf704f8b86b5a7:0xc25bd5f29577e95!8m2!3d12.3244335!4d76.6760603!16s%2Fg%2F1ptx5f3kt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3244335,
+      "lng": 76.6760603,
+      "label": "ROSHAN'S Hi-tech dental center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rv-kidney-stone-clinic-and-men-s-health-centre-mysuru",
+    "name": "RV KIDNEY STONE CLINIC AND MEN'S HEALTH CENTRE",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RV KIDNEY STONE CLINIC AND MEN'S HEALTH CENTRE has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Urologist Surgery In Mysore and Kidney Care. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081500 84818",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Airline hotel, 1071 Ground floor Jayalakshmi Vilas road, road, near Ramaswamy Circle, Chamaraja Mohalla, Mysuru, Karnataka 570005",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570005",
+    "locality": "Chamaraja Mohalla",
+    "landmark": "near Ramaswamy Circle, Chamaraja Mohalla, Mysuru, Karnataka 570005",
+    "emergencyContact": "081500 84818",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/RV+KIDNEY+STONE+CLINIC+AND+MEN'S+HEALTH+CENTRE/@12.3017203,76.6417509,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7175133e8493:0x1eb404c44cfb0fea!8m2!3d12.3017203!4d76.6417509!16s%2Fg%2F11fmz99ywt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RV+KIDNEY+STONE+CLINIC+AND+MEN'S+HEALTH+CENTRE/@12.3017203,76.6417509,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7175133e8493:0x1eb404c44cfb0fea!8m2!3d12.3017203!4d76.6417509!16s%2Fg%2F11fmz99ywt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3017203,
+      "lng": 76.6417509,
+      "label": "RV KIDNEY STONE CLINIC AND MEN'S HEALTH CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samastha-skin-clinic-mysuru",
+    "name": "Samastha skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Samastha skin Clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Mysore. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073493 99134",
+    "alternatePhone": "",
+    "website": "",
+    "address": "#7, First Floor, Paramahamsa Rd, Yadavagiri, Mysuru, Karnataka 570020",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570020",
+    "locality": "Yadavagiri",
+    "landmark": "Paramahamsa Rd",
+    "emergencyContact": "073493 99134",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Samastha+skin+Clinic/@12.3268394,76.6374576,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b57df8be70b:0x4ad00e1218ef104!8m2!3d12.3268394!4d76.6374576!16s%2Fg%2F11fm_z321r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samastha+skin+Clinic/@12.3268394,76.6374576,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b57df8be70b:0x4ad00e1218ef104!8m2!3d12.3268394!4d76.6374576!16s%2Fg%2F11fm_z321r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3268394,
+      "lng": 76.6374576,
+      "label": "Samastha skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sampreethi-skin-care-centre-mysuru",
+    "name": "Sampreethi Skin Care Centre",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Sampreethi Skin Care Centre brings together specialists for Cosmetic Surgery In Mysore. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082124 25707",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Sapna Book House, Divan's Road, next to Tribhuvan Tower, near Devaraja Mohalla, Devaraja Mohalla, Shivarampet, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Shivarampet",
+    "landmark": "near Devaraja Mohalla, Devaraja Mohalla, Shivarampet, Mysuru, Karnataka 570001",
+    "emergencyContact": "082124 25707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sampreethi+Skin+Care+Centre/@12.3122067,76.6475988,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700ca3c56931:0x12bcc2897364329d!8m2!3d12.3122067!4d76.6475988!16s%2Fg%2F1tgpwn1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sampreethi+Skin+Care+Centre/@12.3122067,76.6475988,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700ca3c56931:0x12bcc2897364329d!8m2!3d12.3122067!4d76.6475988!16s%2Fg%2F1tgpwn1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3122067,
+      "lng": 76.6475988,
+      "label": "Sampreethi Skin Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanchalana-hospital-mysuru",
+    "name": "Sanchalana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Sanchalana Hospital for its strength in General Surgery In Mysore. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082148 50909",
+    "alternatePhone": "",
+    "website": "https://sanchalanahospital.com/",
+    "address": "63, SUNDEW Complex, opp. JSS Hospital Road, Agrahara, Chamrajpura, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Chamrajpura",
+    "landmark": "opp. JSS Hospital Road",
+    "emergencyContact": "082148 50909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sanchalana+Hospital/@12.2973012,76.6562556,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701c7d912af1:0xbbf9eee0a03ab3af!8m2!3d12.2973012!4d76.6562556!16s%2Fg%2F11kbtmv962?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanchalana+Hospital/@12.2973012,76.6562556,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf701c7d912af1:0xbbf9eee0a03ab3af!8m2!3d12.2973012!4d76.6562556!16s%2Fg%2F11kbtmv962?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2973012,
+      "lng": 76.6562556,
+      "label": "Sanchalana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-dental-healthcare-mysuru",
+    "name": "Sanjeevani Dental Healthcare",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Sanjeevani Dental Healthcare for its strength in Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089710 63214",
+    "alternatePhone": "",
+    "website": "",
+    "address": "333/69, NS Road, next to Linen Club, Devaraja Mohalla, Chamrajpura, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Chamrajpura",
+    "landmark": "next to Linen Club",
+    "emergencyContact": "089710 63214",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevani+Dental+Healthcare/@12.308246,76.647801,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c1b2ef89f:0x216fbe576d0b7a0c!8m2!3d12.308246!4d76.647801!16s%2Fg%2F11v040nndy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevani+Dental+Healthcare/@12.308246,76.647801,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c1b2ef89f:0x216fbe576d0b7a0c!8m2!3d12.308246!4d76.647801!16s%2Fg%2F11v040nndy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.308246,
+      "lng": 76.647801,
+      "label": "Sanjeevani Dental Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santasa-fertility-and-ivf-mysore-mysuru",
+    "name": "Santasa Fertility & IVF, Mysore",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Santasa Fertility & IVF, Mysore for its strength in IVF In Mysore and Fertility Care. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096200 99936",
+    "alternatePhone": "",
+    "website": "https://santasaivf.com/",
+    "address": "963/1A, New Kanthraju Urs Road Vedanta Hemmige Circle, opp. Rasik Honda Showroom, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "opp. Rasik Honda Showroom",
+    "emergencyContact": "096200 99936",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Santasa+Fertility+%26+IVF,+Mysore/@12.29515,76.6446486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70012253cd7f:0x7ed83d575efe3ae!8m2!3d12.29515!4d76.6446486!16s%2Fg%2F11g9ndmrds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santasa+Fertility+%26+IVF,+Mysore/@12.29515,76.6446486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf70012253cd7f:0x7ed83d575efe3ae!8m2!3d12.29515!4d76.6446486!16s%2Fg%2F11g9ndmrds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.29515,
+      "lng": 76.6446486,
+      "label": "Santasa Fertility & IVF, Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santasa-women-s-fertility-clinic-mysore-mysuru",
+    "name": "Santasa women's fertility clinic Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, Santasa women's fertility clinic Mysore delivers integrated care across IVF In Mysore, Women and Child Care, and Fertility Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JCF+W32, 5th Main Rd, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "3rd Block",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Santasa+women's+fertility+clinic+Mysore/@12.3222651,76.6226319,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b002a530c13:0x5d75ea661996011d!8m2!3d12.3222651!4d76.6226319!16s%2Fg%2F11w7mgz825?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santasa+women's+fertility+clinic+Mysore/@12.3222651,76.6226319,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b002a530c13:0x5d75ea661996011d!8m2!3d12.3222651!4d76.6226319!16s%2Fg%2F11w7mgz825?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3222651,
+      "lng": 76.6226319,
+      "label": "Santasa women's fertility clinic Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santhosh-heart-care-mysuru",
+    "name": "Santhosh Heart Care",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Santhosh Heart Care brings together specialists for Heart Surgery In Mysore and Cardiac Care. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063604 02617",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7JV5+G8H, beside Subba rao park, 1 stage, Niveditha Nagar, Mysuru, Karnataka 570022",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570022",
+    "locality": "Niveditha Nagar",
+    "landmark": "beside Subba rao park, 1 stage, Niveditha Nagar, Mysuru, Karnataka 570022",
+    "emergencyContact": "063604 02617",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Santhosh+Heart+Care/@12.2938036,76.6083483,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b972fd07dcd:0x849606cbe5e875f9!8m2!3d12.2938036!4d76.6083483!16s%2Fg%2F11k490fvqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santhosh+Heart+Care/@12.2938036,76.6083483,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b972fd07dcd:0x849606cbe5e875f9!8m2!3d12.2938036!4d76.6083483!16s%2Fg%2F11k490fvqq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2938036,
+      "lng": 76.6083483,
+      "label": "Santhosh Heart Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarathi-dental-clinic-mysuru",
+    "name": "Sarathi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Sarathi Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082124 60461",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Udayaravi Rd, E&F Block, Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempu Nagar 1st Stage",
+    "emergencyContact": "082124 60461",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Sarathi+Dental+Clinic/@12.2868617,76.6247468,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654c64934901:0x20d5fb5d5107e5a2!8m2!3d12.2868617!4d76.6247468!16s%2Fg%2F1tdl94r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarathi+Dental+Clinic/@12.2868617,76.6247468,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654c64934901:0x20d5fb5d5107e5a2!8m2!3d12.2868617!4d76.6247468!16s%2Fg%2F1tdl94r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2868617,
+      "lng": 76.6247468,
+      "label": "Sarathi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "savad-s-i-dentist-dental-clinic-mysore-mysuru",
+    "name": "Savad's i dentist dental clinic mysore",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Savad's i dentist dental clinic mysore is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098864 66365",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayalakshmipuram, Bannimantap A Layout, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "Bannimantap",
+    "emergencyContact": "098864 66365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Savad's+i+dentist+dental+clinic+mysore/@12.3412464,76.6518982,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71a53d1f42c1:0xaf95ede1d9218bcd!8m2!3d12.3412464!4d76.6518982!16s%2Fg%2F11s633sgp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Savad's+i+dentist+dental+clinic+mysore/@12.3412464,76.6518982,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71a53d1f42c1:0xaf95ede1d9218bcd!8m2!3d12.3412464!4d76.6518982!16s%2Fg%2F11s633sgp8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3412464,
+      "lng": 76.6518982,
+      "label": "Savad's i dentist dental clinic mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "secure-hospital-mysuru-mysuru",
+    "name": "SECURE Hospital, Mysuru",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SECURE Hospital, Mysuru is a prominent hospital in Mysuru, known for structured tertiary care across Urologist Surgery In Mysore. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082142 76999",
+    "alternatePhone": "",
+    "website": "https://www.securehospital.in/branches/secure-hospital-mysore/",
+    "address": "1659, NS Road, NR Mohalla, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "NR Mohalla",
+    "emergencyContact": "082142 76999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SECURE+Hospital,+Mysuru/@12.2952542,76.6482267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003ea1587dd:0xee02922cf4f5628b!8m2!3d12.2952542!4d76.6482267!16s%2Fg%2F1tj7zdtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SECURE+Hospital,+Mysuru/@12.2952542,76.6482267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003ea1587dd:0xee02922cf4f5628b!8m2!3d12.2952542!4d76.6482267!16s%2Fg%2F1tj7zdtn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2952542,
+      "lng": 76.6482267,
+      "label": "SECURE Hospital, Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shakti-hill-view-hospital-mysuru",
+    "name": "Shakti Hill View Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Shakti Hill View Hospital offers coordinated hospital care with major focus on Spine Surgery In Mysore. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090352 25363",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Circle, 6/A, T Narasipura Main Road, Lalitha Mahal Nagara (Alanahalli, Mysuru, Karnataka 570028",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570028",
+    "locality": "Lalitha Mahal Nagara (Alanahalli",
+    "landmark": "T Narasipura Main Road",
+    "emergencyContact": "090352 25363",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shakti+Hill+View+Hospital/@12.3015378,76.6933069,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71d17fdb7295:0x17ed2ab89f5c0b95!8m2!3d12.3015378!4d76.6933069!16s%2Fg%2F11cn3pq25m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shakti+Hill+View+Hospital/@12.3015378,76.6933069,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71d17fdb7295:0x17ed2ab89f5c0b95!8m2!3d12.3015378!4d76.6933069!16s%2Fg%2F11cn3pq25m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3015378,
+      "lng": 76.6933069,
+      "label": "Shakti Hill View Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanbhog-s-transcendental-smile-designing-mysuru",
+    "name": "Shanbhog' s TRANSCENDENTAL SMILE DESIGNING",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, Shanbhog' s TRANSCENDENTAL SMILE DESIGNING delivers integrated care across Oral Surgery In Mysore. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099451 12080",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Besides Pizza Hut, Temple Rd, opposite Loyal World Complex, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "opposite Loyal World Complex, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "emergencyContact": "099451 12080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shanbhog'+s+TRANSCENDENTAL+SMILE+DESIGNING/@12.3232187,76.630486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a854d0a2d1f:0xaa2230b3732b96c8!8m2!3d12.3232187!4d76.630486!16s%2Fg%2F1262ryh1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanbhog'+s+TRANSCENDENTAL+SMILE+DESIGNING/@12.3232187,76.630486,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a854d0a2d1f:0xaa2230b3732b96c8!8m2!3d12.3232187!4d76.630486!16s%2Fg%2F1262ryh1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3232187,
+      "lng": 76.630486,
+      "label": "Shanbhog' s TRANSCENDENTAL SMILE DESIGNING",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharada-clinic-mysuru",
+    "name": "Sharada Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sharada Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Gynecologist Surgery In Mysore. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096323 25435",
+    "alternatePhone": "",
+    "website": "https://ashealthcaremysuru.com/#",
+    "address": "New Kantharaj Urs Rd, beside BSNL Office, near Nanjumallige Circle, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "near Nanjumallige Circle, Lakshmipuram, Mysuru, Karnataka 570004",
+    "emergencyContact": "096323 25435",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sharada+Clinic/@12.2943965,76.6479081,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003cfa2a6a1:0xf032e5c1d43c3044!8m2!3d12.2943965!4d76.6479081!16s%2Fg%2F1tjrnf0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharada+Clinic/@12.2943965,76.6479081,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003cfa2a6a1:0xf032e5c1d43c3044!8m2!3d12.2943965!4d76.6479081!16s%2Fg%2F1tjrnf0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2943965,
+      "lng": 76.6479081,
+      "label": "Sharada Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharada-heart-care-clinic-mysuru",
+    "name": "Sharada heart care clinic ಶಾರದಾ ಹಾರ್ಟ್ ಕೇರ್ ಕ್ಲಿನಿಕ್",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Sharada heart care clinic ಶಾರದಾ ಹಾರ್ಟ್ ಕೇರ್ ಕ್ಲಿನಿಕ್ for its strength in Heart Surgery In Mysore and Cardiac Care. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097419 35553",
+    "alternatePhone": "",
+    "website": "https://sharadaheartcare.com/",
+    "address": "8J2G+49X, Vishwamanava Double Road, Kuvempunagara North, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "Kuvempunagara North",
+    "emergencyContact": "097419 35553",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sharada+heart+care+clinic+%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B2%A6%E0%B2%BE+%E0%B2%B9%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%9F%E0%B3%8D+%E0%B2%95%E0%B3%87%E0%B2%B0%E0%B3%8D+%E0%B2%95%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%A8%E0%B2%BF%E0%B2%95%E0%B3%8D/@12.3003523,76.6259976,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b2321a3c3c1:0xa951bf566220e61b!8m2!3d12.3003523!4d76.6259976!16s%2Fg%2F11lfcn32hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharada+heart+care+clinic+%E0%B2%B6%E0%B2%BE%E0%B2%B0%E0%B2%A6%E0%B2%BE+%E0%B2%B9%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%9F%E0%B3%8D+%E0%B2%95%E0%B3%87%E0%B2%B0%E0%B3%8D+%E0%B2%95%E0%B3%8D%E0%B2%B2%E0%B2%BF%E0%B2%A8%E0%B2%BF%E0%B2%95%E0%B3%8D/@12.3003523,76.6259976,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b2321a3c3c1:0xa951bf566220e61b!8m2!3d12.3003523!4d76.6259976!16s%2Fg%2F11lfcn32hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3003523,
+      "lng": 76.6259976,
+      "label": "Sharada heart care clinic ಶಾರದಾ ಹಾರ್ಟ್ ಕೇರ್ ಕ್ಲಿನಿಕ್",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharada-surgery-and-cryo-surgery-centre-mysuru",
+    "name": "Sharada Surgery & Cryo Surgery Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Sharada Surgery & Cryo Surgery Centre brings together specialists for Kidney Transplant Surgery In Mysore. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095915 22830",
+    "alternatePhone": "",
+    "website": "https://pilesfissure.in/",
+    "address": "850, General Thimmaiah Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "Vijayanagar 1st Stage",
+    "emergencyContact": "095915 22830",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sharada+Surgery+%26+Cryo+Surgery+Centre/@12.3253904,76.6130016,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7008c7718177:0xcad743aa8c128240!8m2!3d12.3253904!4d76.6130016!16s%2Fg%2F1tjhw2yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharada+Surgery+%26+Cryo+Surgery+Centre/@12.3253904,76.6130016,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7008c7718177:0xcad743aa8c128240!8m2!3d12.3253904!4d76.6130016!16s%2Fg%2F1tjhw2yc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3253904,
+      "lng": 76.6130016,
+      "label": "Sharada Surgery & Cryo Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-ortho-and-skin-care-clinic-basavanahalli",
+    "name": "Shree Ortho and Skin Care Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Basavanahalli, Shree Ortho and Skin Care Clinic brings together specialists for Orthopedic Surgery In Mysore and Orthopaedics. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093803 92725",
+    "alternatePhone": "",
+    "website": "https://shreeorthoandskincare.com/",
+    "address": "9910, 60 Feet Rd, 2nd Phase, Vijayanagar 4th Stage, Mysuru, Basavanahalli, Karnataka 570032",
+    "city": "Basavanahalli",
+    "state": "Karnataka",
+    "pincode": "570032",
+    "locality": "Mysuru",
+    "landmark": "2nd Phase",
+    "emergencyContact": "093803 92725",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Ortho+and+Skin+Care+Clinic/@12.322039,76.5909459,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b001fb28649:0x31aee6387f7b5d3f!8m2!3d12.322039!4d76.5909459!16s%2Fg%2F11xvjc20r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Ortho+and+Skin+Care+Clinic/@12.322039,76.5909459,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b001fb28649:0x31aee6387f7b5d3f!8m2!3d12.322039!4d76.5909459!16s%2Fg%2F11xvjc20r8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.322039,
+      "lng": 76.5909459,
+      "label": "Shree Ortho and Skin Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-balaji-dental-clinic-mysuru",
+    "name": "Shri Balaji Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Shri Balaji Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Mysore. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080950 34241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HD complex, opp. Shishkarani School, Manchegowdana koppalu, Mahadeshwara Badavane Layout, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Mahadeshwara Badavane Layout",
+    "landmark": "Manchegowdana koppalu",
+    "emergencyContact": "080950 34241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Balaji+Dental+Clinic/@12.3445664,76.6153607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb1bf770ea7c695:0x244cc7f0db258f74!8m2!3d12.3445664!4d76.6153607!16s%2Fg%2F1tr9lwpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Balaji+Dental+Clinic/@12.3445664,76.6153607,17z/data=!3m1!4b1!4m6!3m5!1s0x3bb1bf770ea7c695:0x244cc7f0db258f74!8m2!3d12.3445664!4d76.6153607!16s%2Fg%2F1tr9lwpy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3445664,
+      "lng": 76.6153607,
+      "label": "Shri Balaji Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shristi-kidney-center-mysuru",
+    "name": "shristi Kidney center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, shristi Kidney center brings together specialists for Kidney Transplant Surgery In Mysore and Kidney Care. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "826, New Kantharaj Urs Rd, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Kuvempu Nagara",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/shristi+Kidney+center/@12.2964081,76.6278735,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab1918da4a9:0x5b94a3f152674698!8m2!3d12.2964081!4d76.6278735!16s%2Fg%2F1tfkd0gb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/shristi+Kidney+center/@12.2964081,76.6278735,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab1918da4a9:0x5b94a3f152674698!8m2!3d12.2964081!4d76.6278735!16s%2Fg%2F1tfkd0gb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2964081,
+      "lng": 76.6278735,
+      "label": "shristi Kidney center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubhodaya-hospital-mysuru",
+    "name": "Shubhodaya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Shubhodaya Hospital for its strength in Orthopedic Surgery In Mysore. With public-facing highlights like Google rating 3.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080505 70066",
+    "alternatePhone": "",
+    "website": "http://shubhodayahospital.com/",
+    "address": "8M7R+4VJ, Dr Rajkumar Rd, near Teresian college, Teachers Layout 1st Stage, Yaraganahalli, Mysuru, Karnataka 570029",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570029",
+    "locality": "Yaraganahalli",
+    "landmark": "near Teresian college, Teachers Layout 1st Stage, Yaraganahalli, Mysuru, Karnataka 570029",
+    "emergencyContact": "080505 70066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shubhodaya+Hospital/@12.3133411,76.6921668,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b59337db37:0xf8e08ba65a9d4227!8m2!3d12.3133411!4d76.6921668!16s%2Fg%2F1q5blyc62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shubhodaya+Hospital/@12.3133411,76.6921668,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b59337db37:0xf8e08ba65a9d4227!8m2!3d12.3133411!4d76.6921668!16s%2Fg%2F1q5blyc62?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3133411,
+      "lng": 76.6921668,
+      "label": "Shubhodaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sigma-hospital-mysuru",
+    "name": "Sigma Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Sigma Hospital offers coordinated hospital care with major focus on Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082142 66661",
+    "alternatePhone": "",
+    "website": "http://www.sigmahospital.in/",
+    "address": "P8/D, opp. Kamakshi Hospital Road, Saraswathipuram, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Saraswathipuram",
+    "landmark": "Saraswathipuram",
+    "emergencyContact": "082142 66661",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sigma+Hospital/data=!4m7!3m6!1s0x3baf7ab0ad9ea1bf:0x6c663b3ffd42f395!8m2!3d12.3002963!4d76.6240155!16s%2Fg%2F11b6pzkn0f!19sChIJv6GerbB6rzsRlfNC_T87Zmw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sigma+Hospital/data=!4m7!3m6!1s0x3baf7ab0ad9ea1bf:0x6c663b3ffd42f395!8m2!3d12.3002963!4d76.6240155!16s%2Fg%2F11b6pzkn0f!19sChIJv6GerbB6rzsRlfNC_T87Zmw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3002963,
+      "lng": 76.6240155,
+      "label": "Sigma Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "signature-smile-dental-care-mysuru",
+    "name": "signature smile dental care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose signature smile dental care for its strength in Oral Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096639 51880",
+    "alternatePhone": "",
+    "website": "https://signaturesmilemysuru.org/",
+    "address": "610/C, Panchamantra Rd, Jayanagar, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Jayanagar",
+    "emergencyContact": "096639 51880",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/signature+smile+dental+care/@12.2941361,76.6284712,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bd28e25caeb:0x1464dcf651e68f43!8m2!3d12.2941361!4d76.6284712!16s%2Fg%2F11s75cxy4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/signature+smile+dental+care/@12.2941361,76.6284712,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7bd28e25caeb:0x1464dcf651e68f43!8m2!3d12.2941361!4d76.6284712!16s%2Fg%2F11s75cxy4k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2941361,
+      "lng": 76.6284712,
+      "label": "signature smile dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "simha-heart-foundation-mysuru",
+    "name": "Simha Heart Foundation",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Simha Heart Foundation is a prominent heart hospital in Mysuru, known for structured tertiary care across Heart Surgery In Mysore and Cardiac Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082123 30550",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 933, Hemaganga, 1st Main Rd, NR Mohalla, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "1st Main Rd",
+    "emergencyContact": "082123 30550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mysore",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Simha+Heart+Foundation/@12.2965835,76.6467223,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7006ac9e800b:0x81ac5b7b7f134abc!8m2!3d12.2965835!4d76.6467223!16s%2Fg%2F1td6l2vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Simha+Heart+Foundation/@12.2965835,76.6467223,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7006ac9e800b:0x81ac5b7b7f134abc!8m2!3d12.2965835!4d76.6467223!16s%2Fg%2F1td6l2vd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2965835,
+      "lng": 76.6467223,
+      "label": "Simha Heart Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "siri-caree-ivf-centre-mysuru",
+    "name": "SIRI CAREE IVF CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, SIRI CAREE IVF CENTRE offers coordinated hospital care with major focus on IVF In Mysore and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082124 44451",
+    "alternatePhone": "",
+    "website": "http://www.siricaree.com/",
+    "address": "GOPALA GOWDA HOSPITAL PREMISES 3RD FLOOR NAZARBAD, Mysuru, Karnataka 570010",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570010",
+    "locality": "GOPALA GOWDA HOSPITAL PREMISES 3RD FLOOR NAZARBAD",
+    "landmark": "Karnataka 570010",
+    "emergencyContact": "082124 44451",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SIRI+CAREE+IVF+CENTRE/@12.3084673,76.6679188,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7030fffffff9:0x562b9f668d517f2a!8m2!3d12.3084673!4d76.6679188!16s%2Fg%2F11c51wy9kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SIRI+CAREE+IVF+CENTRE/@12.3084673,76.6679188,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7030fffffff9:0x562b9f668d517f2a!8m2!3d12.3084673!4d76.6679188!16s%2Fg%2F11c51wy9kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3084673,
+      "lng": 76.6679188,
+      "label": "SIRI CAREE IVF CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-infinity-clinic-mysuru",
+    "name": "SKIN INFINITY CLINIC",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SKIN INFINITY CLINIC is a prominent skin care clinic in Mysuru, known for structured tertiary care across Cosmetic Surgery In Mysore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097397 19019",
+    "alternatePhone": "",
+    "website": "http://skininfinity21.in/",
+    "address": "1ST FLOOR, 140, 1st block kalidasa road jaylakshmipuram mysore pin-570012, above OLA ELECTRIC SHOWROOM, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "above OLA ELECTRIC SHOWROOM",
+    "landmark": "1st block kalidasa road jaylakshmipuram mysore pin-570012",
+    "emergencyContact": "097397 19019",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SKIN+INFINITY+CLINIC/@12.3256147,76.6208069,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b98f6cf6e01:0x1c118818e35e9cb1!8m2!3d12.3256147!4d76.6208069!16s%2Fg%2F11ty5n2kmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SKIN+INFINITY+CLINIC/@12.3256147,76.6208069,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b98f6cf6e01:0x1c118818e35e9cb1!8m2!3d12.3256147!4d76.6208069!16s%2Fg%2F11ty5n2kmy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3256147,
+      "lng": 76.6208069,
+      "label": "SKIN INFINITY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sles-hospital-mysuru",
+    "name": "SLES Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Mysuru, SLES Hospital delivers integrated care across Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082142 88849",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Cross St, N R Mohalla, Rajendra Nagar, Mysuru, Karnataka 570007",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570007",
+    "locality": "Rajendra Nagar",
+    "landmark": "Rajendra Nagar",
+    "emergencyContact": "082142 88849",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/SLES+Hospital/@12.3286661,76.6631126,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706772561017:0xaf6c8fde27bce522!8m2!3d12.3286661!4d76.6631126!16s%2Fg%2F11c45nk7wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SLES+Hospital/@12.3286661,76.6631126,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf706772561017:0xaf6c8fde27bce522!8m2!3d12.3286661!4d76.6631126!16s%2Fg%2F11c45nk7wj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3286661,
+      "lng": 76.6631126,
+      "label": "SLES Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-n-sparkle-dental-clinic-mysuru",
+    "name": "Smile 'N' Sparkle Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile 'N' Sparkle Dental Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore and Dentist. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082123 40636",
+    "alternatePhone": "",
+    "website": "",
+    "address": "S No 30,MIG, New Kantharaj Urs Rd, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "New Kantharaj Urs Rd",
+    "emergencyContact": "082123 40636",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+'N'+Sparkle+Dental+Clinic/@12.296141,76.628117,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab18d05d88b:0x68ced89303886ec5!8m2!3d12.296141!4d76.628117!16s%2Fg%2F1ptwr5t7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+'N'+Sparkle+Dental+Clinic/@12.296141,76.628117,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab18d05d88b:0x68ced89303886ec5!8m2!3d12.296141!4d76.628117!16s%2Fg%2F1ptwr5t7_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.296141,
+      "lng": 76.628117,
+      "label": "Smile 'N' Sparkle Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-care-mysuru",
+    "name": "Smile Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Dental Care has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098451 62272",
+    "alternatePhone": "",
+    "website": "http://smiledentalcaremysuru.com//",
+    "address": "Ground floor, Sriranga complex, No 42/A, Vishwamanava Double Road, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "No 42/A",
+    "emergencyContact": "098451 62272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Dental+Care/@12.2987881,76.625767,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab0ef932dfb:0xa27e8ad5b4e66d95!8m2!3d12.2987881!4d76.625767!16s%2Fg%2F1thd53vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Dental+Care/@12.2987881,76.625767,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab0ef932dfb:0xa27e8ad5b4e66d95!8m2!3d12.2987881!4d76.625767!16s%2Fg%2F1thd53vb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2987881,
+      "lng": 76.625767,
+      "label": "Smile Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-maker-dental-clinic-mysuru",
+    "name": "Smile Maker Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mysuru, Smile Maker Dental Clinic delivers integrated care across Oral Surgery In Mysore. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098451 06626",
+    "alternatePhone": "",
+    "website": "http://smilemaker.in/",
+    "address": "Kuvempu Nagar 1st Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "Mysuru",
+    "emergencyContact": "098451 06626",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Maker+Dental+Clinic/@12.2857713,76.6255845,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654c41082a77:0xce16b1a03440582c!8m2!3d12.2857713!4d76.6255845!16s%2Fg%2F1tgnq2qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Maker+Dental+Clinic/@12.2857713,76.6255845,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf654c41082a77:0xce16b1a03440582c!8m2!3d12.2857713!4d76.6255845!16s%2Fg%2F1tgnq2qr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2857713,
+      "lng": 76.6255845,
+      "label": "Smile Maker Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-vision-dental-care-hutagalli",
+    "name": "SMILE VISION DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hutagalli, SMILE VISION DENTAL CARE brings together specialists for Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088615 46210",
+    "alternatePhone": "",
+    "website": "http://www.smilevisiondentalcare.com/",
+    "address": "A1 Block, radiant hospital, 569, 4th Main Rd, near clear medi, Vijay Nagar 3rd Stage, Vijayanagar, Hutagalli, Karnataka 570017",
+    "city": "Hutagalli",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "near clear medi, Vijay Nagar 3rd Stage, Vijayanagar, Hutagalli, Karnataka 570017",
+    "emergencyContact": "088615 46210",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SMILE+VISION+DENTAL+CARE/@12.3211983,76.608101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b6a4f44971f:0x6dd14f912c747f8b!8m2!3d12.3211983!4d76.608101!16s%2Fg%2F11h0vsrhb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SMILE+VISION+DENTAL+CARE/@12.3211983,76.608101,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b6a4f44971f:0x6dd14f912c747f8b!8m2!3d12.3211983!4d76.608101!16s%2Fg%2F11h0vsrhb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3211983,
+      "lng": 76.608101,
+      "label": "SMILE VISION DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smilesure-dental-mysuru-mysuru",
+    "name": "Smilesure Dental (Mysuru)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Smilesure Dental (Mysuru) brings together specialists for Oral Surgery In Mysore. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081476 97989",
+    "alternatePhone": "",
+    "website": "https://smilesuredental.com/",
+    "address": "Ground Floor, 44, 5th Main Rd, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "5th Main Rd",
+    "emergencyContact": "081476 97989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smilesure+Dental+(Mysuru)/@12.3218852,76.6216668,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b674c506503:0x10aaef5cb956ca75!8m2!3d12.3218852!4d76.6216668!16s%2Fg%2F11x1n485_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smilesure+Dental+(Mysuru)/@12.3218852,76.6216668,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b674c506503:0x10aaef5cb956ca75!8m2!3d12.3218852!4d76.6216668!16s%2Fg%2F11x1n485_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3218852,
+      "lng": 76.6216668,
+      "label": "Smilesure Dental (Mysuru)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spandana-fertility-and-women-wellness-centre-best-ivf-gynaecology-laparoscopy-center-in-mysuru-mysuru",
+    "name": "Spandana Fertility and Women Wellness Centre - Best IVF | Gynaecology | Laparoscopy Center in Mysuru",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mysuru, Spandana Fertility and Women Wellness Centre - Best IVF | Gynaecology | Laparoscopy Center in Mysuru delivers integrated care across IVF In Mysore, Women and Child Care, and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099865 44114",
+    "alternatePhone": "",
+    "website": "https://spandanaivf.in/",
+    "address": "3954, Kanakadasa Nagar, Dattagalli 3rd Stage, Mysuru, Karnataka 570033",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570033",
+    "locality": "Dattagalli 3rd Stage",
+    "landmark": "Dattagalli 3rd Stage",
+    "emergencyContact": "099865 44114",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Spandana+Fertility+and+Women+Wellness+Centre+-+Best+IVF+%7C+Gynaecology+%7C+Laparoscopy+Center+in+Mysuru/@12.2779746,76.604293,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65da35400b01:0x48a50d230da9c6d9!8m2!3d12.2779746!4d76.604293!16s%2Fg%2F11twh8wrkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spandana+Fertility+and+Women+Wellness+Centre+-+Best+IVF+%7C+Gynaecology+%7C+Laparoscopy+Center+in+Mysuru/@12.2779746,76.604293,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf65da35400b01:0x48a50d230da9c6d9!8m2!3d12.2779746!4d76.604293!16s%2Fg%2F11twh8wrkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2779746,
+      "lng": 76.604293,
+      "label": "Spandana Fertility and Women Wellness Centre - Best IVF | Gynaecology | Laparoscopy Center in Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spandana-hospital-mysuru",
+    "name": "Spandana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Spandana Hospital brings together specialists for Spine Surgery In Mysore. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Motikhana Building, D-101/2, Sayyaji Rao Rd, Devaraja Mohalla, Shivarampet, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Shivarampet",
+    "landmark": "Sayyaji Rao Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Spandana+Hospital/@12.3059555,76.6522685,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf716062cb780d:0x3919034f8a2e613b!8m2!3d12.3059555!4d76.6522685!16s%2Fg%2F11mgp8h1g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spandana+Hospital/@12.3059555,76.6522685,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf716062cb780d:0x3919034f8a2e613b!8m2!3d12.3059555!4d76.6522685!16s%2Fg%2F11mgp8h1g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3059555,
+      "lng": 76.6522685,
+      "label": "Spandana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spine-and-ortho-care-mysuru",
+    "name": "Spine and Ortho care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Spine and Ortho care is a prominent hospital in Mysuru, known for structured tertiary care across Spine Surgery In Mysore, Spine Care, and Orthopaedics. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097418 77445",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1106, Paduvana Road 1st Cross T K Layout, TK Layout 4th Stage, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "TK Layout 4th Stage",
+    "emergencyContact": "097418 77445",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Spine Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Spine+and+Ortho+care/data=!4m7!3m6!1s0x3baf7b8ad4f551b5:0x8fd99ec31031daea!8m2!3d12.2951087!4d76.6175383!16s%2Fg%2F11fmzsl7f8!19sChIJtVH11Ip7rzsR6toxEMOe2Y8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spine+and+Ortho+care/data=!4m7!3m6!1s0x3baf7b8ad4f551b5:0x8fd99ec31031daea!8m2!3d12.2951087!4d76.6175383!16s%2Fg%2F11fmzsl7f8!19sChIJtVH11Ip7rzsR6toxEMOe2Y8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2951087,
+      "lng": 76.6175383,
+      "label": "Spine and Ortho care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sr-dental-clinic-mysuru",
+    "name": "SR DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, SR DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Mysore. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088849 79134",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2, Mahadevapura Main Rd, opp. Indian Bank, KEB Colony, Udayagiri, Mysuru, Karnataka 570019",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570019",
+    "locality": "Udayagiri",
+    "landmark": "opp. Indian Bank",
+    "emergencyContact": "088849 79134",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SR+DENTAL+CLINIC/@12.3254586,76.6779528,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71003c2ea8c5:0xbb4d7b41a61fd2d0!8m2!3d12.3254586!4d76.6779528!16s%2Fg%2F11ms4gqgrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SR+DENTAL+CLINIC/@12.3254586,76.6779528,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71003c2ea8c5:0xbb4d7b41a61fd2d0!8m2!3d12.3254586!4d76.6779528!16s%2Fg%2F11ms4gqgrp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3254586,
+      "lng": 76.6779528,
+      "label": "SR DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-dental-clinic-mysuru",
+    "name": "Sri Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Dental Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099456 85876",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No 241, Sri complex, 570016, SBM Main Rd, near water tank, Manchegowdana koppalu, Vijay Nagar 2nd Stage, Hebbal 2nd Stage, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal 2nd Stage",
+    "landmark": "near water tank, Manchegowdana koppalu, Vijay Nagar 2nd Stage, Hebbal 2nd Stage, Mysuru, Karnataka 570017",
+    "emergencyContact": "099456 85876",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Dental+Clinic/@12.3398648,76.6152442,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7071bfc8118f:0x6559e930aa67a2ea!8m2!3d12.3398648!4d76.6152442!16s%2Fg%2F1v27sykm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Dental+Clinic/@12.3398648,76.6152442,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7071bfc8118f:0x6559e930aa67a2ea!8m2!3d12.3398648!4d76.6152442!16s%2Fg%2F1v27sykm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3398648,
+      "lng": 76.6152442,
+      "label": "Sri Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-jayadeva-institute-of-cardiovascular-sciences-and-research-mysuru",
+    "name": "Sri Jayadeva Institute of Cardiovascular Sciences and Research",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Sri Jayadeva Institute of Cardiovascular Sciences and Research offers coordinated hospital care with major focus on Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080229 77302",
+    "alternatePhone": "",
+    "website": "http://www.jayadevacardiology.com/index.html",
+    "address": "8JVH+3W6, Kumbarakoppal, Vijay Nagar, Gokulam 3rd Stage, Mahadeshwara Badavane Layout, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Mahadeshwara Badavane Layout",
+    "landmark": "Vijay Nagar",
+    "emergencyContact": "080229 77302",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Jayadeva+Institute+of+Cardiovascular+Sciences+and+Research/@12.3426703,76.6297696,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700d2479b3c1:0x5e6908ffddaa10cc!8m2!3d12.3426703!4d76.6297696!16s%2Fg%2F11cpf56glp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Jayadeva+Institute+of+Cardiovascular+Sciences+and+Research/@12.3426703,76.6297696,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700d2479b3c1:0x5e6908ffddaa10cc!8m2!3d12.3426703!4d76.6297696!16s%2Fg%2F11cpf56glp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3426703,
+      "lng": 76.6297696,
+      "label": "Sri Jayadeva Institute of Cardiovascular Sciences and Research",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-jayadeva-medicover-diagnostic-centre-mysuru",
+    "name": "SRI JAYADEVA MEDICOVER DIAGNOSTIC CENTRE",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRI JAYADEVA MEDICOVER DIAGNOSTIC CENTRE has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Spine Surgery In Mysore and Medical Diagnostic Imaging Center. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SRI JAYADEVA INSTITUTE OF CARDIO VASCULAR SCIENCES AND RESEARCH, KRS Rd, Kumbarakoppal, Gokulam, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Gokulam",
+    "landmark": "Kumbarakoppal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mysore",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/SRI+JAYADEVA+MEDICOVER+DIAGNOSTIC+CENTRE/@12.3428439,76.6287963,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a1a25f15359:0xe5f6f502069d0f39!8m2!3d12.3428439!4d76.6287963!16s%2Fg%2F11frp9htgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRI+JAYADEVA+MEDICOVER+DIAGNOSTIC+CENTRE/@12.3428439,76.6287963,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a1a25f15359:0xe5f6f502069d0f39!8m2!3d12.3428439!4d76.6287963!16s%2Fg%2F11frp9htgn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3428439,
+      "lng": 76.6287963,
+      "label": "SRI JAYADEVA MEDICOVER DIAGNOSTIC CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-ranga-dental-care-mysuru",
+    "name": "Sri Ranga Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Ranga Dental Care is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082123 03372",
+    "alternatePhone": "",
+    "website": "",
+    "address": "369, 1st FLOOR Vijayanagar Railway Layout Main Road, Road, near Petrol Bunk And union Bank, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "near Petrol Bunk And union Bank",
+    "landmark": "near Petrol Bunk And union Bank, Mysuru, Karnataka 570017",
+    "emergencyContact": "082123 03372",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Ranga+Dental+Care/@12.3402877,76.6170046,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a67f4efc823:0x41a838f815cde091!8m2!3d12.3402877!4d76.6170046!16s%2Fg%2F1vxz81jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Ranga+Dental+Care/@12.3402877,76.6170046,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a67f4efc823:0x41a838f815cde091!8m2!3d12.3402877!4d76.6170046!16s%2Fg%2F1vxz81jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3402877,
+      "lng": 76.6170046,
+      "label": "Sri Ranga Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-dental-clinic-mysuru",
+    "name": "Srinivasa Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Srinivasa Dental Clinic has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082125 46136",
+    "alternatePhone": "",
+    "website": "",
+    "address": "851, Panchamantra Rd, near Gnanaganga School, E&F Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570023",
+    "locality": "Kuvempu Nagara",
+    "landmark": "near Gnanaganga School, E&F Block, Kuvempu Nagara, Mysuru, Karnataka 570023",
+    "emergencyContact": "082125 46136",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Srinivasa+Dental+Clinic/@12.290877,76.627267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab2db332f51:0xec233a5b5a7d3f97!8m2!3d12.290877!4d76.627267!16s%2Fg%2F1tjff8r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Dental+Clinic/@12.290877,76.627267,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab2db332f51:0xec233a5b5a7d3f97!8m2!3d12.290877!4d76.627267!16s%2Fg%2F1tjff8r9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.290877,
+      "lng": 76.627267,
+      "label": "Srinivasa Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srishti-fertility-hospital-mysuru",
+    "name": "Srishti Fertility Hospital",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Srishti Fertility Hospital has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering IVF In Mysore and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077601 05623",
+    "alternatePhone": "",
+    "website": "https://srishtifertilityhospital.com/",
+    "address": "p, 2nd floor, No 555, New Kantharaj Urs Rd, near Kavitha Bakery, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "near Kavitha Bakery, Kuvempunagara North, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "emergencyContact": "077601 05623",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mysore",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Srishti+Fertility+Hospital/@12.2960135,76.6219076,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b1c47f31e29:0x5a2cbc97ab6cbeae!8m2!3d12.2960135!4d76.6219076!16s%2Fg%2F11xtrnn2by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srishti+Fertility+Hospital/@12.2960135,76.6219076,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b1c47f31e29:0x5a2cbc97ab6cbeae!8m2!3d12.2960135!4d76.6219076!16s%2Fg%2F11xtrnn2by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2960135,
+      "lng": 76.6219076,
+      "label": "Srishti Fertility Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "st-joseph-s-hospital-mysuru-mysuru",
+    "name": "St. Joseph's Hospital Mysuru",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, St. Joseph's Hospital Mysuru brings together specialists for Orthopedic Surgery In Mysore. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082123 31066",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8MR4+C55, O2, Bangalore - Mysore Rd, Bannimantap, Mysuru, Karnataka 570015",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570015",
+    "locality": "Bannimantap",
+    "landmark": "Bangalore - Mysore Rd",
+    "emergencyContact": "082123 31066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/St.+Joseph's+Hospital+Mysuru/@12.3412887,76.6556377,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7088d61a20b3:0x31e051b4466fc52f!8m2!3d12.3412887!4d76.6556377!16s%2Fg%2F1v76y2cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/St.+Joseph's+Hospital+Mysuru/@12.3412887,76.6556377,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7088d61a20b3:0x31e051b4466fc52f!8m2!3d12.3412887!4d76.6556377!16s%2Fg%2F1v76y2cb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3412887,
+      "lng": 76.6556377,
+      "label": "St. Joseph's Hospital Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sumukha-dental-clinic-mysuru",
+    "name": "Sumukha Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Sumukha Dental Clinic for its strength in Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NO 19 First Floor 5th Cross, Sahukar Chennaiah Road, Janatha Nagar, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Janatha Nagar",
+    "landmark": "Janatha Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sumukha+Dental+Clinic/@12.3023885,76.614138,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b94d76b7db5:0x5fb96dd36c806efe!8m2!3d12.3023885!4d76.614138!16s%2Fg%2F11y10zctkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sumukha+Dental+Clinic/@12.3023885,76.614138,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b94d76b7db5:0x5fb96dd36c806efe!8m2!3d12.3023885!4d76.614138!16s%2Fg%2F11y10zctkr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3023885,
+      "lng": 76.614138,
+      "label": "Sumukha Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sumukha-skin-care-mysuru",
+    "name": "SUMUKHA SKIN CARE",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose SUMUKHA SKIN CARE for its strength in Cosmetic Surgery In Mysore. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099004 40724",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr S M Purushothama, Above Raja Bangle Store, Dhanvantri Road Dhanvantri Road Next to Devaraja market building, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Dhanvantri Road Dhanvantri Road Next to Devaraja market building",
+    "landmark": "Dhanvantri Road Dhanvantri Road Next to Devaraja market building",
+    "emergencyContact": "099004 40724",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/SUMUKHA+SKIN+CARE/@12.311985,76.651311,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c8806764f:0x56ebffc29727475d!8m2!3d12.311985!4d76.651311!16s%2Fg%2F1trvjwg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SUMUKHA+SKIN+CARE/@12.311985,76.651311,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf700c8806764f:0x56ebffc29727475d!8m2!3d12.311985!4d76.651311!16s%2Fg%2F1trvjwg2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.311985,
+      "lng": 76.651311,
+      "label": "SUMUKHA SKIN CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suneetha-women-and-children-hospital-mysuru",
+    "name": "Suneetha Women & Children Hospital",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Suneetha Women & Children Hospital has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Gynecologist Surgery In Mysore, Maternity Centre, and Women and Child Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082145 35121",
+    "alternatePhone": "",
+    "website": "",
+    "address": "27/1 A, N 1/6, Theobald Rd, Nazarbad, Mysuru, Karnataka 570010",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570010",
+    "locality": "Nazarbad",
+    "landmark": "Theobald Rd",
+    "emergencyContact": "082145 35121",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore",
+      "Maternity Centre",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Suneetha+Women+%26+Children+Hospital/@12.309623,76.661979,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b8e3fd1e65:0x93990e932d0a2d40!8m2!3d12.309623!4d76.661979!16s%2Fg%2F11y6j0k07w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suneetha+Women+%26+Children+Hospital/@12.309623,76.661979,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf71b8e3fd1e65:0x93990e932d0a2d40!8m2!3d12.309623!4d76.661979!16s%2Fg%2F11y6j0k07w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.309623,
+      "lng": 76.661979,
+      "label": "Suneetha Women & Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "supritha-skin-and-cosmetic-clinic-mysuru",
+    "name": "Supritha Skin And Cosmetic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Supritha Skin And Cosmetic Clinic offers coordinated hospital care with major focus on Plastic Surgery In Mysore. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vishwamanava Double Road, Kuvempunagara North, Saraswathipuram, Mysuru, Karnataka 570020",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570020",
+    "locality": "Saraswathipuram",
+    "landmark": "Saraswathipuram",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Supritha+Skin+And+Cosmetic+Clinic/@12.2997542,76.6264262,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab0f33c11c3:0x690a9212bc08bf53!8m2!3d12.2997542!4d76.6264262!16s%2Fg%2F1pv0_9rfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Supritha+Skin+And+Cosmetic+Clinic/@12.2997542,76.6264262,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ab0f33c11c3:0x690a9212bc08bf53!8m2!3d12.2997542!4d76.6264262!16s%2Fg%2F1pv0_9rfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2997542,
+      "lng": 76.6264262,
+      "label": "Supritha Skin And Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "supriya-hospital-hutagalli",
+    "name": "SUPRIYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SUPRIYA HOSPITAL has built a strong reputation in Hutagalli for multidisciplinary treatment pathways covering Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082142 47026",
+    "alternatePhone": "",
+    "website": "http://www.supriyahospital.in/",
+    "address": "No. 728, New Street, near Fly Over, Hinkal, Hutagalli, Karnataka 570017",
+    "city": "Hutagalli",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Hinkal",
+    "landmark": "near Fly Over, Hinkal, Hutagalli, Karnataka 570017",
+    "emergencyContact": "082142 47026",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SUPRIYA+HOSPITAL/@12.3337066,76.5995045,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aff637479ab:0xb19eb49849f8fabf!8m2!3d12.3337066!4d76.5995045!16s%2Fg%2F1td1bw96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SUPRIYA+HOSPITAL/@12.3337066,76.5995045,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aff637479ab:0xb19eb49849f8fabf!8m2!3d12.3337066!4d76.5995045!16s%2Fg%2F1td1bw96?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3337066,
+      "lng": 76.5995045,
+      "label": "SUPRIYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suyog-hospital-mysuru",
+    "name": "SUYOG HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose SUYOG HOSPITAL for its strength in Urologist Surgery In Mysore. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097395 55908",
+    "alternatePhone": "",
+    "website": "http://www.suyoghospital.com/",
+    "address": "P/2, Dhakshineshwara Road, E&F Block, Ramakrishnanagar, Mysuru, Karnataka 570022",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570022",
+    "locality": "Ramakrishnanagar",
+    "landmark": "E&F Block",
+    "emergencyContact": "097395 55908",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SUYOG+HOSPITAL/@12.2822713,76.6200543,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6549bc624c75:0x9a8640e46cec0832!8m2!3d12.2822713!4d76.6200543!16s%2Fg%2F11c4_cgkjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SUYOG+HOSPITAL/@12.2822713,76.6200543,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6549bc624c75:0x9a8640e46cec0832!8m2!3d12.2822713!4d76.6200543!16s%2Fg%2F11c4_cgkjx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2822713,
+      "lng": 76.6200543,
+      "label": "SUYOG HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swasthya-health-care-and-diagnostic-centre-basavanahalli",
+    "name": "Swasthya Health Care and Diagnostic Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swasthya Health Care and Diagnostic Centre has built a strong reputation in Basavanahalli for multidisciplinary treatment pathways covering Urologist Surgery In Mysore. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090367 50044",
+    "alternatePhone": "",
+    "website": "https://www.swasthyahealthcare.co.in/",
+    "address": "4996, 80 Feet Rd, 2nd Phase, Vijayanagar 4th Stage, Mysuru, Basavanahalli, Karnataka 570032",
+    "city": "Basavanahalli",
+    "state": "Karnataka",
+    "pincode": "570032",
+    "locality": "Mysuru",
+    "landmark": "2nd Phase",
+    "emergencyContact": "090367 50044",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swasthya+Health+Care+and+Diagnostic+Centre/@12.3206996,76.584877,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b32795c842f:0x5e3f6460870a994d!8m2!3d12.3206996!4d76.584877!16s%2Fg%2F11s99jpkrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swasthya+Health+Care+and+Diagnostic+Centre/@12.3206996,76.584877,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b32795c842f:0x5e3f6460870a994d!8m2!3d12.3206996!4d76.584877!16s%2Fg%2F11s99jpkrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3206996,
+      "lng": 76.584877,
+      "label": "Swasthya Health Care and Diagnostic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-dental-clinic-hootagalli-branch-ilavala-hobli",
+    "name": "Swastik Dental Clinic Hootagalli Branch",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ilavala Hobli, Swastik Dental Clinic Hootagalli Branch brings together specialists for Oral Surgery In Mysore. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090360 06255",
+    "alternatePhone": "",
+    "website": "http://www.dentistgauravmysore.com/",
+    "address": "38 Group 4, Mathrushree Diagnostics and Polyclinic, Belwadi Post, Housing Board Colony, Hootagalli, Mysuru, Ilavala Hobli, Karnataka 570018",
+    "city": "Ilavala Hobli",
+    "state": "Karnataka",
+    "pincode": "570018",
+    "locality": "Mysuru",
+    "landmark": "Belwadi Post",
+    "emergencyContact": "090360 06255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Dental+Clinic+Hootagalli+Branch/@12.3395277,76.5836349,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be36fa4e1c1:0xe1fc2b391e06043a!8m2!3d12.3395277!4d76.5836349!16s%2Fg%2F11kpwrvz1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Dental+Clinic+Hootagalli+Branch/@12.3395277,76.5836349,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7be36fa4e1c1:0xe1fc2b391e06043a!8m2!3d12.3395277!4d76.5836349!16s%2Fg%2F11kpwrvz1d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3395277,
+      "lng": 76.5836349,
+      "label": "Swastik Dental Clinic Hootagalli Branch",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-revive-wellness-hospital-hebbalu",
+    "name": "THE REVIVE Wellness Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hebbalu often choose THE REVIVE Wellness Hospital for its strength in Kidney Transplant Surgery In Mysore. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082129 55188",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9, Beside Hebbal lake, 1st Main Road, Ring Rd, Hebbal, Hebbalu, Karnataka 570016",
+    "city": "Hebbalu",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Hebbal",
+    "landmark": "Beside Hebbal lake, 1st Main Road, Ring Rd, Hebbal, Hebbalu, Karnataka 570016",
+    "emergencyContact": "082129 55188",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/THE+REVIVE+Wellness+Hospital/data=!4m7!3m6!1s0x3baf7b3087fe4765:0x44e86e50fa9c8fe3!8m2!3d12.3582364!4d76.6144562!16s%2Fg%2F11n06m8l4m!19sChIJZUf-hzB7rzsR44-c-lBu6EQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/THE+REVIVE+Wellness+Hospital/data=!4m7!3m6!1s0x3baf7b3087fe4765:0x44e86e50fa9c8fe3!8m2!3d12.3582364!4d76.6144562!16s%2Fg%2F11n06m8l4m!19sChIJZUf-hzB7rzsR44-c-lBu6EQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3582364,
+      "lng": 76.6144562,
+      "label": "THE REVIVE Wellness Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trauma-care-center-mysore-mysuru",
+    "name": "Trauma care center , Mysore",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Trauma care center , Mysore brings together specialists for Knee Replacement Surgery In Mysore. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JQH+GP8, Kumbarakoppal, Gokulam 3rd Stage, Gokulam, Mysuru, Karnataka 570016",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570016",
+    "locality": "Gokulam",
+    "landmark": "Gokulam 3rd Stage",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Trauma+care+center+,+Mysore/@12.3394247,76.6301795,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9e333f7f8b:0xc9b941ca0ffa81f6!8m2!3d12.3394247!4d76.6301795!16s%2Fg%2F11srffqlfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trauma+care+center+,+Mysore/@12.3394247,76.6301795,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9e333f7f8b:0xc9b941ca0ffa81f6!8m2!3d12.3394247!4d76.6301795!16s%2Fg%2F11srffqlfn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3394247,
+      "lng": 76.6301795,
+      "label": "Trauma care center , Mysore",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trupthi-urology-and-speciality-clinic-mysore-mysuru",
+    "name": "Trupthi Urology and speciality clinic. MYSORE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Trupthi Urology and speciality clinic. MYSORE for its strength in Urologist Surgery In Mysore and Speciality Care. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099800 22561",
+    "alternatePhone": "",
+    "website": "http://www.pcpndt.karnataka.gov.in/PvtGovtCentresHomepage.aspx?unitid=9PmmH5xzgb%2BC08uj8hAzfA%3D%3D&role=Tg3R3dzL5d8qh2W0SyphdQ%3D%3D&DistWiseCount=mELirpUhRYksFj7k8%2FXBcQ%3D%3D&PvtGovt=nBg%2BoK7HWWeZVo4G1oAzng%3D%3D",
+    "address": "51, Ramanuja Rd, near to jss mahavidyapeeta, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Fort Mohalla",
+    "landmark": "near to jss mahavidyapeeta, Agrahara, Fort Mohalla, Mysuru, Karnataka 570004",
+    "emergencyContact": "099800 22561",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Trupthi+Urology+and+speciality+clinic.+MYSORE/data=!4m7!3m6!1s0x3baf70043d8ff66d:0xed02f28670212235!8m2!3d12.301093!4d76.6544236!16s%2Fg%2F11cls7nlqq!19sChIJbfaPPQRwrzsRNSIhcIbyAu0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trupthi+Urology+and+speciality+clinic.+MYSORE/data=!4m7!3m6!1s0x3baf70043d8ff66d:0xed02f28670212235!8m2!3d12.301093!4d76.6544236!16s%2Fg%2F11cls7nlqq!19sChIJbfaPPQRwrzsRNSIhcIbyAu0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.301093,
+      "lng": 76.6544236,
+      "label": "Trupthi Urology and speciality clinic. MYSORE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "udupa-clinic-mysuru",
+    "name": "Udupa Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Udupa Clinic is a prominent medical clinic in Mysuru, known for structured tertiary care across Urologist Surgery In Mysore. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082777 01314",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1638, ನಾರಾಯಣ ಶಾಸ್ತ್ರಿ ರಸ್ತೆ, NR Mohalla, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "NR Mohalla",
+    "emergencyContact": "082777 01314",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Udupa+Clinic/@12.2960089,76.6477952,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003f0571399:0x2f0299252daa827f!8m2!3d12.2960089!4d76.6477952!16s%2Fg%2F11csqlnr1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Udupa+Clinic/@12.2960089,76.6477952,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7003f0571399:0x2f0299252daa827f!8m2!3d12.2960089!4d76.6477952!16s%2Fg%2F11csqlnr1z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2960089,
+      "lng": 76.6477952,
+      "label": "Udupa Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "umbrella-aesthetics-mysuru",
+    "name": "Umbrella Aesthetics",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Umbrella Aesthetics has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Cosmetic Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090199 03231",
+    "alternatePhone": "",
+    "website": "https://umbrellaaesthetics.com/",
+    "address": "20/B, First Floor, KD Road, 1st Cross Rd, behind Chandramouleshwara Temple, Jayalakshmipuram, Mysuru, Karnataka 570012",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570012",
+    "locality": "Jayalakshmipuram",
+    "landmark": "KD Road",
+    "emergencyContact": "090199 03231",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Umbrella+Aesthetics/@12.3226084,76.6284826,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9011e55555:0x97a915ca02a37e31!8m2!3d12.3226084!4d76.6284826!16s%2Fg%2F11vj8fht8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Umbrella+Aesthetics/@12.3226084,76.6284826,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9011e55555:0x97a915ca02a37e31!8m2!3d12.3226084!4d76.6284826!16s%2Fg%2F11vj8fht8d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3226084,
+      "lng": 76.6284826,
+      "label": "Umbrella Aesthetics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urocare-hospital-kidney-stone-and-urology-centre-mysuru",
+    "name": "UROCARE HOSPITAL (KIDNEY STONE & UROLOGY CENTRE )",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, UROCARE HOSPITAL (KIDNEY STONE & UROLOGY CENTRE ) offers coordinated hospital care with major focus on Urologist Surgery In Mysore and Kidney Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082145 33819",
+    "alternatePhone": "",
+    "website": "https://www.urocaremysore.com/",
+    "address": "Paduvana Road, Kuvempunagara North, TK Layout, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "TK Layout",
+    "landmark": "TK Layout",
+    "emergencyContact": "082145 33819",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/UROCARE+HOSPITAL+(KIDNEY+STONE+%26+UROLOGY+CENTRE+)/@12.296212,76.6210314,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b2546e9f13f:0xa340db7e6168fc23!8m2!3d12.296212!4d76.6210314!16s%2Fg%2F11wvytd_v5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UROCARE+HOSPITAL+(KIDNEY+STONE+%26+UROLOGY+CENTRE+)/@12.296212,76.6210314,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b2546e9f13f:0xa340db7e6168fc23!8m2!3d12.296212!4d76.6210314!16s%2Fg%2F11wvytd_v5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.296212,
+      "lng": 76.6210314,
+      "label": "UROCARE HOSPITAL (KIDNEY STONE & UROLOGY CENTRE )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-care-32-dental-solutions-mysuru",
+    "name": "V-Care 32 Dental Solutions",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "V-Care 32 Dental Solutions has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098864 73872",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Sri Rama Complex, Vijay Nagar Main Rd, Manchegowdana koppalu, Mahajana Layout, Vijay Nagar 2nd Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "Vijay Nagar Main Rd",
+    "emergencyContact": "098864 73872",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/V-Care+32+Dental+Solutions/@12.3401783,76.6150224,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a5c2de99c95:0x44d237df62f6e903!8m2!3d12.3401783!4d76.6150224!16s%2Fg%2F11c55v9_y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V-Care+32+Dental+Solutions/@12.3401783,76.6150224,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a5c2de99c95:0x44d237df62f6e903!8m2!3d12.3401783!4d76.6150224!16s%2Fg%2F11c55v9_y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3401783,
+      "lng": 76.6150224,
+      "label": "V-Care 32 Dental Solutions",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vajradantha-dental-clinic-mysuru",
+    "name": "Vajradantha Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mysuru, Vajradantha Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Mysore. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080739 49043",
+    "alternatePhone": "",
+    "website": "https://click4appointment.com/clinic-details/vajradanthadentalclinic-3763",
+    "address": "457, Tribhuvan, 4th Main, Maruthi Temple Rd, 1st Cross, Kuvempu Nagara, Mysuru, Karnataka 570009",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Kuvempu Nagara",
+    "landmark": "4th Main",
+    "emergencyContact": "080739 49043",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vajradantha+Dental+Clinic/@12.2973029,76.6251526,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b06e3d18a2f:0xe9753b7b1500698a!8m2!3d12.2973029!4d76.6251526!16s%2Fg%2F11vwsvs9l3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vajradantha+Dental+Clinic/@12.2973029,76.6251526,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b06e3d18a2f:0xe9753b7b1500698a!8m2!3d12.2973029!4d76.6251526!16s%2Fg%2F11vwsvs9l3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2973029,
+      "lng": 76.6251526,
+      "label": "Vajradantha Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vasan-eye-care-hospital-lakshmipuram-mysuru-mysuru",
+    "name": "Vasan Eye Care Hospital - (Lakshmipuram, Mysuru)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Vasan Eye Care Hospital - (Lakshmipuram, Mysuru) for its strength in Neurosurgeon In Mysore. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://clinic.vasaneye.com/vasan-eye-care/stores-in-mysuru/stores-in-Lakshmipuram/vasan-eye-care-hospital-in-Lakshmipuram-mysuru--4apvvT/home",
+    "address": "Building No 9, 966/2, Jhansi Rani Lakshmi Bai Rd, nearby RTO Circle, Lakshmipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Lakshmipuram",
+    "landmark": "Jhansi Rani Lakshmi Bai Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vasan+Eye+Care+Hospital+-+(Lakshmipuram,+Mysuru)/@12.2961987,76.6435472,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7000d2f1f9bf:0xe1fcf4cd427daaef!8m2!3d12.2961987!4d76.6435472!16s%2Fg%2F1tfjz9bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vasan+Eye+Care+Hospital+-+(Lakshmipuram,+Mysuru)/@12.2961987,76.6435472,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7000d2f1f9bf:0xe1fcf4cd427daaef!8m2!3d12.2961987!4d76.6435472!16s%2Fg%2F1tfjz9bg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2961987,
+      "lng": 76.6435472,
+      "label": "Vasan Eye Care Hospital - (Lakshmipuram, Mysuru)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vidyaranya-hospital-private-limited-mysuru",
+    "name": "Vidyaranya Hospital Private Limited",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vidyaranya Hospital Private Limited has built a strong reputation in Mysuru for multidisciplinary treatment pathways covering Urologist Surgery In Mysore. Hospital capacity markers such as Google rating 3.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082123 30555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2876, 4th Cross, NS Road, Chamundipuram, Mysuru, Karnataka 570004",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570004",
+    "locality": "Chamundipuram",
+    "landmark": "NS Road",
+    "emergencyContact": "082123 30555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Vidyaranya+Hospital+Private+Limited/@12.2887441,76.6495964,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ffdac5cd97f:0xad7b057466d2b1cf!8m2!3d12.2887441!4d76.6495964!16s%2Fg%2F124yfy8m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vidyaranya+Hospital+Private+Limited/@12.2887441,76.6495964,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf6ffdac5cd97f:0xad7b057466d2b1cf!8m2!3d12.2887441!4d76.6495964!16s%2Fg%2F124yfy8m4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.2887441,
+      "lng": 76.6495964,
+      "label": "Vidyaranya Hospital Private Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vijaya-dental-and-orofacial-surgery-mysuru",
+    "name": "Vijaya Dental and Orofacial Surgery",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vijaya Dental and Orofacial Surgery is a prominent dental clinic in Mysuru, known for structured tertiary care across Oral Surgery In Mysore. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094813 20300",
+    "alternatePhone": "",
+    "website": "",
+    "address": "44/1, 4th Main Rd, Vontikoppal, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vontikoppal",
+    "landmark": "Vontikoppal",
+    "emergencyContact": "094813 20300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vijaya+Dental+and+Orofacial+Surgery/@12.323159,76.6324996,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9ad793c08b:0xd724707dd2eeea92!8m2!3d12.323159!4d76.6324996!16s%2Fg%2F11c0xw0g4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vijaya+Dental+and+Orofacial+Surgery/@12.323159,76.6324996,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a9ad793c08b:0xd724707dd2eeea92!8m2!3d12.323159!4d76.6324996!16s%2Fg%2F11c0xw0g4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.323159,
+      "lng": 76.6324996,
+      "label": "Vijaya Dental and Orofacial Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vijaya-dental-clinic-and-implant-centre-mysuru",
+    "name": "VIJAYA DENTAL CLINIC AND IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose VIJAYA DENTAL CLINIC AND IMPLANT CENTRE for its strength in Oral Surgery In Mysore. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098869 25469",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mission Hospital Rd, Devaraja Mohalla, Mandi Mohalla, Mysuru, Karnataka 570001",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570001",
+    "locality": "Mandi Mohalla",
+    "landmark": "Mandi Mohalla",
+    "emergencyContact": "098869 25469",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/VIJAYA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@12.3168793,76.6506465,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf711b76936759:0x441e3f39542f6dd9!8m2!3d12.3168793!4d76.6506465!16s%2Fg%2F11j3w78j_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VIJAYA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@12.3168793,76.6506465,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf711b76936759:0x441e3f39542f6dd9!8m2!3d12.3168793!4d76.6506465!16s%2Fg%2F11j3w78j_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3168793,
+      "lng": 76.6506465,
+      "label": "VIJAYA DENTAL CLINIC AND IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vikram-jyoth-mysuru-mysuru",
+    "name": "Vikram Jyoth Mysuru",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mysuru often choose Vikram Jyoth Mysuru for its strength in Oncologist Surgery In Mysore. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082142 42461",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2909, New No. 22 & 22/1, Temple Road, V V Mohalla, Vontikoppal, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vontikoppal",
+    "landmark": "Temple Road",
+    "emergencyContact": "082142 42461",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Vikram+Jyoth+Mysuru/data=!4m7!3m6!1s0x3baf7a8524cf26cf:0xcf25ed1c1cde4c7c!8m2!3d12.324787!4d76.6321106!16s%2Fg%2F1v3_13fc!19sChIJzybPJIV6rzsRfEzeHBztJc8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vikram+Jyoth+Mysuru/data=!4m7!3m6!1s0x3baf7a8524cf26cf:0xcf25ed1c1cde4c7c!8m2!3d12.324787!4d76.6321106!16s%2Fg%2F1v3_13fc!19sChIJzybPJIV6rzsRfEzeHBztJc8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.324787,
+      "lng": 76.6321106,
+      "label": "Vikram Jyoth Mysuru",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayaka-nursing-home-mysuru",
+    "name": "Vinayaka Nursing Home",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Vinayaka Nursing Home brings together specialists for Gynecologist Surgery In Mysore. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082123 32499",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 1250, Ballal Circle, Near Vijaya Driving School, 2nd Cross Road, KR Mohalla, Krishnamurthy Puram, Mysuru, Karnataka 570014",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570014",
+    "locality": "Krishnamurthy Puram",
+    "landmark": "Near Vijaya Driving School, 2nd Cross Road, KR Mohalla, Krishnamurthy Puram, Mysuru, Karnataka 570014",
+    "emergencyContact": "082123 32499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayaka+Nursing+Home/@12.294436,76.6411412,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aaa0ac8c1a9:0xec2ea705f6018f2!8m2!3d12.294436!4d76.6411412!16s%2Fg%2F1td2fbt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayaka+Nursing+Home/@12.294436,76.6411412,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7aaa0ac8c1a9:0xec2ea705f6018f2!8m2!3d12.294436!4d76.6411412!16s%2Fg%2F1td2fbt4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.294436,
+      "lng": 76.6411412,
+      "label": "Vinayaka Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vrushabha-dental-80-feet-rd",
+    "name": "VRUSHABHA DENTAL",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in 80 Feet Rd, VRUSHABHA DENTAL delivers integrated care across Oral Surgery In Mysore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095351 87471",
+    "alternatePhone": "",
+    "website": "https://vrushabhadental.com/",
+    "address": "7675, First floor, 80 Feet Rd, above Karnataka Bank, opposite to SBI, 2nd Phase, Vijayanagar 4th Stage, Mysuru, Basavanahalli, Karnataka 570032",
+    "city": "80 Feet Rd",
+    "state": "Karnataka",
+    "pincode": "570032",
+    "locality": "First floor",
+    "landmark": "opposite to SBI, 2nd Phase, Vijayanagar 4th Stage, Mysuru, Basavanahalli, Karnataka 570032",
+    "emergencyContact": "095351 87471",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VRUSHABHA+DENTAL/@12.3208522,76.5873802,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b1b2156ce23:0xce5a92fe7bce16b7!8m2!3d12.3208522!4d76.5873802!16s%2Fg%2F11tjxb29lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VRUSHABHA+DENTAL/@12.3208522,76.5873802,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b1b2156ce23:0xce5a92fe7bce16b7!8m2!3d12.3208522!4d76.5873802!16s%2Fg%2F11tjxb29lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3208522,
+      "lng": 76.5873802,
+      "label": "VRUSHABHA DENTAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "welcare-speciality-clinics-saraswathipuram",
+    "name": "Welcare Speciality Clinics",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saraswathipuram, Welcare Speciality Clinics offers coordinated hospital care with major focus on Urologist Surgery In Mysore, Medical Center, and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077953 20108",
+    "alternatePhone": "",
+    "website": "https://www.welcarespecialityclinics.com/",
+    "address": "1st Floor, Above Darla Health Care 20, New CH 44,7th Main Road, Swimming Pool Rd, Saraswathipuram, Karnataka 570009",
+    "city": "Saraswathipuram",
+    "state": "Karnataka",
+    "pincode": "570009",
+    "locality": "Swimming Pool Rd",
+    "landmark": "New CH 44",
+    "emergencyContact": "077953 20108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mysore",
+      "Medical Center",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Welcare+Speciality+Clinics/@12.3047411,76.6313774,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b459d5ce28b:0xcf9bbfdc8e8d0b4!8m2!3d12.3047411!4d76.6313774!16s%2Fg%2F11qbd240fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Welcare+Speciality+Clinics/@12.3047411,76.6313774,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b459d5ce28b:0xcf9bbfdc8e8d0b4!8m2!3d12.3047411!4d76.6313774!16s%2Fg%2F11qbd240fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3047411,
+      "lng": 76.6313774,
+      "label": "Welcare Speciality Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "white-swan-aesthetics-best-hair-transplant-clinic-in-mysuru-best-skin-and-cosmetic-surgery-clinic-best-dental-clinic-mysuru",
+    "name": "White Swan Aesthetics | Best Hair Transplant Clinic in Mysuru | Best Skin & Cosmetic Surgery clinic | Best Dental Clinic |",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mysuru, White Swan Aesthetics | Best Hair Transplant Clinic in Mysuru | Best Skin & Cosmetic Surgery clinic | Best Dental Clinic | delivers integrated care across Plastic Surgery In Mysore. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096066 33888",
+    "alternatePhone": "",
+    "website": "http://www.whiteswanaesthetics.com/",
+    "address": "17 1st, stage, 837, General Thimmaiah Rd, Vijayanagar 1st Stage, Vijayanagar, Mysuru, Karnataka 570017",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570017",
+    "locality": "Vijayanagar",
+    "landmark": "837",
+    "emergencyContact": "096066 33888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/White+Swan+Aesthetics+%7C+Best+Hair+Transplant+Clinic+in+Mysuru+%7C+Best+Skin+%26+Cosmetic+Surgery+clinic+%7C+Best+Dental+Clinic+%7C/@12.3260178,76.6129766,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9861443bc1:0xeed02ab32c9e8ea4!8m2!3d12.3260178!4d76.6129766!16s%2Fg%2F11v5g0r2bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/White+Swan+Aesthetics+%7C+Best+Hair+Transplant+Clinic+in+Mysuru+%7C+Best+Skin+%26+Cosmetic+Surgery+clinic+%7C+Best+Dental+Clinic+%7C/@12.3260178,76.6129766,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7b9861443bc1:0xeed02ab32c9e8ea4!8m2!3d12.3260178!4d76.6129766!16s%2Fg%2F11v5g0r2bs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3260178,
+      "lng": 76.6129766,
+      "label": "White Swan Aesthetics | Best Hair Transplant Clinic in Mysuru | Best Skin & Cosmetic Surgery clinic | Best Dental Clinic |",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "whyte-dental-mysuru",
+    "name": "Whyte Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mysuru, Whyte Dental brings together specialists for Oral Surgery In Mysore. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070907 00790",
+    "alternatePhone": "",
+    "website": "http://www.whytedental.com/",
+    "address": "Door no. 2826D, 10th cross, Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002 10th cross, Adipampa Rd, Vani Vilas Mohalla, Mysuru, Karnataka 570002",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "pincode": "570002",
+    "locality": "Vani Vilas Mohalla",
+    "landmark": "Adipampa Rd",
+    "emergencyContact": "070907 00790",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Whyte+Dental/@12.3261212,76.6281177,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fdeaa3511:0xc673f94dc0bdd538!8m2!3d12.3261212!4d76.6281177!16s%2Fg%2F11c58pgsts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Whyte+Dental/@12.3261212,76.6281177,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7a8fdeaa3511:0xc673f94dc0bdd538!8m2!3d12.3261212!4d76.6281177!16s%2Fg%2F11c58pgsts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3261212,
+      "lng": 76.6281177,
+      "label": "Whyte Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-home-bhogadi",
+    "name": "✅ Dental Home",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "✅ Dental Home is a prominent dental clinic in Bhogadi, known for structured tertiary care across Oral Surgery In Mysore. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089713 69086",
+    "alternatePhone": "",
+    "website": "",
+    "address": "check, Bogadi, Near, post, Bhogadi, Karnataka 570032",
+    "city": "Bhogadi",
+    "state": "Karnataka",
+    "pincode": "570032",
+    "locality": "post",
+    "landmark": "Near",
+    "emergencyContact": "089713 69086",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mysore"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85+Dental+Home/@12.3053779,76.5999983,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ad94d2fa1c7:0xa330ba8731f7fef0!8m2!3d12.3053779!4d76.5999983!16s%2Fg%2F11cn064mcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85+Dental+Home/@12.3053779,76.5999983,17z/data=!3m1!4b1!4m6!3m5!1s0x3baf7ad94d2fa1c7:0xa330ba8731f7fef0!8m2!3d12.3053779!4d76.5999983!16s%2Fg%2F11cn064mcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 12.3053779,
+      "lng": 76.5999983,
+      "label": "✅ Dental Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

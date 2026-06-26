@@ -1,0 +1,708 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "jk-multicare-hospital-suryapet",
+    "name": "JK Multicare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JK Multicare Hospital is a prominent hospital in Suryapet, known for structured tertiary care across Heart Surgery In Suryapet. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.jkmulticarehospital.com/",
+    "address": "Jaya School Rd, Rajeevnagar, Vidyanagar, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "Vidyanagar",
+    "landmark": "Vidyanagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Suryapet"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JK+Multicare+Hospital/@17.1465181,79.6236936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db33e0892513:0xccfb7d78825d9c05!8m2!3d17.1465181!4d79.6236936!16s%2Fg%2F11rc7mkc6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JK+Multicare+Hospital/@17.1465181,79.6236936,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db33e0892513:0xccfb7d78825d9c05!8m2!3d17.1465181!4d79.6236936!16s%2Fg%2F11rc7mkc6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1465181,
+      "lng": 79.6236936,
+      "label": "JK Multicare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "konnect-diagnostic-center-suryapet-suryapet",
+    "name": "Konnect Diagnostic Center, Suryapet",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Suryapet often choose Konnect Diagnostic Center, Suryapet for its strength in Heart Surgery In Suryapet and Diagnostic Center. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0404 123 5555",
+    "alternatePhone": "",
+    "website": "https://konnectdiagnostics.com/",
+    "address": "H NO: 1-4, 249/152, MG Rd, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "MG Rd",
+    "landmark": "MG Rd",
+    "emergencyContact": "0404 123 5555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Suryapet",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Konnect+Diagnostic+Center,+Suryapet/@17.1485205,79.6230623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db429bc3c1eb:0xf9b8e6eac7286f40!8m2!3d17.1485205!4d79.6230623!16s%2Fg%2F11nmt52pd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Konnect+Diagnostic+Center,+Suryapet/@17.1485205,79.6230623,17z/data=!3m1!4b1!4m6!3m5!1s0x3a34db429bc3c1eb:0xf9b8e6eac7286f40!8m2!3d17.1485205!4d79.6230623!16s%2Fg%2F11nmt52pd0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1485205,
+      "lng": 79.6230623,
+      "label": "Konnect Diagnostic Center, Suryapet",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metro-hospital-suryapet",
+    "name": "Metro Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Suryapet, Metro Hospital brings together specialists for Cardiac Surgery In Suryapet. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086842 22555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-4-249 52/1, Suryapet Bypass Rd, Krishna Nagar Colony, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "Krishna Nagar Colony",
+    "landmark": "Krishna Nagar Colony",
+    "emergencyContact": "086842 22555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Suryapet"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Metro+Hospital/data=!4m7!3m6!1s0x3a34dbbcf860c923:0x6e88f016bb97a10e!8m2!3d17.1494262!4d79.6242825!16s%2Fg%2F11c1w131v1!19sChIJI8lg-LzbNDoRDqGXuxbwiG4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metro+Hospital/data=!4m7!3m6!1s0x3a34dbbcf860c923:0x6e88f016bb97a10e!8m2!3d17.1494262!4d79.6242825!16s%2Fg%2F11c1w131v1!19sChIJI8lg-LzbNDoRDqGXuxbwiG4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1494262,
+      "lng": 79.6242825,
+      "label": "Metro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-hospitals-suryapet",
+    "name": "OM HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OM HOSPITALS has built a strong reputation in Suryapet for multidisciplinary treatment pathways covering Heart Surgery In Suryapet. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070132 11742",
+    "alternatePhone": "",
+    "website": "",
+    "address": "OM HOSPITAL , LANE, MG Rd, beside RAVI SWEETS BAKERY, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "beside RAVI SWEETS BAKERY",
+    "landmark": "beside RAVI SWEETS BAKERY, Suryapet, Telangana 508213",
+    "emergencyContact": "070132 11742",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/omhosp/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Suryapet"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OM+HOSPITALS/data=!4m7!3m6!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480628!4d79.6222651!16s%2Fg%2F11hzm9y1rs!19sChIJ33J8ZPvbNDoRKxkRFfCcles?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OM+HOSPITALS/data=!4m7!3m6!1s0x3a34dbfb647c72df:0xeb959cf01511192b!8m2!3d17.1480628!4d79.6222651!16s%2Fg%2F11hzm9y1rs!19sChIJ33J8ZPvbNDoRKxkRFfCcles?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1480628,
+      "lng": 79.6222651,
+      "label": "OM HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-chest-hospital-general-and-surgical-care-centre-suryapet",
+    "name": "SHREE chest hospital( general and surgical care centre )",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHREE chest hospital( general and surgical care centre ) has built a strong reputation in Suryapet for multidisciplinary treatment pathways covering Heart Surgery In Suryapet. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063009 92698",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opppsite to new busstand, MG Rd, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "MG Rd",
+    "landmark": "Suryapet",
+    "emergencyContact": "063009 92698",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Suryapet"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SHREE+chest+hospital%28+general+and+surgical+care+centre+%29/data=!4m7!3m6!1s0x3a34db0520ab03d3:0x84ca048f68e94ff4!8m2!3d17.1496818!4d79.6234063!16s%2Fg%2F11rtls6m3x!19sChIJ0wOrIAXbNDoR9E_paI8EyoQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREE+chest+hospital%28+general+and+surgical+care+centre+%29/data=!4m7!3m6!1s0x3a34db0520ab03d3:0x84ca048f68e94ff4!8m2!3d17.1496818!4d79.6234063!16s%2Fg%2F11rtls6m3x!19sChIJ0wOrIAXbNDoR9E_paI8EyoQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1496818,
+      "lng": 79.6234063,
+      "label": "SHREE chest hospital( general and surgical care centre )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "viswas-hospital-and-scans-suryapet",
+    "name": "Viswas hospital and scans",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Suryapet, Viswas hospital and scans brings together specialists for Heart Surgery In Suryapet. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098491 03912",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Anjali school, Home no.1-1-437, besides old siddhartha school, road, Suryapet, Telangana 508213",
+    "city": "Suryapet",
+    "state": "Telangana",
+    "pincode": "508213",
+    "locality": "road",
+    "landmark": "besides old siddhartha school",
+    "emergencyContact": "098491 03912",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Suryapet"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Viswas+hospital+and+scans/data=!4m7!3m6!1s0x3a34dba9327f5269:0x1b59222b8e3f4e40!8m2!3d17.1467717!4d79.6208288!16s%2Fg%2F11g2wwvk2y!19sChIJaVJ_MqnbNDoRQE4_jisiWRs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Viswas+hospital+and+scans/data=!4m7!3m6!1s0x3a34dba9327f5269:0x1b59222b8e3f4e40!8m2!3d17.1467717!4d79.6208288!16s%2Fg%2F11g2wwvk2y!19sChIJaVJ_MqnbNDoRQE4_jisiWRs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.1467717,
+      "lng": 79.6208288,
+      "label": "Viswas hospital and scans",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

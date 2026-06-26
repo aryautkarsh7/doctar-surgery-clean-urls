@@ -1,0 +1,473 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "bethesda-clinic-dental-gastro-and-surgery-itanagar",
+    "name": "Bethesda Clinic (Dental , Gastro and Surgery)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Itanagar, Bethesda Clinic (Dental , Gastro and Surgery) brings together specialists for Cardiac Surgery In Itanagar and Gastroenterology. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098625 02606",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, MJ complex, H-Sector, opposite R.K mission hospital, Upper Chimi, Itanagar, Arunachal Pradesh 791111",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "pincode": "791111",
+    "locality": "Upper Chimi",
+    "landmark": "opposite R.K mission hospital, Upper Chimi, Itanagar, Arunachal Pradesh 791111",
+    "emergencyContact": "098625 02606",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Itanagar",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Bethesda+Clinic+(Dental+,+Gastro+and+Surgery)/@27.0870181,93.6086158,17z/data=!3m1!4b1!4m6!3m5!1s0x374407997b6519ed:0x11970104ffc08ee8!8m2!3d27.0870181!4d93.6086158!16s%2Fg%2F11krhp6cy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bethesda+Clinic+(Dental+,+Gastro+and+Surgery)/@27.0870181,93.6086158,17z/data=!3m1!4b1!4m6!3m5!1s0x374407997b6519ed:0x11970104ffc08ee8!8m2!3d27.0870181!4d93.6086158!16s%2Fg%2F11krhp6cy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.0870181,
+      "lng": 93.6086158,
+      "label": "Bethesda Clinic (Dental , Gastro and Surgery)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heema-hospital-itanagar",
+    "name": "Heema Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Heema Hospital has built a strong reputation in Itanagar for multidisciplinary treatment pathways covering Cardiac Surgery In Itanagar. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087942 36321",
+    "alternatePhone": "",
+    "website": "",
+    "address": "National Highway, 52A, Itanagar, Arunachal Pradesh 791111",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "pincode": "791111",
+    "locality": "52A",
+    "landmark": "Itanagar",
+    "emergencyContact": "087942 36321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Itanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Heema+Hospital/@27.1008806,93.6281262,17z/data=!3m1!4b1!4m6!3m5!1s0x3744072190a3f1d9:0x17fa1315030b82ee!8m2!3d27.1008806!4d93.6281262!16s%2Fg%2F11gxnqf2h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Heema+Hospital/@27.1008806,93.6281262,17z/data=!3m1!4b1!4m6!3m5!1s0x3744072190a3f1d9:0x17fa1315030b82ee!8m2!3d27.1008806!4d93.6281262!16s%2Fg%2F11gxnqf2h1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1008806,
+      "lng": 93.6281262,
+      "label": "Heema Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramakrishna-mission-hospital-itanagar-itanagar",
+    "name": "Ramakrishna Mission Hospital, Itanagar",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Itanagar, Ramakrishna Mission Hospital, Itanagar brings together specialists for Cardiac Surgery In Itanagar. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094366 31237",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Itanagar, Arunachal Pradesh 791111",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "pincode": "791111",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "094366 31237",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Itanagar"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Ramakrishna+Mission+Hospital,+Itanagar/data=!4m7!3m6!1s0x374407b3d55ac62f:0x43145a8f789a3ea9!8m2!3d27.0861777!4d93.6090718!16s%2Fg%2F11f3zvc39l!19sChIJL8Za1bMHRDcRqT6aeI9aFEM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramakrishna+Mission+Hospital,+Itanagar/data=!4m7!3m6!1s0x374407b3d55ac62f:0x43145a8f789a3ea9!8m2!3d27.0861777!4d93.6090718!16s%2Fg%2F11f3zvc39l!19sChIJL8Za1bMHRDcRqT6aeI9aFEM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.0861777,
+      "lng": 93.6090718,
+      "label": "Ramakrishna Mission Hospital, Itanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaol-heart-center-itanagar-itanagar",
+    "name": "Saaol Heart center Itanagar",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Itanagar, Saaol Heart center Itanagar delivers integrated care across Cardiac Surgery In Itanagar and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094362 69006",
+    "alternatePhone": "",
+    "website": "https://saaol.com/",
+    "address": "Saaol Heart Center, Bayor Building, Taro Kena Colony, Donyi Polo Road, Itanagar, Arunachal Pradesh 791111",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "pincode": "791111",
+    "locality": "Donyi Polo Road",
+    "landmark": "Taro Kena Colony",
+    "emergencyContact": "094362 69006",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Itanagar",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaol+Heart+center+Itanagar/@27.104804,93.6296535,17z/data=!3m1!4b1!4m6!3m5!1s0x374407d114223591:0xb11ce3649f3b3229!8m2!3d27.104804!4d93.6296535!16s%2Fg%2F11w3m_g2rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaol+Heart+center+Itanagar/@27.104804,93.6296535,17z/data=!3m1!4b1!4m6!3m5!1s0x374407d114223591:0xb11ce3649f3b3229!8m2!3d27.104804!4d93.6296535!16s%2Fg%2F11w3m_g2rd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.104804,
+      "lng": 93.6296535,
+      "label": "Saaol Heart center Itanagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

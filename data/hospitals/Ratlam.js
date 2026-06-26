@@ -1,0 +1,10549 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "ankur-hospital-ratlam",
+    "name": "Ankur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Ankur Hospital delivers integrated care across Gynecologist Surgery In Ratlam. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074122 33636",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Shahar Sarai Main Rd, Ved Vyas Colony, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Ved Vyas Colony",
+    "emergencyContact": "074122 33636",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Ankur+Hospital/@23.3292482,75.0332626,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe996d19a6f3:0x1aae180462b77e65!8m2!3d23.3292482!4d75.0332626!16s%2Fg%2F11c6000q9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ankur+Hospital/@23.3292482,75.0332626,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe996d19a6f3:0x1aae180462b77e65!8m2!3d23.3292482!4d75.0332626!16s%2Fg%2F11c6000q9_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3292482,
+      "lng": 75.0332626,
+      "label": "Ankur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anmol-dental-art-ratlam",
+    "name": "Anmol Dental art",
+    "type": "Dental Laboratory",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental laboratory in Ratlam, Anmol Dental art delivers integrated care across Oral Surgery In Ratlam and Dental Laboratory. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "437, Gali Number 4, Tata Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tata Nagar",
+    "landmark": "Tata Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam",
+      "Dental Laboratory"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Anmol+Dental+art/@23.3222175,75.0252229,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd011428c97:0x631bf52f232190fe!8m2!3d23.3222175!4d75.0252229!16s%2Fg%2F11l1n2786j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anmol+Dental+art/@23.3222175,75.0252229,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd011428c97:0x631bf52f232190fe!8m2!3d23.3222175!4d75.0252229!16s%2Fg%2F11l1n2786j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3222175,
+      "lng": 75.0252229,
+      "label": "Anmol Dental art",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogyam-ambulance-cardiac-ambulance-ratlam",
+    "name": "Arogyam Ambulance/Cardiac Ambulance",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Arogyam Ambulance/Cardiac Ambulance delivers integrated care across Heart Surgery In Ratlam and Cardiac Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099268 01628",
+    "alternatePhone": "",
+    "website": "",
+    "address": "18, College Road, opposite Blood bank, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "opposite Blood bank, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "099268 01628",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Ratlam",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Arogyam+Ambulance%2FCardiac+Ambulance/@23.3265921,75.0404998,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa1fabee55b:0x96d4224e0c4f9246!8m2!3d23.3265921!4d75.0404998!16s%2Fg%2F11vpgf21d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogyam+Ambulance%2FCardiac+Ambulance/@23.3265921,75.0404998,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa1fabee55b:0x96d4224e0c4f9246!8m2!3d23.3265921!4d75.0404998!16s%2Fg%2F11vpgf21d3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3265921,
+      "lng": 75.0404998,
+      "label": "Arogyam Ambulance/Cardiac Ambulance",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogyam-hospital-ratlam-ratlam",
+    "name": "Arogyam Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Arogyam Hospital Ratlam delivers integrated care across Urologist Surgery In Ratlam. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089894 66664",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82GR+JCP, 18, College Road, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "College Road",
+    "emergencyContact": "089894 66664",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Arogyam+Hospital+Ratlam/@23.326596,75.0405283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff92349510eb:0xf73445eb3023c265!8m2!3d23.326596!4d75.0405283!16s%2Fg%2F11c75j391q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogyam+Hospital+Ratlam/@23.326596,75.0405283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff92349510eb:0xf73445eb3023c265!8m2!3d23.326596!4d75.0405283!16s%2Fg%2F11c75j391q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.326596,
+      "lng": 75.0405283,
+      "label": "Arogyam Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "basant-medical-healthcare-ratlam",
+    "name": "Basant Medical Healthcare",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Basant Medical Healthcare for its strength in Oral Surgery In Ratlam. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dalu Modi Bazaar Square, Rajendra Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Basant+Medical+Healthcare/@23.324227,75.0374825,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff001ca5f9eb:0x913cd727ca497f49!8m2!3d23.324227!4d75.0374825!16s%2Fg%2F11z3plrxzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Basant+Medical+Healthcare/@23.324227,75.0374825,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff001ca5f9eb:0x913cd727ca497f49!8m2!3d23.324227!4d75.0374825!16s%2Fg%2F11z3plrxzd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.324227,
+      "lng": 75.0374825,
+      "label": "Basant Medical Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "batra-dental-clinic-ratlam",
+    "name": "Batra Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Ratlam, Batra Dental Clinic delivers integrated care across Oral Surgery In Ratlam. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094251 95070",
+    "alternatePhone": "",
+    "website": "",
+    "address": "22, Palace Rd, Shrimalivas, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Shrimalivas",
+    "emergencyContact": "094251 95070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Batra+Dental+Clinic/@23.3244251,75.0419262,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea0f1137139:0x4381cac1e759616f!8m2!3d23.3244251!4d75.0419262!16s%2Fg%2F1hf5y9wtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Batra+Dental+Clinic/@23.3244251,75.0419262,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea0f1137139:0x4381cac1e759616f!8m2!3d23.3244251!4d75.0419262!16s%2Fg%2F1hf5y9wtc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3244251,
+      "lng": 75.0419262,
+      "label": "Batra Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhadoriya-diagnostic-center-ratlam",
+    "name": "Bhadoriya Diagnostic Center",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical diagnostic imaging center in Ratlam, Bhadoriya Diagnostic Center delivers integrated care across Laparoscopic Surgery In Ratlam and Medical Diagnostic Imaging Center. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074124 22999",
+    "alternatePhone": "",
+    "website": "https://bhadoriyadiagnostic.com/",
+    "address": "20, G.P, O Road, opp. Bal Chikitsalaya, Sahar Sarai, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "O Road",
+    "emergencyContact": "074124 22999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Ratlam",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhadoriya+Diagnostic+Center/@23.3300896,75.0376445,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0ca089446b:0x6ffa356927b38c6d!8m2!3d23.3300896!4d75.0376445!16s%2Fg%2F11l67wdpnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhadoriya+Diagnostic+Center/@23.3300896,75.0376445,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0ca089446b:0x6ffa356927b38c6d!8m2!3d23.3300896!4d75.0376445!16s%2Fg%2F11l67wdpnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3300896,
+      "lng": 75.0376445,
+      "label": "Bhadoriya Diagnostic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bharat-dental-ratlam",
+    "name": "bharat Dental",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Ratlam, bharat Dental delivers integrated care across Oral Surgery In Ratlam. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82JR+F83, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/bharat+Dental/@23.3311356,75.0408044,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe90a6a3d11:0x66a3a0ed77d2eafd!8m2!3d23.3311356!4d75.0408044!16s%2Fg%2F11khmflvtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/bharat+Dental/@23.3311356,75.0408044,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe90a6a3d11:0x66a3a0ed77d2eafd!8m2!3d23.3311356!4d75.0408044!16s%2Fg%2F11khmflvtr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3311356,
+      "lng": 75.0408044,
+      "label": "bharat Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "breast-cancer-clinic-ratlam",
+    "name": "Breast Cancer Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Breast Cancer Clinic offers coordinated hospital care with major focus on Oncologist Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094251 23333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "478, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "094251 23333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Breast+Cancer+Clinic/@23.3292584,75.0368935,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff963a856fa3:0x35c8e2607b89f1ef!8m2!3d23.3292584!4d75.0368935!16s%2Fg%2F11vsnv598t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Breast+Cancer+Clinic/@23.3292584,75.0368935,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff963a856fa3:0x35c8e2607b89f1ef!8m2!3d23.3292584!4d75.0368935!16s%2Fg%2F11vsnv598t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3292584,
+      "lng": 75.0368935,
+      "label": "Breast Cancer Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "burhani-hospital-ratlam-ratlam",
+    "name": "Burhani Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Burhani Hospital Ratlam for its strength in Knee Replacement Surgery In Ratlam. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079997 42626",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Eidgah Road, Lakkadpitha Road, Sutaro Ka Vas, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Sutaro Ka Vas",
+    "landmark": "Sutaro Ka Vas",
+    "emergencyContact": "079997 42626",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Burhani+Hospital+Ratlam/@23.3226337,75.0327972,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9d2991c287:0x93fb86f6b301cd28!8m2!3d23.3226337!4d75.0327972!16s%2Fg%2F11g6bvx6y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Burhani+Hospital+Ratlam/@23.3226337,75.0327972,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9d2991c287:0x93fb86f6b301cd28!8m2!3d23.3226337!4d75.0327972!16s%2Fg%2F11g6bvx6y7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3226337,
+      "lng": 75.0327972,
+      "label": "Burhani Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-32-dental-hospital-and-implant-centre-ratlam",
+    "name": "CARE 32 Dental Hospital & Implant Centre 🦷",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CARE 32 Dental Hospital & Implant Centre 🦷 is a prominent dental clinic in Ratlam, known for structured tertiary care across Oral Surgery In Ratlam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062634 99890",
+    "alternatePhone": "",
+    "website": "",
+    "address": "99, Mahatma Gandhi Marg Road, near Jalaram sweets, Do batti, Ratlam, Madhya Pradesh 457550",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457550",
+    "locality": "Do batti",
+    "landmark": "near Jalaram sweets, Do batti, Ratlam, Madhya Pradesh 457550",
+    "emergencyContact": "062634 99890",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/CARE+32+Dental+Hospital+%26+Implant+Centre+%F0%9F%A6%B7/@23.4729659,74.9313052,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9a39bac461:0x2fb85ea4e2561fa2!8m2!3d23.4729659!4d74.9313052!16s%2Fg%2F11h7cnvnlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CARE+32+Dental+Hospital+%26+Implant+Centre+%F0%9F%A6%B7/@23.4729659,74.9313052,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9a39bac461:0x2fb85ea4e2561fa2!8m2!3d23.4729659!4d74.9313052!16s%2Fg%2F11h7cnvnlz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.4729659,
+      "lng": 74.9313052,
+      "label": "CARE 32 Dental Hospital & Implant Centre 🦷",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chahar-trauma-center-ratlam",
+    "name": "Chahar Trauma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Chahar Trauma Center delivers integrated care across Spine Surgery In Ratlam. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MCH, Chahar Trauma Center, Rajeev Gandhi Civic center Shastri Nagar, Infront of, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Infront of",
+    "landmark": "Rajeev Gandhi Civic center Shastri Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Chahar+Trauma+Center/@23.3300961,75.0383711,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea46b2dfc8b:0xa0a39f643304e7d7!8m2!3d23.3300961!4d75.0383711!16s%2Fg%2F1tdcpyby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chahar+Trauma+Center/@23.3300961,75.0383711,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea46b2dfc8b:0xa0a39f643304e7d7!8m2!3d23.3300961!4d75.0383711!16s%2Fg%2F1tdcpyby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3300961,
+      "lng": 75.0383711,
+      "label": "Chahar Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "civil-hospital-ratlam-ratlam",
+    "name": "Civil Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Civil Hospital Ratlam is a prominent hospital in Ratlam, known for structured tertiary care across Knee Replacement Surgery In Ratlam. Hospital capacity markers such as Google rating 3.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "College Road, Nahar Pura Rd, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Nahar Pura Rd",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Civil+Hospital+Ratlam/@23.3273111,75.0392406,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff41e6095f8b:0x92f6ec4fbe201081!8m2!3d23.3273111!4d75.0392406!16s%2Fg%2F11ls_1rvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Civil+Hospital+Ratlam/@23.3273111,75.0392406,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff41e6095f8b:0x92f6ec4fbe201081!8m2!3d23.3273111!4d75.0392406!16s%2Fg%2F11ls_1rvbv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3273111,
+      "lng": 75.0392406,
+      "label": "Civil Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-ratlam",
+    "name": "Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Clinic has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Liver Transplant Surgery In Ratlam. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087702 07164",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82RP+W8M Shradhashree Clinic, Jawahar Nagar Rd, near Ganesh Mandir Road, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Jawahar Nagar",
+    "landmark": "near Ganesh Mandir Road, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "087702 07164",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Clinic/@23.3423276,75.0357835,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa71dba6c07:0xf045c2a55f151a2d!8m2!3d23.3423276!4d75.0357835!16s%2Fg%2F11lnkh3bnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic/@23.3423276,75.0357835,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa71dba6c07:0xf045c2a55f151a2d!8m2!3d23.3423276!4d75.0357835!16s%2Fg%2F11lnkh3bnt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3423276,
+      "lng": 75.0357835,
+      "label": "Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-ratlam",
+    "name": "Clinic",
+    "type": "Health Consultant",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Clinic for its strength in Spine Surgery In Ratlam and Health Consultant. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kanchan shree, Lokendra Talkies Rd, near stayam pathology lab, ratalm, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "near stayam pathology lab, ratalm, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Ratlam",
+      "Health Consultant"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Clinic/@23.3290388,75.0390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe8078e1b8d:0x51f6707402ff94b!8m2!3d23.3290388!4d75.0390178!16s%2Fg%2F11yd7_72dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic/@23.3290388,75.0390178,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffe8078e1b8d:0x51f6707402ff94b!8m2!3d23.3290388!4d75.0390178!16s%2Fg%2F11yd7_72dl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3290388,
+      "lng": 75.0390178,
+      "label": "Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devarsh-mother-and-child-clinic-ratlam-ratlam",
+    "name": "Devarsh mother and child clinic Ratlam",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Devarsh mother and child clinic Ratlam for its strength in Cosmetic Surgery In Ratlam and Women and Child Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "085160 67555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "chhajed bhavan, 33 infront of, near Jain school, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "near Jain school",
+    "landmark": "near Jain school, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "085160 67555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Devarsh+mother+and+child+clinic+Ratlam/@23.3235299,75.0269256,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0079bc9c73:0x57767f2330146ac0!8m2!3d23.3235299!4d75.0269256!16s%2Fg%2F11xcjthwdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devarsh+mother+and+child+clinic+Ratlam/@23.3235299,75.0269256,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0079bc9c73:0x57767f2330146ac0!8m2!3d23.3235299!4d75.0269256!16s%2Fg%2F11xcjthwdr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3235299,
+      "lng": 75.0269256,
+      "label": "Devarsh mother and child clinic Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "diamond-dental-clinic-e-3-alkapuri-auto-stand",
+    "name": "Diamond dental clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Diamond dental clinic has built a strong reputation in E-3 Alkapuri auto stand for multidisciplinary treatment pathways covering Oral Surgery In Ratlam and Dentist. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098277 19789",
+    "alternatePhone": "",
+    "website": "",
+    "address": "E-3 Alkapuri auto stand, Madhya Pradesh 457001",
+    "city": "E-3 Alkapuri auto stand",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "098277 19789",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Diamond+dental+clinic/@23.3441547,75.0303283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff79a10c709b:0x4dd12ac196d5cc22!8m2!3d23.3441547!4d75.0303283!16s%2Fg%2F11f9yy4cs5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Diamond+dental+clinic/@23.3441547,75.0303283,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff79a10c709b:0x4dd12ac196d5cc22!8m2!3d23.3441547!4d75.0303283!16s%2Fg%2F11f9yy4cs5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3441547,
+      "lng": 75.0303283,
+      "label": "Diamond dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "district-hospital-ratlam-ratlam",
+    "name": "District hospital ratlam",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "District hospital ratlam has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Ratlam. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sampurna suraksha kendra, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/District+hospital+ratlam/@23.3271792,75.0390936,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0000b48f93:0x5531b5029aaa821a!8m2!3d23.3271792!4d75.0390936!16s%2Fg%2F11xdfpx73b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/District+hospital+ratlam/@23.3271792,75.0390936,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0000b48f93:0x5531b5029aaa821a!8m2!3d23.3271792!4d75.0390936!16s%2Fg%2F11xdfpx73b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3271792,
+      "lng": 75.0390936,
+      "label": "District hospital ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "divya-jyoti-netralaya-ratlam",
+    "name": "Divya Jyoti Netralaya",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Divya Jyoti Netralaya has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Cosmetic Surgery In Ratlam and Eye Care Center. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091112 59003",
+    "alternatePhone": "",
+    "website": "",
+    "address": "80 Feet Rd, near Vashaili marriage garden, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Kasturba Nagar",
+    "landmark": "near Vashaili marriage garden, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "091112 59003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Divya+Jyoti+Netralaya/@23.3423269,75.0259519,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d5e156b6d:0x6e674867db75392c!8m2!3d23.3423269!4d75.0259519!16s%2Fg%2F11bxg2_gq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Divya+Jyoti+Netralaya/@23.3423269,75.0259519,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d5e156b6d:0x6e674867db75392c!8m2!3d23.3423269!4d75.0259519!16s%2Fg%2F11bxg2_gq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3423269,
+      "lng": 75.0259519,
+      "label": "Divya Jyoti Netralaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dua-dental-clinic-ratlam",
+    "name": "Dua Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Dua Dental Clinic for its strength in Oral Surgery In Ratlam. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82HM+GC, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Dua+Dental+Clinic/@23.3288125,75.0335625,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff7ef835eff1:0x3807e8fcc9860b28!8m2!3d23.3288125!4d75.0335625!16s%2Fg%2F11gnplbpcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dua+Dental+Clinic/@23.3288125,75.0335625,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff7ef835eff1:0x3807e8fcc9860b28!8m2!3d23.3288125!4d75.0335625!16s%2Fg%2F11gnplbpcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3288125,
+      "lng": 75.0335625,
+      "label": "Dua Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ekdant-absolute-dental-solutions-best-dentist-in-ratlam-dental-clinic-in-ratlam-root-canal-treatment-in-ratlam-ratlam",
+    "name": "Ekdant Absolute Dental Solutions || Best Dentist In Ratlam | Dental Clinic In Ratlam | Root Canal Treatment In Ratlam",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ekdant Absolute Dental Solutions || Best Dentist In Ratlam | Dental Clinic In Ratlam | Root Canal Treatment In Ratlam is a prominent dental clinic in Ratlam, known for structured tertiary care across Oral Surgery In Ratlam. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074123 57025",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4,Ratanpuri Turn near Alkapuri Square, Ratnapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Ratnapuri",
+    "landmark": "near Alkapuri Square, Ratnapuri, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "074123 57025",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ekdant+Absolute+Dental+Solutions+%7C%7C+Best+Dentist+In+Ratlam+%7C+Dental+Clinic+In+Ratlam+%7C+Root+Canal+Treatment+In+Ratlam/@23.344382,75.029474,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc8ae0dcd7b:0x31880485ddd5d6ae!8m2!3d23.344382!4d75.029474!16s%2Fg%2F11nngv903c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ekdant+Absolute+Dental+Solutions+%7C%7C+Best+Dentist+In+Ratlam+%7C+Dental+Clinic+In+Ratlam+%7C+Root+Canal+Treatment+In+Ratlam/@23.344382,75.029474,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc8ae0dcd7b:0x31880485ddd5d6ae!8m2!3d23.344382!4d75.029474!16s%2Fg%2F11nngv903c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.344382,
+      "lng": 75.029474,
+      "label": "Ekdant Absolute Dental Solutions || Best Dentist In Ratlam | Dental Clinic In Ratlam | Root Canal Treatment In Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eklavya-hospital-ratlam",
+    "name": "Eklavya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Eklavya Hospital for its strength in Gynecologist Surgery In Ratlam. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "84, Sailana Rd, near sakshi petrol pump, Komal Nagar, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Alkapuri",
+    "landmark": "near sakshi petrol pump, Komal Nagar, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Eklavya+Hospital/@23.3482874,75.0286838,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007961c66b:0x6fb3537d407c6b6e!8m2!3d23.3482874!4d75.0286838!16s%2Fg%2F11x0jg_yhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Eklavya+Hospital/@23.3482874,75.0286838,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007961c66b:0x6fb3537d407c6b6e!8m2!3d23.3482874!4d75.0286838!16s%2Fg%2F11x0jg_yhy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3482874,
+      "lng": 75.0286838,
+      "label": "Eklavya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "evana-beauty-salon-only-for-females-best-beauty-salon-in-ratlam-best-beauty-parlour-bridal-makeup-hairtreatment-ratlam",
+    "name": "Evana beauty salon(only for females) - Best Beauty Salon in Ratlam, Best Beauty Parlour, Bridal Makeup, HairTreatment",
+    "type": "Beauty Parlour",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Evana beauty salon(only for females) - Best Beauty Salon in Ratlam, Best Beauty Parlour, Bridal Makeup, HairTreatment brings together specialists for Cosmetic Surgery In Ratlam and Beauty Parlour. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070008 61909",
+    "alternatePhone": "",
+    "website": "",
+    "address": "128, Patrakar and Rajaswa Colony Main Rd, behind reliance petrol pump, Palsoda, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "behind reliance petrol pump",
+    "emergencyContact": "070008 61909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam",
+      "Beauty Parlour"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Evana+beauty+salon(only+for+females)+-+Best+Beauty+Salon+in+Ratlam,+Best+Beauty+Parlour,+Bridal+Makeup,+HairTreatment/@23.334911,75.0375855,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff2fcf82bd5f:0x30346f2cfd464371!8m2!3d23.334911!4d75.0375855!16s%2Fg%2F11f7r5t_cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Evana+beauty+salon(only+for+females)+-+Best+Beauty+Salon+in+Ratlam,+Best+Beauty+Parlour,+Bridal+Makeup,+HairTreatment/@23.334911,75.0375855,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff2fcf82bd5f:0x30346f2cfd464371!8m2!3d23.334911!4d75.0375855!16s%2Fg%2F11f7r5t_cs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.334911,
+      "lng": 75.0375855,
+      "label": "Evana beauty salon(only for females) - Best Beauty Salon in Ratlam, Best Beauty Parlour, Bridal Makeup, HairTreatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "first-choice-dental-clinic-best-dental-clinic-implant-centre-dentist-in-ratlam-ratlam",
+    "name": "First Choice Dental Clinic || Best Dental Clinic | Implant Centre | Dentist In Ratlam",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "First Choice Dental Clinic || Best Dental Clinic | Implant Centre | Dentist In Ratlam has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Oral Surgery In Ratlam and Dentist. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099810 51186",
+    "alternatePhone": "",
+    "website": "",
+    "address": "182, main road, near govt commerce college, Mohan Nagar, Dongre Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Dongre Nagar",
+    "landmark": "near govt commerce college, Mohan Nagar, Dongre Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "099810 51186",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/First+Choice+Dental+Clinic+%7C%7C+Best+Dental+Clinic+%7C+Implant+Centre+%7C+Dentist+In+Ratlam/@23.3325009,75.0249071,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff49e881201:0x9a15c74fafb1b5fe!8m2!3d23.3325009!4d75.0249071!16s%2Fg%2F11y12jq5y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/First+Choice+Dental+Clinic+%7C%7C+Best+Dental+Clinic+%7C+Implant+Centre+%7C+Dentist+In+Ratlam/@23.3325009,75.0249071,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff49e881201:0x9a15c74fafb1b5fe!8m2!3d23.3325009!4d75.0249071!16s%2Fg%2F11y12jq5y1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3325009,
+      "lng": 75.0249071,
+      "label": "First Choice Dental Clinic || Best Dental Clinic | Implant Centre | Dentist In Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gastrologist-ratlam",
+    "name": "Gastrologist",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Gastrologist brings together specialists for Liver Transplant Surgery In Ratlam and Gastroenterology. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82JP+JM3, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Gastrologist/@23.3315103,75.0366677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0f159d5da1:0xbb71dbd62f182706!8m2!3d23.3315103!4d75.0366677!16s%2Fg%2F11j4k55v5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gastrologist/@23.3315103,75.0366677,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0f159d5da1:0xbb71dbd62f182706!8m2!3d23.3315103!4d75.0366677!16s%2Fg%2F11j4k55v5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3315103,
+      "lng": 75.0366677,
+      "label": "Gastrologist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gd-hospital-ratlam-ratlam",
+    "name": "GD Hospital ,Ratlam",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GD Hospital ,Ratlam is a prominent private hospital in Ratlam, known for structured tertiary care across Urologist Surgery In Ratlam. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@gdhospitals.com",
+    "phone": "091110 13321",
+    "alternatePhone": "+91 97524 50505",
+    "website": "http://www.gdhospitals.com/",
+    "address": "80 Feet Rd, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Kasturba Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "+91 97524 50505",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gdhospital/",
+    "twitter": "https://x.com/gdhospital",
+    "instagram": "https://www.instagram.com/gdhospital",
+    "linkedin": "https://www.linkedin.com/company/gd-hospital/",
+    "youtube": "https://www.youtube.com/channel/UCJOQjfU5HGPGKwVi88KcWcg",
+    "specialties": [
+      "Urologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GD+Hospital+,Ratlam/@23.3395722,75.0280951,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe97fd336861:0xa13b346d1b1968dd!8m2!3d23.3395722!4d75.0280951!16s%2Fg%2F11g9hf_10y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GD+Hospital+,Ratlam/@23.3395722,75.0280951,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe97fd336861:0xa13b346d1b1968dd!8m2!3d23.3395722!4d75.0280951!16s%2Fg%2F11g9hf_10y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3395722,
+      "lng": 75.0280951,
+      "label": "GD Hospital ,Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "getwell-hospital-and-research-center-ratlam",
+    "name": "Getwell Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Getwell Hospital and Research Center for its strength in Gynecologist Surgery In Ratlam. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "getwellhospitalratlam@gmail.com",
+    "phone": "079995 66198",
+    "alternatePhone": "074122 39134",
+    "website": "https://www.getwellhospitalratlam.in/",
+    "address": "Post Office Road, near Bal chikitsalay, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "near Bal chikitsalay, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "074122 39134",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/wix",
+    "twitter": "https://www.twitter.com/wix",
+    "instagram": "https://www.instagram.com/wix",
+    "linkedin": "https://www.linkedin.com/company/wix-com",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Getwell+Hospital+and+Research+Center/@23.3297448,75.0381714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea270c50309:0x715be478d4c5faf9!8m2!3d23.3297448!4d75.0381714!16s%2Fg%2F124sx8md5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Getwell+Hospital+and+Research+Center/@23.3297448,75.0381714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea270c50309:0x715be478d4c5faf9!8m2!3d23.3297448!4d75.0381714!16s%2Fg%2F124sx8md5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3297448,
+      "lng": 75.0381714,
+      "label": "Getwell Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "goverment-district-hospital-ratlam-ratlam",
+    "name": "Goverment District Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Goverment District Hospital Ratlam for its strength in Cosmetic Surgery In Ratlam. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "College Road, Nahar Pura Rd, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Nahar Pura Rd",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Goverment+District+Hospital+Ratlam/@23.3269888,75.038212,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea201870f43:0x22d7ecca98e3d86d!8m2!3d23.3269888!4d75.038212!16s%2Fg%2F11f15hqnh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Goverment+District+Hospital+Ratlam/@23.3269888,75.038212,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea201870f43:0x22d7ecca98e3d86d!8m2!3d23.3269888!4d75.038212!16s%2Fg%2F11f15hqnh7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3269888,
+      "lng": 75.038212,
+      "label": "Goverment District Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-cancer-clinic-ratlam",
+    "name": "HCG CANCER CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Ratlam, HCG CANCER CLINIC delivers integrated care across Oncologist Surgery In Ratlam. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Jawahar Nagar",
+    "landmark": "Madhya Pradesh 457001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+CANCER+CLINIC/@23.3394946,75.0328464,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe941a7bfa81:0xc10892cfbb03132!8m2!3d23.3394946!4d75.0328464!16s%2Fg%2F11l223knsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+CANCER+CLINIC/@23.3394946,75.0328464,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe941a7bfa81:0xc10892cfbb03132!8m2!3d23.3394946!4d75.0328464!16s%2Fg%2F11l223knsn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3394946,
+      "lng": 75.0328464,
+      "label": "HCG CANCER CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "homeo-clinic-ratlam",
+    "name": "Homeo Clinic",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted homeopath in Ratlam, Homeo Clinic delivers integrated care across Cardiac Surgery In Ratlam and Homeopath. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://drsoumya.my.canva.site/",
+    "address": "65, Sneh Nagar, 80 Feet Rd, near water tank, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "near water tank",
+    "landmark": "near water tank, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Homeopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Homeo+Clinic/@23.3426461,75.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff3ab89ec455:0x324e61b5d1439f6b!8m2!3d23.3426461!4d75.0235957!16s%2Fg%2F11rpdgjhvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Homeo+Clinic/@23.3426461,75.0235957,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff3ab89ec455:0x324e61b5d1439f6b!8m2!3d23.3426461!4d75.0235957!16s%2Fg%2F11rpdgjhvf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3426461,
+      "lng": 75.0235957,
+      "label": "Homeo Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-and-ivf-center-in-ratlam-best-iui-icsi-and-ivf-treatment-ratlam",
+    "name": "Indira IVF Fertility & IVF Center in Ratlam – Best IUI, ICSI & IVF Treatment",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Ratlam, Indira IVF Fertility & IVF Center in Ratlam – Best IUI, ICSI & IVF Treatment delivers integrated care across IVF In Ratlam and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3pCIyXN",
+    "address": "1st floor, Gayatri Cinema Mall, Subhash Marg, above Dominos, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "above Dominos",
+    "landmark": "Subhash Marg",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Ratlam",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Ratlam+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/@23.3302129,75.0370945,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff560da6a593:0xb4e6e8a9177c7c22!8m2!3d23.3302129!4d75.0370945!16s%2Fg%2F11j4mjyrll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+%26+IVF+Center+in+Ratlam+%E2%80%93+Best+IUI,+ICSI+%26+IVF+Treatment/@23.3302129,75.0370945,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff560da6a593:0xb4e6e8a9177c7c22!8m2!3d23.3302129!4d75.0370945!16s%2Fg%2F11j4mjyrll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3302129,
+      "lng": 75.0370945,
+      "label": "Indira IVF Fertility & IVF Center in Ratlam – Best IUI, ICSI & IVF Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jain-chest-clinic-ratlam",
+    "name": "Jain Chest Clinic",
+    "type": "Pulmonologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Jain Chest Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Ratlam and Pulmonologist. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094248 02223",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vishal Mega Mart Campus, Sailana Bus Stand Near Vishal Mega Mart, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Sailana Bus Stand Near Vishal Mega Mart",
+    "landmark": "Near Vishal Mega Mart, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "094248 02223",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam",
+      "Pulmonologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Jain+Chest+Clinic/@23.33262,75.036644,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff4c36f2a89:0x1833d36aabb7717e!8m2!3d23.33262!4d75.036644!16s%2Fg%2F11fmzk30gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jain+Chest+Clinic/@23.33262,75.036644,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff4c36f2a89:0x1833d36aabb7717e!8m2!3d23.33262!4d75.036644!16s%2Fg%2F11fmzk30gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.33262,
+      "lng": 75.036644,
+      "label": "Jain Chest Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jain-diwakar-sri-aurobindo-hospital-ratlam",
+    "name": "Jain Diwakar Sri Aurobindo Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jain Diwakar Sri Aurobindo Hospital is a prominent general hospital in Ratlam, known for structured tertiary care across Orthopedic Surgery In Ratlam. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "+91 73142 31010",
+    "alternatePhone": "96850 26677",
+    "website": "http://www.saimsonline.com/",
+    "address": "82G9+J5H, Sagod Rd, Mohan Nagar, Dongre Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Dongre Nagar",
+    "landmark": "Mohan Nagar",
+    "emergencyContact": "+91 73142 31010",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Sri-Aurobindo-University-SAU-106055085176828",
+    "twitter": "https://www.eduqfix.com/PayDirect/",
+    "instagram": "https://www.instagram.com/sriaurobindouniversity_sau/",
+    "linkedin": "https://www.linkedin.com/company/sri-aurobindo-university-sau/",
+    "youtube": "https://www.youtube.com/channel/UC7NuvxfBIG0QFnHADWXCEDA/videos",
+    "specialties": [
+      "Orthopedic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jain+Diwakar+Sri+Aurobindo+Hospital/@23.3268383,75.0200421,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe86a65a7043:0xee16cd243899da16!8m2!3d23.3268383!4d75.0200421!16s%2Fg%2F1tgx0f42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jain+Diwakar+Sri+Aurobindo+Hospital/@23.3268383,75.0200421,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe86a65a7043:0xee16cd243899da16!8m2!3d23.3268383!4d75.0200421!16s%2Fg%2F1tgx0f42?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3268383,
+      "lng": 75.0200421,
+      "label": "Jain Diwakar Sri Aurobindo Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jain-tara-dental-clinic-ratlam",
+    "name": "Jain Tara Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Jain Tara Dental Clinic for its strength in Oral Surgery In Ratlam. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094240 47698",
+    "alternatePhone": "",
+    "website": "",
+    "address": "42, Hanuman Rundi Road, Bharava Kui, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "Bharava Kui",
+    "emergencyContact": "094240 47698",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jain+Tara+Dental+Clinic/@23.3186816,75.0350324,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc204f400001:0x520df0e3f0a6e25f!8m2!3d23.3186816!4d75.0350324!16s%2Fg%2F11dz5qfk4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jain+Tara+Dental+Clinic/@23.3186816,75.0350324,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc204f400001:0x520df0e3f0a6e25f!8m2!3d23.3186816!4d75.0350324!16s%2Fg%2F11dz5qfk4l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3186816,
+      "lng": 75.0350324,
+      "label": "Jain Tara Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaipur-ortho-care-ratlam",
+    "name": "jaipur ortho care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose jaipur ortho care for its strength in Orthopedic Surgery In Ratlam and Orthopaedics. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074122 67226",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VIP Rd, DRP Line, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "DRP Line",
+    "landmark": "Ratlam",
+    "emergencyContact": "074122 67226",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratlam",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/jaipur+ortho+care/@23.3231859,75.0569891,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc020b5eb6bb:0x111b675f0d1f077a!8m2!3d23.3231859!4d75.0569891!16s%2Fg%2F11cp7mp3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/jaipur+ortho+care/@23.3231859,75.0569891,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc020b5eb6bb:0x111b675f0d1f077a!8m2!3d23.3231859!4d75.0569891!16s%2Fg%2F11cp7mp3vs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3231859,
+      "lng": 75.0569891,
+      "label": "jaipur ortho care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevansh-hospital-ratlam",
+    "name": "Jeevansh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jeevansh Hospital has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratlam. Its infrastructure includes Google rating 3.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "80 Feet Rd, Central Plaza Colony, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Kasturba Nagar",
+    "landmark": "Kasturba Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevansh+Hospital/@23.338651,75.0293731,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe926961e70b:0x294f9bed0ad7b83d!8m2!3d23.338651!4d75.0293731!16s%2Fg%2F1tcxy6pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevansh+Hospital/@23.338651,75.0293731,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe926961e70b:0x294f9bed0ad7b83d!8m2!3d23.338651!4d75.0293731!16s%2Fg%2F1tcxy6pw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.338651,
+      "lng": 75.0293731,
+      "label": "Jeevansh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamla-eye-day-care-centre-ratlam",
+    "name": "Kamla Eye Day Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Kamla Eye Day Care Centre delivers integrated care across Cosmetic Surgery In Ratlam. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@kamlaeyecentre.in",
+    "phone": "081092 79727",
+    "alternatePhone": "",
+    "website": "https://kamlaeyecentre.in/",
+    "address": "100, Gali Number 1, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "Shrimalivas",
+    "emergencyContact": "081092 79727",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100067981950274&mibextid=ZbWKwL",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kamla+Eye+Day+Care+Centre/@23.3259759,75.0385392,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea1dccf1ff7:0xf971bf3bd1920532!8m2!3d23.3259759!4d75.0385392!16s%2Fg%2F11dzwcf09w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kamla+Eye+Day+Care+Centre/@23.3259759,75.0385392,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea1dccf1ff7:0xf971bf3bd1920532!8m2!3d23.3259759!4d75.0385392!16s%2Fg%2F11dzwcf09w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3259759,
+      "lng": 75.0385392,
+      "label": "Kamla Eye Day Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kayakalp-clinic-ratlam",
+    "name": "KAYAKALP CLINIC",
+    "type": "Laser Hair Removal Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KAYAKALP CLINIC has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Cosmetic Surgery In Ratlam and Laser Hair Removal Service. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074897 51397",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AT AAUSHADHI MEDICAL PRESENT, FRONT OF VIJAY JUICE CENTER!, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Katju Nagar",
+    "emergencyContact": "074897 51397",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam",
+      "Laser Hair Removal Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/KAYAKALP+CLINIC/@23.3287849,75.0374657,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd5c55dfd77:0xe8823c26990f9481!8m2!3d23.3287849!4d75.0374657!16s%2Fg%2F11wjmg0wf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KAYAKALP+CLINIC/@23.3287849,75.0374657,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd5c55dfd77:0xe8823c26990f9481!8m2!3d23.3287849!4d75.0374657!16s%2Fg%2F11wjmg0wf4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3287849,
+      "lng": 75.0374657,
+      "label": "KAYAKALP CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khandelwal-clinic-ratlam",
+    "name": "Khandelwal clinic",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Khandelwal clinic brings together specialists for Kidney Transplant Surgery In Ratlam and ENT. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074124 00557",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31/1, Ajanta Talkies Rd, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Shastri Nagar",
+    "emergencyContact": "074124 00557",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratlam",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Khandelwal+clinic/@23.330659,75.0438076,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffdad10c815b:0xba622e3727128104!8m2!3d23.330659!4d75.0438076!16s%2Fg%2F11j2fmzwz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khandelwal+clinic/@23.330659,75.0438076,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffdad10c815b:0xba622e3727128104!8m2!3d23.330659!4d75.0438076!16s%2Fg%2F11j2fmzwz2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.330659,
+      "lng": 75.0438076,
+      "label": "Khandelwal clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khandelwal-fracture-hospital-and-physiotherapy-clinic-ratlam",
+    "name": "Khandelwal Fracture Hospital & Physiotherapy Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Khandelwal Fracture Hospital & Physiotherapy Clinic for its strength in Spine Surgery In Ratlam. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074122 43111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "39, Rajput Boarding, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Shastri Nagar",
+    "emergencyContact": "074122 43111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Khandelwal+Fracture+Hospital+%26+Physiotherapy+Clinic/@23.331272,75.0403092,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff86779e4355:0x974d706cc9316245!8m2!3d23.331272!4d75.0403092!16s%2Fg%2F11h196sgkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khandelwal+Fracture+Hospital+%26+Physiotherapy+Clinic/@23.331272,75.0403092,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff86779e4355:0x974d706cc9316245!8m2!3d23.331272!4d75.0403092!16s%2Fg%2F11h196sgkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.331272,
+      "lng": 75.0403092,
+      "label": "Khandelwal Fracture Hospital & Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kk-shah-hospital-ratlam-ratlam",
+    "name": "KK Shah Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KK Shah Hospital Ratlam is a prominent hospital in Ratlam, known for structured tertiary care across Kidney Transplant Surgery In Ratlam. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@shahhospitalratlam.com",
+    "phone": "074122 44797",
+    "alternatePhone": "+91 74124 08633",
+    "website": "http://shahhospitalratlam.com/",
+    "address": "124, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "+91 74124 08633",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/kkshahhospitals.ratlam/",
+    "linkedin": "https://in.linkedin.com/in/kk-shah-hospitals-limited-918b00350",
+    "youtube": "https://www.youtube.com/@KKShahHospitals-e7b",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KK+Shah+Hospital+Ratlam/@23.3316049,75.0304959,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98982d4435:0x71819f30290b4bd5!8m2!3d23.3316049!4d75.0304959!16s%2Fg%2F11pd1r948t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KK+Shah+Hospital+Ratlam/@23.3316049,75.0304959,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98982d4435:0x71819f30290b4bd5!8m2!3d23.3316049!4d75.0304959!16s%2Fg%2F11pd1r948t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3316049,
+      "lng": 75.0304959,
+      "label": "KK Shah Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kumawat-clinic-ratlam-pash",
+    "name": "Kumawat Clinic Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kumawat Clinic Ratlam has built a strong reputation in pash for multidisciplinary treatment pathways covering Cosmetic Surgery In Ratlam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "829C+253, Deendayal Nagar, ke, Tata Nagar, pash, Madhya Pradesh 457001",
+    "city": "pash",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tata Nagar",
+    "landmark": "ke",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kumawat+Clinic+Ratlam/@23.3174057,75.0206492,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd0067ead607:0x99029d4f2dd91af7!8m2!3d23.3174057!4d75.0206492!16s%2Fg%2F11z3xzh20b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kumawat+Clinic+Ratlam/@23.3174057,75.0206492,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd0067ead607:0x99029d4f2dd91af7!8m2!3d23.3174057!4d75.0206492!16s%2Fg%2F11z3xzh20b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3174057,
+      "lng": 75.0206492,
+      "label": "Kumawat Clinic Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-gayatri-hospital-ratlam",
+    "name": "Maa Gayatri Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Maa Gayatri Hospital delivers integrated care across Gynecologist Surgery In Ratlam. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074122 64040",
+    "alternatePhone": "",
+    "website": "https://www.maagayatrihospital.org/",
+    "address": "SH 10, 80 Feet Rd, behind Sajjan mill, Ratnapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Ratnapuri",
+    "landmark": "behind Sajjan mill",
+    "emergencyContact": "074122 64040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+Gayatri+Hospital/@23.3398818,75.0279307,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe924730cca3:0xbe9f05a2df18741d!8m2!3d23.3398818!4d75.0279307!16s%2Fg%2F1thcl53t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+Gayatri+Hospital/@23.3398818,75.0279307,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe924730cca3:0xbe9f05a2df18741d!8m2!3d23.3398818!4d75.0279307!16s%2Fg%2F1thcl53t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3398818,
+      "lng": 75.0279307,
+      "label": "Maa Gayatri Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-health-care-clinic-ratlam",
+    "name": "Maa Health Care Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Maa Health Care Clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Ratlam. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089896 69617",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MIG 3 New, near Dholawad Office, Indralok Nagar, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Alkapuri",
+    "landmark": "near Dholawad Office, Indralok Nagar, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "089896 69617",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+Health+Care+Clinic/@23.3422827,75.0355806,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff310485364f:0x29d9a993726a62d2!8m2!3d23.3422827!4d75.0355806!16s%2Fg%2F11tc_k60ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+Health+Care+Clinic/@23.3422827,75.0355806,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff310485364f:0x29d9a993726a62d2!8m2!3d23.3422827!4d75.0355806!16s%2Fg%2F11tc_k60ry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3422827,
+      "lng": 75.0355806,
+      "label": "Maa Health Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maheshwari-hospital-ratlam",
+    "name": "Maheshwari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Maheshwari Hospital brings together specialists for Orthopedic Surgery In Ratlam. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074122 35759",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus Stand, 404/405, Katju Nagar Main Road, near Sailana, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "near Sailana, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "074122 35759",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Maheshwari+Hospital/@23.3339312,75.0332526,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe975d556c8b:0xe8b5be6e1241beca!8m2!3d23.3339312!4d75.0332526!16s%2Fg%2F1tkv84w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maheshwari+Hospital/@23.3339312,75.0332526,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe975d556c8b:0xe8b5be6e1241beca!8m2!3d23.3339312!4d75.0332526!16s%2Fg%2F1tkv84w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3339312,
+      "lng": 75.0332526,
+      "label": "Maheshwari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medanta-labs-bohra-baakhal-ratlam-ratlam",
+    "name": "Medanta Labs - Bohra Baakhal, Ratlam",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Medanta Labs - Bohra Baakhal, Ratlam for its strength in Cardiac Surgery In Ratlam and Diagnostic Center. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0124 483 4542",
+    "alternatePhone": "",
+    "website": "https://www.medanta.org/medanta-labs",
+    "address": "Do Muh Ki Bawadi, near Arogyam Hospital, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "near Arogyam Hospital, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "0124 483 4542",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medanta+Labs+-+Bohra+Baakhal,+Ratlam/@23.3263106,75.0403026,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6258f0aa01:0x856ce5b55f7f0365!8m2!3d23.3263106!4d75.0403026!16s%2Fg%2F11vststzcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medanta+Labs+-+Bohra+Baakhal,+Ratlam/@23.3263106,75.0403026,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6258f0aa01:0x856ce5b55f7f0365!8m2!3d23.3263106!4d75.0403026!16s%2Fg%2F11vststzcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3263106,
+      "lng": 75.0403026,
+      "label": "Medanta Labs - Bohra Baakhal, Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medical-ratlam",
+    "name": "medical",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, medical offers coordinated hospital care with major focus on Liver Transplant Surgery In Ratlam and Medical Center. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "78, Sainik Colony, Tata Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tata Nagar",
+    "landmark": "Tata Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/medical/@23.321694,75.0218356,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff18bf25b2f1:0xab4449839f7f20f2!8m2!3d23.321694!4d75.0218356!16s%2Fg%2F11wwy_c5j0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/medical/@23.321694,75.0218356,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff18bf25b2f1:0xab4449839f7f20f2!8m2!3d23.321694!4d75.0218356!16s%2Fg%2F11wwy_c5j0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.321694,
+      "lng": 75.0218356,
+      "label": "medical",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mehra-nursing-home-ratlam",
+    "name": "Mehra Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Mehra Nursing Home brings together specialists for Liver Transplant Surgery In Ratlam. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074122 36633",
+    "alternatePhone": "",
+    "website": "http://mehranursinghome.com/",
+    "address": "63/64, Opp. BSNL Office, Katju Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Katju Nagar",
+    "landmark": "Katju Nagar",
+    "emergencyContact": "074122 36633",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mehra+Nursing+Home/@23.3316595,75.0309043,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9a16b74361:0x806b1e45577b306d!8m2!3d23.3316595!4d75.0309043!16s%2Fg%2F1hc3ygt76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mehra+Nursing+Home/@23.3316595,75.0309043,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9a16b74361:0x806b1e45577b306d!8m2!3d23.3316595!4d75.0309043!16s%2Fg%2F1hc3ygt76?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3316595,
+      "lng": 75.0309043,
+      "label": "Mehra Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-diagnostic-centre-and-blood-test-in-plywood-ratlam-ratlam",
+    "name": "Metropolis Labs - Diagnostic Centre & Blood Test in Plywood, Ratlam",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Metropolis Labs - Diagnostic Centre & Blood Test in Plywood, Ratlam brings together specialists for Cardiac Surgery In Ratlam and Diagnostic Center. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084228 01801",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/",
+    "address": "160, Lakkadpitha Road, opposite Arham Plywood, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "opposite Arham Plywood, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+-+Diagnostic+Centre+%26+Blood+Test+in+Plywood,+Ratlam/@23.3223501,75.0296593,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffae77ce8115:0x6038eef9f6b84203!8m2!3d23.3223501!4d75.0296593!16s%2Fg%2F11nhfwmk5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+-+Diagnostic+Centre+%26+Blood+Test+in+Plywood,+Ratlam/@23.3223501,75.0296593,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffae77ce8115:0x6038eef9f6b84203!8m2!3d23.3223501!4d75.0296593!16s%2Fg%2F11nhfwmk5_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3223501,
+      "lng": 75.0296593,
+      "label": "Metropolis Labs - Diagnostic Centre & Blood Test in Plywood, Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-ratlam-ratlam",
+    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Cardiac Surgery In Ratlam and Diagnostic Center. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073168 78841",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-main-road-alkapuri-main-road-ratlam",
+    "address": "A-111, Alkapuri Main Road, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Alkapuri",
+    "landmark": "Alkapuri",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.344127,75.032195,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff294ef821b5:0x40cc75467a584f49!8m2!3d23.344127!4d75.032195!16s%2Fg%2F11ml05lsw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.344127,75.032195,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff294ef821b5:0x40cc75467a584f49!8m2!3d23.344127!4d75.032195!16s%2Fg%2F11ml05lsw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.344127,
+      "lng": 75.032195,
+      "label": "Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-ratlam-ratlam",
+    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam offers coordinated hospital care with major focus on Cardiac Surgery In Ratlam and Diagnostic Center. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073168 78840",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-main-road-alkapuri-main-road-ratlam",
+    "address": "Municipal No, 51/B, New Rd, opposite Gurudwara Shri Guru Singh Sabha, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "opposite Gurudwara Shri Guru Singh Sabha, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.330481,75.0427401,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9322f96855:0x8cec1d091ef212a6!8m2!3d23.330481!4d75.0427401!16s%2Fg%2F11vpyq95cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Ratlam/@23.330481,75.0427401,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9322f96855:0x8cec1d091ef212a6!8m2!3d23.330481!4d75.0427401!16s%2Fg%2F11vpyq95cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.330481,
+      "lng": 75.0427401,
+      "label": "Metropolis Labs | Blood Test & Diagnostic Centre in Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nemo-homeoderm-clinic-skin-hair-laser-homoeopathy-ratlam",
+    "name": "Nemo Homeoderm clinic skin | Hair | Laser| Homoeopathy",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Nemo Homeoderm clinic skin | Hair | Laser| Homoeopathy for its strength in Cosmetic Surgery In Ratlam. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087707 81741",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nemo Homeoderm Clinic, 124, Station Rd, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Station Rd",
+    "landmark": "Station Rd",
+    "emergencyContact": "087707 81741",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nemo+Homeoderm+clinic+skin+%7C+Hair+%7C+Laser%7C+Homoeopathy/@23.3347541,75.048547,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0455e9323d:0x7aa810b5b94c0fd1!8m2!3d23.3347541!4d75.048547!16s%2Fg%2F11x5ch2ysd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nemo+Homeoderm+clinic+skin+%7C+Hair+%7C+Laser%7C+Homoeopathy/@23.3347541,75.048547,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff0455e9323d:0x7aa810b5b94c0fd1!8m2!3d23.3347541!4d75.048547!16s%2Fg%2F11x5ch2ysd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3347541,
+      "lng": 75.048547,
+      "label": "Nemo Homeoderm clinic skin | Hair | Laser| Homoeopathy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nemohomeoderm-best-skin-hair-laser-and-homeopathy-clinic-in-ratlam-ratlam",
+    "name": "NEMOHOMEODERM | BEST SKIN, HAIR, LASER AND HOMEOPATHY CLINIC IN RATLAM",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Ratlam, NEMOHOMEODERM | BEST SKIN, HAIR, LASER AND HOMEOPATHY CLINIC IN RATLAM delivers integrated care across Cosmetic Surgery In Ratlam. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shivaay Medical, 85, Freeganj Rd, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Freeganj Rd",
+    "landmark": "Freeganj Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/NEMOHOMEODERM+%7C+BEST+SKIN,+HAIR,+LASER+AND+HOMEOPATHY+CLINIC+IN+RATLAM/@23.3351726,75.0480473,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff07ad8b0ad:0x4391b4b6fe02f996!8m2!3d23.3351726!4d75.0480473!16s%2Fg%2F11x28lrdcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEMOHOMEODERM+%7C+BEST+SKIN,+HAIR,+LASER+AND+HOMEOPATHY+CLINIC+IN+RATLAM/@23.3351726,75.0480473,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff07ad8b0ad:0x4391b4b6fe02f996!8m2!3d23.3351726!4d75.0480473!16s%2Fg%2F11x28lrdcr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3351726,
+      "lng": 75.0480473,
+      "label": "NEMOHOMEODERM | BEST SKIN, HAIR, LASER AND HOMEOPATHY CLINIC IN RATLAM",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-life-poly-clinic-ratlam",
+    "name": "New Life Poly Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "New Life Poly Clinic is a prominent skin care clinic in Ratlam, known for structured tertiary care across Liver Transplant Surgery In Ratlam. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094248 09548",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82GR+JHV New Life Poly Clinic, College Road, near Modern Chemist, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "near Modern Chemist, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "094248 09548",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/New+Life+Poly+Clinic/@23.3266018,75.0414121,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea114ae79cf:0xb14dc139c06ff070!8m2!3d23.3266018!4d75.0414121!16s%2Fg%2F11g9r2z641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Life+Poly+Clinic/@23.3266018,75.0414121,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea114ae79cf:0xb14dc139c06ff070!8m2!3d23.3266018!4d75.0414121!16s%2Fg%2F11g9r2z641?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3266018,
+      "lng": 75.0414121,
+      "label": "New Life Poly Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "niraamay-clinic-of-homeopathy-dr-yogendra-patidar-ratlam",
+    "name": "Niraamay Clinic of Homeopathy (Dr Yogendra Patidar)",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Niraamay Clinic of Homeopathy (Dr Yogendra Patidar) is a prominent homeopath in Ratlam, known for structured tertiary care across Plastic Surgery In Ratlam and Homeopath. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088271 66342",
+    "alternatePhone": "",
+    "website": "",
+    "address": "148, main road, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Shastri Nagar",
+    "emergencyContact": "088271 66342",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Ratlam",
+      "Homeopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Niraamay+Clinic+of+Homeopathy+(Dr+Yogendra+Patidar)/@23.3316555,75.0405543,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2399257d1:0x63684690f32135c7!8m2!3d23.3316555!4d75.0405543!16s%2Fg%2F11s82yztvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Niraamay+Clinic+of+Homeopathy+(Dr+Yogendra+Patidar)/@23.3316555,75.0405543,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2399257d1:0x63684690f32135c7!8m2!3d23.3316555!4d75.0405543!16s%2Fg%2F11s82yztvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3316555,
+      "lng": 75.0405543,
+      "label": "Niraamay Clinic of Homeopathy (Dr Yogendra Patidar)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirmal-clinic-dr-nirmala-dangi-ratlam",
+    "name": "Nirmal Clinic (Dr Nirmala Dangi)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Nirmal Clinic (Dr Nirmala Dangi) brings together specialists for Gynecologist Surgery In Ratlam. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078794 44071",
+    "alternatePhone": "",
+    "website": "",
+    "address": "163 Hat Road, Hat Road, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "078794 44071",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nirmal+Clinic+(Dr+Nirmala+Dangi)/@23.3280806,75.0322097,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe995b083ecf:0x64850c14dbbed4f!8m2!3d23.3280806!4d75.0322097!16s%2Fg%2F11fxd_h4fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirmal+Clinic+(Dr+Nirmala+Dangi)/@23.3280806,75.0322097,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe995b083ecf:0x64850c14dbbed4f!8m2!3d23.3280806!4d75.0322097!16s%2Fg%2F11fxd_h4fm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3280806,
+      "lng": 75.0322097,
+      "label": "Nirmal Clinic (Dr Nirmala Dangi)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ojas-eye-hospital-dr-rinku-randa-baghel-ratlam",
+    "name": "OJAS EYE HOSPITAL (Dr Rinku Randa Baghel)",
+    "type": "Ophthalmologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose OJAS EYE HOSPITAL (Dr Rinku Randa Baghel) for its strength in Laparoscopic Surgery In Ratlam and Ophthalmologist. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088399 54131",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr Mulkraj Punjabi Memorial Dental Clinic, 30, Palace Rd, opposite Yadav Restaurant, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "opposite Yadav Restaurant, Shrimalivas, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "088399 54131",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Ratlam",
+      "Ophthalmologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/OJAS+EYE+HOSPITAL+(Dr+Rinku+Randa+Baghel)/@23.3245413,75.0380903,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff94c123f057:0x8d2527dbc83c73f!8m2!3d23.3245413!4d75.0380903!16s%2Fg%2F11sqkdtwms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OJAS+EYE+HOSPITAL+(Dr+Rinku+Randa+Baghel)/@23.3245413,75.0380903,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff94c123f057:0x8d2527dbc83c73f!8m2!3d23.3245413!4d75.0380903!16s%2Fg%2F11sqkdtwms?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3245413,
+      "lng": 75.0380903,
+      "label": "OJAS EYE HOSPITAL (Dr Rinku Randa Baghel)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "padiyar-medical-hall-ratlam-ratlam",
+    "name": "Padiyar Medical Hall Ratlam",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Padiyar Medical Hall Ratlam offers coordinated hospital care with major focus on Cosmetic Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098270 13548",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82HH+5WR Madina Masjid, Haat Rd, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "098270 13548",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Padiyar+Medical+Hall+Ratlam/@23.327977,75.029759,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8a5027739:0xe05f14b05c53f602!8m2!3d23.327977!4d75.029759!16s%2Fg%2F11rpdbng8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Padiyar+Medical+Hall+Ratlam/@23.327977,75.029759,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8a5027739:0xe05f14b05c53f602!8m2!3d23.327977!4d75.029759!16s%2Fg%2F11rpdbng8h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.327977,
+      "lng": 75.029759,
+      "label": "Padiyar Medical Hall Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patidar-clinic-ratlam",
+    "name": "Patidar clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patidar clinic has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Liver Transplant Surgery In Ratlam. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088398 44990",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus Stand, amaliya bherav mandeer ke pahele Sailana, 48, katju market, near over bridges, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "near over bridges",
+    "landmark": "near over bridges, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "088398 44990",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Patidar+clinic/@23.3339126,75.0352802,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff84d4301c3:0x4b8f7fe72d03294b!8m2!3d23.3339126!4d75.0352802!16s%2Fg%2F11h7bvhmr7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patidar+clinic/@23.3339126,75.0352802,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fff84d4301c3:0x4b8f7fe72d03294b!8m2!3d23.3339126!4d75.0352802!16s%2Fg%2F11h7bvhmr7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3339126,
+      "lng": 75.0352802,
+      "label": "Patidar clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "railway-hospital-ratlam-ratlam",
+    "name": "Railway Hospital Ratlam",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Railway Hospital Ratlam for its strength in Laparoscopic Surgery In Ratlam. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074122 60532",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp, Road Number 4, Railway Hospital Road, Ratlam Railway Colony, Railway Colony, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Railway Colony",
+    "landmark": "Railway Hospital Road",
+    "emergencyContact": "074122 60532",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/posts/dr-harshit-rathore-2556b4142_covieshield-vaccine-all-activity-6762729058162896896-fnss",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Railway+Hospital+Ratlam/@23.3461009,75.0460551,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fec7846a1197:0xb27a5b8144c62363!8m2!3d23.3461009!4d75.0460551!16s%2Fg%2F11c31pnm1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Railway+Hospital+Ratlam/@23.3461009,75.0460551,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fec7846a1197:0xb27a5b8144c62363!8m2!3d23.3461009!4d75.0460551!16s%2Fg%2F11c31pnm1y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3461009,
+      "lng": 75.0460551,
+      "label": "Railway Hospital Ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratlam-hospital-and-research-centre-ratlam",
+    "name": "Ratlam Hospital & Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Ratlam Hospital & Research Centre for its strength in Liver Transplant Surgery In Ratlam. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074124 71819",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Road, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "074124 71819",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ratlam+Hospital+%26+Research+Centre/@23.3326704,75.041498,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea324fe42f1:0xeba73e5542450166!8m2!3d23.3326704!4d75.041498!16s%2Fg%2F11g8lpqf8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ratlam+Hospital+%26+Research+Centre/@23.3326704,75.041498,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea324fe42f1:0xeba73e5542450166!8m2!3d23.3326704!4d75.041498!16s%2Fg%2F11g8lpqf8n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3326704,
+      "lng": 75.041498,
+      "label": "Ratlam Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "redcliffe-labs-collection-center-ratlam",
+    "name": "Redcliffe Labs - Collection Center",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Redcliffe Labs - Collection Center brings together specialists for Cardiac Surgery In Ratlam and Diagnostic Center. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079691 22804",
+    "alternatePhone": "",
+    "website": "https://redcliffelabs.com/centre/redcliffe-labs-collection-center-ratlam-city-collection-center-diagnostic-centre-sheranipura-ratlam-300769",
+    "address": "Ground Floor, Opposite Jamat Khana, Sherani Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Sherani Pura",
+    "landmark": "Opposite Jamat Khana, Sherani Pura, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "079691 22804",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Ratlam",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@23.3222545,75.0490152,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd8c09946d8d:0xb53b4e191f79d764!8m2!3d23.3222545!4d75.0490152!16s%2Fg%2F11vjwb8wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Redcliffe+Labs+-+Collection+Center/@23.3222545,75.0490152,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fd8c09946d8d:0xb53b4e191f79d764!8m2!3d23.3222545!4d75.0490152!16s%2Fg%2F11vjwb8wv5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3222545,
+      "lng": 75.0490152,
+      "label": "Redcliffe Labs - Collection Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rhythm-heart-institute-ratlam",
+    "name": "Rhythm Heart Institute",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Rhythm Heart Institute for its strength in Heart Surgery In Ratlam and Cardiac Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aakansha Clinic, Shiv Mandir, 91, in front of Gate, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "91",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Ratlam",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Rhythm+Heart+Institute/@23.3306488,75.0410699,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007c7a609f:0xd5a8b3a549ddd170!8m2!3d23.3306488!4d75.0410699!16s%2Fg%2F11wq__gts9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rhythm+Heart+Institute/@23.3306488,75.0410699,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007c7a609f:0xd5a8b3a549ddd170!8m2!3d23.3306488!4d75.0410699!16s%2Fg%2F11wq__gts9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3306488,
+      "lng": 75.0410699,
+      "label": "Rhythm Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ridhaan-hospital-ratlam",
+    "name": "Ridhaan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Ridhaan Hospital brings together specialists for Gynecologist Surgery In Ratlam. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074122 64520",
+    "alternatePhone": "",
+    "website": "",
+    "address": "80 Feet Rd, Central Plaza Colony, Ratnapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Ratnapuri",
+    "landmark": "Ratnapuri",
+    "emergencyContact": "074122 64520",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Ridhaan+Hospital/@23.3409757,75.0257748,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d7f175bdf:0xeffbc0af3e27ba08!8m2!3d23.3409757!4d75.0257748!16s%2Fg%2F11c20cvhbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ridhaan+Hospital/@23.3409757,75.0257748,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe8d7f175bdf:0xeffbc0af3e27ba08!8m2!3d23.3409757!4d75.0257748!16s%2Fg%2F11c20cvhbj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3409757,
+      "lng": 75.0257748,
+      "label": "Ridhaan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rishabh-diagnostics-sonography-centre-ratlam",
+    "name": "Rishabh Diagnostics ( sonography centre)",
+    "type": "Radiologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rishabh Diagnostics ( sonography centre) has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratlam and Radiologist. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074122 34040",
+    "alternatePhone": "",
+    "website": "",
+    "address": "53 rajput boarding compound, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "074122 34040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam",
+      "Radiologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Rishabh+Diagnostics+(+sonography+centre)/@23.3308934,75.0405486,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2fe60294d:0x80326d1a8e1d693d!8m2!3d23.3308934!4d75.0405486!16s%2Fg%2F11f03sl45t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rishabh+Diagnostics+(+sonography+centre)/@23.3308934,75.0405486,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2fe60294d:0x80326d1a8e1d693d!8m2!3d23.3308934!4d75.0405486!16s%2Fg%2F11f03sl45t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3308934,
+      "lng": 75.0405486,
+      "label": "Rishabh Diagnostics ( sonography centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samarpan-hospital-and-research-center-near-rotary-hall",
+    "name": "Samarpan Hospital and research center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in near rotary hall, Samarpan Hospital and research center delivers integrated care across Liver Transplant Surgery In Ratlam. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093021 12234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite hotel ajanta palace, near rotary hall, Madhya Pradesh 457001",
+    "city": "near rotary hall",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Opposite hotel ajanta palace",
+    "landmark": "near rotary hall, Madhya Pradesh 457001",
+    "emergencyContact": "093021 12234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Samarpan+Hospital+and+research+center/@23.3303221,75.0439556,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2f454947f:0xb5a8bf696db1cda6!8m2!3d23.3303221!4d75.0439556!16s%2Fg%2F1tjf8ny7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samarpan+Hospital+and+research+center/@23.3303221,75.0439556,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea2f454947f:0xb5a8bf696db1cda6!8m2!3d23.3303221!4d75.0439556!16s%2Fg%2F1tjf8ny7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3303221,
+      "lng": 75.0439556,
+      "label": "Samarpan Hospital and research center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sameer-medicals-and-polyclinic-ratlam",
+    "name": "Sameer Medicals And Polyclinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Sameer Medicals And Polyclinic delivers integrated care across Liver Transplant Surgery In Ratlam. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MDR 12A, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sameer+Medicals+And+Polyclinic/@23.3247608,75.0286569,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9d33ab0323:0xa1a8b934660b4a72!8m2!3d23.3247608!4d75.0286569!16s%2Fg%2F11hdwgs9bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sameer+Medicals+And+Polyclinic/@23.3247608,75.0286569,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff9d33ab0323:0xa1a8b934660b4a72!8m2!3d23.3247608!4d75.0286569!16s%2Fg%2F11hdwgs9bb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3247608,
+      "lng": 75.0286569,
+      "label": "Sameer Medicals And Polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samyak-hospital-ratlam",
+    "name": "Samyak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Samyak Hospital has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratlam. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82QM+J4C Ram Mandir Square, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Kasturba Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Samyak+Hospital/@23.33905,75.0327608,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8767b7777:0x5ddc002c06802a7c!8m2!3d23.33905!4d75.0327608!16s%2Fg%2F11tn45ylpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samyak+Hospital/@23.33905,75.0327608,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffa8767b7777:0x5ddc002c06802a7c!8m2!3d23.33905!4d75.0327608!16s%2Fg%2F11tn45ylpd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.33905,
+      "lng": 75.0327608,
+      "label": "Samyak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shankus-hospitals-ratlam",
+    "name": "Shankus Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shankus Hospitals has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Oncologist Surgery In Ratlam. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@shankushospitals.com",
+    "phone": "090990 83302",
+    "alternatePhone": "78780 00444",
+    "website": "https://shankushospitals.com/",
+    "address": "Royal College Campus, Mhow - Neemuch Rd, near New RTO office, Sala Khedi, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Sala Khedi",
+    "landmark": "near New RTO office, Sala Khedi, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "78780 00444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shankus+Hospitals/@23.2945857,75.0710642,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fbd5d74c8af7:0xf35ae20c7003a405!8m2!3d23.2945857!4d75.0710642!16s%2Fg%2F11y42jspwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shankus+Hospitals/@23.2945857,75.0710642,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fbd5d74c8af7:0xf35ae20c7003a405!8m2!3d23.2945857!4d75.0710642!16s%2Fg%2F11y42jspwy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.2945857,
+      "lng": 75.0710642,
+      "label": "Shankus Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shine-skin-care-clinic-ratlam",
+    "name": "Shine Skin Care Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Shine Skin Care Clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Ratlam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086023 55784",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jawahar Nagar B Main Road, opposite Subhash dudh dairy, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Jawahar Nagar",
+    "landmark": "opposite Subhash dudh dairy, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "086023 55784",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shine+Skin+Care+Clinic/@23.3396398,75.0370723,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd7bc29017d:0x4a42107eb043b104!8m2!3d23.3396398!4d75.0370723!16s%2Fg%2F11vrjpvbkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shine+Skin+Care+Clinic/@23.3396398,75.0370723,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffd7bc29017d:0x4a42107eb043b104!8m2!3d23.3396398!4d75.0370723!16s%2Fg%2F11vrjpvbkz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3396398,
+      "lng": 75.0370723,
+      "label": "Shine Skin Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shraddha-dental-clinic-ratlam",
+    "name": "Shraddha dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose Shraddha dental clinic for its strength in Oral Surgery In Ratlam. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079995 11687",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shraddha hospital, 478, near LIC office, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "near LIC office, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "079995 11687",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Shraddha+dental+clinic/@23.3327008,75.0318796,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6c112ce90f:0x1014c7c46886c1be!8m2!3d23.3327008!4d75.0318796!16s%2Fg%2F11sbgsjpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shraddha+dental+clinic/@23.3327008,75.0318796,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff6c112ce90f:0x1014c7c46886c1be!8m2!3d23.3327008!4d75.0318796!16s%2Fg%2F11sbgsjpqf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3327008,
+      "lng": 75.0318796,
+      "label": "Shraddha dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shraddha-hospital-ratlam",
+    "name": "Shraddha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Shraddha Hospital offers coordinated hospital care with major focus on Oncologist Surgery In Ratlam. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074122 30008",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Ratlam",
+    "emergencyContact": "074122 30008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shraddha+Hospital/@23.3335107,75.0352354,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe99fdb03e15:0x260967e8b5ce3bb0!8m2!3d23.3335107!4d75.0352354!16s%2Fg%2F11hbghg4lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shraddha+Hospital/@23.3335107,75.0352354,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe99fdb03e15:0x260967e8b5ce3bb0!8m2!3d23.3335107!4d75.0352354!16s%2Fg%2F11hbghg4lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3335107,
+      "lng": 75.0352354,
+      "label": "Shraddha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shraddhashree-clinic-ratlam",
+    "name": "Shraddhashree Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Shraddhashree Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087702 07164",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jawahar Nagar Rd, near Ganesh Mandir, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Jawahar Nagar",
+    "landmark": "near Ganesh Mandir, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "087702 07164",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Shraddhashree+Clinic/@23.3408375,75.0353362,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe95e3efc359:0xdd2c1f76373d633!8m2!3d23.3408375!4d75.0353362!16s%2Fg%2F11y412t9x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shraddhashree+Clinic/@23.3408375,75.0353362,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe95e3efc359:0xdd2c1f76373d633!8m2!3d23.3408375!4d75.0353362!16s%2Fg%2F11y412t9x3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3408375,
+      "lng": 75.0353362,
+      "label": "Shraddhashree Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-patidar-dental-clinic-and-implant-center-best-dental-clinic-and-implant-centre-dentist-root-canal-specialist-ratlam",
+    "name": "Shree Patidar dental clinic and implant center || Best Dental Clinic And Implant Centre | Dentist | Root Canal Specialist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Shree Patidar dental clinic and implant center || Best Dental Clinic And Implant Centre | Dentist | Root Canal Specialist brings together specialists for Oral Surgery In Ratlam. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099811 95741",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15, gpo road, near Patel pharma, opposite of get well hospital, Sahar Sarai, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "near Patel pharma, opposite of get well hospital, Sahar Sarai, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "099811 95741",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Patidar+dental+clinic+and+implant+center+%7C%7C+Best+Dental+Clinic+And+Implant+Centre+%7C+Dentist+%7C+Root+Canal+Specialist/@23.3293919,75.0382089,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff88f13698f5:0x6bb3d85c681de095!8m2!3d23.3293919!4d75.0382089!16s%2Fg%2F11gkbl1yk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Patidar+dental+clinic+and+implant+center+%7C%7C+Best+Dental+Clinic+And+Implant+Centre+%7C+Dentist+%7C+Root+Canal+Specialist/@23.3293919,75.0382089,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff88f13698f5:0x6bb3d85c681de095!8m2!3d23.3293919!4d75.0382089!16s%2Fg%2F11gkbl1yk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3293919,
+      "lng": 75.0382089,
+      "label": "Shree Patidar dental clinic and implant center || Best Dental Clinic And Implant Centre | Dentist | Root Canal Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreeji-ent-and-eye-clinic-ratlam",
+    "name": "SHREEJI ENT AND EYE CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Ratlam, SHREEJI ENT AND EYE CLINIC delivers integrated care across Cosmetic Surgery In Ratlam. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096179 48246",
+    "alternatePhone": "",
+    "website": "",
+    "address": "80 Feet Rd, opp. Vaishali marriage garden, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Kasturba Nagar",
+    "landmark": "Kasturba Nagar",
+    "emergencyContact": "096179 48246",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SHREEJI+ENT+AND+EYE+CLINIC/@23.3418979,75.0266352,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fffafd62aabb:0xacea597322b9c6e9!8m2!3d23.3418979!4d75.0266352!16s%2Fg%2F11xtwxzphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREEJI+ENT+AND+EYE+CLINIC/@23.3418979,75.0266352,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fffafd62aabb:0xacea597322b9c6e9!8m2!3d23.3418979!4d75.0266352!16s%2Fg%2F11xtwxzphk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3418979,
+      "lng": 75.0266352,
+      "label": "SHREEJI ENT AND EYE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sobhagya-ayurveda-nadi-shodhan-panchkarma-ratlam-mp-ratlam",
+    "name": "Sobhagya Ayurveda Nadi shodhan panchkarma Ratlam mp",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Sobhagya Ayurveda Nadi shodhan panchkarma Ratlam mp offers coordinated hospital care with major focus on Cosmetic Surgery In Ratlam. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gali no 8 kasturba nager, Shakti Nagar Main Road, near mahaveer tent house, corner, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "corner",
+    "landmark": "near mahaveer tent house, corner, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sobhagya+Ayurveda+Nadi+shodhan+panchkarma+Ratlam+mp/@23.3368227,75.0291914,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff28b0365707:0xc55c214a269d9450!8m2!3d23.3368227!4d75.0291914!16s%2Fg%2F11gy7xv2x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sobhagya+Ayurveda+Nadi+shodhan+panchkarma+Ratlam+mp/@23.3368227,75.0291914,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff28b0365707:0xc55c214a269d9450!8m2!3d23.3368227!4d75.0291914!16s%2Fg%2F11gy7xv2x5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3368227,
+      "lng": 75.0291914,
+      "label": "Sobhagya Ayurveda Nadi shodhan panchkarma Ratlam mp",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "songara-dental-clinic-best-dentist-dental-clinic-and-implant-centre-orthodontist-ratlam",
+    "name": "Songara Dental Clinic || Best Dentist | Dental Clinic And Implant Centre | Orthodontist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Songara Dental Clinic || Best Dentist | Dental Clinic And Implant Centre | Orthodontist brings together specialists for Oral Surgery In Ratlam and Orthopaedics. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062625 13003",
+    "alternatePhone": "",
+    "website": "https://www.songaradentalstudio.com/",
+    "address": "54 , Maharshi, Haat Rd, Ved Vyas Colony, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Ved Vyas Colony",
+    "landmark": "Haat Rd",
+    "emergencyContact": "062625 13003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Songara+Dental+Clinic+%7C%7C+Best+Dentist+%7C+Dental+Clinic+And+Implant+Centre+%7C+Orthodontist/@23.3248345,75.0344671,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9efc19282f:0x7e3f3b714aa4f57c!8m2!3d23.3248345!4d75.0344671!16s%2Fg%2F11h_xh5hhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Songara+Dental+Clinic+%7C%7C+Best+Dentist+%7C+Dental+Clinic+And+Implant+Centre+%7C+Orthodontist/@23.3248345,75.0344671,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe9efc19282f:0x7e3f3b714aa4f57c!8m2!3d23.3248345!4d75.0344671!16s%2Fg%2F11h_xh5hhr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3248345,
+      "lng": 75.0344671,
+      "label": "Songara Dental Clinic || Best Dentist | Dental Clinic And Implant Centre | Orthodontist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "soni-dental-clinic-and-implant-centre-ratlam",
+    "name": "SONI DENTAL CLINIC AND IMPLANT CENTRE",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose SONI DENTAL CLINIC AND IMPLANT CENTRE for its strength in Oral Surgery In Ratlam and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099938 38679",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C607, C607, Jawahar Nagar B Main Road, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Jawahar Nagar",
+    "landmark": "Jawahar Nagar B Main Road",
+    "emergencyContact": "099938 38679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SONI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@23.3395875,75.0369061,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007994a57d:0x14957731d4896ec9!8m2!3d23.3395875!4d75.0369061!16s%2Fg%2F11vq8zkhyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SONI+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@23.3395875,75.0369061,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff007994a57d:0x14957731d4896ec9!8m2!3d23.3395875!4d75.0369061!16s%2Fg%2F11vq8zkhyw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3395875,
+      "lng": 75.0369061,
+      "label": "SONI DENTAL CLINIC AND IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sonography-ultrasound-ratlam-ratlam",
+    "name": "Sonography ultrasound ratlam",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sonography ultrasound ratlam is a prominent medical diagnostic imaging center in Ratlam, known for structured tertiary care across Gynecologist Surgery In Ratlam and Medical Diagnostic Imaging Center. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093021 12234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ajanta talkies road opposite hotel ajanta palace, near rotary hall, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "near rotary hall",
+    "landmark": "near rotary hall, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "093021 12234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam",
+      "Medical Diagnostic Imaging Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sonography+ultrasound+ratlam/@23.3302707,75.0439696,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff42a7cc4fc3:0xd58c406dff70f149!8m2!3d23.3302707!4d75.0439696!16s%2Fg%2F11gsmmzdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sonography+ultrasound+ratlam/@23.3302707,75.0439696,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff42a7cc4fc3:0xd58c406dff70f149!8m2!3d23.3302707!4d75.0439696!16s%2Fg%2F11gsmmzdh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3302707,
+      "lng": 75.0439696,
+      "label": "Sonography ultrasound ratlam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srs-ayurhomyo-clinic-and-panchakarma-centre-sailana-ratlam",
+    "name": "SRS Ayurhomyo clinic and panchakarma centre Sailana",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRS Ayurhomyo clinic and panchakarma centre Sailana is a prominent hospital in Ratlam, known for structured tertiary care across Oncologist Surgery In Ratlam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097555 17558",
+    "alternatePhone": "",
+    "website": "",
+    "address": "73, Pushkarna bhawav, near Sakshi petrol pump, Trilok Nagar, Tirupati Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tirupati Nagar",
+    "landmark": "near Sakshi petrol pump, Trilok Nagar, Tirupati Nagar, Ratlam, Madhya Pradesh 457001",
+    "emergencyContact": "097555 17558",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SRS+Ayurhomyo+clinic+and+panchakarma+centre+Sailana/@23.3478392,75.0282548,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc34fe215f1:0x98c5661ac97a36b6!8m2!3d23.3478392!4d75.0282548!16s%2Fg%2F11svx95ck3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRS+Ayurhomyo+clinic+and+panchakarma+centre+Sailana/@23.3478392,75.0282548,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ffc34fe215f1:0x98c5661ac97a36b6!8m2!3d23.3478392!4d75.0282548!16s%2Fg%2F11svx95ck3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3478392,
+      "lng": 75.0282548,
+      "label": "SRS Ayurhomyo clinic and panchakarma centre Sailana",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sterlling-dental-clinic-ratlam",
+    "name": "Sterlling Dental Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ratlam, Sterlling Dental Clinic delivers integrated care across Oral Surgery In Ratlam. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099814 82293",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Shastri Nagar",
+    "landmark": "Madhya Pradesh 457001",
+    "emergencyContact": "099814 82293",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sterlling+Dental+Clinic/@23.3301392,75.0415418,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea3bac586d3:0x544cb5a5989806f1!8m2!3d23.3301392!4d75.0415418!16s%2Fg%2F11g6912rf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sterlling+Dental+Clinic/@23.3301392,75.0415418,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fea3bac586d3:0x544cb5a5989806f1!8m2!3d23.3301392!4d75.0415418!16s%2Fg%2F11g6912rf_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3301392,
+      "lng": 75.0415418,
+      "label": "Sterlling Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vedaant-hospital-ratlam",
+    "name": "Vedaant Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vedaant Hospital is a prominent hospital in Ratlam, known for structured tertiary care across Hip Replacement Surgery In Ratlam. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094245 07969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "64, road, Tirupati Nagar, Sailana, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Sailana",
+    "landmark": "Tirupati Nagar",
+    "emergencyContact": "094245 07969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Vedaant+Hospital/@23.3462926,75.0286714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feed1c4ee335:0x5f8c33915144f6a!8m2!3d23.3462926!4d75.0286714!16s%2Fg%2F11bwhb189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vedaant+Hospital/@23.3462926,75.0286714,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feed1c4ee335:0x5f8c33915144f6a!8m2!3d23.3462926!4d75.0286714!16s%2Fg%2F11bwhb189y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3462926,
+      "lng": 75.0286714,
+      "label": "Vedaant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vighna-vinayak-clinic-ratlam",
+    "name": "Vighna vinayak clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, Vighna vinayak clinic brings together specialists for Liver Transplant Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82CC+4W3, Deendayal Nagar, Tata Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tata Nagar",
+    "landmark": "Tata Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Vighna+vinayak+clinic/data=!4m7!3m6!1s0x3963fd005db7e577:0x7f39e2244655b852!8m2!3d23.320252!4d75.0223088!16s%2Fg%2F11y4q9k52c!19sChIJd-W3XQD9YzkRUrhVRiTiOX8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vighna+vinayak+clinic/data=!4m7!3m6!1s0x3963fd005db7e577:0x7f39e2244655b852!8m2!3d23.320252!4d75.0223088!16s%2Fg%2F11y4q9k52c!19sChIJd-W3XQD9YzkRUrhVRiTiOX8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.320252,
+      "lng": 75.0223088,
+      "label": "Vighna vinayak clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vikas-clinic-ratlam",
+    "name": "Vikas Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vikas Clinic has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Liver Transplant Surgery In Ratlam. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094249 55377",
+    "alternatePhone": "",
+    "website": "",
+    "address": "bus stand, Karmadi naka, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Karmadi naka",
+    "landmark": "Ratlam",
+    "emergencyContact": "094249 55377",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Vikas+Clinic/@23.3170993,75.0377923,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc21e1e57d3f:0xbb0085751ed0e09c!8m2!3d23.3170993!4d75.0377923!16s%2Fg%2F11tfs_pbtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vikas+Clinic/@23.3170993,75.0377923,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc21e1e57d3f:0xbb0085751ed0e09c!8m2!3d23.3170993!4d75.0377923!16s%2Fg%2F11tfs_pbtz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3170993,
+      "lng": 75.0377923,
+      "label": "Vikas Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vishwash-clinic-ratlam",
+    "name": "Vishwash Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, Vishwash Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "076740 57271",
+    "alternatePhone": "",
+    "website": "",
+    "address": "828Q+W76, chamariya naka, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "chamariya naka",
+    "landmark": "Ratlam",
+    "emergencyContact": "076740 57271",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Vishwash+Clinic/@23.3172799,75.0381351,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc1f5c215871:0x5916a3aa73e52cd3!8m2!3d23.3172799!4d75.0381351!16s%2Fg%2F11td8cr1mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vishwash+Clinic/@23.3172799,75.0381351,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fc1f5c215871:0x5916a3aa73e52cd3!8m2!3d23.3172799!4d75.0381351!16s%2Fg%2F11td8cr1mk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3172799,
+      "lng": 75.0381351,
+      "label": "Vishwash Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yarday-nursing-home-ratlam",
+    "name": "Yarday Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yarday Nursing Home has built a strong reputation in Ratlam for multidisciplinary treatment pathways covering Gynecologist Surgery In Ratlam. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82HQ+G3H, Lokendra Talkies Rd, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Katju Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Yarday+Nursing+Home/@23.3288099,75.0377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a0aecd2d:0x57c41a4ab461a837!8m2!3d23.3288099!4d75.0377216!16s%2Fg%2F11c5gvz1mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yarday+Nursing+Home/@23.3288099,75.0377216,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a0aecd2d:0x57c41a4ab461a837!8m2!3d23.3288099!4d75.0377216!16s%2Fg%2F11c5gvz1mv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3288099,
+      "lng": 75.0377216,
+      "label": "Yarday Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratlam",
+    "name": "डॉ चंद्र शेखर राय",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ratlam, डॉ चंद्र शेखर राय offers coordinated hospital care with major focus on Liver Transplant Surgery In Ratlam. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "115, डालू मोदी बाज़ार, Shrimalivas, पुष्पक मार्केट, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Bohra Baakhal",
+    "landmark": "Shrimalivas",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89+%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%AF/@23.3248632,75.0380236,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff006b5a1827:0xf9feb5a29b2e5c1f!8m2!3d23.3248632!4d75.0380236!16s%2Fg%2F11xf_k778d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89+%E0%A4%9A%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B6%E0%A5%87%E0%A4%96%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%AF/@23.3248632,75.0380236,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff006b5a1827:0xf9feb5a29b2e5c1f!8m2!3d23.3248632!4d75.0380236!16s%2Fg%2F11xf_k778d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3248632,
+      "lng": 75.0380236,
+      "label": "डॉ चंद्र शेखर राय",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratlam",
+    "name": "मौर्य क्लिनिक",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ratlam, मौर्य क्लिनिक brings together specialists for Liver Transplant Surgery In Ratlam. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82XJ+PC3, Naya Gaon Main Road, Sun City, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Alkapuri",
+    "landmark": "Sun City",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%A4%AE%E0%A5%8C%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3492513,75.031053,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feec11bc558d:0x7df4db8662ebbb3c!8m2!3d23.3492513!4d75.031053!16s%2Fg%2F11l6tmdd1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%AE%E0%A5%8C%E0%A4%B0%E0%A5%8D%E0%A4%AF+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3492513,75.031053,17z/data=!3m1!4b1!4m6!3m5!1s0x3963feec11bc558d:0x7df4db8662ebbb3c!8m2!3d23.3492513!4d75.031053!16s%2Fg%2F11l6tmdd1f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3492513,
+      "lng": 75.031053,
+      "label": "मौर्य क्लिनिक",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratlam",
+    "name": "वर्मा क्लिनिक (डॉ. जितेंद्र वर्मा)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Ratlam often choose वर्मा क्लिनिक (डॉ. जितेंद्र वर्मा) for its strength in Liver Transplant Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "317, Tata Nagar, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Tata Nagar",
+    "landmark": "Ratlam",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95+(%E0%A4%A1%E0%A5%89.+%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)/@23.322882,75.0219487,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff005c8f7839:0xa1484a987c2faa0b!8m2!3d23.322882!4d75.0219487!16s%2Fg%2F11lm9vpr0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95+(%E0%A4%A1%E0%A5%89.+%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE)/@23.322882,75.0219487,17z/data=!3m1!4b1!4m6!3m5!1s0x3963ff005c8f7839:0xa1484a987c2faa0b!8m2!3d23.322882!4d75.0219487!16s%2Fg%2F11lm9vpr0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.322882,
+      "lng": 75.0219487,
+      "label": "वर्मा क्लिनिक (डॉ. जितेंद्र वर्मा)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratlam",
+    "name": "सांई डेन्टल क्लीनिक",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Ratlam, सांई डेन्टल क्लीनिक delivers integrated care across Kidney Transplant Surgery In Ratlam. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099072 55676",
+    "alternatePhone": "",
+    "website": "",
+    "address": "82HP+GXH, Lokendra Talkies Rd, Katju Nagar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "city": "Ratlam",
+    "state": "Madhya Pradesh",
+    "pincode": "457001",
+    "locality": "Laxman Pura",
+    "landmark": "Katju Nagar",
+    "emergencyContact": "099072 55676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Ratlam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%88+%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3288142,75.0374897,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a115a477:0x5f9af54f3b93ebc7!8m2!3d23.3288142!4d75.0374897!16s%2Fg%2F11lchlsv3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%88+%E0%A4%A1%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/@23.3288142,75.0374897,17z/data=!3m1!4b1!4m6!3m5!1s0x3963fe98a115a477:0x5f9af54f3b93ebc7!8m2!3d23.3288142!4d75.0374897!16s%2Fg%2F11lchlsv3t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.3288142,
+      "lng": 75.0374897,
+      "label": "सांई डेन्टल क्लीनिक",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

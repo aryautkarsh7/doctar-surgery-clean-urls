@@ -1,0 +1,10920 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aarogya-homoeopathy-clinic-saharanpur",
+    "name": "Aarogya Homoeopathy Clinic",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Aarogya Homoeopathy Clinic brings together specialists for Cardiac Surgery In Saharanpur and Homeopath. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094102 66131",
+    "alternatePhone": "",
+    "website": "http://www.liveaarogya.com/",
+    "address": "Shree Gyan Market, Ghanta Ghar, Bijopuri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Bijopuri",
+    "landmark": "Bijopuri",
+    "emergencyContact": "094102 66131",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur",
+      "Homeopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarogya+Homoeopathy+Clinic/@29.9649732,77.5455098,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebfe7fb2ec5d:0x430f76e241e16e42!8m2!3d29.9649732!4d77.5455098!16s%2Fg%2F11gjygg_mq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarogya+Homoeopathy+Clinic/@29.9649732,77.5455098,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebfe7fb2ec5d:0x430f76e241e16e42!8m2!3d29.9649732!4d77.5455098!16s%2Fg%2F11gjygg_mq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9649732,
+      "lng": 77.5455098,
+      "label": "Aarogya Homoeopathy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "abhishek-skin-care-clinic-saharanpur",
+    "name": "Abhishek skin care clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Abhishek skin care clinic has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Plastic Surgery In Saharanpur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@abhishekskincareclinic.com",
+    "phone": "090275 13702",
+    "alternatePhone": "",
+    "website": "http://abhishekskincareclinic.com/",
+    "address": "Abhishek Skin Care Clinic, 6/3998, near M.S Degree College, Tilak Nagar, Garhi Malook No-1, Keshav Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Keshav Nagar",
+    "landmark": "near M.S Degree College, Tilak Nagar, Garhi Malook No-1, Keshav Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "090275 13702",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Abhishek+skin+care+clinic/@29.9744513,77.5549076,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb4c9da51b3b:0x50f311975b161296!8m2!3d29.9744513!4d77.5549076!16s%2Fg%2F11f7nlx1g2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Abhishek+skin+care+clinic/@29.9744513,77.5549076,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb4c9da51b3b:0x50f311975b161296!8m2!3d29.9744513!4d77.5549076!16s%2Fg%2F11f7nlx1g2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9744513,
+      "lng": 77.5549076,
+      "label": "Abhishek skin care clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "active-life-physiotherapy-clinic-saharanpur",
+    "name": "Active Life Physiotherapy clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Active Life Physiotherapy clinic brings together specialists for Knee Replacement Surgery In Saharanpur and Physiotherapy Center. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084394 74466",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ambala Rd, Laxmi nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Laxmi nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "084394 74466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Saharanpur",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Active+Life+Physiotherapy+clinic/data=!4m7!3m6!1s0x390eebd195869a7d:0x3300a492dffcad47!8m2!3d29.9678405!4d77.5343828!16s%2Fg%2F11sy3dgm3b!19sChIJfZqGldHrDjkRR63835KkADM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Active+Life+Physiotherapy+clinic/data=!4m7!3m6!1s0x390eebd195869a7d:0x3300a492dffcad47!8m2!3d29.9678405!4d77.5343828!16s%2Fg%2F11sy3dgm3b!19sChIJfZqGldHrDjkRR63835KkADM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9678405,
+      "lng": 77.5343828,
+      "label": "Active Life Physiotherapy clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ags-wellness-clinic-saharanpur",
+    "name": "AGS Wellness Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, AGS Wellness Clinic brings together specialists for IVF In Saharanpur and Fertility Care. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ansari chowk, near Islamiya Degree college, Mangal Nagar, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Jwala Nagar",
+    "landmark": "near Islamiya Degree college, Mangal Nagar, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Saharanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/AGS+Wellness+Clinic/data=!4m7!3m6!1s0x390eeb0056255cbd:0x95667cb2d9fa6e95!8m2!3d29.9680035!4d77.5552066!16s%2Fg%2F11ys1_7j5w!19sChIJvVwlVgDrDjkRlW762bJ8ZpU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AGS+Wellness+Clinic/data=!4m7!3m6!1s0x390eeb0056255cbd:0x95667cb2d9fa6e95!8m2!3d29.9680035!4d77.5552066!16s%2Fg%2F11ys1_7j5w!19sChIJvVwlVgDrDjkRlW762bJ8ZpU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9680035,
+      "lng": 77.5552066,
+      "label": "AGS Wellness Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aho-hospital-saharanpur",
+    "name": "AHO Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AHO Hospital is a prominent general hospital in Saharanpur, known for structured tertiary care across General Surgery In Saharanpur. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0132 356 8489",
+    "alternatePhone": "",
+    "website": "http://www.ahoindia.org/",
+    "address": "247001, Bhagwati Colony, Mangal Nagar, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Jwala Nagar",
+    "landmark": "Mangal Nagar",
+    "emergencyContact": "0132 356 8489",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AHO+Hospital/@29.9653138,77.5530471,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb73a5f2e36f:0x8a60fba2fe83c254!8m2!3d29.9653138!4d77.5530471!16s%2Fg%2F11tdrf_4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AHO+Hospital/@29.9653138,77.5530471,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb73a5f2e36f:0x8a60fba2fe83c254!8m2!3d29.9653138!4d77.5530471!16s%2Fg%2F11tdrf_4fp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9653138,
+      "lng": 77.5530471,
+      "label": "AHO Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amrit-hospital-saharanpur",
+    "name": "Amrit Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Amrit Hospital delivers integrated care across Orthopedic Surgery In Saharanpur. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073009 99570",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Delhi Rd, near GNG Mall, Saharanpur, Sawalpur Nawada, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "near GNG Mall",
+    "landmark": "near GNG Mall, Saharanpur, Sawalpur Nawada, Uttar Pradesh 247001",
+    "emergencyContact": "073009 99570",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Amrit+Hospital/data=!4m7!3m6!1s0x390e95867903385f:0x6e33722658376daf!8m2!3d29.9238985!4d77.5249798!16s%2Fg%2F11v638090m!19sChIJXzgDeYaVDjkRr203WCZyM24?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amrit+Hospital/data=!4m7!3m6!1s0x390e95867903385f:0x6e33722658376daf!8m2!3d29.9238985!4d77.5249798!16s%2Fg%2F11v638090m!19sChIJXzgDeYaVDjkRr203WCZyM24?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9238985,
+      "lng": 77.5249798,
+      "label": "Amrit Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anand-orthopadic-and-trauma-center-saharanpur",
+    "name": "Anand Orthopadic and Trauma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Anand Orthopadic and Trauma Center brings together specialists for Spine Surgery In Saharanpur and Orthopaedics. Operational strengths including Google rating 3.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093190 98225",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XH44+WCP, Bajoria Rd, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Khan Alampura",
+    "emergencyContact": "093190 98225",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Saharanpur",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Anand+Orthopadic+and+Trauma+Center/data=!4m7!3m6!1s0x390eeaa20268577d:0xfb6d8e6ab720be34!8m2!3d29.9573339!4d77.5560756!16s%2Fg%2F11b6pdtkcl!19sChIJfVdoAqLqDjkRNL4gt2qObfs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anand+Orthopadic+and+Trauma+Center/data=!4m7!3m6!1s0x390eeaa20268577d:0xfb6d8e6ab720be34!8m2!3d29.9573339!4d77.5560756!16s%2Fg%2F11b6pdtkcl!19sChIJfVdoAqLqDjkRNL4gt2qObfs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9573339,
+      "lng": 77.5560756,
+      "label": "Anand Orthopadic and Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anita-dental-care-clinic-saharanpur",
+    "name": "Anita Dental Care Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Anita Dental Care Clinic offers coordinated hospital care with major focus on Oral Surgery In Saharanpur. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074529 44119",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khumran Pul, near Eye Q hospital, opp. police choki, maligate, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "maligate",
+    "landmark": "near Eye Q hospital, opp. police choki, maligate, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "074529 44119",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Anita+Dental+Care+Clinic/@29.9769606,77.5494577,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea88893feb61:0x1493ae39e52f8be0!8m2!3d29.9769606!4d77.5494577!16s%2Fg%2F1hf6n12yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anita+Dental+Care+Clinic/@29.9769606,77.5494577,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea88893feb61:0x1493ae39e52f8be0!8m2!3d29.9769606!4d77.5494577!16s%2Fg%2F1hf6n12yx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9769606,
+      "lng": 77.5494577,
+      "label": "Anita Dental Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anju-sehgal-saharanpur",
+    "name": "Anju Sehgal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Anju Sehgal offers coordinated hospital care with major focus on General Surgery In Saharanpur. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "22-A, Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Haqikatnagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Anju+Sehgal/@29.9495921,77.5517569,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb893415e917:0x8dd26e5ca05505c8!8m2!3d29.9495921!4d77.5517569!16s%2Fg%2F11qjzbtj_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anju+Sehgal/@29.9495921,77.5517569,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb893415e917:0x8dd26e5ca05505c8!8m2!3d29.9495921!4d77.5517569!16s%2Fg%2F11qjzbtj_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9495921,
+      "lng": 77.5517569,
+      "label": "Anju Sehgal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ansh-dental-clinic-saharanpur",
+    "name": "Ansh Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ansh Dental Clinic has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097200 20091",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Street Number 02, Nawada Rd, near Dr Pawan Kumar Saini, Ankit Vihar Colony, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Navin Nagar",
+    "landmark": "near Dr Pawan Kumar Saini, Ankit Vihar Colony, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "097200 20091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ansh+Dental+Clinic/@29.9560858,77.5298624,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebc6cff40fdb:0x111b7d9cac0d2198!8m2!3d29.9560858!4d77.5298624!16s%2Fg%2F11vzqhf2lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ansh+Dental+Clinic/@29.9560858,77.5298624,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebc6cff40fdb:0x111b7d9cac0d2198!8m2!3d29.9560858!4d77.5298624!16s%2Fg%2F11vzqhf2lv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9560858,
+      "lng": 77.5298624,
+      "label": "Ansh Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-proton-therapy-in-saharanpur-saharanpur",
+    "name": "Apollo Proton Therapy in Saharanpur",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Apollo Proton Therapy in Saharanpur offers coordinated hospital care with major focus on Liver Transplant Surgery In Saharanpur and Cancer Treatment Center. Operational strengths including Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080629 72782",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/proton-therapy/proton-therapy/",
+    "address": "Bawa Video, Partap Market, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Subhash Nagar",
+    "landmark": "Subhash Nagar",
+    "emergencyContact": "080629 72782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Saharanpur/data=!4m7!3m6!1s0x390eeb34ed9d931f:0x3c085a6f20c8cf3e!8m2!3d29.968231!4d77.54668!16s%2Fg%2F11xtwspmph!19sChIJH5Od7TTrDjkRPs_IIG9aCDw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Saharanpur/data=!4m7!3m6!1s0x390eeb34ed9d931f:0x3c085a6f20c8cf3e!8m2!3d29.968231!4d77.54668!16s%2Fg%2F11xtwspmph!19sChIJH5Od7TTrDjkRPs_IIG9aCDw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.968231,
+      "lng": 77.54668,
+      "label": "Apollo Proton Therapy in Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogyadham-clinic-ayurvedic-sexologist-in-saharanpur-saharanpur",
+    "name": "Arogyadham Clinic | Ayurvedic Sexologist in Saharanpur",
+    "type": "Sexologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Arogyadham Clinic | Ayurvedic Sexologist in Saharanpur offers coordinated hospital care with major focus on Urologist Surgery In Saharanpur and Sexologist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084493 33303",
+    "alternatePhone": "",
+    "website": "https://arogyadhamhealth.com/",
+    "address": "Jail Rd, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Beribagh",
+    "landmark": "Saharanpur",
+    "emergencyContact": "084493 33303",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur",
+      "Sexologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arogyadham+Clinic+%7C+Ayurvedic+Sexologist+in+Saharanpur/data=!4m7!3m6!1s0x390eea9d001d1d5f:0x359fe2cb661bd75!8m2!3d29.9670213!4d77.5590872!16s%2Fg%2F11f3wr81dq!19sChIJXx0dAJ3qDjkRdb1htiz-WQM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogyadham+Clinic+%7C+Ayurvedic+Sexologist+in+Saharanpur/data=!4m7!3m6!1s0x390eea9d001d1d5f:0x359fe2cb661bd75!8m2!3d29.9670213!4d77.5590872!16s%2Fg%2F11f3wr81dq!19sChIJXx0dAJ3qDjkRdb1htiz-WQM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9670213,
+      "lng": 77.5590872,
+      "label": "Arogyadham Clinic | Ayurvedic Sexologist in Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arora-eye-centre-saharanpur",
+    "name": "ARORA EYE CENTRE",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ARORA EYE CENTRE has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Cardiac Surgery In Saharanpur and Eye Care Center. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063955 08301",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground floor, Shop No. 2B, 2378, Delhi Rd, near hassanpur, chowk, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "chowk",
+    "landmark": "near hassanpur, chowk, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "063955 08301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/ARORA+EYE+CENTRE/@29.9387283,77.539565,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb81665d2fe9:0xc95fa0f263e21f0e!8m2!3d29.9387283!4d77.539565!16s%2Fg%2F11y3x1d278?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ARORA+EYE+CENTRE/@29.9387283,77.539565,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb81665d2fe9:0xc95fa0f263e21f0e!8m2!3d29.9387283!4d77.539565!16s%2Fg%2F11y3x1d278?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9387283,
+      "lng": 77.539565,
+      "label": "ARORA EYE CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arpan-clinic-saharanpur",
+    "name": "Arpan Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arpan Clinic is a prominent medical clinic in Saharanpur, known for structured tertiary care across Urologist Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Arpan+Clinic/data=!4m7!3m6!1s0x390eeaa1f61b01a9:0x4289fb3d891920d2!8m2!3d29.9571619!4d77.5564191!16s%2Fg%2F11f0l3t97c!19sChIJqQEb9qHqDjkR0iAZiT37iUI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arpan+Clinic/data=!4m7!3m6!1s0x390eeaa1f61b01a9:0x4289fb3d891920d2!8m2!3d29.9571619!4d77.5564191!16s%2Fg%2F11f0l3t97c!19sChIJqQEb9qHqDjkR0iAZiT37iUI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9571619,
+      "lng": 77.5564191,
+      "label": "Arpan Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "banerjee-hospital-saharanpur",
+    "name": "Banerjee Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Banerjee Hospital offers coordinated hospital care with major focus on Cardiac Surgery In Saharanpur. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Banerjee+Hospital/@29.9575048,77.5570393,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1ef8ea90d:0xb60e59eb90623277!8m2!3d29.9575048!4d77.5570393!16s%2Fg%2F1tj1_y67?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Banerjee+Hospital/@29.9575048,77.5570393,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1ef8ea90d:0xb60e59eb90623277!8m2!3d29.9575048!4d77.5570393!16s%2Fg%2F1tj1_y67?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9575048,
+      "lng": 77.5570393,
+      "label": "Banerjee Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bansal-hospital-dehradun-rd",
+    "name": "Bansal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Dehradun Rd often choose Bansal Hospital for its strength in Kidney Transplant Surgery In Saharanpur. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajoria Road, Chow, Dehradun Rd, Uttar Pradesh 247001",
+    "city": "Dehradun Rd",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Chow",
+    "landmark": "Dehradun Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Bansal+Hospital/data=!4m7!3m6!1s0x390eeaa204abb83d:0xc122955c3ebbde31!8m2!3d29.9574304!4d77.5558376!16s%2Fg%2F11bbtlr4k1!19sChIJPbirBKLqDjkRMd67PlyVIsE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bansal+Hospital/data=!4m7!3m6!1s0x390eeaa204abb83d:0xc122955c3ebbde31!8m2!3d29.9574304!4d77.5558376!16s%2Fg%2F11bbtlr4k1!19sChIJPbirBKLqDjkRMd67PlyVIsE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9574304,
+      "lng": 77.5558376,
+      "label": "Bansal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-hospital-saharanpur",
+    "name": "CARE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CARE HOSPITAL is a prominent hospital in Saharanpur, known for structured tertiary care across Cardiac Surgery In Saharanpur. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WGVV+3CC, Avas Vikas Colony Lane, Avas Vikas Colony, PoliceLine, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "Avas Vikas Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/CARE+HOSPITAL/@29.9426894,77.5435105,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab6df799b1b:0x101417c890ecd779!8m2!3d29.9426894!4d77.5435105!16s%2Fg%2F1hd__m9c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CARE+HOSPITAL/@29.9426894,77.5435105,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab6df799b1b:0x101417c890ecd779!8m2!3d29.9426894!4d77.5435105!16s%2Fg%2F1hd__m9c1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9426894,
+      "lng": 77.5435105,
+      "label": "CARE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-hospital-saharanpur",
+    "name": "City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, City Hospital offers coordinated hospital care with major focus on Cardiac Surgery In Saharanpur. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "kishore bagh, Delhi - Saharanpur Rd, Avas Vikas Colony, PoliceLine, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "Avas Vikas Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/City+Hospital/@29.9449174,77.5459269,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab0bc5f0f81:0xaec075a8b68a051a!8m2!3d29.9449174!4d77.5459269!16s%2Fg%2F11c6c9zxvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Hospital/@29.9449174,77.5459269,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab0bc5f0f81:0xaec075a8b68a051a!8m2!3d29.9449174!4d77.5459269!16s%2Fg%2F11c6c9zxvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9449174,
+      "lng": 77.5459269,
+      "label": "City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dayawati-hospital-saharanpur",
+    "name": "Dayawati Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Dayawati Hospital offers coordinated hospital care with major focus on General Surgery In Saharanpur. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0132 266 3047",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6830, Ranjeet Nagar, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Beribagh",
+    "landmark": "Beribagh",
+    "emergencyContact": "0132 266 3047",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Dayawati+Hospital/@29.9644317,77.5566094,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9bf45e89b3:0x72eabeb8d5d15d6a!8m2!3d29.9644317!4d77.5566094!16s%2Fg%2F1hm5fc708?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dayawati+Hospital/@29.9644317,77.5566094,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9bf45e89b3:0x72eabeb8d5d15d6a!8m2!3d29.9644317!4d77.5566094!16s%2Fg%2F1hm5fc708?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9644317,
+      "lng": 77.5566094,
+      "label": "Dayawati Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deep-surgical-saharanpur",
+    "name": "Deep Surgical",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted surgical center in Saharanpur, Deep Surgical delivers integrated care across Liver Transplant Surgery In Saharanpur and Surgical Center. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Civil hospital chowk, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Deep+Surgical/data=!4m7!3m6!1s0x390eebceb48ebdd7:0xe5f6ae28bf9aaf85!8m2!3d29.9559233!4d77.5581067!16s%2Fg%2F11vbd0sy90!19sChIJ172OtM7rDjkRha-avyiu9uU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deep+Surgical/data=!4m7!3m6!1s0x390eebceb48ebdd7:0xe5f6ae28bf9aaf85!8m2!3d29.9559233!4d77.5581067!16s%2Fg%2F11vbd0sy90!19sChIJ172OtM7rDjkRha-avyiu9uU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9559233,
+      "lng": 77.5581067,
+      "label": "Deep Surgical",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dev-rishi-hospital-and-research-centre-nakur",
+    "name": "Dev Rishi Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Nakur, Dev Rishi Hospital & Research Centre brings together specialists for Liver Transplant Surgery In Saharanpur. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073009 32444",
+    "alternatePhone": "",
+    "website": "http://www.devrishihospital.com/",
+    "address": "3rd, KM Milestone, Road, Sarsawa, Nakur, Uttar Pradesh 247342",
+    "city": "Nakur",
+    "state": "Uttar Pradesh",
+    "pincode": "247342",
+    "locality": "Sarsawa",
+    "landmark": "Road",
+    "emergencyContact": "073009 32444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dev+Rishi+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x390ef3f7dee3df79:0x8e81b8ce7be9da58!8m2!3d29.9428602!4d77.3359496!16s%2Fg%2F11v69sdhg0!19sChIJed_j3vfzDjkRWNrpe864gY4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dev+Rishi+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x390ef3f7dee3df79:0x8e81b8ce7be9da58!8m2!3d29.9428602!4d77.3359496!16s%2Fg%2F11v69sdhg0!19sChIJed_j3vfzDjkRWNrpe864gY4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9428602,
+      "lng": 77.3359496,
+      "label": "Dev Rishi Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhawan-dental-clinic-saharanpur",
+    "name": "Dhawan Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dhawan Dental Clinic has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "drayushdhawan@gmail.com",
+    "phone": "099277 08292",
+    "alternatePhone": "87912 98292",
+    "website": "http://www.dhawandentalclinic.com/",
+    "address": "Dr. Ayush Dhawan BDS, MDS (OMR, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Jwala Nagar",
+    "landmark": "Jwala Nagar",
+    "emergencyContact": "87912 98292",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Dr.Ayush.Dhawan",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "https://in.linkedin.com/in/ayush-dhawan-89951237",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dhawan+Dental+Clinic/@29.9684105,77.5539707,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebcf7257debb:0x8d44b371032733e1!8m2!3d29.9684105!4d77.5539707!16s%2Fg%2F11ghtr0cx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhawan+Dental+Clinic/@29.9684105,77.5539707,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebcf7257debb:0x8d44b371032733e1!8m2!3d29.9684105!4d77.5539707!16s%2Fg%2F11ghtr0cx2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9684105,
+      "lng": 77.5539707,
+      "label": "Dhawan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "diet-clinic-saharanpur-saharanpur",
+    "name": "Diet Clinic Saharanpur",
+    "type": "Nutritionist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Diet Clinic Saharanpur has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Liver Transplant Surgery In Saharanpur and Nutritionist. Operational strengths including Google rating 3.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085888 49991",
+    "alternatePhone": "80108 88222",
+    "website": "http://www.dietclinic.in/",
+    "address": "WGWW+745, Delhi - Saharanpur Rd, Avas Vikas Colony, PoliceLine, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "Avas Vikas Colony",
+    "emergencyContact": "80108 88222",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DietClinicHealthCarePvtLtd/?ref=br_rs",
+    "twitter": "https://twitter.com/dieticiansheela",
+    "instagram": "https://www.instagram.com/dietclinic/?hl=en",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/DietClinic2005",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur",
+      "Nutritionist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Diet+Clinic+Saharanpur/data=!4m7!3m6!1s0x390eeab0a84158db:0xe4d9aac1f32617da!8m2!3d29.945635!4d77.545354!16s%2Fg%2F11f03n_61d!19sChIJ21hBqLDqDjkR2hcm88Gq2eQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Diet+Clinic+Saharanpur/data=!4m7!3m6!1s0x390eeab0a84158db:0xe4d9aac1f32617da!8m2!3d29.945635!4d77.545354!16s%2Fg%2F11f03n_61d!19sChIJ21hBqLDqDjkR2hcm88Gq2eQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.945635,
+      "lng": 77.545354,
+      "label": "Diet Clinic Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ecp-heart-care-clinic-saharanpur",
+    "name": "ECP HEART CARE CLINIC",
+    "type": "Public Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, ECP HEART CARE CLINIC offers coordinated hospital care with major focus on Heart Surgery In Saharanpur, Public Medical Center, and Cardiac Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29, Parvati Dham ITC Road, labour colony, Sharda Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Sharda Nagar",
+    "landmark": "labour colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Saharanpur",
+      "Public Medical Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/ECP+HEART+CARE+CLINIC/@29.9610757,77.5264316,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb3e518dee9d:0x1ba8b8506e23628d!8m2!3d29.9610757!4d77.5264316!16s%2Fg%2F11hdxy110h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ECP+HEART+CARE+CLINIC/@29.9610757,77.5264316,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb3e518dee9d:0x1ba8b8506e23628d!8m2!3d29.9610757!4d77.5264316!16s%2Fg%2F11hdxy110h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9610757,
+      "lng": 77.5264316,
+      "label": "ECP HEART CARE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "famous-medicare-saharanpur",
+    "name": "Famous Medicare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Famous Medicare for its strength in Spine Surgery In Saharanpur. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "admin@famousmedicare.in",
+    "phone": "0132 350 0060",
+    "alternatePhone": "0132 350 0059",
+    "website": "http://famousmedicare.in/",
+    "address": "Near Kutubsher, Ambala Rd, Thana Qutub Sher, Patel Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Patel Nagar",
+    "landmark": "Thana Qutub Sher",
+    "emergencyContact": "0132 350 0059",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/FamousMedicare-107389408432635/",
+    "twitter": "https://twitter.com/FamousMedicare",
+    "instagram": "https://www.instagram.com/famousmedicare/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Famous+Medicare/data=!4m7!3m6!1s0x390eeb9092e8ad6f:0xef01a748be072689!8m2!3d29.9674918!4d77.5379592!16s%2Fg%2F11py__21_n!19sChIJb63okpDrDjkRiSYHvkinAe8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Famous+Medicare/data=!4m7!3m6!1s0x390eeb9092e8ad6f:0xef01a748be072689!8m2!3d29.9674918!4d77.5379592!16s%2Fg%2F11py__21_n!19sChIJb63okpDrDjkRiSYHvkinAe8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9674918,
+      "lng": 77.5379592,
+      "label": "Famous Medicare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gayatri-clinic-saharanpur",
+    "name": "Gayatri Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Gayatri Clinic delivers integrated care across Liver Transplant Surgery In Saharanpur. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6/6218 Near New Cambridge School, Madho Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Madho Nagar",
+    "landmark": "Near New Cambridge School, Madho Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Gayatri+Clinic/data=!4m7!3m6!1s0x390eea82242d089f:0xd148664da2873725!8m2!3d29.9751855!4d77.559985!16s%2Fg%2F11cspvtn5v!19sChIJnwgtJILqDjkRJTeHok1mSNE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gayatri+Clinic/data=!4m7!3m6!1s0x390eea82242d089f:0xd148664da2873725!8m2!3d29.9751855!4d77.559985!16s%2Fg%2F11cspvtn5v!19sChIJnwgtJILqDjkRJTeHok1mSNE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9751855,
+      "lng": 77.559985,
+      "label": "Gayatri Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "green-city-hospital-saharanpur-saharanpur",
+    "name": "Green City Hospital Saharanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Green City Hospital Saharanpur for its strength in Liver Transplant Surgery In Saharanpur. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091197 80948",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Behat Rd, Madhav Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Madhav Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "091197 80948",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Green+City+Hospital+Saharanpur/data=!4m7!3m6!1s0x390ec1f1dc69bdcb:0xc2e038fcecd7a65d!8m2!3d29.9932251!4d77.5664085!16s%2Fg%2F11mvs0227s!19sChIJy71p3PHBDjkRXabX7Pw44MI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Green+City+Hospital+Saharanpur/data=!4m7!3m6!1s0x390ec1f1dc69bdcb:0xc2e038fcecd7a65d!8m2!3d29.9932251!4d77.5664085!16s%2Fg%2F11mvs0227s!19sChIJy71p3PHBDjkRXabX7Pw44MI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9932251,
+      "lng": 77.5664085,
+      "label": "Green City Hospital Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gupta-hospital-saharanpur",
+    "name": "Gupta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gupta Hospital is a prominent hospital in Saharanpur, known for structured tertiary care across Orthopedic Surgery In Saharanpur. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094124 80222",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cirular Rd, opp. Sagar ratna Near Thana, Krishna Nivas, Sadar Bazar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Sadar Bazar",
+    "landmark": "Near Thana, Krishna Nivas, Sadar Bazar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "094124 80222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x390eeb3f8000a51f:0x664947a17569d4!8m2!3d29.9519224!4d77.5508555!16s%2Fg%2F11f6dqbby5!19sChIJH6UAgD_rDjkR1Gl1oUdJZgA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x390eeb3f8000a51f:0x664947a17569d4!8m2!3d29.9519224!4d77.5508555!16s%2Fg%2F11f6dqbby5!19sChIJH6UAgD_rDjkR1Gl1oUdJZgA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9519224,
+      "lng": 77.5508555,
+      "label": "Gupta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hari-hospital-and-research-centre-ugrahu-must",
+    "name": "Hari Hospital and Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Ugrahu Must., Hari Hospital and Research Centre brings together specialists for General Surgery In Saharanpur. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078303 01616",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 73, Dehradun Rd, near Hindan Bridge, Gagalheri, Ugrahu Must., Uttar Pradesh 247669",
+    "city": "Ugrahu Must.",
+    "state": "Uttar Pradesh",
+    "pincode": "247669",
+    "locality": "Gagalheri",
+    "landmark": "near Hindan Bridge, Gagalheri, Ugrahu Must., Uttar Pradesh 247669",
+    "emergencyContact": "078303 01616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Hari+Hospital+and+Research+Centre/@29.9762402,77.6542144,17z/data=!3m1!4b1!4m6!3m5!1s0x390ec757ebc5123f:0x5aa5b312e22adaf1!8m2!3d29.9762402!4d77.6542144!16s%2Fg%2F11sf9mt3vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hari+Hospital+and+Research+Centre/@29.9762402,77.6542144,17z/data=!3m1!4b1!4m6!3m5!1s0x390ec757ebc5123f:0x5aa5b312e22adaf1!8m2!3d29.9762402!4d77.6542144!16s%2Fg%2F11sf9mt3vy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9762402,
+      "lng": 77.6542144,
+      "label": "Hari Hospital and Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hmt-hospital-saharanpur",
+    "name": "HMT Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HMT Hospital is a prominent general hospital in Saharanpur, known for structured tertiary care across General Surgery In Saharanpur. Hospital capacity markers such as Google rating 3.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "02, Saharanpur Rd - Behat, Madhav Nagar, Sakalapuri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Sakalapuri",
+    "landmark": "Madhav Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/HMT+Hospital/@29.9946663,77.5653862,17z/data=!3m1!4b1!4m6!3m5!1s0x390ec100545bc115:0x35a4b72986ce5d68!8m2!3d29.9946663!4d77.5653862!16s%2Fg%2F11m5lgwjnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HMT+Hospital/@29.9946663,77.5653862,17z/data=!3m1!4b1!4m6!3m5!1s0x390ec100545bc115:0x35a4b72986ce5d68!8m2!3d29.9946663!4d77.5653862!16s%2Fg%2F11m5lgwjnf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9946663,
+      "lng": 77.5653862,
+      "label": "HMT Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hospital-saharanpur",
+    "name": "Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Hospital for its strength in General Surgery In Saharanpur. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094112 97977",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2, Parkash puram baj, Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Bajoria Rd",
+    "emergencyContact": "094112 97977",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Hospital/@29.9577111,77.5557664,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1bbf3c327:0xb8c32729810fff0c!8m2!3d29.9577111!4d77.5557664!16s%2Fg%2F11tfdz5ks_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hospital/@29.9577111,77.5557664,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1bbf3c327:0xb8c32729810fff0c!8m2!3d29.9577111!4d77.5557664!16s%2Fg%2F11tfdz5ks_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9577111,
+      "lng": 77.5557664,
+      "label": "Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jagwati-hospital-saharanpur-saharanpur",
+    "name": "Jagwati Hospital Saharanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jagwati Hospital Saharanpur is a prominent hospital in Saharanpur, known for structured tertiary care across General Surgery In Saharanpur. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "drrajneesh.ortho@gmail.com",
+    "phone": "074173 94040",
+    "alternatePhone": "98970 12283",
+    "website": "https://jagwatihospital.in/",
+    "address": "front of the tikona koti, b-16, Bajoria Rd, near SBD hospital, parkash puram, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "near SBD hospital, parkash puram, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "98970 12283",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=61581769926946",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/jagwatihospital/",
+    "linkedin": "https://in.linkedin.com/in/dr-rajneesh-kumar-426787217",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jagwati+Hospital+Saharanpur/@29.957259,77.5593859,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1a23757d3:0x1330051891a46510!8m2!3d29.957259!4d77.5593859!16s%2Fg%2F11y412x_kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jagwati+Hospital+Saharanpur/@29.957259,77.5593859,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa1a23757d3:0x1330051891a46510!8m2!3d29.957259!4d77.5593859!16s%2Fg%2F11y412x_kr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.957259,
+      "lng": 77.5593859,
+      "label": "Jagwati Hospital Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "js-sarvodaya-hospital-saharanpur",
+    "name": "JS Sarvodaya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, JS Sarvodaya Hospital delivers integrated care across Kidney Transplant Surgery In Saharanpur. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080063 30998",
+    "alternatePhone": "",
+    "website": "http://jssarvodaya.com/",
+    "address": "Post Office, Opposite Mangal Nagar, Link Rd, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Beribagh",
+    "landmark": "Opposite Mangal Nagar, Link Rd, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "080063 30998",
+    "emergencyServices": false,
+    "facebook": "https://facebook.com/jssarvodaya",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JS+Sarvodaya+Hospital/data=!4m7!3m6!1s0x390eeb7da2a2302b:0xcc806120eeb823b9!8m2!3d29.9659218!4d77.555027!16s%2Fg%2F11s0d6w5bb!19sChIJKzCion3rDjkRuSO47iBhgMw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JS+Sarvodaya+Hospital/data=!4m7!3m6!1s0x390eeb7da2a2302b:0xcc806120eeb823b9!8m2!3d29.9659218!4d77.555027!16s%2Fg%2F11s0d6w5bb!19sChIJKzCion3rDjkRuSO47iBhgMw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9659218,
+      "lng": 77.555027,
+      "label": "JS Sarvodaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-k-dental-care-saharanpur",
+    "name": "K.K DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose K.K DENTAL CARE for its strength in Oral Surgery In Saharanpur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081718 64558",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chilkana Rd, opposite petrol pump Golkothi, Krishna Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Krishna Nagar",
+    "landmark": "opposite petrol pump Golkothi, Krishna Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "081718 64558",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/K.K+DENTAL+CARE/@29.9837489,77.5419284,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb22a4b025d7:0x3402e2d837c5dcca!8m2!3d29.9837489!4d77.5419284!16s%2Fg%2F11gpnhxgly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K.K+DENTAL+CARE/@29.9837489,77.5419284,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb22a4b025d7:0x3402e2d837c5dcca!8m2!3d29.9837489!4d77.5419284!16s%2Fg%2F11gpnhxgly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9837489,
+      "lng": 77.5419284,
+      "label": "K.K DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kapoor-dental-and-cancer-detection-centre-saharanpur",
+    "name": "Kapoor Dental And Cancer Detection Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kapoor Dental And Cancer Detection Centre has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098971 72191",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jain Degree College Chowk, J. V, near kumar printers, Shiv Vihar Colony, Rohit Vihar, Saharanpur, Mohammadpur Mafi, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Rohit Vihar",
+    "landmark": "near kumar printers, Shiv Vihar Colony, Rohit Vihar, Saharanpur, Mohammadpur Mafi, Uttar Pradesh 247001",
+    "emergencyContact": "098971 72191",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kapoor+Dental+And+Cancer+Detection+Centre/@29.9399375,77.546939,17z/data=!3m1!4b1!4m6!3m5!1s0x390e95d556e443fd:0x6b0c9f73017c7bfb!8m2!3d29.9399375!4d77.546939!16s%2Fg%2F11mxg_kk8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kapoor+Dental+And+Cancer+Detection+Centre/@29.9399375,77.546939,17z/data=!3m1!4b1!4m6!3m5!1s0x390e95d556e443fd:0x6b0c9f73017c7bfb!8m2!3d29.9399375!4d77.546939!16s%2Fg%2F11mxg_kk8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9399375,
+      "lng": 77.546939,
+      "label": "Kapoor Dental And Cancer Detection Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kausar-nursing-home-saharanpur",
+    "name": "Kausar Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Kausar Nursing Home offers coordinated hospital care with major focus on Laparoscopic Surgery In Saharanpur and Nursing Home. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nisar Colony, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Nisar Colony",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Saharanpur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kausar+Nursing+Home/@29.9722176,77.5310385,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaf1300cdc77:0xabfa3f65b11c796b!8m2!3d29.9722176!4d77.5310385!16s%2Fg%2F1hcb0mm3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kausar+Nursing+Home/@29.9722176,77.5310385,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaf1300cdc77:0xabfa3f65b11c796b!8m2!3d29.9722176!4d77.5310385!16s%2Fg%2F1hcb0mm3m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9722176,
+      "lng": 77.5310385,
+      "label": "Kausar Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "king-multi-specialist-hospital-and-trauma-center-saharanpur",
+    "name": "King Multi Specialist Hospital & Trauma Center",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, King Multi Specialist Hospital & Trauma Center brings together specialists for Kidney Transplant Surgery In Saharanpur. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Haqikatnagar",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/King+Multi+Specialist+Hospital+%26+Trauma+Center/data=!4m7!3m6!1s0x390eeaa4d1545c45:0xfb8b7f983e779a67!8m2!3d29.949484!4d77.550852!16s%2Fg%2F11vs5m0w5l!19sChIJRVxU0aTqDjkRZ5p3Pph_i_s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/King+Multi+Specialist+Hospital+%26+Trauma+Center/data=!4m7!3m6!1s0x390eeaa4d1545c45:0xfb8b7f983e779a67!8m2!3d29.949484!4d77.550852!16s%2Fg%2F11vs5m0w5l!19sChIJRVxU0aTqDjkRZ5p3Pph_i_s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.949484,
+      "lng": 77.550852,
+      "label": "King Multi Specialist Hospital & Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kiran-healthcare-centre-saharanpur",
+    "name": "Kiran healthcare centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Kiran healthcare centre offers coordinated hospital care with major focus on General Surgery In Saharanpur. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajoria Rd, near petrol pump, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Damodarpuri",
+    "landmark": "near petrol pump, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kiran+healthcare+centre/@29.9546562,77.556943,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb5678bfdc05:0x7f5940810a51b05f!8m2!3d29.9546562!4d77.556943!16s%2Fg%2F11rfqtfr6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kiran+healthcare+centre/@29.9546562,77.556943,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb5678bfdc05:0x7f5940810a51b05f!8m2!3d29.9546562!4d77.556943!16s%2Fg%2F11rfqtfr6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9546562,
+      "lng": 77.556943,
+      "label": "Kiran healthcare centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-advance-physio-clinic-saharanpur",
+    "name": "Krishna Advance Physio Clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Saharanpur, Krishna Advance Physio Clinic delivers integrated care across Orthopedic Surgery In Saharanpur and Physiotherapy Center. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074670 67466",
+    "alternatePhone": "",
+    "website": "http://kphysio.in/",
+    "address": "M-38, Shiv Mandir Road, Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Haqikatnagar",
+    "landmark": "Haqikatnagar",
+    "emergencyContact": "074670 67466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Advance+Physio+Clinic/data=!4m7!3m6!1s0x390eebdc519c8403:0xf4a16fe4fa4f2894!8m2!3d29.9462564!4d77.5506985!16s%2Fg%2F11hz01wrkx!19sChIJA4ScUdzrDjkRlChP-uRvofQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Advance+Physio+Clinic/data=!4m7!3m6!1s0x390eebdc519c8403:0xf4a16fe4fa4f2894!8m2!3d29.9462564!4d77.5506985!16s%2Fg%2F11hz01wrkx!19sChIJA4ScUdzrDjkRlChP-uRvofQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9462564,
+      "lng": 77.5506985,
+      "label": "Krishna Advance Physio Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kunti-devi-memorial-hospital-saharanpur",
+    "name": "KUNTI devi memorial hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, KUNTI devi memorial hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090585 09995",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Laxmi Dham, New, Madhav Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Madhav Nagar",
+    "landmark": "Madhav Nagar",
+    "emergencyContact": "090585 09995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/KUNTI+devi+memorial+hospital/data=!4m7!3m6!1s0x390ec02ae1a3775b:0xf26785cd3067539c!8m2!3d29.9800529!4d77.5646634!16s%2Fg%2F11bwpqkgdg!19sChIJW3ej4SrADjkRnFNnMM2FZ_I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KUNTI+devi+memorial+hospital/data=!4m7!3m6!1s0x390ec02ae1a3775b:0xf26785cd3067539c!8m2!3d29.9800529!4d77.5646634!16s%2Fg%2F11bwpqkgdg!19sChIJW3ej4SrADjkRnFNnMM2FZ_I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9800529,
+      "lng": 77.5646634,
+      "label": "KUNTI devi memorial hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lasting-smiles-dental-care-saharanpur",
+    "name": "Lasting Smiles Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Lasting Smiles Dental Care offers coordinated hospital care with major focus on Oral Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090277 85655",
+    "alternatePhone": "",
+    "website": "",
+    "address": "chowk, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Navin Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "090277 85655",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Lasting+Smiles+Dental+Care/@29.9490996,77.5414268,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebd45fd7179f:0x610e989fc1e14dbf!8m2!3d29.9490996!4d77.5414268!16s%2Fg%2F11sbhn94dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lasting+Smiles+Dental+Care/@29.9490996,77.5414268,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebd45fd7179f:0x610e989fc1e14dbf!8m2!3d29.9490996!4d77.5414268!16s%2Fg%2F11sbhn94dt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9490996,
+      "lng": 77.5414268,
+      "label": "Lasting Smiles Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "leela-heart-and-medicare-center-saharanpur",
+    "name": "Leela Heart and Medicare Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Leela Heart and Medicare Center has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Heart Surgery In Saharanpur and Cardiac Care. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0132 271 6602",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XH44+JWP, Bajoria Rd, Near Tarawati hospital, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Near Tarawati hospital, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "0132 271 6602",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Saharanpur",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Leela+Heart+and+Medicare+Center/@29.9565812,77.5573375,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa19683c9c9:0xac180bef656920f1!8m2!3d29.9565812!4d77.5573375!16s%2Fg%2F1v16npll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Leela+Heart+and+Medicare+Center/@29.9565812,77.5573375,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa19683c9c9:0xac180bef656920f1!8m2!3d29.9565812!4d77.5573375!16s%2Fg%2F1v16npll?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9565812,
+      "lng": 77.5573375,
+      "label": "Leela Heart and Medicare Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-care-clinic-saharanpur",
+    "name": "Life Care Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Saharanpur, Life Care Clinic delivers integrated care across Liver Transplant Surgery In Saharanpur. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097604 43366",
+    "alternatePhone": "",
+    "website": "",
+    "address": "193, indra street, near indra chowk, Kamal Colony, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Kamal Colony",
+    "landmark": "near indra chowk, Kamal Colony, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "097604 43366",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Life+Care+Clinic/data=!4m7!3m6!1s0x390eea58b751fa77:0xbd422617c407f02a!8m2!3d29.979749!4d77.532605!16s%2Fg%2F11jzqq2b3z!19sChIJd_pRt1jqDjkRKvAHxBcmQr0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Care+Clinic/data=!4m7!3m6!1s0x390eea58b751fa77:0xbd422617c407f02a!8m2!3d29.979749!4d77.532605!16s%2Fg%2F11jzqq2b3z!19sChIJd_pRt1jqDjkRKvAHxBcmQr0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.979749,
+      "lng": 77.532605,
+      "label": "Life Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manchanda-s-dental-and-hair-transplant-saharanpur",
+    "name": "Manchanda’s Dental & Hair Transplant",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Manchanda’s Dental & Hair Transplant brings together specialists for Kidney Transplant Surgery In Saharanpur. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "support@manchandacare.in",
+    "phone": "097170 26956",
+    "alternatePhone": "",
+    "website": "http://manchandacare.in/",
+    "address": "near bharat mata chock, opp. Post office, Gopal Nagar, Numaish Camp, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Numaish Camp",
+    "landmark": "Gopal Nagar",
+    "emergencyContact": "097170 26956",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manchanda%E2%80%99s+Dental+%26+Hair+Transplant/data=!4m7!3m6!1s0x390ec0285966f4d5:0x21ce70964444f7b7!8m2!3d29.972328!4d77.5645424!16s%2Fg%2F11c67v2rfr!19sChIJ1fRmWSjADjkRt_dERJZwziE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manchanda%E2%80%99s+Dental+%26+Hair+Transplant/data=!4m7!3m6!1s0x390ec0285966f4d5:0x21ce70964444f7b7!8m2!3d29.972328!4d77.5645424!16s%2Fg%2F11c67v2rfr!19sChIJ1fRmWSjADjkRt_dERJZwziE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.972328,
+      "lng": 77.5645424,
+      "label": "Manchanda’s Dental & Hair Transplant",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "max-medcentre-saharanpur-saharanpur",
+    "name": "Max Medcentre Saharanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Max Medcentre Saharanpur is a prominent hospital in Saharanpur, known for structured tertiary care across Kidney Transplant Surgery In Saharanpur. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094569 34755",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ekta Hospital, Bajoria Rd, near petrol pump 247001, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "near petrol pump 247001, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "094569 34755",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Max+Medcentre+Saharanpur/data=!4m7!3m6!1s0x390eeaa0ccb00f77:0x52de792cd69503f8!8m2!3d29.95746!4d77.5563293!16s%2Fg%2F11j3b3rzhc!19sChIJdw-wzKDqDjkR-AOV1ix53lI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Max+Medcentre+Saharanpur/data=!4m7!3m6!1s0x390eeaa0ccb00f77:0x52de792cd69503f8!8m2!3d29.95746!4d77.5563293!16s%2Fg%2F11j3b3rzhc!19sChIJdw-wzKDqDjkR-AOV1ix53lI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.95746,
+      "lng": 77.5563293,
+      "label": "Max Medcentre Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medical-saharanpur",
+    "name": "Medical",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medical is a prominent medical center in Saharanpur, known for structured tertiary care across Liver Transplant Surgery In Saharanpur and Medical Center. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHW8+WCV, Saharanpur Rd - Behat, Hanuman Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Hanuman Nagar",
+    "landmark": "Hanuman Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Medical/data=!4m7!3m6!1s0x390ec1007a75e923:0x7140f70ddd9e879!8m2!3d29.9973727!4d77.5660568!16s%2Fg%2F11x6myy1gt!19sChIJI-l1egDBDjkReejZ3XAPFAc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medical/data=!4m7!3m6!1s0x390ec1007a75e923:0x7140f70ddd9e879!8m2!3d29.9973727!4d77.5660568!16s%2Fg%2F11x6myy1gt!19sChIJI-l1egDBDjkReejZ3XAPFAc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9973727,
+      "lng": 77.5660568,
+      "label": "Medical",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medigram-hospital-saharanpur-chunheti",
+    "name": "Medigram Hospital Saharanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medigram Hospital Saharanpur has built a strong reputation in Chunheti for multidisciplinary treatment pathways covering Urologist Surgery In Saharanpur. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084770 01904",
+    "alternatePhone": "",
+    "website": "http://www.medigramhospital.com/",
+    "address": "Delhi Road, 7th KM Milestone, opposite Pinewood School, Chunheti, Uttar Pradesh 247001",
+    "city": "Chunheti",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "opposite Pinewood School",
+    "landmark": "opposite Pinewood School, Chunheti, Uttar Pradesh 247001",
+    "emergencyContact": "084770 01904",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medigram+Hospital+Saharanpur/data=!4m7!3m6!1s0x390e94e1e4c40653:0x20cbb71b554877cc!8m2!3d29.903894!4d77.515387!16s%2Fg%2F11bw3cztf9!19sChIJUwbE5OGUDjkRzHdIVRu3yyA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medigram+Hospital+Saharanpur/data=!4m7!3m6!1s0x390e94e1e4c40653:0x20cbb71b554877cc!8m2!3d29.903894!4d77.515387!16s%2Fg%2F11bw3cztf9!19sChIJUwbE5OGUDjkRzHdIVRu3yyA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.903894,
+      "lng": 77.515387,
+      "label": "Medigram Hospital Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medwin-hospital-saharanpur",
+    "name": "Medwin Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medwin Hospital has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering General Surgery In Saharanpur. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090271 09196",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D Hospital, S.B, Sarkuler Rd, near Ashta Medical Store, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "near Ashta Medical Store, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "090271 09196",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Medwin+Hospital/@29.9563842,77.5586304,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb9d54d9aeed:0x3bc127febd0f1e85!8m2!3d29.9563842!4d77.5586304!16s%2Fg%2F11vpnchbfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medwin+Hospital/@29.9563842,77.5586304,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb9d54d9aeed:0x3bc127febd0f1e85!8m2!3d29.9563842!4d77.5586304!16s%2Fg%2F11vpnchbfp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9563842,
+      "lng": 77.5586304,
+      "label": "Medwin Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meet-dental-and-oral-care-clinic-dental-clinic-saharanpur",
+    "name": "Meet Dental And Oral Care Clinic ( Dental Clinic)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Meet Dental And Oral Care Clinic ( Dental Clinic) offers coordinated hospital care with major focus on Oral Surgery In Saharanpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092199 96276",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gurudwara road, Opp. Punjab & Sind bank, near railway station,, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "near railway station",
+    "landmark": "near railway station,, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "092199 96276",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Meet+Dental+And+Oral+Care+Clinic+(+Dental+Clinic)/@29.9639072,77.5397654,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9339ca167b:0x86cb06eb6533c99a!8m2!3d29.9639072!4d77.5397654!16s%2Fg%2F11cn5rk0wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meet+Dental+And+Oral+Care+Clinic+(+Dental+Clinic)/@29.9639072,77.5397654,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9339ca167b:0x86cb06eb6533c99a!8m2!3d29.9639072!4d77.5397654!16s%2Fg%2F11cn5rk0wd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9639072,
+      "lng": 77.5397654,
+      "label": "Meet Dental And Oral Care Clinic ( Dental Clinic)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meru-ivf-saharanpur",
+    "name": "Meru IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Meru IVF brings together specialists for IVF In Saharanpur and Fertility Care. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093190 93999",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15, Delhi - Saharanpur Rd, Friends Colony, Avas Vikas Colony, Vinay Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Vinay Nagar",
+    "landmark": "Friends Colony",
+    "emergencyContact": "093190 93999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Saharanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Meru+IVF/data=!4m7!3m6!1s0x390eebae8df2305f:0x46d57fde82b15891!8m2!3d29.9399433!4d77.542455!16s%2Fg%2F11fslmlnzp!19sChIJXzDyja7rDjkRkVixgt5_1UY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meru+IVF/data=!4m7!3m6!1s0x390eebae8df2305f:0x46d57fde82b15891!8m2!3d29.9399433!4d77.542455!16s%2Fg%2F11fslmlnzp!19sChIJXzDyja7rDjkRkVixgt5_1UY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9399433,
+      "lng": 77.542455,
+      "label": "Meru IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-life-physiotherapy-clinic-and-slimming-center-saharanpur",
+    "name": "New Life Physiotherapy Clinic & Slimming Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, New Life Physiotherapy Clinic & Slimming Center brings together specialists for Knee Replacement Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Patel Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "New Patel Nagar",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/New+Life+Physiotherapy+Clinic+%26+Slimming+Center/data=!4m7!3m6!1s0x390eebea8ebaccdf:0xd6d666c62b66df30!8m2!3d29.9609051!4d77.5361071!16s%2Fg%2F11qph74x78!19sChIJ38y6jurrDjkRMN9mK8Zm1tY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Life+Physiotherapy+Clinic+%26+Slimming+Center/data=!4m7!3m6!1s0x390eebea8ebaccdf:0xd6d666c62b66df30!8m2!3d29.9609051!4d77.5361071!16s%2Fg%2F11qph74x78!19sChIJ38y6jurrDjkRMN9mK8Zm1tY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9609051,
+      "lng": 77.5361071,
+      "label": "New Life Physiotherapy Clinic & Slimming Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nishanand-dental-clinic-saharanpur",
+    "name": "Nishanand dental clinic 🦷",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nishanand dental clinic 🦷 is a prominent dentist in Saharanpur, known for structured tertiary care across Oral Surgery In Saharanpur and Dentist. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "nishananddental@yahoo.com",
+    "phone": "097613 54607",
+    "alternatePhone": "+91 97613 54507",
+    "website": "http://www.nishananddental.in/",
+    "address": "Delhi - Saharanpur Rd, opposite Aastha Hospital, Pant Vihar, Saharanpur, Sawalpur Nawada, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Pant Vihar",
+    "landmark": "opposite Aastha Hospital, Pant Vihar, Saharanpur, Sawalpur Nawada, Uttar Pradesh 247001",
+    "emergencyContact": "+91 97613 54507",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NISHANANDDENTAL/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/NISHANANDDENTAL/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nishanand+dental+clinic+%F0%9F%A6%B7/@29.9280095,77.5283657,17z/data=!3m1!4b1!4m6!3m5!1s0x390e957a857aa5bf:0xe71383de70ba9e58!8m2!3d29.9280095!4d77.5283657!16s%2Fg%2F11g07z5s0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nishanand+dental+clinic+%F0%9F%A6%B7/@29.9280095,77.5283657,17z/data=!3m1!4b1!4m6!3m5!1s0x390e957a857aa5bf:0xe71383de70ba9e58!8m2!3d29.9280095!4d77.5283657!16s%2Fg%2F11g07z5s0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9280095,
+      "lng": 77.5283657,
+      "label": "Nishanand dental clinic 🦷",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-fertility-centre-in-saharanpur-saharanpur",
+    "name": "Nova IVF Fertility Center - Best Fertility Centre in Saharanpur",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova IVF Fertility Center - Best Fertility Centre in Saharanpur is a prominent fertility clinic in Saharanpur, known for structured tertiary care across IVF In Saharanpur and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 77140",
+    "alternatePhone": "080493 88781",
+    "website": "https://www.novaivffertility.com/ivf-centre/saharanpur/fertility-clinic-saharanpur?utm_source=GMB&utm_medium=organic",
+    "address": "Second Floor, kishore bagh, Nova IVF Fertility, 2 1428/30, Delhi - Saharanpur Rd, nearby Aura Restaurant, PoliceLine, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "Nova IVF Fertility",
+    "emergencyContact": "080493 88781",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Saharanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+Fertility+Centre+in+Saharanpur/data=!4m7!3m6!1s0x390eebe88b087223:0xcc18135f3a2ae03!8m2!3d29.9456483!4d77.545687!16s%2Fg%2F11x7ppbj31!19sChIJI3IIi-jrDjkRA66i8zWBwQw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+Fertility+Centre+in+Saharanpur/data=!4m7!3m6!1s0x390eebe88b087223:0xcc18135f3a2ae03!8m2!3d29.9456483!4d77.545687!16s%2Fg%2F11x7ppbj31!19sChIJI3IIi-jrDjkRA66i8zWBwQw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9456483,
+      "lng": 77.545687,
+      "label": "Nova IVF Fertility Center - Best Fertility Centre in Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "old-hospital-saharanpur",
+    "name": "Old Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Old Hospital is a prominent hospital in Saharanpur, known for structured tertiary care across Liver Transplant Surgery In Saharanpur. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XG9V+2R8, National Highway 73, Charanjpur, Subhash Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Subhash Nagar",
+    "landmark": "Charanjpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Old+Hospital/data=!4m7!3m6!1s0x390eea921daaaaab:0x7c3af9efb731f81d!8m2!3d29.9675372!4d77.5445663!16s%2Fg%2F11txmz8sww!19sChIJq6qqHZLqDjkRHfgxt-_5Onw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Old+Hospital/data=!4m7!3m6!1s0x390eea921daaaaab:0x7c3af9efb731f81d!8m2!3d29.9675372!4d77.5445663!16s%2Fg%2F11txmz8sww!19sChIJq6qqHZLqDjkRHfgxt-_5Onw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9675372,
+      "lng": 77.5445663,
+      "label": "Old Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oncomed-cancer-care-clinic-saharanpur-saharanpur",
+    "name": "OncoMed Cancer care clinic Saharanpur",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Saharanpur, OncoMed Cancer care clinic Saharanpur delivers integrated care across Liver Transplant Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090120 02214",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "090120 02214",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/OncoMed+Cancer+care+clinic+Saharanpur/data=!4m7!3m6!1s0x390e97007d426509:0xd2b600918cca29d6!8m2!3d29.9579668!4d77.5554911!16s%2Fg%2F11w7ftjd4g!19sChIJCWVCfQCXDjkR1inKjJEAttI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OncoMed+Cancer+care+clinic+Saharanpur/data=!4m7!3m6!1s0x390e97007d426509:0xd2b600918cca29d6!8m2!3d29.9579668!4d77.5554911!16s%2Fg%2F11w7ftjd4g!19sChIJCWVCfQCXDjkR1inKjJEAttI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9579668,
+      "lng": 77.5554911,
+      "label": "OncoMed Cancer care clinic Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "panwar-dental-care-saharanpur",
+    "name": "Panwar dental care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Panwar dental care has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur and Dentist. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Daya Garden, Chilkana Rd, Khatakheri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khatakheri",
+    "landmark": "Khatakheri",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Panwar+dental+care/@29.9903572,77.5368838,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb0074a1194d:0x88721e99d489d356!8m2!3d29.9903572!4d77.5368838!16s%2Fg%2F11wwq1wvxy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Panwar+dental+care/@29.9903572,77.5368838,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb0074a1194d:0x88721e99d489d356!8m2!3d29.9903572!4d77.5368838!16s%2Fg%2F11wwq1wvxy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9903572,
+      "lng": 77.5368838,
+      "label": "Panwar dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearls-dental-care-saharanpur",
+    "name": "Pearls Dental Care",
+    "type": "Endodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Pearls Dental Care brings together specialists for Oral Surgery In Saharanpur and Endodontist. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086307 62868",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Delhi - Saharanpur Rd, Opposite Punjab National Bank, Vasant Vihar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Vasant Vihar",
+    "landmark": "Opposite Punjab National Bank, Vasant Vihar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "086307 62868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Endodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Pearls+Dental+Care/@29.9457445,77.5450531,17z/data=!3m1!4b1!4m6!3m5!1s0x390c311295d352e3:0x9fa1f20d974e831b!8m2!3d29.9457445!4d77.5450531!16s%2Fg%2F11fgkqh1d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearls+Dental+Care/@29.9457445,77.5450531,17z/data=!3m1!4b1!4m6!3m5!1s0x390c311295d352e3:0x9fa1f20d974e831b!8m2!3d29.9457445!4d77.5450531!16s%2Fg%2F11fgkqh1d8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9457445,
+      "lng": 77.5450531,
+      "label": "Pearls Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pegasus-hospital-saharanpur",
+    "name": "Pegasus Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Pegasus Hospital offers coordinated hospital care with major focus on Spine Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089380 89381",
+    "alternatePhone": "",
+    "website": "https://pegasushospital.com/",
+    "address": "A-7, Avas Vikas Colony Lane, Avas Vikas Colony, PoliceLine, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "Avas Vikas Colony",
+    "emergencyContact": "089380 89381",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pegasus+Hospital/data=!4m7!3m6!1s0x390eeab6ecb921bb:0xf7b8754d7fb73f5!8m2!3d29.9441104!4d77.5445813!16s%2Fg%2F11b6r_8jgz!19sChIJuyG57LbqDjkR9XP711SHew8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pegasus+Hospital/data=!4m7!3m6!1s0x390eeab6ecb921bb:0xf7b8754d7fb73f5!8m2!3d29.9441104!4d77.5445813!16s%2Fg%2F11b6r_8jgz!19sChIJuyG57LbqDjkR9XP711SHew8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9441104,
+      "lng": 77.5445813,
+      "label": "Pegasus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pgi-hospital-ahmadpur-brahman",
+    "name": "PGI Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ahmadpur Brahman, PGI Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Saharanpur. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ahmadpur Brahman, Uttar Pradesh 247232",
+    "city": "Ahmadpur Brahman",
+    "state": "Uttar Pradesh",
+    "pincode": "247232",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/PGI+Hospital/data=!4m7!3m6!1s0x390eeb8c22b5ee07:0xc415370a2859d980!8m2!3d29.9911224!4d77.4774541!16s%2Fg%2F11g9qspsqd!19sChIJB-61IozrDjkRgNlZKAo3FcQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PGI+Hospital/data=!4m7!3m6!1s0x390eeb8c22b5ee07:0xc415370a2859d980!8m2!3d29.9911224!4d77.4774541!16s%2Fg%2F11g9qspsqd!19sChIJB-61IozrDjkRgNlZKAo3FcQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9911224,
+      "lng": 77.4774541,
+      "label": "PGI Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "piles-care-clinic-saharanpur",
+    "name": "Piles care clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Piles care clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Saharanpur. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WGWP+F4H, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Navin Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Piles+care+clinic/data=!4m7!3m6!1s0x390eeb49c3e26e9d:0x678040b9fa3815d9!8m2!3d29.9461803!4d77.535365!16s%2Fg%2F11frrdxjdx!19sChIJnW7iw0nrDjkR2RU4-rlAgGc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Piles+care+clinic/data=!4m7!3m6!1s0x390eeb49c3e26e9d:0x678040b9fa3815d9!8m2!3d29.9461803!4d77.535365!16s%2Fg%2F11frrdxjdx!19sChIJnW7iw0nrDjkR2RU4-rlAgGc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9461803,
+      "lng": 77.535365,
+      "label": "Piles care clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-k-hospital-unali",
+    "name": "R.K. HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Unali, R.K. HOSPITAL brings together specialists for General Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075338 94480",
+    "alternatePhone": "",
+    "website": "",
+    "address": "AMAN VATIKA, Plot no. 112 & 354, near GOGA MEHDI, VILL, Khatriwala, Unali, Uttar Pradesh 247001",
+    "city": "Unali",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khatriwala",
+    "landmark": "near GOGA MEHDI, VILL, Khatriwala, Unali, Uttar Pradesh 247001",
+    "emergencyContact": "075338 94480",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/R.K.+HOSPITAL/@29.9572983,77.5034798,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb5569b507cb:0xaa36952570672bdb!8m2!3d29.9572983!4d77.5034798!16s%2Fg%2F11ldx01l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.K.+HOSPITAL/@29.9572983,77.5034798,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb5569b507cb:0xaa36952570672bdb!8m2!3d29.9572983!4d77.5034798!16s%2Fg%2F11ldx01l7b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9572983,
+      "lng": 77.5034798,
+      "label": "R.K. HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raj-chest-care-clinic-saharanpur",
+    "name": "RAJ CHEST CARE CLINIC",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RAJ CHEST CARE CLINIC is a prominent private hospital in Saharanpur, known for structured tertiary care across Liver Transplant Surgery In Saharanpur. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092586 69679",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vardhman Colony, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Beribagh",
+    "landmark": "Saharanpur",
+    "emergencyContact": "092586 69679",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/RAJ+CHEST+CARE+CLINIC/data=!4m7!3m6!1s0x390eea9b948e00f3:0x2f207b6f9efc4bf4!8m2!3d29.9653767!4d77.5550353!16s%2Fg%2F11b7r1t1b2!19sChIJ8wCOlJvqDjkR9Ev8nm97IC8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RAJ+CHEST+CARE+CLINIC/data=!4m7!3m6!1s0x390eea9b948e00f3:0x2f207b6f9efc4bf4!8m2!3d29.9653767!4d77.5550353!16s%2Fg%2F11b7r1t1b2!19sChIJ8wCOlJvqDjkR9Ev8nm97IC8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9653767,
+      "lng": 77.5550353,
+      "label": "RAJ CHEST CARE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raj-hospital-saharanpur",
+    "name": "Raj Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Raj Hospital offers coordinated hospital care with major focus on Urologist Surgery In Saharanpur. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "rajhospitalsaharanpur@gmail.com",
+    "phone": "090694 44455",
+    "alternatePhone": "+91 82660 04595",
+    "website": "https://rajhospital.co.in/",
+    "address": "Bajoria Rd, opp. Saharanpur Club, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Damodarpuri",
+    "landmark": "Damodarpuri",
+    "emergencyContact": "+91 82660 04595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Raj+Hospital/data=!4m7!3m6!1s0x390eeb1fbb0a5131:0xb2c4db612c24fa28!8m2!3d29.9529993!4d77.5598873!16s%2Fg%2F11v_4tybcs!19sChIJMVEKux_rDjkRKPokLGHbxLI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Raj+Hospital/data=!4m7!3m6!1s0x390eeb1fbb0a5131:0xb2c4db612c24fa28!8m2!3d29.9529993!4d77.5598873!16s%2Fg%2F11v_4tybcs!19sChIJMVEKux_rDjkRKPokLGHbxLI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9529993,
+      "lng": 77.5598873,
+      "label": "Raj Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rakesh-choudhary-memorial-hospital-saharanpur",
+    "name": "Rakesh Choudhary Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Rakesh Choudhary Memorial Hospital delivers integrated care across General Surgery In Saharanpur. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@rcmemorialhospital.com",
+    "phone": "097205 83000",
+    "alternatePhone": "+91 94585 77534",
+    "website": "https://rcmemorialhospital.com/",
+    "address": "Dehradun Rd, opp. to Remount Depot, near SSP Residence, Khanalampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khanalampura",
+    "landmark": "near SSP Residence, Khanalampura, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "+91 94585 77534",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/rcmemorialhospital?igsh=MXJnaWhpejRwZXcweg==",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rakesh+Choudhary+Memorial+Hospital/data=!4m7!3m6!1s0x390ec14f587b4983:0x42223ec075235b39!8m2!3d29.9638138!4d77.5626666!16s%2Fg%2F11wjdnskmx!19sChIJg0l7WE_BDjkROVsjdcA-IkI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rakesh+Choudhary+Memorial+Hospital/data=!4m7!3m6!1s0x390ec14f587b4983:0x42223ec075235b39!8m2!3d29.9638138!4d77.5626666!16s%2Fg%2F11wjdnskmx!19sChIJg0l7WE_BDjkROVsjdcA-IkI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9638138,
+      "lng": 77.5626666,
+      "label": "Rakesh Choudhary Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramya-infertility-clinic-saharanpur",
+    "name": "Ramya Infertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ramya Infertility Clinic is a prominent fertility clinic in Saharanpur, known for structured tertiary care across IVF In Saharanpur and Fertility Care. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088689 56983",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shastri Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Shastri Nagar",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "088689 56983",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Saharanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Ramya+Infertility+Clinic/data=!4m7!3m6!1s0x390eeb23a9ab589f:0x30c906c9b574c8f1!8m2!3d29.9375442!4d77.5550018!16s%2Fg%2F11w320c6xp!19sChIJn1irqSPrDjkR8ch0tckGyTA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramya+Infertility+Clinic/data=!4m7!3m6!1s0x390eeb23a9ab589f:0x30c906c9b574c8f1!8m2!3d29.9375442!4d77.5550018!16s%2Fg%2F11w320c6xp!19sChIJn1irqSPrDjkR8ch0tckGyTA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9375442,
+      "lng": 77.5550018,
+      "label": "Ramya Infertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "regrow-hair-transplant-clinic-saharanpur-saharanpur",
+    "name": "Regrow Hair Transplant Clinic, Saharanpur",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Regrow Hair Transplant Clinic, Saharanpur for its strength in Liver Transplant Surgery In Saharanpur. Hospital capacity markers such as Google rating 1.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "care@qhtclinic.com",
+    "phone": "097612 20696",
+    "alternatePhone": "+91 90847 26916",
+    "website": "https://qhtclinic.com/",
+    "address": "",
+    "city": "Saharanpur",
+    "state": "West Bengal",
+    "pincode": "",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "+91 90847 26916",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/qhtregrowhairclinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/qhtclinic",
+    "linkedin": "https://in.linkedin.com/company/qht-clinic",
+    "youtube": "https://www.youtube.com/@QHTRegrowClinic",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Regrow+Hair+Transplant+Clinic,+Saharanpur/data=!4m7!3m6!1s0x390eeab70647f68f:0x908c95707508d61d!8m2!3d29.9636334!4d77.5564273!16s%2Fg%2F11ggz9s8hj!19sChIJj_ZHBrfqDjkRHdYIdXCVjJA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Regrow+Hair+Transplant+Clinic,+Saharanpur/data=!4m7!3m6!1s0x390eeab70647f68f:0x908c95707508d61d!8m2!3d29.9636334!4d77.5564273!16s%2Fg%2F11ggz9s8hj!19sChIJj_ZHBrfqDjkRHdYIdXCVjJA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9636334,
+      "lng": 77.5564273,
+      "label": "Regrow Hair Transplant Clinic, Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-s-d-hospital-saharanpur",
+    "name": "S S D Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose S S D Hospital for its strength in General Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/S+S+D+Hospital/@29.9564807,77.5570183,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa19221fa31:0x5f365c2dff643256!8m2!3d29.9564807!4d77.5570183!16s%2Fg%2F11r48p07b_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S+S+D+Hospital/@29.9564807,77.5570183,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa19221fa31:0x5f365c2dff643256!8m2!3d29.9564807!4d77.5570183!16s%2Fg%2F11r48p07b_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9564807,
+      "lng": 77.5570183,
+      "label": "S S D Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur-cancer-clinic-saharanpur",
+    "name": "Saharanpur Cancer Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Saharanpur Cancer Clinic delivers integrated care across Oncologist Surgery In Saharanpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094166 66155",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XH54+562, Bajoria Rd, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Khan Alampura",
+    "emergencyContact": "094166 66155",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Saharanpur+Cancer+Clinic/data=!4m7!3m6!1s0x390eea91684efc49:0xf74634073c105ee4!8m2!3d29.9578917!4d77.5555004!16s%2Fg%2F11g9q6fflp!19sChIJSfxOaJHqDjkR5F4QPAc0Rvc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saharanpur+Cancer+Clinic/data=!4m7!3m6!1s0x390eea91684efc49:0xf74634073c105ee4!8m2!3d29.9578917!4d77.5555004!16s%2Fg%2F11g9q6fflp!19sChIJSfxOaJHqDjkR5F4QPAc0Rvc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9578917,
+      "lng": 77.5555004,
+      "label": "Saharanpur Cancer Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur-charitable-hospital-saharanpur",
+    "name": "Saharanpur Charitable Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saharanpur Charitable Hospital is a prominent hospital in Saharanpur, known for structured tertiary care across Orthopedic Surgery In Saharanpur. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089288 72030",
+    "alternatePhone": "",
+    "website": "https://schari.in/",
+    "address": "Jail Chungi, Dehradun Rd, opposite District Jail, Jail Area, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Beribagh",
+    "landmark": "opposite District Jail, Jail Area, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "089288 72030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saharanpur+Charitable+Hospital/data=!4m7!3m6!1s0x390ec1f0f5827825:0xdeb2dd1bdd53046c!8m2!3d29.9649096!4d77.5639812!16s%2Fg%2F11vs8p7p56!19sChIJJXiC9fDBDjkRbART3Rvdst4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saharanpur+Charitable+Hospital/data=!4m7!3m6!1s0x390ec1f0f5827825:0xdeb2dd1bdd53046c!8m2!3d29.9649096!4d77.5639812!16s%2Fg%2F11vs8p7p56!19sChIJJXiC9fDBDjkRbART3Rvdst4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9649096,
+      "lng": 77.5639812,
+      "label": "Saharanpur Charitable Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur-clinic-saharanpur",
+    "name": "SAHARANPUR CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, SAHARANPUR CLINIC brings together specialists for Liver Transplant Surgery In Saharanpur. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mehandi Sarai, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Mehandi Sarai",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/SAHARANPUR+CLINIC/data=!4m7!3m6!1s0x390eea5ff5e897cb:0x793e36c5582ba556!8m2!3d29.9792366!4d77.5378895!16s%2Fg%2F11y4361pn7!19sChIJy5fo9V_qDjkRVqUrWMU2Pnk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAHARANPUR+CLINIC/data=!4m7!3m6!1s0x390eea5ff5e897cb:0x793e36c5582ba556!8m2!3d29.9792366!4d77.5378895!16s%2Fg%2F11y4361pn7!19sChIJy5fo9V_qDjkRVqUrWMU2Pnk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9792366,
+      "lng": 77.5378895,
+      "label": "SAHARANPUR CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur-hospital-khidka-junardar",
+    "name": "Saharanpur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Khidka Junardar, Saharanpur Hospital delivers integrated care across Liver Transplant Surgery In Saharanpur. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086302 92927",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4MJ7+4GF, Kalsiya-Fatehpur Rd, Sansarpur, Khidka Junardar, Uttar Pradesh 247129",
+    "city": "Khidka Junardar",
+    "state": "Uttar Pradesh",
+    "pincode": "247129",
+    "locality": "Sansarpur",
+    "landmark": "Sansarpur",
+    "emergencyContact": "086302 92927",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Saharanpur+Hospital/data=!4m7!3m6!1s0x390edb68bccb2a83:0x19fc1a980ba50b6a!8m2!3d30.130326!4d77.6638201!16s%2Fg%2F11s19d_qxs!19sChIJgyrLvGjbDjkRagulC5ga_Bk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saharanpur+Hospital/data=!4m7!3m6!1s0x390edb68bccb2a83:0x19fc1a980ba50b6a!8m2!3d30.130326!4d77.6638201!16s%2Fg%2F11s19d_qxs!19sChIJgyrLvGjbDjkRagulC5ga_Bk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 30.130326,
+      "lng": 77.6638201,
+      "label": "Saharanpur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-hospital-saharanpur",
+    "name": "Sai Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Hospital is a prominent hospital in Saharanpur, known for structured tertiary care across Kidney Transplant Surgery In Saharanpur. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Behat Rd, opposite Bhagwati Colony, Hanuman Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Hanuman Nagar",
+    "landmark": "opposite Bhagwati Colony, Hanuman Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Hospital/data=!4m7!3m6!1s0x390ec1e8fcb54389:0xc0dd99ea7e16da51!8m2!3d29.9881146!4d77.5605322!16s%2Fg%2F11v3c9_nd6!19sChIJiUO1_OjBDjkRUdoWfuqZ3cA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Hospital/data=!4m7!3m6!1s0x390ec1e8fcb54389:0xc0dd99ea7e16da51!8m2!3d29.9881146!4d77.5605322!16s%2Fg%2F11v3c9_nd6!19sChIJiUO1_OjBDjkRUdoWfuqZ3cA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9881146,
+      "lng": 77.5605322,
+      "label": "Sai Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saksham-hospital-saharanpur",
+    "name": "Saksham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Saksham Hospital delivers integrated care across Urologist Surgery In Saharanpur. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "tpa@sakshamhospital.com",
+    "phone": "074658 78536",
+    "alternatePhone": "+91 98370 45239",
+    "website": "https://sakshamhospital.com/",
+    "address": "Vasant Vihar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Vasant Vihar",
+    "landmark": "Uttar Pradesh 247001",
+    "emergencyContact": "+91 98370 45239",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/saksham.hospital1999/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/saksham_hospital/?hl=en",
+    "linkedin": "https://in.linkedin.com/company/saksham-hospital",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saksham+Hospital/data=!4m7!3m6!1s0x390eeab7534f5fbd:0xce724514bc5c3cee!8m2!3d29.9430712!4d77.5430167!16s%2Fg%2F1tdnzvx6!19sChIJvV9PU7fqDjkR7jxcvBRFcs4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saksham+Hospital/data=!4m7!3m6!1s0x390eeab7534f5fbd:0xce724514bc5c3cee!8m2!3d29.9430712!4d77.5430167!16s%2Fg%2F1tdnzvx6!19sChIJvV9PU7fqDjkR7jxcvBRFcs4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9430712,
+      "lng": 77.5430167,
+      "label": "Saksham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjivani-clinic-saharanpur",
+    "name": "Sanjivani Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Saharanpur, Sanjivani Clinic delivers integrated care across Liver Transplant Surgery In Saharanpur. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0132 272 7954",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shop 14A, Court Rd, Ram Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Ram Nagar",
+    "landmark": "Ram Nagar",
+    "emergencyContact": "0132 272 7954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Sanjivani+Clinic/data=!4m7!3m6!1s0x390eeabb032ccaa5:0x85b0fd4970883817!8m2!3d29.9491289!4d77.5482917!16s%2Fg%2F11sbr0zlvd!19sChIJpcosA7vqDjkRFziIcEn9sIU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjivani+Clinic/data=!4m7!3m6!1s0x390eeabb032ccaa5:0x85b0fd4970883817!8m2!3d29.9491289!4d77.5482917!16s%2Fg%2F11sbr0zlvd!19sChIJpcosA7vqDjkRFziIcEn9sIU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9491289,
+      "lng": 77.5482917,
+      "label": "Sanjivani Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santosh-hospital-saharanpur",
+    "name": "Santosh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Santosh Hospital offers coordinated hospital care with major focus on Cardiac Surgery In Saharanpur. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0132 266 1888",
+    "alternatePhone": "+91 89740 50300",
+    "website": "https://botika.one/uttar-pradesh/hospital-saharanpur/santosh-hospital/",
+    "address": "1, Link Rd, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Jwala Nagar",
+    "landmark": "Jwala Nagar",
+    "emergencyContact": "+91 89740 50300",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Santosh+Hospital/@29.9666659,77.5512277,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9a4d42c2b7:0x420b06991826fe31!8m2!3d29.9666659!4d77.5512277!16s%2Fg%2F1tt89n3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santosh+Hospital/@29.9666659,77.5512277,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9a4d42c2b7:0x420b06991826fe31!8m2!3d29.9666659!4d77.5512277!16s%2Fg%2F1tt89n3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9666659,
+      "lng": 77.5512277,
+      "label": "Santosh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanti-nursing-home-saharanpur",
+    "name": "Shanti Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Shanti Nursing Home brings together specialists for General Surgery In Saharanpur. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@shantinursinghome.in",
+    "phone": "094108 05042",
+    "alternatePhone": "+91 94122 30586",
+    "website": "https://shantinursinghome.in/",
+    "address": "Cirular Rd, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Saharanpur",
+    "emergencyContact": "+91 94122 30586",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shanti+Nursing+Home/@29.9569283,77.5594126,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa04a268cc7:0xbf48d0db6b75cbec!8m2!3d29.9569283!4d77.5594126!16s%2Fg%2F11g6jqzscn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanti+Nursing+Home/@29.9569283,77.5594126,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa04a268cc7:0xbf48d0db6b75cbec!8m2!3d29.9569283!4d77.5594126!16s%2Fg%2F11g6jqzscn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9569283,
+      "lng": 77.5594126,
+      "label": "Shanti Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-dental-care-saharanpur",
+    "name": "Shree Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Shree Dental Care for its strength in Oral Surgery In Saharanpur and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081261 26513",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Galira Road, Gali Number 3, near Ravinder molu ki kothi, Wills Colony, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Wills Colony",
+    "landmark": "near Ravinder molu ki kothi, Wills Colony, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "081261 26513",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/100091240757836/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Dental+Care/@29.9466638,77.5299565,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebd953d87805:0x92df909a46247683!8m2!3d29.9466638!4d77.5299565!16s%2Fg%2F11tsp46t7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Dental+Care/@29.9466638,77.5299565,17z/data=!3m1!4b1!4m6!3m5!1s0x390eebd953d87805:0x92df909a46247683!8m2!3d29.9466638!4d77.5299565!16s%2Fg%2F11tsp46t7s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9466638,
+      "lng": 77.5299565,
+      "label": "Shree Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-32-dental-clinic-digital-xray-and-opg-center-saharanpur",
+    "name": "Smile 32 Dental clinic , digital xray and OPG center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile 32 Dental clinic , digital xray and OPG center has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pragati colony, Chilkana Rd, Daraali, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Daraali",
+    "landmark": "Daraali",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+32+Dental+clinic+,+digital+xray+and+OPG+center/@29.9915274,77.5349145,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeba972d48171:0x4c39a62f33ab545!8m2!3d29.9915274!4d77.5349145!16s%2Fg%2F11m75g7273?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+32+Dental+clinic+,+digital+xray+and+OPG+center/@29.9915274,77.5349145,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeba972d48171:0x4c39a62f33ab545!8m2!3d29.9915274!4d77.5349145!16s%2Fg%2F11m75g7273?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9915274,
+      "lng": 77.5349145,
+      "label": "Smile 32 Dental clinic , digital xray and OPG center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smriti-nursing-home-saharanpur",
+    "name": "Smriti Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted nursing home in Saharanpur, Smriti Nursing Home delivers integrated care across Cardiac Surgery In Saharanpur and Nursing Home. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094560 64188",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Link Rd, Mangal Nagar, Jwala Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Jwala Nagar",
+    "landmark": "Jwala Nagar",
+    "emergencyContact": "094560 64188",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Smriti+Nursing+Home/@29.9657924,77.5537952,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9bae17e681:0xa1432167f0512915!8m2!3d29.9657924!4d77.5537952!16s%2Fg%2F1tv22jww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smriti+Nursing+Home/@29.9657924,77.5537952,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9bae17e681:0xa1432167f0512915!8m2!3d29.9657924!4d77.5537952!16s%2Fg%2F1tv22jww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9657924,
+      "lng": 77.5537952,
+      "label": "Smriti Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "som-dental-implant-and-facial-skin-clinic-saharanpur",
+    "name": "SOM DENTAL, IMPLANT & FACIAL SKIN CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose SOM DENTAL, IMPLANT & FACIAL SKIN CLINIC for its strength in Oral Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075204 68910",
+    "alternatePhone": "",
+    "website": "https://somdentofacial.com/",
+    "address": "1ST FLOOR, DR. ANKUR UPADHYAYA CLINIC, Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Bajoria Rd",
+    "emergencyContact": "075204 68910",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/somdentofacial",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/somdentofacial",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@somdentofacial",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SOM+DENTAL,+IMPLANT+%26+FACIAL+SKIN+CLINIC/@29.9575555,77.5567779,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb7fe73b2477:0xee112516084013ae!8m2!3d29.9575555!4d77.5567779!16s%2Fg%2F11t3z8m9kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SOM+DENTAL,+IMPLANT+%26+FACIAL+SKIN+CLINIC/@29.9575555,77.5567779,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb7fe73b2477:0xee112516084013ae!8m2!3d29.9575555!4d77.5567779!16s%2Fg%2F11t3z8m9kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9575555,
+      "lng": 77.5567779,
+      "label": "SOM DENTAL, IMPLANT & FACIAL SKIN CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sona-trauma-and-maternity-centre-saharanpur",
+    "name": "Sona Trauma and Maternity Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Sona Trauma and Maternity Centre delivers integrated care across Orthopedic Surgery In Saharanpur. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XH54+2VP, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sona+Trauma+and+Maternity+Centre/data=!4m7!3m6!1s0x390eeaa1e5929f7b:0x6fc679aa72e6298d!8m2!3d29.9575884!4d77.5571895!16s%2Fg%2F11_qwbzkz!19sChIJe5-S5aHqDjkRjSnmcqp5xm8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sona+Trauma+and+Maternity+Centre/data=!4m7!3m6!1s0x390eeaa1e5929f7b:0x6fc679aa72e6298d!8m2!3d29.9575884!4d77.5571895!16s%2Fg%2F11_qwbzkz!19sChIJe5-S5aHqDjkRjSnmcqp5xm8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9575884,
+      "lng": 77.5571895,
+      "label": "Sona Trauma and Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunheri-devi-hospital-saharanpur",
+    "name": "Sunheri Devi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sunheri Devi Hospital has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Cardiac Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sunheri+Devi+Hospital/@29.9564317,77.556537,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa765a6f849:0x7c77708bdaca31a4!8m2!3d29.9564317!4d77.556537!16s%2Fg%2F11f3wjcc24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunheri+Devi+Hospital/@29.9564317,77.556537,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaa765a6f849:0x7c77708bdaca31a4!8m2!3d29.9564317!4d77.556537!16s%2Fg%2F11f3wjcc24?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9564317,
+      "lng": 77.556537,
+      "label": "Sunheri Devi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunheri-devi-trauma-and-maternity-centre-saharanpur",
+    "name": "Sunheri Devi Trauma And Maternity Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Sunheri Devi Trauma And Maternity Centre brings together specialists for Cardiac Surgery In Saharanpur. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "86 prakashpuram, Bajoria Rd, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "Janak Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sunheri+Devi+Trauma+And+Maternity+Centre/@29.9571756,77.5572242,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9a88ba2f25:0x811a33043177ff81!8m2!3d29.9571756!4d77.5572242!16s%2Fg%2F11f3zyt6fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunheri+Devi+Trauma+And+Maternity+Centre/@29.9571756,77.5572242,17z/data=!3m1!4b1!4m6!3m5!1s0x390eea9a88ba2f25:0x811a33043177ff81!8m2!3d29.9571756!4d77.5572242!16s%2Fg%2F11f3zyt6fs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9571756,
+      "lng": 77.5572242,
+      "label": "Sunheri Devi Trauma And Maternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-dental-clinic-saharanpur",
+    "name": "Swastik dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swastik dental clinic has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088992 51734",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jain College Rd, near Sachdeva bakery, Pradyuman Nagar, Avas Vikas Colony, PoliceLine, Saharanpur, Mohammadpur Mafi, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "PoliceLine",
+    "landmark": "near Sachdeva bakery, Pradyuman Nagar, Avas Vikas Colony, PoliceLine, Saharanpur, Mohammadpur Mafi, Uttar Pradesh 247001",
+    "emergencyContact": "088992 51734",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+dental+clinic/@29.9411537,77.5472523,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb093b51e849:0xbd387527ddc73660!8m2!3d29.9411537!4d77.5472523!16s%2Fg%2F11ghsb3_0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+dental+clinic/@29.9411537,77.5472523,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb093b51e849:0xbd387527ddc73660!8m2!3d29.9411537!4d77.5472523!16s%2Fg%2F11ghsb3_0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9411537,
+      "lng": 77.5472523,
+      "label": "Swastik dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-hospital-and-ivf-centre-laparoscopy-general-surgery-laser-treatments-in-saharanpur-saharanpur",
+    "name": "Swastik Hospital & IVF Centre - Laparoscopy | General Surgery | Laser Treatments in Saharanpur",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Swastik Hospital & IVF Centre - Laparoscopy | General Surgery | Laser Treatments in Saharanpur brings together specialists for Liver Transplant Surgery In Saharanpur and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "neelam190472@gmail.com",
+    "phone": "073008 01171",
+    "alternatePhone": "",
+    "website": "https://swastikivfandlaparoscopy.com/",
+    "address": "3, Civil Lines, near Hospital Chowk, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Damodarpuri",
+    "landmark": "near Hospital Chowk, Damodarpuri, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "073008 01171",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SwastikIVFLaparoscopy",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/swastikhospitalandivf?igsh=MW9ic2Q3MjZ5NXZ5cQ==",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Hospital+%26+IVF+Centre+-+Laparoscopy+%7C+General+Surgery+%7C+Laser+Treatments+in+Saharanpur/data=!4m7!3m6!1s0x390eeaa17b4b5a75:0xc56ecbdb22fbf550!8m2!3d29.9548516!4d77.5569772!16s%2Fg%2F11bzz0r_7g!19sChIJdVpLe6HqDjkRUPX7ItvLbsU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Hospital+%26+IVF+Centre+-+Laparoscopy+%7C+General+Surgery+%7C+Laser+Treatments+in+Saharanpur/data=!4m7!3m6!1s0x390eeaa17b4b5a75:0xc56ecbdb22fbf550!8m2!3d29.9548516!4d77.5569772!16s%2Fg%2F11bzz0r_7g!19sChIJdVpLe6HqDjkRUPX7ItvLbsU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9548516,
+      "lng": 77.5569772,
+      "label": "Swastik Hospital & IVF Centre - Laparoscopy | General Surgery | Laser Treatments in Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tayal-s-dental-braces-and-implant-centre-saharanpur",
+    "name": "Tayal's dental braces and implant centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Saharanpur often choose Tayal's dental braces and implant centre for its strength in Oral Surgery In Saharanpur and Dentist. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090844 63330",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near ganna bhawan office, Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Haqikatnagar",
+    "landmark": "Saharanpur",
+    "emergencyContact": "090844 63330",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Tayal's+dental+braces+and+implant+centre/@29.9514422,77.550966,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb6287e3d7c3:0xda9b5cb4d190ce1a!8m2!3d29.9514422!4d77.550966!16s%2Fg%2F11rxs1rj3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tayal's+dental+braces+and+implant+centre/@29.9514422,77.550966,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb6287e3d7c3:0xda9b5cb4d190ce1a!8m2!3d29.9514422!4d77.550966!16s%2Fg%2F11rxs1rj3y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9514422,
+      "lng": 77.550966,
+      "label": "Tayal's dental braces and implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "toolika-nursing-home-saharanpur",
+    "name": "Toolika Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Saharanpur, Toolika Nursing Home delivers integrated care across Cardiac Surgery In Saharanpur. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094110 80555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "137, Mission Compound, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Mission Compound",
+    "landmark": "Saharanpur",
+    "emergencyContact": "094110 80555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Toolika+Nursing+Home/@29.956027,77.545371,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeabdeab1c121:0xa1cdaf927d54c1f1!8m2!3d29.956027!4d77.545371!16s%2Fg%2F1hd_0f25_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Toolika+Nursing+Home/@29.956027,77.545371,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeabdeab1c121:0xa1cdaf927d54c1f1!8m2!3d29.956027!4d77.545371!16s%2Fg%2F1hd_0f25_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.956027,
+      "lng": 77.545371,
+      "label": "Toolika Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urban-dental-clinic-best-painless-root-canal-treatment-dental-implant-center-orthodontic-treatment-dentist-saharanpur-saharanpur",
+    "name": "URBAN DENTAL CLINIC - Best Painless Root Canal Treatment | Dental Implant Center | Orthodontic Treatment | Dentist Saharanpur",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "URBAN DENTAL CLINIC - Best Painless Root Canal Treatment | Dental Implant Center | Orthodontic Treatment | Dentist Saharanpur has built a strong reputation in Saharanpur for multidisciplinary treatment pathways covering Oral Surgery In Saharanpur, Dentist, and Orthopaedics. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097593 97593",
+    "alternatePhone": "",
+    "website": "https://urban-dental-clinic-best.grexa.site/",
+    "address": "Aggarwal Market, Bajoria Rd, near Police Station, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Janak Nagar",
+    "landmark": "near Police Station, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "097593 97593",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur",
+      "Dentist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC+-+Best+Painless+Root+Canal+Treatment+%7C+Dental+Implant+Center+%7C+Orthodontic+Treatment+%7C+Dentist+Saharanpur/@29.9585903,77.5553346,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb66db25e537:0xfaece5431343dbab!8m2!3d29.9585903!4d77.5553346!16s%2Fg%2F11t4593nyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/URBAN+DENTAL+CLINIC+-+Best+Painless+Root+Canal+Treatment+%7C+Dental+Implant+Center+%7C+Orthodontic+Treatment+%7C+Dentist+Saharanpur/@29.9585903,77.5553346,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb66db25e537:0xfaece5431343dbab!8m2!3d29.9585903!4d77.5553346!16s%2Fg%2F11t4593nyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9585903,
+      "lng": 77.5553346,
+      "label": "URBAN DENTAL CLINIC - Best Painless Root Canal Treatment | Dental Implant Center | Orthodontic Treatment | Dentist Saharanpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urmila-hospital-saharanpur",
+    "name": "Urmila Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, Urmila Hospital brings together specialists for Laparoscopic Surgery In Saharanpur. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1/249, National Highway 73, Patel Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Patel Nagar",
+    "landmark": "Patel Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Urmila+Hospital/@29.9674299,77.534707,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaf20a6d5ef7:0x8f5b831b04251491!8m2!3d29.9674299!4d77.534707!16s%2Fg%2F11bwd2gp14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Urmila+Hospital/@29.9674299,77.534707,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeaf20a6d5ef7:0x8f5b831b04251491!8m2!3d29.9674299!4d77.534707!16s%2Fg%2F11bwd2gp14?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9674299,
+      "lng": 77.534707,
+      "label": "Urmila Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-bros-hospital-saharanpur",
+    "name": "V Bros Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, V Bros Hospital offers coordinated hospital care with major focus on Urologist Surgery In Saharanpur. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087918 36339",
+    "alternatePhone": "",
+    "website": "https://www.vbroshospital.com/",
+    "address": "OPP- Regency Garden, Delhi Rd, SaharanpurDelhi Road, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "SaharanpurDelhi Road",
+    "landmark": "SaharanpurDelhi Road",
+    "emergencyContact": "087918 36339",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/V+Bros+Hospital/data=!4m7!3m6!1s0x390eeb02fc2f8b19:0xf950815facc39737!8m2!3d29.9337427!4d77.5339017!16s%2Fg%2F11jy583cjg!19sChIJGYsv_ALrDjkRN5fDrF-BUPk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V+Bros+Hospital/data=!4m7!3m6!1s0x390eeb02fc2f8b19:0xf950815facc39737!8m2!3d29.9337427!4d77.5339017!16s%2Fg%2F11jy583cjg!19sChIJGYsv_ALrDjkRN5fDrF-BUPk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9337427,
+      "lng": 77.5339017,
+      "label": "V Bros Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vidhya-dental-clinic-implant-and-laser-centre-saharanpur",
+    "name": "Vidhya Dental Clinic Implant And Laser Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Saharanpur, Vidhya Dental Clinic Implant And Laser Centre offers coordinated hospital care with major focus on Oral Surgery In Saharanpur. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090688 30074",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Avas Vikas Road, Delhi Rd, opposite Unique Timbers, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "opposite Unique Timbers",
+    "landmark": "opposite Unique Timbers, Saharanpur, Uttar Pradesh 247001",
+    "emergencyContact": "090688 30074",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vidhya+Dental+Clinic+Implant+And+Laser+Centre/@29.943527,77.5441905,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab73b9ec813:0xd03379c9e4f7f3d0!8m2!3d29.943527!4d77.5441905!16s%2Fg%2F11d_wn5tgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vidhya+Dental+Clinic+Implant+And+Laser+Centre/@29.943527,77.5441905,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeab73b9ec813:0xd03379c9e4f7f3d0!8m2!3d29.943527!4d77.5441905!16s%2Fg%2F11d_wn5tgv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.943527,
+      "lng": 77.5441905,
+      "label": "Vidhya Dental Clinic Implant And Laser Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur",
+    "name": "जगवती मैडिकल सैन्टर – डॉ. रजनीश कुमार एम. डी. (फिजिशियन)",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "जगवती मैडिकल सैन्टर – डॉ. रजनीश कुमार एम. डी. (फिजिशियन) is a prominent medical center in Saharanpur, known for structured tertiary care across General Surgery In Saharanpur and Medical Center. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098970 12283",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2बी/1797/1, न्यू, Navin Nagar, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Navin Nagar",
+    "landmark": "Navin Nagar",
+    "emergencyContact": "098970 12283",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Saharanpur",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%E0%A4%9C%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%AE%E0%A5%88%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%B8%E0%A5%88%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0+%E2%80%93+%E0%A4%A1%E0%A5%89.+%E0%A4%B0%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0+%E0%A4%8F%E0%A4%AE.+%E0%A4%A1%E0%A5%80.+(%E0%A4%AB%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%A8)/@29.9444617,77.5390075,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb54ec8653a3:0xd5e77fdbe2b88566!8m2!3d29.9444617!4d77.5390075!16s%2Fg%2F11sgz0z_gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%9C%E0%A4%97%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%AE%E0%A5%88%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%B8%E0%A5%88%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A4%B0+%E2%80%93+%E0%A4%A1%E0%A5%89.+%E0%A4%B0%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0+%E0%A4%8F%E0%A4%AE.+%E0%A4%A1%E0%A5%80.+(%E0%A4%AB%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%A8)/@29.9444617,77.5390075,17z/data=!3m1!4b1!4m6!3m5!1s0x390eeb54ec8653a3:0xd5e77fdbe2b88566!8m2!3d29.9444617!4d77.5390075!16s%2Fg%2F11sgz0z_gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9444617,
+      "lng": 77.5390075,
+      "label": "जगवती मैडिकल सैन्टर – डॉ. रजनीश कुमार एम. डी. (फिजिशियन)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saharanpur",
+    "name": "सहारनपुर सर्जिकल क्लीनिक",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Saharanpur, सहारनपुर सर्जिकल क्लीनिक brings together specialists for Liver Transplant Surgery In Saharanpur. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097598 70599",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XH45+839, Bajoria Rd, Khan Alampura, Saharanpur, Uttar Pradesh 247001",
+    "city": "Saharanpur",
+    "state": "Uttar Pradesh",
+    "pincode": "247001",
+    "locality": "Khan Alampura",
+    "landmark": "Khan Alampura",
+    "emergencyContact": "097598 70599",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Saharanpur"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x390eeaa1a22de569:0x5e84084e59778ce4!8m2!3d29.9557852!4d77.5577477!16s%2Fg%2F11y412vzxb!19sChIJaeUtoqHqDjkR5Ix3WU4IhF4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%A8%E0%A4%AA%E0%A5%81%E0%A4%B0+%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%95%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%95/data=!4m7!3m6!1s0x390eeaa1a22de569:0x5e84084e59778ce4!8m2!3d29.9557852!4d77.5577477!16s%2Fg%2F11y412vzxb!19sChIJaeUtoqHqDjkR5Ix3WU4IhF4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 29.9557852,
+      "lng": 77.5577477,
+      "label": "सहारनपुर सर्जिकल क्लीनिक",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

@@ -1,0 +1,354 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "andhra-hospitals-machilipatnam-machilipatnam",
+    "name": "Andhra Hospitals Machilipatnam",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Machilipatnam, Andhra Hospitals Machilipatnam brings together specialists for Oncologist Surgery In Machilipatnam. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086722 21199",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D.NO. 124&125, RAJU PET MACHILIPATNAM, Azad Rd, Machilipatnam, Andhra Pradesh 521001",
+    "city": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "521001",
+    "locality": "Azad Rd",
+    "landmark": "Azad Rd",
+    "emergencyContact": "086722 21199",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Machilipatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Andhra+Hospitals+Machilipatnam/data=!4m7!3m6!1s0x3a49e7cf85eaca5b:0xa1c88fb392a3b97c!8m2!3d16.17621!4d81.125215!16s%2Fg%2F11b6d9clp8!19sChIJW8rqhc_nSToRfLmjkrOPyKE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Andhra+Hospitals+Machilipatnam/data=!4m7!3m6!1s0x3a49e7cf85eaca5b:0xa1c88fb392a3b97c!8m2!3d16.17621!4d81.125215!16s%2Fg%2F11b6d9clp8!19sChIJW8rqhc_nSToRfLmjkrOPyKE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.17621,
+      "lng": 81.125215,
+      "label": "Andhra Hospitals Machilipatnam",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sravani-hospital-machilipatnam",
+    "name": "Sri sravani hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri sravani hospital is a prominent hospital in Machilipatnam, known for structured tertiary care across Oncologist Surgery In Machilipatnam. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097034 36990",
+    "alternatePhone": "",
+    "website": "https://srisravanihospitals.com/https://srisravanihospitals.com/https://srisravanihospitals.com/https://srisravanihospitals.com/https://srisravanihospitals.com/https://srisravanihospitals.com/",
+    "address": "Javvar peta, Ministers Road, Machilipatnam, Andhra Pradesh 521001",
+    "city": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "521001",
+    "locality": "Ministers Road",
+    "landmark": "Machilipatnam",
+    "emergencyContact": "097034 36990",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Machilipatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+sravani+hospital/data=!4m7!3m6!1s0x3a49e70052a8607b:0xe5dd7a02239524c6!8m2!3d16.1755475!4d81.1283454!16s%2Fg%2F11wjlk0zfy!19sChIJe2CoUgDnSToRxiSVIwJ63eU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+sravani+hospital/data=!4m7!3m6!1s0x3a49e70052a8607b:0xe5dd7a02239524c6!8m2!3d16.1755475!4d81.1283454!16s%2Fg%2F11wjlk0zfy!19sChIJe2CoUgDnSToRxiSVIwJ63eU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.1755475,
+      "lng": 81.1283454,
+      "label": "Sri sravani hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vani-hospitals-machilipatnam",
+    "name": "Vani Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Machilipatnam, Vani Hospitals brings together specialists for Oncologist Surgery In Machilipatnam. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086722 23881",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cir Pet St, Police Quarters, Machilipatnam, Andhra Pradesh 521001",
+    "city": "Machilipatnam",
+    "state": "Andhra Pradesh",
+    "pincode": "521001",
+    "locality": "Police Quarters",
+    "landmark": "Machilipatnam",
+    "emergencyContact": "086722 23881",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Machilipatnam"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Vani+Hospitals/@16.1755454,81.1283437,17z/data=!3m1!4b1!4m6!3m5!1s0x3a49e7cfa9c84fa9:0x81cbf240a0c3e417!8m2!3d16.1755454!4d81.1283437!16s%2Fg%2F11c74y2886?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vani+Hospitals/@16.1755454,81.1283437,17z/data=!3m1!4b1!4m6!3m5!1s0x3a49e7cfa9c84fa9:0x81cbf240a0c3e417!8m2!3d16.1755454!4d81.1283437!16s%2Fg%2F11c74y2886?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 16.1755454,
+      "lng": 81.1283437,
+      "label": "Vani Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

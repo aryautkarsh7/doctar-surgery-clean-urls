@@ -1,0 +1,26290 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32care-dental-clinic-in-kharadi-dentist-in-kharadi-pune-dental-implants-braces-pune",
+    "name": "32Care Dental Clinic In Kharadi | Dentist in Kharadi, Pune | Dental Implants | Braces",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, 32Care Dental Clinic In Kharadi | Dentist in Kharadi, Pune | Dental Implants | Braces offers coordinated hospital care with major focus on Oral Surgery In Pune. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096235 51590",
+    "alternatePhone": "",
+    "website": "http://32caredentalpune.com/",
+    "address": "Zen Square, Office No. 311, 3rd Floor, Sr.No.69/4, Plot B, Panchshil Towers Rd, opp. EON Free Zone Phase 2, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "3rd Floor",
+    "emergencyContact": "096235 51590",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/32Care-Dental-Clinic/100063871489656/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/32care_dental_clinic",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@32CareDentalClinic",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/32Care+Dental+Clinic+In+Kharadi+%7C+Dentist+in+Kharadi,+Pune+%7C+Dental+Implants+%7C+Braces/@18.5514332,73.956941,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3e822bb13d7:0x114534f0c1dcb152!8m2!3d18.5514332!4d73.956941!16s%2Fg%2F11b7hhj_xk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32Care+Dental+Clinic+In+Kharadi+%7C+Dentist+in+Kharadi,+Pune+%7C+Dental+Implants+%7C+Braces/@18.5514332,73.956941,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3e822bb13d7:0x114534f0c1dcb152!8m2!3d18.5514332!4d73.956941!16s%2Fg%2F11b7hhj_xk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5514332,
+      "lng": 73.956941,
+      "label": "32Care Dental Clinic In Kharadi | Dentist in Kharadi, Pune | Dental Implants | Braces",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "72hrs-smile-care-center-dental-clinic-pune-pune",
+    "name": "72hrs Smile Care Center - Dental clinic Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "72hrs Smile Care Center - Dental clinic Pune is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "enquiry@72hrssmile.com",
+    "phone": "080072 72728",
+    "alternatePhone": "",
+    "website": "https://www.72hrssmile.com/",
+    "address": "C, Choice Apartment, C/o, Balkrishna Sakharam Dhole Patil Rd, near Ruby Hall Clinic, opp. Millenium Star, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "near Ruby Hall Clinic, opp. Millenium Star, Sangamvadi, Pune, Maharashtra 411001",
+    "emergencyContact": "080072 72728",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/72hrs-Smile-Care-Centre/61560370874617/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/72hrssmile/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@72HrsSmile/",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/72hrs+Smile+Care+Center+-+Dental+clinic+Pune/@18.5326764,73.8764467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1eb0e55c287:0xcf6e40b6ddcb8fb8!8m2!3d18.5326764!4d73.8764467!16s%2Fg%2F11l31pfdrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/72hrs+Smile+Care+Center+-+Dental+clinic+Pune/@18.5326764,73.8764467,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1eb0e55c287:0xcf6e40b6ddcb8fb8!8m2!3d18.5326764!4d73.8764467!16s%2Fg%2F11l31pfdrr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5326764,
+      "lng": 73.8764467,
+      "label": "72hrs Smile Care Center - Dental clinic Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "9m-fertility-by-ankura-hospital-aundh-pune-pune",
+    "name": "9M Fertility by Ankura Hospital - Aundh, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, 9M Fertility by Ankura Hospital - Aundh, Pune offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "web@9mfertility.com",
+    "phone": "090531 08108",
+    "alternatePhone": "90325 55107",
+    "website": "https://www.9mfertility.com/locations/pune/",
+    "address": "CTS No.2488 163, 1+2A+2B/1, Nagras Rd, opposite SBI PBB, Harmony Society, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "opposite SBI PBB, Harmony Society, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411067",
+    "emergencyContact": "90325 55107",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/9MFertility",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/9mfertility/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@9MFertility",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/9M+Fertility+by+Ankura+Hospital+-+Aundh,+Pune/data=!4m7!3m6!1s0x3bc2bf3491064d2d:0xbf897bb2c7152ebd!8m2!3d18.56579!4d73.8030207!16s%2Fg%2F11sss91q8j!19sChIJLU0GkTS_wjsRvS4Vx7J7ib8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/9M+Fertility+by+Ankura+Hospital+-+Aundh,+Pune/data=!4m7!3m6!1s0x3bc2bf3491064d2d:0xbf897bb2c7152ebd!8m2!3d18.56579!4d73.8030207!16s%2Fg%2F11sss91q8j!19sChIJLU0GkTS_wjsRvS4Vx7J7ib8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.56579,
+      "lng": 73.8030207,
+      "label": "9M Fertility by Ankura Hospital - Aundh, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ace-hospital-and-research-center-pune",
+    "name": "ACE Hospital & Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ACE Hospital & Research Center is a prominent hospital in Pune, known for structured tertiary care across Urologist Surgery In Pune. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "acehospitalpune@gmail.com",
+    "phone": "0206 702 9100",
+    "alternatePhone": "+91 89566 61639",
+    "website": "https://www.acehospital.in/",
+    "address": "S No- 32, 2A, Gulawani Maharaj Road, near Hotel Abhishek, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "near Hotel Abhishek, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 89566 61639",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AceHospitalPune",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/ace.hospital.pune/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@acehospitalpune",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ACE+Hospital+%26+Research+Center/@18.5050294,73.8303511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed12cd0d8f:0x9194ca51a00caa77!8m2!3d18.5050294!4d73.8303511!16s%2Fg%2F1vfwb8tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ACE+Hospital+%26+Research+Center/@18.5050294,73.8303511,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed12cd0d8f:0x9194ca51a00caa77!8m2!3d18.5050294!4d73.8303511!16s%2Fg%2F1vfwb8tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5050294,
+      "lng": 73.8303511,
+      "label": "ACE Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advanced-dental-clinic-and-oral-surgical-center-pune",
+    "name": "ADVANCED DENTAL CLINIC AND ORAL SURGICAL CENTER",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose ADVANCED DENTAL CLINIC AND ORAL SURGICAL CENTER for its strength in Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072649 12279",
+    "alternatePhone": "",
+    "website": "http://www.drzurangedentalclinic.com/",
+    "address": "flat no 11, 3rd floor, Twin Tower, A; wing, above sampan restaurant, Phase 2, Wanwadi, Pune, Maharashtra 411040",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411040",
+    "locality": "Wanwadi",
+    "landmark": "Twin Tower",
+    "emergencyContact": "072649 12279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+AND+ORAL+SURGICAL+CENTER/@18.4945703,73.899924,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1392a99a895:0x24fecca60aee1722!8m2!3d18.4945703!4d73.899924!16s%2Fg%2F11gkt7nzyy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+AND+ORAL+SURGICAL+CENTER/@18.4945703,73.899924,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1392a99a895:0x24fecca60aee1722!8m2!3d18.4945703!4d73.899924!16s%2Fg%2F11gkt7nzyy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4945703,
+      "lng": 73.899924,
+      "label": "ADVANCED DENTAL CLINIC AND ORAL SURGICAL CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aims-cardiac-hospital-cardiac-hospital-in-aundh-pune",
+    "name": "AIMS Cardiac Hospital | Cardiac Hospital In Aundh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, AIMS Cardiac Hospital | Cardiac Hospital In Aundh delivers integrated care across Heart Surgery In Pune and Cardiac Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092255 39376",
+    "alternatePhone": "",
+    "website": "https://www.cardiologistnearme.co.in/",
+    "address": "2nd Floor, AIMS Hospital, Ward No. 8, Aundh Gaon, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "Ward No. 8",
+    "emergencyContact": "092255 39376",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AIMS+Cardiac+Hospital+%7C+Cardiac+Hospital+In+Aundh/@18.5625648,73.8105979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf369c3748c7:0x4a59a377564c0e5e!8m2!3d18.5625648!4d73.8105979!16s%2Fg%2F11wp7v8xqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AIMS+Cardiac+Hospital+%7C+Cardiac+Hospital+In+Aundh/@18.5625648,73.8105979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf369c3748c7:0x4a59a377564c0e5e!8m2!3d18.5625648!4d73.8105979!16s%2Fg%2F11wp7v8xqz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5625648,
+      "lng": 73.8105979,
+      "label": "AIMS Cardiac Hospital | Cardiac Hospital In Aundh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amit-hospital-yerwada-pune",
+    "name": "Amit Hospital , Yerwada",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Amit Hospital , Yerwada brings together specialists for Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0202 669 6023",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gunjan Theater, 1289, Seiko Apartment, Yerwada, B/H Petrol Pump, Near Gunjan Theatre, Yerwada, 3a, Airport Rd, Mother Teresa Nagar, Kashmiri Colony, Yerawada, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Yerawada",
+    "landmark": "Near Gunjan Theatre, Yerwada, 3a, Airport Rd, Mother Teresa Nagar, Kashmiri Colony, Yerawada, Pune, Maharashtra 411006",
+    "emergencyContact": "0202 669 6023",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Amit+Hospital+,+Yerwada/@18.5464736,73.8881781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0e29b904e2d:0x3c315cedbe00c5d5!8m2!3d18.5464736!4d73.8881781!16s%2Fg%2F1wfcmlw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amit+Hospital+,+Yerwada/@18.5464736,73.8881781,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0e29b904e2d:0x3c315cedbe00c5d5!8m2!3d18.5464736!4d73.8881781!16s%2Fg%2F1wfcmlw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5464736,
+      "lng": 73.8881781,
+      "label": "Amit Hospital , Yerwada",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ankura-hospital-for-women-and-children-pune-pune",
+    "name": "Ankura Hospital for Women & Children - Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Ankura Hospital for Women & Children - Pune delivers integrated care across Gynecologist Surgery In Pune and Women and Child Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "web@ankurahospital.com",
+    "phone": "090531 08108",
+    "alternatePhone": "",
+    "website": "https://www.ankurahospitals.com/locations/aundh-pune",
+    "address": "1+2A+2B/1, CTS, S.No.163, Nagras Rd, opposite SBI PBB, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411007",
+    "locality": "Aundh",
+    "landmark": "opposite SBI PBB, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+    "emergencyContact": "090531 08108",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AnkuraHospitalsOfficial/",
+    "twitter": "https://x.com/ankurahospitals",
+    "instagram": "https://www.instagram.com/ankurahospitals/",
+    "linkedin": "https://www.linkedin.com/company/ankura-hospital",
+    "youtube": "https://www.youtube.com/channel/UCLT0d2JY2OfiZ5KNIbKvTgQ",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children+-+Pune/@18.5653976,73.8047432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1acaf02659:0xe4a7b8ce4b03c273!8m2!3d18.5653976!4d73.8047432!16s%2Fg%2F11tsf4x9bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ankura+Hospital+for+Women+%26+Children+-+Pune/@18.5653976,73.8047432,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1acaf02659:0xe4a7b8ce4b03c273!8m2!3d18.5653976!4d73.8047432!16s%2Fg%2F11tsf4x9bt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5653976,
+      "lng": 73.8047432,
+      "label": "Ankura Hospital for Women & Children - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apex-cardiac-care-clinic-pune",
+    "name": "Apex Cardiac Care Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Apex Cardiac Care Clinic offers coordinated hospital care with major focus on Heart Surgery In Pune and Cardiac Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090114 71900",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Mehtre Corner, opposite Ganesh Dutta Mandir, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "opposite Ganesh Dutta Mandir, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "emergencyContact": "090114 71900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+Cardiac+Care+Clinic/@18.5645065,73.7827318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf95af656379:0x59ac21583e4cae45!8m2!3d18.5645065!4d73.7827318!16s%2Fg%2F11h1ml3zbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+Cardiac+Care+Clinic/@18.5645065,73.7827318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf95af656379:0x59ac21583e4cae45!8m2!3d18.5645065!4d73.7827318!16s%2Fg%2F11h1ml3zbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5645065,
+      "lng": 73.7827318,
+      "label": "Apex Cardiac Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-pune-best-hospital-in-pune-pune",
+    "name": "Apollo Hospitals Pune | Best Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Hospitals Pune | Best Hospital in Pune is a prominent hospital in Pune, known for structured tertiary care across General Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@apollohospitals.com",
+    "phone": "080629 72814",
+    "alternatePhone": "+91 95028 39543",
+    "website": "https://www.apollohospitals.com/hospitals/pune",
+    "address": "Apollo Hospitals Enterprise Limited, Shankar Sheth Rd, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411042",
+    "locality": "Swargate",
+    "landmark": "Mahatma Phule Peth",
+    "emergencyContact": "+91 95028 39543",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/TheApolloHospitals",
+    "twitter": "https://twitter.com/HospitalsApollo",
+    "instagram": "https://instagram.com/theapollohospitals",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/apollohospitalsindia",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Pune+%7C+Best+Hospital+in+Pune/@18.5002078,73.8646288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c100500adf2f:0x7dc7efc02288a30b!8m2!3d18.5002078!4d73.8646288!16s%2Fg%2F11wx18jzhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+Pune+%7C+Best+Hospital+in+Pune/@18.5002078,73.8646288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c100500adf2f:0x7dc7efc02288a30b!8m2!3d18.5002078!4d73.8646288!16s%2Fg%2F11wx18jzhg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5002078,
+      "lng": 73.8646288,
+      "label": "Apollo Hospitals Pune | Best Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-spectra-hospitals-pune-pune",
+    "name": "Apollo Spectra Hospitals - Pune",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Apollo Spectra Hospitals - Pune brings together specialists for Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "+91 93193 63155",
+    "website": "https://www.apollospectra.com/our-hospitals/pune/sadashiv-peth/best-hospital-in-sadashiv-peth-pune/?utm_source=Google&utm_medium=GoogleMap&utm_campaign=GoogleMapSadashivPeth",
+    "address": "Saras Baug Rd, opp. Sanas Play Ground, Vijayanagar Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Vijayanagar Colony",
+    "emergencyContact": "+91 93193 63155",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ApolloSpectraHospitals/",
+    "twitter": "https://x.com/apollospectra",
+    "instagram": "https://www.instagram.com/apollospectrahospitals/",
+    "linkedin": "https://www.linkedin.com/company/apollo-spectra-hospitals",
+    "youtube": "https://www.youtube.com/c/ApolloSpectraHospital?sub_confirmation=1",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Spectra+Hospitals+-+Pune/@18.5029793,73.8521579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c00d98be5a09:0x8dba639bb3803253!8m2!3d18.5029793!4d73.8521579!16s%2Fg%2F1pxwhl5fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Spectra+Hospitals+-+Pune/@18.5029793,73.8521579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c00d98be5a09:0x8dba639bb3803253!8m2!3d18.5029793!4d73.8521579!16s%2Fg%2F1pxwhl5fc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5029793,
+      "lng": 73.8521579,
+      "label": "Apollo Spectra Hospitals - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ar-32-signature-smiles-executive-pune",
+    "name": "AR 32 Signature Smiles Executive",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose AR 32 Signature Smiles Executive for its strength in Oral Surgery In Pune and Dentist. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "ar32signaturesmiles@gmail.com",
+    "phone": "084849 90678",
+    "alternatePhone": "",
+    "website": "https://www.ar32.in/Dental-Clinics/dental-clinic-Viman-nagar.html",
+    "address": "Second Floor, AR 32, Pune Nagar Rd, above Moonlight photo studio, next to Mahanagar bank, Sai Nagari, Mathura Nagar, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "Pune Nagar Rd",
+    "emergencyContact": "084849 90678",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AR32signaturesmiles/",
+    "twitter": "https://twitter.com/DrAvinashBamane",
+    "instagram": "https://www.instagram.com/dravinashbamane/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC8ANvc7AxZFLU4QS3ASM4sw",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AR+32+Signature+Smiles+Executive/@18.5626677,73.9294861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1c9ccca2277:0xd96b92e2a37685ad!8m2!3d18.5626677!4d73.9294861!16s%2Fg%2F11sy_1c35v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AR+32+Signature+Smiles+Executive/@18.5626677,73.9294861,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1c9ccca2277:0xd96b92e2a37685ad!8m2!3d18.5626677!4d73.9294861!16s%2Fg%2F11sy_1c35v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5626677,
+      "lng": 73.9294861,
+      "label": "AR 32 Signature Smiles Executive",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ar-32-signature-smiles-executive-poly-dental-care-centre-dentist-in-kharadi-hq-branch-3-pune",
+    "name": "AR 32 Signature Smiles Executive Poly Dental Care Centre ( Dentist in Kharadi ) - HQ - Branch 3",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Pune, AR 32 Signature Smiles Executive Poly Dental Care Centre ( Dentist in Kharadi ) - HQ - Branch 3 delivers integrated care across Oral Surgery In Pune and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "ar32signaturesmiles@gmail.com",
+    "phone": "084849 90678",
+    "alternatePhone": "",
+    "website": "https://www.ar32.in/Dental-Clinics/dental-clinic-Kharadi.html",
+    "address": "1st Floor, GLOBAL BUSINESS HUB, AR 32 Prime HQ, Office no, 112-113, Eon Free Zone Rd, next to WORLD TRADE CENTER, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "AR 32 Prime HQ",
+    "emergencyContact": "084849 90678",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AR32signaturesmiles/",
+    "twitter": "https://twitter.com/DrAvinashBamane",
+    "instagram": "https://www.instagram.com/dravinashbamane/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC8ANvc7AxZFLU4QS3ASM4sw",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AR+32+Signature+Smiles+Executive+Poly+Dental+Care+Centre+(+Dentist+in+Kharadi+)+-+HQ+-+Branch+3/@18.5531889,73.949677,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15e8312ed79:0x746e51837360a8a5!8m2!3d18.5531889!4d73.949677!16s%2Fg%2F11bbrmgp4m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AR+32+Signature+Smiles+Executive+Poly+Dental+Care+Centre+(+Dentist+in+Kharadi+)+-+HQ+-+Branch+3/@18.5531889,73.949677,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15e8312ed79:0x746e51837360a8a5!8m2!3d18.5531889!4d73.949677!16s%2Fg%2F11bbrmgp4m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5531889,
+      "lng": 73.949677,
+      "label": "AR 32 Signature Smiles Executive Poly Dental Care Centre ( Dentist in Kharadi ) - HQ - Branch 3",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arra-aesthetics-pune",
+    "name": "Arra Aesthetics",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Pune, Arra Aesthetics delivers integrated care across Plastic Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "arraaesthetics@gmail.com",
+    "phone": "083788 60999",
+    "alternatePhone": "+91 90750 78095",
+    "website": "https://www.arraaesthetics.com/",
+    "address": "201, 2nd floor, Kamyani Towers, Above SBI Bank, Behind OnePluse Showroom Balgandharwa Chowk, Jangali Maharaj Rd, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Kamyani Towers",
+    "emergencyContact": "+91 90750 78095",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/arraaesthetics/",
+    "twitter": "https://twitter.com/arraaesthetics/",
+    "instagram": "https://www.instagram.com/arraaestheticsclinic/",
+    "linkedin": "https://www.linkedin.com/company/arra-aesthetics/",
+    "youtube": "https://www.youtube.com/channel/UCoG5rjnrvaYa3ft2606-wUQ/featured",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arra+Aesthetics/@18.523727,73.848254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13fde6f3c07:0xf97a8c37efc1c2cf!8m2!3d18.523727!4d73.848254!16s%2Fg%2F11fss1_dly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arra+Aesthetics/@18.523727,73.848254,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13fde6f3c07:0xf97a8c37efc1c2cf!8m2!3d18.523727!4d73.848254!16s%2Fg%2F11fss1_dly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.523727,
+      "lng": 73.848254,
+      "label": "Arra Aesthetics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "artius-hair-transplant-and-cosmetic-surgery-in-pune-pune",
+    "name": "Artius Hair Transplant & Cosmetic Surgery in Pune",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Artius Hair Transplant & Cosmetic Surgery in Pune is a prominent hair transplantation clinic in Pune, known for structured tertiary care across Plastic Surgery In Pune. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084258 07227",
+    "alternatePhone": "",
+    "website": "",
+    "address": "office no 2 1st floor ,Shriram yashada building,near First Cry and The Orchid School,above Priyanka Furniture,Balewadi Phata Signal, Baner Rd, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "near First Cry and The Orchid School",
+    "emergencyContact": "084258 07227",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Artius+Hair+Transplant+%26+Cosmetic+Surgery+in+Pune/@18.5635193,73.7823317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bece08775897:0xd601676fbdc14df7!8m2!3d18.5635193!4d73.7823317!16s%2Fg%2F11hbvpq67n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Artius+Hair+Transplant+%26+Cosmetic+Surgery+in+Pune/@18.5635193,73.7823317,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bece08775897:0xd601676fbdc14df7!8m2!3d18.5635193!4d73.7823317!16s%2Fg%2F11hbvpq67n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5635193,
+      "lng": 73.7823317,
+      "label": "Artius Hair Transplant & Cosmetic Surgery in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashwini-fertility-and-ivf-center-pune",
+    "name": "Ashwini Fertility & IVF Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashwini Fertility & IVF Center is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099750 35364",
+    "alternatePhone": "",
+    "website": "http://www.ashwinihospital.co/",
+    "address": "Ameya, Opp. The Pearl, Dasra Chowk Balewadi,Aundh,Bane,Wakad,Shivajinagar,Camp,Bavdhan,Kothrud,Pimple saudagar, Pimple Nilakh, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Pimple Nilakh",
+    "landmark": "Dasra Chowk Balewadi",
+    "emergencyContact": "099750 35364",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Ashwini-Hospital/100068922272134/",
+    "twitter": "https://www.twitter.com/",
+    "instagram": "https://www.instagram.com/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "https://www.youtube.com/",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashwini+Fertility+%26+IVF+Center/@18.5767767,73.7757341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b936e7e71125:0x29b17ce4bdb65e1e!8m2!3d18.5767767!4d73.7757341!16s%2Fg%2F11f35b267s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashwini+Fertility+%26+IVF+Center/@18.5767767,73.7757341,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b936e7e71125:0x29b17ce4bdb65e1e!8m2!3d18.5767767!4d73.7757341!16s%2Fg%2F11f35b267s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5767767,
+      "lng": 73.7757341,
+      "label": "Ashwini Fertility & IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "astra-clinics-pune",
+    "name": "Astra Clinics",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Astra Clinics is a prominent hair transplantation clinic in Pune, known for structured tertiary care across Cosmetic Surgery In Pune. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@astraclinics.com",
+    "phone": "081499 90007",
+    "alternatePhone": "+91 89839 99900",
+    "website": "https://www.astraclinics.com/",
+    "address": "first, CREATICITY, old ishyanya, Maharashtra Co-Operative Housing Society, Yerawada, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Yerawada",
+    "landmark": "old ishyanya",
+    "emergencyContact": "+91 89839 99900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Astra+Clinics/@18.555988,73.893964,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1135f712211:0x160dad47a916bb2b!8m2!3d18.555988!4d73.893964!16s%2Fg%2F11r4srjz9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Astra+Clinics/@18.555988,73.893964,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1135f712211:0x160dad47a916bb2b!8m2!3d18.555988!4d73.893964!16s%2Fg%2F11r4srjz9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.555988,
+      "lng": 73.893964,
+      "label": "Astra Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avinash-cancer-clinic-pune-lung-and-colon-cancer-treatment-immunotherapy-treatment-in-pune-chemotherapist-in-pune-pune",
+    "name": "Avinash Cancer Clinic Pune | Lung & Colon cancer treatment | Immunotherapy treatment in Pune | Chemotherapist in Pune",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Avinash Cancer Clinic Pune | Lung & Colon cancer treatment | Immunotherapy treatment in Pune | Chemotherapist in Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cancer Surgery In Pune and Cancer Treatment Center. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "avinash.clinic@gmail.com",
+    "phone": "+91 83800 01586",
+    "alternatePhone": "+91 89564 57034",
+    "website": "http://www.cancerpune.com/",
+    "address": "Avinash Cancer Clinic, 461/1, Tilak Rd, opp. New English School, Pantancha Gate, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Tilak Rd",
+    "emergencyContact": "+91 83800 01586",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AvinashCancerClinicPune",
+    "twitter": "https://x.com/Avinash_Clinic",
+    "instagram": "https://www.instagram.com/avinash_cancerclinic_pune/",
+    "linkedin": "https://www.linkedin.com/company/avinash-cancer-clinic-pune",
+    "youtube": "https://www.youtube.com/@Avinash_CancerClinic_pune",
+    "specialties": [
+      "Cancer Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Avinash+Cancer+Clinic+Pune+%7C+Lung+%26+Colon+cancer+treatment+%7C+Immunotherapy+treatment+in+Pune+%7C+Chemotherapist+in+Pune/@18.5114195,73.8453746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0767fcecacd:0x2acd71d4165998b7!8m2!3d18.5114195!4d73.8453746!16s%2Fg%2F1tffh6p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Avinash+Cancer+Clinic+Pune+%7C+Lung+%26+Colon+cancer+treatment+%7C+Immunotherapy+treatment+in+Pune+%7C+Chemotherapist+in+Pune/@18.5114195,73.8453746,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0767fcecacd:0x2acd71d4165998b7!8m2!3d18.5114195!4d73.8453746!16s%2Fg%2F1tffh6p_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5114195,
+      "lng": 73.8453746,
+      "label": "Avinash Cancer Clinic Pune | Lung & Colon cancer treatment | Immunotherapy treatment in Pune | Chemotherapist in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "avmsmiles-dental-clinic-pune",
+    "name": "AVMSmiles Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose AVMSmiles Dental Clinic for its strength in Oral Surgery In Pune. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080718 20905",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.avmsmiles.com/avmsmiles/pune/camp/avmsmiles-dental-clinic-in-camp-pune--1XM8SV/home",
+    "address": "Shop No 4 149, Upper Floor, Radiant Prime, East Street, MG Road, Pune Cantonment, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Pune Cantonment",
+    "landmark": "Radiant Prime",
+    "emergencyContact": "080718 20905",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/avmsmiles.franchise",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/avmsmiles.franchise/",
+    "linkedin": "https://www.linkedin.com/company/avmsmiles/",
+    "youtube": "https://www.youtube.com/@AvmSmiles",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AVMSmiles+Dental+Clinic/data=!4m7!3m6!1s0x3bc2c13150d91dd5:0xc5bce4ec1e3b1b7c!8m2!3d18.5074692!4d73.879133!16s%2Fg%2F11fkn0f2yz!19sChIJ1R3ZUDHBwjsRfBs7HuzkvMU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AVMSmiles+Dental+Clinic/data=!4m7!3m6!1s0x3bc2c13150d91dd5:0xc5bce4ec1e3b1b7c!8m2!3d18.5074692!4d73.879133!16s%2Fg%2F11fkn0f2yz!19sChIJ1R3ZUDHBwjsRfBs7HuzkvMU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5074692,
+      "lng": 73.879133,
+      "label": "AVMSmiles Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "babygen-ivf-centre-pune",
+    "name": "Babygen IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Babygen IVF Centre offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "babygenivf@gmail.com",
+    "phone": "+91 73148 55000",
+    "alternatePhone": "+91 92709 33119",
+    "website": "https://babygenivf.com/home/",
+    "address": "Kumar Prism, Road, 201, above Yes Bank, opp. Fab India, Kirtane Baug, Amanora Park Town, Hadapsar, Pune, Maharashtra 411036",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411036",
+    "locality": "Hadapsar",
+    "landmark": "201",
+    "emergencyContact": "+91 73148 55000",
+    "emergencyServices": false,
+    "facebook": "https://facebook.com/babygenivf",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/babygenivf/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@drbhavnasharmaivf/",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Babygen+IVF+Centre/@18.5235709,73.9325617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1721b05b5bd:0x61ea48a8275c6822!8m2!3d18.5235709!4d73.9325617!16s%2Fg%2F11x18b0skp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Babygen+IVF+Centre/@18.5235709,73.9325617,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1721b05b5bd:0x61ea48a8275c6822!8m2!3d18.5235709!4d73.9325617!16s%2Fg%2F11x18b0skp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5235709,
+      "lng": 73.9325617,
+      "label": "Babygen IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "babysure-ivf-center-pune",
+    "name": "Babysure IVF Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Babysure IVF Center offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093930 50505",
+    "alternatePhone": "",
+    "website": "https://babysureivf.com/",
+    "address": "2nd floor, Babysure best IVF centre, Amar Manor, Pune - Solapur Rd, next to Krome Mall, Bhaskar Colony, Swami Vivekanand Nagar, Lakshmi Nagar, Hadapsar, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Hadapsar",
+    "landmark": "Amar Manor",
+    "emergencyContact": "093930 50505",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/babysurefertility",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@babysureivf8724",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Babysure+IVF+Center/@18.5067723,73.9083053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1fadc156c37:0xcfaa501070e52731!8m2!3d18.5067723!4d73.9083053!16s%2Fg%2F11qplvxs9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Babysure+IVF+Center/@18.5067723,73.9083053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1fadc156c37:0xcfaa501070e52731!8m2!3d18.5067723!4d73.9083053!16s%2Fg%2F11qplvxs9y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5067723,
+      "lng": 73.9083053,
+      "label": "Babysure IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "benecare-ivf-and-fertility-clinic-in-baner-pune-pune",
+    "name": "Benecare IVF & Fertility Clinic in Baner, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Benecare IVF & Fertility Clinic in Baner, Pune delivers integrated care across IVF In Pune and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090390 37900",
+    "alternatePhone": "",
+    "website": "https://benecareivf.com/",
+    "address": "1st Floor, SK Business Park, opposite ABZ, Lalit Estate, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "opposite ABZ, Lalit Estate, Baner, Pune, Maharashtra 411045",
+    "emergencyContact": "090390 37900",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/benecarehospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/benecarehospital/",
+    "linkedin": "https://www.linkedin.com/company/benecare-hospital/",
+    "youtube": "https://www.youtube.com/@benecaremotherchildsupersp7048",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Benecare+IVF+%26+Fertility+Clinic+in+Baner,+Pune/@18.5639458,73.7770758,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf58be99e777:0xbaf6d28d418a832e!8m2!3d18.5639458!4d73.7770758!16s%2Fg%2F11kjyb74gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Benecare+IVF+%26+Fertility+Clinic+in+Baner,+Pune/@18.5639458,73.7770758,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf58be99e777:0xbaf6d28d418a832e!8m2!3d18.5639458!4d73.7770758!16s%2Fg%2F11kjyb74gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5639458,
+      "lng": 73.7770758,
+      "label": "Benecare IVF & Fertility Clinic in Baner, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-ear-nose-and-throat-hospital-in-pune-apollo-hospitals-pune-pune",
+    "name": "Best Ear, Nose & Throat Hospital in Pune - Apollo Hospitals Pune",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Best Ear, Nose & Throat Hospital in Pune - Apollo Hospitals Pune for its strength in Oncologist Surgery In Pune and ENT. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080629 72814",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Apollo Hospitals, Shankar Sheth Rd, Mahatma Phule Peth, Swargate, Pune, Maharashtra 411042",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411042",
+    "locality": "Swargate",
+    "landmark": "Mahatma Phule Peth",
+    "emergencyContact": "080629 72814",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Ear,+Nose+%26+Throat+Hospital+in+Pune+-+Apollo+Hospitals+Pune/@18.5002832,73.8645388,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0581a9b7c23:0x9fe801a6b60d427e!8m2!3d18.5002832!4d73.8645388!16s%2Fg%2F11hblg3gyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Ear,+Nose+%26+Throat+Hospital+in+Pune+-+Apollo+Hospitals+Pune/@18.5002832,73.8645388,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0581a9b7c23:0x9fe801a6b60d427e!8m2!3d18.5002832!4d73.8645388!16s%2Fg%2F11hblg3gyc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5002832,
+      "lng": 73.8645388,
+      "label": "Best Ear, Nose & Throat Hospital in Pune - Apollo Hospitals Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhalerao-clinics-pune",
+    "name": "Bhalerao Clinics",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Pune, Bhalerao Clinics delivers integrated care across Kidney Transplant Surgery In Pune. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "bhaleraoclinics@gmail.com",
+    "phone": "086248 41122",
+    "alternatePhone": "+91 93594 54425",
+    "website": "http://www.bhaleraoclinics.com/",
+    "address": "B building, Park Marina, Office 2 and 3, first floor, in front of Jupiter Hospital, opp. kalmadi school, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Office 2 and 3",
+    "emergencyContact": "+91 93594 54425",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/wix",
+    "twitter": "https://twitter.com/Wix",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/wix-com",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bhalerao+Clinics/@18.5645127,73.7851002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1e35636d8d:0x95eb217d0f2e91dd!8m2!3d18.5645127!4d73.7851002!16s%2Fg%2F11h6m3kmz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhalerao+Clinics/@18.5645127,73.7851002,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1e35636d8d:0x95eb217d0f2e91dd!8m2!3d18.5645127!4d73.7851002!16s%2Fg%2F11h6m3kmz8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5645127,
+      "lng": 73.7851002,
+      "label": "Bhalerao Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "blue-sky-clinic-rezum-surgery-for-prostate-and-rezum-water-vapor-rezum-prostate-surgery-clinic-in-pune-maharashtra-pune",
+    "name": "Blue Sky Clinic - Rezum Surgery For Prostate & Rezum Water Vapor/Rezum Prostate Surgery Clinic in Pune,Maharashtra",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted surgical center in Pune, Blue Sky Clinic - Rezum Surgery For Prostate & Rezum Water Vapor/Rezum Prostate Surgery Clinic in Pune,Maharashtra delivers integrated care across Kidney Transplant Surgery In Pune and Surgical Center. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "sussainbahl@gmail.com",
+    "phone": "099220 09251",
+    "alternatePhone": "+91 85435 46578",
+    "website": "https://www.rezumprostatesurgery.com/",
+    "address": "Ground Floor, Blue Sky Clinic, Triose Apartment Rd, near Govind Garden, near SUKHWANI CELAENO, Defence Area, Pimple Saudagar, Pimpri-Chinchwad, Pune, Maharashtra 411027",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "near Govind Garden, near SUKHWANI CELAENO, Defence Area, Pimple Saudagar, Pimpri-Chinchwad, Pune, Maharashtra 411027",
+    "emergencyContact": "+91 85435 46578",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/2379436925609397/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Blue+Sky+Clinic+-+Rezum+Surgery+For+Prostate+%26+Rezum+Water+Vapor%2FRezum+Prostate+Surgery+Clinic+in+Pune,Maharashtra/@18.5947533,73.807906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ef4cf711bd:0x5e7656e8526f24e1!8m2!3d18.5947533!4d73.807906!16s%2Fg%2F11x26pp5gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Blue+Sky+Clinic+-+Rezum+Surgery+For+Prostate+%26+Rezum+Water+Vapor%2FRezum+Prostate+Surgery+Clinic+in+Pune,Maharashtra/@18.5947533,73.807906,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ef4cf711bd:0x5e7656e8526f24e1!8m2!3d18.5947533!4d73.807906!16s%2Fg%2F11x26pp5gt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5947533,
+      "lng": 73.807906,
+      "label": "Blue Sky Clinic - Rezum Surgery For Prostate & Rezum Water Vapor/Rezum Prostate Surgery Clinic in Pune,Maharashtra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brain-and-spine-clinic-pune",
+    "name": "Brain & Spine Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brain & Spine Clinic has built a strong reputation in Pune for multidisciplinary treatment pathways covering Spine Neurosurgeon In Pune, Neurosciences, and Spine Care. Its infrastructure includes Google rating 3.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0202 445 5056",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Center Point, Laxmi Narayan Rd, Swargate, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "Swargate",
+    "landmark": "Laxmi Narayan Rd",
+    "emergencyContact": "0202 445 5056",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/@18.4971086,73.8564682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c01058dab793:0x823e2088ff05fd48!8m2!3d18.4971086!4d73.8564682!16s%2Fg%2F11dfqlch1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brain+%26+Spine+Clinic/@18.4971086,73.8564682,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c01058dab793:0x823e2088ff05fd48!8m2!3d18.4971086!4d73.8564682!16s%2Fg%2F11dfqlch1k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4971086,
+      "lng": 73.8564682,
+      "label": "Brain & Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-care-pune-pune",
+    "name": "Cancer Care Pune",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Cancer Care Pune brings together specialists for Oncologist Surgery In Pune and Cancer Treatment Center. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084465 76856",
+    "alternatePhone": "+91 98902 33887",
+    "website": "https://www.cancercarepune.com/",
+    "address": "Shrivatsa childrens clinic opposite green spirit society near Dilip Vengaskar Cricket academy, main road, Thergaon, Pune, Maharashtra 411033",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411033",
+    "locality": "Thergaon",
+    "landmark": "near Dilip Vengaskar Cricket academy, main road, Thergaon, Pune, Maharashtra 411033",
+    "emergencyContact": "+91 98902 33887",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cancercarepune",
+    "twitter": "https://twitter.com/pune_care",
+    "instagram": "https://www.instagram.com/cancercarepune/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCtYEhThfU1fL9P2VRWc2eiw",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Care+Pune/@18.6141322,73.7782295,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ac58958275:0xb803806d22907afe!8m2!3d18.6141322!4d73.7782295!16s%2Fg%2F11h2p45p1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Care+Pune/@18.6141322,73.7782295,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ac58958275:0xb803806d22907afe!8m2!3d18.6141322!4d73.7782295!16s%2Fg%2F11h2p45p1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6141322,
+      "lng": 73.7782295,
+      "label": "Cancer Care Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cg-nephrocare-and-dialysis-center-deccan-hardikar-hospital-pune",
+    "name": "CG NephroCare And Dialysis Center@ Deccan Hardikar Hospital",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, CG NephroCare And Dialysis Center@ Deccan Hardikar Hospital brings together specialists for Kidney Transplant Surgery In Pune and Dialysis Center. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1160/61, University Rd, Revenue Colony, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Revenue Colony",
+    "landmark": "Revenue Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/CG+NephroCare+And+Dialysis+Center@+Deccan+Hardikar+Hospital/@18.5303429,73.847526,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f50409a7e5:0x14e42e52a477ab54!8m2!3d18.5303429!4d73.847526!16s%2Fg%2F11tkbjxwbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CG+NephroCare+And+Dialysis+Center@+Deccan+Hardikar+Hospital/@18.5303429,73.847526,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f50409a7e5:0x14e42e52a477ab54!8m2!3d18.5303429!4d73.847526!16s%2Fg%2F11tkbjxwbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5303429,
+      "lng": 73.847526,
+      "label": "CG NephroCare And Dialysis Center@ Deccan Hardikar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "citc-cosmoplast-pune",
+    "name": "CITC Cosmoplast",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CITC Cosmoplast has built a strong reputation in Pune for multidisciplinary treatment pathways covering Plastic Surgery In Pune. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@citc.co.in",
+    "phone": "091755 50027",
+    "alternatePhone": "+91 84476 40660",
+    "website": "https://citc.co.in/",
+    "address": "3rd Floor, Business Guild Complex, Office no 305, Law College Rd, opposite Wadeshwar Hotel, Shanti Sheela Society, Apex Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "opposite Wadeshwar Hotel, Shanti Sheela Society, Apex Colony, Erandwane, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 84476 40660",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/CITCPune",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/cosmoplast_clinic",
+    "linkedin": "https://www.linkedin.com/company/citc-cosmoplast-clinic/",
+    "youtube": "https://www.youtube.com/@cosmoplastcitc/featured",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CITC+Cosmoplast/@18.5148313,73.8288095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf903f9af7bd:0x941bfb4e738a68cd!8m2!3d18.5148313!4d73.8288095!16s%2Fg%2F11r_x1zxdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CITC+Cosmoplast/@18.5148313,73.8288095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf903f9af7bd:0x941bfb4e738a68cd!8m2!3d18.5148313!4d73.8288095!16s%2Fg%2F11r_x1zxdt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5148313,
+      "lng": 73.8288095,
+      "label": "CITC Cosmoplast",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-dental-care-pune",
+    "name": "City Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, City Dental Care offers coordinated hospital care with major focus on Oral Surgery In Pune. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "citydentalcare@rediffmail.com",
+    "phone": "080870 16659",
+    "alternatePhone": "",
+    "website": "https://citydentalcare.in/",
+    "address": "Oriana crest office, 202, Datta Mandir Rd, opp. vitalife clinic, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "Datta Mandir Rd",
+    "emergencyContact": "080870 16659",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/City-dental-care-840113172686930/",
+    "twitter": "https://twitter.com/",
+    "instagram": "https://www.instagram.com/citydentalpune/",
+    "linkedin": "https://linkedin.com/",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Dental+Care/@18.6003972,73.7636854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9742a3c5ba1:0x38130ee84c2c11aa!8m2!3d18.6003972!4d73.7636854!16s%2Fg%2F1pp2vgxc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Dental+Care/@18.6003972,73.7636854,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9742a3c5ba1:0x38130ee84c2c11aa!8m2!3d18.6003972!4d73.7636854!16s%2Fg%2F1pp2vgxc6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6003972,
+      "lng": 73.7636854,
+      "label": "City Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-dental-clinic-and-oral-cancer-clinic-best-dentist-in-wagholi-pune-pune",
+    "name": "City Dental Clinic And Oral Cancer Clinic | Best Dentist in Wagholi | Pune",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose City Dental Clinic And Oral Cancer Clinic | Best Dentist in Wagholi | Pune for its strength in Oral Surgery In Pune and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "citydentalclinic@gmail.com",
+    "phone": "095460 20404",
+    "alternatePhone": "",
+    "website": "https://drruchagore.in/",
+    "address": "Ground floor, Vrindavan Apartment, Awhalwadi Rd, near Shree Lifecare Hospital, Siddhi Park, Wagholi, Pune, Maharashtra 412207",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412207",
+    "locality": "Wagholi",
+    "landmark": "near Shree Lifecare Hospital, Siddhi Park, Wagholi, Pune, Maharashtra 412207",
+    "emergencyContact": "095460 20404",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Dental+Clinic+And+Oral+Cancer+Clinic+%7C+Best+Dentist+in+Wagholi+%7C+Pune/@18.5760765,73.9867163,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3f64349da21:0x238a024199d9f7a5!8m2!3d18.5760765!4d73.9867163!16s%2Fg%2F11sj61q_rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Dental+Clinic+And+Oral+Cancer+Clinic+%7C+Best+Dentist+in+Wagholi+%7C+Pune/@18.5760765,73.9867163,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3f64349da21:0x238a024199d9f7a5!8m2!3d18.5760765!4d73.9867163!16s%2Fg%2F11sj61q_rj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5760765,
+      "lng": 73.9867163,
+      "label": "City Dental Clinic And Oral Cancer Clinic | Best Dentist in Wagholi | Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "citycare-medical-center-pimpri-chinchwad",
+    "name": "CityCare Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CityCare Medical Center is a prominent hospital in Pimpri-Chinchwad, known for structured tertiary care across Spine Neurosurgeon In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "ccmcwakad@gmail.com",
+    "phone": "098905 88303",
+    "alternatePhone": "080481 27254",
+    "website": "https://www.citycaremedicalcenterpune.com/",
+    "address": "The Address Commercia,Shop No 301-304, Sayaji Hotel, Service Rd, above HDFC Bank, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "Sayaji Hotel",
+    "emergencyContact": "080481 27254",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/citycaremedicalcenterpune//",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CityCare+Medical+Center/@18.5939021,73.7569883,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b925562855c7:0xa755a4ec01d228b1!8m2!3d18.5939021!4d73.7569883!16s%2Fg%2F11rb4jbtq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CityCare+Medical+Center/@18.5939021,73.7569883,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b925562855c7:0xa755a4ec01d228b1!8m2!3d18.5939021!4d73.7569883!16s%2Fg%2F11rb4jbtq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5939021,
+      "lng": 73.7569883,
+      "label": "CityCare Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinique-internationale-hair-transplant-clinic-and-hair-loss-specialist-pune-pune",
+    "name": "Clinique Internationale – Hair Transplant Clinic & Hair Loss Specialist, Pune",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Clinique Internationale – Hair Transplant Clinic & Hair Loss Specialist, Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Plastic Surgery In Pune. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090495 90555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Saikar's Classic, Clinique International, Pancard Club Rd, above Aathvle Sweets, Baner Gaon, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner Gaon",
+    "landmark": "Clinique International",
+    "emergencyContact": "090495 90555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Clinique+Internationale+%E2%80%93+Hair+Transplant+Clinic+%26+Hair+Loss+Specialist,+Pune/@18.5578479,73.7732013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfd5bcdd8d47:0x2a04a2cc37688c2a!8m2!3d18.5578479!4d73.7732013!16s%2Fg%2F11s5tmdp7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinique+Internationale+%E2%80%93+Hair+Transplant+Clinic+%26+Hair+Loss+Specialist,+Pune/@18.5578479,73.7732013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfd5bcdd8d47:0x2a04a2cc37688c2a!8m2!3d18.5578479!4d73.7732013!16s%2Fg%2F11s5tmdp7l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5578479,
+      "lng": 73.7732013,
+      "label": "Clinique Internationale – Hair Transplant Clinic & Hair Loss Specialist, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-baner-best-fertility-and-ivf-treatments-in-pune-pune",
+    "name": "Cloudnine IVF Center in Baner | Best Fertility & IVF Treatments in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Cloudnine IVF Center in Baner | Best Fertility & IVF Treatments in Pune offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "+91 80682 16197",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-baner?utm_city=pune&utm_source=gmb&utm_medium=organic&utm_campaign=pune+baner+c9-fertility-gmb-website+c9-fertility-hospital&utm_content=website-button",
+    "address": "Baner - Pashan Link Rd, near Coworking Space, Pashan, Pune, Maharashtra 411021",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "locality": "Pashan",
+    "landmark": "near Coworking Space, Pashan, Pune, Maharashtra 411021",
+    "emergencyContact": "+91 80682 16197",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/CloudnineFertilityIndia/",
+    "twitter": "https://twitter.com/cloud9fertility",
+    "instagram": "https://www.instagram.com/cloudnine_fertility/",
+    "linkedin": "https://www.linkedin.com/company/cloudninehospitals/",
+    "youtube": "https://www.youtube.com/channel/UCN4JuhSxh4wMdc829xlq6_w/featured",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Baner+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5500759,73.7913597,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2d73c37477:0x84629e27b893aa1d!8m2!3d18.5500759!4d73.7913597!16s%2Fg%2F11wwz7dmcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Baner+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5500759,73.7913597,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2d73c37477:0x84629e27b893aa1d!8m2!3d18.5500759!4d73.7913597!16s%2Fg%2F11wwz7dmcw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5500759,
+      "lng": 73.7913597,
+      "label": "Cloudnine IVF Center in Baner | Best Fertility & IVF Treatments in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-kalyani-nagar-best-fertility-and-ivf-treatments-in-pune-pune",
+    "name": "Cloudnine IVF Center in Kalyani Nagar | Best Fertility & IVF Treatments in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Cloudnine IVF Center in Kalyani Nagar | Best Fertility & IVF Treatments in Pune offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "+91 80682 16197",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-kalyaninagar?utm_city=pune&utm_source=gmb&utm_medium=organic&utm_campaign=pune+kalyaninagar+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "Hermes Waves, 3rd Floor, Survey No. 212/1B Plot no. 59 C, near Pizza Hut, Kalyani Nagar, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Kalyani Nagar",
+    "landmark": "near Pizza Hut, Kalyani Nagar, Pune, Maharashtra 411006",
+    "emergencyContact": "+91 80682 16197",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/CloudnineFertilityIndia/",
+    "twitter": "https://twitter.com/cloud9fertility",
+    "instagram": "https://www.instagram.com/cloudnine_fertility/",
+    "linkedin": "https://www.linkedin.com/company/cloudninehospitals/",
+    "youtube": "https://www.youtube.com/channel/UCN4JuhSxh4wMdc829xlq6_w/featured",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Kalyani+Nagar+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5456043,73.9007123,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1100142b23f:0x468f5194ad50580!8m2!3d18.5456043!4d73.9007123!16s%2Fg%2F11f5d3r_35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Kalyani+Nagar+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5456043,73.9007123,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1100142b23f:0x468f5194ad50580!8m2!3d18.5456043!4d73.9007123!16s%2Fg%2F11f5d3r_35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5456043,
+      "lng": 73.9007123,
+      "label": "Cloudnine IVF Center in Kalyani Nagar | Best Fertility & IVF Treatments in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-pimple-saudagar-best-fertility-and-ivf-treatments-in-pune-pimpri-chinchwad",
+    "name": "Cloudnine IVF Center in Pimple Saudagar | Best Fertility & IVF Treatments in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pimpri-Chinchwad often choose Cloudnine IVF Center in Pimple Saudagar | Best Fertility & IVF Treatments in Pune for its strength in IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "+91 80682 16197",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-pimple-saudagar?utm_city=pune&utm_source=gmb&utm_medium=organic&utm_campaign=pune+pimple-saudagar+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "Blue Sapphire Business Park, near Govind Yashada Chowk, Vishawshanti Colony, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "locality": "Pimple Saudagar",
+    "landmark": "near Govind Yashada Chowk, Vishawshanti Colony, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027",
+    "emergencyContact": "+91 80682 16197",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/CloudnineFertilityIndia/",
+    "twitter": "https://twitter.com/cloud9fertility",
+    "instagram": "https://www.instagram.com/cloudnine_fertility/",
+    "linkedin": "https://www.linkedin.com/company/cloudninehospitals/",
+    "youtube": "https://www.youtube.com/channel/UCN4JuhSxh4wMdc829xlq6_w/featured",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Pimple+Saudagar+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5977057,73.8008108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90a5a7d4669:0x5ee2f5bf90ed2b26!8m2!3d18.5977057!4d73.8008108!16s%2Fg%2F11svk5jlg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Pimple+Saudagar+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5977057,73.8008108,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90a5a7d4669:0x5ee2f5bf90ed2b26!8m2!3d18.5977057!4d73.8008108!16s%2Fg%2F11svk5jlg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5977057,
+      "lng": 73.8008108,
+      "label": "Cloudnine IVF Center in Pimple Saudagar | Best Fertility & IVF Treatments in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-sb-road-best-fertility-and-ivf-treatments-in-pune-pune",
+    "name": "Cloudnine IVF Center in SB Road | Best Fertility & IVF Treatments in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Cloudnine IVF Center in SB Road | Best Fertility & IVF Treatments in Pune brings together specialists for IVF In Pune and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "+91 80682 16197",
+    "alternatePhone": "080682 16217",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-sb-road?utm_city=pune&utm_source=gmb&utm_medium=organic&utm_campaign=pune+sb-road+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "Plot No.65, Senapati Bapat Rd, behind JW MARRIOTT HOTEL, Shivaji Co operative Housing Society, Bhageerath, Gokhalenagar, Pune, Maharashtra 411016",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411016",
+    "locality": "Gokhalenagar",
+    "landmark": "behind JW MARRIOTT HOTEL",
+    "emergencyContact": "+91 80682 16197",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/CloudnineFertilityIndia/",
+    "twitter": "https://twitter.com/cloud9fertility",
+    "instagram": "https://www.instagram.com/cloudnine_fertility/",
+    "linkedin": "https://www.linkedin.com/company/cloudninehospitals/",
+    "youtube": "https://www.youtube.com/channel/UCN4JuhSxh4wMdc829xlq6_w/featured",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+SB+Road+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5307575,73.8288628,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c198e4252785:0x7217b41d912bb710!8m2!3d18.5307575!4d73.8288628!16s%2Fg%2F11r9f0dshf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+SB+Road+%7C+Best+Fertility+%26+IVF+Treatments+in+Pune/@18.5307575,73.8288628,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c198e4252785:0x7217b41d912bb710!8m2!3d18.5307575!4d73.8288628!16s%2Fg%2F11r9f0dshf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5307575,
+      "lng": 73.8288628,
+      "label": "Cloudnine IVF Center in SB Road | Best Fertility & IVF Treatments in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clove-dental-clinic-baner-road-pune-pune",
+    "name": "Clove Dental Clinic - Baner Road, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Clove Dental Clinic - Baner Road, Pune offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0403 824 5728",
+    "alternatePhone": "+91 96673 53232",
+    "website": "https://clovedental.in/dentist-near-me/pune/baner-road-pune?utm_source=website&utm_medium=gmb&utm_campaign=Baner_Road_GMB_Pune",
+    "address": "Shyam Lila Building, Baner Rd, above Aromas Cafe & bistro, opp. Mauli Petrol Pump, Varsha Park Society, Pashan, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Pashan",
+    "landmark": "above Aromas Cafe & bistro",
+    "emergencyContact": "+91 96673 53232",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/clovedentalindia",
+    "twitter": "https://x.com/Clove_Dental",
+    "instagram": "https://www.instagram.com/clovedentalindia/",
+    "linkedin": "https://www.linkedin.com/company/clove-dental/",
+    "youtube": "https://www.youtube.com/channel/UCNrZDA3KJmta5kO9URiSNhQ",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Baner+Road,+Pune/@18.5546603,73.8001026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf6674080391:0xfd5968cc0c3cfdb4!8m2!3d18.5546603!4d73.8001026!16s%2Fg%2F11fn4fk4z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clove+Dental+Clinic+-+Baner+Road,+Pune/@18.5546603,73.8001026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf6674080391:0xfd5968cc0c3cfdb4!8m2!3d18.5546603!4d73.8001026!16s%2Fg%2F11fn4fk4z5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5546603,
+      "lng": 73.8001026,
+      "label": "Clove Dental Clinic - Baner Road, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cns-brain-and-spine-hospital-pune",
+    "name": "CNS Brain & Spine Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CNS Brain & Spine Hospital has built a strong reputation in Pune for multidisciplinary treatment pathways covering Spine Neurosurgeon In Pune, Neurosciences, and Spine Care. The facility stands out for Google rating 3.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "drvishalrokade@gmail.com",
+    "phone": "+91 86699 14999",
+    "alternatePhone": "",
+    "website": "https://www.cnsclinicindia.com/",
+    "address": "Mukai Nagar, Khadakwasla, Pune, Maharashtra 411024",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411024",
+    "locality": "Khadakwasla",
+    "landmark": "Pune",
+    "emergencyContact": "+91 86699 14999",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=61577159219531",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/vishal-rokade-11097718",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CNS+Brain+%26+Spine+Hospital/@18.4429658,73.7809335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc29500a0bfce15:0xeb268166d8747c48!8m2!3d18.4429658!4d73.7809335!16s%2Fg%2F11rc7kbjbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CNS+Brain+%26+Spine+Hospital/@18.4429658,73.7809335,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc29500a0bfce15:0xeb268166d8747c48!8m2!3d18.4429658!4d73.7809335!16s%2Fg%2F11rc7kbjbm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4429658,
+      "lng": 73.7809335,
+      "label": "CNS Brain & Spine Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "coc-cancer-centre-cancer-specialist-in-pune-breast-oral-colon-cancer-treatment-centre-in-pimpri-chinchwad-pune",
+    "name": "COC Cancer Centre - Cancer Specialist in Pune, Breast, Oral, Colon Cancer Treatment Centre in Pimpri Chinchwad",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, COC Cancer Centre - Cancer Specialist in Pune, Breast, Oral, Colon Cancer Treatment Centre in Pimpri Chinchwad brings together specialists for Oncologist Surgery In Pune and Cancer Treatment Center. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "coc.cancercenter@gmail.com",
+    "phone": "087884 11482",
+    "alternatePhone": "+91 75880 56888",
+    "website": "https://coccancercentre.com/",
+    "address": "1st Floor, Comercia Building, Samarth Carina, Ganga Aashiyana Rd, near Birla Hospital, Thergaon, Pimpri-Chinchwad, Pune, Maharashtra 411033",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411033",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "near Birla Hospital, Thergaon, Pimpri-Chinchwad, Pune, Maharashtra 411033",
+    "emergencyContact": "+91 75880 56888",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=61570504361603",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/coc_cancer_center/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@COCCancerCentre",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/COC+Cancer+Centre+-+Cancer+Specialist+in+Pune,+Breast,+Oral,+Colon+Cancer+Treatment+Centre+in+Pimpri+Chinchwad/@18.6218318,73.7767993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b95aa0a23009:0xcbcb826f7aefda86!8m2!3d18.6218318!4d73.7767993!16s%2Fg%2F11lymybsw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/COC+Cancer+Centre+-+Cancer+Specialist+in+Pune,+Breast,+Oral,+Colon+Cancer+Treatment+Centre+in+Pimpri+Chinchwad/@18.6218318,73.7767993,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b95aa0a23009:0xcbcb826f7aefda86!8m2!3d18.6218318!4d73.7767993!16s%2Fg%2F11lymybsw4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6218318,
+      "lng": 73.7767993,
+      "label": "COC Cancer Centre - Cancer Specialist in Pune, Breast, Oral, Colon Cancer Treatment Centre in Pimpri Chinchwad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "conceive-india-ivf-pimpri-chinchwad",
+    "name": "Conceive India IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Conceive India IVF has built a strong reputation in Pimpri-Chinchwad for multidisciplinary treatment pathways covering IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095958 60860",
+    "alternatePhone": "",
+    "website": "http://conceiveindiaivf.com/",
+    "address": "5th Floor, White Square Building, 501, Hinjewadi - Wakad Rd, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "501",
+    "emergencyContact": "095958 60860",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ConceiveIVF",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/conceiveivfindia/",
+    "linkedin": "https://www.linkedin.com/in/conceive-india-ivf-62016a186/?originalSubdomain=in",
+    "youtube": "https://www.youtube.com/@conceiveindiaivf5006",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Conceive+India+IVF/@18.5908369,73.7532659,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b941f3a26e71:0x10a996e46218014e!8m2!3d18.5908369!4d73.7532659!16s%2Fg%2F11fk95544y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Conceive+India+IVF/@18.5908369,73.7532659,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b941f3a26e71:0x10a996e46218014e!8m2!3d18.5908369!4d73.7532659!16s%2Fg%2F11fk95544y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5908369,
+      "lng": 73.7532659,
+      "label": "Conceive India IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "conceive-ivf-best-ivf-centre-in-sinhgad-road-dhayari-wadgaon-budruk-nanded-phata-katraj-pune-pune",
+    "name": "Conceive IVF - Best IVF Centre in Sinhgad Road, Dhayari, Wadgaon Budruk, Nanded Phata, Katraj, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Conceive IVF - Best IVF Centre in Sinhgad Road, Dhayari, Wadgaon Budruk, Nanded Phata, Katraj, Pune offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "conceiveindiaivf@gmail.com",
+    "phone": "095525 25405",
+    "alternatePhone": "+91 81778 99161",
+    "website": "https://www.conceiveivfpune.com/",
+    "address": "ConceiveIVF, 301, 3rd Floor, Yogiraj Heights, Sinhgad Rd, opposite Fun Time Multiplex, Wadgaon Budruk, Anand Nagar, Pune, Maharashtra 411051",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411051",
+    "locality": "Anand Nagar",
+    "landmark": "opposite Fun Time Multiplex, Wadgaon Budruk, Anand Nagar, Pune, Maharashtra 411051",
+    "emergencyContact": "+91 81778 99161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/conceiveivfindia/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Conceive+IVF+-+Best+IVF+Centre+in+Sinhgad+Road,+Dhayari,+Wadgaon+Budruk,+Nanded+Phata,+Katraj,+Pune/@18.4684991,73.819159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295006d2cc4df:0xd23588b332c4f176!8m2!3d18.4684991!4d73.819159!16s%2Fg%2F11yghlz7hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Conceive+IVF+-+Best+IVF+Centre+in+Sinhgad+Road,+Dhayari,+Wadgaon+Budruk,+Nanded+Phata,+Katraj,+Pune/@18.4684991,73.819159,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295006d2cc4df:0xd23588b332c4f176!8m2!3d18.4684991!4d73.819159!16s%2Fg%2F11yghlz7hw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4684991,
+      "lng": 73.819159,
+      "label": "Conceive IVF - Best IVF Centre in Sinhgad Road, Dhayari, Wadgaon Budruk, Nanded Phata, Katraj, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "conceive-ivf-fertility-gynecology-and-test-tube-baby-center-best-ivf-centre-ivf-treatment-ivf-clinic-in-pimpri-pcmc-pune-pimpri-chinchwad",
+    "name": "Conceive IVF Fertility,Gynecology & Test Tube Baby Center-Best IVF Centre, IVF Treatment, IVF Clinic in Pimpri,PCMC,Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pimpri-Chinchwad, Conceive IVF Fertility,Gynecology & Test Tube Baby Center-Best IVF Centre, IVF Treatment, IVF Clinic in Pimpri,PCMC,Pune delivers integrated care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "conceiveindiaivf@gmail.com",
+    "phone": "080427 81385",
+    "alternatePhone": "+91 81778 99161",
+    "website": "https://www.conceiveivfpune.com/pimpri",
+    "address": "A114,1st Floor,Gera's Imperium Oasis Old Mumbai - Pune Highway, Finolex Chowk, above Malabar Gold, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "locality": "Pimpri Colony",
+    "landmark": "Gera's Imperium Oasis Old Mumbai - Pune Highway",
+    "emergencyContact": "+91 81778 99161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/conceiveivfindia/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Conceive+IVF+Fertility,Gynecology+%26+Test+Tube+Baby+Center-Best+IVF+Centre,+IVF+Treatment,+IVF+Clinic+in+Pimpri,PCMC,Pune/@18.6310568,73.8021284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9062f1f68fd:0x2b90e64328ceed9c!8m2!3d18.6310568!4d73.8021284!16s%2Fg%2F11t28c8_47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Conceive+IVF+Fertility,Gynecology+%26+Test+Tube+Baby+Center-Best+IVF+Centre,+IVF+Treatment,+IVF+Clinic+in+Pimpri,PCMC,Pune/@18.6310568,73.8021284,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9062f1f68fd:0x2b90e64328ceed9c!8m2!3d18.6310568!4d73.8021284!16s%2Fg%2F11t28c8_47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6310568,
+      "lng": 73.8021284,
+      "label": "Conceive IVF Fertility,Gynecology & Test Tube Baby Center-Best IVF Centre, IVF Treatment, IVF Clinic in Pimpri,PCMC,Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmetic-laser-surgery-center-pune",
+    "name": "Cosmetic laser surgery center",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Cosmetic laser surgery center offers coordinated hospital care with major focus on Plastic Surgery In Pune. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098220 58916",
+    "alternatePhone": "+91 93735 04565",
+    "website": "https://www.cosmeticsurgerypune.com/",
+    "address": "Swatyantra Chowk, 15/13, Karve Rd, next to Ranka Jewellers, behind Aditya Hotel, Indrspushp, Erandwane, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Erandwane",
+    "landmark": "Karve Rd",
+    "emergencyContact": "+91 93735 04565",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/dr.krishna.chaudhari?fref=ts",
+    "twitter": "https://x.com/drchaudhari02",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmetic+laser+surgery+center/@18.503156,73.8196474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfea133f4129:0x24d72095bdf0d2e3!8m2!3d18.503156!4d73.8196474!16s%2Fg%2F11w91902ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmetic+laser+surgery+center/@18.503156,73.8196474,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfea133f4129:0x24d72095bdf0d2e3!8m2!3d18.503156!4d73.8196474!16s%2Fg%2F11w91902ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.503156,
+      "lng": 73.8196474,
+      "label": "Cosmetic laser surgery center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmetoplast-pune",
+    "name": "Cosmetoplast",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cosmetoplast has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cosmetic Surgery In Pune. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "contact@cosmetoplast.com",
+    "phone": "095299 95705",
+    "alternatePhone": "",
+    "website": "http://cosmetoplast.com/",
+    "address": "3rd Floor, Building A, Girme Heights, 303, Vitthal Rao Shivarkar Rd, above HDFC Bank, Oxford Village, Kedari Nagar, Wanowrie, Pune, Maharashtra 411040",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411040",
+    "locality": "Wanowrie",
+    "landmark": "Girme Heights",
+    "emergencyContact": "095299 95705",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cosmetoplast",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/cosmetoplast",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmetoplast/@18.4814718,73.9012291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb9bdad1ccc9:0x7e65bca2f091c9eb!8m2!3d18.4814718!4d73.9012291!16s%2Fg%2F11qmn6ndb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmetoplast/@18.4814718,73.9012291,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb9bdad1ccc9:0x7e65bca2f091c9eb!8m2!3d18.4814718!4d73.9012291!16s%2Fg%2F11qmn6ndb_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4814718,
+      "lng": 73.9012291,
+      "label": "Cosmetoplast",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmosurge-pune",
+    "name": "CosmoSurge",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, CosmoSurge offers coordinated hospital care with major focus on Cosmetic Surgery In Pune. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074107 91040",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mai Bunglow, 228, cosmosurge, MAI, near lokmanya vachnalaya, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "near lokmanya vachnalaya, Sadashiv Peth, Pune, Maharashtra 411030",
+    "emergencyContact": "074107 91040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/CosmoSurge/@18.5083639,73.846336,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfffa5c0d9a1:0xe4c53ab4e2165a19!8m2!3d18.5083639!4d73.846336!16s%2Fg%2F11t5k8k_ks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CosmoSurge/@18.5083639,73.846336,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfffa5c0d9a1:0xe4c53ab4e2165a19!8m2!3d18.5083639!4d73.846336!16s%2Fg%2F11t5k8k_ks?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5083639,
+      "lng": 73.846336,
+      "label": "CosmoSurge",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cradle-ivf-pune",
+    "name": "Cradle IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Cradle IVF delivers integrated care across IVF In Pune and Fertility Care. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "guptehospital@gmail.com",
+    "phone": "0202 540 1700",
+    "alternatePhone": "93713 07591",
+    "website": "http://www.guptehospital.com/",
+    "address": "Gupte Hospital, 904, Bhandarkar Rd, near Westside - FC Road, Pune, Ganeshwadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "near Westside - FC Road",
+    "landmark": "near Westside - FC Road, Pune, Ganeshwadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "emergencyContact": "93713 07591",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Gupte-hospital-1530863477187421",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/guptehospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@guptehospital2333",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cradle+IVF/@18.5183349,73.8407733,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8653500001:0x53d785b5f0fdd163!8m2!3d18.5183349!4d73.8407733!16s%2Fg%2F11b8_qywvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cradle+IVF/@18.5183349,73.8407733,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8653500001:0x53d785b5f0fdd163!8m2!3d18.5183349!4d73.8407733!16s%2Fg%2F11b8_qywvq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5183349,
+      "lng": 73.8407733,
+      "label": "Cradle IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "crysta-ivf-fertility-centre-best-ivf-center-in-pune-pune",
+    "name": "Crysta IVF Fertility Centre - Best IVF Center in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Crysta IVF Fertility Centre - Best IVF Center in Pune delivers integrated care across IVF In Pune and Fertility Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089389 35353",
+    "alternatePhone": "",
+    "website": "https://crystaivf.com/best-ivf-centre-pune?utm_source=pune+listing&utm_medium=google+my+business&utm_campaign=website_button",
+    "address": "5th Floor, Crysta IVF Fertility Centre, 10 Biz Park, near Symbiosis Law School, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "near Symbiosis Law School, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "emergencyContact": "089389 35353",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/crystaivf/",
+    "twitter": "https://x.com/CrystaCare/",
+    "instagram": "https://www.instagram.com/crysta.ivf/",
+    "linkedin": "https://www.linkedin.com/company/crystacare/",
+    "youtube": "https://www.youtube.com/channel/UC2rmwQ9Zm6yYfa5Sxaz7ADA",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Crysta+IVF+Fertility+Centre+-+Best+IVF+Center+in+Pune/@18.5752066,73.9098658,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1eb61cf175d:0xb815a2e2954d657f!8m2!3d18.5752066!4d73.9098658!16s%2Fg%2F11tjbxtwbr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Crysta+IVF+Fertility+Centre+-+Best+IVF+Center+in+Pune/@18.5752066,73.9098658,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1eb61cf175d:0xb815a2e2954d657f!8m2!3d18.5752066!4d73.9098658!16s%2Fg%2F11tjbxtwbr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5752066,
+      "lng": 73.9098658,
+      "label": "Crysta IVF Fertility Centre - Best IVF Center in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "darekar-dental-center-pune",
+    "name": "Darekar Dental Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Darekar Dental Center delivers integrated care across Oral Surgery In Pune. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "085115 69536",
+    "alternatePhone": "",
+    "website": "http://www.darekardentalcare.com/",
+    "address": "GANDHARVA GALAXIA, Magarpatta Rd, near SANDIP HOTEL, Amanora Park Town, Hadapsar, Pune, Maharashtra 411036",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411036",
+    "locality": "Hadapsar",
+    "landmark": "near SANDIP HOTEL, Amanora Park Town, Hadapsar, Pune, Maharashtra 411036",
+    "emergencyContact": "085115 69536",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Darekar+Dental+Center/@18.5233761,73.9333673,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1005470524f:0x8126b661c9f58da3!8m2!3d18.5233761!4d73.9333673!16s%2Fg%2F11y54v9t4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Darekar+Dental+Center/@18.5233761,73.9333673,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1005470524f:0x8126b661c9f58da3!8m2!3d18.5233761!4d73.9333673!16s%2Fg%2F11y54v9t4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5233761,
+      "lng": 73.9333673,
+      "label": "Darekar Dental Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "darshil-dental-care-best-dental-clinic-in-baner-dental-implant-root-canal-treatment-dentist-in-baner-pune",
+    "name": "Darshil Dental Care - Best Dental Clinic in Baner | Dental Implant | Root canal Treatment | Dentist in Baner",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Darshil Dental Care - Best Dental Clinic in Baner | Dental Implant | Root canal Treatment | Dentist in Baner has built a strong reputation in Pune for multidisciplinary treatment pathways covering Oral Surgery In Pune. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "ddcinfocare@gmail.com",
+    "phone": "096179 88428",
+    "alternatePhone": "+91 98509 23380",
+    "website": "https://www.darshildentalcare.com/",
+    "address": "6th FLOOR, OFFICE NO.602, SHIVOM REGENCY, Baner Rd, above JYOTI GAS APPLAINCES, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "SHIVOM REGENCY",
+    "emergencyContact": "+91 98509 23380",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Darshil+Dental+Care+-+Best+Dental+Clinic+in+Baner+%7C+Dental+Implant+%7C+Root+canal+Treatment+%7C+Dentist+in+Baner/@18.5609184,73.7884441,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bed815b1a9ed:0x48c17ca128dc4690!8m2!3d18.5609184!4d73.7884441!16s%2Fg%2F11cs4y32z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Darshil+Dental+Care+-+Best+Dental+Clinic+in+Baner+%7C+Dental+Implant+%7C+Root+canal+Treatment+%7C+Dentist+in+Baner/@18.5609184,73.7884441,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bed815b1a9ed:0x48c17ca128dc4690!8m2!3d18.5609184!4d73.7884441!16s%2Fg%2F11cs4y32z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5609184,
+      "lng": 73.7884441,
+      "label": "Darshil Dental Care - Best Dental Clinic in Baner | Dental Implant | Root canal Treatment | Dentist in Baner",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dazzle-dent-dental-clinic-aundh-pune",
+    "name": "Dazzle Dent Dental Clinic, Aundh",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Dazzle Dent Dental Clinic, Aundh delivers integrated care across Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096734 44856",
+    "alternatePhone": "",
+    "website": "https://www.dazzledent.in/",
+    "address": "Flat No 18, Third Floor, Ameya Apartment, New DP Rd, near Veena World, Ward No. 8, Aundh Slums, Aundh, Pune, Maharashtra 411007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411007",
+    "locality": "Aundh",
+    "landmark": "near Veena World, Ward No. 8, Aundh Slums, Aundh, Pune, Maharashtra 411007",
+    "emergencyContact": "096734 44856",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dazzle+Dent+Dental+Clinic,+Aundh/@18.5627228,73.8030065,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf501bbc7519:0x122ca9f0b3681bfa!8m2!3d18.5627228!4d73.8030065!16s%2Fg%2F11h31x28rl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dazzle+Dent+Dental+Clinic,+Aundh/@18.5627228,73.8030065,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf501bbc7519:0x122ca9f0b3681bfa!8m2!3d18.5627228!4d73.8030065!16s%2Fg%2F11h31x28rl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5627228,
+      "lng": 73.8030065,
+      "label": "Dazzle Dent Dental Clinic, Aundh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deccan-clinic-pune",
+    "name": "Deccan Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Deccan Clinic for its strength in Oncologist Surgery In Pune and Surgical Center. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@deccanclinic.com",
+    "phone": "096078 41200",
+    "alternatePhone": "+91 82319 18919",
+    "website": "https://deccanclinic.com/",
+    "address": "7th floor, Suyog Fusion, 701, Balkrishna Sakharam Dhole Patil Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "701",
+    "emergencyContact": "+91 82319 18919",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/deccanclinic",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/c/DeccanClinic",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Deccan+Clinic/@18.5365545,73.8761157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0f90399c261:0xb950efb69242aff9!8m2!3d18.5365545!4d73.8761157!16s%2Fg%2F11gcdx4dym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deccan+Clinic/@18.5365545,73.8761157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0f90399c261:0xb950efb69242aff9!8m2!3d18.5365545!4d73.8761157!16s%2Fg%2F11gcdx4dym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5365545,
+      "lng": 73.8761157,
+      "label": "Deccan Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deccan-dental-clinic-pune",
+    "name": "Deccan Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Deccan Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Pune. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "drpriyankasavkar@gmail.com",
+    "phone": "073870 40464",
+    "alternatePhone": "+91 95030 08228",
+    "website": "http://www.bestorthodontistbracespune.in/",
+    "address": "759/53, 1st floor, Fergusson College Rd, Opposite Chitalebandhu Garware bridge corner, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Opposite Chitalebandhu Garware bridge corner, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 95030 08228",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DeccanDentalClinic/",
+    "twitter": "https://twitter.com/orthodntistPune",
+    "instagram": "https://www.instagram.com/deccan.dental/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCI7QR-lr934Kg3tDbFARrnQ",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Deccan+Dental+Clinic/@18.5158446,73.8418693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf881e459a07:0xafc040a99b72f7c5!8m2!3d18.5158446!4d73.8418693!16s%2Fg%2F11bw5_2f_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deccan+Dental+Clinic/@18.5158446,73.8418693,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf881e459a07:0xafc040a99b72f7c5!8m2!3d18.5158446!4d73.8418693!16s%2Fg%2F11bw5_2f_0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5158446,
+      "lng": 73.8418693,
+      "label": "Deccan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deccan-hardikar-hospital-pune",
+    "name": "Deccan Hardikar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deccan Hardikar Hospital is a prominent hospital in Pune, known for structured tertiary care across Kidney Transplant Surgery In Pune. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077579 64091",
+    "alternatePhone": "",
+    "website": "https://www.deccanhospital.in/",
+    "address": "1160/61, University Rd, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "077579 64091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Deccan+Hardikar+Hospital/@18.5304104,73.8474815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c080b5a1ac0b:0xdfdf8b393abef469!8m2!3d18.5304104!4d73.8474815!16zL20vMGJwZjhf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deccan+Hardikar+Hospital/@18.5304104,73.8474815,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c080b5a1ac0b:0xdfdf8b393abef469!8m2!3d18.5304104!4d73.8474815!16zL20vMGJwZjhf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5304104,
+      "lng": 73.8474815,
+      "label": "Deccan Hardikar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deenanath-mangeshkar-hospital-and-research-center-pune",
+    "name": "Deenanath Mangeshkar Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Deenanath Mangeshkar Hospital and Research Center brings together specialists for Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@dmhospital.org",
+    "phone": "0204 015 1000",
+    "alternatePhone": "+91 204 015 1000",
+    "website": "https://www.dmhospital.org/",
+    "address": "near, Mhatre Bridge, Vakil Nagar, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "Vakil Nagar",
+    "emergencyContact": "+91 204 015 1000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DeenanathMangeshkarHospitalandResearchCenter/",
+    "twitter": "https://twitter.com/DMHospitalPune",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCRgYZg3YubpilEGCLBVhUjQ?view_as=subscriber",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Deenanath+Mangeshkar+Hospital+and+Research+Center/@18.5019218,73.8330013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff340000001:0x89785750a9af6cf7!8m2!3d18.5019218!4d73.8330013!16s%2Fm%2F0vpl979?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deenanath+Mangeshkar+Hospital+and+Research+Center/@18.5019218,73.8330013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff340000001:0x89785750a9af6cf7!8m2!3d18.5019218!4d73.8330013!16s%2Fm%2F0vpl979?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5019218,
+      "lng": 73.8330013,
+      "label": "Deenanath Mangeshkar Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-care-and-oral-surgery-clinic-pune",
+    "name": "Dental Care & Oral Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Dental Care & Oral Surgery Clinic delivers integrated care across Oral Surgery In Pune. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "dentalcarejm@gmail.com",
+    "phone": "098600 38408",
+    "alternatePhone": "+91 92268 30497",
+    "website": "https://dentalclinicinpune.in/",
+    "address": "Shop No 1B, Ground Floor, Media House, Jangali Maharaj Rd, behind Color Plus/ Apple Unicorn Showroom, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Media House",
+    "emergencyContact": "+91 92268 30497",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/dentalcarejmroad",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/dental_care_clinic_pune/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Care+%26+Oral+Surgery+Clinic/@18.5246064,73.8500969,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c07c6f51515d:0xd48c7e656dc492d7!8m2!3d18.5246064!4d73.8500969!16s%2Fg%2F11g8jpw75x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Care+%26+Oral+Surgery+Clinic/@18.5246064,73.8500969,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c07c6f51515d:0xd48c7e656dc492d7!8m2!3d18.5246064!4d73.8500969!16s%2Fg%2F11g8jpw75x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5246064,
+      "lng": 73.8500969,
+      "label": "Dental Care & Oral Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-fitness-and-implant-centre-best-dental-clinic-best-dentist-in-dhanori-pune",
+    "name": "Dental Fitness & Implant Centre -Best Dental Clinic | Best Dentist in Dhanori",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental Fitness & Implant Centre -Best Dental Clinic | Best Dentist in Dhanori is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://dentalfitness.co.in/",
+    "address": "First floor, shop, Besides Upsouth cafe, Dental Fitness, Triaa Vasantam City Centr Mall, 131, Dhanori-Lohegaon Rd, above KFC, Dhanori, Pune, Maharashtra 411015",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411015",
+    "locality": "Dhanori",
+    "landmark": "Besides Upsouth cafe",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Fitness+%26+Implant+Centre+-Best+Dental+Clinic+%7C+Best+Dentist+in+Dhanori/@18.5973,73.8993749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7d213cc88e7:0x2eb182cd04fe964e!8m2!3d18.5973!4d73.8993749!16s%2Fg%2F11pd11s73_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Fitness+%26+Implant+Centre+-Best+Dental+Clinic+%7C+Best+Dentist+in+Dhanori/@18.5973,73.8993749,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7d213cc88e7:0x2eb182cd04fe964e!8m2!3d18.5973!4d73.8993749!16s%2Fg%2F11pd11s73_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5973,
+      "lng": 73.8993749,
+      "label": "Dental Fitness & Implant Centre -Best Dental Clinic | Best Dentist in Dhanori",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentalios-dental-clinic-rct-implants-dentist-in-balewadi-pune-pune",
+    "name": "Dentalios Dental Clinic | RCT | Implants | Dentist in Balewadi Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Dentalios Dental Clinic | RCT | Implants | Dentist in Balewadi Pune for its strength in Oral Surgery In Pune. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083290 43003",
+    "alternatePhone": "",
+    "website": "https://dentaliosclinic.com/your-best-dentist-near-me-in-balewadi/",
+    "address": "S. No. 14/9, Besides Comfort Zone, Thorve Vishwa, Baner - Balewadi Rd, Balewadi, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Balewadi",
+    "landmark": "Thorve Vishwa",
+    "emergencyContact": "083290 43003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentalios+Dental+Clinic+%7C+RCT+%7C+Implants+%7C+Dentist+in+Balewadi+Pune/@18.5704067,73.7813219,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b99c593f8b81:0x96a6bfc4d40818e0!8m2!3d18.5704067!4d73.7813219!16s%2Fg%2F11lszrrh0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentalios+Dental+Clinic+%7C+RCT+%7C+Implants+%7C+Dentist+in+Balewadi+Pune/@18.5704067,73.7813219,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b99c593f8b81:0x96a6bfc4d40818e0!8m2!3d18.5704067!4d73.7813219!16s%2Fg%2F11lszrrh0y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5704067,
+      "lng": 73.7813219,
+      "label": "Dentalios Dental Clinic | RCT | Implants | Dentist in Balewadi Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentique-dental-clinic-dentist-in-wakad-dental-implants-pune-pune",
+    "name": "Dentique Dental Clinic | Dentist in Wakad | Dental Implants Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Dentique Dental Clinic | Dentist in Wakad | Dental Implants Pune brings together specialists for Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097428 07286",
+    "alternatePhone": "+91 79039 45606",
+    "website": "https://dentique.co.in/",
+    "address": "PALASH PLUS, Shop no.9, Kaspate Wasti Rd, opposite Gold's Gym, Wakad, Pune, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "opposite Gold's Gym, Wakad, Pune, Maharashtra 411057",
+    "emergencyContact": "+91 79039 45606",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DentiqueWakad",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/dentique_2017/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentique+Dental+Clinic+%7C+Dentist+in+Wakad+%7C+Dental+Implants+Pune/@18.5998521,73.7708143,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90fb77cd763:0xf6723f446360d0fa!8m2!3d18.5998521!4d73.7708143!16s%2Fg%2F11km_7rq4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentique+Dental+Clinic+%7C+Dentist+in+Wakad+%7C+Dental+Implants+Pune/@18.5998521,73.7708143,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90fb77cd763:0xf6723f446360d0fa!8m2!3d18.5998521!4d73.7708143!16s%2Fg%2F11km_7rq4j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5998521,
+      "lng": 73.7708143,
+      "label": "Dentique Dental Clinic | Dentist in Wakad | Dental Implants Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentonext-dental-clinic-dentist-in-kalyani-nagar-pune-pune",
+    "name": "DENTONEXT Dental Clinic | Dentist in Kalyani Nagar Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, DENTONEXT Dental Clinic | Dentist in Kalyani Nagar Pune delivers integrated care across Oral Surgery In Pune. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "dentonextclinic@gmail.com",
+    "phone": "091751 77447",
+    "alternatePhone": "",
+    "website": "https://dentonextclinic.com/dental-clinic-in-pune/",
+    "address": "Ist Floor, Solitaire Business Hub, 112, West Ave, Kalyani Nagar, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Kalyani Nagar",
+    "landmark": "112",
+    "emergencyContact": "091751 77447",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DENTONEXT+Dental+Clinic+%7C+Dentist+in+Kalyani+Nagar+Pune/@18.5498691,73.897553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1002c7854f7:0x3ef547dad7567c75!8m2!3d18.5498691!4d73.897553!16s%2Fg%2F11n58l82xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTONEXT+Dental+Clinic+%7C+Dentist+in+Kalyani+Nagar+Pune/@18.5498691,73.897553,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1002c7854f7:0x3ef547dad7567c75!8m2!3d18.5498691!4d73.897553!16s%2Fg%2F11n58l82xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5498691,
+      "lng": 73.897553,
+      "label": "DENTONEXT Dental Clinic | Dentist in Kalyani Nagar Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dpu-ivf-and-endoscopy-center-pune",
+    "name": "DPU IVF & Endoscopy Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DPU IVF & Endoscopy Center is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "ivf.medical@dpu.edu.in",
+    "phone": "0206 711 6441",
+    "alternatePhone": "",
+    "website": "https://dpuivfpune.com/",
+    "address": "7th Floor, Hi-Tech Building Dr. D.Y. Patil Hospital & Research Centre, Sant Tukaram Nagar, Pimpri Colony, Pune, Maharashtra 411018",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411018",
+    "locality": "Pimpri Colony",
+    "landmark": "Sant Tukaram Nagar",
+    "emergencyContact": "0206 711 6441",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DPUIVFPune",
+    "twitter": "https://twitter.com/DpuIvfPune",
+    "instagram": "https://www.instagram.com/dpuivfpune/",
+    "linkedin": "https://www.linkedin.com/company/dpuivfpune/",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DPU+IVF+%26+Endoscopy+Center/@18.6231028,73.8218036,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9e9b2cd6471:0xdbbf945aca4a1664!8m2!3d18.6231028!4d73.8218036!16s%2Fg%2F11r_chqcqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DPU+IVF+%26+Endoscopy+Center/@18.6231028,73.8218036,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9e9b2cd6471:0xdbbf945aca4a1664!8m2!3d18.6231028!4d73.8218036!16s%2Fg%2F11r_chqcqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6231028,
+      "lng": 73.8218036,
+      "label": "DPU IVF & Endoscopy Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "elegante-aesthetic-clinic-pune",
+    "name": "Elegante Aesthetic Clinic",
+    "type": "Permanent Make-up Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted permanent make-up clinic in Pune, Elegante Aesthetic Clinic delivers integrated care across Plastic Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "contact@eleganteaesthetics.com",
+    "phone": "093591 79945",
+    "alternatePhone": "",
+    "website": "http://www.elegante-aesthetics.com/",
+    "address": "Mezzanine floor, 3rd Wing, East St, near 1000 Oaks, Pune Cantonment, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Pune Cantonment",
+    "landmark": "near 1000 Oaks, Pune Cantonment, Pune, Maharashtra 411001",
+    "emergencyContact": "093591 79945",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/EleganteAestheticClinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/eleganteaestheticclinic/",
+    "linkedin": "https://www.linkedin.com/in/dr-raveena-agarwal-9a75551a7/",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Elegante+Aesthetic+Clinic/@18.5110395,73.8795193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1e1c7e2317d:0xc85c347221a92973!8m2!3d18.5110395!4d73.8795193!16s%2Fg%2F11lgh0cdmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Elegante+Aesthetic+Clinic/@18.5110395,73.8795193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1e1c7e2317d:0xc85c347221a92973!8m2!3d18.5110395!4d73.8795193!16s%2Fg%2F11lgh0cdmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5110395,
+      "lng": 73.8795193,
+      "label": "Elegante Aesthetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "embryonic-fertility-and-ivf-centre-pune",
+    "name": "EMBRYONIC FERTILITY AND IVF CENTRE",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, EMBRYONIC FERTILITY AND IVF CENTRE brings together specialists for IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "contact@embryonicfertility.com",
+    "phone": "088188 12017",
+    "alternatePhone": "+91 88188 12014",
+    "website": "https://www.embryonicfertility.com/",
+    "address": "5th Floor, Flat # 17, Siddharth Manison, Pune Nagar Rd, opposite Aagakhan Palace, Hermes Heritage Phase 2, Hermes Heritage Society Phase 1, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Yerawada",
+    "landmark": "opposite Aagakhan Palace, Hermes Heritage Phase 2, Hermes Heritage Society Phase 1, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
+    "emergencyContact": "+91 88188 12014",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/embryonicfertility",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/embryonic_fertility/",
+    "linkedin": "https://www.linkedin.com/in/nikhil-gosavi-ab828023/",
+    "youtube": "https://www.youtube.com/@EmbryonicFertilityIVFCentreDrN",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/EMBRYONIC+FERTILITY+AND+IVF+CENTRE/@18.5532077,73.8990392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1b331095819:0xb17e41b3b783aa49!8m2!3d18.5532077!4d73.8990392!16s%2Fg%2F11pgxzbczb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/EMBRYONIC+FERTILITY+AND+IVF+CENTRE/@18.5532077,73.8990392,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1b331095819:0xb17e41b3b783aa49!8m2!3d18.5532077!4d73.8990392!16s%2Fg%2F11pgxzbczb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5532077,
+      "lng": 73.8990392,
+      "label": "EMBRYONIC FERTILITY AND IVF CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "endocare-best-dental-clinic-in-viman-nager-pune-pune",
+    "name": "EndoCare - Best Dental clinic in viman nager, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, EndoCare - Best Dental clinic in viman nager, Pune offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "drmugdha@endo-care.in",
+    "phone": "090968 82602",
+    "alternatePhone": "",
+    "website": "https://www.endo-care.in/",
+    "address": "Near Datta Mandir Chowk, Parijat Mithai Building, 1st Floor, Sai Apex, Viman Nagar Rd, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "1st Floor",
+    "emergencyContact": "090968 82602",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/endocare_dentalclinic_drmugdha?igsh=MWY5bTNja3VuYmI3dg%3D%3D&utm_source=qr",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/EndoCare+-+Best+Dental+clinic+in+viman+nager,+Pune/@18.5649709,73.9142923,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1023fc690e9:0x4bd70f3b9a7e1193!8m2!3d18.5649709!4d73.9142923!16s%2Fg%2F11z1_wh5my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/EndoCare+-+Best+Dental+clinic+in+viman+nager,+Pune/@18.5649709,73.9142923,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1023fc690e9:0x4bd70f3b9a7e1193!8m2!3d18.5649709!4d73.9142923!16s%2Fg%2F11z1_wh5my?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5649709,
+      "lng": 73.9142923,
+      "label": "EndoCare - Best Dental clinic in viman nager, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fabiani-and-budhrani-heart-institute-pune",
+    "name": "Fabiani & Budhrani Heart Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fabiani & Budhrani Heart Institute has built a strong reputation in Pune for multidisciplinary treatment pathways covering Heart Surgery In Pune and Cardiac Care. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Ln, Vasani Nagar, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Koregaon Park",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Fabiani+%26+Budhrani+Heart+Institute/@18.5343525,73.8874897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0ffc7565dc9:0xad602a206d9d538a!8m2!3d18.5343525!4d73.8874897!16s%2Fg%2F11c0w4rpxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fabiani+%26+Budhrani+Heart+Institute/@18.5343525,73.8874897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0ffc7565dc9:0xad602a206d9d538a!8m2!3d18.5343525!4d73.8874897!16s%2Fg%2F11c0w4rpxp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5343525,
+      "lng": 73.8874897,
+      "label": "Fabiani & Budhrani Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "femcare-fertility-best-ivf-center-in-kalyani-nagar-pune-pune",
+    "name": "Femcare Fertility | Best IVF Center in Kalyani Nagar Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Femcare Fertility | Best IVF Center in Kalyani Nagar Pune brings together specialists for IVF In Pune and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "care@femcarefertility.com",
+    "phone": "099670 50566",
+    "alternatePhone": "+91 88550 33028",
+    "website": "https://www.femcarefertility.com/",
+    "address": "Office 102, 1st Floor, Suman Business Park, Kalyani Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kalyani Nagar",
+    "landmark": "Suman Business Park",
+    "emergencyContact": "+91 88550 33028",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Femcarefertility",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/femcarefertilitygroup/",
+    "linkedin": "https://www.linkedin.com/company/femcare/",
+    "youtube": "https://www.youtube.com/channel/UCex3K8a2ViyxVVL84rVHywg",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Femcare+Fertility+%7C+Best+IVF+Center+in+Kalyani+Nagar+Pune/@18.5465275,73.9065809,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1d6589d4757:0x19e3823ed963e2c0!8m2!3d18.5465275!4d73.9065809!16s%2Fg%2F11y7kh8n0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Femcare+Fertility+%7C+Best+IVF+Center+in+Kalyani+Nagar+Pune/@18.5465275,73.9065809,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1d6589d4757:0x19e3823ed963e2c0!8m2!3d18.5465275!4d73.9065809!16s%2Fg%2F11y7kh8n0m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5465275,
+      "lng": 73.9065809,
+      "label": "Femcare Fertility | Best IVF Center in Kalyani Nagar Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "femcare-fertility-best-ivf-center-in-pune-pune",
+    "name": "Femcare Fertility | Best IVF center in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Femcare Fertility | Best IVF center in Pune for its strength in IVF In Pune and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "care@femcarefertility.com",
+    "phone": "088550 33028",
+    "alternatePhone": "+91 99670 50566",
+    "website": "http://femcarefertility.com/",
+    "address": "2nd Floor, Avenue Imperia, Survey No. 110, Hissa No. 11/2, Tal Haveli Baner Gaon, Dist, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Dist",
+    "landmark": "Survey No. 110",
+    "emergencyContact": "+91 99670 50566",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Femcarefertility",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/femcarefertilitygroup/",
+    "linkedin": "https://www.linkedin.com/company/femcare/",
+    "youtube": "https://www.youtube.com/channel/UCex3K8a2ViyxVVL84rVHywg",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Femcare+Fertility+%7C+Best+IVF+center+in+Pune/@18.5660922,73.7722421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf22d5de4b7d:0x23346d13e57e4730!8m2!3d18.5660922!4d73.7722421!16s%2Fg%2F11r_w7n913?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Femcare+Fertility+%7C+Best+IVF+center+in+Pune/@18.5660922,73.7722421,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf22d5de4b7d:0x23346d13e57e4730!8m2!3d18.5660922!4d73.7722421!16s%2Fg%2F11r_w7n913?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5660922,
+      "lng": 73.7722421,
+      "label": "Femcare Fertility | Best IVF center in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fertility-pune-pune",
+    "name": "Fertility Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Fertility Pune offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "fertilitypune@gmail.com",
+    "phone": "088188 12016",
+    "alternatePhone": "+91 77700 55333",
+    "website": "https://fertilitypune.com/",
+    "address": "Flat no 14, Siddharth Mansion, opposite AGA KHAN PALACE, Hermes Heritage Phase 2, Hermes Heritage Society Phase 1, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006",
+    "locality": "Yerawada",
+    "landmark": "opposite AGA KHAN PALACE, Hermes Heritage Phase 2, Hermes Heritage Society Phase 1, Shastrinagar, Yerawada, Pune, Maharashtra 411006",
+    "emergencyContact": "+91 77700 55333",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/fertilitypune",
+    "twitter": "https://www.twitter.com/wix",
+    "instagram": "https://www.instagram.com/fertilitypune/",
+    "linkedin": "https://www.linkedin.com/company/wix-com",
+    "youtube": "https://www.youtube.com/@FertilityPune",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fertility+Pune/@18.553251,73.8990053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1767b6fff7d:0x9afa58ed1fe44cde!8m2!3d18.553251!4d73.8990053!16s%2Fg%2F11v3hx9zf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fertility+Pune/@18.553251,73.8990053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1767b6fff7d:0x9afa58ed1fe44cde!8m2!3d18.553251!4d73.8990053!16s%2Fg%2F11v3hx9zf5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.553251,
+      "lng": 73.8990053,
+      "label": "Fertility Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fyne-ivf-pune",
+    "name": "FYNE IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose FYNE IVF for its strength in IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "contact@fyneivf.com",
+    "phone": "096659 89191",
+    "alternatePhone": "+91 92090 54837",
+    "website": "https://www.fyneivf.com/",
+    "address": "203, Royal Tranquil Above Chitalebandhu Mithaiwale, Kokane Chowk, Pimple Saudagar, Pimpri Colony, Pune, Pimpri-Chinchwad, Maharashtra 411017",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411017",
+    "locality": "Pimpri Colony",
+    "landmark": "Kokane Chowk",
+    "emergencyContact": "+91 92090 54837",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/fyneivf/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/fyneivf/",
+    "linkedin": "https://www.linkedin.com/company/fyne-ivf/",
+    "youtube": "https://www.youtube.com/@fyneivf",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/FYNE+IVF/@18.5986263,73.7911268,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b91ea32eaaab:0xe3eaec0d29916eb!8m2!3d18.5986263!4d73.7911268!16s%2Fg%2F11y2czh28g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/FYNE+IVF/@18.5986263,73.7911268,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b91ea32eaaab:0xe3eaec0d29916eb!8m2!3d18.5986263!4d73.7911268!16s%2Fg%2F11y2czh28g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5986263,
+      "lng": 73.7911268,
+      "label": "FYNE IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "general-surgery-centre-specialized-care-for-hemorrhoids-appendectomy-sclerotherapy-spider-veins-phimosis-pune",
+    "name": "General Surgery Centre - Specialized Care for Hemorrhoids | Appendectomy | Sclerotherapy | Spider Veins | Phimosis",
+    "type": "Proctologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted proctologist in Pune, General Surgery Centre - Specialized Care for Hemorrhoids | Appendectomy | Sclerotherapy | Spider Veins | Phimosis delivers integrated care across General Surgery In Pune and Proctologist. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080651 05066",
+    "alternatePhone": "",
+    "website": "https://www.pristyncare.com/clinics/pune/shivajinagar-10323/?utm_source=gmb&utm_medium=organic&utm_campaign=9698455453856394761&utm_term=doctor&utm_content=website_link",
+    "address": "Ground Floor, Dealing Corner, Jangali Maharaj Rd, Shivajinagar, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Shivajinagar",
+    "landmark": "Jangali Maharaj Rd",
+    "emergencyContact": "080651 05066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune",
+      "Proctologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/General+Surgery+Centre+-+Specialized+Care+for+Hemorrhoids+%7C+Appendectomy+%7C+Sclerotherapy+%7C+Spider+Veins+%7C+Phimosis/@18.520731,73.845501,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c19e57dfebd1:0x437463f65dddfee4!8m2!3d18.520731!4d73.845501!16s%2Fg%2F11v3jsv0wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/General+Surgery+Centre+-+Specialized+Care+for+Hemorrhoids+%7C+Appendectomy+%7C+Sclerotherapy+%7C+Spider+Veins+%7C+Phimosis/@18.520731,73.845501,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c19e57dfebd1:0x437463f65dddfee4!8m2!3d18.520731!4d73.845501!16s%2Fg%2F11v3jsv0wk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.520731,
+      "lng": 73.845501,
+      "label": "General Surgery Centre - Specialized Care for Hemorrhoids | Appendectomy | Sclerotherapy | Spider Veins | Phimosis",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ghaisas-ent-hospital-and-rhinoplasty-centre-pune",
+    "name": "Ghaisas ENT Hospital & Rhinoplasty Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ghaisas ENT Hospital & Rhinoplasty Centre is a prominent hospital in Pune, known for structured tertiary care across Plastic Surgery In Pune. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "virendraghaisas@gmail.com",
+    "phone": "096077 72233",
+    "alternatePhone": "",
+    "website": "http://www.ghaisashospital.com/",
+    "address": "1248 B, NH 753F, Next to Raymond Showroom, Pulachi Wadi, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Next to Raymond Showroom",
+    "emergencyContact": "096077 72233",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/pages/Ghaisas-Ent-Hospital/841499212665805",
+    "twitter": "https://twitter.com/virendraghaisas",
+    "instagram": "https://www.instagram.com/virendraghaisas/",
+    "linkedin": "https://www.linkedin.com/in/virendra-ghaisas-b7b0172",
+    "youtube": "https://youtu.be/SoyCbNLedMU",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ghaisas+ENT+Hospital+%26+Rhinoplasty+Centre/@18.5173141,73.8423221,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c07803c05229:0xfe19a78f5823c99e!8m2!3d18.5173141!4d73.8423221!16s%2Fg%2F1tfkp5w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ghaisas+ENT+Hospital+%26+Rhinoplasty+Centre/@18.5173141,73.8423221,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c07803c05229:0xfe19a78f5823c99e!8m2!3d18.5173141!4d73.8423221!16s%2Fg%2F1tfkp5w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5173141,
+      "lng": 73.8423221,
+      "label": "Ghaisas ENT Hospital & Rhinoplasty Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "global-dental-care-pune",
+    "name": "Global Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Global Dental Care for its strength in Oral Surgery In Pune. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083083 50838",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-8, 3rd floor, Springfield Appartment, opposite Reliance Mart, Tukaram Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "opposite Reliance Mart, Tukaram Nagar, Kharadi, Pune, Maharashtra 411014",
+    "emergencyContact": "083083 50838",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Global+Dental+Care/@18.5518634,73.9369952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3e0569340ed:0x6f586075bcad8c77!8m2!3d18.5518634!4d73.9369952!16s%2Fg%2F1jglskjww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Global+Dental+Care/@18.5518634,73.9369952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3e0569340ed:0x6f586075bcad8c77!8m2!3d18.5518634!4d73.9369952!16s%2Fg%2F1jglskjww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5518634,
+      "lng": 73.9369952,
+      "label": "Global Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gurukrupa-spine-clinic-pune",
+    "name": "Gurukrupa Spine Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gurukrupa Spine Clinic is a prominent hospital in Pune, known for structured tertiary care across Spine Surgery In Pune and Spine Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086682 41591",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Devgiri, 2nd floor, Sinhgad Rd, Above The Raymond Shop, Corner of Dattawadi, Sarita Vihar, Dattawadi, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Dattawadi",
+    "landmark": "Sinhgad Rd",
+    "emergencyContact": "086682 41591",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Gurukrupa+Spine+Clinic/@18.4956621,73.8375051,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff71717357f:0x7b87c9978fc6c400!8m2!3d18.4956621!4d73.8375051!16s%2Fg%2F1jglw68q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gurukrupa+Spine+Clinic/@18.4956621,73.8375051,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff71717357f:0x7b87c9978fc6c400!8m2!3d18.4956621!4d73.8375051!16s%2Fg%2F1jglw68q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4956621,
+      "lng": 73.8375051,
+      "label": "Gurukrupa Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gynovitaa-ayurveda-panchakarma-and-infertility-clinic-in-baner-balewadi-pune-women-s-health-and-ivf-failure-specialist-pune",
+    "name": "Gynovitaa Ayurveda Panchakarma & Infertility Clinic in Baner Balewadi Pune | Women's Health & IVF Failure Specialist",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Gynovitaa Ayurveda Panchakarma & Infertility Clinic in Baner Balewadi Pune | Women's Health & IVF Failure Specialist for its strength in IVF In Pune, Women and Child Care, and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "gynovita.pune@gmail.com",
+    "phone": "073978 79170",
+    "alternatePhone": "+91 88559 55508",
+    "website": "https://www.gynovita.com/",
+    "address": "Gynovitaa Fertility & Wellness Clinic, Sai Ankoor, A401, Baner - Balewadi Rd, opposite F Residences, Balewadi, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Balewadi",
+    "landmark": "opposite F Residences, Balewadi, Pune, Maharashtra 411045",
+    "emergencyContact": "+91 88559 55508",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gynovitafertilitywellnessclinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/_gynovita_fertility_clinic__/",
+    "linkedin": "",
+    "youtube": "https://youtube.com/@gynovita1?si=HK2dHIWniePEcvej",
+    "specialties": [
+      "IVF In Pune",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gynovitaa+Ayurveda+Panchakarma+%26+Infertility+Clinic+in+Baner+Balewadi+Pune+%7C+Women's+Health+%26+IVF+Failure+Specialist/@18.5789303,73.7741744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ec6174315d:0xd8106a3c9c823c21!8m2!3d18.5789303!4d73.7741744!16s%2Fg%2F11rfffq8wn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gynovitaa+Ayurveda+Panchakarma+%26+Infertility+Clinic+in+Baner+Balewadi+Pune+%7C+Women's+Health+%26+IVF+Failure+Specialist/@18.5789303,73.7741744,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9ec6174315d:0xd8106a3c9c823c21!8m2!3d18.5789303!4d73.7741744!16s%2Fg%2F11rfffq8wn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5789303,
+      "lng": 73.7741744,
+      "label": "Gynovitaa Ayurveda Panchakarma & Infertility Clinic in Baner Balewadi Pune | Women's Health & IVF Failure Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hairdoc-trichology-expert-hair-clinic-in-shivajinagar-pune-pune",
+    "name": "HairDoc -Trichology Expert, Hair Clinic in Shivajinagar, Pune",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, HairDoc -Trichology Expert, Hair Clinic in Shivajinagar, Pune offers coordinated hospital care with major focus on Cosmetic Surgery In Pune. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@hairdoc.in",
+    "phone": "095031 33524",
+    "alternatePhone": "+91 84311 17777",
+    "website": "http://www.hairdoc.in/",
+    "address": "Sant Tukaram Paduka Chowk, Fergusson College Rd, opp. Dindayal Hospital, Sud Nagar, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "opp. Dindayal Hospital",
+    "emergencyContact": "+91 84311 17777",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/hairdochairclinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/hairdoc_trichology_expert/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCZFKDP-P0mwpep9RT6Quizw",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HairDoc+-Trichology+Expert,+Hair+Clinic+in+Shivajinagar,+Pune/@18.5247885,73.8415981,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf809b7d4253:0xf9e4156ace356fae!8m2!3d18.5247885!4d73.8415981!16s%2Fg%2F12qgl_tv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HairDoc+-Trichology+Expert,+Hair+Clinic+in+Shivajinagar,+Pune/@18.5247885,73.8415981,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf809b7d4253:0xf9e4156ace356fae!8m2!3d18.5247885!4d73.8415981!16s%2Fg%2F12qgl_tv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5247885,
+      "lng": 73.8415981,
+      "label": "HairDoc -Trichology Expert, Hair Clinic in Shivajinagar, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hairfree-and-hairgrow-hair-loss-and-hair-transplant-clinic-in-pune-pimpri-chinchwad",
+    "name": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic in Pune",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic in Pune is a prominent hair transplantation clinic in Pimpri-Chinchwad, known for structured tertiary care across Cosmetic Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@hairfreehairgrow.com",
+    "phone": "096079 40298",
+    "alternatePhone": "+91 72728 32222",
+    "website": "https://hairfreehairgrow.com/hair-transplant-in-pune/",
+    "address": "4th floor, Kate Square Building, 402, Chowk, opposite Nilu Phule Natyagruh, near Kate Puram, Phase 2, Kate Puram, Pimple Gurav, Pimpri-Chinchwad, Maharashtra 411061",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411061",
+    "locality": "Pimple Gurav",
+    "landmark": "near Kate Puram, Phase 2, Kate Puram, Pimple Gurav, Pimpri-Chinchwad, Maharashtra 411061",
+    "emergencyContact": "+91 72728 32222",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/hairfreehairgrow18/",
+    "twitter": "https://twitter.com/AndHairfree",
+    "instagram": "https://www.instagram.com/hairfree_hairgrow_clinic/",
+    "linkedin": "https://in.linkedin.com/company/hairfree-and-hairgrow-clinic",
+    "youtube": "https://www.youtube.com/channel/UCSaDWMYuM04Ao6gi76WUBVQ",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hairfree+%26+Hairgrow+Hair+Loss+%26+Hair+Transplant+Clinic+in+Pune/@18.5846321,73.8162753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e68f21639:0xd2bb863998179165!8m2!3d18.5846321!4d73.8162753!16s%2Fg%2F11f10dpnfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hairfree+%26+Hairgrow+Hair+Loss+%26+Hair+Transplant+Clinic+in+Pune/@18.5846321,73.8162753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e68f21639:0xd2bb863998179165!8m2!3d18.5846321!4d73.8162753!16s%2Fg%2F11f10dpnfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5846321,
+      "lng": 73.8162753,
+      "label": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hansalia-dental-clinic-pune",
+    "name": "Hansalia Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hansalia Dental Clinic is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@hansaliadentalclinic.com",
+    "phone": "077220 13933",
+    "alternatePhone": "+91 72181 44035",
+    "website": "https://hansaliadentalclinic.com/",
+    "address": "303, montvert apex, opp. The Orchid School, near Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "near Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "emergencyContact": "+91 72181 44035",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Hansaliadentalclinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/hansalia.dentalclinic/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@hansaliadentalclinic",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hansalia+Dental+Clinic/@18.564412,73.7813151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf24063760d3:0x56ea94658200a978!8m2!3d18.564412!4d73.7813151!16s%2Fg%2F1pv5y7g8_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hansalia+Dental+Clinic/@18.564412,73.7813151,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf24063760d3:0x56ea94658200a978!8m2!3d18.564412!4d73.7813151!16s%2Fg%2F1pv5y7g8_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.564412,
+      "lng": 73.7813151,
+      "label": "Hansalia Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "harsh-dental-clinic-pune",
+    "name": "HARSH DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose HARSH DENTAL CLINIC for its strength in Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089998 75560",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gajara Housing society,shop no-6,SHELAR ROAD, LANE Besides, near CANARA BANK, Vaibhav Society, Mahesh Society, Bibwewadi, Pune, Maharashtra 411037",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411037",
+    "locality": "Bibwewadi",
+    "landmark": "near CANARA BANK, Vaibhav Society, Mahesh Society, Bibwewadi, Pune, Maharashtra 411037",
+    "emergencyContact": "089998 75560",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HARSH+DENTAL+CLINIC/@18.4711333,73.8641161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ea9795a03af9:0x7037a0c3343e92dc!8m2!3d18.4711333!4d73.8641161!16s%2Fg%2F11fxcd3bgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HARSH+DENTAL+CLINIC/@18.4711333,73.8641161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ea9795a03af9:0x7037a0c3343e92dc!8m2!3d18.4711333!4d73.8641161!16s%2Fg%2F11fxcd3bgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4711333,
+      "lng": 73.8641161,
+      "label": "HARSH DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "healing-hands-clinic-baner-pune",
+    "name": "Healing Hands Clinic Baner",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Healing Hands Clinic Baner delivers integrated care across Plastic Surgery In Pune. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088886 22221",
+    "alternatePhone": "+91 74119 51943",
+    "website": "https://www.healinghandsclinic.co.in/pune-location/baner/",
+    "address": "1st floor, Crystal empire building, Lane Number 2, opp. Hotel Sadanand, next to AMAR BUSINESS PARK, Laxman Nagar, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Lane Number 2",
+    "emergencyContact": "+91 74119 51943",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Healinghandsclinic3?mibextid=LQQJ4d",
+    "twitter": "https://twitter.com/hhc_pune",
+    "instagram": "https://www.instagram.com/healinghands_pune_baner?utm_source=qr&igsh=Mmdta2FtM2toMmRh",
+    "linkedin": "https://www.linkedin.com/company/healing-hands-clinic/",
+    "youtube": "https://www.youtube.com/user/hhcpune",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Healing+Hands+Clinic+Baner/@18.5679952,73.76853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf40bef09289:0xcce00bee2c534f24!8m2!3d18.5679952!4d73.76853!16s%2Fg%2F11c1nzhx6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Healing+Hands+Clinic+Baner/@18.5679952,73.76853,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf40bef09289:0xcce00bee2c534f24!8m2!3d18.5679952!4d73.76853!16s%2Fg%2F11c1nzhx6k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5679952,
+      "lng": 73.76853,
+      "label": "Healing Hands Clinic Baner",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hi-smile-dental-care-bavdhan-pune-pune",
+    "name": "Hi Smile Dental Care,Bavdhan, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Hi Smile Dental Care,Bavdhan, Pune delivers integrated care across Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "hismilepune@gmail.com",
+    "phone": "088300 04535",
+    "alternatePhone": "98900 00000",
+    "website": "https://hismile.in/",
+    "address": "Shop No 5 Riddhi Siddhi Co-Operative Housing Society, LMD Chowk, Bavdhan, Pune, Maharashtra 411021",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411021",
+    "locality": "Bavdhan",
+    "landmark": "Bavdhan",
+    "emergencyContact": "98900 00000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Avani-Multispeciality-Dental-Clinic-189135961806686/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hi+Smile+Dental+Care,Bavdhan,+Pune/@18.5114264,73.7752152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1663cb02f3:0x63f7b74ae56537f7!8m2!3d18.5114264!4d73.7752152!16s%2Fg%2F11mtrbgt77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hi+Smile+Dental+Care,Bavdhan,+Pune/@18.5114264,73.7752152,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1663cb02f3:0x63f7b74ae56537f7!8m2!3d18.5114264!4d73.7752152!16s%2Fg%2F11mtrbgt77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5114264,
+      "lng": 73.7752152,
+      "label": "Hi Smile Dental Care,Bavdhan, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hope-aesthetics-clinic-advanced-hair-and-skin-treatments-in-pune-pune",
+    "name": "Hope Aesthetics Clinic | Advanced Hair & Skin Treatments in Pune",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Hope Aesthetics Clinic | Advanced Hair & Skin Treatments in Pune offers coordinated hospital care with major focus on Cosmetic Surgery In Pune. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@hopeaesthetics.in",
+    "phone": "092265 02901",
+    "alternatePhone": "",
+    "website": "https://hopeaesthetics.in/",
+    "address": "Office No. 202, Indira Building Lane Number 11, Bhandarkar Rd, Shreeman Society, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Bhandarkar Rd",
+    "emergencyContact": "092265 02901",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/hopeaesthetics/",
+    "twitter": "https://x.com/hopeaesthetics1",
+    "instagram": "https://www.instagram.com/hope_aesthetics_clinic",
+    "linkedin": "https://www.linkedin.com/company/hope-aesthetics/",
+    "youtube": "https://www.youtube.com/@HopeAestheticsClinic",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hope+Aesthetics+Clinic+%7C+Advanced+Hair+%26+Skin+Treatments+in+Pune/@18.5183747,73.8351521,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf001cb8e1fb:0xf71e4fba72f648d3!8m2!3d18.5183747!4d73.8351521!16s%2Fg%2F11vxjcvgq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hope+Aesthetics+Clinic+%7C+Advanced+Hair+%26+Skin+Treatments+in+Pune/@18.5183747,73.8351521,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf001cb8e1fb:0xf71e4fba72f648d3!8m2!3d18.5183747!4d73.8351521!16s%2Fg%2F11vxjcvgq4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5183747,
+      "lng": 73.8351521,
+      "label": "Hope Aesthetics Clinic | Advanced Hair & Skin Treatments in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "horizon-plastic-surgery-and-eye-care-pune",
+    "name": "Horizon Plastic Surgery and Eye Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Horizon Plastic Surgery and Eye Care brings together specialists for Plastic Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "horizonhospitalpune@gmail.com",
+    "phone": "088307 59510",
+    "alternatePhone": "98603 11362",
+    "website": "http://horizonhospitalpune.com/",
+    "address": "1st Floor, F building, Ganga Altus, Horizon Eye & Plastic surgery center, Mundhwa - Kharadi Rd, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "Ganga Altus",
+    "emergencyContact": "98603 11362",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Horizon+Plastic+Surgery+and+Eye+Care/@18.5423277,73.9369879,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1983604a099:0x9abef6ba099f8f4e!8m2!3d18.5423277!4d73.9369879!16s%2Fg%2F11gk9xkld0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Horizon+Plastic+Surgery+and+Eye+Care/@18.5423277,73.9369879,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1983604a099:0x9abef6ba099f8f4e!8m2!3d18.5423277!4d73.9369879!16s%2Fg%2F11gk9xkld0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5423277,
+      "lng": 73.9369879,
+      "label": "Horizon Plastic Surgery and Eye Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hridaydeep-heart-clinic-and-diagnostic-center-pune",
+    "name": "Hridaydeep Heart Clinic & Diagnostic Center",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hridaydeep Heart Clinic & Diagnostic Center has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cardiac Surgery In Pune, Diagnostic Center, and Cardiac Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "example@gmail.com",
+    "phone": "092704 48989",
+    "alternatePhone": "0001 234 5688",
+    "website": "https://hridaydeepheartclinic.com/",
+    "address": "Sr No 22, Vrindavan Building, 2/271, near Bank Of Maharashtra, Kharadkar Nagar, Sopan Nagar, Sainikwadi, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Wadgaon Sheri",
+    "landmark": "near Bank Of Maharashtra, Kharadkar Nagar, Sopan Nagar, Sainikwadi, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "emergencyContact": "0001 234 5688",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Hridaydeep-Heart-Clinic-And-Diagnostic-Center/61584121150931/",
+    "twitter": "https://www.twitter.com/",
+    "instagram": "https://www.instagram.com/hridaydeepheartclinic/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune",
+      "Diagnostic Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hridaydeep+Heart+Clinic+%26+Diagnostic+Center/@18.5529127,73.917845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15667c0554b:0x222eb77fff46f88e!8m2!3d18.5529127!4d73.917845!16s%2Fg%2F11yx9jpgjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hridaydeep+Heart+Clinic+%26+Diagnostic+Center/@18.5529127,73.917845,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15667c0554b:0x222eb77fff46f88e!8m2!3d18.5529127!4d73.917845!16s%2Fg%2F11yx9jpgjh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5529127,
+      "lng": 73.917845,
+      "label": "Hridaydeep Heart Clinic & Diagnostic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "inamdar-ivf-fertility-center-pune",
+    "name": "Inamdar IVF Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Inamdar IVF Fertility Center offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@inamdarhospital.com",
+    "phone": "096997 25140",
+    "alternatePhone": "",
+    "website": "https://inamdarivfclinic.com/",
+    "address": "201, 2nd Floor, Inamdar Hospital, Office No, Vitthal Rao Shivarkar Rd, near KPCT MALL, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "near KPCT MALL, Wanowrie, Pune, Maharashtra 411013",
+    "emergencyContact": "096997 25140",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/InamdarIVFFertilityCenter/",
+    "twitter": "https://twitter.com/themes_ancora",
+    "instagram": "https://www.instagram.com/inamdar_ivf_clinic/",
+    "linkedin": "https://www.linkedin.com/in/john-doe-574b13151/",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Inamdar+IVF+Fertility+Center/@18.5031214,73.8999248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c18b07694811:0xcef17d75caccccfc!8m2!3d18.5031214!4d73.8999248!16s%2Fg%2F11y2cqtnqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Inamdar+IVF+Fertility+Center/@18.5031214,73.8999248,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c18b07694811:0xcef17d75caccccfc!8m2!3d18.5031214!4d73.8999248!16s%2Fg%2F11y2cqtnqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5031214,
+      "lng": 73.8999248,
+      "label": "Inamdar IVF Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-care-best-ivf-centre-in-baner-pune-maharashtra-pune",
+    "name": "Indira IVF Fertility Care- Best IVF Centre in Baner, Pune, Maharashtra",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Indira IVF Fertility Care- Best IVF Centre in Baner, Pune, Maharashtra delivers integrated care across IVF In Pune and Fertility Care. Operational strengths including Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "+91 74118 04328",
+    "website": "https://www.indiraivf.com/",
+    "address": "Office No. 211 Survey no, La Commercia, 84/1, Baner Rd, next to REGENCY COSMOS, Building, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "84/1",
+    "emergencyContact": "+91 74118 04328",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Care-+Best+IVF+Centre+in+Baner,+Pune,+Maharashtra/@18.5640489,73.7779162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfa998a97501:0x6c078f330aa3a18c!8m2!3d18.5640489!4d73.7779162!16s%2Fg%2F11yr7yxk7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Care-+Best+IVF+Centre+in+Baner,+Pune,+Maharashtra/@18.5640489,73.7779162,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfa998a97501:0x6c078f330aa3a18c!8m2!3d18.5640489!4d73.7779162!16s%2Fg%2F11yr7yxk7n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5640489,
+      "lng": 73.7779162,
+      "label": "Indira IVF Fertility Care- Best IVF Centre in Baner, Pune, Maharashtra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-best-ivf-center-in-hadapsar-pune-maharashtra-pune",
+    "name": "Indira IVF Fertility Centre - Best IVF Center in Hadapsar, Pune, Maharashtra",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Indira IVF Fertility Centre - Best IVF Center in Hadapsar, Pune, Maharashtra for its strength in IVF In Pune and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "+91 74118 04328",
+    "website": "https://www.indiraivf.com/",
+    "address": "2nd floor, 41, City Hub, Indira IVF Clinic, Shri Swami Samarth Nagar, Gadital, Hadapsar, Pune, Maharashtra 411028",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "locality": "Hadapsar",
+    "landmark": "City Hub",
+    "emergencyContact": "+91 74118 04328",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+-+Best+IVF+Center+in+Hadapsar,+Pune,+Maharashtra/@18.5008155,73.9401042,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3f0b2df14d1:0x1e122af64ca89967!8m2!3d18.5008155!4d73.9401042!16s%2Fg%2F11y0nxvlqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+-+Best+IVF+Center+in+Hadapsar,+Pune,+Maharashtra/@18.5008155,73.9401042,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3f0b2df14d1:0x1e122af64ca89967!8m2!3d18.5008155!4d73.9401042!16s%2Fg%2F11y0nxvlqg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5008155,
+      "lng": 73.9401042,
+      "label": "Indira IVF Fertility Centre - Best IVF Center in Hadapsar, Pune, Maharashtra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-ambegaon-budruk-best-ivf-centre-pune",
+    "name": "Indira IVF Fertility Centre in Ambegaon Budruk - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira IVF Fertility Centre in Ambegaon Budruk - Best IVF Centre has built a strong reputation in Pune for multidisciplinary treatment pathways covering IVF In Pune and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3wwffKl",
+    "address": "First floor, Excella Plazzo, Near, Navale Brg, opp. Hotel Deccan Pavilion, Ambegaon Budruk, Pune, Maharashtra 411046",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411046",
+    "locality": "Ambegaon Budruk",
+    "landmark": "Near",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ambegaon+Budruk+-+Best+IVF+Centre/@18.4569394,73.8290198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2955136346c2f:0x8c69222fb80d0ba7!8m2!3d18.4569394!4d73.8290198!16s%2Fg%2F11vywvl4mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ambegaon+Budruk+-+Best+IVF+Centre/@18.4569394,73.8290198,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2955136346c2f:0x8c69222fb80d0ba7!8m2!3d18.4569394!4d73.8290198!16s%2Fg%2F11vywvl4mw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4569394,
+      "lng": 73.8290198,
+      "label": "Indira IVF Fertility Centre in Ambegaon Budruk - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-pimpri-chinchwad-best-ivf-centre-pimpri-chinchwad",
+    "name": "Indira IVF Fertility Centre in Pimpri-Chinchwad - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pimpri-Chinchwad, Indira IVF Fertility Centre in Pimpri-Chinchwad - Best IVF Centre delivers integrated care across IVF In Pune and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3MJgqM1",
+    "address": "1st Floor, Shop no. 101, Commercial Building Dwarka Sai Society, Godambe Chowk, near Vimal garden, Rahatani Gaon, Pawana Nagar, Rahatani, Pimpri-Chinchwad, Maharashtra 411017",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411017",
+    "locality": "Rahatani",
+    "landmark": "near Vimal garden, Rahatani Gaon, Pawana Nagar, Rahatani, Pimpri-Chinchwad, Maharashtra 411017",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Pimpri-Chinchwad+-+Best+IVF+Centre/@18.603584,73.7916595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9bb8b119517:0x71f4ba40becb1114!8m2!3d18.603584!4d73.7916595!16s%2Fg%2F11tgdgj4jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Pimpri-Chinchwad+-+Best+IVF+Centre/@18.603584,73.7916595,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9bb8b119517:0x71f4ba40becb1114!8m2!3d18.603584!4d73.7916595!16s%2Fg%2F11tgdgj4jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.603584,
+      "lng": 73.7916595,
+      "label": "Indira IVF Fertility Centre in Pimpri-Chinchwad - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-swargate-best-ivf-centre-pune",
+    "name": "Indira IVF Fertility Centre in Swargate - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Indira IVF Fertility Centre in Swargate - Best IVF Centre brings together specialists for IVF In Pune and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/maharashtra/best-ivf-center-in-swargate?utm_source=gmb&utm_medium=listings&utm_campaign=indiraivfgmb&utm_id=seo-local",
+    "address": "2nd floor, Times Square Building, Mukundnagar near Sai Baba Mandir Swargate, Satara Rd, Gultekadi, Pune, Maharashtra 411037",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411037",
+    "locality": "Gultekadi",
+    "landmark": "near Sai Baba Mandir Swargate, Satara Rd, Gultekadi, Pune, Maharashtra 411037",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Swargate+-+Best+IVF+Centre/@18.4934123,73.8582478,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11d25a37e4b:0xe883a60ca4bbb703!8m2!3d18.4934123!4d73.8582478!16s%2Fg%2F11w1npmvgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Swargate+-+Best+IVF+Centre/@18.4934123,73.8582478,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11d25a37e4b:0xe883a60ca4bbb703!8m2!3d18.4934123!4d73.8582478!16s%2Fg%2F11w1npmvgh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4934123,
+      "lng": 73.8582478,
+      "label": "Indira IVF Fertility Centre in Swargate - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-viman-nagar-best-ivf-centre-pune",
+    "name": "Indira IVF Fertility Centre in Viman nagar - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira IVF Fertility Centre in Viman nagar - Best IVF Centre is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/431FIKh",
+    "address": "Anand Emerald, सिम्बिओसिस मार्ग, near Airport Road, near सिम्बोसिस कॉलेज, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "near Airport Road, near सिम्बोसिस कॉलेज, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Viman+nagar+-+Best+IVF+Centre/@18.5641542,73.9071038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1395c7e3e23:0xf0ef74c99453a367!8m2!3d18.5641542!4d73.9071038!16s%2Fg%2F1q62crgj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Viman+nagar+-+Best+IVF+Centre/@18.5641542,73.9071038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1395c7e3e23:0xf0ef74c99453a367!8m2!3d18.5641542!4d73.9071038!16s%2Fg%2F1q62crgj0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5641542,
+      "lng": 73.9071038,
+      "label": "Indira IVF Fertility Centre in Viman nagar - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-ivf-and-fertility-centre-pune-pune",
+    "name": "Iswarya IVF & Fertility Centre Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Iswarya IVF & Fertility Centre Pune is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "cc@iswarya.in",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "https://www.iswaryafertility.com/ivf-centers/maharashtra/pune?utm_source=Google_Local_Listing&utm_medium=Local_SEO&utm_campaign=Pune",
+    "address": "HW64+VQF Air Force Area, New Airport Rd, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "Sakore Nagar",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IswaryaFertilityCenters",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/iswaryafertilityindia/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@IswaryaFertilityCentre",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Pune/@18.5621062,73.9069727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10050879fbf:0x4ac8353c166b8c4d!8m2!3d18.5621062!4d73.9069727!16s%2Fg%2F11vr3jkc05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Pune/@18.5621062,73.9069727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10050879fbf:0x4ac8353c166b8c4d!8m2!3d18.5621062!4d73.9069727!16s%2Fg%2F11vr3jkc05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5621062,
+      "lng": 73.9069727,
+      "label": "Iswarya IVF & Fertility Centre Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivf-center-pune",
+    "name": "IVF Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, IVF Center brings together specialists for IVF In Pune and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "chyyosada@yahoo.com",
+    "phone": "098228 15051",
+    "alternatePhone": "95298 84345",
+    "website": "https://www.doctorsada.com/",
+    "address": "Plot No. 34-35 S.No. 585, Mantri Co-op Society, Darshani Chowk, Suryakant Khatu Rd, Darshani Chowk, Salisbury Park, Gultekadi, Pune, Maharashtra 411037",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411037",
+    "locality": "Gultekadi",
+    "landmark": "Darshani Chowk",
+    "emergencyContact": "95298 84345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/IVF+Center/@18.4871805,73.8759798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c027c04dfda9:0xb647c3e2c11fc719!8m2!3d18.4871805!4d73.8759798!16s%2Fg%2F11b75qyxvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IVF+Center/@18.4871805,73.8759798,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c027c04dfda9:0xb647c3e2c11fc719!8m2!3d18.4871805!4d73.8759798!16s%2Fg%2F11b75qyxvz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4871805,
+      "lng": 73.8759798,
+      "label": "IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivf-galaxy-centre-pune",
+    "name": "IVF Galaxy Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "IVF Galaxy Centre is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@galaxycare.org",
+    "phone": "075075 98649",
+    "alternatePhone": "+91 72185 76910",
+    "website": "https://www.galaxycare.org/media/galaxy-care-hospital-starts-IVF-center",
+    "address": "GR6P+HVG, Karve Rd, near Garware Collage, Khilarewadi, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "near Garware Collage, Khilarewadi, Erandwane, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 72185 76910",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/GalaxyCareHospital",
+    "twitter": "https://twitter.com/GalaxyCarePune",
+    "instagram": "https://www.instagram.com/galaxycarehospital/",
+    "linkedin": "https://in.linkedin.com/school/galaxy-care-laparoscopy-institute/",
+    "youtube": "https://www.youtube.com/channel/UCgjciSyf5ZjdkTIQRSqKxxg",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/IVF+Galaxy+Centre/@18.5114255,73.8372013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf895c834469:0x53f5437da393e08c!8m2!3d18.5114255!4d73.8372013!16s%2Fg%2F1hhhtp25k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IVF+Galaxy+Centre/@18.5114255,73.8372013,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf895c834469:0x53f5437da393e08c!8m2!3d18.5114255!4d73.8372013!16s%2Fg%2F1hhhtp25k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5114255,
+      "lng": 73.8372013,
+      "label": "IVF Galaxy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivf-nest-fertility-clinic-expert-ivf-iui-and-infertility-treatment-in-wakad-pune-pimpri-chinchwad",
+    "name": "IVF Nest Fertility Clinic | Expert IVF, IUI & Infertility Treatment in Wakad Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "IVF Nest Fertility Clinic | Expert IVF, IUI & Infertility Treatment in Wakad Pune has built a strong reputation in Pimpri-Chinchwad for multidisciplinary treatment pathways covering IVF In Pune and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080480 68896",
+    "alternatePhone": "",
+    "website": "https://www.ivfnest.com/",
+    "address": "5th Floor, Prime City Center, Datta Mandir Rd, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "Datta Mandir Rd",
+    "emergencyContact": "080480 68896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/IVF+Nest+Fertility+Clinic+%7C+Expert+IVF,+IUI+%26+Infertility+Treatment+in+Wakad+Pune/@18.5999488,73.7634372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e5babffff:0x8fbded10a32cc566!8m2!3d18.5999488!4d73.7634372!16s%2Fg%2F11g8p91ytm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IVF+Nest+Fertility+Clinic+%7C+Expert+IVF,+IUI+%26+Infertility+Treatment+in+Wakad+Pune/@18.5999488,73.7634372,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e5babffff:0x8fbded10a32cc566!8m2!3d18.5999488!4d73.7634372!16s%2Fg%2F11g8p91ytm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5999488,
+      "lng": 73.7634372,
+      "label": "IVF Nest Fertility Clinic | Expert IVF, IUI & Infertility Treatment in Wakad Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jawxpert-best-dental-clinic-and-implantologist-in-pune-pune",
+    "name": "JawXpert – Best Dental Clinic & Implantologist in Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, JawXpert – Best Dental Clinic & Implantologist in Pune delivers integrated care across Oral Surgery In Pune. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "shweta.deshpande@jawxpert.com",
+    "phone": "096230 88522",
+    "alternatePhone": "",
+    "website": "https://www.jawxpert.com/",
+    "address": "101, 1st floor, EIFFEL SQUARE, Tilak Rd, opposite Badshahi boarding, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "opposite Badshahi boarding, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+    "emergencyContact": "096230 88522",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/JawXpert+%E2%80%93+Best+Dental+Clinic+%26+Implantologist+in+Pune/@18.5091224,73.8491216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1abad6dfba5:0xe2b5657c9ec2e94c!8m2!3d18.5091224!4d73.8491216!16s%2Fg%2F11w3zr3tb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JawXpert+%E2%80%93+Best+Dental+Clinic+%26+Implantologist+in+Pune/@18.5091224,73.8491216,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1abad6dfba5:0xe2b5657c9ec2e94c!8m2!3d18.5091224!4d73.8491216!16s%2Fg%2F11w3zr3tb1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5091224,
+      "lng": 73.8491216,
+      "label": "JawXpert – Best Dental Clinic & Implantologist in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevanam-fertility-and-ivf-clinic-pune",
+    "name": "Jeevanam Fertility & IVF Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Jeevanam Fertility & IVF Clinic offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063690 60417",
+    "alternatePhone": "091584 76003",
+    "website": "https://www.drtejasgundewar.com/",
+    "address": "New DP Rd, opposite Hotel Pune's Royal, Vishal Nagar, Pimple Nilakh, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "locality": "Pimple Nilakh",
+    "landmark": "opposite Hotel Pune's Royal, Vishal Nagar, Pimple Nilakh, Pune, Pimpri-Chinchwad, Maharashtra 411027",
+    "emergencyContact": "091584 76003",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DrTejasGundewar",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/drtejasgundewar/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@DrTejasGundewar",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevanam+Fertility+%26+IVF+Clinic/@18.5876473,73.7800247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b99b66a68827:0x545b3a00bce11e4b!8m2!3d18.5876473!4d73.7800247!16s%2Fg%2F11vwncyv_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevanam+Fertility+%26+IVF+Clinic/@18.5876473,73.7800247,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b99b66a68827:0x545b3a00bce11e4b!8m2!3d18.5876473!4d73.7800247!16s%2Fg%2F11vwncyv_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5876473,
+      "lng": 73.7800247,
+      "label": "Jeevanam Fertility & IVF Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jehangir-hospital-pune",
+    "name": "Jehangir Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, Jehangir Hospital delivers integrated care across Urologist Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@jehangirhospital.com",
+    "phone": "0206 681 8801",
+    "alternatePhone": "88888 81066",
+    "website": "http://www.jehangirhospital.com/",
+    "address": "32, Sasoon Rd, opposite Railway Station, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "opposite Railway Station, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "emergencyContact": "88888 81066",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/jehangirhospital/",
+    "twitter": "https://twitter.com/jehangirhospital",
+    "instagram": "https://www.instagram.com/jehangirhospital/?hl=en",
+    "linkedin": "https://www.linkedin.com/company/jehangir-hospital",
+    "youtube": "https://www.youtube.com/channel/UCCVRVv0oZaOakkgFRUBNN8g",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jehangir+Hospital/@18.5303207,73.8768111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c05816d29283:0xfe98c3452724e113!8m2!3d18.5303207!4d73.8768111!16s%2Fm%2F09v3j2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jehangir+Hospital/@18.5303207,73.8768111,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c05816d29283:0xfe98c3452724e113!8m2!3d18.5303207!4d73.8768111!16s%2Fm%2F09v3j2y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5303207,
+      "lng": 73.8768111,
+      "label": "Jehangir Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jehangir-oracare-dental-centre-pune",
+    "name": "Jehangir Oracare Dental Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Jehangir Oracare Dental Centre for its strength in Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "contact@jehangiroracare.com",
+    "phone": "084120 50597",
+    "alternatePhone": "+91 81490 60597",
+    "website": "https://www.jehangiroracare.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=googlemybusiness_organic",
+    "address": "Jehangir Hospital, Ground Floor, Dental Department, 32, Sasoon Rd, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sasoon Rd",
+    "landmark": "Dental Department",
+    "emergencyContact": "+91 81490 60597",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jehangir+Oracare+Dental+Centre/@18.5302599,73.876847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0581904ae15:0xa5c307781fc73fd2!8m2!3d18.5302599!4d73.876847!16s%2Fg%2F12hn91j2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jehangir+Oracare+Dental+Centre/@18.5302599,73.876847,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0581904ae15:0xa5c307781fc73fd2!8m2!3d18.5302599!4d73.876847!16s%2Fg%2F12hn91j2q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5302599,
+      "lng": 73.876847,
+      "label": "Jehangir Oracare Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jupiter-hospital-pune",
+    "name": "Jupiter Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Jupiter Hospital delivers integrated care across Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@jupiterhospital.com",
+    "phone": "0206 637 5555",
+    "alternatePhone": "+91 73147 18111",
+    "website": "https://www.jupiterhospital.com/pune",
+    "address": "Prathamesh Park, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Pune",
+    "emergencyContact": "+91 73147 18111",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/JupiterHospitalOfficial/",
+    "twitter": "https://twitter.com/JupiterLifeline",
+    "instagram": "https://www.instagram.com/jupiterhospital/",
+    "linkedin": "https://www.linkedin.com/company/jupiterhospitalofficial/",
+    "youtube": "https://www.youtube.com/c/JupiterHospitalOfficial",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jupiter+Hospital/@18.5653865,73.7860505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bed25aaaaaab:0x4bc3d74ac9a97807!8m2!3d18.5653865!4d73.7860505!16s%2Fg%2F11bwf81dg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jupiter+Hospital/@18.5653865,73.7860505,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bed25aaaaaab:0x4bc3d74ac9a97807!8m2!3d18.5653865!4d73.7860505!16s%2Fg%2F11bwf81dg6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5653865,
+      "lng": 73.7860505,
+      "label": "Jupiter Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "karishma-botox-clinic-best-botox-clinic-in-pune-botox-treatment-in-pune-fillers-lip-fillers-dermal-fillers-botox-fillers-pune",
+    "name": "Karishma Botox Clinic-Best Botox Clinic In Pune, Botox Treatment In Pune, Fillers, Lip Fillers, Dermal Fillers, Botox Fillers",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Karishma Botox Clinic-Best Botox Clinic In Pune, Botox Treatment In Pune, Fillers, Lip Fillers, Dermal Fillers, Botox Fillers is a prominent skin care clinic in Pune, known for structured tertiary care across Plastic Surgery In Pune. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "enquiry@karishmacosmeticpune.com",
+    "phone": "078149 91992",
+    "alternatePhone": "",
+    "website": "https://botoxandfillerspune.com/",
+    "address": "Ground Floor,Shop No. 6&7, Prime Arcade, 1154, Saifee St, near Videotron Library, Pune Cantonment, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Pune Cantonment",
+    "landmark": "near Videotron Library, Pune Cantonment, Pune, Maharashtra 411001",
+    "emergencyContact": "078149 91992",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/karishmacosmetic",
+    "twitter": "https://twitter.com/KarishmaCosmeti",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/karishmacosmetic/?ppe=1",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Karishma+Botox+Clinic-Best+Botox+Clinic+In+Pune,+Botox+Treatment+In+Pune,+Fillers,+Lip+Fillers,+Dermal+Fillers,+Botox+Fillers/@18.5108994,73.8786112,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c048faf4caab:0x76e669ee9f8de1cd!8m2!3d18.5108994!4d73.8786112!16s%2Fg%2F11g7z4f4n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Karishma+Botox+Clinic-Best+Botox+Clinic+In+Pune,+Botox+Treatment+In+Pune,+Fillers,+Lip+Fillers,+Dermal+Fillers,+Botox+Fillers/@18.5108994,73.8786112,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c048faf4caab:0x76e669ee9f8de1cd!8m2!3d18.5108994!4d73.8786112!16s%2Fg%2F11g7z4f4n_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5108994,
+      "lng": 73.8786112,
+      "label": "Karishma Botox Clinic-Best Botox Clinic In Pune, Botox Treatment In Pune, Fillers, Lip Fillers, Dermal Fillers, Botox Fillers",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "karishma-cosmetic-clinic-in-pune-nose-liposuction-surgery-tattoo-and-hair-removal-facelift-breast-reduction-tummy-tuck-eyelid-pune",
+    "name": "Karishma Cosmetic Clinic in Pune –Nose, Liposuction Surgery–Tattoo & Hair Removal-Facelift-Breast Reduction-Tummy Tuck-Eyelid",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Karishma Cosmetic Clinic in Pune –Nose, Liposuction Surgery–Tattoo & Hair Removal-Facelift-Breast Reduction-Tummy Tuck-Eyelid for its strength in Plastic Surgery In Pune. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "enquiry@karishmacosmeticpune.com",
+    "phone": "078149 91992",
+    "alternatePhone": "",
+    "website": "https://karishmacosmeticpune.com/",
+    "address": "Sunrise plaza, 233, MG Road, above ICICI Bank, near Kohinoor Hotel, Pune Cantonment, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Pune Cantonment",
+    "landmark": "near Kohinoor Hotel, Pune Cantonment, Pune, Maharashtra 411001",
+    "emergencyContact": "078149 91992",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/karishmacosmetic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/karishma_cosmetic/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCXVAESultx92i6THUVQCrNA",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Karishma+Cosmetic+Clinic+in+Pune+%E2%80%93Nose,+Liposuction+Surgery%E2%80%93Tattoo+%26+Hair+Removal-Facelift-Breast+Reduction-Tummy+Tuck-Eyelid/@18.5109854,73.8786428,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0485d473057:0x551af25ddf9e7242!8m2!3d18.5109854!4d73.8786428!16s%2Fg%2F11hbfk_lwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Karishma+Cosmetic+Clinic+in+Pune+%E2%80%93Nose,+Liposuction+Surgery%E2%80%93Tattoo+%26+Hair+Removal-Facelift-Breast+Reduction-Tummy+Tuck-Eyelid/@18.5109854,73.8786428,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0485d473057:0x551af25ddf9e7242!8m2!3d18.5109854!4d73.8786428!16s%2Fg%2F11hbfk_lwk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5109854,
+      "lng": 73.8786428,
+      "label": "Karishma Cosmetic Clinic in Pune –Nose, Liposuction Surgery–Tattoo & Hair Removal-Facelift-Breast Reduction-Tummy Tuck-Eyelid",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kedarnath-general-hospital-pune",
+    "name": "Kedarnath General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Kedarnath General Hospital for its strength in General Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "kedarnathhospital08@gmail.com",
+    "phone": "098239 14228",
+    "alternatePhone": "98230 94228",
+    "website": "https://kedarnathhospital.co.in/",
+    "address": "Kedarnath General Hospital (Vishrantwadi), Tirupati Complex, Opp. Mahalaxmi Vihar, Pune- Alandi Road, Vishrantwadi, Pune-411015. Phone:, 20A, St Dnyaneshwar Rd, near Corporation Bank, Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411015",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411015",
+    "locality": "Vishrantwadi",
+    "landmark": "near Corporation Bank, Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411015",
+    "emergencyContact": "98230 94228",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Kedarnath-Hospital/61556224209371/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/kedarnathhospital241/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kedarnath+General+Hospital/@18.5722343,73.8786954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0d2203a6dc5:0xb49257932b59e908!8m2!3d18.5722343!4d73.8786954!16s%2Fg%2F1pp2tyg73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kedarnath+General+Hospital/@18.5722343,73.8786954,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0d2203a6dc5:0xb49257932b59e908!8m2!3d18.5722343!4d73.8786954!16s%2Fg%2F1pp2tyg73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5722343,
+      "lng": 73.8786954,
+      "label": "Kedarnath General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kem-hospital-pune",
+    "name": "KEM Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, KEM Hospital delivers integrated care across Kidney Transplant Surgery In Pune. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@kemhospital.org",
+    "phone": "0206 603 7300",
+    "alternatePhone": "+91 94210 18970",
+    "website": "https://kemhospitalpune.org/",
+    "address": "489, Mudaliar Rd, Rasta Peth, Pune, Maharashtra 411011",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411011",
+    "locality": "Rasta Peth",
+    "landmark": "Rasta Peth",
+    "emergencyContact": "+91 94210 18970",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/KEM-Hospital-Pune-108987074208293/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/kemhospitalpune/",
+    "linkedin": "https://in.linkedin.com/company/kemhospitalpune",
+    "youtube": "https://www.youtube.com/channel/UCmZDwAJBfKt_6l_65C9cd4Q",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KEM+Hospital/@18.5199723,73.8669765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c067a2fd93e1:0x1d019a52420f9b1b!8m2!3d18.5199723!4d73.8669765!16s%2Fg%2F11g7ny2wz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KEM+Hospital/@18.5199723,73.8669765,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c067a2fd93e1:0x1d019a52420f9b1b!8m2!3d18.5199723!4d73.8669765!16s%2Fg%2F11g7ny2wz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5199723,
+      "lng": 73.8669765,
+      "label": "KEM Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krushna-orthodontic-and-dental-clinic-sinhagad-road-pune-pune",
+    "name": "Krushna Orthodontic and Dental Clinic Sinhagad Road Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Krushna Orthodontic and Dental Clinic Sinhagad Road Pune delivers integrated care across Oral Surgery In Pune and Orthopaedics. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098906 29988",
+    "alternatePhone": "",
+    "website": "https://krushnaorthodontics.com/",
+    "address": "Flat no.102, Godavari Apts, Sinhgad Rd, Shivaprasad Housing Society, Dattawadi, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Dattawadi",
+    "landmark": "Sinhgad Rd",
+    "emergencyContact": "098906 29988",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Krushnaorthodonticanddentalclinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/braces.invisalign.specialist/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCb2I64ha-CeapST3Jnl4cAQ?sub_confirmation=1",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Krushna+Orthodontic+and+Dental+Clinic+Sinhagad+Road+Pune/@18.5005621,73.8418226,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf340f123549:0x72f7981bd1c8d904!8m2!3d18.5005621!4d73.8418226!16s%2Fg%2F11gh9mjg3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krushna+Orthodontic+and+Dental+Clinic+Sinhagad+Road+Pune/@18.5005621,73.8418226,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf340f123549:0x72f7981bd1c8d904!8m2!3d18.5005621!4d73.8418226!16s%2Fg%2F11gh9mjg3c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5005621,
+      "lng": 73.8418226,
+      "label": "Krushna Orthodontic and Dental Clinic Sinhagad Road Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kush-neuro-cardiac-hospital-wakad-near-hinjewadi-flyover-aundh-wakad-road-wakad",
+    "name": "Kush Neuro Cardiac Hospital Wakad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kush Neuro Cardiac Hospital Wakad has built a strong reputation in Near Hinjewadi Flyover Aundh wakad Road Wakad for multidisciplinary treatment pathways covering Neurosurgeon In Pune, Cardiac Care, and Neurosciences. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://knch.hospital/",
+    "address": "kush Neuro cardiac hospital chandan colozium, Above Reliance Digital ,, Near Hinjewadi Flyover Aundh wakad Road Wakad, Maharashtra 411057",
+    "city": "Near Hinjewadi Flyover Aundh wakad Road Wakad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Above Reliance Digital",
+    "landmark": "Near Hinjewadi Flyover Aundh wakad Road Wakad, Maharashtra 411057",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Pune",
+      "Cardiac Care",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kush+Neuro+Cardiac+Hospital+Wakad/@18.5909239,73.7663945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96f1f419299:0x939e15dc62c96923!8m2!3d18.5909239!4d73.7663945!16s%2Fg%2F11hb8fnn3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kush+Neuro+Cardiac+Hospital+Wakad/@18.5909239,73.7663945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96f1f419299:0x939e15dc62c96923!8m2!3d18.5909239!4d73.7663945!16s%2Fg%2F11hb8fnn3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5909239,
+      "lng": 73.7663945,
+      "label": "Kush Neuro Cardiac Hospital Wakad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifeberries-health-pune",
+    "name": "Lifeberries Health",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Lifeberries Health delivers integrated care across Oral Surgery In Pune. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090281 51133",
+    "alternatePhone": "91723 90600",
+    "website": "https://lifeberrieshealth.in/",
+    "address": "4th Floor, 403, Town Square, Airport Rd, above Dorabjee’s VIP, behind Viman Nagar Road, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "Town Square",
+    "emergencyContact": "91723 90600",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RankMath/",
+    "twitter": "https://twitter.com/twitter:creator",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lifeberries+Health/@18.5685646,73.9071484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c139fd2ac229:0xc62497de584f7dfd!8m2!3d18.5685646!4d73.9071484!16s%2Fg%2F11cmdk79h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lifeberries+Health/@18.5685646,73.9071484,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c139fd2ac229:0xc62497de584f7dfd!8m2!3d18.5685646!4d73.9071484!16s%2Fg%2F11cmdk79h0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5685646,
+      "lng": 73.9071484,
+      "label": "Lifeberries Health",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lokmanya-hospital-nigdi-pune",
+    "name": "Lokmanya hospital Nigdi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Lokmanya hospital Nigdi brings together specialists for Spine Surgery In Pune. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "care@lokmanyahospitals.com",
+    "phone": "098811 42101",
+    "alternatePhone": "93070 76767",
+    "website": "https://lokmanyahospitals.com/",
+    "address": "Sector 27, Tilak Rd, Sector No. 24, Pradhikaran, Nigdi, Pune, Pimpri-Chinchwad, Maharashtra 411044",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411044",
+    "locality": "Nigdi",
+    "landmark": "Sector No. 24",
+    "emergencyContact": "93070 76767",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/lokmanyahospitals",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/lokmanya_hospitals/",
+    "linkedin": "https://www.linkedin.com/company/lokmanyahospitals/",
+    "youtube": "https://www.youtube.com/@LokmanyaHospitalsPune/",
+    "specialties": [
+      "Spine Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lokmanya+hospital+Nigdi/@18.6559512,73.7733794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b950fd6ed5a3:0x3fe995feaccbfbee!8m2!3d18.6559512!4d73.7733794!16s%2Fg%2F1hf4m3jby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lokmanya+hospital+Nigdi/@18.6559512,73.7733794,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b950fd6ed5a3:0x3fe995feaccbfbee!8m2!3d18.6559512!4d73.7733794!16s%2Fg%2F1hf4m3jby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6559512,
+      "lng": 73.7733794,
+      "label": "Lokmanya hospital Nigdi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lotus-speciality-hospital-pune",
+    "name": "Lotus Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus Speciality Hospital has built a strong reputation in Pune for multidisciplinary treatment pathways covering Gynecologist Surgery In Pune and Speciality Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@lotushospitalwagholi.com",
+    "phone": "+91 81492 15588",
+    "alternatePhone": "+91 77588 85333",
+    "website": "https://lotushospitalwagholi.com/",
+    "address": "Paygude Hight, 1st Floor., Baif Rd, Above canara bank, Opposite moze college, Wagholi, Pune, Maharashtra 412207",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412207",
+    "locality": "Wagholi",
+    "landmark": "Opposite moze college, Wagholi, Pune, Maharashtra 412207",
+    "emergencyContact": "+91 81492 15588",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lotus+Speciality+Hospital/@18.5788156,73.9792104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3821bf67475:0xf2ffc9a6fefd832c!8m2!3d18.5788156!4d73.9792104!16s%2Fg%2F11bbrlldyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lotus+Speciality+Hospital/@18.5788156,73.9792104,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3821bf67475:0xf2ffc9a6fefd832c!8m2!3d18.5788156!4d73.9792104!16s%2Fg%2F11bbrlldyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5788156,
+      "lng": 73.9792104,
+      "label": "Lotus Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "m-o-c-cancer-care-and-research-centre-moc-swargate-pune",
+    "name": "M | O | C Cancer Care & Research Centre (MOC Swargate)",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "M | O | C Cancer Care & Research Centre (MOC Swargate) has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cancer Surgery In Pune and Cancer Treatment Center. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "reception.swargate@mocindia.co.in",
+    "phone": "077100 59074",
+    "alternatePhone": "+91 84548 52508",
+    "website": "https://www.mocindia.co.in/our-centers/Swargate",
+    "address": "2nd Floor, Gaurihar, Saras Baug Rd, opp. Sanas Playground, above Apollo Spectra Hospital, Vijayanagar Colony, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Saras Baug Rd",
+    "emergencyContact": "+91 84548 52508",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/mumbaioncocareindia/",
+    "twitter": "https://x.com/IndiaOncocare",
+    "instagram": "https://www.instagram.com/moccancercare/",
+    "linkedin": "https://www.linkedin.com/company/mumbai-oncocare-center/",
+    "youtube": "https://www.youtube.com/c/mocindia",
+    "specialties": [
+      "Cancer Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/M+%7C+O+%7C+C+Cancer+Care+%26+Research+Centre+(MOC+Swargate)/@18.502895,73.852115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10d36a2a743:0x543ddffae0667eb2!8m2!3d18.502895!4d73.852115!16s%2Fg%2F11lnvl9_np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/M+%7C+O+%7C+C+Cancer+Care+%26+Research+Centre+(MOC+Swargate)/@18.502895,73.852115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10d36a2a743:0x543ddffae0667eb2!8m2!3d18.502895!4d73.852115!16s%2Fg%2F11lnvl9_np?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.502895,
+      "lng": 73.852115,
+      "label": "M | O | C Cancer Care & Research Centre (MOC Swargate)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-ayurvedic-cardiac-care-clinic-and-panchakarma-center-sinhgad-road-pune-pune",
+    "name": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune) for its strength in Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@madhavbaug.org",
+    "phone": "093735 34353",
+    "alternatePhone": "+91 70218 07650",
+    "website": "https://madhavbaug.org/clinic/sinhgad-road-pune/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=sinhgad-road-pune",
+    "address": "Flat No. 3, 1st Floor, Aaditya co-op Housing Society Anand nagar chowk, Sinhgad Rd, near Santosh Hall, Pune, Maharashtra 411051",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411051",
+    "locality": "near Santosh Hall",
+    "landmark": "near Santosh Hall, Pune, Maharashtra 411051",
+    "emergencyContact": "+91 70218 07650",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/madhavbaug.heartcare/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/dr-rohit-sane-b15b0217/",
+    "youtube": "https://www.youtube.com/madhavbaug",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Sinhgad+Road,+Pune)/@18.4779696,73.8240274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2955ed506240f:0x86abd3493691f286!8m2!3d18.4779696!4d73.8240274!16s%2Fg%2F11c1s29ryt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+%E2%80%93+Ayurvedic+Cardiac+Care+Clinic+%26+Panchakarma+Center+(Sinhgad+Road,+Pune)/@18.4779696,73.8240274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2955ed506240f:0x86abd3493691f286!8m2!3d18.4779696!4d73.8240274!16s%2Fg%2F11c1s29ryt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4779696,
+      "lng": 73.8240274,
+      "label": "Madhavbaug – Ayurvedic Cardiac Care Clinic & Panchakarma Center (Sinhgad Road, Pune)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manipal-hospital-kharadi-pune-pune",
+    "name": "Manipal Hospital, Kharadi - Pune",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Pune, Manipal Hospital, Kharadi - Pune delivers integrated care across Kidney Transplant Surgery In Pune. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@manipalhospitals.com",
+    "phone": "0206 165 6666",
+    "alternatePhone": "+91 73000 02175",
+    "website": "https://www.manipalhospitals.com/kharadi/",
+    "address": "22/2A, Mundhwa - Kharadi Rd, near Nyati Empire, Santipur, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "near Nyati Empire, Santipur, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "emergencyContact": "+91 73000 02175",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ManipalHospitalsIndia",
+    "twitter": "https://x.com/ManipalHealth",
+    "instagram": "https://www.instagram.com/manipalhospitals/",
+    "linkedin": "https://in.linkedin.com/company/manipal-hospitals",
+    "youtube": "https://www.youtube.com/user/manipalhospitals",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manipal+Hospital,+Kharadi+-+Pune/@18.5410783,73.935716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17e1f71097f:0xb8128b27d5b8e139!8m2!3d18.5410783!4d73.935716!16s%2Fg%2F11xbgjn8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manipal+Hospital,+Kharadi+-+Pune/@18.5410783,73.935716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17e1f71097f:0xb8128b27d5b8e139!8m2!3d18.5410783!4d73.935716!16s%2Fg%2F11xbgjn8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5410783,
+      "lng": 73.935716,
+      "label": "Manipal Hospital, Kharadi - Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mankars-dental-clinic-and-implant-centre-pune",
+    "name": "Mankars Dental Clinic & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Mankars Dental Clinic & Implant Centre brings together specialists for Oral Surgery In Pune. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097673 41234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Atlantis city, 107-108, Porwal Rd, Kand Nagar, Kutwal Colony, Lohegaon, Pune, Maharashtra 411047",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411047",
+    "locality": "Lohegaon",
+    "landmark": "Porwal Rd",
+    "emergencyContact": "097673 41234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Mankars+Dental+Clinic+%26+Implant+Centre/@18.6038514,73.9096743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c6ea8b3a1b89:0xc1e6cf068e14baad!8m2!3d18.6038514!4d73.9096743!16s%2Fg%2F11c30s2pc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mankars+Dental+Clinic+%26+Implant+Centre/@18.6038514,73.9096743,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c6ea8b3a1b89:0xc1e6cf068e14baad!8m2!3d18.6038514!4d73.9096743!16s%2Fg%2F11c30s2pc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6038514,
+      "lng": 73.9096743,
+      "label": "Mankars Dental Clinic & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maxillodent-dental-pune",
+    "name": "Maxillodent dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Maxillodent dental offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083292 42606",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C/o Captain K. K Pathan, lane number 4, near sundervilla apartment, Bhagyoday Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411048",
+    "locality": "Kondhwa",
+    "landmark": "near sundervilla apartment, Bhagyoday Nagar, Kondhwa, Pune, Maharashtra 411048",
+    "emergencyContact": "083292 42606",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maxillodent+dental/@18.4711639,73.886828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebf659ab5cf5:0x28d9c0c56886e3ab!8m2!3d18.4711639!4d73.886828!16s%2Fg%2F11fb0w6cwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maxillodent+dental/@18.4711639,73.886828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebf659ab5cf5:0x28d9c0c56886e3ab!8m2!3d18.4711639!4d73.886828!16s%2Fg%2F11fb0w6cwq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4711639,
+      "lng": 73.886828,
+      "label": "Maxillodent dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maxillofacial-and-orthodontic-center-pune",
+    "name": "Maxillofacial and Orthodontic Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Maxillofacial and Orthodontic Center offers coordinated hospital care with major focus on Oral Surgery In Pune, Orthopaedics, and Maxillofacial Surgery. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "maxfaxsudhirpawar@gmail.com",
+    "phone": "097660 00500",
+    "alternatePhone": "+91 98602 84486",
+    "website": "http://maxillofacialandorthodonticcenter.com/?utm_source=gmb&utm_medium=referral",
+    "address": "Shop No 125 and 126 First Floor, Kakade Plaza, opp. to Kakade City, near Warje Naka Road, Warje Jakat Naka, Karvenagar, Pune, Maharashtra 411052",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411052",
+    "locality": "Karvenagar",
+    "landmark": "near Warje Naka Road, Warje Jakat Naka, Karvenagar, Pune, Maharashtra 411052",
+    "emergencyContact": "+91 98602 84486",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Maxillofacial+and+Orthodontic+Center/@18.4869484,73.8128464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2efa8a5b87:0xa3d22f897293145c!8m2!3d18.4869484!4d73.8128464!16s%2Fg%2F12mq2trfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maxillofacial+and+Orthodontic+Center/@18.4869484,73.8128464,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2efa8a5b87:0xa3d22f897293145c!8m2!3d18.4869484!4d73.8128464!16s%2Fg%2F12mq2trfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4869484,
+      "lng": 73.8128464,
+      "label": "Maxillofacial and Orthodontic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-pune-pune",
+    "name": "Medicover Hospitals - Best Hospital in Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Medicover Hospitals - Best Hospital in Pune for its strength in General Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@medicoverhospitals.in",
+    "phone": "0406 833 4455",
+    "alternatePhone": "+91 70754 93806",
+    "website": "https://www.medicoverhospitals.in/hospitals/maharashtra/pune/?utm_source=google&utm_medium=organic&utm_campaign=gmb-pune",
+    "address": "Indrayani Nagar Rd, Sector No. 1, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411026",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411026",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "Bhosari",
+    "emergencyContact": "+91 70754 93806",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MedicoverHospitals/",
+    "twitter": "https://x.com/medicoverin/",
+    "instagram": "https://www.instagram.com/medicoverhospitals/",
+    "linkedin": "https://www.linkedin.com/company/medicoverhospitals/",
+    "youtube": "https://www.youtube.com/channel/UCmGEBYC8PHToDss_qFaZPUA",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Pune/@18.6343975,73.84615,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c77ea1a42add:0x65c4605bfdcd872!8m2!3d18.6343975!4d73.84615!16s%2Fg%2F11t99q8xjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Pune/@18.6343975,73.84615,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c77ea1a42add:0x65c4605bfdcd872!8m2!3d18.6343975!4d73.84615!16s%2Fg%2F11t99q8xjp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6343975,
+      "lng": 73.84615,
+      "label": "Medicover Hospitals - Best Hospital in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meraaki-dental-clinics-near-nibm-road-pune-pune",
+    "name": "Meraaki Dental Clinics Near NIBM Road, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Meraaki Dental Clinics Near NIBM Road, Pune offers coordinated hospital care with major focus on Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095035 37340",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 3, B -6 Maurya Apartment NIBM Road, near, Salunke Vihar Rd, opp. Sunshree - E Society, Pune, Maharashtra 411048",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411048",
+    "locality": "opp. Sunshree - E Society",
+    "landmark": "near",
+    "emergencyContact": "095035 37340",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Meraaki+Dental+Clinics+Near+NIBM+Road,+Pune/@18.4774292,73.9044678,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb67c3a959d9:0x4283d9f8bcb096ce!8m2!3d18.4774292!4d73.9044678!16s%2Fg%2F11f657vvl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meraaki+Dental+Clinics+Near+NIBM+Road,+Pune/@18.4774292,73.9044678,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb67c3a959d9:0x4283d9f8bcb096ce!8m2!3d18.4774292!4d73.9044678!16s%2Fg%2F11f657vvl9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4774292,
+      "lng": 73.9044678,
+      "label": "Meraaki Dental Clinics Near NIBM Road, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miracle-health-care-zone-best-skin-and-hair-laser-clinic-treatment-in-pune-pune",
+    "name": "Miracle Health Care Zone | Best Skin & Hair Laser Clinic Treatment in Pune",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Pune, Miracle Health Care Zone | Best Skin & Hair Laser Clinic Treatment in Pune delivers integrated care across Cosmetic Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "miraclehealthcarezone@gmail.com",
+    "phone": "085303 49888",
+    "alternatePhone": "85303 44848",
+    "website": "http://skinhairclinicpune.com/",
+    "address": "Office 1A, A wing, first floor, Siddhesh Optimus, Lane no 15, Konark Nagar 1, Konark Nagar, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "first floor",
+    "emergencyContact": "85303 44848",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100063930583649",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/miraclehealthcarezonepune/?hl=en",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miracle+Health+Care+Zone+%7C+Best+Skin+%26+Hair+Laser+Clinic+Treatment+in+Pune/@18.569027,73.910986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17a333dcd51:0xad709f86657cd222!8m2!3d18.569027!4d73.910986!16s%2Fg%2F11t6wrk_cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miracle+Health+Care+Zone+%7C+Best+Skin+%26+Hair+Laser+Clinic+Treatment+in+Pune/@18.569027,73.910986,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17a333dcd51:0xad709f86657cd222!8m2!3d18.569027!4d73.910986!16s%2Fg%2F11t6wrk_cx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.569027,
+      "lng": 73.910986,
+      "label": "Miracle Health Care Zone | Best Skin & Hair Laser Clinic Treatment in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mitosis-hospital-pimpri-chinchwad",
+    "name": "Mitosis Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pimpri-Chinchwad, Mitosis Hospital delivers integrated care across Gynecologist Surgery In Pune. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@mitosishospital.in",
+    "phone": "095037 34459",
+    "alternatePhone": "+91 91750 50059",
+    "website": "https://mitosishospital.in/",
+    "address": "3rd floor, VAASTU VIVA, Bhumkar Das Gugre Rd, near Cafe Coffee Day, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "near Cafe Coffee Day, Shankar Kalat Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "emergencyContact": "+91 91750 50059",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mitosis+Hospital/@18.6043787,73.7529716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90e031b6389:0x3ba52a2e239d616d!8m2!3d18.6043787!4d73.7529716!16s%2Fg%2F11k55bqwp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mitosis+Hospital/@18.6043787,73.7529716,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b90e031b6389:0x3ba52a2e239d616d!8m2!3d18.6043787!4d73.7529716!16s%2Fg%2F11k55bqwp6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6043787,
+      "lng": 73.7529716,
+      "label": "Mitosis Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mmf-ratna-memorial-hospital-pune",
+    "name": "MMF Ratna Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, MMF Ratna Memorial Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Pune. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "ratna@mmfhospitals.in",
+    "phone": "0206 509 7777",
+    "alternatePhone": "+91 96070 80201",
+    "website": "https://ratnahospital.in/",
+    "address": "968, Senapati Bapat Rd, Shivaji Co operative Housing Society, Rajasthan Society, Gokhalenagar, Pune, Maharashtra 411016",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411016",
+    "locality": "Gokhalenagar",
+    "landmark": "Shivaji Co operative Housing Society",
+    "emergencyContact": "+91 96070 80201",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ratnamemorialhospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/ratnahospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@MMFHAJHANDRMH",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MMF+Ratna+Memorial+Hospital/@18.5276694,73.8295571,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf77fce67481:0xececcc30848966ca!8m2!3d18.5276694!4d73.8295571!16s%2Fg%2F1tf7k_r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MMF+Ratna+Memorial+Hospital/@18.5276694,73.8295571,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf77fce67481:0xececcc30848966ca!8m2!3d18.5276694!4d73.8295571!16s%2Fg%2F1tf7k_r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5276694,
+      "lng": 73.8295571,
+      "label": "MMF Ratna Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "n-m-wadia-heart-hospital-pune",
+    "name": "N. M. Wadia Heart Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, N. M. Wadia Heart Hospital brings together specialists for Heart Surgery In Pune and Cardiac Care. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@nmwcardiology.org",
+    "phone": "0206 763 6400",
+    "alternatePhone": "+91 206 763 6400",
+    "website": "https://www.nmwcardiology.org/?utm_source=google&utm_medium=gmb",
+    "address": "32, Sasoon Rd, Central Excise Colony, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "Central Excise Colony",
+    "emergencyContact": "+91 206 763 6400",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NMWIC.HEARTHOSPITAL",
+    "twitter": "https://twitter.com/NMWICHEARTHOSP",
+    "instagram": "https://www.instagram.com/nmwadia_hearthospital/",
+    "linkedin": "https://www.linkedin.com/in/n-m-wadia-heart-hospital-699a14191/",
+    "youtube": "https://www.youtube.com/@nmwadiahearthospitalpune",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/N.+M.+Wadia+Heart+Hospital/@18.5307479,73.8770237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c06d49955325:0xa23459b5723dc0a7!8m2!3d18.5307479!4d73.8770237!16s%2Fg%2F1v2kvx68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/N.+M.+Wadia+Heart+Hospital/@18.5307479,73.8770237,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c06d49955325:0xa23459b5723dc0a7!8m2!3d18.5307479!4d73.8770237!16s%2Fg%2F1v2kvx68?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5307479,
+      "lng": 73.8770237,
+      "label": "N. M. Wadia Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nakshatra-dental-clinic-oral-surgery-and-implant-center-pune",
+    "name": "Nakshatra Dental Clinic. Oral Surgery & Implant Center.",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Nakshatra Dental Clinic. Oral Surgery & Implant Center. for its strength in Oral Surgery In Pune. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091589 92213",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No.1, Row House, Elite Elegance, Rajyog Society, Veerbhadra Nagar, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "Elite Elegance",
+    "emergencyContact": "091589 92213",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nakshatra+Dental+Clinic.+Oral+Surgery+%26+Implant+Center./@18.5639826,73.7724921,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfe1576de0e7:0xc31e0f69e2d4fddd!8m2!3d18.5639826!4d73.7724921!16s%2Fg%2F11spd5wqpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nakshatra+Dental+Clinic.+Oral+Surgery+%26+Implant+Center./@18.5639826,73.7724921,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfe1576de0e7:0xc31e0f69e2d4fddd!8m2!3d18.5639826!4d73.7724921!16s%2Fg%2F11spd5wqpw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5639826,
+      "lng": 73.7724921,
+      "label": "Nakshatra Dental Clinic. Oral Surgery & Implant Center.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nakshatra-ivf-and-fertility-clinic-pune",
+    "name": "Nakshatra Ivf & Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Nakshatra Ivf & Fertility Clinic for its strength in IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "nakshtraclinic@gmail.com",
+    "phone": "070586 58711",
+    "alternatePhone": "",
+    "website": "https://www.nakshatraclinic.com/",
+    "address": "Office 101, Chaitanya High Point building, S/N -2/4, Dasara Chowk, Balewadi Gaon, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "S/N -2/4",
+    "emergencyContact": "070586 58711",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NakshatraClinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/nakshatra.clinic",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@nakshatraivfandintimacycli5653",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nakshatra+Ivf+%26+Fertility+Clinic/@18.5739467,73.7756064,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b94ae67c6b6b:0x8eca33edd6de52e2!8m2!3d18.5739467!4d73.7756064!16s%2Fg%2F11nx1ynsby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nakshatra+Ivf+%26+Fertility+Clinic/@18.5739467,73.7756064,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b94ae67c6b6b:0x8eca33edd6de52e2!8m2!3d18.5739467!4d73.7756064!16s%2Fg%2F11nx1ynsby?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5739467,
+      "lng": 73.7756064,
+      "label": "Nakshatra Ivf & Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephroplus-dialysis-clinic-in-erandwane-pune-pune",
+    "name": "NephroPlus Dialysis Clinic in Erandwane, Pune",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dialysis center in Pune, NephroPlus Dialysis Clinic in Erandwane, Pune delivers integrated care across Kidney Transplant Surgery In Pune and Dialysis Center. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096186 91133",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "32/2 A, Ace Hospital, Gulawani Maharaj Road, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "Gulawani Maharaj Road",
+    "emergencyContact": "096186 91133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Erandwane,+Pune/@18.5049076,73.8304005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed6722f8b9:0x8971d606c1724991!8m2!3d18.5049076!4d73.8304005!16s%2Fg%2F11b807rlyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NephroPlus+Dialysis+Clinic+in+Erandwane,+Pune/@18.5049076,73.8304005,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed6722f8b9:0x8971d606c1724991!8m2!3d18.5049076!4d73.8304005!16s%2Fg%2F11b807rlyl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5049076,
+      "lng": 73.8304005,
+      "label": "NephroPlus Dialysis Clinic in Erandwane, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-roots-skin-laser-and-hair-transplant-clinic-pune",
+    "name": "New Roots: Skin, Laser & Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose New Roots: Skin, Laser & Hair Transplant Clinic for its strength in Cosmetic Surgery In Pune. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@newrootshairclinic.com",
+    "phone": "093078 53847",
+    "alternatePhone": "+91 95798 55236",
+    "website": "https://newrootsskinhairlaser.com/hair-care/best-hair-transplant-clinic-pune/",
+    "address": "1st Floor, Jangali Maharaj Rd, opp. sai service petrol pump, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "opp. sai service petrol pump",
+    "emergencyContact": "+91 95798 55236",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/newrootshairtransplant/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/newrootshairclinic/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCPOd3N87tjoLaug5IJqN_Jg",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/New+Roots:+Skin,+Laser+%26+Hair+Transplant+Clinic/@18.5189511,73.8446884,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c145a68487d5:0x5c55ced6fb535a92!8m2!3d18.5189511!4d73.8446884!16s%2Fg%2F11w2b7ll1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Roots:+Skin,+Laser+%26+Hair+Transplant+Clinic/@18.5189511,73.8446884,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c145a68487d5:0x5c55ced6fb535a92!8m2!3d18.5189511!4d73.8446884!16s%2Fg%2F11w2b7ll1h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5189511,
+      "lng": 73.8446884,
+      "label": "New Roots: Skin, Laser & Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirmiti-clinic-best-ivf-centre-in-pcmc-pune-best-male-female-fertility-test-tube-baby-centre-in-pcmc-pimpri-chinchwad",
+    "name": "Nirmiti Clinic | Best IVF Centre in PCMC,PUNE | Best Male/Female Fertility,Test Tube Baby Centre in PCMC",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pimpri-Chinchwad, Nirmiti Clinic | Best IVF Centre in PCMC,PUNE | Best Male/Female Fertility,Test Tube Baby Centre in PCMC delivers integrated care across IVF In Pune and Fertility Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "drkingale@yahoo.com",
+    "phone": "080480 34066",
+    "alternatePhone": "+91 93708 38301",
+    "website": "https://www.nirmiticlinicpune.com/",
+    "address": "Nirmiti Clinic,Q224-226,2nd Floor,Mayur Trade Centre, Chinchwad Station Rd, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "locality": "Chinchwad",
+    "landmark": "2nd Floor",
+    "emergencyContact": "+91 93708 38301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nirmiti+Clinic+%7C+Best+IVF+Centre+in+PCMC,PUNE+%7C+Best+Male%2FFemale+Fertility,Test+Tube+Baby+Centre+in+PCMC/@18.6393392,73.7941051,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b983bac0ab91:0xc0f3acf9bcebf7e2!8m2!3d18.6393392!4d73.7941051!16s%2Fg%2F11h8brsyjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirmiti+Clinic+%7C+Best+IVF+Centre+in+PCMC,PUNE+%7C+Best+Male%2FFemale+Fertility,Test+Tube+Baby+Centre+in+PCMC/@18.6393392,73.7941051,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b983bac0ab91:0xc0f3acf9bcebf7e2!8m2!3d18.6393392!4d73.7941051!16s%2Fg%2F11h8brsyjc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6393392,
+      "lng": 73.7941051,
+      "label": "Nirmiti Clinic | Best IVF Centre in PCMC,PUNE | Best Male/Female Fertility,Test Tube Baby Centre in PCMC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "noble-hospitals-and-research-centre-pune",
+    "name": "Noble Hospitals & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Noble Hospitals & Research Centre brings together specialists for Kidney Transplant Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080070 06611",
+    "alternatePhone": "",
+    "website": "https://www.noblehrc.com/",
+    "address": "153, Magarpatta Rd, Magarpatta, Hadapsar, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Hadapsar",
+    "landmark": "Magarpatta",
+    "emergencyContact": "080070 06611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Noble+Hospitals+%26+Research+Centre/@18.5047239,73.9270192,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f10783d64d:0x4f4955b8fd4ba112!8m2!3d18.5047239!4d73.9270192!16s%2Fg%2F1ttyv5p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Noble+Hospitals+%26+Research+Centre/@18.5047239,73.9270192,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f10783d64d:0x4f4955b8fd4ba112!8m2!3d18.5047239!4d73.9270192!16s%2Fg%2F1ttyv5p1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5047239,
+      "lng": 73.9270192,
+      "label": "Noble Hospitals & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-centre-in-baner-pune-pune",
+    "name": "Nova IVF Fertility Center - Best IVF Centre in Baner, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Nova IVF Fertility Center - Best IVF Centre in Baner, Pune brings together specialists for IVF In Pune and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 74663",
+    "alternatePhone": "080493 88781",
+    "website": "https://www.novaivffertility.com/ivf-centre/pune/fertility-clinic-baner?utm_source=GMB&utm_medium=organic",
+    "address": "4th Floor, Avenue Imperia, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "Baner",
+    "emergencyContact": "080493 88781",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Baner,+Pune/@18.5659346,73.7721974,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf621d9e6977:0xb3d79fcfffcd74db!8m2!3d18.5659346!4d73.7721974!16s%2Fg%2F11jn5ml7vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Baner,+Pune/@18.5659346,73.7721974,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf621d9e6977:0xb3d79fcfffcd74db!8m2!3d18.5659346!4d73.7721974!16s%2Fg%2F11jn5ml7vt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5659346,
+      "lng": 73.7721974,
+      "label": "Nova IVF Fertility Center - Best IVF Centre in Baner, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-centre-in-kharadi-pune-pune",
+    "name": "Nova IVF Fertility Center - Best IVF Centre in Kharadi, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova IVF Fertility Center - Best IVF Centre in Kharadi, Pune is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 77086",
+    "alternatePhone": "080493 88781",
+    "website": "https://www.novaivffertility.com/ivf-centre/pune/fertility-clinic-kharadi?utm_source=GMB&utm_medium=organic",
+    "address": "S.No. 12, Nova IVF Fertility, 1/1, 1/2 C, Valkan Society, Kranti Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "1/1",
+    "emergencyContact": "080493 88781",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Kharadi,+Pune/@18.5470108,73.9365041,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0748b962019:0x3cdb9005ecdd7c58!8m2!3d18.5470108!4d73.9365041!16s%2Fg%2F11bw2jw9l0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Kharadi,+Pune/@18.5470108,73.9365041,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0748b962019:0x3cdb9005ecdd7c58!8m2!3d18.5470108!4d73.9365041!16s%2Fg%2F11bw2jw9l0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5470108,
+      "lng": 73.9365041,
+      "label": "Nova IVF Fertility Center - Best IVF Centre in Kharadi, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-centre-best-ivf-centre-in-lulla-nagar-pune-pune",
+    "name": "Nova IVF Fertility Centre - Best IVF Centre in Lulla Nagar, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Nova IVF Fertility Centre - Best IVF Centre in Lulla Nagar, Pune delivers integrated care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 74662",
+    "alternatePhone": "080493 88781",
+    "website": "https://www.novaivffertility.com/ivf-centre/pune/fertility-clinic-lulla-nagar?utm_source=GMB&utm_medium=organic",
+    "address": "2nd floor, Nova IVF Fertility, Gandhi Empire, Kondhwa Rd, next to Vespa showroom Dorvadi, near by Little Italy Restaurant, Dhorvadi, Camp, Pune, Maharashtra 411040",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411040",
+    "locality": "Camp",
+    "landmark": "near by Little Italy Restaurant, Dhorvadi, Camp, Pune, Maharashtra 411040",
+    "emergencyContact": "080493 88781",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Centre+in+Lulla+Nagar,+Pune/@18.4893226,73.8870548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1ca8aa55deb:0x996ccc0944a9a64!8m2!3d18.4893226!4d73.8870548!16s%2Fg%2F11kj81znyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Centre+in+Lulla+Nagar,+Pune/@18.4893226,73.8870548,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1ca8aa55deb:0x996ccc0944a9a64!8m2!3d18.4893226!4d73.8870548!16s%2Fg%2F11kj81znyt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4893226,
+      "lng": 73.8870548,
+      "label": "Nova IVF Fertility Centre - Best IVF Centre in Lulla Nagar, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "novo-life-cancer-clinic-pune",
+    "name": "Novo life cancer clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Novo life cancer clinic offers coordinated hospital care with major focus on Oncologist Surgery In Pune. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "076204 07925",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Shubha Apartment, Gulwani, Sane Guruji Rd, Kothrud, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Kothrud",
+    "landmark": "Gulwani",
+    "emergencyContact": "076204 07925",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Novo+life+cancer+clinic/@18.5050454,73.832228,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8d31b6bfad:0xcf0b204bb7d40a95!8m2!3d18.5050454!4d73.832228!16s%2Fg%2F11f3zg9snb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Novo+life+cancer+clinic/@18.5050454,73.832228,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8d31b6bfad:0xcf0b204bb7d40a95!8m2!3d18.5050454!4d73.832228!16s%2Fg%2F11f3zg9snb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5050454,
+      "lng": 73.832228,
+      "label": "Novo life cancer clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nucleus-ivf-wakad",
+    "name": "Nucleus IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nucleus IVF is a prominent fertility clinic in Wakad, known for structured tertiary care across IVF In Pune and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "nucleusivf@gmail.com",
+    "phone": "081491 43338",
+    "alternatePhone": "",
+    "website": "https://www.nucleusivf.com/",
+    "address": "Nucleus IVF Centre, 315-316-317, The Address Commercia, Flyover, nr. Hinjewadi, Wakad, Maharashtra 411057",
+    "city": "Wakad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "nr. Hinjewadi",
+    "landmark": "The Address Commercia",
+    "emergencyContact": "081491 43338",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/drpritamsulakheivfspecialist",
+    "twitter": "",
+    "instagram": "https://instagram.com/nucleus.ivf?igshid=YmMyMTA2M2Y=",
+    "linkedin": "https://in.linkedin.com/in/nucleus-ivf-centre-0731bb191",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nucleus+IVF/@18.5936537,73.756985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b8e6d0373c3f:0xbf7208b5f732dc11!8m2!3d18.5936537!4d73.756985!16s%2Fg%2F11c5ghn0w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nucleus+IVF/@18.5936537,73.756985,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b8e6d0373c3f:0xbf7208b5f732dc11!8m2!3d18.5936537!4d73.756985!16s%2Fg%2F11c5ghn0w8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5936537,
+      "lng": 73.756985,
+      "label": "Nucleus IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oasis-ivf-and-fertility-centre-best-ivf-centre-in-kondhwa-pune-pune",
+    "name": "Oasis IVF & Fertility Centre - Best IVF Centre in Kondhwa, Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oasis IVF & Fertility Centre - Best IVF Centre in Kondhwa, Pune is a prominent fertility clinic in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089513 95518",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Office No 201, 99 Avenue, Kondhwa Main Rd, nearby Manikchand Malabar Hills Building, Dhorvadi, Lullanagar, Pune, Maharashtra 411040",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411040",
+    "locality": "Lullanagar",
+    "landmark": "Kondhwa Main Rd",
+    "emergencyContact": "089513 95518",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oasis+IVF+%26+Fertility+Centre+-+Best+IVF+Centre+in+Kondhwa,+Pune/@18.4870762,73.8886933,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10860aa0e57:0xd92cd2f2e768e9e7!8m2!3d18.4870762!4d73.8886933!16s%2Fg%2F11mstqpv3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oasis+IVF+%26+Fertility+Centre+-+Best+IVF+Centre+in+Kondhwa,+Pune/@18.4870762,73.8886933,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10860aa0e57:0xd92cd2f2e768e9e7!8m2!3d18.4870762!4d73.8886933!16s%2Fg%2F11mstqpv3f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4870762,
+      "lng": 73.8886933,
+      "label": "Oasis IVF & Fertility Centre - Best IVF Centre in Kondhwa, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oliva-skin-hair-and-laser-clinic-shivaji-nagar-pune-laser-hair-removal-acne-scar-prp-skin-whitening-treatments-pune",
+    "name": "Oliva Skin, Hair & Laser Clinic Shivaji Nagar, Pune: Laser Hair Removal, Acne Scar, PRP, Skin Whitening Treatments",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Oliva Skin, Hair & Laser Clinic Shivaji Nagar, Pune: Laser Hair Removal, Acne Scar, PRP, Skin Whitening Treatments brings together specialists for Cosmetic Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089777 55434",
+    "alternatePhone": "",
+    "website": "https://locations.olivaclinic.com/oliva-clinic/pune/shivaji-nagar/oliva-skin-hair-and-body-clinic-in-shivaji-nagar-pune--mSY32C/home",
+    "address": "Level 1, Deccan 99 Mall, No 1258, Jangali Maharaj Rd, opposite Deccan Avenue, Pulachi Wadi, Shivajinagar, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Shivajinagar",
+    "landmark": "opposite Deccan Avenue, Pulachi Wadi, Shivajinagar, Pune, Maharashtra 411004",
+    "emergencyContact": "089777 55434",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oliva+Skin,+Hair+%26+Laser+Clinic+Shivaji+Nagar,+Pune:+Laser+Hair+Removal,+Acne+Scar,+PRP,+Skin+Whitening+Treatments/@18.517223,73.843664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f6f33f1b11:0xe1cc288eb49b5d6d!8m2!3d18.517223!4d73.843664!16s%2Fg%2F11fkw7cb4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oliva+Skin,+Hair+%26+Laser+Clinic+Shivaji+Nagar,+Pune:+Laser+Hair+Removal,+Acne+Scar,+PRP,+Skin+Whitening+Treatments/@18.517223,73.843664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f6f33f1b11:0xe1cc288eb49b5d6d!8m2!3d18.517223!4d73.843664!16s%2Fg%2F11fkw7cb4t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.517223,
+      "lng": 73.843664,
+      "label": "Oliva Skin, Hair & Laser Clinic Shivaji Nagar, Pune: Laser Hair Removal, Acne Scar, PRP, Skin Whitening Treatments",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-clinic-implant-and-tmj-center-pune",
+    "name": "Om Dental Clinic, Implant & TMJ Center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Om Dental Clinic, Implant & TMJ Center is a prominent dentist in Pune, known for structured tertiary care across Oral Surgery In Pune and Dentist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "doctor@omdentalclinic.co.in",
+    "phone": "098509 60387",
+    "alternatePhone": "+91 70208 14930",
+    "website": "https://omdentalclinic.co.in/",
+    "address": "104, Spectra Near Krishna Hospital, Paud Rd, next to Gururaj Society, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "Near Krishna Hospital, Paud Rd, next to Gururaj Society, Kothrud, Pune, Maharashtra 411038",
+    "emergencyContact": "+91 70208 14930",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100068840152137&mibextid=LQQJ4d",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/om.dental.clinic/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Dental+Clinic,+Implant+%26+TMJ+Center/data=!4m7!3m6!1s0x3bc2bf95d30aa4dd:0x37953e08e9b3f8ca!8m2!3d18.5083509!4d73.8108437!16s%2Fg%2F11c1v1pgh4!19sChIJ3aQK05W_wjsRyviz6Qg-lTc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Dental+Clinic,+Implant+%26+TMJ+Center/data=!4m7!3m6!1s0x3bc2bf95d30aa4dd:0x37953e08e9b3f8ca!8m2!3d18.5083509!4d73.8108437!16s%2Fg%2F11c1v1pgh4!19sChIJ3aQK05W_wjsRyviz6Qg-lTc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5083509,
+      "lng": 73.8108437,
+      "label": "Om Dental Clinic, Implant & TMJ Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-hospital-bhosari-best-cardiology-angiography-dialysis-laproscopy-laser-piles-hospital-in-bhosari-pune",
+    "name": "Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari brings together specialists for Cardiac Surgery In Pune. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "omhospital39@gmail.com",
+    "phone": "088888 25601",
+    "alternatePhone": "+91 88888 25602",
+    "website": "http://omhospitalbhosari.com/",
+    "address": "Hutatma Chowk, Bhosari Alandi Rd, near Sbi Bank, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411039",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411039",
+    "locality": "Pimpri-Chinchwad",
+    "landmark": "near Sbi Bank, Bhosari, Pimpri-Chinchwad, Pune, Maharashtra 411039",
+    "emergencyContact": "+91 88888 25602",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Om-Hospital-Bhosari/100065179533099/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/om_hospital_bhosari/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Hospital+Bhosari+%7C+Best+Cardiology+%7C+Angiography+%7C+Dialysis+%7C+Laproscopy+%7C+Laser+Piles+Hospital+in+Bhosari/@18.6241,73.8545729,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c79d24e4c891:0xbe9ae5142ddc6ba5!8m2!3d18.6241!4d73.8545729!16s%2Fg%2F11b_2kyplr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Hospital+Bhosari+%7C+Best+Cardiology+%7C+Angiography+%7C+Dialysis+%7C+Laproscopy+%7C+Laser+Piles+Hospital+in+Bhosari/@18.6241,73.8545729,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c79d24e4c891:0xbe9ae5142ddc6ba5!8m2!3d18.6241!4d73.8545729!16s%2Fg%2F11b_2kyplr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6241,
+      "lng": 73.8545729,
+      "label": "Om Hospital Bhosari | Best Cardiology | Angiography | Dialysis | Laproscopy | Laser Piles Hospital in Bhosari",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "onco-life-cancer-centre-wagholi-pune-pune",
+    "name": "Onco Life Cancer Centre Wagholi Pune",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Onco Life Cancer Centre Wagholi Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cancer Surgery In Pune and Cancer Treatment Center. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077568 94303",
+    "alternatePhone": "77690 04343",
+    "website": "https://oncolifehospitals.com/",
+    "address": "Vishwashanti Dham, Wagholi, Pune, Maharashtra 412207",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412207",
+    "locality": "Wagholi",
+    "landmark": "Pune",
+    "emergencyContact": "77690 04343",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/oncolifecancer",
+    "twitter": "https://twitter.com/onco_life",
+    "instagram": "https://www.instagram.com/oncolifecancer",
+    "linkedin": "https://www.linkedin.com/company/oncolife-cancer-centre/",
+    "youtube": "https://www.youtube.com/@onco-lifehospitals8602",
+    "specialties": [
+      "Cancer Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Onco+Life+Cancer+Centre+Wagholi+Pune/@18.5819227,74.0024462,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c393617a6fb9:0xbe0ebaeca8927c6b!8m2!3d18.5819227!4d74.0024462!16s%2Fg%2F11xg5t394s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Onco+Life+Cancer+Centre+Wagholi+Pune/@18.5819227,74.0024462,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c393617a6fb9:0xbe0ebaeca8927c6b!8m2!3d18.5819227!4d74.0024462!16s%2Fg%2F11xg5t394s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5819227,
+      "lng": 74.0024462,
+      "label": "Onco Life Cancer Centre Wagholi Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oosite-ivf-pune",
+    "name": "Oosite IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oosite IVF has built a strong reputation in Pune for multidisciplinary treatment pathways covering IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0204 124 0685",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sachapir St, Sadar Bazaar, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sadar Bazaar",
+    "landmark": "Pune",
+    "emergencyContact": "0204 124 0685",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Oosite+IVF/@18.5165502,73.873952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c045efe51551:0x9a5e53ebd11741b4!8m2!3d18.5165502!4d73.873952!16s%2Fg%2F1v2dzz6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oosite+IVF/@18.5165502,73.873952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c045efe51551:0x9a5e53ebd11741b4!8m2!3d18.5165502!4d73.873952!16s%2Fg%2F1v2dzz6s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5165502,
+      "lng": 73.873952,
+      "label": "Oosite IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orion-ivf-pune-best-ivf-center-in-wakad-pune",
+    "name": "Orion IVF Pune - Best IVF Center in Wakad",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Orion IVF Pune - Best IVF Center in Wakad brings together specialists for IVF In Pune and Fertility Care. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "orionivfinfo@gmail.com",
+    "phone": "080808 23310",
+    "alternatePhone": "+91 70308 07444",
+    "website": "https://orionivfpune.com/",
+    "address": "201 /301, Akruti Avenue, Datta Mandir Road, s. no 173 Mahatma Phule Road New Timber Market, Ganj Peth, wakad, Hinjawadi, Pune, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "Datta Mandir Road",
+    "emergencyContact": "+91 70308 07444",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/orionivfpune",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/orionivf/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@Orionivfcentrepune",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Orion+IVF+Pune+-+Best+IVF+Center+in+Wakad/@18.600077,73.7635431,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e5c324373:0xc3970e0d3e193382!8m2!3d18.600077!4d73.7635431!16s%2Fg%2F11bw5ys6xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Orion+IVF+Pune+-+Best+IVF+Center+in+Wakad/@18.600077,73.7635431,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b96e5c324373:0xc3970e0d3e193382!8m2!3d18.600077!4d73.7635431!16s%2Fg%2F11bw5ys6xj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.600077,
+      "lng": 73.7635431,
+      "label": "Orion IVF Pune - Best IVF Center in Wakad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-aundh-pune-pune",
+    "name": "OrthoSquare Dental Clinic - Aundh, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OrthoSquare Dental Clinic - Aundh, Pune is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune and Orthopaedics. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080718 20815",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/pune/Shambhu-Vihar-Society/orthosquare-dental-clinic-in-Shambhu-Vihar-Society-pune--3iiIhu/home",
+    "address": "Ambedkar Chowk, Flat No 1, Rajnigandha Apartment, Seasons Road, DP Rd, above Ravi Raj Medical, Shambhu Vihar Society, Baner Chs, Aundh, Pune, Maharashtra 411007",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411007",
+    "locality": "Aundh",
+    "landmark": "Rajnigandha Apartment",
+    "emergencyContact": "080718 20815",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Orthosquare",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/orthosquaredental/",
+    "linkedin": "https://in.linkedin.com/company/orthosquare",
+    "youtube": "https://www.youtube.com/@orthosquare",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Aundh,+Pune/@18.5599758,73.8031049,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf5b4e08847b:0xaab0f0b8ff2a5d4!8m2!3d18.5599758!4d73.8031049!16s%2Fg%2F11j7f182k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Aundh,+Pune/@18.5599758,73.8031049,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf5b4e08847b:0xaab0f0b8ff2a5d4!8m2!3d18.5599758!4d73.8031049!16s%2Fg%2F11j7f182k2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5599758,
+      "lng": 73.8031049,
+      "label": "OrthoSquare Dental Clinic - Aundh, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-parvati-paytha-pune-pune",
+    "name": "OrthoSquare Dental Clinic - Parvati Paytha, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, OrthoSquare Dental Clinic - Parvati Paytha, Pune offers coordinated hospital care with major focus on Oral Surgery In Pune and Orthopaedics. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080718 20908",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/pune/Parvati-Paytha/orthosquare-dental-clinic-in-Parvati-Paytha-pune--4bLYvC/home",
+    "address": "Second Floor, City Pride, Pushpa Prestige, No 202, above Puma Showroom, Parvati Paytha, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "Parvati Paytha",
+    "landmark": "Pushpa Prestige",
+    "emergencyContact": "080718 20908",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Orthosquare",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/orthosquaredental/",
+    "linkedin": "https://in.linkedin.com/company/orthosquare",
+    "youtube": "https://www.youtube.com/@orthosquare",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Parvati+Paytha,+Pune/@18.4895061,73.8572557,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11ee1bf58a1:0x65465dc22a19552a!8m2!3d18.4895061!4d73.8572557!16s%2Fg%2F11h3bs6ff0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Parvati+Paytha,+Pune/@18.4895061,73.8572557,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11ee1bf58a1:0x65465dc22a19552a!8m2!3d18.4895061!4d73.8572557!16s%2Fg%2F11h3bs6ff0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4895061,
+      "lng": 73.8572557,
+      "label": "OrthoSquare Dental Clinic - Parvati Paytha, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-tilak-road-pune-pune",
+    "name": "OrthoSquare Dental Clinic - Tilak Road, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OrthoSquare Dental Clinic - Tilak Road, Pune has built a strong reputation in Pune for multidisciplinary treatment pathways covering Oral Surgery In Pune and Orthopaedics. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "067461 72517",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/pune/sadashiv-peth/orthosquare-dental-clinic-in-sadashiv-peth-pune--b90JOf/home",
+    "address": "First Floor, Athashree, 101, Tilak Rd, nearby SP College, Rukmini Sadan Society, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "101",
+    "emergencyContact": "067461 72517",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Orthosquare",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/orthosquaredental/",
+    "linkedin": "https://in.linkedin.com/company/orthosquare",
+    "youtube": "https://www.youtube.com/@orthosquare",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Tilak+Road,+Pune/@18.5081385,73.8492018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1fa428aef71:0x1552ad306c1cc672!8m2!3d18.5081385!4d73.8492018!16s%2Fg%2F11myd02gj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Tilak+Road,+Pune/@18.5081385,73.8492018,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1fa428aef71:0x1552ad306c1cc672!8m2!3d18.5081385!4d73.8492018!16s%2Fg%2F11myd02gj_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5081385,
+      "lng": 73.8492018,
+      "label": "OrthoSquare Dental Clinic - Tilak Road, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-wadgaon-sheri-pune-pune",
+    "name": "OrthoSquare Dental Clinic - Wadgaon Sheri, Pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, OrthoSquare Dental Clinic - Wadgaon Sheri, Pune offers coordinated hospital care with major focus on Oral Surgery In Pune and Orthopaedics. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080718 20844",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/pune/Wadgaon-Sheri/orthosquare-dental-clinic-in-Wadgaon-Sheri-pune--1RgEcC/home",
+    "address": "No 202, Utkarsh Plaza, Chowk, nearby Shri Swami Samarth temple, Datta Prasad Housing Society, Ganesh Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Wadgaon Sheri",
+    "landmark": "Chowk",
+    "emergencyContact": "080718 20844",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Orthosquare",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/orthosquaredental/",
+    "linkedin": "https://in.linkedin.com/company/orthosquare",
+    "youtube": "https://www.youtube.com/@orthosquare",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Wadgaon+Sheri,+Pune/@18.5574067,73.9261545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13879eb8c85:0x8c93df1acff89a3c!8m2!3d18.5574067!4d73.9261545!16s%2Fg%2F11vjjd3k1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Wadgaon+Sheri,+Pune/@18.5574067,73.9261545,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13879eb8c85:0x8c93df1acff89a3c!8m2!3d18.5574067!4d73.9261545!16s%2Fg%2F11vjjd3k1r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5574067,
+      "lng": 73.9261545,
+      "label": "OrthoSquare Dental Clinic - Wadgaon Sheri, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oswal-dental-clinic-pune",
+    "name": "Oswal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Oswal Dental Clinic is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "nitinoswal@hotmail.com",
+    "phone": "076202 87808",
+    "alternatePhone": "+91 98905 29273",
+    "website": "https://www.oswaldentalclinic.com/",
+    "address": "164, MG Road, near Pundol Apartment, New Modikhana, Camp, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Camp",
+    "landmark": "near Pundol Apartment, New Modikhana, Camp, Pune, Maharashtra 411001",
+    "emergencyContact": "+91 98905 29273",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/oswaldentalclinic/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oswal+Dental+Clinic/@18.5065632,73.878466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c048ea9ed7ad:0x602bc821f7d9cf72!8m2!3d18.5065632!4d73.878466!16s%2Fg%2F113dhtzmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oswal+Dental+Clinic/@18.5065632,73.878466,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c048ea9ed7ad:0x602bc821f7d9cf72!8m2!3d18.5065632!4d73.878466!16s%2Fg%2F113dhtzmm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5065632,
+      "lng": 73.878466,
+      "label": "Oswal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "painex-clinic-deccan-non-surgical-and-most-advanced-pain-management-clinic-pune",
+    "name": "Painex Clinic Deccan | Non-Surgical & Most-Advanced Pain Management Clinic",
+    "type": "Pain Control Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Painex Clinic Deccan | Non-Surgical & Most-Advanced Pain Management Clinic is a prominent pain control clinic in Pune, known for structured tertiary care across Spine Neurosurgeon In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "painexpainclinic@gmail.com",
+    "phone": "083904 42266",
+    "alternatePhone": "090677 53355",
+    "website": "https://www.painex.org/",
+    "address": "1233 B, Apte Rd, near IDBI Bank, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "near IDBI Bank, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "emergencyContact": "090677 53355",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Painex+Clinic+Deccan+%7C+Non-Surgical+%26+Most-Advanced+Pain+Management+Clinic/@18.5179899,73.8424727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c19763fc4b01:0x3cc679c0fe7fdda4!8m2!3d18.5179899!4d73.8424727!16s%2Fg%2F11gk8rtqs_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Painex+Clinic+Deccan+%7C+Non-Surgical+%26+Most-Advanced+Pain+Management+Clinic/@18.5179899,73.8424727,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c19763fc4b01:0x3cc679c0fe7fdda4!8m2!3d18.5179899!4d73.8424727!16s%2Fg%2F11gk8rtqs_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5179899,
+      "lng": 73.8424727,
+      "label": "Painex Clinic Deccan | Non-Surgical & Most-Advanced Pain Management Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearl-women-s-hospital-and-yash-ivf-pune",
+    "name": "Pearl Women's Hospital and Yash IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Pearl Women's Hospital and Yash IVF offers coordinated hospital care with major focus on IVF In Pune, Women and Child Care, and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@yashivf.com",
+    "phone": "077700 12325",
+    "alternatePhone": "+91 88885 76666",
+    "website": "https://www.yashivf.com/",
+    "address": "Renaisance Complex, 1277 , 1st Floor, Jangali Maharaj Rd, Next to McDonald's - J. M. Road, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "1st Floor",
+    "emergencyContact": "+91 88885 76666",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/YashIVF",
+    "twitter": "https://twitter.com/yash_ivf",
+    "instagram": "https://www.instagram.com/yashivf/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCiIVsod0mGBWm2twf2s6Yjg",
+    "specialties": [
+      "IVF In Pune",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pearl+Women's+Hospital+and+Yash+IVF/@18.5178615,73.844428,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0782e471fcd:0xe6b823361a8c8bd6!8m2!3d18.5178615!4d73.844428!16s%2Fg%2F11b7hph8kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearl+Women's+Hospital+and+Yash+IVF/@18.5178615,73.844428,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0782e471fcd:0xe6b823361a8c8bd6!8m2!3d18.5178615!4d73.844428!16s%2Fg%2F11b7hph8kl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5178615,
+      "lng": 73.844428,
+      "label": "Pearl Women's Hospital and Yash IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "perfection-plastic-surgery-clinic-pune",
+    "name": "Perfection Plastic Surgery clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Perfection Plastic Surgery clinic offers coordinated hospital care with major focus on Plastic Surgery In Pune. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "deshpush.pd@gmail.com",
+    "phone": "080108 10920",
+    "alternatePhone": "99218 00894",
+    "website": "https://perfectionplasticsurgery.com/",
+    "address": "B-Flat No. 2, First Floor, Fountain Head Apartment, near 3M Car Care, off Karve Road, Karishma Society, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "near 3M Car Care, off Karve Road, Karishma Society, Kothrud, Pune, Maharashtra 411038",
+    "emergencyContact": "99218 00894",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/perfectionplasticsurgeryclinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/perfection_plastic_surgery/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@PerfectionPlasticSurgeryClinic",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Perfection+Plastic+Surgery+clinic/@18.5021517,73.8215046,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf493828e63b:0x122565ef2ddf8440!8m2!3d18.5021517!4d73.8215046!16s%2Fg%2F11mcys4ft4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Perfection+Plastic+Surgery+clinic/@18.5021517,73.8215046,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf493828e63b:0x122565ef2ddf8440!8m2!3d18.5021517!4d73.8215046!16s%2Fg%2F11mcys4ft4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5021517,
+      "lng": 73.8215046,
+      "label": "Perfection Plastic Surgery clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "platinum-smile-dental-clinic-pune",
+    "name": "Platinum Smile Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Platinum Smile Dental Clinic for its strength in Oral Surgery In Pune. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070309 39995",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Office No. 2, First Floor, Manjari Rd, above More SuperMarket, near G Mall, Shiv Krishna Society, Manjari Budruk, Pune, Maharashtra 412307",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412307",
+    "locality": "Manjari Budruk",
+    "landmark": "near G Mall, Shiv Krishna Society, Manjari Budruk, Pune, Maharashtra 412307",
+    "emergencyContact": "070309 39995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Platinum+Smile+Dental+Clinic/@18.5252991,73.9573381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3a3740575bb:0x32f9663837c90607!8m2!3d18.5252991!4d73.9573381!16s%2Fg%2F11smftwrdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Platinum+Smile+Dental+Clinic/@18.5252991,73.9573381,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3a3740575bb:0x32f9663837c90607!8m2!3d18.5252991!4d73.9573381!16s%2Fg%2F11smftwrdp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5252991,
+      "lng": 73.9573381,
+      "label": "Platinum Smile Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pmh-fertility-and-ivf-centre-pune",
+    "name": "PMH Fertility And IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, PMH Fertility And IVF Centre brings together specialists for IVF In Pune and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GROUND FLOOR SHOP NO 1 & 2, BHADALE EMPIRE, NARHE ROAD, near HDFC BANK, Dattanagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411046",
+    "locality": "Ambegaon Budruk",
+    "landmark": "near HDFC BANK, Dattanagar, Ambegaon Budruk, Pune, Maharashtra 411046",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/PMH+Fertility+And+IVF+Centre/@18.4494051,73.8478161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebac6d203305:0x2a095b71a90a6512!8m2!3d18.4494051!4d73.8478161!16s%2Fg%2F11zkbg8fk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PMH+Fertility+And+IVF+Centre/@18.4494051,73.8478161,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebac6d203305:0x2a095b71a90a6512!8m2!3d18.4494051!4d73.8478161!16s%2Fg%2F11zkbg8fk0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4494051,
+      "lng": 73.8478161,
+      "label": "PMH Fertility And IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "poona-preventive-cardiology-center-pune",
+    "name": "Poona Preventive Cardiology Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Poona Preventive Cardiology Center brings together specialists for Heart Surgery In Pune and Cardiac Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@punechelation.com",
+    "phone": "096370 66166",
+    "alternatePhone": "0202 422 3993",
+    "website": "https://punechelation.com/",
+    "address": "1st Floor, Revanjali, Aranyeswar, chowk, Padmavati Sahkarnagar Rd, opp. Taware bakery, above HDFC BANK, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "above HDFC BANK",
+    "landmark": "Aranyeswar",
+    "emergencyContact": "0202 422 3993",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/PoonaPreventiveCardiologyCentre/",
+    "twitter": "https://x.com/punechelation20",
+    "instagram": "https://www.instagram.com/dr.jyotsna_patil/?igshid=1t7vwypg3hum7",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC_6xM2uUf2ii5IHwJkQnV4A",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Poona+Preventive+Cardiology+Center/@18.4859246,73.8541026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c01c41ba93c9:0x765bd7b27a51d5cd!8m2!3d18.4859246!4d73.8541026!16s%2Fg%2F1tjbqm7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Poona+Preventive+Cardiology+Center/@18.4859246,73.8541026,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c01c41ba93c9:0x765bd7b27a51d5cd!8m2!3d18.4859246!4d73.8541026!16s%2Fg%2F1tjbqm7z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4859246,
+      "lng": 73.8541026,
+      "label": "Poona Preventive Cardiology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pramodini-urology-foundation-pune",
+    "name": "Pramodini Urology Foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Pramodini Urology Foundation offers coordinated hospital care with major focus on Urologist Surgery In Pune. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098220 53645",
+    "alternatePhone": "+91 97637 11267",
+    "website": "https://www.drketanvartak.in/",
+    "address": "917/20a, Fergusson College Rd, above Peshwa Hotel, opposite Hotel Vaishali, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "opposite Hotel Vaishali, Shivaji Nagar, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 97637 11267",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pramodini+Urology+Foundation/@18.5200969,73.8409946,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf87713bfddb:0x4f95898d3f7ad89!8m2!3d18.5200969!4d73.8409946!16s%2Fg%2F1tg5shz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pramodini+Urology+Foundation/@18.5200969,73.8409946,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf87713bfddb:0x4f95898d3f7ad89!8m2!3d18.5200969!4d73.8409946!16s%2Fg%2F1tg5shz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5200969,
+      "lng": 73.8409946,
+      "label": "Pramodini Urology Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prime-smile-dental-and-oral-surgery-clinic-pune",
+    "name": "Prime Smile Dental And Oral Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Prime Smile Dental And Oral Surgery Clinic for its strength in Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "+91 74985 92220",
+    "alternatePhone": "",
+    "website": "https://drpranavtillu.drxpro.in/",
+    "address": "Shop No. 10, Bharatkunj -2, Erandwane, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Erandwane",
+    "landmark": "Erandwane",
+    "emergencyContact": "+91 74985 92220",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prime+Smile+Dental+And+Oral+Surgery+Clinic/@18.5048605,73.8252832,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf003fa4b681:0x53554c531ebdb6ea!8m2!3d18.5048605!4d73.8252832!16s%2Fg%2F11x8bt44by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prime+Smile+Dental+And+Oral+Surgery+Clinic/@18.5048605,73.8252832,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf003fa4b681:0x53554c531ebdb6ea!8m2!3d18.5048605!4d73.8252832!16s%2Fg%2F11x8bt44by?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5048605,
+      "lng": 73.8252832,
+      "label": "Prime Smile Dental And Oral Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prisha-fertility-center-pvt-ltd-pune",
+    "name": "Prisha Fertility Center Pvt. Ltd.",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Prisha Fertility Center Pvt. Ltd. brings together specialists for IVF In Pune and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090750 19444",
+    "alternatePhone": "",
+    "website": "http://prishaivf.com/",
+    "address": "Dnyankamal heights, S.R. No. 680/3A, Above Bank of Maharashtra, opp. Hotel Madhuban, Landewadi, Bhosari, Pune, Maharashtra 411039",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411039",
+    "locality": "Bhosari",
+    "landmark": "Above Bank of Maharashtra",
+    "emergencyContact": "090750 19444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prisha+Fertility+Center+Pvt.+Ltd./@18.6197756,73.8425719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c78ac920ed0d:0x8590b2edc8be966b!8m2!3d18.6197756!4d73.8425719!16s%2Fg%2F11j2z6r3jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prisha+Fertility+Center+Pvt.+Ltd./@18.6197756,73.8425719,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c78ac920ed0d:0x8590b2edc8be966b!8m2!3d18.6197756!4d73.8425719!16s%2Fg%2F11j2z6r3jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6197756,
+      "lng": 73.8425719,
+      "label": "Prisha Fertility Center Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pro-dental-care-pune",
+    "name": "PRO DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, PRO DENTAL CARE offers coordinated hospital care with major focus on Oral Surgery In Pune. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094058 15193",
+    "alternatePhone": "",
+    "website": "https://drrushabhbedmuttha.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "Shop no 7 paramount garden, Katraj - Kondhwa Rd, Pune, Maharashtra 411046",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411046",
+    "locality": "Katraj - Kondhwa Rd",
+    "landmark": "Pune",
+    "emergencyContact": "094058 15193",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PRO+DENTAL+CARE/@18.4503537,73.8720666,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb478407af6d:0xe75b97cf7a8af157!8m2!3d18.4503537!4d73.8720666!16s%2Fg%2F11sqxdbgtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PRO+DENTAL+CARE/@18.4503537,73.8720666,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb478407af6d:0xe75b97cf7a8af157!8m2!3d18.4503537!4d73.8720666!16s%2Fg%2F11sqxdbgtd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4503537,
+      "lng": 73.8720666,
+      "label": "PRO DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-kalyani-nagar-pune-pune",
+    "name": "Progenesis Fertility Center - Best IVF Center in Kalyani Nagar Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Progenesis Fertility Center - Best IVF Center in Kalyani Nagar Pune brings together specialists for IVF In Pune and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "kalyaninagar@progenesis.in",
+    "phone": "094239 71620",
+    "alternatePhone": "+91 70309 44041",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-kalyaninagar/",
+    "address": "S. No. 15, Suman Business Park, 203, 1st Floor, 1 to 6, Kalyani Nagar - Wadgaon Sheri Rd, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Wadgaon Sheri",
+    "landmark": "203",
+    "emergencyContact": "+91 70309 44041",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/progenesisivf",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/progenesis_ivf_center",
+    "linkedin": "https://www.linkedin.com/company/progenesis-ivf/",
+    "youtube": "https://www.youtube.com/@ProgenesisFertilityCenter",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Kalyani+Nagar+Pune/@18.5460476,73.906488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1d1d638cdcf:0xd186a1770e1a72af!8m2!3d18.5460476!4d73.906488!16s%2Fg%2F11yhkbzz7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Kalyani+Nagar+Pune/@18.5460476,73.906488,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1d1d638cdcf:0xd186a1770e1a72af!8m2!3d18.5460476!4d73.906488!16s%2Fg%2F11yhkbzz7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5460476,
+      "lng": 73.906488,
+      "label": "Progenesis Fertility Center - Best IVF Center in Kalyani Nagar Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-pune-pune",
+    "name": "Progenesis Fertility Center - Best IVF Center in Pune",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Progenesis Fertility Center - Best IVF Center in Pune for its strength in IVF In Pune and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "pune@progenesis.in",
+    "phone": "094239 71620",
+    "alternatePhone": "+91 70309 44041",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-pune/",
+    "address": "Infront of Reliance Digital, Kataria Chambers, ITI Rd, Sanewadi, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "ITI Rd",
+    "emergencyContact": "+91 70309 44041",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/progenesisivf",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/progenesis_ivf_center",
+    "linkedin": "https://www.linkedin.com/company/progenesis-ivf/",
+    "youtube": "https://www.youtube.com/@ProgenesisFertilityCenter",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Pune/@18.5542529,73.8092704,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf310e8f152f:0x3bf3e93f859d2166!8m2!3d18.5542529!4d73.8092704!16s%2Fg%2F11qnth0yw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Pune/@18.5542529,73.8092704,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf310e8f152f:0x3bf3e93f859d2166!8m2!3d18.5542529!4d73.8092704!16s%2Fg%2F11qnth0yw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5542529,
+      "lng": 73.8092704,
+      "label": "Progenesis Fertility Center - Best IVF Center in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-cosmodent-dental-clinic-pimple-nilakh",
+    "name": "Pune Cosmodent Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pimple Nilakh often choose Pune Cosmodent Dental Clinic for its strength in Oral Surgery In Pune and Dentist. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080076 01498",
+    "alternatePhone": "",
+    "website": "https://punedentalclinics.in/",
+    "address": "3rd Floor, AG ICON 303, Pimple Nilakh, Maharashtra 411027",
+    "city": "Pimple Nilakh",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "locality": "AG ICON 303",
+    "landmark": "Pimple Nilakh",
+    "emergencyContact": "080076 01498",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+Cosmodent+Dental+Clinic/@18.5790836,73.7854274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9e5559da56b:0x9a71ad8aef0df87c!8m2!3d18.5790836!4d73.7854274!16s%2Fg%2F11qbbh0dvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+Cosmodent+Dental+Clinic/@18.5790836,73.7854274,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9e5559da56b:0x9a71ad8aef0df87c!8m2!3d18.5790836!4d73.7854274!16s%2Fg%2F11qbbh0dvb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5790836,
+      "lng": 73.7854274,
+      "label": "Pune Cosmodent Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-dental-studio-pune",
+    "name": "Pune Dental Studio",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Pune Dental Studio delivers integrated care across Oral Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098811 92594",
+    "alternatePhone": "",
+    "website": "https://www.punedentalstudio.com/",
+    "address": "Office No 102 1st floor, The Mint, off Baner Road, opposite Kapil Mallhar, Riviresa Society, Society, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "opposite Kapil Mallhar, Riviresa Society, Society, Baner, Pune, Maharashtra 411069",
+    "emergencyContact": "098811 92594",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/PuneDentalStudio/",
+    "twitter": "https://twitter.com/pudentalstudio",
+    "instagram": "https://www.instagram.com/punedentalstudio/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+Dental+Studio/@18.5593445,73.7924109,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf31fbe239b1:0xb48f2531da207d9f!8m2!3d18.5593445!4d73.7924109!16s%2Fg%2F1tsr1n3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+Dental+Studio/@18.5593445,73.7924109,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf31fbe239b1:0xb48f2531da207d9f!8m2!3d18.5593445!4d73.7924109!16s%2Fg%2F1tsr1n3_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5593445,
+      "lng": 73.7924109,
+      "label": "Pune Dental Studio",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-institute-of-nephro-urology-pinu-urology-hospital-in-pune-kidney-stone-specialist-in-pune-prostate-specialist-pimpri-chinchwad",
+    "name": "Pune Institute Of Nephro Urology(PINU) Urology hospital in Pune | Kidney Stone Specialist in Pune | Prostate Specialist",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pune Institute Of Nephro Urology(PINU) Urology hospital in Pune | Kidney Stone Specialist in Pune | Prostate Specialist is a prominent urology clinic in Pimpri-Chinchwad, known for structured tertiary care across Kidney Transplant Surgery In Pune and Kidney Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@puneurologist.in",
+    "phone": "092092 40747",
+    "alternatePhone": "",
+    "website": "https://www.puneurologist.in/contact/",
+    "address": "Avenue Plaza, 201, Rahatani Rd, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411017",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411017",
+    "locality": "Pimple Saudagar",
+    "landmark": "Rahatani Rd",
+    "emergencyContact": "092092 40747",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Pune-Institue-Of-Nephro-Urology-109527055007103",
+    "twitter": "https://twitter.com/pune_institute",
+    "instagram": "https://www.instagram.com/puneinstituteofnephrourology/",
+    "linkedin": "https://www.linkedin.com/company/pune-institute-of-nephro-urology",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+Institute+Of+Nephro+Urology(PINU)+Urology+hospital+in+Pune+%7C+Kidney+Stone+Specialist+in+Pune+%7C+Prostate+Specialist/@18.5998191,73.7924697,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b995da3fb283:0x8e1c50e940c07f28!8m2!3d18.5998191!4d73.7924697!16s%2Fg%2F11q9rrh054?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+Institute+Of+Nephro+Urology(PINU)+Urology+hospital+in+Pune+%7C+Kidney+Stone+Specialist+in+Pune+%7C+Prostate+Specialist/@18.5998191,73.7924697,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b995da3fb283:0x8e1c50e940c07f28!8m2!3d18.5998191!4d73.7924697!16s%2Fg%2F11q9rrh054?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5998191,
+      "lng": 73.7924697,
+      "label": "Pune Institute Of Nephro Urology(PINU) Urology hospital in Pune | Kidney Stone Specialist in Pune | Prostate Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-ivf-fertility-centre-pune",
+    "name": "Pune IVF Fertility Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Pune IVF Fertility Centre delivers integrated care across IVF In Pune and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "care@puneivf.com",
+    "phone": "099753 23353",
+    "alternatePhone": "+91 90907 87890",
+    "website": "https://puneivf.com/fertility-specialist-in-hadapsar-pune/",
+    "address": "Office 205, Above Dominos Pizza, Leela Grandeur Loni Kalbhor Road, Manjri bk, Hadapsar, Pune, Maharashtra 412307",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412307",
+    "locality": "Hadapsar",
+    "landmark": "Leela Grandeur Loni Kalbhor Road",
+    "emergencyContact": "+91 90907 87890",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/puneivf/",
+    "twitter": "https://twitter.com/puneivf",
+    "instagram": "https://www.instagram.com/puneivf/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCDvpNJI2MPS0045RgGerNzA",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+IVF+Fertility+Centre/@18.4975113,73.9600333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c372011dcd33:0x9418506a245f7e9b!8m2!3d18.4975113!4d73.9600333!16s%2Fg%2F11mdxl57c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+IVF+Fertility+Centre/@18.4975113,73.9600333,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c372011dcd33:0x9418506a245f7e9b!8m2!3d18.4975113!4d73.9600333!16s%2Fg%2F11mdxl57c3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4975113,
+      "lng": 73.9600333,
+      "label": "Pune IVF Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-ivf-fertility-centre-and-research-institute-pimple-saudagar-pimpri-chinchwad-pimple-saudagar",
+    "name": "Pune IVF Fertility Centre & Research Institute, Pimple Saudagar, Pimpri Chinchwad",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pimple Saudagar, Pune IVF Fertility Centre & Research Institute, Pimple Saudagar, Pimpri Chinchwad brings together specialists for IVF In Pune and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "care@puneivf.com",
+    "phone": "090907 87890",
+    "alternatePhone": "",
+    "website": "https://puneivf.com/",
+    "address": "Brt Road, Unit No 25, 4th floor, Ganesham Commercial A, Wakad - Nashik Phata BRTS Rd, near Govind Yashada Chowk, Pimple Saudagar, Maharashtra 411027",
+    "city": "Pimple Saudagar",
+    "state": "Maharashtra",
+    "pincode": "411027",
+    "locality": "near Govind Yashada Chowk",
+    "landmark": "near Govind Yashada Chowk, Pimple Saudagar, Maharashtra 411027",
+    "emergencyContact": "090907 87890",
+    "emergencyServices": false,
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://www.instagram.com/puneivf/",
+    "linkedin": "https://linkedin.com",
+    "youtube": "https://youtube.com",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+IVF+Fertility+Centre+%26+Research+Institute,+Pimple+Saudagar,+Pimpri+Chinchwad/@18.59755,73.8056909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9b586e1b9f5:0xefedb415a4734c12!8m2!3d18.59755!4d73.8056909!16s%2Fg%2F11w2nlzf2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+IVF+Fertility+Centre+%26+Research+Institute,+Pimple+Saudagar,+Pimpri+Chinchwad/@18.59755,73.8056909,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9b586e1b9f5:0xefedb415a4734c12!8m2!3d18.59755!4d73.8056909!16s%2Fg%2F11w2nlzf2k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.59755,
+      "lng": 73.8056909,
+      "label": "Pune IVF Fertility Centre & Research Institute, Pimple Saudagar, Pimpri Chinchwad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune-kidney-stone-clinic-pune",
+    "name": "Pune Kidney Stone Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pune Kidney Stone Clinic is a prominent medical clinic in Pune, known for structured tertiary care across Kidney Transplant Surgery In Pune and Kidney Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GVHG+CWC, Gen Vaidya Marg, Agarkar Nagar, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Agarkar Nagar",
+    "landmark": "Agarkar Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Pune+Kidney+Stone+Clinic/@18.5285502,73.877279,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0577e58d70f:0x822f81c9d9566a14!8m2!3d18.5285502!4d73.877279!16s%2Fg%2F11tfc0wjh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pune+Kidney+Stone+Clinic/@18.5285502,73.877279,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0577e58d70f:0x822f81c9d9566a14!8m2!3d18.5285502!4d73.877279!16s%2Fg%2F11tfc0wjh9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5285502,
+      "lng": 73.877279,
+      "label": "Pune Kidney Stone Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "qualicare-polyclinic-pune",
+    "name": "Qualicare Polyclinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Qualicare Polyclinic offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096999 97060",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Flat no 4, 1st Floor Parvati Bahar co-operative housing society Ltd, 2, Navi Peth, above Union Bank, Laxmi Park Colony, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Laxmi Park Colony",
+    "landmark": "2",
+    "emergencyContact": "096999 97060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Qualicare+Polyclinic/@18.5047403,73.8448371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1617cd46de5:0x948cc79f92a61e9a!8m2!3d18.5047403!4d73.8448371!16s%2Fg%2F11q9537tr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Qualicare+Polyclinic/@18.5047403,73.8448371,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1617cd46de5:0x948cc79f92a61e9a!8m2!3d18.5047403!4d73.8448371!16s%2Fg%2F11q9537tr1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5047403,
+      "lng": 73.8448371,
+      "label": "Qualicare Polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ram-mangal-heart-foundation-pune",
+    "name": "Ram Mangal Heart Foundation",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Ram Mangal Heart Foundation brings together specialists for Heart Surgery In Pune and Cardiac Care. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@rammangalhf.com",
+    "phone": "0206 744 1600",
+    "alternatePhone": "",
+    "website": "https://rammangalhf.com/",
+    "address": "Fun N Shop Building, Vitthal Rao Shivarkar Rd, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "Fatima Nagar",
+    "emergencyContact": "0206 744 1600",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RMDHOSPITAL/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/rammangal.heartfoundation/",
+    "linkedin": "https://www.linkedin.com/in/rammanngal-heart-foundation-824586207/",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ram+Mangal+Heart+Foundation/@18.505786,73.9014618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1c6186c4aaf:0xd30653c69f6de7f0!8m2!3d18.505786!4d73.9014618!16s%2Fg%2F11fx8blshw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ram+Mangal+Heart+Foundation/@18.505786,73.9014618,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1c6186c4aaf:0xd30653c69f6de7f0!8m2!3d18.505786!4d73.9014618!16s%2Fg%2F11fx8blshw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.505786,
+      "lng": 73.9014618,
+      "label": "Ram Mangal Heart Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ranade-dental-and-oral-surgery-clinic-pune",
+    "name": "Ranade Dental & Oral Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Ranade Dental & Oral Surgery Clinic for its strength in Oral Surgery In Pune. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098508 33454",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1014, Vedacharya Phatak Guruji Rd, Nagnath Par, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Nagnath Par",
+    "emergencyContact": "098508 33454",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Ranade+Dental+%26+Oral+Surgery+Clinic/@18.512174,73.849214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0715e22afb7:0x40dfcbe1ed3154b2!8m2!3d18.512174!4d73.849214!16s%2Fg%2F1pp2txsx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ranade+Dental+%26+Oral+Surgery+Clinic/@18.512174,73.849214,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0715e22afb7:0x40dfcbe1ed3154b2!8m2!3d18.512174!4d73.849214!16s%2Fg%2F1pp2txsx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.512174,
+      "lng": 73.849214,
+      "label": "Ranade Dental & Oral Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rasiklal-m-dhariwal-heart-care-and-research-institute-pune",
+    "name": "Rasiklal M. Dhariwal Heart Care & Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rasiklal M. Dhariwal Heart Care & Research Institute is a prominent hospital in Pune, known for structured tertiary care across Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0206 744 1600",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GW42+8F9, Wanwadi Nagar, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411013",
+    "locality": "Wanowrie",
+    "landmark": "Fatima Nagar",
+    "emergencyContact": "0206 744 1600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Rasiklal+M.+Dhariwal+Heart+Care+%26+Research+Institute/@18.5057926,73.9012478,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13548288e83:0x6683397aa405f3bd!8m2!3d18.5057926!4d73.9012478!16s%2Fg%2F11gl1nz2y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rasiklal+M.+Dhariwal+Heart+Care+%26+Research+Institute/@18.5057926,73.9012478,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c13548288e83:0x6683397aa405f3bd!8m2!3d18.5057926!4d73.9012478!16s%2Fg%2F11gl1nz2y3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5057926,
+      "lng": 73.9012478,
+      "label": "Rasiklal M. Dhariwal Heart Care & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "reborn-skin-and-hair-clinic-baner-laser-hair-removal-hair-loss-acne-scar-and-skin-whitening-pune",
+    "name": "Reborn Skin & Hair Clinic - Baner | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Reborn Skin & Hair Clinic - Baner | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening for its strength in Cosmetic Surgery In Pune. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099707 02000",
+    "alternatePhone": "+91 91122 62000",
+    "website": "https://rebornclinics.in/pune/skin-treatment-hair-transplant-clinic-near-baner/?utm_source=google&utm_medium=gbp&utm_campaign=gbpbaner",
+    "address": "2ND FLOOR, TULIP TOWER, above TOYNATION, Madhavbaug Society, Balewadi Phata, Baner, Pune, Maharashtra 411069",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411069",
+    "locality": "Baner",
+    "landmark": "above TOYNATION",
+    "emergencyContact": "+91 91122 62000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RebornClinicsIndia/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/reborn_clinics/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@rebornclinics-india",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic+-+Baner+%7C+Laser+Hair+Removal,+Hair+Loss,+Acne+Scar+and+Skin+Whitening/@18.5618812,73.7850612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff572ed2f69:0x3a35b66fecbc0b30!8m2!3d18.5618812!4d73.7850612!16s%2Fg%2F11rrvpdg6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic+-+Baner+%7C+Laser+Hair+Removal,+Hair+Loss,+Acne+Scar+and+Skin+Whitening/@18.5618812,73.7850612,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff572ed2f69:0x3a35b66fecbc0b30!8m2!3d18.5618812!4d73.7850612!16s%2Fg%2F11rrvpdg6_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5618812,
+      "lng": 73.7850612,
+      "label": "Reborn Skin & Hair Clinic - Baner | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "reborn-skin-and-hair-clinic-koregaon-park-laser-hair-removal-hair-loss-acne-scar-and-skin-whitening-pune",
+    "name": "Reborn Skin & Hair Clinic - Koregaon Park | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Reborn Skin & Hair Clinic - Koregaon Park | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening is a prominent skin care clinic in Pune, known for structured tertiary care across Cosmetic Surgery In Pune. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "contact@rebornclinics.in",
+    "phone": "096076 42111",
+    "alternatePhone": "90674 92000",
+    "website": "https://rebornclinics.in/pune/skin-treatment-hair-transplant-clinic-near-koregaon-park/?utm_source=google&utm_medium=gbp&utm_campaign=gbpkoregaon",
+    "address": "1ST FLOOR, Gera legend, UNIT NO 107, N Main Rd, above KRISHNA MEDICARE, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "UNIT NO 107",
+    "emergencyContact": "90674 92000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RebornClinicsIndia/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/reborn_clinics/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@rebornclinics-india",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic+-+Koregaon+Park+%7C+Laser+Hair+Removal,+Hair+Loss,+Acne+Scar+and+Skin+Whitening/@18.5397334,73.8870552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b942d58854b7:0x5d214deddf9c829!8m2!3d18.5397334!4d73.8870552!16s%2Fg%2F11lr9dn61j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Reborn+Skin+%26+Hair+Clinic+-+Koregaon+Park+%7C+Laser+Hair+Removal,+Hair+Loss,+Acne+Scar+and+Skin+Whitening/@18.5397334,73.8870552,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b942d58854b7:0x5d214deddf9c829!8m2!3d18.5397334!4d73.8870552!16s%2Fg%2F11lr9dn61j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5397334,
+      "lng": 73.8870552,
+      "label": "Reborn Skin & Hair Clinic - Koregaon Park | Laser Hair Removal, Hair Loss, Acne Scar and Skin Whitening",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "refined-dentistry-best-dental-clinic-in-pune-pune",
+    "name": "REFINED DENTISTRY - BEST DENTAL CLINIC IN PUNE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose REFINED DENTISTRY - BEST DENTAL CLINIC IN PUNE for its strength in Oral Surgery In Pune. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "dentistryrefined@gmail.com",
+    "phone": "093705 82288",
+    "alternatePhone": "",
+    "website": "https://refineddentistry.in/",
+    "address": "1st Floor, Anand Apartment, Iskon, Shivneri Path, opposite Salve garden, Sainagar, Kondhwa Budruk, Pune, Maharashtra 411048",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411048",
+    "locality": "Kondhwa Budruk",
+    "landmark": "opposite Salve garden, Sainagar, Kondhwa Budruk, Pune, Maharashtra 411048",
+    "emergencyContact": "093705 82288",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com/refined_dentistry",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/REFINED+DENTISTRY+-+BEST+DENTAL+CLINIC+IN+PUNE/@18.4577895,73.8778644,17z/data=!3m1!4b1!4m6!3m5!1s0x4b1bd4ef7f3ea625:0x3110077164a8792c!8m2!3d18.4577895!4d73.8778644!16s%2Fg%2F11w50s7bfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/REFINED+DENTISTRY+-+BEST+DENTAL+CLINIC+IN+PUNE/@18.4577895,73.8778644,17z/data=!3m1!4b1!4m6!3m5!1s0x4b1bd4ef7f3ea625:0x3110077164a8792c!8m2!3d18.4577895!4d73.8778644!16s%2Fg%2F11w50s7bfg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4577895,
+      "lng": 73.8778644,
+      "label": "REFINED DENTISTRY - BEST DENTAL CLINIC IN PUNE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "revolution-pune",
+    "name": "Revolution",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Revolution brings together specialists for Plastic Surgery In Pune. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "contact@drrahuldalal.com",
+    "phone": "083697 30497",
+    "alternatePhone": "+91 204 123 0893",
+    "website": "https://www.drrahuldalal.com/",
+    "address": "FL-1, Level-1, Aviraj, Kotbagi Hospital Road, Near Parihar Chowk, DP Rd, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "Near Parihar Chowk, DP Rd, Aundh, Pune, Maharashtra 411067",
+    "emergencyContact": "+91 204 123 0893",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RevolutionMedicareHealth",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/revolution_medicare_health/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Revolution/@18.5608656,73.8045206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfa2d25b2313:0x626af948869c4e29!8m2!3d18.5608656!4d73.8045206!16s%2Fg%2F11h40xmt93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Revolution/@18.5608656,73.8045206,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfa2d25b2313:0x626af948869c4e29!8m2!3d18.5608656!4d73.8045206!16s%2Fg%2F11h40xmt93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5608656,
+      "lng": 73.8045206,
+      "label": "Revolution",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rising-medicare-hospital-and-ivf-center-pune",
+    "name": "Rising Medicare Hospital and IVF Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rising Medicare Hospital and IVF Center is a prominent hospital in Pune, known for structured tertiary care across IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091195 87272",
+    "alternatePhone": "",
+    "website": "http://therisingmedicare.com/",
+    "address": "Survey No 4, 1, Mundhwa - Kharadi Rd, behind Radisson Blu, Pandhari Nagar, Kharadi, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Kharadi",
+    "landmark": "Mundhwa - Kharadi Rd",
+    "emergencyContact": "091195 87272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rising+Medicare+Hospital+and+IVF+Center/@18.5537831,73.9392321,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3d92e401a4d:0x24c1cddd16ab3d39!8m2!3d18.5537831!4d73.9392321!16s%2Fg%2F11c71kwj3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rising+Medicare+Hospital+and+IVF+Center/@18.5537831,73.9392321,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3d92e401a4d:0x24c1cddd16ab3d39!8m2!3d18.5537831!4d73.9392321!16s%2Fg%2F11c71kwj3k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5537831,
+      "lng": 73.9392321,
+      "label": "Rising Medicare Hospital and IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ruby-hall-clinic-hinjawadi-pune",
+    "name": "Ruby Hall Clinic - Hinjawadi",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ruby Hall Clinic - Hinjawadi has built a strong reputation in Pune for multidisciplinary treatment pathways covering General Surgery In Pune. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@rubyhall.com",
+    "phone": "0206 699 9999",
+    "alternatePhone": "+91 206 645 6645",
+    "website": "https://hinjawadi.rubyhall.com/",
+    "address": "Rajeev Gandhi Infotech Park, Plot No, P-33, Phase 1, MIDC, Hinjawadi, Pune, Hinjavadi, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Hinjawadi",
+    "landmark": "P-33",
+    "emergencyContact": "+91 206 645 6645",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rubyhall.hinjewadi.33",
+    "twitter": "https://x.com/rubyhallclinic",
+    "instagram": "https://www.instagram.com/rubyhallclinicpcmc/",
+    "linkedin": "https://www.linkedin.com/company/rhchinjawadi",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ruby+Hall+Clinic+-+Hinjawadi/@18.5926592,73.734095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bbc313557353:0xd6e203ef53147b33!8m2!3d18.5926592!4d73.734095!16s%2Fg%2F11cn6dst9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ruby+Hall+Clinic+-+Hinjawadi/@18.5926592,73.734095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bbc313557353:0xd6e203ef53147b33!8m2!3d18.5926592!4d73.734095!16s%2Fg%2F11cn6dst9r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5926592,
+      "lng": 73.734095,
+      "label": "Ruby Hall Clinic - Hinjawadi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ruby-hall-clinic-sassoon-road-pune",
+    "name": "Ruby Hall Clinic - Sassoon Road",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Ruby Hall Clinic - Sassoon Road delivers integrated care across Kidney Transplant Surgery In Pune. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@rubyhall.com",
+    "phone": "0206 645 5100",
+    "alternatePhone": "+91 70577 00700",
+    "website": "https://rubyhall.com/",
+    "address": "40, Sasoon Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Sangamvadi",
+    "landmark": "Sangamvadi",
+    "emergencyContact": "+91 70577 00700",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rubyhallclinichospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/rubyhallclinichospitalsgroup/",
+    "linkedin": "https://in.linkedin.com/company/ruby-hall-clinic-pune",
+    "youtube": "https://www.youtube.com/@rubyhallclinichospitalsgroup",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ruby+Hall+Clinic+-+Sassoon+Road/@18.5335842,73.8771566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0f827512e15:0x47538bcedae49c07!8m2!3d18.5335842!4d73.8771566!16zL20vMGJfenc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ruby+Hall+Clinic+-+Sassoon+Road/@18.5335842,73.8771566,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0f827512e15:0x47538bcedae49c07!8m2!3d18.5335842!4d73.8771566!16zL20vMGJfenc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5335842,
+      "lng": 73.8771566,
+      "label": "Ruby Hall Clinic - Sassoon Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-cosmetics-hair-transplant-in-pune-pune",
+    "name": "Sai Cosmetics - Hair Transplant in Pune",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Pune, Sai Cosmetics - Hair Transplant in Pune delivers integrated care across Cosmetic Surgery In Pune. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@saicosmetics.com",
+    "phone": "098223 58559",
+    "alternatePhone": "",
+    "website": "https://www.saicosmetics.com/",
+    "address": "B-1, Friends Enclave Society St, behind Kodre House, Mundhwa, Pune, Maharashtra 411036",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411036",
+    "locality": "Mundhwa",
+    "landmark": "behind Kodre House",
+    "emergencyContact": "098223 58559",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/saicosmeticsclinic/",
+    "twitter": "https://twitter.com/SaicosmeticsC",
+    "instagram": "https://www.instagram.com/shrivastava.amitabh/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCYcezPtkzJ-BdzdoTfSFAJw",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Cosmetics+-+Hair+Transplant+in+Pune/@18.5332218,73.9252738,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c182c3b3a7c9:0x644bc3758a7b5a58!8m2!3d18.5332218!4d73.9252738!16s%2Fg%2F11h0hgp89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Cosmetics+-+Hair+Transplant+in+Pune/@18.5332218,73.9252738,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c182c3b3a7c9:0x644bc3758a7b5a58!8m2!3d18.5332218!4d73.9252738!16s%2Fg%2F11h0hgp89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5332218,
+      "lng": 73.9252738,
+      "label": "Sai Cosmetics - Hair Transplant in Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saina-clinic-and-health-center-plastic-surgery-skin-hair-transplant-in-viman-nagar-pune",
+    "name": "Saina Clinic & Health Center - Plastic Surgery - Skin - Hair Transplant in Viman nagar",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saina Clinic & Health Center - Plastic Surgery - Skin - Hair Transplant in Viman nagar is a prominent skin care clinic in Pune, known for structured tertiary care across Plastic Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "drsanjayrsp@gmail.com",
+    "phone": "091587 13111",
+    "alternatePhone": "+91 203 500 2119",
+    "website": "http://sainaclinic.com/",
+    "address": "Office no 404, 4th floor, Datta Mandir Chowk, Lunkad Sky Max building, Konark Nagar, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "Datta Mandir Chowk",
+    "emergencyContact": "+91 203 500 2119",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saina+Clinic+%26+Health+Center+-+Plastic+Surgery+-+Skin+-+Hair+Transplant+in+Viman+nagar/@18.5662117,73.9127062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10e372afb9b:0xe619c2446bd63ff0!8m2!3d18.5662117!4d73.9127062!16s%2Fg%2F11tmrq7s0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saina+Clinic+%26+Health+Center+-+Plastic+Surgery+-+Skin+-+Hair+Transplant+in+Viman+nagar/@18.5662117,73.9127062,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10e372afb9b:0xe619c2446bd63ff0!8m2!3d18.5662117!4d73.9127062!16s%2Fg%2F11tmrq7s0j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5662117,
+      "lng": 73.9127062,
+      "label": "Saina Clinic & Health Center - Plastic Surgery - Skin - Hair Transplant in Viman nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sainath-hospital-pimpri-chinchwad",
+    "name": "Sainath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pimpri-Chinchwad, Sainath Hospital brings together specialists for Hip Replacement Surgery In Pune. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0206 731 3000",
+    "alternatePhone": "+91 98220 55986",
+    "website": "http://www.sainathhospital.com/",
+    "address": "Sant Nagar, Pune - Nashik Hwy, Moshi Pradhikaran, Moshi, Pimpri-Chinchwad, Maharashtra 411070",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411070",
+    "locality": "Moshi",
+    "landmark": "Moshi Pradhikaran",
+    "emergencyContact": "+91 98220 55986",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/sainath.hospital.moshi.pune",
+    "twitter": "",
+    "instagram": "https://instagram.com/sainath_hospital_moshi",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@SainathHospital",
+    "specialties": [
+      "Hip Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sainath+Hospital/@18.6545373,73.8484579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7f0b81ff327:0xa7721ff2a8f6d8df!8m2!3d18.6545373!4d73.8484579!16s%2Fg%2F11h1529wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sainath+Hospital/@18.6545373,73.8484579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7f0b81ff327:0xa7721ff2a8f6d8df!8m2!3d18.6545373!4d73.8484579!16s%2Fg%2F11h1529wb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6545373,
+      "lng": 73.8484579,
+      "label": "Sainath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saishree-ivf-infertility-and-test-tube-center-ramban-society",
+    "name": "Saishree IVF Infertility and Test Tube Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Ramban Society, Saishree IVF Infertility and Test Tube Center delivers integrated care across IVF In Pune and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093569 39128",
+    "alternatePhone": "+91 84118 84118",
+    "website": "http://saishreeivfcenter.com/",
+    "address": "251/252, Opp, Telephone Exchange, Ramban Society, Near Dr.Babasaheb Ambedkar Cho Maharashtra, Maharashtra 411067",
+    "city": "Ramban Society",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Telephone Exchange",
+    "landmark": "Near Dr.Babasaheb Ambedkar Cho Maharashtra, Maharashtra 411067",
+    "emergencyContact": "+91 84118 84118",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/saishreehospitals/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/saishreevitalifehospitals/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@saishreehospital1063",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saishree+IVF+Infertility+and+Test+Tube+Center/@18.5592971,73.8032587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf3ac526c445:0x3019ef87cae329a7!8m2!3d18.5592971!4d73.8032587!16s%2Fg%2F11c0vnddr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saishree+IVF+Infertility+and+Test+Tube+Center/@18.5592971,73.8032587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf3ac526c445:0x3019ef87cae329a7!8m2!3d18.5592971!4d73.8032587!16s%2Fg%2F11c0vnddr4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5592971,
+      "lng": 73.8032587,
+      "label": "Saishree IVF Infertility and Test Tube Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saishree-vitalife-hospital-aundh-pune",
+    "name": "SaiShree Vitalife Hospital - Aundh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, SaiShree Vitalife Hospital - Aundh offers coordinated hospital care with major focus on Knee Replacement Surgery In Pune. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0206 744 8600",
+    "alternatePhone": "",
+    "website": "http://www.saishreehospital.org/",
+    "address": "no 1104/03 plot, SR. No. 157, CTS, 26, DP Rd, Aundh, Pune, Maharashtra 411067",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411067",
+    "locality": "Aundh",
+    "landmark": "CTS",
+    "emergencyContact": "0206 744 8600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SaiShree+Vitalife+Hospital+-+Aundh/@18.5601573,73.8052354,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2ff3d8438b:0x5f40cbe761e74f72!8m2!3d18.5601573!4d73.8052354!16s%2Fg%2F11c5_4s6c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SaiShree+Vitalife+Hospital+-+Aundh/@18.5601573,73.8052354,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf2ff3d8438b:0x5f40cbe761e74f72!8m2!3d18.5601573!4d73.8052354!16s%2Fg%2F11c5_4s6c5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5601573,
+      "lng": 73.8052354,
+      "label": "SaiShree Vitalife Hospital - Aundh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sakhiya-clinic-pune",
+    "name": "Sakhiya Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sakhiya Clinic has built a strong reputation in Pune for multidisciplinary treatment pathways covering Plastic Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.sakhiyaskinclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=pune",
+    "address": "102, 1st Floor, Jewel Tower, Lane No. 8, Ashok Chakra Society, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Jewel Tower",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/sakhiyaskinclinic/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@SakhiyaSkinClinicReview/videos",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sakhiya+Clinic/@18.53649,73.8973572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c916975c069d:0x8207a0627024118e!8m2!3d18.53649!4d73.8973572!16s%2Fg%2F11fxvk_k4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sakhiya+Clinic/@18.53649,73.8973572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c916975c069d:0x8207a0627024118e!8m2!3d18.53649!4d73.8973572!16s%2Fg%2F11fxvk_k4y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.53649,
+      "lng": 73.8973572,
+      "label": "Sakhiya Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sancheti-hospital-pune",
+    "name": "Sancheti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Sancheti Hospital delivers integrated care across Spine Surgery In Pune. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@sanchetihospital.org",
+    "phone": "088888 08845",
+    "alternatePhone": "+91 70666 27979",
+    "website": "https://sanchetihospital.org/",
+    "address": "11/12 16 16, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Shivajinagar",
+    "emergencyContact": "+91 70666 27979",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/sanchetihospital.org/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/sancheti_hospital_india/?hl=en",
+    "linkedin": "https://in.linkedin.com/company/sancheti-hospital",
+    "youtube": "http://www.youtube.com/@SanchetiHospitalPune",
+    "specialties": [
+      "Spine Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sancheti+Hospital/@18.5299624,73.852979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c086dd5c5e85:0x8a8ad0458938df70!8m2!3d18.5299624!4d73.852979!16s%2Fg%2F1vqmgtqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sancheti+Hospital/@18.5299624,73.852979,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c086dd5c5e85:0x8a8ad0458938df70!8m2!3d18.5299624!4d73.852979!16s%2Fg%2F1vqmgtqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5299624,
+      "lng": 73.852979,
+      "label": "Sancheti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "scalpel-speciality-clinic-pune",
+    "name": "Scalpel Speciality Clinic",
+    "type": "Proctologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Scalpel Speciality Clinic for its strength in General Surgery In Pune, Proctologist, and Speciality Care. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086692 26565",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D/108,First floor, Dhanori-Lohegaon Rd, above Wellness 365 medical, Madhav Nagar, Dhanori, Pune, Maharashtra 411015",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411015",
+    "locality": "Dhanori",
+    "landmark": "Dhanori-Lohegaon Rd",
+    "emergencyContact": "086692 26565",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune",
+      "Proctologist",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Scalpel+Speciality+Clinic/@18.5974998,73.9015634,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7e191b31de9:0x94d76800411325ef!8m2!3d18.5974998!4d73.9015634!16s%2Fg%2F11lrp37wy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Scalpel+Speciality+Clinic/@18.5974998,73.9015634,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c7e191b31de9:0x94d76800411325ef!8m2!3d18.5974998!4d73.9015634!16s%2Fg%2F11lrp37wy7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5974998,
+      "lng": 73.9015634,
+      "label": "Scalpel Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sheela-dental-clinic-pune",
+    "name": "Sheela dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Sheela dental clinic delivers integrated care across Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095454 57446",
+    "alternatePhone": "",
+    "website": "https://sheeladentalclinic.com/",
+    "address": "Shree Mahalaxmi Nagar, Chaitraban, Mahalaxmi Nagar, Bibwewadi, Pune, Maharashtra 411037",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411037",
+    "locality": "Bibwewadi",
+    "landmark": "Mahalaxmi Nagar",
+    "emergencyContact": "095454 57446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sheela+dental+clinic/@18.4606953,73.8646945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eae53f3f44e3:0x62a25a9e9be057c7!8m2!3d18.4606953!4d73.8646945!16s%2Fg%2F1pp2w_85l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sheela+dental+clinic/@18.4606953,73.8646945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eae53f3f44e3:0x62a25a9e9be057c7!8m2!3d18.4606953!4d73.8646945!16s%2Fg%2F1pp2w_85l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4606953,
+      "lng": 73.8646945,
+      "label": "Sheela dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-mantra-pune",
+    "name": "Skin Mantra",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Skin Mantra offers coordinated hospital care with major focus on Cosmetic Surgery In Pune. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089999 03392",
+    "alternatePhone": "",
+    "website": "",
+    "address": "302, the greens hsg soc, Opp enclothe showroom, N Main Rd, besides hdfc bank, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Opp enclothe showroom",
+    "emergencyContact": "089999 03392",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Mantra/@18.5385544,73.8970814,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1bef89cd5fb:0x4662f800fd9ed69f!8m2!3d18.5385544!4d73.8970814!16s%2Fg%2F11g10fwk7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Mantra/@18.5385544,73.8970814,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1bef89cd5fb:0x4662f800fd9ed69f!8m2!3d18.5385544!4d73.8970814!16s%2Fg%2F11g10fwk7j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5385544,
+      "lng": 73.8970814,
+      "label": "Skin Mantra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-world-clinic-pune",
+    "name": "Skin World Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Skin World Clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Pune. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@skinworldindia.com",
+    "phone": "077200 00666",
+    "alternatePhone": "0202 615 1666",
+    "website": "http://www.skinworldindia.com/",
+    "address": "2nd floor, Ganga Commerce Lane No.5, Corner, N Main Rd, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Corner",
+    "emergencyContact": "0202 615 1666",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SkinWorldIndia",
+    "twitter": "https://twitter.com/skinworldindia",
+    "instagram": "https://www.instagram.com/skinworldindia/",
+    "linkedin": "https://www.linkedin.com/in/skinworldindia/",
+    "youtube": "https://www.youtube.com/channel/UCzx0Ged2b0dOfFtsIZIwyZA",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+World+Clinic/@18.5391255,73.8974115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1042a072dd5:0x1ec92c7be002453d!8m2!3d18.5391255!4d73.8974115!16s%2Fg%2F11c72q9hsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+World+Clinic/@18.5391255,73.8974115,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1042a072dd5:0x1ec92c7be002453d!8m2!3d18.5391255!4d73.8974115!16s%2Fg%2F11c72q9hsf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5391255,
+      "lng": 73.8974115,
+      "label": "Skin World Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-n-shine-orthodontist-in-kothrud-orthodontic-treatment-in-pune-orthodontic-consultant-in-pune-pune",
+    "name": "Smile N Shine | orthodontist in kothrud | orthodontic treatment in pune | orthodontic consultant in pune",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, Smile N Shine | orthodontist in kothrud | orthodontic treatment in pune | orthodontic consultant in pune delivers integrated care across Oral Surgery In Pune and Orthopaedics. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "bhushanjawale1@gmail.com",
+    "phone": "098502 99277",
+    "alternatePhone": "+91 90110 00535",
+    "website": "https://www.puneorthodontist.com/",
+    "address": "Off. No.17 to 19, 3rd floor, The Millenium Apartment, opposite Rajmal Lakhichand Jewellers, Karve Rd, Nal Stop, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "opposite Rajmal Lakhichand Jewellers, Karve Rd, Nal Stop, Erandwane, Pune, Maharashtra 411004",
+    "emergencyContact": "+91 90110 00535",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+N+Shine+%7C+orthodontist+in+kothrud+%7C+orthodontic+treatment+in+pune+%7C+orthodontic+consultant+in+pune/data=!4m7!3m6!1s0x3bc2bfeab6bad369:0xc74b7bece7cb17eb!8m2!3d18.5090246!4d73.8324091!16s%2Fg%2F1tj5p5c6!19sChIJadO6tuq_wjsR6xfL5-x7S8c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+N+Shine+%7C+orthodontist+in+kothrud+%7C+orthodontic+treatment+in+pune+%7C+orthodontic+consultant+in+pune/data=!4m7!3m6!1s0x3bc2bfeab6bad369:0xc74b7bece7cb17eb!8m2!3d18.5090246!4d73.8324091!16s%2Fg%2F1tj5p5c6!19sChIJadO6tuq_wjsR6xfL5-x7S8c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5090246,
+      "lng": 73.8324091,
+      "label": "Smile N Shine | orthodontist in kothrud | orthodontic treatment in pune | orthodontic consultant in pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smilekraft-dentistry-pune",
+    "name": "Smilekraft Dentistry ®",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Smilekraft Dentistry ® for its strength in Oral Surgery In Pune. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "drpriyank@smilekraftdentistry.com",
+    "phone": "084596 47556",
+    "alternatePhone": "+91 99701 92595",
+    "website": "https://www.smilekraftdentistry.com/",
+    "address": "Smilekraft Dentistry, Row house No. B 5, Gulmohar Residency Lane 1, Baner Rd, across Laxman Nagar Road, beside Karnataka Bank, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "beside Karnataka Bank, Baner, Pune, Maharashtra 411045",
+    "emergencyContact": "+91 99701 92595",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Smilekraftdentistry?fref=ts",
+    "twitter": "https://twitter.com/drpriyankmathur",
+    "instagram": "https://www.instagram.com/drpm.dentist/",
+    "linkedin": "https://www.linkedin.com/in/dr-priyank-mathur-aa15ab51",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smilekraft+Dentistry+%C2%AE/@18.5676005,73.7695947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b93c58605e4f:0x67df74d87dac055a!8m2!3d18.5676005!4d73.7695947!16s%2Fg%2F1tgz3y4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smilekraft+Dentistry+%C2%AE/@18.5676005,73.7695947,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b93c58605e4f:0x67df74d87dac055a!8m2!3d18.5676005!4d73.7695947!16s%2Fg%2F1tgz3y4v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5676005,
+      "lng": 73.7695947,
+      "label": "Smilekraft Dentistry ®",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smylexl-dental-clinic-viman-nagar-pune",
+    "name": "SmyleXL Dental Clinic Viman Nagar",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SmyleXL Dental Clinic Viman Nagar has built a strong reputation in Pune for multidisciplinary treatment pathways covering Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "hello@smylexl.com",
+    "phone": "096897 80000",
+    "alternatePhone": "+91 85300 22212",
+    "website": "https://smylexl.com/dental-clinic-in-viman-nagar/",
+    "address": "1st floor, Town Square Building, A-108, Airport Rd, Mhada Colony, Viman Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Viman Nagar",
+    "landmark": "A-108",
+    "emergencyContact": "+91 85300 22212",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Smyle-XL-1867054226932620/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/smylexl/?hl=en",
+    "linkedin": "https://www.linkedin.com/company/40914958",
+    "youtube": "https://www.youtube.com/channel/UCf5Nu3NBeVKVc_V17cULQIA",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Viman+Nagar/@18.5685374,73.9074872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c139f8965733:0xf2822f0bc781d79!8m2!3d18.5685374!4d73.9074872!16s%2Fg%2F11ghv31p0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Viman+Nagar/@18.5685374,73.9074872,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c139f8965733:0xf2822f0bc781d79!8m2!3d18.5685374!4d73.9074872!16s%2Fg%2F11ghv31p0q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5685374,
+      "lng": 73.9074872,
+      "label": "SmyleXL Dental Clinic Viman Nagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "solace-hair-transplant-pvt-ltd-pune",
+    "name": "Solace Hair Transplant Pvt Ltd",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Solace Hair Transplant Pvt Ltd for its strength in Cosmetic Surgery In Pune. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "solacehairpune@gmail.com",
+    "phone": "091460 11563",
+    "alternatePhone": "+91 91460 51163",
+    "website": "http://www.solacehairindia.com/",
+    "address": "Office No 5 6 Building, 1237, Apte Rd, P & T Colony, Shivajinagar, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Shivajinagar",
+    "landmark": "Apte Rd",
+    "emergencyContact": "+91 91460 51163",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SolaceHairTransplant",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/solacehairindia/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@SolaceHairTransplantClinicPune/videos",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Solace+Hair+Transplant+Pvt+Ltd/@18.5190444,73.8427988,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0786ee0ffff:0xec3e86d17669813f!8m2!3d18.5190444!4d73.8427988!16s%2Fg%2F11dzvj2dlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Solace+Hair+Transplant+Pvt+Ltd/@18.5190444,73.8427988,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0786ee0ffff:0xec3e86d17669813f!8m2!3d18.5190444!4d73.8427988!16s%2Fg%2F11dzvj2dlx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5190444,
+      "lng": 73.8427988,
+      "label": "Solace Hair Transplant Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "somani-cardiac-and-gynecology-center-pune",
+    "name": "Somani Cardiac and Gynecology Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Somani Cardiac and Gynecology Center brings together specialists for Heart Surgery In Pune and Cardiac Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "abhaysomani@rediffmail.com",
+    "phone": "099216 88551",
+    "alternatePhone": "+91 98348 22692",
+    "website": "https://somanicardiacandgynaecologycentre.in/",
+    "address": "Office no 105, 1, st floor, 4 th Dimension, Gulawani Maharaj Road, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "st floor",
+    "emergencyContact": "+91 98348 22692",
+    "emergencyServices": false,
+    "facebook": "http://facebook.com/somani.centre",
+    "twitter": "",
+    "instagram": "http://instagram.com/somani.hospital",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Pune",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Somani+Cardiac+and+Gynecology+Center/@18.5029622,73.8290471,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed6a167383:0x42356ea24cec86b7!8m2!3d18.5029622!4d73.8290471!16s%2Fg%2F11dfgt05q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Somani+Cardiac+and+Gynecology+Center/@18.5029622,73.8290471,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfed6a167383:0x42356ea24cec86b7!8m2!3d18.5029622!4d73.8290471!16s%2Fg%2F11dfgt05q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5029622,
+      "lng": 73.8290471,
+      "label": "Somani Cardiac and Gynecology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "soulful-dental-care-pediatric-dentist-in-pune-dental-clinic-for-kids-in-kothrud-pune-pune",
+    "name": "Soulful Dental Care | Pediatric Dentist in Pune | Dental Clinic For Kids in Kothrud , Pune",
+    "type": "Pediatric Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Soulful Dental Care | Pediatric Dentist in Pune | Dental Clinic For Kids in Kothrud , Pune is a prominent pediatric dentist in Pune, known for structured tertiary care across Oral Surgery In Pune and Pediatric Dentist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "swapnil.rachha@gmail.com",
+    "phone": "090229 20992",
+    "alternatePhone": "+91 94050 45454",
+    "website": "https://www.soulfuldental.com/",
+    "address": "Office No.308, 3rd Floor, Karve Rd, above Tanishq Showroom Karve Putala, Paschimanagri, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "Karve Rd",
+    "emergencyContact": "+91 94050 45454",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SoulfulDentalCare/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/soulfuldental/?hl=en",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@soulfuldentalcare9467",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Pediatric Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Soulful+Dental+Care+%7C+Pediatric+Dentist+in+Pune+%7C+Dental+Clinic+For+Kids+in+Kothrud+,+Pune/@18.5019275,73.8164766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfc31b8824b5:0xe9cd902dd4116960!8m2!3d18.5019275!4d73.8164766!16s%2Fg%2F11c5svtkyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Soulful+Dental+Care+%7C+Pediatric+Dentist+in+Pune+%7C+Dental+Clinic+For+Kids+in+Kothrud+,+Pune/@18.5019275,73.8164766,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfc31b8824b5:0xe9cd902dd4116960!8m2!3d18.5019275!4d73.8164766!16s%2Fg%2F11c5svtkyk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5019275,
+      "lng": 73.8164766,
+      "label": "Soulful Dental Care | Pediatric Dentist in Pune | Dental Clinic For Kids in Kothrud , Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spine-clinic-sancheti-hospital-pune-pune",
+    "name": "Spine Clinic @Sancheti Hospital, Pune",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Spine Clinic @Sancheti Hospital, Pune is a prominent medical clinic in Pune, known for structured tertiary care across Spine Surgery In Pune and Spine Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Sancheti Hospital, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411005",
+    "locality": "Shivajinagar",
+    "landmark": "Narveer Tanaji Wadi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Pune",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Spine+Clinic+@Sancheti+Hospital,+Pune/@18.5298321,73.8531413,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1bf59f7d5fd:0x77af130bfbc82f73!8m2!3d18.5298321!4d73.8531413!16s%2Fg%2F11rn36snbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spine+Clinic+@Sancheti+Hospital,+Pune/@18.5298321,73.8531413,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1bf59f7d5fd:0x77af130bfbc82f73!8m2!3d18.5298321!4d73.8531413!16s%2Fg%2F11rn36snbn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5298321,
+      "lng": 73.8531413,
+      "label": "Spine Clinic @Sancheti Hospital, Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sun-clinic-pune",
+    "name": "SUN Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted surgical center in Pune, SUN Clinic delivers integrated care across Urologist Surgery In Pune and Surgical Center. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093702 75336",
+    "alternatePhone": "",
+    "website": "http://www.stitchless-circumcision.com/",
+    "address": "Shop No.111, Sai Platinum 559, Laxmi Rd, next to Jyoti gas appliances, Sadashiv Peth, Pune, Maharashtra 411030",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411030",
+    "locality": "Sadashiv Peth",
+    "landmark": "Laxmi Rd",
+    "emergencyContact": "093702 75336",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Pune",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SUN+Clinic/@18.5137951,73.8478148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0713ad2489d:0x9ee9d1d36d093831!8m2!3d18.5137951!4d73.8478148!16s%2Fg%2F12cpck0gy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SUN+Clinic/@18.5137951,73.8478148,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0713ad2489d:0x9ee9d1d36d093831!8m2!3d18.5137951!4d73.8478148!16s%2Fg%2F12cpck0gy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5137951,
+      "lng": 73.8478148,
+      "label": "SUN Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sun-dental-and-maxillofacial-pune",
+    "name": "Sun Dental & Maxillofacial",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sun Dental & Maxillofacial is a prominent dental clinic in Pune, known for structured tertiary care across Oral Surgery In Pune and Maxillofacial Surgery. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "sundeental@gmail.com",
+    "phone": "070836 77677",
+    "alternatePhone": "",
+    "website": "https://suncleftdentalpune.com/",
+    "address": "Shiv-Pushp Landmark,1st Floor Shiv Pushp Chowk, SunCity Lane, Sinhgad Rd, above City Mart, Anand Nagar, Pune, Maharashtra 411051",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411051",
+    "locality": "Anand Nagar",
+    "landmark": "SunCity Lane",
+    "emergencyContact": "070836 77677",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://youtube.com/@sundentalmaxillofacial?si=KUO6OB8fgQR1vpYF",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sun+Dental+%26+Maxillofacial/@18.4778016,73.8204422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295e31ca7cb51:0xf652e846c2102ea3!8m2!3d18.4778016!4d73.8204422!16s%2Fg%2F11h5dnlh8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sun+Dental+%26+Maxillofacial/@18.4778016,73.8204422,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295e31ca7cb51:0xf652e846c2102ea3!8m2!3d18.4778016!4d73.8204422!16s%2Fg%2F11h5dnlh8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4778016,
+      "lng": 73.8204422,
+      "label": "Sun Dental & Maxillofacial",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suprabha-heart-centre-and-speciality-clinic-pune",
+    "name": "Suprabha Heart Centre & Speciality Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, Suprabha Heart Centre & Speciality Clinic offers coordinated hospital care with major focus on Cardiac Surgery In Pune, Cardiac Care, and Speciality Care. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098230 53241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 208, 209, Centre Point, Second Floor, Shop, 210, Mitra Mandal Chowk, Parvati, Pune, Maharashtra 411009",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411009",
+    "locality": "Parvati",
+    "landmark": "Centre Point",
+    "emergencyContact": "098230 53241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Pune",
+      "Cardiac Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Suprabha+Heart+Centre+%26+Speciality+Clinic/@18.497107,73.85587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0173ea4e3cb:0x75fd7d16255b76aa!8m2!3d18.497107!4d73.85587!16s%2Fg%2F11b5qsfgfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suprabha+Heart+Centre+%26+Speciality+Clinic/@18.497107,73.85587,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0173ea4e3cb:0x75fd7d16255b76aa!8m2!3d18.497107!4d73.85587!16s%2Fg%2F11b5qsfgfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.497107,
+      "lng": 73.85587,
+      "label": "Suprabha Heart Centre & Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surgery-pune-pune",
+    "name": "Surgery Pune",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Surgery Pune is a prominent plastic surgery clinic in Pune, known for structured tertiary care across Plastic Surgery In Pune. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092720 07896",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sr. No 202, 2nd Floor, Swastik Chambers, Erandwane, above ICICI Bank, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "above ICICI Bank",
+    "landmark": "Swastik Chambers",
+    "emergencyContact": "092720 07896",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Surgery+Pune/@18.509413,73.835025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8c13a063d5:0x1103d163617cf10!8m2!3d18.509413!4d73.835025!16s%2Fg%2F11g71c6mcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Surgery+Pune/@18.509413,73.835025,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf8c13a063d5:0x1103d163617cf10!8m2!3d18.509413!4d73.835025!16s%2Fg%2F11g71c6mcs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.509413,
+      "lng": 73.835025,
+      "label": "Surgery Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surgi-smile-pune",
+    "name": "SURGI SMILE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pune, SURGI SMILE offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "surgismile.drkunal@gmail.com",
+    "phone": "095799 40931",
+    "alternatePhone": "98606 73944",
+    "website": "http://surgismileface.dental-care.co.in/",
+    "address": "Shop No 17, A2, Empire Estate Rd, nr. Ranka Jewellers, off Old Mumbai - Pune Highway, Empire Estate Phase 1, Chinchwad, Pune, Pimpri-Chinchwad, Maharashtra 411019",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "locality": "Chinchwad",
+    "landmark": "Empire Estate Rd",
+    "emergencyContact": "98606 73944",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/surgismilee/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/surgismile/?hl=en",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SURGI+SMILE/@18.634044,73.7979959,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9c78e855691:0x754498614b8ca30d!8m2!3d18.634044!4d73.7979959!16s%2Fg%2F11k96nc5dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SURGI+SMILE/@18.634044,73.7979959,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9c78e855691:0x754498614b8ca30d!8m2!3d18.634044!4d73.7979959!16s%2Fg%2F11k96nc5dc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.634044,
+      "lng": 73.7979959,
+      "label": "SURGI SMILE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sushrut-cancer-clinic-pune",
+    "name": "Sushrut Cancer Clinic",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Pune, Sushrut Cancer Clinic delivers integrated care across Oncologist Surgery In Pune and Cancer Treatment Center. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@znt-sa.com",
+    "phone": "077091 15000",
+    "alternatePhone": "",
+    "website": "http://sushrutcancerclinic.com/",
+    "address": "Apartments, Mahabali Chowk, Shahunagar, MIDC, Chinchwad, Pune, Pimpri-Chinchwad, Maharashtra 411019",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411019",
+    "locality": "Chinchwad",
+    "landmark": "Shahunagar",
+    "emergencyContact": "077091 15000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sushrut+Cancer+Clinic/@18.6580047,73.8068691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9b54389d019:0xf97a1fb886c1e48d!8m2!3d18.6580047!4d73.8068691!16s%2Fg%2F11hczkx_bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sushrut+Cancer+Clinic/@18.6580047,73.8068691,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9b54389d019:0xf97a1fb886c1e48d!8m2!3d18.6580047!4d73.8068691!16s%2Fg%2F11hczkx_bv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6580047,
+      "lng": 73.8068691,
+      "label": "Sushrut Cancer Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sushrut-hospital-smhipl-paud-road-pune-hospital-in-kothrud-pune",
+    "name": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud has built a strong reputation in Pune for multidisciplinary treatment pathways covering Hip Replacement Surgery In Pune. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "admin@sushruthospitalpune.com",
+    "phone": "0203 532 0000",
+    "alternatePhone": "+91 74100 25072",
+    "website": "https://www.sushruthospitalpune.com/",
+    "address": "46/2B/2, Paud Rd, Mahaganesh Colony, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "Mahaganesh Colony",
+    "emergencyContact": "+91 74100 25072",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/embed/OzKPCTsQ6qk",
+    "specialties": [
+      "Hip Replacement Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sushrut+hospital+%28SMHIPL%29+%7C+Paud+Road,+Pune+%7C+Hospital+in+Kothrud/data=!4m7!3m6!1s0x3bc2bfe1968ea561:0xf995e2b0c80a09ca!8m2!3d18.5094849!4d73.8212733!16s%2Fg%2F11f62f0_8w!19sChIJYaWOluG_wjsRygkKyLDilfk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sushrut+hospital+%28SMHIPL%29+%7C+Paud+Road,+Pune+%7C+Hospital+in+Kothrud/data=!4m7!3m6!1s0x3bc2bfe1968ea561:0xf995e2b0c80a09ca!8m2!3d18.5094849!4d73.8212733!16s%2Fg%2F11f62f0_8w!19sChIJYaWOluG_wjsRygkKyLDilfk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5094849,
+      "lng": 73.8212733,
+      "label": "Sushrut hospital (SMHIPL) | Paud Road, Pune | Hospital in Kothrud",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suyog-dental-clinic-vishrantwadi-chowk",
+    "name": "Suyog Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Vishrantwadi Chowk, Suyog Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Pune. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083290 67460",
+    "alternatePhone": "+91 82752 66231",
+    "website": "https://suyogdentalclinic.com/",
+    "address": "Vishrantwadi Chowk, Maharashtra 411015",
+    "city": "Vishrantwadi Chowk",
+    "state": "Maharashtra",
+    "pincode": "411015",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "+91 82752 66231",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/suyogdentalclinicpune/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/",
+    "specialties": [
+      "Oral Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Suyog+Dental+Clinic/data=!4m7!3m6!1s0x3bc2c1c31bcf7775:0xff4f365c4088fc4!8m2!3d18.5728546!4d73.8777868!16s%2Fg%2F11fmyjklzv!19sChIJdXfPG8PBwjsRxI8IxGXz9A8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suyog+Dental+Clinic/data=!4m7!3m6!1s0x3bc2c1c31bcf7775:0xff4f365c4088fc4!8m2!3d18.5728546!4d73.8777868!16s%2Fg%2F11fmyjklzv!19sChIJdXfPG8PBwjsRxI8IxGXz9A8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5728546,
+      "lng": 73.8777868,
+      "label": "Suyog Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swami-s-ent-dental-and-cosmetic-clinic-pune",
+    "name": "SWAMI'S ENT DENTAL & COSMETIC CLINIC",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose SWAMI'S ENT DENTAL & COSMETIC CLINIC for its strength in Plastic Surgery In Pune and ENT. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091353 21616",
+    "alternatePhone": "",
+    "website": "https://swamisentdentalclinic.com/",
+    "address": "BusStop, Water Tank, 2nd Floor, Vedriti Building, Above Gajlaxmi Jewellers & Mahindra Showroom, Tata Guardroom, Pune Nagar Rd, Chandan Nagar, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Chandan Nagar",
+    "landmark": "2nd Floor",
+    "emergencyContact": "091353 21616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SWAMI'S+ENT+DENTAL+%26+COSMETIC+CLINIC/@18.5621171,73.9281547,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15098e671bd:0xb3c415cbefd73b1a!8m2!3d18.5621171!4d73.9281547!16s%2Fg%2F11lv96jjh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SWAMI'S+ENT+DENTAL+%26+COSMETIC+CLINIC/@18.5621171,73.9281547,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c15098e671bd:0xb3c415cbefd73b1a!8m2!3d18.5621171!4d73.9281547!16s%2Fg%2F11lv96jjh2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5621171,
+      "lng": 73.9281547,
+      "label": "SWAMI'S ENT DENTAL & COSMETIC CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swayam-clinic-and-nursing-home-pune",
+    "name": "Swayam Clinic And Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swayam Clinic And Nursing Home has built a strong reputation in Pune for multidisciplinary treatment pathways covering General Surgery In Pune. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0202 635 3833",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahatma Phule Rasta, opposite Navin Hind School Complex, New Modikhana, Bhawani Peth, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Bhawani Peth",
+    "landmark": "opposite Navin Hind School Complex, New Modikhana, Bhawani Peth, Pune, Maharashtra 411001",
+    "emergencyContact": "0202 635 3833",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swayam+Clinic+And+Nursing+Home/@18.5077902,73.8759481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0380d923b4b:0xf0d4d24fed6e2a74!8m2!3d18.5077902!4d73.8759481!16s%2Fg%2F1pxq2xzjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swayam+Clinic+And+Nursing+Home/@18.5077902,73.8759481,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0380d923b4b:0xf0d4d24fed6e2a74!8m2!3d18.5077902!4d73.8759481!16s%2Fg%2F1pxq2xzjl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5077902,
+      "lng": 73.8759481,
+      "label": "Swayam Clinic And Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "teeth-and-faces-best-dental-clinic-in-pune-dentist-in-kharadi-dental-clinic-in-kharadi-pune",
+    "name": "Teeth And Faces | Best Dental Clinic In Pune | Dentist In Kharadi | Dental Clinic in Kharadi",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Pune, Teeth And Faces | Best Dental Clinic In Pune | Dentist In Kharadi | Dental Clinic in Kharadi delivers integrated care across Oral Surgery In Pune and Dentist. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090222 80343",
+    "alternatePhone": "",
+    "website": "http://teethandfaces.com/",
+    "address": "Gate no 3, infront of forest county, Shop no 105 grandstand 2, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Shop no 105 grandstand 2",
+    "landmark": "Shop no 105 grandstand 2",
+    "emergencyContact": "090222 80343",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/teeth.and.faces/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/teethandfaces.clinic",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Teeth+And+Faces+%7C+Best+Dental+Clinic+In+Pune+%7C+Dentist+In+Kharadi+%7C+Dental+Clinic+in+Kharadi/@18.5590442,73.9480122,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3dd6537f493:0xcebd6ae228d7e705!8m2!3d18.5590442!4d73.9480122!16s%2Fg%2F11c209h6t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Teeth+And+Faces+%7C+Best+Dental+Clinic+In+Pune+%7C+Dentist+In+Kharadi+%7C+Dental+Clinic+in+Kharadi/@18.5590442,73.9480122,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3dd6537f493:0xcebd6ae228d7e705!8m2!3d18.5590442!4d73.9480122!16s%2Fg%2F11c209h6t1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5590442,
+      "lng": 73.9480122,
+      "label": "Teeth And Faces | Best Dental Clinic In Pune | Dentist In Kharadi | Dental Clinic in Kharadi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-liver-clinic-kolkata",
+    "name": "The Liver Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Liver Clinic has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Liver Transplant Surgery In Pune, Surgical Center, and Liver Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "202, Purbachal Main Rd, Purbachal, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Pune",
+      "Surgical Center",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Liver+Clinic/@22.5024883,88.3926269,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02710013d4c9df:0x136267f6a74778b9!8m2!3d22.5024883!4d88.3926269!16s%2Fg%2F11vww0b3p4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.5024883,
+      "lng": 88.3926269,
+      "label": "The Liver Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-nice-skin-clinic-laser-botox-fillers-hair-regrowth-skin-tone-lightening-pune",
+    "name": "THE NICE SKIN CLINIC | LASER | BOTOX | FILLERS | HAIR REGROWTH | SKIN TONE LIGHTENING",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose THE NICE SKIN CLINIC | LASER | BOTOX | FILLERS | HAIR REGROWTH | SKIN TONE LIGHTENING for its strength in Cosmetic Surgery In Pune. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088309 07255",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Liberty Society Phase 2 | C1 - C10 Building | 1st Floor | Office C#4 |, N Main Rd, inside Black Colour OUT GATE, next to Medico Point, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "inside Black Colour OUT GATE",
+    "emergencyContact": "088309 07255",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/THE+NICE+SKIN+CLINIC+%7C+LASER+%7C+BOTOX+%7C+FILLERS+%7C+HAIR+REGROWTH+%7C+SKIN+TONE+LIGHTENING/@18.5401587,73.8977779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11b45d71ad5:0xd3e04ac0438f2dae!8m2!3d18.5401587!4d73.8977779!16s%2Fg%2F11qhgbdvmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/THE+NICE+SKIN+CLINIC+%7C+LASER+%7C+BOTOX+%7C+FILLERS+%7C+HAIR+REGROWTH+%7C+SKIN+TONE+LIGHTENING/@18.5401587,73.8977779,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11b45d71ad5:0xd3e04ac0438f2dae!8m2!3d18.5401587!4d73.8977779!16s%2Fg%2F11qhgbdvmz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5401587,
+      "lng": 73.8977779,
+      "label": "THE NICE SKIN CLINIC | LASER | BOTOX | FILLERS | HAIR REGROWTH | SKIN TONE LIGHTENING",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-painex-clinic-nigdi-non-surgical-and-most-advanced-pain-management-clinic-in-pcmc-pune",
+    "name": "The Painex Clinic Nigdi | Non-Surgical & Most-Advanced Pain Management Clinic in PCMC",
+    "type": "Pain Control Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Painex Clinic Nigdi | Non-Surgical & Most-Advanced Pain Management Clinic in PCMC has built a strong reputation in Pune for multidisciplinary treatment pathways covering Spine Neurosurgeon In Pune. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "painexpainclinic@gmail.com",
+    "phone": "083904 42266",
+    "alternatePhone": "090677 53355",
+    "website": "https://www.painex.org/",
+    "address": "Gandhi Nursing Home - Best General Surgeon in Pimpri Chinchwad, Pune | Laparoscopic, Hernia, Piles in Pimpri Chinchwad, Pune, Dattatray Krushnaji, Plot 102, Bhosale Road, Sector No. 24, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411044",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411044",
+    "locality": "Piles in Pimpri Chinchwad",
+    "landmark": "Hernia",
+    "emergencyContact": "083904 42266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Painex+Clinic+Nigdi+%7C+Non-Surgical+%26+Most-Advanced+Pain+Management+Clinic+in+PCMC/@18.65942,73.7732901,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf071fe3c44f:0x4856485dbb1a3dc0!8m2!3d18.65942!4d73.7732901!16s%2Fg%2F11g2360m6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Painex+Clinic+Nigdi+%7C+Non-Surgical+%26+Most-Advanced+Pain+Management+Clinic+in+PCMC/@18.65942,73.7732901,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf071fe3c44f:0x4856485dbb1a3dc0!8m2!3d18.65942!4d73.7732901!16s%2Fg%2F11g2360m6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.65942,
+      "lng": 73.7732901,
+      "label": "The Painex Clinic Nigdi | Non-Surgical & Most-Advanced Pain Management Clinic in PCMC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-wedding-clinic-pre-bridal-skin-hair-laser-clinic-pune",
+    "name": "The Wedding Clinic - Pre Bridal Skin Hair Laser Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Pune, The Wedding Clinic - Pre Bridal Skin Hair Laser Clinic delivers integrated care across Cosmetic Surgery In Pune. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074474 55277",
+    "alternatePhone": "",
+    "website": "https://pune.theweddingclinic.com/",
+    "address": "Mantri Manor C1, Lane Number 5, Suyojana Society, Kavadewadi, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "Suyojana Society",
+    "emergencyContact": "074474 55277",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/theweddingclinicindia?mibextid=LQQJ4d",
+    "twitter": "https://twitter.com/weddingclinic1",
+    "instagram": "https://www.instagram.com/theweddingclinic?igsh=ZjQyeWh5ZXBiMmVz",
+    "linkedin": "",
+    "youtube": "https://youtube.com/@theweddingclinic?si=X1BVJqhLiKy9DRiO",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Wedding+Clinic+-+Pre+Bridal+Skin+Hair+Laser+Clinic/@18.5347336,73.8970252,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10671446039:0x821c9d33dc6f08de!8m2!3d18.5347336!4d73.8970252!16s%2Fg%2F11dxd38gb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Wedding+Clinic+-+Pre+Bridal+Skin+Hair+Laser+Clinic/@18.5347336,73.8970252,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c10671446039:0x821c9d33dc6f08de!8m2!3d18.5347336!4d73.8970252!16s%2Fg%2F11dxd38gb6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5347336,
+      "lng": 73.8970252,
+      "label": "The Wedding Clinic - Pre Bridal Skin Hair Laser Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "umarji-mother-and-child-care-hospital-pune",
+    "name": "Umarji Mother and Child Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Pune, Umarji Mother and Child Care Hospital delivers integrated care across Gynecologist Surgery In Pune and Women and Child Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096070 01192",
+    "alternatePhone": "+91 85548 20001",
+    "website": "https://umarjihealthcare.com/",
+    "address": "Survey no. 13/1, comfort zone, Umarji Mother and Child Care hospital, beside Aditya Shagun, Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411045",
+    "locality": "Baner",
+    "landmark": "beside Aditya Shagun, Balewadi Phata, Baner, Pune, Maharashtra 411045",
+    "emergencyContact": "+91 85548 20001",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/umarjihospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/umarjihealthcare/?igshid=MzRIODBiNWFIZA",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@umarjimotherandchildcareho2722",
+    "specialties": [
+      "Gynecologist Surgery In Pune",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Umarji+Mother+and+Child+Care+Hospital/@18.5716519,73.7807983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b932ec0819e9:0xf2377938303bf5e7!8m2!3d18.5716519!4d73.7807983!16s%2Fg%2F11c55wdwqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Umarji+Mother+and+Child+Care+Hospital/@18.5716519,73.7807983,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b932ec0819e9:0xf2377938303bf5e7!8m2!3d18.5716519!4d73.7807983!16s%2Fg%2F11c55wdwqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5716519,
+      "lng": 73.7807983,
+      "label": "Umarji Mother and Child Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "universal-hospital-chaitanya-stem-cell-and-research-center-best-medical-tourism-in-india-pune",
+    "name": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India has built a strong reputation in Pune for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Pune. Its infrastructure includes Google rating 3.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090111 11222",
+    "alternatePhone": "95111 11222",
+    "website": "https://chaitanyastemcell.com/",
+    "address": "1420, NH 4, Lunanagar, Kasba Peth, Pune, Maharashtra 411011",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411011",
+    "locality": "Kasba Peth",
+    "landmark": "Lunanagar",
+    "emergencyContact": "95111 11222",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/anant.bagul.142",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/stemcell_india/",
+    "linkedin": "https://www.linkedin.com/in/anant-bagul-5786645a/",
+    "youtube": "https://www.youtube.com/@chaitanyastemcellpune/videos",
+    "specialties": [
+      "Kidney Transplant Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Universal+Hospital+-+Chaitanya+Stem+Cell+and+Research+Center+%7C+Best+Medical+Tourism+in+India/@18.5214655,73.8555761,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11d1c045195:0x92512dbe1698eab!8m2!3d18.5214655!4d73.8555761!16s%2Fg%2F11jln7hs9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Universal+Hospital+-+Chaitanya+Stem+Cell+and+Research+Center+%7C+Best+Medical+Tourism+in+India/@18.5214655,73.8555761,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c11d1c045195:0x92512dbe1698eab!8m2!3d18.5214655!4d73.8555761!16s%2Fg%2F11jln7hs9v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5214655,
+      "lng": 73.8555761,
+      "label": "Universal Hospital - Chaitanya Stem Cell and Research Center | Best Medical Tourism in India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urban-skin-clinic-pune",
+    "name": "Urban Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Urban Skin Clinic has built a strong reputation in Pune for multidisciplinary treatment pathways covering Cosmetic Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "social.urbanskinhair@gmail.com",
+    "phone": "089847 68984",
+    "alternatePhone": "+91 78218 20989",
+    "website": "https://urbanskinhairclinic.com/full-body-laser-hair-removal/",
+    "address": "Flat No. A 1/2, Pariseema Society, Shiorle road, Main Gate, opp. FERGUSSON COLLEGE, Deccan Gymkhana, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Deccan Gymkhana",
+    "landmark": "Shiorle road",
+    "emergencyContact": "+91 78218 20989",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Urban-Skin-Hair-Clinic/61555697687014/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/urbanskinhairclinicpune",
+    "linkedin": "https://www.linkedin.com/company/urban-skin-hair-clinic/?viewAsMember=true",
+    "youtube": "https://www.youtube.com/@UrbanSkinHairClinicPune",
+    "specialties": [
+      "Cosmetic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Urban+Skin+Clinic/@18.5227517,73.8416497,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfd9ef8d06a7:0x70f09acc7efe4a30!8m2!3d18.5227517!4d73.8416497!16s%2Fg%2F11thjvlfsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Urban+Skin+Clinic/@18.5227517,73.8416497,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfd9ef8d06a7:0x70f09acc7efe4a30!8m2!3d18.5227517!4d73.8416497!16s%2Fg%2F11thjvlfsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5227517,
+      "lng": 73.8416497,
+      "label": "Urban Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urolife-clinic-hadapsar-pune",
+    "name": "Urolife Clinic Hadapsar",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Urolife Clinic Hadapsar is a prominent urology clinic in Pune, known for structured tertiary care across Urologist Surgery In Pune. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "drirfanshaikh.social@gmail.com",
+    "phone": "086258 58575",
+    "alternatePhone": "+91 86863 53030",
+    "website": "https://urolife.in/",
+    "address": "Office No. 11, Aryan Center, above Axis Bank, opp. Vaibhav Complex, Laxmi Vihar, Hadapsar, Pune, Maharashtra 411028",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411028",
+    "locality": "Hadapsar",
+    "landmark": "above Axis Bank",
+    "emergencyContact": "+91 86863 53030",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/urolifeindia",
+    "twitter": "https://twitter.com/UrolifePune",
+    "instagram": "https://www.instagram.com/urolifepune/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCj34rz4N9Cjp2eAdrxmiHWA",
+    "specialties": [
+      "Urologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Urolife+Clinic+Hadapsar/@18.501946,73.9309047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c18d43989439:0xb20a298da40c0eb7!8m2!3d18.501946!4d73.9309047!16s%2Fg%2F11ltjnz6kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Urolife+Clinic+Hadapsar/@18.501946,73.9309047,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c18d43989439:0xb20a298da40c0eb7!8m2!3d18.501946!4d73.9309047!16s%2Fg%2F11ltjnz6kb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.501946,
+      "lng": 73.9309047,
+      "label": "Urolife Clinic Hadapsar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-l-mutha-cancer-center-deenanath-mangeshkar-hospital-pune",
+    "name": "V.L. Mutha Cancer Center Deenanath Mangeshkar Hospital",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Pune, V.L. Mutha Cancer Center Deenanath Mangeshkar Hospital delivers integrated care across Cancer Surgery In Pune and Cancer Treatment Center. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "DEENANATH MANGESHKAR HOSPITAL AND RESEARCH CENTER, 13/1/2, Himali Society, Vakil Nagar, Erandwane, Pune, Maharashtra 411004",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411004",
+    "locality": "Erandwane",
+    "landmark": "Himali Society",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Pune",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/V.L.+Mutha+Cancer+Center+Deenanath+Mangeshkar+Hospital/@18.5019396,73.832666,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff2f8c5e90f:0x874eddcda1e465d0!8m2!3d18.5019396!4d73.832666!16s%2Fg%2F11f0463jzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V.L.+Mutha+Cancer+Center+Deenanath+Mangeshkar+Hospital/@18.5019396,73.832666,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bff2f8c5e90f:0x874eddcda1e465d0!8m2!3d18.5019396!4d73.832666!16s%2Fg%2F11f0463jzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5019396,
+      "lng": 73.832666,
+      "label": "V.L. Mutha Cancer Center Deenanath Mangeshkar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "veer-ivf-centre-pimpri-chinchwad",
+    "name": "Veer IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Veer IVF Centre is a prominent fertility clinic in Pimpri-Chinchwad, known for structured tertiary care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "dr.rahul.veer.m@gmail.com",
+    "phone": "080480 34059",
+    "alternatePhone": "+91 84323 21414",
+    "website": "https://www.veerivfpune.com/",
+    "address": "VEER HOSPITAL, SUNLIGHT BAKERY LANE, OPPOSITE RUNWAL CLASSIC, Jyotiba Nagar, Kalewadi, Pimpri-Chinchwad, Maharashtra 411017",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411017",
+    "locality": "Kalewadi",
+    "landmark": "OPPOSITE RUNWAL CLASSIC, Jyotiba Nagar, Kalewadi, Pimpri-Chinchwad, Maharashtra 411017",
+    "emergencyContact": "+91 84323 21414",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/vivfpune/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Veer+IVF+Centre/@18.6127411,73.7865308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b91481a36cdf:0xecd7509c786caece!8m2!3d18.6127411!4d73.7865308!16s%2Fg%2F11f637n6y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Veer+IVF+Centre/@18.6127411,73.7865308,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b91481a36cdf:0xecd7509c786caece!8m2!3d18.6127411!4d73.7865308!16s%2Fg%2F11f637n6y8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6127411,
+      "lng": 73.7865308,
+      "label": "Veer IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vishwaraj-hospital-pune-pune",
+    "name": "VishwaRaj Hospital Pune",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose VishwaRaj Hospital Pune for its strength in Oncologist Surgery In Pune. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "+91 88866 06060",
+    "alternatePhone": "",
+    "website": "http://www.vishwarajhospital.com/",
+    "address": "Vishwaraj hospital, Near Loni Railway station Loni Kalbhor, Solapur - Pune Hwy, Pune, Maharashtra 412201",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "412201",
+    "locality": "Solapur - Pune Hwy",
+    "landmark": "Near Loni Railway station Loni Kalbhor, Solapur - Pune Hwy, Pune, Maharashtra 412201",
+    "emergencyContact": "+91 88866 06060",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/VishwarajHospitalPune/",
+    "twitter": "https://x.com/vrhpune",
+    "instagram": "https://www.instagram.com/vishwaraj_hospital",
+    "linkedin": "https://in.linkedin.com/company/vishwaraj-hospital",
+    "youtube": "https://www.youtube.com/@vishwarajhospital5487",
+    "specialties": [
+      "Oncologist Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VishwaRaj+Hospital+Pune/@18.4896546,74.0224807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2e962952e9f33:0x981154a5a58c7c16!8m2!3d18.4896546!4d74.0224807!16s%2Fg%2F11bwkdlty_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VishwaRaj+Hospital+Pune/@18.4896546,74.0224807,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2e962952e9f33:0x981154a5a58c7c16!8m2!3d18.4896546!4d74.0224807!16s%2Fg%2F11bwkdlty_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.4896546,
+      "lng": 74.0224807,
+      "label": "VishwaRaj Hospital Pune",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "wadekars-s-rhinoplasty-and-face-aesthetic-clinic-pune",
+    "name": "Wadekars's Rhinoplasty & Face Aesthetic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Wadekars's Rhinoplasty & Face Aesthetic Clinic for its strength in Plastic Surgery In Pune. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093560 30497",
+    "alternatePhone": "",
+    "website": "https://wadekarrhinoplastycenter.in/",
+    "address": "Office 209, Grand Horizon, Sinhgad Rd, Manik Baug, Anand Nagar, Pune, Maharashtra 411051",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411051",
+    "locality": "Anand Nagar",
+    "landmark": "Sinhgad Rd",
+    "emergencyContact": "093560 30497",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Pune"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Wadekars's+Rhinoplasty+%26+Face+Aesthetic+Clinic/@18.473778,73.8223157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295fd52b9adf5:0x3baef977c6df8cf3!8m2!3d18.473778!4d73.8223157!16s%2Fg%2F11kj97mmkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Wadekars's+Rhinoplasty+%26+Face+Aesthetic+Clinic/@18.473778,73.8223157,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc295fd52b9adf5:0x3baef977c6df8cf3!8m2!3d18.473778!4d73.8223157!16s%2Fg%2F11kj97mmkc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.473778,
+      "lng": 73.8223157,
+      "label": "Wadekars's Rhinoplasty & Face Aesthetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "white-dental-and-maxillofacial-center-pune",
+    "name": "White Dental & Maxillofacial Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Pune, White Dental & Maxillofacial Center delivers integrated care across Oral Surgery In Pune and Maxillofacial Surgery. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073876 64581",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 9, Shanti Heights, eklavya college chowk, Shantiban Cooperative Housing Society, Guruganesh Nagar, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411038",
+    "locality": "Kothrud",
+    "landmark": "eklavya college chowk",
+    "emergencyContact": "073876 64581",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/White+Dental+%26+Maxillofacial+Center/@18.5030103,73.7962776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf920912fc1f:0x1e702fac9d496a02!8m2!3d18.5030103!4d73.7962776!16s%2Fg%2F11j07th3zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/White+Dental+%26+Maxillofacial+Center/@18.5030103,73.7962776,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf920912fc1f:0x1e702fac9d496a02!8m2!3d18.5030103!4d73.7962776!16s%2Fg%2F11j07th3zq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5030103,
+      "lng": 73.7962776,
+      "label": "White Dental & Maxillofacial Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "xenith-advanced-fertility-centre-in-koregaon-park-pune-ivf-specialist-male-female-infertility-treatment-pune",
+    "name": "Xenith Advanced Fertility Centre in Koregaon Park, Pune | IVF Specialist | Male/Female Infertility Treatment",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Pune, Xenith Advanced Fertility Centre in Koregaon Park, Pune | IVF Specialist | Male/Female Infertility Treatment delivers integrated care across IVF In Pune and Fertility Care. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@xenithivf.com",
+    "phone": "091723 18664",
+    "alternatePhone": "+91 91307 76776",
+    "website": "https://xenithivf.com/ivf-center-in-koregaon-park-pune/?utm_source=google&utm_medium=gmb&utm_campaign=koregaonpark",
+    "address": "Office 1 & 1A, Krsna Chambers, 3rd Floor Koregaon Park Road, Opposite German Bakery, above Enrich Salon, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "above Enrich Salon",
+    "landmark": "Opposite German Bakery, above Enrich Salon, Pune, Maharashtra 411001",
+    "emergencyContact": "+91 91307 76776",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/xenithivf",
+    "twitter": "https://twitter.com/xenithivf",
+    "instagram": "https://www.instagram.com/xenithivf/",
+    "linkedin": "https://www.linkedin.com/company/xenith-advanced-fertility-centre/",
+    "youtube": "https://www.youtube.com/channel/UCdE9OtA0FmnC0LfxcFjA41A",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Xenith+Advanced+Fertility+Centre+in+Koregaon+Park,+Pune+%7C+IVF+Specialist+%7C+Male%2FFemale+Infertility+Treatment/@18.5392806,73.8862626,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1974862af7d:0x26458b6d286f426c!8m2!3d18.5392806!4d73.8862626!16s%2Fg%2F11nmrq9kk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Xenith+Advanced+Fertility+Centre+in+Koregaon+Park,+Pune+%7C+IVF+Specialist+%7C+Male%2FFemale+Infertility+Treatment/@18.5392806,73.8862626,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1974862af7d:0x26458b6d286f426c!8m2!3d18.5392806!4d73.8862626!16s%2Fg%2F11nmrq9kk6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5392806,
+      "lng": 73.8862626,
+      "label": "Xenith Advanced Fertility Centre in Koregaon Park, Pune | IVF Specialist | Male/Female Infertility Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "xenith-ivf-wakad",
+    "name": "Xenith IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Wakad, Xenith IVF offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@xenithivf.com",
+    "phone": "091307 76776",
+    "alternatePhone": "",
+    "website": "https://xenithivf.com/ivf-center-in-wakad-pcmc-pune/?utm_source=google&utm_medium=gmb&utm_campaign=wakad",
+    "address": "PCMC, Office No. 307,8,9, 3rd floor, Wing B GO Square, Kaspte Chowk, Wakad, Maharashtra 411057",
+    "city": "Wakad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Kaspte Chowk",
+    "landmark": "8",
+    "emergencyContact": "091307 76776",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Xenith+IVF/@18.5903431,73.7711391,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b940097ede07:0xcb33d2a4bc8be7df!8m2!3d18.5903431!4d73.7711391!16s%2Fg%2F11cm05cdh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Xenith+IVF/@18.5903431,73.7711391,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b940097ede07:0xcb33d2a4bc8be7df!8m2!3d18.5903431!4d73.7711391!16s%2Fg%2F11cm05cdh3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5903431,
+      "lng": 73.7711391,
+      "label": "Xenith IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yash-brain-clinic-pune",
+    "name": "Yash Brain Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, Yash Brain Clinic brings together specialists for Neurosurgeon In Pune and Neurosciences. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094233 26907",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd floor, Shangrila Garden, C-wing, Bund Garden Rd, near ICICI Bank, Bund Garden, Koregaon Park, Pune, Maharashtra 411001",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411001",
+    "locality": "Koregaon Park",
+    "landmark": "near ICICI Bank, Bund Garden, Koregaon Park, Pune, Maharashtra 411001",
+    "emergencyContact": "094233 26907",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Pune",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Yash+Brain+Clinic/@18.5407657,73.8850219,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0fc59aecfd7:0x6e36595165e47a96!8m2!3d18.5407657!4d73.8850219!16s%2Fg%2F1pp2vb1p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yash+Brain+Clinic/@18.5407657,73.8850219,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0fc59aecfd7:0x6e36595165e47a96!8m2!3d18.5407657!4d73.8850219!16s%2Fg%2F1pp2vb1p6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5407657,
+      "lng": 73.8850219,
+      "label": "Yash Brain Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-ivf-fertility-centre-pune-maharashtra-pimpri-chinchwad",
+    "name": "Yashoda IVF Fertility Centre Pune Maharashtra",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pimpri-Chinchwad, Yashoda IVF Fertility Centre Pune Maharashtra offers coordinated hospital care with major focus on IVF In Pune and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086554 42184",
+    "alternatePhone": "",
+    "website": "https://yashodaivf.com/",
+    "address": "2rd Floor, Westen tower, Marunji Rd, beside Pumpkin Patch school, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "beside Pumpkin Patch school, Phase 1, Hinjawadi Rajiv Gandhi Infotech Park, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "emergencyContact": "086554 42184",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+Pune+Maharashtra/@18.6010361,73.7413945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bb131df1d419:0x45665f347dcd7954!8m2!3d18.6010361!4d73.7413945!16s%2Fg%2F11lw5r14dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+Pune+Maharashtra/@18.6010361,73.7413945,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bb131df1d419:0x45665f347dcd7954!8m2!3d18.6010361!4d73.7413945!16s%2Fg%2F11lw5r14dz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6010361,
+      "lng": 73.7413945,
+      "label": "Yashoda IVF Fertility Centre Pune Maharashtra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "zivia-pune-pune",
+    "name": "Zivia Pune |",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Pune often choose Zivia Pune | for its strength in IVF In Pune and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@ziviaivf.com",
+    "phone": "088823 20320",
+    "alternatePhone": "",
+    "website": "https://ziviaivf.com/",
+    "address": "7 Krushna Park, Kharadi-Hadapsar, Mundhwa - Kharadi Rd, Road, Pune, Maharashtra 411014",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411014",
+    "locality": "Road",
+    "landmark": "Mundhwa - Kharadi Rd",
+    "emergencyContact": "088823 20320",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Ziviaivf",
+    "twitter": "https://twitter.com/ziviaivf",
+    "instagram": "https://www.instagram.com/ziviaivf/",
+    "linkedin": "https://www.linkedin.com/company/zivia-ivf-centre/",
+    "youtube": "https://www.youtube.com/channel/UCd1MBamnoQG4SgXFV9g_xGw?sub_confirmation=1",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Zivia+Pune+%7C/@18.5565632,73.937542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f10e9cc519:0xcfd7f59f2b7aa31a!8m2!3d18.5565632!4d73.937542!16s%2Fg%2F11y1ftc03w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Zivia+Pune+%7C/@18.5565632,73.937542,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f10e9cc519:0xcfd7f59f2b7aa31a!8m2!3d18.5565632!4d73.937542!16s%2Fg%2F11y1ftc03w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5565632,
+      "lng": 73.937542,
+      "label": "Zivia Pune |",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-wakad-pune-rct-implants-aligners-child-dentistry-pimpri-chinchwad",
+    "name": "𝐃𝐫. 𝐉𝐀𝐌𝐎𝐃𝐊𝐀𝐑’𝐒 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 & 𝐌𝐔𝐋𝐓𝐈𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐓𝐘 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐋𝐈𝐍𝐈𝐂- Wakad Pune | RCT | Implants | Aligners | Child Dentistry",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pimpri-Chinchwad, 𝐃𝐫. 𝐉𝐀𝐌𝐎𝐃𝐊𝐀𝐑’𝐒 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 & 𝐌𝐔𝐋𝐓𝐈𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐓𝐘 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐋𝐈𝐍𝐈𝐂- Wakad Pune | RCT | Implants | Aligners | Child Dentistry offers coordinated hospital care with major focus on Oral Surgery In Pune and Women and Child Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "drjamodkarsdentalclinic@gmail.com",
+    "phone": "090289 90705",
+    "alternatePhone": "+91 98239 90705",
+    "website": "https://www.bestdentistinwakad.in/",
+    "address": "Shop no: 06, Ground Floor, Pink City Commercial, SH-2, Kalewadi - Wakad Rd, beside Sweet Bengal, Vishnu Dev Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "city": "Pimpri-Chinchwad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "beside Sweet Bengal, Vishnu Dev Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "emergencyContact": "+91 98239 90705",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/DrJamodkarsDentalClinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/drjamodkarsdentalclinic",
+    "linkedin": "http://linkedin.com/company/drjamodkarsrootcanalspecialitydentalclinic",
+    "youtube": "https://www.youtube.com/@BestDentistInWakad",
+    "specialties": [
+      "Oral Surgery In Pune",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%90%83%F0%9D%90%AB.+%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%8A%F0%9D%90%80%F0%9D%90%91%E2%80%99%F0%9D%90%92+%F0%9D%90%80%F0%9D%90%83%F0%9D%90%95%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%84%F0%9D%90%83+%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%93+%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B+%26+%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%93%F0%9D%90%88%F0%9D%90%92%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%82%F0%9D%90%88%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98+%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8B+%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%82-+Wakad+Pune+%7C+RCT+%7C+Implants+%7C+Aligners+%7C+Child+Dentistry/@18.6015587,73.7702615,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b93ea6217ea5:0x231344672b851b!8m2!3d18.6015587!4d73.7702615!16s%2Fg%2F11r745mybw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%90%83%F0%9D%90%AB.+%F0%9D%90%89%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%8A%F0%9D%90%80%F0%9D%90%91%E2%80%99%F0%9D%90%92+%F0%9D%90%80%F0%9D%90%83%F0%9D%90%95%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%82%F0%9D%90%84%F0%9D%90%83+%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%93+%F0%9D%90%82%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B+%26+%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%93%F0%9D%90%88%F0%9D%90%92%F0%9D%90%8F%F0%9D%90%84%F0%9D%90%82%F0%9D%90%88%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98+%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8B+%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%88%F0%9D%90%82-+Wakad+Pune+%7C+RCT+%7C+Implants+%7C+Aligners+%7C+Child+Dentistry/@18.6015587,73.7702615,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b93ea6217ea5:0x231344672b851b!8m2!3d18.6015587!4d73.7702615!16s%2Fg%2F11r745mybw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.6015587,
+      "lng": 73.7702615,
+      "label": "𝐃𝐫. 𝐉𝐀𝐌𝐎𝐃𝐊𝐀𝐑’𝐒 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐑𝐎𝐎𝐓 𝐂𝐀𝐍𝐀𝐋 & 𝐌𝐔𝐋𝐓𝐈𝐒𝐏𝐄𝐂𝐈𝐀𝐋𝐈𝐓𝐘 𝐃𝐄𝐍𝐓𝐀𝐋 𝐂𝐋𝐈𝐍𝐈𝐂- Wakad Pune | RCT | Implants | Aligners | Child Dentistry",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pune",
+    "name": "𝗗𝗿. 𝗡𝗶𝗹𝗲𝘀𝗵 𝗕𝗮𝗹𝗸𝗮𝘄𝗮𝗱𝗲",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Pune, 𝗗𝗿. 𝗡𝗶𝗹𝗲𝘀𝗵 𝗕𝗮𝗹𝗸𝗮𝘄𝗮𝗱𝗲 brings together specialists for IVF In Pune and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "dr.nilesh@oasisindia.in",
+    "phone": "087673 98320",
+    "alternatePhone": "+91 73373 28877",
+    "website": "https://www.drnileshbalkawadeivfpune.com/",
+    "address": "2nd & 3rd, Near, Dynasty Commercial, Chatrapati Chowk Rd, Kaspate Wasti, Wakad, Pune, Maharashtra 411057",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Wakad",
+    "landmark": "Dynasty Commercial",
+    "emergencyContact": "+91 73373 28877",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://youtu.be/ItLMCIw7z3w",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B5+%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B8%F0%9D%97%AE%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2/@18.5961566,73.7719775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9f01f380431:0xea3dd2f552dda41f!8m2!3d18.5961566!4d73.7719775!16s%2Fg%2F11j5frr7_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%80%F0%9D%97%B5+%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B8%F0%9D%97%AE%F0%9D%98%84%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B2/@18.5961566,73.7719775,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9f01f380431:0xea3dd2f552dda41f!8m2!3d18.5961566!4d73.7719775!16s%2Fg%2F11j5frr7_m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5961566,
+      "lng": 73.7719775,
+      "label": "𝗗𝗿. 𝗡𝗶𝗹𝗲𝘀𝗵 𝗕𝗮𝗹𝗸𝗮𝘄𝗮𝗱𝗲",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-and-wakad",
+    "name": "𝗢𝗮𝘀𝗶𝘀 𝗙𝗲𝗿𝘁𝗶𝗹𝗶𝘁𝘆 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗪𝗮𝗸𝗮𝗱 - 𝗕𝗲𝘀𝘁 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗣𝘂𝗻𝗲 | 𝗘𝘅𝗽𝗲𝗿𝘁 𝗜𝗩𝗙 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝘀 & 𝗗𝗼𝗰𝘁𝗼𝗿𝘀",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Wakad, 𝗢𝗮𝘀𝗶𝘀 𝗙𝗲𝗿𝘁𝗶𝗹𝗶𝘁𝘆 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗪𝗮𝗸𝗮𝗱 - 𝗕𝗲𝘀𝘁 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗣𝘂𝗻𝗲 | 𝗘𝘅𝗽𝗲𝗿𝘁 𝗜𝗩𝗙 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝘀 & 𝗗𝗼𝗰𝘁𝗼𝗿𝘀 brings together specialists for IVF In Pune and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "89513 95271",
+    "alternatePhone": "",
+    "website": "https://oasisindia.in/fertility-centres-pune/wakad/?utm_source=GBP&utm_medium=wakad&utm_campaign=wakad-GBP",
+    "address": "Survey No 206, Dynesty commercials, Oasis Fertility, 2nd & 3 rd floor, Chatrapati Chowk Rd, Kaspate Wasti, Wakad, Maharashtra 411057",
+    "city": "Wakad",
+    "state": "Maharashtra",
+    "pincode": "411057",
+    "locality": "Kaspate Wasti",
+    "landmark": "Oasis Fertility",
+    "emergencyContact": "89513 95271",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/oasisfertility/",
+    "twitter": "https://x.com/oasisivf",
+    "instagram": "https://www.instagram.com/oasis.fertility/",
+    "linkedin": "https://in.linkedin.com/company/oasis-fertility",
+    "youtube": "https://www.youtube.com/user/OasisIVFIndia",
+    "specialties": [
+      "IVF In Pune",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%26+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+%F0%9D%97%9C%F0%9D%97%BB+%F0%9D%97%AA%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%B1+-+%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+%F0%9D%97%9C%F0%9D%97%BB+%F0%9D%97%A3%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B2+%7C+%F0%9D%97%98%F0%9D%98%85%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%98%80+%26+%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%80/@18.5962628,73.7720453,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9a49bcef21b:0xc57f86d123750519!8m2!3d18.5962628!4d73.7720453!16s%2Fg%2F11hkbrrvzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%97%A2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%80+%F0%9D%97%99%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%98%86+%26+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+%F0%9D%97%9C%F0%9D%97%BB+%F0%9D%97%AA%F0%9D%97%AE%F0%9D%97%B8%F0%9D%97%AE%F0%9D%97%B1+-+%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2+%F0%9D%97%9C%F0%9D%97%BB+%F0%9D%97%A3%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B2+%7C+%F0%9D%97%98%F0%9D%98%85%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%A6%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%98%80+%26+%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%80/@18.5962628,73.7720453,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9a49bcef21b:0xc57f86d123750519!8m2!3d18.5962628!4d73.7720453!16s%2Fg%2F11hkbrrvzh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.5962628,
+      "lng": 73.7720453,
+      "label": "𝗢𝗮𝘀𝗶𝘀 𝗙𝗲𝗿𝘁𝗶𝗹𝗶𝘁𝘆 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗪𝗮𝗸𝗮𝗱 - 𝗕𝗲𝘀𝘁 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲 𝗜𝗻 𝗣𝘂𝗻𝗲 | 𝗘𝘅𝗽𝗲𝗿𝘁 𝗜𝗩𝗙 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝘀 & 𝗗𝗼𝗰𝘁𝗼𝗿𝘀",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

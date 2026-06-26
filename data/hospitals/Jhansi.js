@@ -1,0 +1,4698 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aesthetic-skin-and-cosmo-world-jhansi-laser-hair-removal-in-jhansi-botox-medical-facial-filler-jhansi",
+    "name": "Aesthetic Skin and Cosmo World Jhansi, Laser Hair Removal in Jhansi, Botox, Medical Facial, Filler",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Jhansi, Aesthetic Skin and Cosmo World Jhansi, Laser Hair Removal in Jhansi, Botox, Medical Facial, Filler delivers integrated care across Kidney Transplant Surgery In Jhansi. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094150 73247",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Basant Vihar colony Allahabad bank, 84/2, Station Rd, near Pitambra vivah ghar, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Civil Lines",
+    "landmark": "near Pitambra vivah ghar, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "emergencyContact": "094150 73247",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Aesthetic+Skin+and+Cosmo+World+Jhansi,+Laser+Hair+Removal+in+Jhansi,+Botox,+Medical+Facial,+Filler/@25.4439881,78.5658373,17z/data=!3m1!4b1!4m6!3m5!1s0x397771c82fbd8815:0xc111cfc481c53e48!8m2!3d25.4439881!4d78.5658373!16s%2Fg%2F11q4jw0q65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aesthetic+Skin+and+Cosmo+World+Jhansi,+Laser+Hair+Removal+in+Jhansi,+Botox,+Medical+Facial,+Filler/@25.4439881,78.5658373,17z/data=!3m1!4b1!4m6!3m5!1s0x397771c82fbd8815:0xc111cfc481c53e48!8m2!3d25.4439881!4d78.5658373!16s%2Fg%2F11q4jw0q65?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4439881,
+      "lng": 78.5658373,
+      "label": "Aesthetic Skin and Cosmo World Jhansi, Laser Hair Removal in Jhansi, Botox, Medical Facial, Filler",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anand-hospital-urogynae-research-centre-jhansi",
+    "name": "Anand Hospital Urogynae Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jhansi often choose Anand Hospital Urogynae Research Centre for its strength in Urologist Surgery In Jhansi. Operational strengths including Google rating 3.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Uttar Pradesh 284128",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Anand+Hospital+Urogynae+Research+Centre/@25.4585767,78.6169809,17z/data=!3m1!4b1!4m6!3m5!1s0x3977765479b86ded:0xcf8bd218ff6465ca!8m2!3d25.4585767!4d78.6169809!16s%2Fg%2F11c617b1ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anand+Hospital+Urogynae+Research+Centre/@25.4585767,78.6169809,17z/data=!3m1!4b1!4m6!3m5!1s0x3977765479b86ded:0xcf8bd218ff6465ca!8m2!3d25.4585767!4d78.6169809!16s%2Fg%2F11c617b1ft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4585767,
+      "lng": 78.6169809,
+      "label": "Anand Hospital Urogynae Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-proton-therapy-in-jhansi-jhansi",
+    "name": "Apollo Proton Therapy in Jhansi",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Proton Therapy in Jhansi has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Jhansi and Cancer Treatment Center. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080629 72782",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/proton-therapy/proton-therapy/",
+    "address": "Loha Mandi, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Loha Mandi",
+    "landmark": "Uttar Pradesh 284001",
+    "emergencyContact": "080629 72782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jhansi/@25.458029,78.570614,17z/data=!3m1!4b1!4m6!3m5!1s0x39777777caa5ff7d:0x304639b37c554ac3!8m2!3d25.458029!4d78.570614!16s%2Fg%2F11xtx02179?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Jhansi/@25.458029,78.570614,17z/data=!3m1!4b1!4m6!3m5!1s0x39777777caa5ff7d:0x304639b37c554ac3!8m2!3d25.458029!4d78.570614!16s%2Fg%2F11xtx02179?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.458029,
+      "lng": 78.570614,
+      "label": "Apollo Proton Therapy in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogya-sadan-hospital-jhansi",
+    "name": "Arogya Sadan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Arogya Sadan Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Jhansi. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063861 63024",
+    "alternatePhone": "",
+    "website": "https://www.aarogyasadanhospital.com/",
+    "address": "FG3M+JPV, Awas Vikas Colony, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Awas Vikas Colony",
+    "landmark": "Jhansi",
+    "emergencyContact": "063861 63024",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arogya+Sadan+Hospital/@25.4541045,78.534296,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c8311d7c5:0x3c0714007c0072b8!8m2!3d25.4541045!4d78.534296!16s%2Fg%2F1tf73ylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogya+Sadan+Hospital/@25.4541045,78.534296,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c8311d7c5:0x3c0714007c0072b8!8m2!3d25.4541045!4d78.534296!16s%2Fg%2F1tf73ylp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4541045,
+      "lng": 78.534296,
+      "label": "Arogya Sadan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bsant-medical-clinic-and-piles-cure-center-jhansi",
+    "name": "Bsant medical clinic & piles cure center",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical center in Jhansi, Bsant medical clinic & piles cure center delivers integrated care across Liver Transplant Surgery In Jhansi and Medical Center. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CHH3+MR8, Puliya No 9 Under Bridge, Jhalkari Bai Nagar, Jhansi Rly. Settl, Jhansi, Uttar Pradesh 284135",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284135",
+    "locality": "Jhansi Rly. Settl",
+    "landmark": "Jhalkari Bai Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Bsant+medical+clinic+%26+piles+cure+center/@25.4291636,78.5545737,17z/data=!3m1!4b1!4m6!3m5!1s0x397771004a66650f:0xee624277e40a33f8!8m2!3d25.4291636!4d78.5545737!16s%2Fg%2F11vybm2str?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bsant+medical+clinic+%26+piles+cure+center/@25.4291636,78.5545737,17z/data=!3m1!4b1!4m6!3m5!1s0x397771004a66650f:0xee624277e40a33f8!8m2!3d25.4291636!4d78.5545737!16s%2Fg%2F11vybm2str?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4291636,
+      "lng": 78.5545737,
+      "label": "Bsant medical clinic & piles cure center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-and-cure-clinic-jhansi-jhansi",
+    "name": "Care and Cure Clinic Jhansi",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Care and Cure Clinic Jhansi offers coordinated hospital care with major focus on Liver Transplant Surgery In Jhansi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Imam Bada, Hno 10, Gudripura, Heerapura, Nagra, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Nagra",
+    "landmark": "Gudripura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Care+and+Cure+Clinic+Jhansi/@25.4332383,78.5412798,17z/data=!3m1!4b1!4m6!3m5!1s0x39777118da7922f1:0x29026b35cea3c90f!8m2!3d25.4332383!4d78.5412798!16s%2Fg%2F11shrqbk99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Care+and+Cure+Clinic+Jhansi/@25.4332383,78.5412798,17z/data=!3m1!4b1!4m6!3m5!1s0x39777118da7922f1:0x29026b35cea3c90f!8m2!3d25.4332383!4d78.5412798!16s%2Fg%2F11shrqbk99?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4332383,
+      "lng": 78.5412798,
+      "label": "Care and Cure Clinic Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-physiotherapy-clinic-jhansi",
+    "name": "CARE PHYSIOTHERAPY CLINIC",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, CARE PHYSIOTHERAPY CLINIC offers coordinated hospital care with major focus on Orthopedic Surgery In Jhansi and Physiotherapy Center. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090267 42838",
+    "alternatePhone": "",
+    "website": "https://www.carephysioclinic.com/",
+    "address": "Pizza Hut, Shree Jee Chauraha, Basement, Medical College Road, opposite Lifeline Hospital, Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "opposite Lifeline Hospital, Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "emergencyContact": "090267 42838",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CARE+PHYSIOTHERAPY+CLINIC/@25.4555966,78.6118253,17z/data=!3m1!4b1!4m6!3m5!1s0x397777d5cb4b53e7:0xe7a7bd07d8f7f2bb!8m2!3d25.4555966!4d78.6118253!16s%2Fg%2F11sdm6036y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CARE+PHYSIOTHERAPY+CLINIC/@25.4555966,78.6118253,17z/data=!3m1!4b1!4m6!3m5!1s0x397777d5cb4b53e7:0xe7a7bd07d8f7f2bb!8m2!3d25.4555966!4d78.6118253!16s%2Fg%2F11sdm6036y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4555966,
+      "lng": 78.6118253,
+      "label": "CARE PHYSIOTHERAPY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chitransh-nursing-home-piles-ent-mother-and-child-care-jhansi",
+    "name": "Chitransh Nursing Home Piles ENT Mother&Child Care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jhansi, Chitransh Nursing Home Piles ENT Mother&Child Care delivers integrated care across Liver Transplant Surgery In Jhansi and Women and Child Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079053 36801",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mubarak market, Sipri Bazar, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Sipri Bazar",
+    "landmark": "Jhansi",
+    "emergencyContact": "079053 36801",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chitransh+Nursing+Home+Piles+ENT+Mother%26Child+Care/@25.4572085,78.5452986,17z/data=!3m1!4b1!4m6!3m5!1s0x39777129f3f46c59:0x3728d20be22ae1ab!8m2!3d25.4572085!4d78.5452986!16s%2Fg%2F11rrgzg960?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chitransh+Nursing+Home+Piles+ENT+Mother%26Child+Care/@25.4572085,78.5452986,17z/data=!3m1!4b1!4m6!3m5!1s0x39777129f3f46c59:0x3728d20be22ae1ab!8m2!3d25.4572085!4d78.5452986!16s%2Fg%2F11rrgzg960?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4572085,
+      "lng": 78.5452986,
+      "label": "Chitransh Nursing Home Piles ENT Mother&Child Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "choise-gwalior-multispecilty-hospital-and-truma-centre-jhansi-jhansi",
+    "name": "Choise gwalior multispecilty hospital and truma centre jhansi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Choise gwalior multispecilty hospital and truma centre jhansi is a prominent hospital in Jhansi, known for structured tertiary care across Liver Transplant Surgery In Jhansi. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "102, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Shivaji Nagar",
+    "landmark": "Jhansi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Choise+gwalior+multispecilty+hospital+and+truma+centre+jhansi/@25.448583,78.597494,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770023ddca4d:0x6d8bf5937eda5bfb!8m2!3d25.448583!4d78.597494!16s%2Fg%2F11w7d045tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Choise+gwalior+multispecilty+hospital+and+truma+centre+jhansi/@25.448583,78.597494,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770023ddca4d:0x6d8bf5937eda5bfb!8m2!3d25.448583!4d78.597494!16s%2Fg%2F11w7d045tj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.448583,
+      "lng": 78.597494,
+      "label": "Choise gwalior multispecilty hospital and truma centre jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-jhansi",
+    "name": "Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Clinic is a prominent hospital in Jhansi, known for structured tertiary care across Liver Transplant Surgery In Jhansi. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "315, Awas Vikas Colony, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Awas Vikas Colony",
+    "landmark": "Jhansi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Clinic/@25.4528421,78.5348984,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c5fee020d:0x32835ede7a26ad04!8m2!3d25.4528421!4d78.5348984!16s%2Fg%2F11c37kjtyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic/@25.4528421,78.5348984,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c5fee020d:0x32835ede7a26ad04!8m2!3d25.4528421!4d78.5348984!16s%2Fg%2F11c37kjtyf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4528421,
+      "lng": 78.5348984,
+      "label": "Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "happy-faemli-hodpital-jhansi",
+    "name": "Happy Faemli Hodpital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jhansi often choose Happy Faemli Hodpital for its strength in Kidney Transplant Surgery In Jhansi. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road, 284003, Prem Nagar, Krishna Nagar Colony, Nagra, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Nagra",
+    "landmark": "Prem Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Happy+Faemli+Hodpital/@25.4222782,78.5348507,17z/data=!3m1!4b1!4m6!3m5!1s0x3977709300000001:0xe97b44750d65b089!8m2!3d25.4222782!4d78.5348507!16s%2Fg%2F11df0m9fl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Happy+Faemli+Hodpital/@25.4222782,78.5348507,17z/data=!3m1!4b1!4m6!3m5!1s0x3977709300000001:0xe97b44750d65b089!8m2!3d25.4222782!4d78.5348507!16s%2Fg%2F11df0m9fl2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4222782,
+      "lng": 78.5348507,
+      "label": "Happy Faemli Hodpital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hi-tech-hospital-and-trauma-center-jhansi",
+    "name": "Hi Tech Hospital & Trauma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hi Tech Hospital & Trauma Center has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Orthopedic Surgery In Jhansi. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098396 84036",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite Gate No.4, Medical College Road, Kanpur - Jhansi Hwy, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Kanpur - Jhansi Hwy",
+    "landmark": "Kanpur - Jhansi Hwy",
+    "emergencyContact": "098396 84036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Hi+Tech+Hospital+%26+Trauma+Center/@25.464233,78.6242621,17z/data=!3m1!4b1!4m6!3m5!1s0x397776558d695c95:0x97a8017c91c5d34b!8m2!3d25.464233!4d78.6242621!16s%2Fg%2F11c6ybv01g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hi+Tech+Hospital+%26+Trauma+Center/@25.464233,78.6242621,17z/data=!3m1!4b1!4m6!3m5!1s0x397776558d695c95:0x97a8017c91c5d34b!8m2!3d25.464233!4d78.6242621!16s%2Fg%2F11c6ybv01g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.464233,
+      "lng": 78.6242621,
+      "label": "Hi Tech Hospital & Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jainam-clinic-dental-face-hair-laser-centre-best-face-cosmetic-laser-best-hair-treatment-best-dentist-in-jhansi-jhansi",
+    "name": "Jainam Clinic (Dental-Face-Hair Laser Centre) - Best face cosmetic Laser | Best Hair Treatment | Best Dentist in Jhansi",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jhansi often choose Jainam Clinic (Dental-Face-Hair Laser Centre) - Best face cosmetic Laser | Best Hair Treatment | Best Dentist in Jhansi for its strength in Kidney Transplant Surgery In Jhansi and Dentist. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098930 04692",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jainam Clinic Dental and cosmetic Laser Centre, 128, near Dau Samosa, beside N C saloon, Chhaniya Pura, Khushipura, Jhansi, Uttar Pradesh 284002",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284002",
+    "locality": "Khushipura",
+    "landmark": "near Dau Samosa, beside N C saloon, Chhaniya Pura, Khushipura, Jhansi, Uttar Pradesh 284002",
+    "emergencyContact": "098930 04692",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Jainam+Clinic+%28Dental-Face-Hair+Laser+Centre%29+-+Best+face+cosmetic+Laser+%7C+Best+Hair+Treatment+%7C+Best+Dentist+in+Jhansi/data=!4m7!3m6!1s0x397777b37efaa287:0xc916ac2a875c693a!8m2!3d25.4552257!4d78.5786498!16s%2Fg%2F11rk89ncd3!19sChIJh6L6frN3dzkROmlchyqsFsk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jainam+Clinic+%28Dental-Face-Hair+Laser+Centre%29+-+Best+face+cosmetic+Laser+%7C+Best+Hair+Treatment+%7C+Best+Dentist+in+Jhansi/data=!4m7!3m6!1s0x397777b37efaa287:0xc916ac2a875c693a!8m2!3d25.4552257!4d78.5786498!16s%2Fg%2F11rk89ncd3!19sChIJh6L6frN3dzkROmlchyqsFsk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4552257,
+      "lng": 78.5786498,
+      "label": "Jainam Clinic (Dental-Face-Hair Laser Centre) - Best face cosmetic Laser | Best Hair Treatment | Best Dentist in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamla-hospital-jhansi",
+    "name": "Kamla Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Kamla Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Jhansi. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083037 92140",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Medical, Opposite Jhansi Medical College Gate, College Rd, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "College Rd",
+    "landmark": "Opposite Jhansi Medical College Gate, College Rd, Jhansi, Uttar Pradesh 284128",
+    "emergencyContact": "083037 92140",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kamla+Hospital/@25.4583135,78.6153625,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b84be69:0xd99f52e09cc366c6!8m2!3d25.4583135!4d78.6153625!16s%2Fg%2F11c2l3ypx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kamla+Hospital/@25.4583135,78.6153625,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b84be69:0xd99f52e09cc366c6!8m2!3d25.4583135!4d78.6153625!16s%2Fg%2F11c2l3ypx8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4583135,
+      "lng": 78.6153625,
+      "label": "Kamla Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kedarnath-hospital-jhansi",
+    "name": "Kedarnath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kedarnath Hospital has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Orthopedic Surgery In Jhansi. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite Gate No. 2, Medical College MLD, Kanpur - Jhansi Hwy, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Kanpur - Jhansi Hwy",
+    "landmark": "Kanpur - Jhansi Hwy",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kedarnath+Hospital/@25.4588702,78.6161107,17z/data=!3m1!4b1!4m6!3m5!1s0x3977779311c4f3eb:0x11fccc5241024670!8m2!3d25.4588702!4d78.6161107!16s%2Fg%2F11h6tjm092?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kedarnath+Hospital/@25.4588702,78.6161107,17z/data=!3m1!4b1!4m6!3m5!1s0x3977779311c4f3eb:0x11fccc5241024670!8m2!3d25.4588702!4d78.6161107!16s%2Fg%2F11h6tjm092?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4588702,
+      "lng": 78.6161107,
+      "label": "Kedarnath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khurana-hospital-jhansi-jhansi",
+    "name": "Khurana Hospital Jhansi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Khurana Hospital Jhansi offers coordinated hospital care with major focus on Urologist Surgery In Jhansi. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099842 45452",
+    "alternatePhone": "",
+    "website": "",
+    "address": "INFRONT OF INDIAN BANK, Veerangna Nagar, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Veerangna Nagar",
+    "landmark": "Jhansi",
+    "emergencyContact": "099842 45452",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Khurana+Hospital+Jhansi/@25.4615392,78.6072432,17z/data=!3m1!4b1!4m6!3m5!1s0x397777808c2b23d1:0x783450070ceb08a4!8m2!3d25.4615392!4d78.6072432!16s%2Fg%2F11fct4gm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khurana+Hospital+Jhansi/@25.4615392,78.6072432,17z/data=!3m1!4b1!4m6!3m5!1s0x397777808c2b23d1:0x783450070ceb08a4!8m2!3d25.4615392!4d78.6072432!16s%2Fg%2F11fct4gm0l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4615392,
+      "lng": 78.6072432,
+      "label": "Khurana Hospital Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "l-r-m-jain-hospital-jhansi",
+    "name": "L.R.M Jain Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Jhansi, L.R.M Jain Hospital delivers integrated care across Kidney Transplant Surgery In Jhansi. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CHW8+P98, Civil Lines, Jhansi Rly. Settl, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Jhansi Rly. Settl",
+    "landmark": "Jhansi Rly. Settl",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/L.R.M+Jain+Hospital/@25.4467785,78.565958,17z/data=!3m1!4b1!4m6!3m5!1s0x397770d4c23f9601:0x4a8e4c074d96204e!8m2!3d25.4467785!4d78.565958!16s%2Fg%2F11b6gfgsdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/L.R.M+Jain+Hospital/@25.4467785,78.565958,17z/data=!3m1!4b1!4m6!3m5!1s0x397770d4c23f9601:0x4a8e4c074d96204e!8m2!3d25.4467785!4d78.565958!16s%2Fg%2F11b6gfgsdv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4467785,
+      "lng": 78.565958,
+      "label": "L.R.M Jain Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-vaishno-hospital-and-trauma-center-jhansi",
+    "name": "Maa Vaishno Hospital and Trauma Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jhansi, Maa Vaishno Hospital and Trauma Center delivers integrated care across Orthopedic Surgery In Jhansi. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094150 31443",
+    "alternatePhone": "",
+    "website": "",
+    "address": "25, National Highway, Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Bundelkhand University",
+    "emergencyContact": "094150 31443",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+Vaishno+Hospital+and+Trauma+Center/@25.4647235,78.6240475,17z/data=!3m1!4b1!4m6!3m5!1s0x3977764fc942f715:0xd9a6a67e592c3886!8m2!3d25.4647235!4d78.6240475!16s%2Fg%2F12hp7x33m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+Vaishno+Hospital+and+Trauma+Center/@25.4647235,78.6240475,17z/data=!3m1!4b1!4m6!3m5!1s0x3977764fc942f715:0xd9a6a67e592c3886!8m2!3d25.4647235!4d78.6240475!16s%2Fg%2F12hp7x33m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4647235,
+      "lng": 78.6240475,
+      "label": "Maa Vaishno Hospital and Trauma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meghraj-memorial-hospital-gastro-hospital-in-jhansi-gastro-liver-specialist-in-jhansi-jhansi",
+    "name": "Meghraj Memorial Hospital - Gastro Hospital in Jhansi | Gastro Liver Specialist in Jhansi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meghraj Memorial Hospital - Gastro Hospital in Jhansi | Gastro Liver Specialist in Jhansi is a prominent hospital in Jhansi, known for structured tertiary care across Liver Transplant Surgery In Jhansi, Liver Care, and Gastroenterology. Operational strengths including Google rating 3.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Civil Lines, Cantt, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Cantt",
+    "landmark": "Jhansi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Meghraj+Memorial+Hospital+-+Gastro+Hospital+in+Jhansi+%7C+Gastro+Liver+Specialist+in+Jhansi/@25.4470357,78.5668313,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774b15169403:0xe85145a1995ab6c8!8m2!3d25.4470357!4d78.5668313!16s%2Fg%2F11pys6mpyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meghraj+Memorial+Hospital+-+Gastro+Hospital+in+Jhansi+%7C+Gastro+Liver+Specialist+in+Jhansi/@25.4470357,78.5668313,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774b15169403:0xe85145a1995ab6c8!8m2!3d25.4470357!4d78.5668313!16s%2Fg%2F11pys6mpyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4470357,
+      "lng": 78.5668313,
+      "label": "Meghraj Memorial Hospital - Gastro Hospital in Jhansi | Gastro Liver Specialist in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metro-nursing-home-and-meternity-centre-jhansi",
+    "name": "Metro Nursing Home and Meternity Centre",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted maternity centre in Jhansi, Metro Nursing Home and Meternity Centre delivers integrated care across Liver Transplant Surgery In Jhansi and Maternity Centre. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094151 12955",
+    "alternatePhone": "",
+    "website": "",
+    "address": "CH67+2CQ, Main Road, Hansari, Jhansi, Uttar Pradesh 284135",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284135",
+    "locality": "Hansari",
+    "landmark": "Hansari",
+    "emergencyContact": "094151 12955",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Metro+Nursing+Home+and+Meternity+Centre/@25.4100965,78.563623,17z/data=!3m1!4b1!4m6!3m5!1s0x397770ac822bff53:0xbcd127682c6fcf60!8m2!3d25.4100965!4d78.563623!16s%2Fg%2F11dfj5w3bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metro+Nursing+Home+and+Meternity+Centre/@25.4100965,78.563623,17z/data=!3m1!4b1!4m6!3m5!1s0x397770ac822bff53:0xbcd127682c6fcf60!8m2!3d25.4100965!4d78.563623!16s%2Fg%2F11dfj5w3bq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4100965,
+      "lng": 78.563623,
+      "label": "Metro Nursing Home and Meternity Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meva-chaudhary-memorial-hospital-jhansi",
+    "name": "Meva Chaudhary Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meva Chaudhary Memorial Hospital is a prominent hospital in Jhansi, known for structured tertiary care across Orthopedic Surgery In Jhansi. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080049 11890",
+    "alternatePhone": "",
+    "website": "",
+    "address": "medical area, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "medical area",
+    "landmark": "Uttar Pradesh 284128",
+    "emergencyContact": "080049 11890",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Meva+Chaudhary+Memorial+Hospital/@25.4587863,78.6158825,17z/data=!3m1!4b1!4m6!3m5!1s0x397776ce86f7824f:0xa0de779c33b4de16!8m2!3d25.4587863!4d78.6158825!16s%2Fg%2F11g727h517?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meva+Chaudhary+Memorial+Hospital/@25.4587863,78.6158825,17z/data=!3m1!4b1!4m6!3m5!1s0x397776ce86f7824f:0xa0de779c33b4de16!8m2!3d25.4587863!4d78.6158825!16s%2Fg%2F11g727h517?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4587863,
+      "lng": 78.6158825,
+      "label": "Meva Chaudhary Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naja-hospital-and-research-centre-jhansi-private-hospital-in-jhansi-jhansi",
+    "name": "Naja Hospital And Research Centre Jhansi | Private Hospital in Jhansi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Naja Hospital And Research Centre Jhansi | Private Hospital in Jhansi offers coordinated hospital care with major focus on Liver Transplant Surgery In Jhansi. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087265 14814",
+    "alternatePhone": "",
+    "website": "http://najahospitaljhansi.com/?utm_source=gmb&utm_medium=referral",
+    "address": "345/4, Kanpur Road, near Bharat Traders Petrol Pump, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Shivaji Nagar",
+    "landmark": "near Bharat Traders Petrol Pump, Shivaji Nagar, Jhansi, Uttar Pradesh 284001",
+    "emergencyContact": "087265 14814",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Naja+Hospital+And+Research+Centre+Jhansi+%7C+Private+Hospital+in+Jhansi/@25.4508888,78.6008887,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770327b4d19b:0x976c49f2ca7e8513!8m2!3d25.4508888!4d78.6008887!16s%2Fg%2F11c5_tct01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naja+Hospital+And+Research+Centre+Jhansi+%7C+Private+Hospital+in+Jhansi/@25.4508888,78.6008887,17z/data=!3m1!4b1!4m6!3m5!1s0x3977770327b4d19b:0x976c49f2ca7e8513!8m2!3d25.4508888!4d78.6008887!16s%2Fg%2F11c5_tct01?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4508888,
+      "lng": 78.6008887,
+      "label": "Naja Hospital And Research Centre Jhansi | Private Hospital in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirmal-hospital-jhansi",
+    "name": "Nirmal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nirmal Hospital has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Jhansi. Operational strengths including Google rating 3.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0510 232 1002",
+    "alternatePhone": "",
+    "website": "http://www.nirmalhospitaljhansi.com/",
+    "address": "Opposite M.L.B.Medical College, Gate 3 Kanpur, Highway, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Highway",
+    "landmark": "Highway",
+    "emergencyContact": "0510 232 1002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nirmal+Hospital/@25.4603127,78.6179605,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653fab6da03:0x3882511cc5cd92e8!8m2!3d25.4603127!4d78.6179605!16s%2Fg%2F126049_nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirmal+Hospital/@25.4603127,78.6179605,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653fab6da03:0x3882511cc5cd92e8!8m2!3d25.4603127!4d78.6179605!16s%2Fg%2F126049_nh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4603127,
+      "lng": 78.6179605,
+      "label": "Nirmal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pratap-gastro-liver-clinic-jhansi",
+    "name": "Pratap gastro liver clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jhansi, Pratap gastro liver clinic brings together specialists for Liver Transplant Surgery In Jhansi, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 1.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "GHCQ+8VR, Kamla hospital Kanpur road, Jhansi, Bhojla, Uttar Pradesh 284002",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284002",
+    "locality": "Kamla hospital Kanpur road",
+    "landmark": "Jhansi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.7"
+    ],
+    "image": "https://www.google.com/maps/place/Pratap+gastro+liver+clinic/@25.520852,78.58964,17z/data=!3m1!4b1!4m6!3m5!1s0x3977743fc50d7a2f:0xf4d415fdeec4a9a5!8m2!3d25.520852!4d78.58964!16s%2Fg%2F11gdk_7r_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pratap+gastro+liver+clinic/@25.520852,78.58964,17z/data=!3m1!4b1!4m6!3m5!1s0x3977743fc50d7a2f:0xf4d415fdeec4a9a5!8m2!3d25.520852!4d78.58964!16s%2Fg%2F11gdk_7r_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.520852,
+      "lng": 78.58964,
+      "label": "Pratap gastro liver clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-j-stone-and-urology-center-jhansi",
+    "name": "R.J. Stone And Urology Center",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted urology clinic in Jhansi, R.J. Stone And Urology Center delivers integrated care across Urologist Surgery In Jhansi. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094154 87375",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground Floor, Sundar Medical Complex, Infront of Gate No 1 & 2, Medical, College,, Kanpur Road,, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Kanpur Road",
+    "landmark": "Infront of Gate No 1 & 2",
+    "emergencyContact": "094154 87375",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/R.J.+Stone+And+Urology+Center/@25.458276,78.615352,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b91eb53:0x96ad6ae4d1fc2102!8m2!3d25.458276!4d78.615352!16s%2Fg%2F11ddzhw9wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.J.+Stone+And+Urology+Center/@25.458276,78.615352,17z/data=!3m1!4b1!4m6!3m5!1s0x397776545b91eb53:0x96ad6ae4d1fc2102!8m2!3d25.458276!4d78.615352!16s%2Fg%2F11ddzhw9wm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.458276,
+      "lng": 78.615352,
+      "label": "R.J. Stone And Urology Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "radha-krishna-orthocare-joint-and-replacement-centre-jhansi",
+    "name": "Radha Krishna Orthocare Joint and Replacement Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Radha Krishna Orthocare Joint and Replacement Centre offers coordinated hospital care with major focus on Knee Replacement Surgery In Jhansi and Orthopaedics. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Medical Bypass Tigela, near Maruti Arena Showroom, Kochhabhanwar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Cantt",
+    "landmark": "near Maruti Arena Showroom, Kochhabhanwar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Jhansi",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Radha+Krishna+Orthocare+Joint+and+Replacement+Centre/@25.4222557,78.5717631,17z/data=!3m1!4b1!4m6!3m5!1s0x39777791b25abaa9:0xea78e466bf0493ea!8m2!3d25.4222557!4d78.5717631!16s%2Fg%2F11ypc594jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Radha+Krishna+Orthocare+Joint+and+Replacement+Centre/@25.4222557,78.5717631,17z/data=!3m1!4b1!4m6!3m5!1s0x39777791b25abaa9:0xea78e466bf0493ea!8m2!3d25.4222557!4d78.5717631!16s%2Fg%2F11ypc594jr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4222557,
+      "lng": 78.5717631,
+      "label": "Radha Krishna Orthocare Joint and Replacement Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raghvendra-hospital-and-laparoscopic-surgery-centre-jhansi",
+    "name": "Raghvendra Hospital & Laparoscopic Surgery Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jhansi often choose Raghvendra Hospital & Laparoscopic Surgery Centre for its strength in Liver Transplant Surgery In Jhansi. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0510 232 1123",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp.Gate no.2, MLB Medical College, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "MLB Medical College",
+    "landmark": "Jhansi",
+    "emergencyContact": "0510 232 1123",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Raghvendra+Hospital+%26+Laparoscopic+Surgery+Centre/@25.4594748,78.616856,17z/data=!3m1!4b1!4m6!3m5!1s0x39777654734f069f:0x903461cc3950c01e!8m2!3d25.4594748!4d78.616856!16s%2Fg%2F1tlk9srd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Raghvendra+Hospital+%26+Laparoscopic+Surgery+Centre/@25.4594748,78.616856,17z/data=!3m1!4b1!4m6!3m5!1s0x39777654734f069f:0x903461cc3950c01e!8m2!3d25.4594748!4d78.616856!16s%2Fg%2F1tlk9srd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4594748,
+      "lng": 78.616856,
+      "label": "Raghvendra Hospital & Laparoscopic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-icu-and-hospital-best-icu-in-jhansi-jhansi",
+    "name": "SANJEEVANI ICU & HOSPITAL - Best ICU in Jhansi",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Jhansi, SANJEEVANI ICU & HOSPITAL - Best ICU in Jhansi brings together specialists for Liver Transplant Surgery In Jhansi. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083539 33203",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J.P. Heights, Kanpur Road, near Courtyard Apartment, Shivaji Nagar, Jhansi, Uttar Pradesh 284002",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284002",
+    "locality": "Shivaji Nagar",
+    "landmark": "near Courtyard Apartment, Shivaji Nagar, Jhansi, Uttar Pradesh 284002",
+    "emergencyContact": "083539 33203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/SANJEEVANI+ICU+%26+HOSPITAL+-+Best+ICU+in+Jhansi/@25.4510716,78.6014196,17z/data=!3m1!4b1!4m6!3m5!1s0x397777a028e4a59f:0x3cb92614da5a32d2!8m2!3d25.4510716!4d78.6014196!16s%2Fg%2F11ppt9kbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANJEEVANI+ICU+%26+HOSPITAL+-+Best+ICU+in+Jhansi/@25.4510716,78.6014196,17z/data=!3m1!4b1!4m6!3m5!1s0x397777a028e4a59f:0x3cb92614da5a32d2!8m2!3d25.4510716!4d78.6014196!16s%2Fg%2F11ppt9kbhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4510716,
+      "lng": 78.6014196,
+      "label": "SANJEEVANI ICU & HOSPITAL - Best ICU in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanmati-hospital-and-research-center-jhansi",
+    "name": "Sanmati Hospital And Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sanmati Hospital And Research Center has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Orthopedic Surgery In Jhansi. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Uttar Pradesh 284128",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Sanmati+Hospital+And+Research+Center/@25.4594907,78.6179726,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653ed52a889:0xeca0f49b967ec423!8m2!3d25.4594907!4d78.6179726!16s%2Fg%2F11hd4r02p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanmati+Hospital+And+Research+Center/@25.4594907,78.6179726,17z/data=!3m1!4b1!4m6!3m5!1s0x39777653ed52a889:0xeca0f49b967ec423!8m2!3d25.4594907!4d78.6179726!16s%2Fg%2F11hd4r02p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4594907,
+      "lng": 78.6179726,
+      "label": "Sanmati Hospital And Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanwal-hospital-and-laser-centre-jhansi",
+    "name": "Sanwal Hospital And Laser Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Jhansi often choose Sanwal Hospital And Laser Centre for its strength in Kidney Transplant Surgery In Jhansi. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094150 57201",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Uttar Pradesh 284128",
+    "emergencyContact": "094150 57201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sanwal+Hospital+And+Laser+Centre/@25.4559755,78.612058,17z/data=!3m1!4b1!4m6!3m5!1s0x397777282ac9cc07:0x58dd7966dbdc6d10!8m2!3d25.4559755!4d78.612058!16s%2Fg%2F11c2q3hm6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanwal+Hospital+And+Laser+Centre/@25.4559755,78.612058,17z/data=!3m1!4b1!4m6!3m5!1s0x397777282ac9cc07:0x58dd7966dbdc6d10!8m2!3d25.4559755!4d78.612058!16s%2Fg%2F11c2q3hm6y?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4559755,
+      "lng": 78.612058,
+      "label": "Sanwal Hospital And Laser Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharad-chandra-hospital-jhansi",
+    "name": "Sharad Chandra Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jhansi, Sharad Chandra Hospital delivers integrated care across Liver Transplant Surgery In Jhansi. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0510 244 4887",
+    "alternatePhone": "",
+    "website": "http://sharadliver.com/",
+    "address": "165, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Civil Lines",
+    "landmark": "Jhansi",
+    "emergencyContact": "0510 244 4887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sharad+Chandra+Hospital/@25.4470624,78.5668906,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b313300b5:0x26ca2f0716e6d2a4!8m2!3d25.4470624!4d78.5668906!16s%2Fg%2F11c54crrvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharad+Chandra+Hospital/@25.4470624,78.5668906,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b313300b5:0x26ca2f0716e6d2a4!8m2!3d25.4470624!4d78.5668906!16s%2Fg%2F11c54crrvj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4470624,
+      "lng": 78.5668906,
+      "label": "Sharad Chandra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiv-dental-skin-and-hair-clinic-in-jhansi-shop-no-5",
+    "name": "Shiv Dental, Skin & Hair clinic in Jhansi",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in shop no.5, Shiv Dental, Skin & Hair clinic in Jhansi offers coordinated hospital care with major focus on Kidney Transplant Surgery In Jhansi. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070079 48422",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Medical college Gate no 1 , Basement of Yadav medical store, shop no.5, Uttar Pradesh 284128",
+    "city": "shop no.5",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Basement of Yadav medical store",
+    "landmark": "shop no.5",
+    "emergencyContact": "070079 48422",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shiv+Dental,+Skin+%26+Hair+clinic+in+Jhansi/@25.4579111,78.6144071,17z/data=!3m1!4b1!4m6!3m5!1s0x397777006a94727d:0x768c76f983f4bcf1!8m2!3d25.4579111!4d78.6144071!16s%2Fg%2F11p5syddx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiv+Dental,+Skin+%26+Hair+clinic+in+Jhansi/@25.4579111,78.6144071,17z/data=!3m1!4b1!4m6!3m5!1s0x397777006a94727d:0x768c76f983f4bcf1!8m2!3d25.4579111!4d78.6144071!16s%2Fg%2F11p5syddx9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4579111,
+      "lng": 78.6144071,
+      "label": "Shiv Dental, Skin & Hair clinic in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivhare-hospital-jhansi-jhansi",
+    "name": "SHIVHARE HOSPITAL JHANSI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHIVHARE HOSPITAL JHANSI is a prominent hospital in Jhansi, known for structured tertiary care across Liver Transplant Surgery In Jhansi. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087658 34502",
+    "alternatePhone": "",
+    "website": "http://maniramshivharehospital.liveblog365.com/",
+    "address": "Gate no.2, infront of Dr pramod gupta, Omkar bhawan, vatsalya hospital, Medical, Kargua ji road, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Kargua ji road",
+    "landmark": "Omkar bhawan",
+    "emergencyContact": "087658 34502",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SHIVHARE+HOSPITAL+JHANSI/@25.4554254,78.6157836,17z/data=!3m1!4b1!4m6!3m5!1s0x397777b23be97a19:0xc1ce0a9db0bda540!8m2!3d25.4554254!4d78.6157836!16s%2Fg%2F11lfztzs3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHIVHARE+HOSPITAL+JHANSI/@25.4554254,78.6157836,17z/data=!3m1!4b1!4m6!3m5!1s0x397777b23be97a19:0xc1ce0a9db0bda540!8m2!3d25.4554254!4d78.6157836!16s%2Fg%2F11lfztzs3n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4554254,
+      "lng": 78.6157836,
+      "label": "SHIVHARE HOSPITAL JHANSI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-jee-hospital-and-research-centre-jhansi",
+    "name": "Shree Jee Hospital And Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Jee Hospital And Research Centre is a prominent hospital in Jhansi, known for structured tertiary care across Kidney Transplant Surgery In Jhansi. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087652 17641",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Uttar Pradesh 284128",
+    "emergencyContact": "087652 17641",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Jee+Hospital+And+Research+Centre/@25.4567118,78.6118091,17z/data=!3m1!4b1!4m6!3m5!1s0x397776557ceebba3:0x8129ba793bc1179c!8m2!3d25.4567118!4d78.6118091!16s%2Fg%2F1262g4zyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Jee+Hospital+And+Research+Centre/@25.4567118,78.6118091,17z/data=!3m1!4b1!4m6!3m5!1s0x397776557ceebba3:0x8129ba793bc1179c!8m2!3d25.4567118!4d78.6118091!16s%2Fg%2F1262g4zyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4567118,
+      "lng": 78.6118091,
+      "label": "Shree Jee Hospital And Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sknin-clinic-jhansi",
+    "name": "Sknin clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Jhansi, Sknin clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Jhansi. Operational strengths including Google rating 1.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FJ56+M49, Swapnil Kutar Marg, Veerangna Nagar, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Veerangna Nagar",
+    "landmark": "Veerangna Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sknin+clinic/@25.4591578,78.6103466,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774ccfb02601:0x542dba9fe8f5f1cd!8m2!3d25.4591578!4d78.6103466!16s%2Fg%2F11hdpgcgz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sknin+clinic/@25.4591578,78.6103466,17z/data=!3m1!4b1!4m6!3m5!1s0x3977774ccfb02601:0x542dba9fe8f5f1cd!8m2!3d25.4591578!4d78.6103466!16s%2Fg%2F11hdpgcgz1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4591578,
+      "lng": 78.6103466,
+      "label": "Sknin clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "stone-clinic-jhansi",
+    "name": "Stone Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Stone Clinic has built a strong reputation in Jhansi for multidisciplinary treatment pathways covering Liver Transplant Surgery In Jhansi. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bai Park, Civil Lines, Rani Laxmi, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Rani Laxmi",
+    "landmark": "Rani Laxmi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Stone+Clinic/@25.454972,78.5721416,17z/data=!3m1!4b1!4m6!3m5!1s0x397776d68484540d:0x3191deac94a2601b!8m2!3d25.454972!4d78.5721416!16s%2Fg%2F11byp5yj8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Stone+Clinic/@25.454972,78.5721416,17z/data=!3m1!4b1!4m6!3m5!1s0x397776d68484540d:0x3191deac94a2601b!8m2!3d25.454972!4d78.5721416!16s%2Fg%2F11byp5yj8v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.454972,
+      "lng": 78.5721416,
+      "label": "Stone Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "upchar-hospital-jhansi",
+    "name": "Upchar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Jhansi, Upchar Hospital delivers integrated care across Spine Surgery In Jhansi. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0510 232 1515",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SH 42, Bundelkhand University, Jhansi, Uttar Pradesh 284128",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284128",
+    "locality": "Bundelkhand University",
+    "landmark": "Jhansi",
+    "emergencyContact": "0510 232 1515",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Upchar+Hospital/@25.453791,78.606283,17z/data=!3m1!4b1!4m6!3m5!1s0x39777701febed285:0x4bb968e0d3535dc2!8m2!3d25.453791!4d78.606283!16s%2Fg%2F12j691j89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Upchar+Hospital/@25.453791,78.606283,17z/data=!3m1!4b1!4m6!3m5!1s0x39777701febed285:0x4bb968e0d3535dc2!8m2!3d25.453791!4d78.606283!16s%2Fg%2F12j691j89?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.453791,
+      "lng": 78.606283,
+      "label": "Upchar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayak-hospital-hospital-in-jhansi-best-hospital-in-jhansi-jhansi",
+    "name": "Vinayak Hospital | Hospital in Jhansi | Best hospital in Jhansi",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Jhansi, Vinayak Hospital | Hospital in Jhansi | Best hospital in Jhansi delivers integrated care across Liver Transplant Surgery In Jhansi. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073090 30674",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vinayak hospital, behind yatrik hotel, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284001",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "073090 30674",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayak+Hospital+%7C+Hospital+in+Jhansi+%7C+Best+hospital+in+Jhansi/@25.4466173,78.5689103,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b758b744f:0x6454f694bf349ce1!8m2!3d25.4466173!4d78.5689103!16s%2Fg%2F1pycljnp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayak+Hospital+%7C+Hospital+in+Jhansi+%7C+Best+hospital+in+Jhansi/@25.4466173,78.5689103,17z/data=!3m1!4b1!4m6!3m5!1s0x3977772b758b744f:0x6454f694bf349ce1!8m2!3d25.4466173!4d78.5689103!16s%2Fg%2F1pycljnp4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4466173,
+      "lng": 78.5689103,
+      "label": "Vinayak Hospital | Hospital in Jhansi | Best hospital in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-skin-hair-fall-and-hair-regrowth-treatment-skin-specialist-dark-circles-and-wrinkle-jhansi",
+    "name": "𝗗𝗿. 𝗦𝗼𝗻𝗶 𝗛𝗼𝗺𝗲𝗼𝗽𝗮𝘁𝗵𝘆 & 𝗖𝗼𝘀𝗺𝗲𝘁𝗶𝗰 𝗖𝗹𝗶𝗻𝗶𝗰| Skin|Hair Fall & Hair Regrowth Treatment|Skin Specialist /Dark Circles & Wrinkle",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Jhansi, 𝗗𝗿. 𝗦𝗼𝗻𝗶 𝗛𝗼𝗺𝗲𝗼𝗽𝗮𝘁𝗵𝘆 & 𝗖𝗼𝘀𝗺𝗲𝘁𝗶𝗰 𝗖𝗹𝗶𝗻𝗶𝗰| Skin|Hair Fall & Hair Regrowth Treatment|Skin Specialist /Dark Circles & Wrinkle delivers integrated care across Kidney Transplant Surgery In Jhansi. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088582 45858",
+    "alternatePhone": "",
+    "website": "http://www.drsonihomeopathy.in/",
+    "address": "A-14, near traffic signal, Krishna Vihar Colony, Awas Vikas Colony, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Awas Vikas Colony",
+    "landmark": "near traffic signal, Krishna Vihar Colony, Awas Vikas Colony, Jhansi, Uttar Pradesh 284003",
+    "emergencyContact": "088582 45858",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%98%86+%26+%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0%7C+Skin%7CHair+Fall+%26+Hair+Regrowth+Treatment%7CSkin+Specialist+%2FDark+Circles+%26+Wrinkle/@25.4557321,78.534506,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c86972b0f:0xdcb319a9cf6f5447!8m2!3d25.4557321!4d78.534506!16s%2Fg%2F11c2j9s5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%A6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B6+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%98%86+%26+%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BA%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0+%F0%9D%97%96%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B0%7C+Skin%7CHair+Fall+%26+Hair+Regrowth+Treatment%7CSkin+Specialist+%2FDark+Circles+%26+Wrinkle/@25.4557321,78.534506,17z/data=!3m1!4b1!4m6!3m5!1s0x3977711c86972b0f:0xdcb319a9cf6f5447!8m2!3d25.4557321!4d78.534506!16s%2Fg%2F11c2j9s5gn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4557321,
+      "lng": 78.534506,
+      "label": "𝗗𝗿. 𝗦𝗼𝗻𝗶 𝗛𝗼𝗺𝗲𝗼𝗽𝗮𝘁𝗵𝘆 & 𝗖𝗼𝘀𝗺𝗲𝘁𝗶𝗰 𝗖𝗹𝗶𝗻𝗶𝗰| Skin|Hair Fall & Hair Regrowth Treatment|Skin Specialist /Dark Circles & Wrinkle",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hiv-test-home-collection-centre-hormone-test-best-full-body-checkup-in-jhansi-jhansi",
+    "name": "𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲 𝗣𝗮𝘁𝗵 𝗟𝗮𝗯 - HIV Test | Home Collection Centre | Hormone Test | Best Full Body Checkup in Jhansi",
+    "type": "Medical Laboratory",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical laboratory in Jhansi, 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲 𝗣𝗮𝘁𝗵 𝗟𝗮𝗯 - HIV Test | Home Collection Centre | Hormone Test | Best Full Body Checkup in Jhansi delivers integrated care across Kidney Transplant Surgery In Jhansi and Medical Laboratory. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078378 32552",
+    "alternatePhone": "",
+    "website": "https://reliableclinicalpathlabs.com/",
+    "address": "behind Sita Hotel happy family hospital basement, Civil Lines, Jhansi, Uttar Pradesh 284003",
+    "city": "Jhansi",
+    "state": "Uttar Pradesh",
+    "pincode": "284003",
+    "locality": "Civil Lines",
+    "landmark": "Jhansi",
+    "emergencyContact": "078378 32552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Jhansi",
+      "Medical Laboratory"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%AF+-+HIV+Test+%7C+Home+Collection+Centre+%7C+Hormone+Test+%7C+Best+Full+Body+Checkup+in+Jhansi/@25.4506284,78.562689,17z/data=!3m1!4b1!4m6!3m5!1s0x397771402f43a115:0x6a59f46d22e120a0!8m2!3d25.4506284!4d78.562689!16s%2Fg%2F11pkckwqtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%97%A5%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%B9%F0%9D%97%B2+%F0%9D%97%A3%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5+%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%AF+-+HIV+Test+%7C+Home+Collection+Centre+%7C+Hormone+Test+%7C+Best+Full+Body+Checkup+in+Jhansi/@25.4506284,78.562689,17z/data=!3m1!4b1!4m6!3m5!1s0x397771402f43a115:0x6a59f46d22e120a0!8m2!3d25.4506284!4d78.562689!16s%2Fg%2F11pkckwqtt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4506284,
+      "lng": 78.562689,
+      "label": "𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲 𝗣𝗮𝘁𝗵 𝗟𝗮𝗯 - HIV Test | Home Collection Centre | Hormone Test | Best Full Body Checkup in Jhansi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

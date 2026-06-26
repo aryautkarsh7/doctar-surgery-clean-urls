@@ -1,0 +1,1592 @@
+window.DOCTAR_TEMP_CITY = [
+  {
+    "name": "Dr. shiraz.nov jeevan clinic sexologist",
+    "slug": "dr-shiraz-nov-jeevan-clinic-sexologist-gastro-surgery",
+    "specialty": "Sexologist",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Rastipura Colony",
+    "hospitals": [
+      {
+        "name": "Rastipura Colony",
+        "slug": "rastipura-colony-burhanpur",
+        "address": "Rastipura Colony, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Rastipura Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Sexologist in Burhanpur often consult Dr. shiraz.nov jeevan clinic sexologist for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Dr. shiraz.nov jeevan clinic sexologist brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. shiraz.nov jeevan clinic sexologist supports patients visiting Rastipura Colony with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. shiraz.nov jeevan clinic sexologist. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "gastro-surgery",
+      "urologist-surgeon",
+      "sexologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-shiraz-nov-jeevan-clinic-sexologist.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGmzrodNtWHYZWoIIgUiLZYbqaFku9XO3o3xqSVcTrKfnIp1yYpUojb5FTud25XLvO-jr7v8LJziLVnr48E_vBOHRyJli1MP2YYHpxWtrbWMFrKWWwe09UQWkJrbnXvfVJk_1LB=w408-h411-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR.shiraz.nov+jeevan+clinic+sexologist/@21.31179,76.2251828,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833989b6c6269:0x6c035433cc7f268!8m2!3d21.31179!4d76.2251828!16s%2Fg%2F11fmm189p8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. FARUQUE SAHAB",
+    "slug": "dr-faruque-sahab-urology",
+    "specialty": "Urologist Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Monin Pura",
+    "hospitals": [
+      {
+        "name": "Monin Pura",
+        "slug": "monin-pura-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. FARUQUE SAHAB is known in Burhanpur for urologist surgeon care with attention to kidney stone treatment, prostate care, urinary disorders, and male urology concerns. Drawing on strong clinical and procedural experience, Dr. FARUQUE SAHAB supports both routine and complex cases with clarity and confidence. Patients visiting Monin Pura rely on Dr. FARUQUE SAHAB for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. FARUQUE SAHAB is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "urology",
+      "urologist-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. JIMMY CLINIC",
+    "slug": "dr-jimmy-clinic-gastro-surgery",
+    "specialty": "Sexologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Arco complex Shanwara Chowraha",
+    "hospitals": [
+      {
+        "name": "Arco complex Shanwara Chowraha",
+        "slug": "arco-complex-shanwara-chowraha-arco-complex-shanwara-chowraha",
+        "address": "Arco complex Shanwara Chowraha, Madhya Pradesh 450331",
+        "timing": ""
+      }
+    ],
+    "location": "Arco complex Shanwara Chowraha, Madhya Pradesh 450331",
+    "city": "Arco complex Shanwara Chowraha",
+    "language": "",
+    "bio": "As a dedicated Sexologist in Arco complex Shanwara Chowraha, Dr. JIMMY CLINIC provides structured care for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Dr. JIMMY CLINIC applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Arco complex Shanwara Chowraha, Dr. JIMMY CLINIC helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. JIMMY CLINIC a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "urologist-surgeon",
+      "sexologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Mansha Sexologist Clinic",
+    "slug": "dr-mansha-sexologist-clinic-men-s-health-physician",
+    "specialty": "Men's health physician",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "behind Sharma dudh dairy samad thekedar ki gali khanka ward",
+    "hospitals": [
+      {
+        "name": "behind Sharma dudh dairy samad thekedar ki gali khanka ward",
+        "slug": "behind-sharma-dudh-dairy-samad-thekedar-ki-gali-khanka-ward-burhanpur",
+        "address": "patidar colony, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "patidar colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Mansha Sexologist Clinic offers specialized men's health physician services in Burhanpur, with particular emphasis on urologist surgeon. With strong clinical and procedural experience, Dr. Mansha Sexologist Clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Mansha Sexologist Clinic emphasizes transparent communication, safe decision-making, and individualized management at behind Sharma dudh dairy samad thekedar ki gali khanka ward. The practice style of Dr. Mansha Sexologist Clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "men-s-health-physician",
+      "urologist-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-mansha-sexologist-clinic.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiScb2oOkflJ6tM57BjXAimvHZZ0fMO35c188SmUvhVi9Y3oYKYiAKT1VsOSJk-CRjG6PhwHyxn9TdNhq2-lsaMRjk80TZmr5VuijP8A0Faj5L2VAgAoUL0FZKBA1HmHKFg9Ta=w408-h903-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Mansha+Sexologist+Clinic/@21.3109944,76.2312873,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8335b6385f83f:0xd819704d6c3d74b0!8m2!3d21.3109944!4d76.2312873!16s%2Fg%2F11sd6h3zj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Darpan Toke (MBBS M.S.",
+    "slug": "dr-darpan-toke-mbbs-m-s-liver-transplant",
+    "specialty": "Liver Transplant Surgeon",
+    "degree": "MBBS",
+    "experience": "",
+    "rating": 4.6,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Shree Govind Pharmacy Building",
+    "hospitals": [
+      {
+        "name": "Shree Govind Pharmacy Building",
+        "slug": "shree-govind-pharmacy-building-burhanpur",
+        "address": "Indira Colony, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Indira Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Dr. Darpan Toke (MBBS M.S. practices as an established Liver Transplant Surgeon with focused expertise in doctor. Over years of hands-on practice, Dr. Darpan Toke (MBBS M.S. has built a reputation for evidence-based care and consistent treatment results. Consulting from Shree Govind Pharmacy Building, Dr. Darpan Toke (MBBS M.S. focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Darpan Toke (MBBS M.S. continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "liver-transplant",
+      "liver-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Yogini Khatri (Obstetrics & Gynaecology) at Metro Medicare Multispeciality Hospital",
+    "slug": "dr-yogini-khatri-obstetrics-gynaecology-at-metro-medicare-multispeciality-hospital-liver-transplant",
+    "specialty": "Liver Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Metro Medicare Multispeciality Hospital",
+    "hospitals": [
+      {
+        "name": "Metro Medicare Multispeciality Hospital",
+        "slug": "metro-medicare-multispeciality-hospital-burhanpur",
+        "address": "patidar colony, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "patidar colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Yogini Khatri (Obstetrics & Gynaecology) at Metro Medicare Multispeciality Hospital is known in Burhanpur for liver transplant surgeon care with attention to private hospital. Drawing on strong clinical and procedural experience, Dr. Yogini Khatri (Obstetrics & Gynaecology) at Metro Medicare Multispeciality Hospital supports both routine and complex cases with clarity and confidence. Patients visiting Metro Medicare Multispeciality Hospital rely on Dr. Yogini Khatri (Obstetrics & Gynaecology) at Metro Medicare Multispeciality Hospital for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Yogini Khatri (Obstetrics & Gynaecology) at Metro Medicare Multispeciality Hospital is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "liver-transplant",
+      "liver-transplant-surgeon",
+      "private-hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-yogini-khatri-obstetrics-gynaecology-at-metro-medicare-multispeciality-hospital.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEeThQgBsJuHhJGdX40i_egwOeR5Qasw8q97vBVoeS74yq3UXOiUryspBNwe8wTaNPwZ0N9DGeIY-W5Z8STkNtDSI2fLPlv0uzUp2E7gmQOLlDhma35_dT4LlPe1d_rDPpAOCZPsg=w408-h408-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR+Yogini+Khatri+(Obstetrics+%26+Gynaecology)+at+Metro+Medicare+Multispeciality+Hospital/@21.3115312,76.2275255,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833661a7bef73:0xb8cc9d84724fe4ee!8m2!3d21.3115312!4d76.2275255!16s%2Fg%2F11w3zqlkj7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Liver Transplant, HPB and GI Onco surgeon , Dr Ramdip Ray",
+    "slug": "liver-transplant-hpb-and-gi-onco-surgeon-dr-ramdip-ray-liver-transplant-in-burhanpur",
+    "specialty": "liver transplant surgeon in Burhanpur",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Apollo Multispeciality Hospital",
+    "hospitals": [
+      {
+        "name": "Apollo Multispeciality Hospital",
+        "slug": "apollo-multispeciality-hospital-kolkata",
+        "address": "Kankurgachi, Kolkata",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Kankurgachi, Kolkata",
+    "city": "Kolkata",
+    "language": "",
+    "bio": "Liver Transplant, HPB and GI Onco surgeon , Dr Ramdip Ray is a highly experienced liver transplant surgeon in Burhanpur based in Kolkata, specializing in liver transplant surgeon and medical center. Backed by strong clinical and procedural experience, Liver Transplant, HPB and GI Onco surgeon , Dr Ramdip Ray combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Apollo Multispeciality Hospital, Liver Transplant, HPB and GI Onco surgeon , Dr Ramdip Ray is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Liver Transplant, HPB and GI Onco surgeon , Dr Ramdip Ray is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "liver-transplant-in-burhanpur",
+      "liver-transplant-surgeon",
+      "medical-center"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Hemant Mahajan Residence Clinic",
+    "slug": "dr-hemant-mahajan-residence-clinic-liver-transplant",
+    "specialty": "Liver Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "38",
+    "hospitals": [
+      {
+        "name": "38",
+        "slug": "38-burhanpur",
+        "address": "New Adarsh Colony, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "New Adarsh Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Hemant Mahajan Residence Clinic offers specialized liver transplant surgeon services in Burhanpur, with particular emphasis on medical clinic. With strong clinical and procedural experience, Dr. Hemant Mahajan Residence Clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Hemant Mahajan Residence Clinic emphasizes transparent communication, safe decision-making, and individualized management at 38. The practice style of Dr. Hemant Mahajan Residence Clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "liver-transplant",
+      "liver-transplant-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. kartik Nimbhore",
+    "slug": "dr-kartik-nimbhore-kidney-transplant",
+    "specialty": "Kidney Transplant Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Lb32",
+    "hospitals": [
+      {
+        "name": "Lb32",
+        "slug": "lb32-burhanpur",
+        "address": "New Indira Colony, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "New Indira Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. kartik Nimbhore is known in Burhanpur for kidney transplant surgeon care with attention to doctor. Drawing on strong clinical and procedural experience, Dr. kartik Nimbhore supports both routine and complex cases with clarity and confidence. Patients visiting Lb32 rely on Dr. kartik Nimbhore for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. kartik Nimbhore is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "kidney-transplant",
+      "kidney-transplant-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-kartik-nimbhore.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAECtTgDmBAGxz1-TNKWcJpi_UTo0GJ_i34jLdv5rH06OtwxXr4Y7I5y4chfMp-2GfqSaywopGzo1XOvU6S8HtGTQuTZhakUHQwnaoICTtM5AURjKgWP1jXvmuhsqiJCVk4-4c2tVyKj2iIR=w203-h392-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+kartik+Nimbhore/@21.3138215,76.2117812,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8337f7b350889:0x8322111df3c29446!8m2!3d21.3138215!4d76.2117812!16s%2Fg%2F11szfph7h6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. RATHOD ORTHOPEDIC CENTRE",
+    "slug": "dr-rathod-orthopedic-centre-neurosurgery",
+    "specialty": "Spine Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "ground floor",
+    "hospitals": [
+      {
+        "name": "ground floor",
+        "slug": "ground-floor-burhanpur",
+        "address": "near ankita talkies, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "near ankita talkies, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Spine Surgeon in Burhanpur often consult Dr. RATHOD ORTHOPEDIC CENTRE for brain and spine disorders, disc problems, nerve compression, and complex neurosurgical evaluation. Dr. RATHOD ORTHOPEDIC CENTRE brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. RATHOD ORTHOPEDIC CENTRE supports patients visiting ground floor with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. RATHOD ORTHOPEDIC CENTRE. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "neurosurgery",
+      "spine",
+      "spine-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-rathod-orthopedic-centre.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENDnjD-Fstcf13hxuQ0i182ggr4_ljcLS-l7HVVIfmHQgrMkcST6Qm8YDNQ4aRxAPJ-y6fsplGUqHlEcCstGgPRIkgc88Yb_fGQQUMZGsB9ZK9EfNJoLuSTWj3INVjE8oa1CRwvA=w408-h306-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR+RATHOD+ORTHOPEDIC+CENTRE/@21.3022323,76.2228133,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd83300345dbd8d:0x82f60b0c84459b33!8m2!3d21.3022323!4d76.2228133!16s%2Fg%2F11y4zpgxc5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Motiwala’s Advanced laser Physiotherapy clinic",
+    "slug": "dr-motiwala-s-advanced-laser-physiotherapy-clinic-ent",
+    "specialty": "Hip Replacement Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.6,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Monin Pura",
+    "hospitals": [
+      {
+        "name": "Monin Pura",
+        "slug": "monin-pura-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": "Open · Closes 9 am   i"
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Hip Replacement Surgeon in Burhanpur often consult Dr. Motiwala’s Advanced laser Physiotherapy clinic for sinus problems, tonsil disorders, hearing concerns, and throat infections. Dr. Motiwala’s Advanced laser Physiotherapy clinic brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Motiwala’s Advanced laser Physiotherapy clinic supports patients visiting Monin Pura with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Motiwala’s Advanced laser Physiotherapy clinic. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "ent",
+      "hip-replacement-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-motiwala-s-advanced-laser-physiotherapy-clinic.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvZqeAr55gO_qYsKI9Pevy_xCfNmfNP2DaK2GTZFNl7FuXvfA2luWlb0bOnSF0by15xrSpKvegt7-RfKgCxepst6qVuXSXHaYkoX2If84TDTLPaIqpvBptm12zBW1ju07KWv3I=w408-h725-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Motiwala%E2%80%99s+Advanced+laser+Physiotherapy+clinic/@21.3148907,76.2325155,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd832e69daf249d:0xe69480e3ca237356!8m2!3d21.3148907!4d76.2325155!16s%2Fg%2F11g8wcnxry?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Malani's Skin Aesthetic & Childcare centre(Council certified Female Dermatologist with 10+ years of experience)",
+    "slug": "dr-malani-s-skin-aesthetic-childcare-centre-council-certified-female-dermatologist-with-10-years-of-experience-gastro-surgery",
+    "specialty": "Dermatologist",
+    "degree": "",
+    "experience": "10+ Years",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "2nd floor",
+    "hospitals": [
+      {
+        "name": "2nd floor",
+        "slug": "2nd-floor-burhanpur",
+        "address": "New Indira Colony, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "New Indira Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Malani's Skin Aesthetic & Childcare centre(Council certified Female Dermatologist with 10+ years of experience) is a highly experienced Dermatologist based in Burhanpur, specializing in gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Backed by 10+ years of experience, Dr. Malani's Skin Aesthetic & Childcare centre(Council certified Female Dermatologist with 10+ years of experience) combines clinical judgment with modern treatment pathways and patient-friendly guidance. At 2nd floor, Dr. Malani's Skin Aesthetic & Childcare centre(Council certified Female Dermatologist with 10+ years of experience) is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Malani's Skin Aesthetic & Childcare centre(Council certified Female Dermatologist with 10+ years of experience) is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "cancer-surgeon",
+      "dermatologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-malani-s-skin-aesthetic-childcare-centre-council-certified-female-dermatologist-with-10.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF7qv0zdRFpT7kUFqi7Ymjg3-kORZcHYNa2lNnoVl3kQRw-UQ3VvbdMf8gkCxBqaNYoQJI2ljdwahe-UkyrD-hwr4-1vkss-uHIlymhEmGK7S-2CvoeB0rMq0nRF2_HtyNKOmqALJF48rLE=w408-h486-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Malani's+Skin,+Aesthetic+%26+Childcare+centre(Council+certified+Female+Dermatologist+with+10%2B+years+of+experience)/@21.3122892,76.2132038,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8335296146b03:0x5df80da139f62b47!8m2!3d21.3122892!4d76.2132038!16s%2Fg%2F11ql_3_68m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Piyush Bhargava Ayurvedic Cancer",
+    "slug": "dr-piyush-bhargava-ayurvedic-cancer-oncology",
+    "specialty": "cancer surgeon in Burhanpur",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Sub Health Center",
+    "hospitals": [
+      {
+        "name": "Sub Health Center",
+        "slug": "sub-health-center-khamni",
+        "address": "Sub Health Center, Khamni",
+        "timing": ""
+      }
+    ],
+    "location": "Sub Health Center, Khamni",
+    "city": "Khamni",
+    "language": "",
+    "bio": "Patients searching for a trusted cancer surgeon in Burhanpur in Khamni often consult Dr. Piyush Bhargava Ayurvedic Cancer for cancer surgery, tumor evaluation, multidisciplinary oncology care, and organ-specific cancer treatment. Dr. Piyush Bhargava Ayurvedic Cancer brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Piyush Bhargava Ayurvedic Cancer supports patients visiting Sub Health Center with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Piyush Bhargava Ayurvedic Cancer. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "oncology",
+      "cancer-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Jaipaldas Thawani Clinic",
+    "slug": "dr-jaipaldas-thawani-clinic-oncology",
+    "specialty": "Cancer Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.6,
+    "reviews": 5,
+    "fee": 0,
+    "hospital": "Chouraha",
+    "hospitals": [
+      {
+        "name": "Chouraha",
+        "slug": "chouraha-burhanpur",
+        "address": "Sindhi Basti, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "Sindhi Basti, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Jaipaldas Thawani Clinic is a highly experienced Cancer Surgeon based in Burhanpur, specializing in cancer surgery, tumor evaluation, multidisciplinary oncology care, and organ-specific cancer treatment. Backed by strong clinical and procedural experience, Dr. Jaipaldas Thawani Clinic combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Chouraha, Dr. Jaipaldas Thawani Clinic is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Jaipaldas Thawani Clinic is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "oncology",
+      "cancer-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-jaipaldas-thawani-clinic.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9qCWlNKmnMra_FHAguB1kDakwBcogkxF_WvNL-DoS0kvwr4xT2tlPXGyqVhHCNYbGt-uHggSw4N4JbEYq_6jKOqkz9w3kYgNJdTP-RzT7VXTbty62HKslHsyGeQOetfvl0-JaIg=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Jaipaldas+Thawani+Clinic/@21.3133738,76.2181804,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8336efb657917:0x89723a95d9c1b71e!8m2!3d21.3133738!4d76.2181804!16s%2Fg%2F11lgkv6pkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. zeeshan khan sexologist",
+    "slug": "dr-zeeshan-khan-sexologist-gastro-surgery",
+    "specialty": "Sexologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.2,
+    "reviews": 5,
+    "fee": 0,
+    "hospital": "front of sharma transport",
+    "hospitals": [
+      {
+        "name": "front of sharma transport",
+        "slug": "front-of-sharma-transport-burhanpur",
+        "address": "Jamalpura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Jamalpura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. zeeshan khan sexologist is a highly experienced Sexologist based in Burhanpur, specializing in gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Backed by strong clinical and procedural experience, Dr. zeeshan khan sexologist combines clinical judgment with modern treatment pathways and patient-friendly guidance. At front of sharma transport, Dr. zeeshan khan sexologist is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. zeeshan khan sexologist is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "cancer-surgeon",
+      "sexologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-zeeshan-khan-sexologist.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEc_7q3hd3hkkJWcijVms3C1jvckMyheMNwbU0DVaMH1rTxkOz1EA9YYLaZ37VoMZyxJQvMdvEVPAUaZkxuZlKJPqRmngZMOD_n_-eMv_tRDa4x9tyOpqolEHIzF4epcSPetms=w238-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+zeeshan+khan+sexologist/@21.309345,76.2258938,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8331678b919e5:0x6bdf462ce51ef195!8m2!3d21.309345!4d76.2258938!16s%2Fg%2F11kqxl5fb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Akhil Shah’s Vatsalya skin Clinic नया पता ….Dr Ashok Shah hospital राजपुरा",
+    "slug": "dr-akhil-shah-s-vatsalya-skin-clinic-dr-ashok-shah-hospital-gastro-surgery",
+    "specialty": "Dermatologist",
+    "degree": "",
+    "experience": "15+ Years",
+    "rating": 4.3,
+    "reviews": 17,
+    "fee": 0,
+    "hospital": "Vatsalya skin clinic",
+    "hospitals": [
+      {
+        "name": "Vatsalya skin clinic",
+        "slug": "vatsalya-skin-clinic-burhanpur",
+        "address": "Goti Maholla, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Goti Maholla, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Akhil Shah’s Vatsalya skin Clinic नया पता ….Dr Ashok Shah hospital राजपुरा offers specialized dermatologist services in Burhanpur, with particular emphasis on gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. With strong clinical and procedural experience, Dr. Akhil Shah’s Vatsalya skin Clinic नया पता ….Dr Ashok Shah hospital राजपुरा is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Akhil Shah’s Vatsalya skin Clinic नया पता ….Dr Ashok Shah hospital राजपुरा emphasizes transparent communication, safe decision-making, and individualized management at Vatsalya skin clinic. The practice style of Dr. Akhil Shah’s Vatsalya skin Clinic नया पता ….Dr Ashok Shah hospital राजपुरा is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "spine-neurosurgeon",
+      "dermatologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-akhil-shah-s-vatsalya-skin-clinic-dr-ashok-shah-hospital.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFQDu1TCpH7OT9NPUzXBb894hbCKQxATgbyaI-uqIzh5DyG0PjvUxo5viKaAPxttMe970MW8XCHEAtiTqiq2C8D8zwEgh3xZR1dcr85Yf04auaoi275DpOrL25Qk3wdlnFMJjYT=w532-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Akhil+Shah%E2%80%99s+Vatsalya+skin+Clinic+%E0%A4%A8%E0%A4%AF%E0%A4%BE+%E0%A4%AA%E0%A4%A4%E0%A4%BE+%E2%80%A6.Dr+Ashok+Shah+hospital+%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE/@21.3062733,76.2292753,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833e2f562e94d:0xadee9c0d240956!8m2!3d21.3062733!4d76.2292753!16s%2Fg%2F11fj6qfpsd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Manas Neuro Psychiatry Hospital",
+    "slug": "manas-neuro-psychiatry-hospital-psychiatrist",
+    "specialty": "Psychiatrist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 22,
+    "fee": 0,
+    "hospital": "Radheshyam Ashirwad Hospital",
+    "hospitals": [
+      {
+        "name": "Radheshyam Ashirwad Hospital",
+        "slug": "radheshyam-ashirwad-hospital-burhanpur",
+        "address": "Industrial Area, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Industrial Area, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Manas Neuro Psychiatry Hospital offers specialized psychiatrist services in Burhanpur, with particular emphasis on brain surgeon. With strong clinical and procedural experience, Manas Neuro Psychiatry Hospital is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Manas Neuro Psychiatry Hospital emphasizes transparent communication, safe decision-making, and individualized management at Radheshyam Ashirwad Hospital. The practice style of Manas Neuro Psychiatry Hospital is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "psychiatrist",
+      "brain-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/manas-neuro-psychiatry-hospital.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8N4qVzZ5B3Egg7rvR42anAMPcUZx6rdpD0td9Oi1wVN6SbPCyc-2BEspfM3-kYTu4DUjViNqPlL2kc9eCwwv00TcjfRqx6gsmv7e5tg8qq_OH0xu6Cx3f5l3AwnKDPut8WpSwXjDhTIs=w448-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Manas+Neuro+Psychiatry+Hospital+-+Dr.+Pankaj+Sanghavi+-+Psychiatrist+in+Burhanpur/@21.3128219,76.2245636,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd83304c378636b:0x384ad4d884ce61d3!8m2!3d21.3128219!4d76.2245636!16s%2Fg%2F11y_w_pnlw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Devre Dipak Purushottam Obstetrics & Gynecology in Burhanpur",
+    "slug": "dr-devre-dipak-purushottam-obstetrics-gynecology-in-burhanpur-gynaecology",
+    "specialty": "Obstetrician-gynecologist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 140,
+    "fee": 0,
+    "hospital": "ICON Hospital",
+    "hospitals": [
+      {
+        "name": "ICON Hospital",
+        "slug": "icon-hospital-burhanpur",
+        "address": "Balaji Nagar, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Balaji Nagar, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Devre Dipak Purushottam Obstetrics & Gynecology in Burhanpur is a highly experienced Obstetrician-gynecologist based in Burhanpur, specializing in high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. Backed by strong clinical and procedural experience, Dr. Devre Dipak Purushottam Obstetrics & Gynecology in Burhanpur combines clinical judgment with modern treatment pathways and patient-friendly guidance. At ICON Hospital, Dr. Devre Dipak Purushottam Obstetrics & Gynecology in Burhanpur is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Devre Dipak Purushottam Obstetrics & Gynecology in Burhanpur is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "ivf-specialist",
+      "obstetrician-gynecologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-devre-dipak-purushottam-obstetrics-gynecology-in-burhanpur.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFRRSyCem8zqlxmy-hOpy3IZ1tKIo5GrvGnL5JJrnXq0MQZIjkvOik-FVAr6wUX2OqF710iRe_80UHyc1Sx0PJJR-9S-obyvJkfzHL92is8k5Ppmrb4ywjUm61WDlK0oeV-qUH-zQ=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr.+Devre+Dipak+Purushottam+Obstetrics+%26+Gynecology+in+Burhanpur/@21.2987684,76.2199142,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd83314405bee29:0xde3c6ecbdad86d87!8m2!3d21.2987684!4d76.2199142!16s%2Fg%2F11nm_xw7w_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Yogini Khatri Burhanpur",
+    "slug": "dr-yogini-khatri-burhanpur-gynaecology",
+    "specialty": "Obstetrician-gynecologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 12,
+    "fee": 0,
+    "hospital": "Infront of Agrawal Petrol Pump",
+    "hospitals": [
+      {
+        "name": "Infront of Agrawal Petrol Pump",
+        "slug": "infront-of-agrawal-petrol-pump-burhanpur",
+        "address": "New Indira Colony, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "New Indira Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "As a dedicated Obstetrician-gynecologist in Burhanpur, Dr. Yogini Khatri Burhanpur provides structured care for high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. Dr. Yogini Khatri Burhanpur applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Infront of Agrawal Petrol Pump, Dr. Yogini Khatri Burhanpur helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Yogini Khatri Burhanpur a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "ivf-specialist",
+      "obstetrician-gynecologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-yogini-khatri-burhanpur.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHRCSeBzn9jr_7iyZVLK1zcOYmQX9dASSLxyo0CdxszQfDdaGLyW0ttql5yyL1isSsNzgrIlbX21Ie61MQ9j6_7NFg9PXsmMicUtI-DwcE_0ZGDWOpZL0oXJ4LojTRGkhgM1Lw=w298-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR.+Yogini+Khatri+Burhanpur/@21.3122802,76.2136095,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833034d5080e5:0xbabc032afb2b0ab6!8m2!3d21.3122802!4d76.2136095!16s%2Fg%2F11w3r7xnvs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Monish Gupta OBG and Fetal medicine expert",
+    "slug": "dr-monish-gupta-obg-and-fetal-medicine-expert-gynaecology",
+    "specialty": "Obstetrician-gynecologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 7,
+    "fee": 0,
+    "hospital": "",
+    "hospitals": [],
+    "location": "",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Dr. Monish Gupta OBG and Fetal medicine expert practices as an established Obstetrician-gynecologist with focused expertise in high-risk pregnancy care, PCOS management, laparoscopic gynecological procedures, and menstrual disorders. Over years of hands-on practice, Dr. Monish Gupta OBG and Fetal medicine expert has built a reputation for evidence-based care and consistent treatment results. Consulting from Burhanpur, Dr. Monish Gupta OBG and Fetal medicine expert focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Monish Gupta OBG and Fetal medicine expert continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "gynaecology",
+      "gynecologist-surgeon",
+      "obstetrician-gynecologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-monish-gupta-obg-and-fetal-medicine-expert.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZ8XhASBFr_filUer8YnjFR_PR7h_lUNjzdtlGM9dEQKZYx0qfsH0HrYfXzU2MOxg0bH4KiNrujlrpL5BMGZNl7tkzfjnfsDDE4xRqxTqRK2XOdxMGMLMBO_91t4CRFRMSLkytx_0wJmQh=w224-h398-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr.+Monish+Gupta+OBG+and+Fetal+medicine+expert/data=!4m7!3m6!1s0xacdcac1d29e3da15:0xd44ffaa785caa24b!8m2!3d21.3176515!4d76.2180144!16s%2Fg%2F11z3yz62lp!19sChIJFdrjKR2s3KwRS6LKhaf6T9Q?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Dr. Swati Jain",
+    "slug": "dr-swati-jain-aesthetics",
+    "specialty": "Plastic surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 9,
+    "fee": 0,
+    "hospital": "Govind Puram Colony",
+    "hospitals": [
+      {
+        "name": "Govind Puram Colony",
+        "slug": "govind-puram-colony-burhanpur",
+        "address": "behind collector office, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "behind collector office, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Swati Jain offers specialized plastic surgeon services in Burhanpur, with particular emphasis on rhinoplasty, hair restoration, scar revision, and body contouring. With strong clinical and procedural experience, Dr. Swati Jain is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Swati Jain emphasizes transparent communication, safe decision-making, and individualized management at Govind Puram Colony. The practice style of Dr. Swati Jain is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "laparoscopic-surgeon",
+      "plastic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Burhanpur Surgical",
+    "slug": "burhanpur-surgical-gastro-surgery",
+    "specialty": "Surgical Products Wholesaler",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 8,
+    "fee": 0,
+    "hospital": "Goti Maholla",
+    "hospitals": [
+      {
+        "name": "Goti Maholla",
+        "slug": "goti-maholla-burhanpur",
+        "address": "Goti Maholla, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "Goti Maholla, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Burhanpur Surgical offers specialized surgical products wholesaler services in Burhanpur, with particular emphasis on gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. With strong clinical and procedural experience, Burhanpur Surgical is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Burhanpur Surgical emphasizes transparent communication, safe decision-making, and individualized management at Goti Maholla. The practice style of Burhanpur Surgical is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "laparoscopic-surgeon",
+      "surgical-products-wholesaler"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/burhanpur-surgical.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFaU82ifViiIe34WKplzSKiTB0HDzXTt9TW9oC7RZK6ZKjGk_FKmLHlgFFcMqrvLrPq0LTh4_4YuaBGr6SKGX7q7Vbq_mcC877MXJbQFoIDmK0eyvof3JypM_9FUmyRG54nCwCtyPGJsQK=w224-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Burhanpur+Surgical/data=!4m7!3m6!1s0x3bd833593657d177:0xae170668eed82166!8m2!3d21.3089294!4d76.2310855!16s%2Fg%2F11m6bdds5d!19sChIJd9FXNlkz2DsRZiHY7mgGF64?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Dr. Salman Day Care & Skin Care Center",
+    "slug": "dr-salman-day-care-skin-care-center-laparoscopy",
+    "specialty": "Laparoscopic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.8,
+    "reviews": 20,
+    "fee": 0,
+    "hospital": "Adarsh Cutpiece Baba Dresses",
+    "hospitals": [
+      {
+        "name": "Adarsh Cutpiece Baba Dresses",
+        "slug": "adarsh-cutpiece-baba-dresses-burhanpur",
+        "address": "patidar colony, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "patidar colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Salman Day Care & Skin Care Center offers specialized laparoscopic surgeon services in Burhanpur, with particular emphasis on gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. With strong clinical and procedural experience, Dr. Salman Day Care & Skin Care Center is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Salman Day Care & Skin Care Center emphasizes transparent communication, safe decision-making, and individualized management at Adarsh Cutpiece Baba Dresses. The practice style of Dr. Salman Day Care & Skin Care Center is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-salman-day-care-skin-care-center.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH2g1DabdG3SnLl0J_fUyDAopb9IO3opteCgnNwjqlQ1teengt3xPYwdHkARIkcGVbx7LVz1PG9GOnXHM6-fVFUPbGfOqvSOD9vQWbCvOPbkXVdMBJnsSFDsuhUo0Y4Z28offHL1-B7ZBln=w270-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr.Salman+Day+Care+%26+Skin+Care+Center/data=!4m7!3m6!1s0x3bd833de676c94d3:0xe645f45fcc91884b!8m2!3d21.3101291!4d76.2311501!16s%2Fg%2F11xv9vrx2c!19sChIJ05RsZ94z2DsRS4iRzF_0ReY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Jain Surgicana",
+    "slug": "jain-surgicana-homeopathic-pharmacy",
+    "specialty": "Homeopathic pharmacy",
+    "degree": "",
+    "experience": "",
+    "rating": 4.4,
+    "reviews": 7,
+    "fee": 0,
+    "hospital": "341/2",
+    "hospitals": [
+      {
+        "name": "341/2",
+        "slug": "341-2-burhanpur",
+        "address": "Sanjay Nagar, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Sanjay Nagar, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Jain Surgicana is known in Burhanpur for homeopathic pharmacy care with attention to laparoscopic surgeon. Drawing on strong clinical and procedural experience, Jain Surgicana supports both routine and complex cases with clarity and confidence. Patients visiting 341/2 rely on Jain Surgicana for systematic evaluation, clear recommendations, and well-planned treatment pathways. Jain Surgicana is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "homeopathic-pharmacy",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/jain-surgicana.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE1bTOP0BZzftmopmpy2rPLPk2B5s-YwUtu1LTeeHkiovaQDQzaLd9Y_njhETUIcANFCtZ2DjvZIyGLjfxkgS-vqcHiu8gMLZl9tzroWjwdjIpdJRB_fokL1nbRbDFiwXMt8cP8=w529-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Jain+Surgicana/@21.3050735,76.2331125,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833ed08b4d89d:0x8892af9710df73c0!8m2!3d21.3050735!4d76.2331125!16s%2Fg%2F11gzs3q_rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Onelife polyclinic (Dr Arvind kumar )",
+    "slug": "onelife-polyclinic-dr-arvind-kumar-laparoscopy",
+    "specialty": "Laparoscopic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 6,
+    "fee": 0,
+    "hospital": "Onelife polyclinic",
+    "hospitals": [
+      {
+        "name": "Onelife polyclinic",
+        "slug": "onelife-polyclinic-burhanpur",
+        "address": "Jamalpura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Jamalpura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Onelife polyclinic (Dr Arvind kumar ) offers specialized laparoscopic surgeon services in Burhanpur, with particular emphasis on gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. With strong clinical and procedural experience, Onelife polyclinic (Dr Arvind kumar ) is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Onelife polyclinic (Dr Arvind kumar ) emphasizes transparent communication, safe decision-making, and individualized management at Onelife polyclinic. The practice style of Onelife polyclinic (Dr Arvind kumar ) is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/onelife-polyclinic-dr-arvind-kumar.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvh1PFnVf8-W8bFVywkU7SqZeQKxIA4xM8guTzfPK7JWGpV5tnMbLCerC4gmweAdyEMmTKH8rtyhZ6vKx7KGrSPP_U9AViEP0BrXOnFKk47w2We2ytfizUWbvRnlaxAJ1XO7uMUc5Zt77B=w529-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Onelife+polyclinic+(Dr+Arvind+kumar+)/@21.3104804,76.2289081,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd83345cc67199d:0xaceb2e8af45ec6e8!8m2!3d21.3104804!4d76.2289081!16s%2Fg%2F11y8cc7cgy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. premkumar jaiswal",
+    "slug": "dr-premkumar-jaiswal-laparoscopy",
+    "specialty": "laparoscopic surgeon in Burhanpur",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Madhya Pradesh 450331",
+    "hospitals": [
+      {
+        "name": "Madhya Pradesh 450331",
+        "slug": "madhya-pradesh-450331-gujrati-samaj-market",
+        "address": "Gujrati samaj market, Madhya Pradesh 450331",
+        "timing": ""
+      }
+    ],
+    "location": "Gujrati samaj market, Madhya Pradesh 450331",
+    "city": "Gujrati samaj market",
+    "language": "",
+    "bio": "As a dedicated laparoscopic surgeon in Burhanpur in Gujrati samaj market, Dr. premkumar jaiswal provides structured care for gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Dr. premkumar jaiswal applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Madhya Pradesh 450331, Dr. premkumar jaiswal helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. premkumar jaiswal a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Palod Surgical",
+    "slug": "palod-surgical-gastro-surgery",
+    "specialty": "Surgical supply store",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Opp. Nehru Statue at",
+    "hospitals": [
+      {
+        "name": "Opp. Nehru Statue at",
+        "slug": "opp-nehru-statue-at-burhanpur",
+        "address": "Nayamatpura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Nayamatpura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Palod Surgical is known in Burhanpur for surgical supply store care with attention to gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Drawing on strong clinical and procedural experience, Palod Surgical supports both routine and complex cases with clarity and confidence. Patients visiting Opp. Nehru Statue at rely on Palod Surgical for systematic evaluation, clear recommendations, and well-planned treatment pathways. Palod Surgical is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "laparoscopic-surgeon",
+      "surgical-supply-store"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Narayanrao Patil",
+    "slug": "dr-narayanrao-patil-laparoscopy",
+    "specialty": "General practitioner",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me",
+    "hospitals": [
+      {
+        "name": "Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me",
+        "slug": "panchasheel-nagar-ke-samne-sarvoday-kela-group-kazi-manzil-ke-baju-me-panchasheel-nagar-ke-samne-sarvoday-kela-group-kazi-manzil-ke-baju-me",
+        "address": "Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me, Madhya Pradesh 450331",
+        "timing": ""
+      }
+    ],
+    "location": "Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me, Madhya Pradesh 450331",
+    "city": "Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me",
+    "language": "",
+    "bio": "Dr. Narayanrao Patil is known in Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me for general practitioner care with attention to gallbladder stones, hernia surgery, appendix treatment, and piles and fistula care. Drawing on strong clinical and procedural experience, Dr. Narayanrao Patil supports both routine and complex cases with clarity and confidence. Patients visiting Panchasheel nagar ke samne Sarvoday kela Group Kazi manzil ke BAJU me rely on Dr. Narayanrao Patil for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. Narayanrao Patil is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "laparoscopy",
+      "general-surgery",
+      "laparoscopic-surgeon",
+      "general-practitioner"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Nikita Choudhary Burhanpur Dental Clinic",
+    "slug": "dr-nikita-choudhary-burhanpur-dental-clinic-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 16,
+    "fee": 0,
+    "hospital": "Dr sunil patil children's hospital",
+    "hospitals": [
+      {
+        "name": "Dr sunil patil children's hospital",
+        "slug": "dr-sunil-patil-children-s-hospital-burhanpur",
+        "address": "Balaji Nagar, Burhanpur",
+        "timing": "closed Overview Reviews  Directio"
+      }
+    ],
+    "location": "Balaji Nagar, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Dr. Nikita Choudhary Burhanpur Dental Clinic practices as an established Oral Surgeon with focused expertise in oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Over years of hands-on practice, Dr. Nikita Choudhary Burhanpur Dental Clinic has built a reputation for evidence-based care and consistent treatment results. Consulting from Dr sunil patil children's hospital, Dr. Nikita Choudhary Burhanpur Dental Clinic focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Nikita Choudhary Burhanpur Dental Clinic continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. SAKIB's Dental & Aesthetic Centre",
+    "slug": "dr-sakib-s-dental-aesthetic-centre-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 80,
+    "fee": 0,
+    "hospital": "Infront of Metro hospital",
+    "hospitals": [
+      {
+        "name": "Infront of Metro hospital",
+        "slug": "infront-of-metro-hospital-burhanpur",
+        "address": "Jamalpura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Jamalpura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. SAKIB's Dental & Aesthetic Centre is known in Burhanpur for oral surgeon care with attention to oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Drawing on strong clinical and procedural experience, Dr. SAKIB's Dental & Aesthetic Centre supports both routine and complex cases with clarity and confidence. Patients visiting Infront of Metro hospital rely on Dr. SAKIB's Dental & Aesthetic Centre for systematic evaluation, clear recommendations, and well-planned treatment pathways. Dr. SAKIB's Dental & Aesthetic Centre is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-sakib-s-dental-aesthetic-centre.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHT_SDGJQbope-SnTUBBwjKLDk-8n0Te3SPg5qHnJ94MCS7CPcdPtlD_DB9s3IFK5CQQvvLQgMu1Qea81gU4oosLJL-oPmABrORRHA2J5jj1lA6DTRquWOAHtczR5it6sybRNeb=w408-h306-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR.+SAKIB's+Dental+%26+Aesthetic+Centre/@21.3113519,76.2276997,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8332eb2721add:0xea59218ef7c7805f!8m2!3d21.3113519!4d76.2276997!16s%2Fg%2F11kckrd33z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Aamir'S dental clinic",
+    "slug": "dr-aamir-s-dental-clinic-ent",
+    "specialty": "Dentist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.7,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "first floor",
+    "hospitals": [
+      {
+        "name": "first floor",
+        "slug": "first-floor-beside-saifee-book-depot",
+        "address": "Shop no.4t, beside Saifee book depot",
+        "timing": ""
+      }
+    ],
+    "location": "Shop no.4t, beside Saifee book depot",
+    "city": "beside Saifee book depot",
+    "language": "",
+    "bio": "Serving patients in beside Saifee book depot, Dr. Aamir'S dental clinic practices as an established Dentist with focused expertise in sinus problems, tonsil disorders, hearing concerns, and throat infections. Over years of hands-on practice, Dr. Aamir'S dental clinic has built a reputation for evidence-based care and consistent treatment results. Consulting from first floor, Dr. Aamir'S dental clinic focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Aamir'S dental clinic continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "ent",
+      "oral-surgeon",
+      "dentist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "DrBHARAT CHOUDHARY MDS",
+    "slug": "drbharat-choudhary-mds-ent",
+    "specialty": "Dentist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Dr prashant kuyte eye hospital",
+    "hospitals": [
+      {
+        "name": "Dr prashant kuyte eye hospital",
+        "slug": "dr-prashant-kuyte-eye-hospital-raver",
+        "address": "New Indira Colony, Raver",
+        "timing": ""
+      }
+    ],
+    "location": "New Indira Colony, Raver",
+    "city": "Raver",
+    "language": "",
+    "bio": "DrBHARAT CHOUDHARY MDS is a highly experienced Dentist based in Raver, specializing in sinus problems, tonsil disorders, hearing concerns, and throat infections. Backed by strong clinical and procedural experience, DrBHARAT CHOUDHARY MDS combines clinical judgment with modern treatment pathways and patient-friendly guidance. At Dr prashant kuyte eye hospital, DrBHARAT CHOUDHARY MDS is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. DrBHARAT CHOUDHARY MDS is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "ent",
+      "oral-surgeon",
+      "dentist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. AQEEL DENTAL CLINIC",
+    "slug": "dr-aqeel-dental-clinic-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 6,
+    "fee": 0,
+    "hospital": "jay stambh square",
+    "hospitals": [
+      {
+        "name": "jay stambh square",
+        "slug": "jay-stambh-square-burhanpur",
+        "address": "Goti Maholla, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Goti Maholla, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Oral Surgeon in Burhanpur often consult Dr. AQEEL DENTAL CLINIC for oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Dr. AQEEL DENTAL CLINIC brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. AQEEL DENTAL CLINIC supports patients visiting jay stambh square with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. AQEEL DENTAL CLINIC. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-aqeel-dental-clinic.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHEwEpjQuiyW-X_uizg4Bi8iCmkUKRYftD5y2nFq0U6-_0Sl9BSqvqnP1mYD_2zMSYRuhULvzAD2B0PvkPzEp2iKs227dgW2q4YbSWyJFipyrlWk68_lOwokS3bixuXTh7QdFVp=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/DR+AQEEL+DENTAL+CLINIC/@21.3106445,76.2293328,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd8337054b1ba63:0x9649fb4567d500ee!8m2!3d21.3106445!4d76.2293328!16s%2Fg%2F11h9bp773c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Adil Dental clinic",
+    "slug": "dr-adil-dental-clinic-ent",
+    "specialty": "Dentist",
+    "degree": "",
+    "experience": "",
+    "rating": 4.0,
+    "reviews": 4,
+    "fee": 0,
+    "hospital": "Maulana Abdul Kalam Azad school",
+    "hospitals": [
+      {
+        "name": "Maulana Abdul Kalam Azad school",
+        "slug": "maulana-abdul-kalam-azad-school-burhanpur",
+        "address": "Teressa, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Teressa, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Dr. Adil Dental clinic practices as an established Dentist with focused expertise in sinus problems, tonsil disorders, hearing concerns, and throat infections. Over years of hands-on practice, Dr. Adil Dental clinic has built a reputation for evidence-based care and consistent treatment results. Consulting from Maulana Abdul Kalam Azad school, Dr. Adil Dental clinic focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. Adil Dental clinic continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "ent",
+      "oral-surgeon",
+      "dentist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-adil-dental-clinic.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH8O0qrBzYJYlJR5uufaVeVnbp8m9Ow31GsqT0VKAr3FqXx93g2Spsgd1bUqFbB4o5SHoqaLsVfEPjQejLH-oF5gXd5OzYaDeuL591Fr3cv7_1lTa7pJkknc1MP9FmjRY_VlEih5qgD_rPO=w408-h544-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr.+Adil+Dental+clinic/@21.3213981,76.2394386,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833007fa6c32d:0xac95c4411d7d1dea!8m2!3d21.3213981!4d76.2394386!16s%2Fg%2F11wxrhl20s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. kuoshee hsu,TOOTH POINT",
+    "slug": "dr-kuoshee-hsu-tooth-point-dentistry",
+    "specialty": "Oral Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "jhulelal complex",
+    "hospitals": [
+      {
+        "name": "jhulelal complex",
+        "slug": "jhulelal-complex-burhanpur",
+        "address": "jhulelal complex, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "jhulelal complex, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Dr. kuoshee hsu,TOOTH POINT practices as an established Oral Surgeon with focused expertise in oral surgery, wisdom tooth removal, jaw disorders, and dental alignment support. Over years of hands-on practice, Dr. kuoshee hsu,TOOTH POINT has built a reputation for evidence-based care and consistent treatment results. Consulting from jhulelal complex, Dr. kuoshee hsu,TOOTH POINT focuses on patient-centric care, realistic expectations, and dependable clinical support. Dr. kuoshee hsu,TOOTH POINT continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "dentistry",
+      "oral-surgeon",
+      "dental-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-kuoshee-hsu-tooth-point.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHT_SDGJQbope-SnTUBBwjKLDk-8n0Te3SPg5qHnJ94MCS7CPcdPtlD_DB9s3IFK5CQQvvLQgMu1Qea81gU4oosLJL-oPmABrORRHA2J5jj1lA6DTRquWOAHtczR5it6sybRNeb=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+kuoshee+hsu,TOOTH+POINT/@21.3080736,76.2315863,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833bbb2a73e83:0x66d7d1b71ff3eaf0!8m2!3d21.3080736!4d76.2315863!16s%2Fg%2F11p028rlw_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Syed Nadim (Pediatrician)",
+    "slug": "dr-syed-nadim-pediatrician-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 169,
+    "fee": 0,
+    "hospital": "metro medicare multispeciality hospital",
+    "hospitals": [
+      {
+        "name": "metro medicare multispeciality hospital",
+        "slug": "metro-medicare-multispeciality-hospital-burhanpur",
+        "address": "Road, Burhanpur",
+        "timing": "Open 24 hours"
+      }
+    ],
+    "location": "Road, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Syed Nadim (Pediatrician) is a highly experienced Cosmetic Surgeon based in Burhanpur, specializing in rhinoplasty, hair restoration, scar revision, and body contouring. Backed by strong clinical and procedural experience, Dr. Syed Nadim (Pediatrician) combines clinical judgment with modern treatment pathways and patient-friendly guidance. At metro medicare multispeciality hospital, Dr. Syed Nadim (Pediatrician) is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Syed Nadim (Pediatrician) is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-syed-nadim-pediatrician.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHZ0-6KuvvTEhfGuRZJWDZLxqX1btOhOR5aeoWkTHqLUKKq7c2NnS7CEDtcANC9Uu1s2eSS8WephMK6EEkT9bzKALqsmvFjXA3tMeH_mh8GO2GBbKvZlDdoRhGD4hvJx5eeWktqJg=w529-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Syed+Nadim+(Pediatrician)/@21.3117003,76.2270563,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd832e79e67d6e9:0x27f8e75a8e008a39!8m2!3d21.3117003!4d76.2270563!16s%2Fg%2F11g6hzwxj2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. SWAPNIL VAIDYA (formerly Dr.Prahlad Vaidya)",
+    "slug": "dr-swapnil-vaidya-formerly-dr-prahlad-vaidya-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 3,
+    "fee": 0,
+    "hospital": "374/10",
+    "hospitals": [
+      {
+        "name": "374/10",
+        "slug": "374-10-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "As a dedicated Cosmetic Surgeon in Burhanpur, Dr. SWAPNIL VAIDYA (formerly Dr.Prahlad Vaidya) provides structured care for rhinoplasty, hair restoration, scar revision, and body contouring. Dr. SWAPNIL VAIDYA (formerly Dr.Prahlad Vaidya) applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with 374/10, Dr. SWAPNIL VAIDYA (formerly Dr.Prahlad Vaidya) helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. SWAPNIL VAIDYA (formerly Dr.Prahlad Vaidya) a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-swapnil-vaidya-formerly-dr-prahlad-vaidya.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF27LNhVHiJAyLDa234MfFmgqxx_ASmO4k9WLkXv3ccpFun7neeZHhObo4WT1gYPy78TqB3LnOPjaD0CB_W7-6rZ8Qq2Hd6FTs8N7S3dDKAjJ51Me5l-2dAY8eORanFfdAnSNWLBSTWIGID=w238-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+SWAPNIL+VAIDYA+(formerly+Dr.Prahlad+Vaidya)/@21.306669,76.2338867,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd832dd03918c3d:0x3612ff69250778e5!8m2!3d21.306669!4d76.2338867!16s%2Fg%2F11b77l4z4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Shah Cosmetics",
+    "slug": "shah-cosmetics-aesthetics",
+    "specialty": "Cosmetics store",
+    "degree": "",
+    "experience": "",
+    "rating": 4.5,
+    "reviews": 3,
+    "fee": 0,
+    "hospital": "Pandumal Chaurah",
+    "hospitals": [
+      {
+        "name": "Pandumal Chaurah",
+        "slug": "pandumal-chaurah-burhanpur",
+        "address": "opp. VIJAY SOUND, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "opp. VIJAY SOUND, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Cosmetics store in Burhanpur often consult Shah Cosmetics for rhinoplasty, hair restoration, scar revision, and body contouring. Shah Cosmetics brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Shah Cosmetics supports patients visiting Pandumal Chaurah with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Shah Cosmetics. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "cosmetics-store"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/shah-cosmetics.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHBPqbFq32kYBkOELlsSk7jmxGo6d8l_ydgF1LQWJOIORdm14zJQ67yFqWbptDMYfnJK8e0yfoUh2trdClU5RLND_NWyyBIHvkHnQo4CAOTH36e3nkvc39nn-ddEA-M3868jEjs=w408-h306-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Shah+Cosmetics/@21.3061621,76.2313084,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833b216c34759:0x59e48200a7199d03!8m2!3d21.3061621!4d76.2313084!16s%2Fg%2F11j0njb8_l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Gawde's Yashwant Memorial Deaddiction centre",
+    "slug": "dr-gawde-s-yashwant-memorial-deaddiction-centre-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 3.6,
+    "reviews": 43,
+    "fee": 0,
+    "hospital": "Apna Chemist",
+    "hospitals": [
+      {
+        "name": "Apna Chemist",
+        "slug": "apna-chemist-burhanpur",
+        "address": "Goti Maholla, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "Goti Maholla, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "As a dedicated Cosmetic Surgeon in Burhanpur, Dr. Gawde's Yashwant Memorial Deaddiction centre provides structured care for rhinoplasty, hair restoration, scar revision, and body contouring. Dr. Gawde's Yashwant Memorial Deaddiction centre applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Apna Chemist, Dr. Gawde's Yashwant Memorial Deaddiction centre helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Gawde's Yashwant Memorial Deaddiction centre a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Usha Panwar",
+    "slug": "dr-usha-panwar-gastro-surgery",
+    "specialty": "Dermatologist",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "behind kamal talkies",
+    "hospitals": [
+      {
+        "name": "behind kamal talkies",
+        "slug": "behind-kamal-talkies-bodarli",
+        "address": "chouhara, Bodarli",
+        "timing": ""
+      }
+    ],
+    "location": "chouhara, Bodarli",
+    "city": "Bodarli",
+    "language": "",
+    "bio": "Patients searching for a trusted Dermatologist in Bodarli often consult Dr. Usha Panwar for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Dr. Usha Panwar brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Usha Panwar supports patients visiting behind kamal talkies with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Usha Panwar. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "gastro-surgery",
+      "cosmetic-surgeon",
+      "dermatologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Royal Health Clinic (Dr. Kartik Nimbhore)",
+    "slug": "royal-health-clinic-dr-kartik-nimbhore-aesthetics",
+    "specialty": "cosmetic surgeon in Burhanpur",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Plot No-11 Laxmi Nagar Burhanpur",
+    "hospitals": [
+      {
+        "name": "Plot No-11 Laxmi Nagar Burhanpur",
+        "slug": "plot-no-11-laxmi-nagar-burhanpur-burahanpur",
+        "address": "near Purusharthi School, Burahanpur",
+        "timing": ""
+      }
+    ],
+    "location": "near Purusharthi School, Burahanpur",
+    "city": "Burahanpur",
+    "language": "",
+    "bio": "Serving patients in Burahanpur, Royal Health Clinic (Dr. Kartik Nimbhore) practices as an established cosmetic surgeon in Burhanpur with focused expertise in rhinoplasty, hair restoration, scar revision, and body contouring. Over years of hands-on practice, Royal Health Clinic (Dr. Kartik Nimbhore) has built a reputation for evidence-based care and consistent treatment results. Consulting from Plot No-11 Laxmi Nagar Burhanpur, Royal Health Clinic (Dr. Kartik Nimbhore) focuses on patient-centric care, realistic expectations, and dependable clinical support. Royal Health Clinic (Dr. Kartik Nimbhore) continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. Surendra Jadhav",
+    "slug": "dr-surendra-jadhav-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.5,
+    "reviews": 2,
+    "fee": 0,
+    "hospital": "72",
+    "hospitals": [
+      {
+        "name": "72",
+        "slug": "72-burhanpur",
+        "address": "Rajghat Rd, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Rajghat Rd, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Surendra Jadhav is a highly experienced Cosmetic Surgeon based in Burhanpur, specializing in rhinoplasty, hair restoration, scar revision, and body contouring. Backed by strong clinical and procedural experience, Dr. Surendra Jadhav combines clinical judgment with modern treatment pathways and patient-friendly guidance. At 72, Dr. Surendra Jadhav is known for balanced advice, accurate diagnosis, and treatment strategies tailored to each patient's condition. Dr. Surendra Jadhav is known for combining compassionate communication with disciplined clinical and surgical care. Appointment booking for this doctor is available on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-surendra-jadhav.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_p0y_gyV4sMliuNQNNkAR3AqhXwkLTHswVpO_R5e9fUWWfqHXNypdmZVbyVzr6qxkicCpTmH_Q5XrUBn50Kq_LIdE5XyqKKSUgC5Kzw6NKjVJINCvFWoK7FaoDi6hPi9hDDgj=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr.Surendra+Jadhav/@21.3066925,76.2343285,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd832dd1c654d03:0x9c265a12b8b84ace!8m2!3d21.3066925!4d76.2343285!16s%2Fg%2F11c30r9jvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "SUNSHINE CLINIC. DR M.S.RIZWAN",
+    "slug": "sunshine-clinic-dr-m-s-rizwan-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 6,
+    "fee": 0,
+    "hospital": "45",
+    "hospitals": [
+      {
+        "name": "45",
+        "slug": "45-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "As a dedicated Cosmetic Surgeon in Burhanpur, SUNSHINE CLINIC. DR M.S.RIZWAN provides structured care for rhinoplasty, hair restoration, scar revision, and body contouring. SUNSHINE CLINIC. DR M.S.RIZWAN applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with 45, SUNSHINE CLINIC. DR M.S.RIZWAN helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make SUNSHINE CLINIC. DR M.S.RIZWAN a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "hospital"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/sunshine-clinic-dr-m-s-rizwan.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF9qCWlNKmnMra_FHAguB1kDakwBcogkxF_WvNL-DoS0kvwr4xT2tlPXGyqVhHCNYbGt-uHggSw4N4JbEYq_6jKOqkz9w3kYgNJdTP-RzT7VXTbty62HKslHsyGeQOetfvl0-JaIg=w156-h114-p-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/SUNSHINE+CLINIC.+DR+M.S.RIZWAN/@21.3094025,76.2346884,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833563d81c1b5:0x55efb09812b2c80c!8m2!3d21.3094025!4d76.2346884!16s%2Fg%2F11l29jl8mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Khaleel Baig Clinic",
+    "slug": "dr-khaleel-baig-clinic-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 1,
+    "fee": 0,
+    "hospital": "doulatpura",
+    "hospitals": [
+      {
+        "name": "doulatpura",
+        "slug": "doulatpura-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Dr. Khaleel Baig Clinic offers specialized cosmetic surgeon services in Burhanpur, with particular emphasis on rhinoplasty, hair restoration, scar revision, and body contouring. With strong clinical and procedural experience, Dr. Khaleel Baig Clinic is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Dr. Khaleel Baig Clinic emphasizes transparent communication, safe decision-making, and individualized management at doulatpura. The practice style of Dr. Khaleel Baig Clinic is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Dr. saba aslam cosmetologist",
+    "slug": "dr-saba-aslam-cosmetologist-aesthetics",
+    "specialty": "Cosmetic Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 1.0,
+    "reviews": 1,
+    "fee": 0,
+    "hospital": "Dr saba aslam",
+    "hospitals": [
+      {
+        "name": "Dr saba aslam",
+        "slug": "dr-saba-aslam-burhanpur",
+        "address": "Teressa, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Teressa, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Cosmetic Surgeon in Burhanpur often consult Dr. saba aslam cosmetologist for rhinoplasty, hair restoration, scar revision, and body contouring. Dr. saba aslam cosmetologist brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. saba aslam cosmetologist supports patients visiting Dr saba aslam with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. saba aslam cosmetologist. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "aesthetics",
+      "cosmetic-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-saba-aslam-cosmetologist.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9upwRBFDwRs5Ytj2Xc7p-S7SvqHOglKDYfycbgeJHW7xzvURaCSDe8jZB1uKasdfsIgxoG8OeLe4a1yyvUtljH7rPZCP8eKZb2R7eGO7OeQA_fuy6MEEJqe41StUOzkAJMRVUnoXB52Ni=w224-h398-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+saba+aslam+cosmetologist/@21.3253513,76.2396929,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd833756f69763f:0x8e15b196bd7fcdb6!8m2!3d21.3253513!4d76.2396929!16s%2Fg%2F11x7qtqks3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Dr. Jyoti Phabyani's Wellness skin clinic Mumbai",
+    "slug": "dr-jyoti-phabyani-s-wellness-skin-clinic-mumbai-gastro-surgery",
+    "specialty": "Dermatologist",
+    "degree": "",
+    "experience": "",
+    "rating": 3.7,
+    "reviews": 3,
+    "fee": 0,
+    "hospital": "",
+    "hospitals": [],
+    "location": "",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Patients searching for a trusted Dermatologist in Burhanpur often consult Dr. Jyoti Phabyani's Wellness skin clinic Mumbai for gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Dr. Jyoti Phabyani's Wellness skin clinic Mumbai brings strong clinical and procedural experience and focuses on timely diagnosis, safe intervention, and smooth recovery support. Dr. Jyoti Phabyani's Wellness skin clinic Mumbai supports patients visiting Burhanpur with structured consultations, practical treatment options, and close attention to comfort and recovery. Patients appreciate the balanced guidance, ethical treatment advice, and result-oriented care provided by Dr. Jyoti Phabyani's Wellness skin clinic Mumbai. Visit surgery.doctar.in to explore availability and book a consultation.",
+    "categories": [
+      "gastro-surgery",
+      "cosmetic-surgeon",
+      "dermatologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/dr-jyoti-phabyani-s-wellness-skin-clinic-mumbai.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHS9R1uN3mv8AHOs2Qr0twmTeiXjZ56Od_IxUXWpg8dnA3Kgx7NlBIjP-la5ea_xsm_R39RXVv5QRwB-EBEKEEBStAczToTFl9N_uYe3Dyhc_Bbnfu6qqaUq7falGla2GF09PWPJgCe8zs=w408-h467-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Dr+Jyoti+Phabyani's+Wellness+skin+clinic,+Mumbai/@19.0815074,72.8783527,11z/data=!3m1!4b1!4m6!3m5!1s0x3bd8330b81540949:0x62c4f4cba126bb1!8m2!3d19.0815074!4d72.8783527!16s%2Fg%2F11q1pfbq43?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Cardiologist Dr Saurabh Ramesh kapadia",
+    "slug": "cardiologist-dr-saurabh-ramesh-kapadia-gastro-surgery",
+    "specialty": "Cardiologist",
+    "degree": "",
+    "experience": "",
+    "rating": 0.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Gandhi hall",
+    "hospitals": [
+      {
+        "name": "Gandhi hall",
+        "slug": "gandhi-hall-burhanpur",
+        "address": "Monin Pura, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Monin Pura, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Cardiologist Dr Saurabh Ramesh kapadia is known in Burhanpur for cardiologist care with attention to gastrointestinal disorders, colorectal surgery, digestive tract procedures, and abdominal surgical care. Drawing on strong clinical and procedural experience, Cardiologist Dr Saurabh Ramesh kapadia supports both routine and complex cases with clarity and confidence. Patients visiting Gandhi hall rely on Cardiologist Dr Saurabh Ramesh kapadia for systematic evaluation, clear recommendations, and well-planned treatment pathways. Cardiologist Dr Saurabh Ramesh kapadia is valued for a patient-first approach, clear explanations, and a strong commitment to safe and effective care. Patients can request an appointment directly on surgery.doctar.in.",
+    "categories": [
+      "gastro-surgery",
+      "heart-surgeon",
+      "cardiologist"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/cardiologist-dr-saurabh-ramesh-kapadia.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGFESw6TfR6Ouz0wFesidCvWJ74E5UmUKeEVPcsaKa0JY8IDHZ1FgWsPxw-BFf_RB8hbtXAP4XZ7_hbivQ71roClmz-_GdSM-JosIFsU224XIrssxXKf7uRNS5UfcU9Iqi5tfSxGsSUZbqT=w298-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Cardiologist+Dr+Saurabh+Ramesh+kapadia/data=!4m7!3m6!1s0x3bd833f99273cc4f:0x82364b66abc13ca4!8m2!3d21.3081717!4d76.2315967!16s%2Fg%2F11yz82slzs!19sChIJT8xzkvkz2DsRpDzBq2ZLNoI?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "name": "Dr. Ganesh Kharche Child",
+    "slug": "dr-ganesh-kharche-child-cardiac-surgery",
+    "specialty": "Heart Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 4.9,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "Borle Hopsital",
+    "hospitals": [
+      {
+        "name": "Borle Hopsital",
+        "slug": "borle-hopsital-burhanpur",
+        "address": "near Surabhi Restaurant, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "near Surabhi Restaurant, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "As a dedicated Heart Surgeon in Burhanpur, Dr. Ganesh Kharche Child provides structured care for bypass surgery, valve procedures, minimally invasive cardiac surgery, and heart disease management. Dr. Ganesh Kharche Child applies strong clinical and procedural experience to deliver practical solutions, detailed consultation, and outcome-focused care. Associated with Borle Hopsital, Dr. Ganesh Kharche Child helps patients with evaluation, treatment planning, follow-up care, and second opinions when needed. A calm consultation style, strong procedural understanding, and attention to detail make Dr. Ganesh Kharche Child a preferred choice for many patients. Online consultation and booking support are available via surgery.doctar.in.",
+    "categories": [
+      "cardiac-surgery",
+      "heart-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Spandan Multi",
+    "slug": "spandan-multi-cardiac-surgery",
+    "specialty": "Heart Surgeon",
+    "degree": "",
+    "experience": "",
+    "rating": 5.0,
+    "reviews": 0,
+    "fee": 0,
+    "hospital": "beside Buldhana Co-operative Bank",
+    "hospitals": [
+      {
+        "name": "beside Buldhana Co-operative Bank",
+        "slug": "beside-buldhana-co-operative-bank-burhanpur",
+        "address": "Rastipura Colony, Burhanpur",
+        "timing": ""
+      }
+    ],
+    "location": "Rastipura Colony, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Spandan Multi offers specialized heart surgeon services in Burhanpur, with particular emphasis on bypass surgery, valve procedures, minimally invasive cardiac surgery, and heart disease management. With strong clinical and procedural experience, Spandan Multi is recognized for careful assessment, precise treatment planning, and dependable surgical outcomes. From consultation through recovery guidance, Spandan Multi emphasizes transparent communication, safe decision-making, and individualized management at beside Buldhana Co-operative Bank. The practice style of Spandan Multi is centered on accurate diagnosis, comfortable consultations, and reliable treatment outcomes. To connect with this specialist, schedule a visit on surgery.doctar.in.",
+    "categories": [
+      "cardiac-surgery",
+      "heart-surgeon",
+      "medical-clinic"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": ""
+  },
+  {
+    "name": "Ankita Multiplex",
+    "slug": "ankita-multiplex-movie-theater",
+    "specialty": "Movie theater",
+    "degree": "",
+    "experience": "",
+    "rating": 3.8,
+    "reviews": 988,
+    "fee": 0,
+    "hospital": "Balaji Nagar",
+    "hospitals": [
+      {
+        "name": "Balaji Nagar",
+        "slug": "balaji-nagar-burhanpur",
+        "address": "Balaji Nagar, Burhanpur",
+        "timing": "Closed · Ope"
+      }
+    ],
+    "location": "Balaji Nagar, Burhanpur",
+    "city": "Burhanpur",
+    "language": "",
+    "bio": "Serving patients in Burhanpur, Ankita Multiplex practices as an established Movie theater with focused expertise in cardiac surgeon. Over years of hands-on practice, Ankita Multiplex has built a reputation for evidence-based care and consistent treatment results. Consulting from Balaji Nagar, Ankita Multiplex focuses on patient-centric care, realistic expectations, and dependable clinical support. Ankita Multiplex continues to be sought after for thoughtful case handling, practical recommendations, and trustworthy medical care. Book appointments online through surgery.doctar.in.",
+    "categories": [
+      "movie-theater",
+      "cardiac-surgeon"
+    ],
+    "nextSlot": "",
+    "slots": [],
+    "image": "doctor_images_webp/burhanpur/ankita-multiplex.webp",
+    "imageSourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEMgmmOFF52KrFFTbExt43VqluAdNM85i4XTOMhgKEnrx8sGhlh4IhS34lMbsZ-beu0sTx8ZLhu9e8CnD70SdASun5fc-Nmj-w5FufEuhJY8tGPFHyCviEHgw1Yxz8weUL5BPuL=w529-h298-k-no",
+    "imageOriginalMapsUrl": "https://www.google.com/maps/place/Ankita+Multiplex/@21.303146,76.2230278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd83320d06d3645:0x26ff067e0a4b5f45!8m2!3d21.303146!4d76.2230278!16s%2Fg%2F1tfdby2d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D"
+  }
+]
+;

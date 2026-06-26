@@ -1,0 +1,15783 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "a-k-hospitals-hanamkonda",
+    "name": "A K Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose A K Hospitals for its strength in General Surgery In Warangal. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099599 92613",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-7-1006/1,Hunter Road,Near Adalath Opp : Bajaj Showroom, beside Warangal Public School, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "beside Warangal Public School",
+    "landmark": "beside Warangal Public School, Hanamkonda, Telangana 506001",
+    "emergencyContact": "099599 92613",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/A+K+Hospitals/data=!4m7!3m6!1s0x3a334f6eb7f031c7:0xbb017b226f104ad4!8m2!3d17.9941411!4d79.5545177!16s%2Fg%2F11fmz9kz_b!19sChIJxzHwt25PMzoR1EoQbyJ7Abs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/A+K+Hospitals/data=!4m7!3m6!1s0x3a334f6eb7f031c7:0xbb017b226f104ad4!8m2!3d17.9941411!4d79.5545177!16s%2Fg%2F11fmz9kz_b!19sChIJxzHwt25PMzoR1EoQbyJ7Abs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9941411,
+      "lng": 79.5545177,
+      "label": "A K Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "abhaya-kidney-centre-hanamkonda",
+    "name": "ABHAYA KIDNEY CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ABHAYA KIDNEY CENTRE is a prominent hospital in Hanamkonda, known for structured tertiary care across Kidney Transplant Surgery In Warangal and Kidney Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086861 38381",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite, Vijaya Theater Road, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "086861 38381",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/ABHAYA+KIDNEY+CENTRE/data=!4m7!3m6!1s0x3a33454d0062d479:0xde46db9054118fb1!8m2!3d18.0036152!4d79.5698237!16s%2Fg%2F11tmhnfv1g!19sChIJedRiAE1FMzoRsY8RVJDbRt4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ABHAYA+KIDNEY+CENTRE/data=!4m7!3m6!1s0x3a33454d0062d479:0xde46db9054118fb1!8m2!3d18.0036152!4d79.5698237!16s%2Fg%2F11tmhnfv1g!19sChIJedRiAE1FMzoRsY8RVJDbRt4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0036152,
+      "lng": 79.5698237,
+      "label": "ABHAYA KIDNEY CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "abhinay-gastro-and-liver-care-hanamkonda",
+    "name": "Abhinay Gastro and Liver Care",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Abhinay Gastro and Liver Care brings together specialists for Liver Transplant Surgery In Warangal, Liver Care, and Gastroenterology. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098858 88279",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Bus Stand Rd, opp. Kakatiya degree college, beside shreya hotel, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "beside shreya hotel, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "098858 88279",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Abhinay+Gastro+and+Liver+Care/data=!4m7!3m6!1s0x3a3345fdd0129499:0x90f7fb4292a0e7c6!8m2!3d18.0054135!4d79.5670831!16s%2Fg%2F11sq_nxmrj!19sChIJmZQS0P1FMzoRxuegkkL795A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Abhinay+Gastro+and+Liver+Care/data=!4m7!3m6!1s0x3a3345fdd0129499:0x90f7fb4292a0e7c6!8m2!3d18.0054135!4d79.5670831!16s%2Fg%2F11sq_nxmrj!19sChIJmZQS0P1FMzoRxuegkkL795A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0054135,
+      "lng": 79.5670831,
+      "label": "Abhinay Gastro and Liver Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aditya-hospital-hanamkonda",
+    "name": "Aditya Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aditya Hospital is a prominent private hospital in Hanamkonda, known for structured tertiary care across Heart Surgery In Warangal. Operational strengths including Google rating 3.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087025 67200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2H65+9M2, Warangal- Opposite Police Parade Grounds, Kishanpura, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kishanpura",
+    "landmark": "Opposite Police Parade Grounds, Kishanpura, Hanamkonda, Telangana 506001",
+    "emergencyContact": "087025 67200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Aditya+Hospital/data=!4m7!3m6!1s0x3a334f7d7469bf13:0x34c18d94ddb273e7!8m2!3d18.0109012!4d79.5592339!16s%2Fg%2F1tdytsq9!19sChIJE79pdH1PMzoR53Oy3ZSNwTQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aditya+Hospital/data=!4m7!3m6!1s0x3a334f7d7469bf13:0x34c18d94ddb273e7!8m2!3d18.0109012!4d79.5592339!16s%2Fg%2F1tdytsq9!19sChIJE79pdH1PMzoR53Oy3ZSNwTQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0109012,
+      "lng": 79.5592339,
+      "label": "Aditya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aishwarya-dental-clinic-dental-implants-root-canal-clear-aligners-and-kids-dentist-hanamkonda-hanamkonda",
+    "name": "Aishwarya Dental Clinic | Dental Implants, Root Canal, Clear Aligners & Kids Dentist | Hanamkonda",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Aishwarya Dental Clinic | Dental Implants, Root Canal, Clear Aligners & Kids Dentist | Hanamkonda brings together specialists for Oral Surgery In Warangal. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "raghuraam.j@gmail.com",
+    "phone": "098497 94593",
+    "alternatePhone": "93911 55017",
+    "website": "https://www.aishwaryadental.com/",
+    "address": "Vijaya Theater Road, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "93911 55017",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Aishwarya-dental-clinic-Hanamkonda/100084477160862/?mibextid=ZbWKwL",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/dr.raghu_jangam/?utm_source=qr&igsh=am0wc2Y1Y3VxYTJi",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aishwarya+Dental+Clinic+%7C+Dental+Implants,+Root+Canal,+Clear+Aligners+%26+Kids+Dentist+%7C+Hanamkonda/data=!4m7!3m6!1s0x3a3345828ea0a587:0x3302fd6fd791b137!8m2!3d18.003794!4d79.5692814!16s%2Fg%2F11gff6mz25!19sChIJh6WgjoJFMzoRN7GR12_9AjM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aishwarya+Dental+Clinic+%7C+Dental+Implants,+Root+Canal,+Clear+Aligners+%26+Kids+Dentist+%7C+Hanamkonda/data=!4m7!3m6!1s0x3a3345828ea0a587:0x3302fd6fd791b137!8m2!3d18.003794!4d79.5692814!16s%2Fg%2F11gff6mz25!19sChIJh6WgjoJFMzoRN7GR12_9AjM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.003794,
+      "lng": 79.5692814,
+      "label": "Aishwarya Dental Clinic | Dental Implants, Root Canal, Clear Aligners & Kids Dentist | Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aisri-cosmetic-clinic-hanamkonda",
+    "name": "AISRI COSMETIC CLINIC",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, AISRI COSMETIC CLINIC brings together specialists for Kidney Transplant Surgery In Warangal. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4TH FLOOR, KSR PLAZA, near KU CROSS ROAD, Jagruti Colony, Naim Nagar, Hanamkonda, Telangana 506009",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506009",
+    "locality": "Naim Nagar",
+    "landmark": "near KU CROSS ROAD, Jagruti Colony, Naim Nagar, Hanamkonda, Telangana 506009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/AISRI+COSMETIC+CLINIC/data=!4m7!3m6!1s0x3a334fd599365f43:0x55ddffdb9d24d5ac!8m2!3d18.0176502!4d79.5533858!16s%2Fg%2F11k548m1_r!19sChIJQ182mdVPMzoRrNUkndv_3VU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AISRI+COSMETIC+CLINIC/data=!4m7!3m6!1s0x3a334fd599365f43:0x55ddffdb9d24d5ac!8m2!3d18.0176502!4d79.5533858!16s%2Fg%2F11k548m1_r!19sChIJQ182mdVPMzoRrNUkndv_3VU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0176502,
+      "lng": 79.5533858,
+      "label": "AISRI COSMETIC CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ajara-hospitals-warangal",
+    "name": "Ajara Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Ajara Hospitals brings together specialists for Urologist Surgery In Warangal. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087029 59555",
+    "alternatePhone": "+91 93910 09701",
+    "website": "https://ajarahospitals.com/",
+    "address": "Mulugu Rd, Vidya Nagar, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Vidya Nagar",
+    "landmark": "Warangal",
+    "emergencyContact": "+91 93910 09701",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/AjaraHospitals/",
+    "twitter": "https://twitter.com/AjaraHospitals?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "instagram": "https://www.instagram.com/ajara_hospitals/?hl=en",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@AjaraHospitals",
+    "specialties": [
+      "Urologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ajara+Hospitals/data=!4m7!3m6!1s0x3a3345d298d26771:0x9056288124229ca!8m2!3d18.0043833!4d79.5835764!16s%2Fg%2F11f7r4zmf0!19sChIJcWfSmNJFMzoRyilCEohiBQk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ajara+Hospitals/data=!4m7!3m6!1s0x3a3345d298d26771:0x9056288124229ca!8m2!3d18.0043833!4d79.5835764!16s%2Fg%2F11f7r4zmf0!19sChIJcWfSmNJFMzoRyilCEohiBQk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0043833,
+      "lng": 79.5835764,
+      "label": "Ajara Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akruti-plastic-and-cosmetic-surgery-hanamkonda",
+    "name": "Akruti Plastic & Cosmetic Surgery",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Hanamkonda, Akruti Plastic & Cosmetic Surgery delivers integrated care across Plastic Surgery In Warangal. Hospital capacity markers such as Google rating 2.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094400 05844",
+    "alternatePhone": "",
+    "website": "http://www.akruti.com/",
+    "address": "Alankar Cir, Raganna Darwaja, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakatiya Colony",
+    "landmark": "Kakatiya Colony",
+    "emergencyContact": "094400 05844",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery/@20.3194368,85.7964544,11z/data=!3m1!4b1!4m6!3m5!1s0x3a33456b02ea4dfb:0x1cb96b21d524bd50!8m2!3d18.0034367!4d79.5790022!16s%2Fg%2F11jgwkk62w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery/@20.3194368,85.7964544,11z/data=!3m1!4b1!4m6!3m5!1s0x3a33456b02ea4dfb:0x1cb96b21d524bd50!8m2!3d18.0034367!4d79.5790022!16s%2Fg%2F11jgwkk62w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.3194368,
+      "lng": 85.7964544,
+      "label": "Akruti Plastic & Cosmetic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amrutha-children-s-hospital-best-children-s-hospital-in-warangal-24-7-paediatric-hospital-hanamkonda",
+    "name": "Amrutha Children's Hospital | Best Children’s Hospital in Warangal | 24/7 Paediatric Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amrutha Children's Hospital | Best Children’s Hospital in Warangal | 24/7 Paediatric Hospital has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering General Surgery In Warangal and Women and Child Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087025 68944",
+    "alternatePhone": "88866 17700",
+    "website": "https://www.amruthachospital.com/",
+    "address": "5-10-15, Kishanpura, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kishanpura",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "88866 17700",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/amruthachildrenshospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/amrutha_childrens_hospital/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Amrutha+Children%27s+Hospital+%7C+Best+Children%E2%80%99s+Hospital+in+Warangal+%7C+24%2F7+Paediatric+Hospital/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x17418f9a4f18f2d1!8m2!3d18.0131534!4d79.5588356!16s%2Fg%2F1tf_fv1g!19sChIJ77fu-X5PMzoR0fIYT5qPQRc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amrutha+Children%27s+Hospital+%7C+Best+Children%E2%80%99s+Hospital+in+Warangal+%7C+24%2F7+Paediatric+Hospital/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x17418f9a4f18f2d1!8m2!3d18.0131534!4d79.5588356!16s%2Fg%2F1tf_fv1g!19sChIJ77fu-X5PMzoR0fIYT5qPQRc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0131534,
+      "lng": 79.5588356,
+      "label": "Amrutha Children's Hospital | Best Children’s Hospital in Warangal | 24/7 Paediatric Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amyra-clinic-hanamkonda",
+    "name": "Amyra Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amyra Clinic is a prominent skin care clinic in Hanamkonda, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084998 88805",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Business Park, KUC Gopalpur Cross Road, Hanamkonda, Telangana 506009",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506009",
+    "locality": "KUC Gopalpur Cross Road",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "084998 88805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Amyra+Clinic/@18.0199943,79.5507741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f72e5c20cb1:0xcd6d61cfbbed0906!8m2!3d18.0199943!4d79.5507741!16s%2Fg%2F11j218vn4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amyra+Clinic/@18.0199943,79.5507741,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f72e5c20cb1:0xcd6d61cfbbed0906!8m2!3d18.0199943!4d79.5507741!16s%2Fg%2F11j218vn4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0199943,
+      "lng": 79.5507741,
+      "label": "Amyra Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-dialysis-warangal",
+    "name": "Apollo Dialysis",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Dialysis is a prominent medical clinic in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd Floor, Apollo Reach NSR Hospitals, X road, near Kothapet, Arepally, Warangal, Telangana 506006",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Arepally",
+    "landmark": "near Kothapet, Arepally, Warangal, Telangana 506006",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Apollo+Dialysis/data=!4m7!3m6!1s0x3a334539591354dd:0xab6d94c4e323dc69!8m2!3d18.0327799!4d79.6311514!16s%2Fg%2F11xcrmnd26!19sChIJ3VQTWTlFMzoRadwj48SUbas?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Dialysis/data=!4m7!3m6!1s0x3a334539591354dd:0xab6d94c4e323dc69!8m2!3d18.0327799!4d79.6311514!16s%2Fg%2F11xcrmnd26!19sChIJ3VQTWTlFMzoRadwj48SUbas?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0327799,
+      "lng": 79.6311514,
+      "label": "Apollo Dialysis",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aravinda-neuro-centre-dr-telugu-ramakrishna-hanamkonda",
+    "name": "Aravinda Neuro Centre -Dr Telugu Ramakrishna",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Aravinda Neuro Centre -Dr Telugu Ramakrishna for its strength in Neurosurgeon In Warangal and Neurosciences. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094908 19108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus Stand Circle, Beside KUDA Complex, Kaloji Marg, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kaloji Marg",
+    "landmark": "Beside KUDA Complex, Kaloji Marg, Hanamkonda, Telangana 506001",
+    "emergencyContact": "094908 19108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Aravinda+Neuro+Centre+-Dr+Telugu+Ramakrishna/data=!4m7!3m6!1s0x3a3345cc68647461:0xb82885b21585a65c!8m2!3d18.0021058!4d79.5650125!16s%2Fg%2F11fn1wrkr3!19sChIJYXRkaMxFMzoRXKaFFbKFKLg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aravinda+Neuro+Centre+-Dr+Telugu+Ramakrishna/data=!4m7!3m6!1s0x3a3345cc68647461:0xb82885b21585a65c!8m2!3d18.0021058!4d79.5650125!16s%2Fg%2F11fn1wrkr3!19sChIJYXRkaMxFMzoRXKaFFbKFKLg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0021058,
+      "lng": 79.5650125,
+      "label": "Aravinda Neuro Centre -Dr Telugu Ramakrishna",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "atharva-hospitals-women-and-children-hanamkonda",
+    "name": "ATHARVA HOSPITALS WOMEN & CHILDREN",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ATHARVA HOSPITALS WOMEN & CHILDREN is a prominent hospital in Hanamkonda, known for structured tertiary care across General Surgery In Warangal and Women and Child Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090323 00585",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7-1-288, New Bus Stand Rd, near Hanuman temple, Laxmipuram, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "near Hanuman temple, Laxmipuram, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "090323 00585",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/ATHARVA+HOSPITALS+WOMEN+%26+CHILDREN/@18.0022013,79.5687794,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33459e49df0b25:0xc854a65daa18a8e1!8m2!3d18.0022013!4d79.5687794!16s%2Fg%2F11t9q2844c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ATHARVA+HOSPITALS+WOMEN+%26+CHILDREN/@18.0022013,79.5687794,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33459e49df0b25:0xc854a65daa18a8e1!8m2!3d18.0022013!4d79.5687794!16s%2Fg%2F11t9q2844c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0022013,
+      "lng": 79.5687794,
+      "label": "ATHARVA HOSPITALS WOMEN & CHILDREN",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayesha-clinic-hanamkonda",
+    "name": "Ayesha Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Ayesha Clinic for its strength in Gynecologist Surgery In Warangal. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090326 19511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.No 3, Dr.Ayesha Butool, 1-266, Alankar Cir, opp. Reliance fresh, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakatiya Colony",
+    "landmark": "1-266",
+    "emergencyContact": "090326 19511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Ayesha+Clinic/data=!4m7!3m6!1s0x3a334578a49c2c09:0x31035882a918f5c0!8m2!3d18.0059104!4d79.5793691!16s%2Fg%2F11s4s_zkpy!19sChIJCSycpHhFMzoRwPUYqYJYAzE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayesha+Clinic/data=!4m7!3m6!1s0x3a334578a49c2c09:0x31035882a918f5c0!8m2!3d18.0059104!4d79.5793691!16s%2Fg%2F11s4s_zkpy!19sChIJCSycpHhFMzoRwPUYqYJYAzE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0059104,
+      "lng": 79.5793691,
+      "label": "Ayesha Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "b-braun-dialysis-center-warangal",
+    "name": "B. Braun Dialysis Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B. Braun Dialysis Center is a prominent hospital in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092470 58233",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHQV+VH8, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Warangal",
+    "emergencyContact": "092470 58233",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/B.+Braun+Dialysis+Center/data=!4m7!3m6!1s0x3a3345107f0e5869:0x6406341d244f543d!8m2!3d17.9896541!4d79.5939425!16s%2Fg%2F11c0thww58!19sChIJaVgOfxBFMzoRPVRPJB00BmQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/B.+Braun+Dialysis+Center/data=!4m7!3m6!1s0x3a3345107f0e5869:0x6406341d244f543d!8m2!3d17.9896541!4d79.5939425!16s%2Fg%2F11c0thww58!19sChIJaVgOfxBFMzoRPVRPJB00BmQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9896541,
+      "lng": 79.5939425,
+      "label": "B. Braun Dialysis Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baby-s-life-hospital-warangal",
+    "name": "BABY’S LIFE HOSPITAL",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BABY’S LIFE HOSPITAL has built a strong reputation in Warangal for multidisciplinary treatment pathways covering IVF In Warangal and Fertility Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099895 10003",
+    "alternatePhone": "",
+    "website": "http://babyslifehospital.in/",
+    "address": "Baby’s life hospital,H. No 6-2-10,Old Gomathi hospital, Kakaji colony Hanamkonda, near Bus stand, Warangal, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "near Bus stand",
+    "landmark": "near Bus stand, Warangal, Telangana 506011",
+    "emergencyContact": "099895 10003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BABY%E2%80%99S+LIFE+HOSPITAL/data=!4m7!3m6!1s0x3a334f9b5a839bed:0x12fb2d75b73e231c!8m2!3d18.0053686!4d79.5676245!16s%2Fg%2F124ylg8kb!19sChIJ7ZuDWptPMzoRHCM-t3Ut-xI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BABY%E2%80%99S+LIFE+HOSPITAL/data=!4m7!3m6!1s0x3a334f9b5a839bed:0x12fb2d75b73e231c!8m2!3d18.0053686!4d79.5676245!16s%2Fg%2F124ylg8kb!19sChIJ7ZuDWptPMzoRHCM-t3Ut-xI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0053686,
+      "lng": 79.5676245,
+      "label": "BABY’S LIFE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bannu-hospitals-warangal",
+    "name": "Bannu Hospitals",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Bannu Hospitals brings together specialists for Oncologist Surgery In Warangal and Cancer Treatment Center. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073374 44311",
+    "alternatePhone": "",
+    "website": "https://bannumedicalcenter.com/",
+    "address": "3-16-334, Mulugu X road, beside Ford Sri Sri Showroom, Vidya Nagar, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Vidya Nagar",
+    "landmark": "beside Ford Sri Sri Showroom, Vidya Nagar, Warangal, Telangana 506007",
+    "emergencyContact": "073374 44311",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Warangal",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bannu+Hospitals/@18.0011418,79.5822981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345e52497df39:0x8c3d3f145394c185!8m2!3d18.0011418!4d79.5822981!16s%2Fg%2F11qr_06tpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bannu+Hospitals/@18.0011418,79.5822981,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345e52497df39:0x8c3d3f145394c185!8m2!3d18.0011418!4d79.5822981!16s%2Fg%2F11qr_06tpk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0011418,
+      "lng": 79.5822981,
+      "label": "Bannu Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhageerath-cardiac-care-center-healing-hearts-hanamkonda",
+    "name": "Bhageerath Cardiac Care Center Healing Hearts",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Bhageerath Cardiac Care Center Healing Hearts brings together specialists for Heart Surgery In Warangal and Cardiac Care. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097108 10872",
+    "alternatePhone": "",
+    "website": "",
+    "address": "central complex, circle, sridevi Mall road, beside new VBR diagnostic Bus stand, beside Udipi bhavan, Sai Nagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Sai Nagar",
+    "landmark": "beside new VBR diagnostic Bus stand, beside Udipi bhavan, Sai Nagar, Hanamkonda, Telangana 506001",
+    "emergencyContact": "097108 10872",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Bhageerath+Cardiac+Care+Center+Healing+Hearts/data=!4m7!3m6!1s0x3a33450281156f01:0xff6a3895e07c55ab!8m2!3d18.0027256!4d79.5651399!16s%2Fg%2F11jj24ylxf!19sChIJAW8VgQJFMzoRq1V84JU4av8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhageerath+Cardiac+Care+Center+Healing+Hearts/data=!4m7!3m6!1s0x3a33450281156f01:0xff6a3895e07c55ab!8m2!3d18.0027256!4d79.5651399!16s%2Fg%2F11jj24ylxf!19sChIJAW8VgQJFMzoRq1V84JU4av8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0027256,
+      "lng": 79.5651399,
+      "label": "Bhageerath Cardiac Care Center Healing Hearts",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "birthright-maternity-centre-by-rainbow-hospitals-warangal-hanamkonda",
+    "name": "BirthRight Maternity Centre by Rainbow Hospitals, Warangal",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BirthRight Maternity Centre by Rainbow Hospitals, Warangal is a prominent maternity centre in Hanamkonda, known for structured tertiary care across Gynecologist Surgery In Warangal and Maternity Centre. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "queries@rainbowhospitals.in",
+    "phone": "080452 34422",
+    "alternatePhone": "79970 79970",
+    "website": "https://www.rainbowhospitals.in/our-centre/warangal/warangal",
+    "address": "7-2-147, Machili Bazar Rd, Machili Bazar, Brahmanawada, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Brahmanawada",
+    "landmark": "Machili Bazar",
+    "emergencyContact": "79970 79970",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rainbowchildrenshospitals/",
+    "twitter": "https://twitter.com/RCH_India?t=7y-Tq_FTQ4cfPf8smLnYUg&s=08",
+    "instagram": "https://www.instagram.com/rainbowchildrenshospital/",
+    "linkedin": "https://www.linkedin.com/company/rainbow-hospitals/",
+    "youtube": "https://www.youtube.com/c/RainbowChildren%E2%80%99sHospital",
+    "specialties": [
+      "Gynecologist Surgery In Warangal",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BirthRight+Maternity+Centre+by+Rainbow+Hospitals,+Warangal/data=!4m7!3m6!1s0x3a334577e9b58e73:0xae27a0d4b3f98b5a!8m2!3d18.001945!4d79.572897!16s%2Fg%2F11bv38r_39!19sChIJc4616XdFMzoRWov5s9SgJ64?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BirthRight+Maternity+Centre+by+Rainbow+Hospitals,+Warangal/data=!4m7!3m6!1s0x3a334577e9b58e73:0xae27a0d4b3f98b5a!8m2!3d18.001945!4d79.572897!16s%2Fg%2F11bv38r_39!19sChIJc4616XdFMzoRWov5s9SgJ64?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.001945,
+      "lng": 79.572897,
+      "label": "BirthRight Maternity Centre by Rainbow Hospitals, Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brm-sairaj-neuro-care-center-hanamkonda",
+    "name": "BRM SAIRAJ NEURO CARE CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BRM SAIRAJ NEURO CARE CENTER is a prominent hospital in Hanamkonda, known for structured tertiary care across Neurosurgeon In Warangal and Neurosciences. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-2-39, Vijaya Talkies line OPP: 2 Depot, Lavanya Hospital Line, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Lavanya Hospital Line",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/BRM+SAIRAJ+NEURO+CARE+CENTER/data=!4m7!3m6!1s0x3a33450a6f978bf9:0x602d0b9e63484d47!8m2!3d18.004587!4d79.5682942!16s%2Fg%2F11pr3yk4w3!19sChIJ-YuXbwpFMzoRR01IY54LLWA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BRM+SAIRAJ+NEURO+CARE+CENTER/data=!4m7!3m6!1s0x3a33450a6f978bf9:0x602d0b9e63484d47!8m2!3d18.004587!4d79.5682942!16s%2Fg%2F11pr3yk4w3!19sChIJ-YuXbwpFMzoRR01IY54LLWA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.004587,
+      "lng": 79.5682942,
+      "label": "BRM SAIRAJ NEURO CARE CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "byram-hospital-hanamkonda",
+    "name": "BYRAM HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BYRAM HOSPITAL has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Warangal. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070937 26867",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opposite post office, near thousand pillars temple Amrutha theatre main road, junction, Raganna Darwaza, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Raganna Darwaza",
+    "landmark": "near thousand pillars temple Amrutha theatre main road, junction, Raganna Darwaza, Hanamkonda, Telangana 506011",
+    "emergencyContact": "070937 26867",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/BYRAM+HOSPITAL/data=!4m7!3m6!1s0x3a3345ec04e7b805:0xdc8f376276269449!8m2!3d18.0050337!4d79.5734371!16s%2Fg%2F11h2fgyvsr!19sChIJBbjnBOxFMzoRSZQmdmI3j9w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BYRAM+HOSPITAL/data=!4m7!3m6!1s0x3a3345ec04e7b805:0xdc8f376276269449!8m2!3d18.0050337!4d79.5734371!16s%2Fg%2F11h2fgyvsr!19sChIJBbjnBOxFMzoRSZQmdmI3j9w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0050337,
+      "lng": 79.5734371,
+      "label": "BYRAM HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-365-dental-and-cosmetic-clinic-hanamkonda",
+    "name": "Care 365 dental and cosmetic clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Care 365 dental and cosmetic clinic brings together specialists for Kidney Transplant Surgery In Warangal. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085220 02286",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd floor, H.no 6-8-249, Hanamkonda Chowrastha, Raganna Darwaja, Brahmanawada, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Brahmanawada",
+    "landmark": "Hanamkonda Chowrastha",
+    "emergencyContact": "085220 02286",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Care+365+dental+and+cosmetic+clinic/data=!4m7!3m6!1s0x3a334546c0d581e9:0x4f4ee2968812e9d7!8m2!3d18.0053777!4d79.5716454!16s%2Fg%2F11ryf5zq_m!19sChIJ6YHVwEZFMzoR1-kSiJbiTk8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Care+365+dental+and+cosmetic+clinic/data=!4m7!3m6!1s0x3a334546c0d581e9:0x4f4ee2968812e9d7!8m2!3d18.0053777!4d79.5716454!16s%2Fg%2F11ryf5zq_m!19sChIJ6YHVwEZFMzoR1-kSiJbiTk8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0053777,
+      "lng": 79.5716454,
+      "label": "Care 365 dental and cosmetic clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chakravarthy-hospitals-hanamkonda",
+    "name": "CHAKRAVARTHY HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CHAKRAVARTHY HOSPITALS has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering General Surgery In Warangal. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "chakravarthyhospitalhnk@gmail.com",
+    "phone": "099086 29966",
+    "alternatePhone": "95812 26703",
+    "website": "https://chakravarthyhospitals.com/",
+    "address": "Amuktha complex, opp. Ekasila Park, Opposite Ekasila Park, Advocates Colony, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "Opposite Ekasila Park, Advocates Colony, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "95812 26703",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/chakravarthyhospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/chakravarthy_hospitals01/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCEh8hpa_FR_zZcwAeU13hDQ",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CHAKRAVARTHY+HOSPITALS/data=!4m7!3m6!1s0x3a334f1f5945a087:0xbf3894e0a6d42deb!8m2!3d17.9980045!4d79.5568206!16s%2Fg%2F11rtlsp1qx!19sChIJh6BFWR9PMzoR6y3UpuCUOL8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CHAKRAVARTHY+HOSPITALS/data=!4m7!3m6!1s0x3a334f1f5945a087:0xbf3894e0a6d42deb!8m2!3d17.9980045!4d79.5568206!16s%2Fg%2F11rtlsp1qx!19sChIJh6BFWR9PMzoR6y3UpuCUOL8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9980045,
+      "lng": 79.5568206,
+      "label": "CHAKRAVARTHY HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chest-specialist-in-warangal-hanamkonda",
+    "name": "Chest Specialist in Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Chest Specialist in Warangal is a prominent hospital in Hanamkonda, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087025 51189",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-2-37/1-B, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "087025 51189",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Chest+Specialist+in+Warangal/data=!4m7!3m6!1s0x3a3345826734cf51:0xc240e6c5eb9d9c30!8m2!3d18.0039738!4d79.5684165!16s%2Fg%2F11c57csffp!19sChIJUc80Z4JFMzoRMJyd68XmQMI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chest+Specialist+in+Warangal/data=!4m7!3m6!1s0x3a3345826734cf51:0xc240e6c5eb9d9c30!8m2!3d18.0039738!4d79.5684165!16s%2Fg%2F11c57csffp!19sChIJUc80Z4JFMzoRMJyd68XmQMI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0039738,
+      "lng": 79.5684165,
+      "label": "Chest Specialist in Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "curewell-hospital-warangal",
+    "name": "Curewell Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Curewell Hospital brings together specialists for Heart Surgery In Warangal. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15-1-48, MGM Rd, near M.G.M hospital, Auto Nagar, Kothawada, Warangal, Telangana 506006",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Kothawada",
+    "landmark": "near M.G.M hospital, Auto Nagar, Kothawada, Warangal, Telangana 506006",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Curewell+Hospital/data=!4m7!3m6!1s0x3a33450fdfe6c961:0xc89af3c13f8d8be5!8m2!3d17.9927908!4d79.5936754!16s%2Fg%2F1pp2xb68s!19sChIJYcnm3w9FMzoR5YuNP8Hzmsg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Curewell+Hospital/data=!4m7!3m6!1s0x3a33450fdfe6c961:0xc89af3c13f8d8be5!8m2!3d17.9927908!4d79.5936754!16s%2Fg%2F1pp2xb68s!19sChIJYcnm3w9FMzoR5YuNP8Hzmsg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9927908,
+      "lng": 79.5936754,
+      "label": "Curewell Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deepak-skin-and-laser-cosmotic-clinic-hanamkonda",
+    "name": "Deepak Skin and Laser Cosmotic Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deepak Skin and Laser Cosmotic Clinic is a prominent skin care clinic in Hanamkonda, known for structured tertiary care across Plastic Surgery In Warangal. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090000 88112",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hanuman Temple, H.No.7-1-168, New Bus Stand Rd, opp. Hanamkonda, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "opp. Hanamkonda",
+    "landmark": "New Bus Stand Rd",
+    "emergencyContact": "090000 88112",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Deepak+Skin+and+Laser+Cosmotic+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0xa13473383d9fe340!8m2!3d18.0021382!4d79.5671672!16s%2Fg%2F1vpfgzl7!19sChIJ77fu-X5PMzoRQOOfPThzNKE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deepak+Skin+and+Laser+Cosmotic+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0xa13473383d9fe340!8m2!3d18.0021382!4d79.5671672!16s%2Fg%2F1vpfgzl7!19sChIJ77fu-X5PMzoRQOOfPThzNKE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0021382,
+      "lng": 79.5671672,
+      "label": "Deepak Skin and Laser Cosmotic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhatri-hospital-warangal",
+    "name": "DHATRI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose DHATRI HOSPITAL for its strength in Spine Surgery In Warangal. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099125 53777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayaprakash Narayan Road, Yellamma Bazar, Sherpura, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Sherpura",
+    "landmark": "Sherpura",
+    "emergencyContact": "099125 53777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/DHATRI+HOSPITAL/data=!4m7!3m6!1s0x3a3345589d70cf45:0xa02318e79ac172db!8m2!3d17.9840406!4d79.5993004!16s%2Fg%2F11sqd7ms8d!19sChIJRc9wnVhFMzoR23LBmucYI6A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DHATRI+HOSPITAL/data=!4m7!3m6!1s0x3a3345589d70cf45:0xa02318e79ac172db!8m2!3d17.9840406!4d79.5993004!16s%2Fg%2F11sqd7ms8d!19sChIJRc9wnVhFMzoR23LBmucYI6A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9840406,
+      "lng": 79.5993004,
+      "label": "DHATRI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eva-ivf-hanamkonda",
+    "name": "EVA IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "EVA IVF has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering IVF In Warangal and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@evaivf.com",
+    "phone": "0403 510 0400",
+    "alternatePhone": "+91 93929 44472",
+    "website": "http://www.evaivf.com/",
+    "address": "2nd Floor, Press club building, opp. fire station, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "opp. fire station",
+    "landmark": "opp. fire station",
+    "emergencyContact": "+91 93929 44472",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/EVA-IVF-108729947669612/",
+    "twitter": "https://twitter.com/IvfEva",
+    "instagram": "https://www.instagram.com/evaivf.in/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@Evaivf",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/EVA+IVF/data=!4m7!3m6!1s0x3a33456eccd2f561:0xeb7b378e85052f5e!8m2!3d18.0011812!4d79.5639618!16s%2Fg%2F11rsb2y5yv!19sChIJYfXSzG5FMzoRXi8FhY43e-s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/EVA+IVF/data=!4m7!3m6!1s0x3a33456eccd2f561:0xeb7b378e85052f5e!8m2!3d18.0011812!4d79.5639618!16s%2Fg%2F11rsb2y5yv!19sChIJYfXSzG5FMzoRXi8FhY43e-s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0011812,
+      "lng": 79.5639618,
+      "label": "EVA IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "female-surgical-ward-warangal",
+    "name": "Female Surgical Ward",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Female Surgical Ward is a prominent hospital in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHQV+X2F, MGM Hospital Rd, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Sherpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Female+Surgical+Ward/data=!4m7!3m6!1s0x3a33450011d6499d:0x29b982c7150210af!8m2!3d17.9899328!4d79.5925407!16s%2Fg%2F11x7z7fz59!19sChIJnUnWEQBFMzoRrxACFceCuSk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Female+Surgical+Ward/data=!4m7!3m6!1s0x3a33450011d6499d:0x29b982c7150210af!8m2!3d17.9899328!4d79.5925407!16s%2Fg%2F11x7z7fz59!19sChIJnUnWEQBFMzoRrxACFceCuSk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9899328,
+      "lng": 79.5925407,
+      "label": "Female Surgical Ward",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ferty9-fertility-ivf-and-iui-center-best-ivf-clinic-in-warangal-telangana-hanamkonda",
+    "name": "Ferty9 Fertility, IVF & IUI Center | Best IVF Clinic in Warangal, Telangana",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Hanamkonda, Ferty9 Fertility, IVF & IUI Center | Best IVF Clinic in Warangal, Telangana delivers integrated care across IVF In Warangal and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@ferty9.com",
+    "phone": "089777 38843",
+    "alternatePhone": "0406 901 6602",
+    "website": "https://www.ferty9.com/fertility-clinic/warangal",
+    "address": "Office Lane Kancharakunta, KUDA.Warangal, H. No. 6-1-89, 2nd and 3rd, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "2nd and 3rd",
+    "landmark": "H. No. 6-1-89",
+    "emergencyContact": "0406 901 6602",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ferty9official",
+    "twitter": "https://x.com/ferty9hospital?s=21",
+    "instagram": "https://www.instagram.com/ferty9fertilitycentre?igsh=ZjNpODNuc2d6MGdm&utm_source=qr",
+    "linkedin": "https://www.linkedin.com/company/ferty9/",
+    "youtube": "https://www.youtube.com/@Ferty9FertilityCenter/videos",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ferty9+Fertility,+IVF+%26+IUI+Center+%7C+Best+IVF+Clinic+in+Warangal,+Telangana/data=!4m7!3m6!1s0x3a33458f4827cfe3:0x743fff098d993abe!8m2!3d18.0058857!4d79.5640357!16s%2Fg%2F11tm_myv_g!19sChIJ488nSI9FMzoRvjqZjQn_P3Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ferty9+Fertility,+IVF+%26+IUI+Center+%7C+Best+IVF+Clinic+in+Warangal,+Telangana/data=!4m7!3m6!1s0x3a33458f4827cfe3:0x743fff098d993abe!8m2!3d18.0058857!4d79.5640357!16s%2Fg%2F11tm_myv_g!19sChIJ488nSI9FMzoRvjqZjQn_P3Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0058857,
+      "lng": 79.5640357,
+      "label": "Ferty9 Fertility, IVF & IUI Center | Best IVF Clinic in Warangal, Telangana",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "glaucoma-surgery-specialists-at-maxivision-eye-hospitals-in-hanamakonda-hanamkonda",
+    "name": "Glaucoma Surgery Specialists at Maxivision Eye Hospitals in - Hanamakonda",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Glaucoma Surgery Specialists at Maxivision Eye Hospitals in - Hanamakonda for its strength in Kidney Transplant Surgery In Warangal and Eye Care Center. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092402 14612",
+    "alternatePhone": "",
+    "website": "https://www.maxivisioneyehospital.com/",
+    "address": "Alankar Cir, Raganna Darwaja, Kakatiya Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakatiya Colony",
+    "landmark": "Kakatiya Colony",
+    "emergencyContact": "092402 14612",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Glaucoma+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Hanamakonda/data=!4m7!3m6!1s0x3a334552163c8e47:0x4ce81ce333cad383!8m2!3d18.0035036!4d79.5799494!16s%2Fg%2F11ynwrp4q4!19sChIJR448FlJFMzoRg9PKM-Mc6Ew?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Glaucoma+Surgery+Specialists+at+Maxivision+Eye+Hospitals+in+-+Hanamakonda/data=!4m7!3m6!1s0x3a334552163c8e47:0x4ce81ce333cad383!8m2!3d18.0035036!4d79.5799494!16s%2Fg%2F11ynwrp4q4!19sChIJR448FlJFMzoRg9PKM-Mc6Ew?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0035036,
+      "lng": 79.5799494,
+      "label": "Glaucoma Surgery Specialists at Maxivision Eye Hospitals in - Hanamakonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gouda-ramesh-ent-hospital-hanamkonda",
+    "name": "Gouda Ramesh ENT Hospital",
+    "type": "Ent Specialist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Gouda Ramesh ENT Hospital for its strength in Plastic Surgery In Warangal and ENT. The facility stands out for Google rating 4.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "goudaent@gmail.com",
+    "phone": "091778 12783",
+    "alternatePhone": "+91 95505 74871",
+    "website": "https://www.goudaent.in/best-ent-hospital-in-hanamkonda/",
+    "address": "# 7-1-64, Bus Stand Road Beside Asian Sridevi Mall, opp. Kalyani Hospital, Sai Nagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Sai Nagar",
+    "landmark": "Beside Asian Sridevi Mall, opp. Kalyani Hospital, Sai Nagar, Hanamkonda, Telangana 506001",
+    "emergencyContact": "+91 95505 74871",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/drgoudarameshenthospital/",
+    "twitter": "https://twitter.com/GoudaENTHyd",
+    "instagram": "https://www.instagram.com/ent_hospital_gouda/",
+    "linkedin": "https://www.linkedin.com/company/gouda-ramesh-ent-centre",
+    "youtube": "http://youtube.com/@DrGoudaRameshENTCenter/videos",
+    "specialties": [
+      "Plastic Surgery In Warangal",
+      "ENT"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gouda+Ramesh+ENT+Hospital/@18.0051109,79.5628022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0051109!4d79.5628022!16s%2Fg%2F1thkvpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gouda+Ramesh+ENT+Hospital/@18.0051109,79.5628022,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458266f63b05:0xb46408204694d745!8m2!3d18.0051109!4d79.5628022!16s%2Fg%2F1thkvpl0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0051109,
+      "lng": 79.5628022,
+      "label": "Gouda Ramesh ENT Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heal-well-burns-and-plastic-surgery-clinic-warangal",
+    "name": "Heal Well Burns & Plastic Surgery Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Heal Well Burns & Plastic Surgery Clinic is a prominent hospital in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087024 48870",
+    "alternatePhone": "",
+    "website": "",
+    "address": "7-7-336, Main Road, Hanamkonda, Near Alankar Theatre, Hanamkonda, Warangal, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Hanamkonda",
+    "landmark": "Near Alankar Theatre, Hanamkonda, Warangal, Telangana 506011",
+    "emergencyContact": "087024 48870",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488!16s%2Fg%2F1tdzpk2v!19sChIJ77fu-X5PMzoReGRYEM1exYA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Heal+Well+Burns+%26+Plastic+Surgery+Clinic/data=!4m7!3m6!1s0x3a334f7ef9eeb7ef:0x80c55ecd10586478!8m2!3d18.0032281!4d79.5785488!16s%2Fg%2F1tdzpk2v!19sChIJ77fu-X5PMzoReGRYEM1exYA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0032281,
+      "lng": 79.5785488,
+      "label": "Heal Well Burns & Plastic Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hitam-cardiac-centre-hanamkonda",
+    "name": "Hitam Cardiac Centre",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Hitam Cardiac Centre brings together specialists for Heart Surgery In Warangal, Medical Center, and Cardiac Care. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087024 43333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-8-4, Near Asian sridevi mall, Hanuman Temple Rd, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "Near Asian sridevi mall, Hanuman Temple Rd, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "087024 43333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Medical Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Hitam+Cardiac+Centre/data=!4m7!3m6!1s0x3a334582f11d3a15:0x9a0aaf6326b15f7b!8m2!3d18.0037543!4d79.5612762!16s%2Fg%2F124yqs3fm!19sChIJFTod8YJFMzoRe1-xJmOvCpo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hitam+Cardiac+Centre/data=!4m7!3m6!1s0x3a334582f11d3a15:0x9a0aaf6326b15f7b!8m2!3d18.0037543!4d79.5612762!16s%2Fg%2F124yqs3fm!19sChIJFTod8YJFMzoRe1-xJmOvCpo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0037543,
+      "lng": 79.5612762,
+      "label": "Hitam Cardiac Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hitha-dental-and-maxillofacial-clinic-warangal",
+    "name": "HITHA DENTAL AND MAXILLOFACIAL CLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HITHA DENTAL AND MAXILLOFACIAL CLINIC has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Oral Surgery In Warangal and Maxillofacial Surgery. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093980 05947",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayaprakash Narayan Road, above city union bank, Nandayya Gari Compound, Sherpura, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Sherpura",
+    "landmark": "Nandayya Gari Compound",
+    "emergencyContact": "093980 05947",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/HITHA+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a33453922f9d2e5:0xb8ca3a2ac3e3143c!8m2!3d17.9811157!4d79.5985415!16s%2Fg%2F11j124d42c!19sChIJ5dL5IjlFMzoRPBTjwyo6yrg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HITHA+DENTAL+AND+MAXILLOFACIAL+CLINIC/data=!4m7!3m6!1s0x3a33453922f9d2e5:0xb8ca3a2ac3e3143c!8m2!3d17.9811157!4d79.5985415!16s%2Fg%2F11j124d42c!19sChIJ5dL5IjlFMzoRPBTjwyo6yrg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9811157,
+      "lng": 79.5985415,
+      "label": "HITHA DENTAL AND MAXILLOFACIAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-and-surya-fertility-ivf-icsi-and-iui-best-ivf-center-in-hanamkonda-telangana-hanamkonda",
+    "name": "Indira IVF and Surya Fertility IVF ICSI & IUI - Best IVF Center in Hanamkonda, Telangana",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira IVF and Surya Fertility IVF ICSI & IUI - Best IVF Center in Hanamkonda, Telangana has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering IVF In Warangal and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "help@indiraivf.in",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/41O59xS",
+    "address": "opp. Vijaya theater, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+and+Surya+Fertility+IVF+ICSI+%26+IUI+-+Best+IVF+Center+in+Hanamkonda,+Telangana/data=!4m7!3m6!1s0x3a33457de0dd4a1f:0xe57f3d530cd4f519!8m2!3d18.003569!4d79.569885!16s%2Fg%2F11jcbj7bw7!19sChIJH0rd4H1FMzoRGfXUDFM9f-U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+and+Surya+Fertility+IVF+ICSI+%26+IUI+-+Best+IVF+Center+in+Hanamkonda,+Telangana/data=!4m7!3m6!1s0x3a33457de0dd4a1f:0xe57f3d530cd4f519!8m2!3d18.003569!4d79.569885!16s%2Fg%2F11jcbj7bw7!19sChIJH0rd4H1FMzoRGfXUDFM9f-U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.003569,
+      "lng": 79.569885,
+      "label": "Indira IVF and Surya Fertility IVF ICSI & IUI - Best IVF Center in Hanamkonda, Telangana",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-ivf-and-fertility-center-warangal-warangal",
+    "name": "Iswarya IVF & Fertility Center Warangal",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Iswarya IVF & Fertility Center Warangal brings together specialists for IVF In Warangal and Fertility Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "cc@iswarya.in",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "http://iswaryafertility.com/ivf-centers/telangana/warangal?utm_source=Google_Local_Listing&utm_medium=Local_SEO&utm_campaign=Warangal",
+    "address": "H.No:15-4-1, Gemini Theatre, opposite Mattewada, Urban, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Urban",
+    "landmark": "opposite Mattewada, Urban, Warangal, Telangana 506007",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IswaryaFertilityCenters",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/iswaryafertilityindia/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@IswaryaFertilityCentre",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Center+Warangal/data=!4m7!3m6!1s0x3a3345c1d176a643:0x99d4ae15f0fea4f9!8m2!3d17.9877791!4d79.5921463!16s%2Fg%2F11sw41x7zm!19sChIJQ6Z20cFFMzoR-aT-8BWu1Jk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Center+Warangal/data=!4m7!3m6!1s0x3a3345c1d176a643:0x99d4ae15f0fea4f9!8m2!3d17.9877791!4d79.5921463!16s%2Fg%2F11sw41x7zm!19sChIJQ6Z20cFFMzoR-aT-8BWu1Jk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9877791,
+      "lng": 79.5921463,
+      "label": "Iswarya IVF & Fertility Center Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivies-skin-and-hair-clinic-hanamkonda",
+    "name": "IVIES SKIN AND HAIR CLINIC",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, IVIES SKIN AND HAIR CLINIC brings together specialists for Kidney Transplant Surgery In Warangal. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "contact@iviesvlinic.com",
+    "phone": "076619 92666",
+    "alternatePhone": "+91 76599 19111",
+    "website": "https://www.iviesclinic.com/hair-transplant-warangal/",
+    "address": "2-6-13, Circuit House Rd, Gokulnagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Gokulnagar",
+    "landmark": "Gokulnagar",
+    "emergencyContact": "+91 76599 19111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/IVIES+SKIN+AND+HAIR+CLINIC/data=!4m7!3m6!1s0x3a334fb291dd33db:0x4d607b7ce4dab317!8m2!3d18.0031679!4d79.5515006!16s%2Fg%2F11gxskgnvq!19sChIJ2zPdkbJPMzoRF7Pa5Hx7YE0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IVIES+SKIN+AND+HAIR+CLINIC/data=!4m7!3m6!1s0x3a334fb291dd33db:0x4d607b7ce4dab317!8m2!3d18.0031679!4d79.5515006!16s%2Fg%2F11gxskgnvq!19sChIJ2zPdkbJPMzoRF7Pa5Hx7YE0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0031679,
+      "lng": 79.5515006,
+      "label": "IVIES SKIN AND HAIR CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jagruthi-neuro-hospital-hanamkonda",
+    "name": "Jagruthi neuro hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Jagruthi neuro hospital offers coordinated hospital care with major focus on Neurosurgeon In Warangal and Neurosciences. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2H46+FH8, Unnamed Road, Naim Nagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Naim Nagar",
+    "landmark": "Naim Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Jagruthi+neuro+hospital/data=!4m7!3m6!1s0x3a3345447cbed6b9:0x81b213ebb5e8d2d5!8m2!3d18.0061682!4d79.5614616!16s%2Fg%2F11h4pxvb1d!19sChIJuda-fERFMzoR1dLotesTsoE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jagruthi+neuro+hospital/data=!4m7!3m6!1s0x3a3345447cbed6b9:0x81b213ebb5e8d2d5!8m2!3d18.0061682!4d79.5614616!16s%2Fg%2F11h4pxvb1d!19sChIJuda-fERFMzoR1dLotesTsoE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0061682,
+      "lng": 79.5614616,
+      "label": "Jagruthi neuro hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaya-hospitals-and-diagnostic-mri-centre-warangal",
+    "name": "Jaya Hospitals & Diagnostic MRi Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Jaya Hospitals & Diagnostic MRi Centre brings together specialists for Heart Surgery In Warangal. Hospital capacity markers such as Google rating 2.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098666 11333",
+    "alternatePhone": "087025 68353",
+    "website": "http://jayahospitals.in/",
+    "address": "Chowrasta,Hanamakonda,Warangal, Andhra Pradesh, Hanamkonda, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Hanamakonda",
+    "landmark": "Warangal",
+    "emergencyContact": "087025 68353",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jaya+Hospitals+%26+Diagnostic+MRi+Centre/data=!4m7!3m6!1s0x3a334582e67e5507:0xb38e9335d502fdfa!8m2!3d18.0056016!4d79.5695328!16s%2Fg%2F1q66p51b0!19sChIJB1V-5oJFMzoR-v0C1TWTjrM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaya+Hospitals+%26+Diagnostic+MRi+Centre/data=!4m7!3m6!1s0x3a334582e67e5507:0xb38e9335d502fdfa!8m2!3d18.0056016!4d79.5695328!16s%2Fg%2F1q66p51b0!19sChIJB1V-5oJFMzoR-v0C1TWTjrM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0056016,
+      "lng": 79.5695328,
+      "label": "Jaya Hospitals & Diagnostic MRi Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaya-krishna-heart-clinic-hanamkonda",
+    "name": "Jaya Krishna Heart Clinic",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Jaya Krishna Heart Clinic brings together specialists for Heart Surgery In Warangal and Cardiac Care. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086868 68600",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2H39+PFC, Vijaya Theater Road, Beside Lane Of venkateshwara Diagnostics,Opposite Lane Of Warangal 2nd Depot, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Beside Lane Of venkateshwara Diagnostics,Opposite Lane Of Warangal 2nd Depot, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "086868 68600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Jaya+Krishna+Heart+Clinic/data=!4m7!3m6!1s0x3a3345825f061f43:0xf0ad33874095b2f4!8m2!3d18.0043083!4d79.56864!16s%2Fg%2F11bbrm3nyx!19sChIJQx8GX4JFMzoR9LKVQIczrfA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaya+Krishna+Heart+Clinic/data=!4m7!3m6!1s0x3a3345825f061f43:0xf0ad33874095b2f4!8m2!3d18.0043083!4d79.56864!16s%2Fg%2F11bbrm3nyx!19sChIJQx8GX4JFMzoR9LKVQIczrfA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0043083,
+      "lng": 79.56864,
+      "label": "Jaya Krishna Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalpana-care32-dental-clinic-warangal",
+    "name": "Kalpana Care32 Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, Kalpana Care32 Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Warangal. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083286 79049",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayaprakash Narayan Road, near Satya Hospital Street, opposite vishwakarma veedhi (Street, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "near Satya Hospital Street, opposite vishwakarma veedhi (Street, Girmajipet, Warangal, Telangana 506002",
+    "emergencyContact": "083286 79049",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kalpana+Care32+Dental+Clinic/data=!4m7!3m6!1s0x3a334503395e224f:0xef683ef43ad7394f!8m2!3d17.9816041!4d79.5988967!16s%2Fg%2F11fm4w1k8y!19sChIJTyJeOQNFMzoRTznXOvQ-aO8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalpana+Care32+Dental+Clinic/data=!4m7!3m6!1s0x3a334503395e224f:0xef683ef43ad7394f!8m2!3d17.9816041!4d79.5988967!16s%2Fg%2F11fm4w1k8y!19sChIJTyJeOQNFMzoRTznXOvQ-aO8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9816041,
+      "lng": 79.5988967,
+      "label": "Kalpana Care32 Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "katakam-narender-clinic-warangal",
+    "name": "Katakam Narender Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Katakam Narender Clinic has built a strong reputation in Warangal for multidisciplinary treatment pathways covering General Surgery In Warangal. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090594 80050",
+    "alternatePhone": "",
+    "website": "http://www.katakamnarenderclinic.com/",
+    "address": "Bus Stop, 11-26-105, MGM Rd, near Gopalaswamy Temple, Kothawada, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Kothawada",
+    "landmark": "near Gopalaswamy Temple, Kothawada, Warangal, Telangana 506007",
+    "emergencyContact": "090594 80050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Katakam+Narender+Clinic/data=!4m7!3m6!1s0x3a33451af6e0efcf:0xd23a3aaadf7a1617!8m2!3d17.990195!4d79.5960804!16s%2Fg%2F1ptxshgdt!19sChIJz-_g9hpFMzoRFxZ636o6OtI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Katakam+Narender+Clinic/data=!4m7!3m6!1s0x3a33451af6e0efcf:0xd23a3aaadf7a1617!8m2!3d17.990195!4d79.5960804!16s%2Fg%2F1ptxshgdt!19sChIJz-_g9hpFMzoRFxZ636o6OtI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.990195,
+      "lng": 79.5960804,
+      "label": "Katakam Narender Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kiran-kidney-centre-hanamkonda",
+    "name": "Kiran kidney centre",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Kiran kidney centre brings together specialists for Kidney Transplant Surgery In Warangal and Kidney Care. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "kirankidneycare@gmail.com",
+    "phone": "+91 95737 44211",
+    "alternatePhone": "95737 44311",
+    "website": "http://www.kirankidneycare.com/",
+    "address": "2H39+4WV, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "+91 95737 44211",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100067192085891",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kiran+kidney+centre/data=!4m7!3m6!1s0x3a33458118759471:0xda4abb85669d47eb!8m2!3d18.0028537!4d79.5698095!16s%2Fg%2F11t1j8_fwc!19sChIJcZR1GIFFMzoR60edZoW7Sto?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kiran+kidney+centre/data=!4m7!3m6!1s0x3a33458118759471:0xda4abb85669d47eb!8m2!3d18.0028537!4d79.5698095!16s%2Fg%2F11t1j8_fwc!19sChIJcZR1GIFFMzoR60edZoW7Sto?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0028537,
+      "lng": 79.5698095,
+      "label": "Kiran kidney centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "koorapati-laparoscopic-and-fertility-center-hanamkonda",
+    "name": "Koorapati Laparoscopic And Fertility Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Koorapati Laparoscopic And Fertility Center for its strength in Liver Transplant Surgery In Warangal and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "klfchospitalhanamkonda@gmail.com",
+    "phone": "073372 22104",
+    "alternatePhone": "+91 88976 56456",
+    "website": "https://www.klfchospital.com/",
+    "address": "Near Asian Mall, Sai Nagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Sai Nagar",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "+91 88976 56456",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/klfchospitalwarangal",
+    "twitter": "https://twitter.com/KlfcH",
+    "instagram": "https://www.instagram.com/klfc_hospital/",
+    "linkedin": "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFjqp3fPEipogAAAXyW7dcwn06CsAhSCHVGwBSNQ9D5GGFjOS9a_OeLfjcu6GOFE2TupjFFrV0E8eBafU1xKsLsgPXfw53MN6cUxDbH0Km9vlpXzJnqSCB3ca2B0Q_beWT6nUQ=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fklfchospital",
+    "youtube": "https://www.youtube.com/channel/UCMZjEJ4aN6j8EVK1f9G272A/featured",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Koorapati+Laparoscopic+And+Fertility+Center/@18.0051699,79.5635478,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334581a985a333:0xdca995833a401e37!8m2!3d18.0051699!4d79.5635478!16s%2Fg%2F11b6pf1y3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Koorapati+Laparoscopic+And+Fertility+Center/@18.0051699,79.5635478,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334581a985a333:0xdca995833a401e37!8m2!3d18.0051699!4d79.5635478!16s%2Fg%2F11b6pf1y3q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0051699,
+      "lng": 79.5635478,
+      "label": "Koorapati Laparoscopic And Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krithika-dental-care-warangal",
+    "name": "Krithika Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Krithika Dental Care for its strength in Oral Surgery In Warangal. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099088 80915",
+    "alternatePhone": "",
+    "website": "http://www.krithikadentalcare.com/",
+    "address": "1st Floor, H.No 16-4, 411/1, Khammam - Warangal Hwy, beside Wallmart, Ekashila Nagar, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Ekashila Nagar",
+    "landmark": "beside Wallmart, Ekashila Nagar, Warangal, Telangana 506002",
+    "emergencyContact": "099088 80915",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Krithika+Dental+Care/data=!4m7!3m6!1s0x3a3345ec1e00762b:0xaf229994a3243ad9!8m2!3d17.965945!4d79.5994263!16s%2Fg%2F11ty7c75r5!19sChIJK3YAHuxFMzoR2Toko5SZIq8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krithika+Dental+Care/data=!4m7!3m6!1s0x3a3345ec1e00762b:0xaf229994a3243ad9!8m2!3d17.965945!4d79.5994263!16s%2Fg%2F11ty7c75r5!19sChIJK3YAHuxFMzoR2Toko5SZIq8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.965945,
+      "lng": 79.5994263,
+      "label": "Krithika Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lalitha-sri-kidney-center-warangal",
+    "name": "Lalitha Sri Kidney Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Lalitha Sri Kidney Center brings together specialists for Kidney Transplant Surgery In Warangal and Kidney Care. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080961 67313",
+    "alternatePhone": "",
+    "website": "",
+    "address": "VenuGopala Swamy Temple, MGM Rd, beside Arkha Hospital, Auto Nagar, Kothawada, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Kothawada",
+    "landmark": "beside Arkha Hospital, Auto Nagar, Kothawada, Warangal, Telangana 506007",
+    "emergencyContact": "080961 67313",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Lalitha+Sri+Kidney+Center/data=!4m7!3m6!1s0x3a33451aed5be257:0x5ee2fa14246eef93!8m2!3d17.9903421!4d79.5954301!16s%2Fg%2F11gdq14kps!19sChIJV-Jb7RpFMzoRk-9uJBT64l4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lalitha+Sri+Kidney+Center/data=!4m7!3m6!1s0x3a33451aed5be257:0x5ee2fa14246eef93!8m2!3d17.9903421!4d79.5954301!16s%2Fg%2F11gdq14kps!19sChIJV-Jb7RpFMzoRk-9uJBT64l4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9903421,
+      "lng": 79.5954301,
+      "label": "Lalitha Sri Kidney Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "latha-venkat-ortho-and-general-care-kazipet",
+    "name": "LATHA VENKAT ORTHO & GENERAL CARE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kazipet, LATHA VENKAT ORTHO & GENERAL CARE offers coordinated hospital care with major focus on Orthopedic Surgery In Warangal and Orthopaedics. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095024 05555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.NO.1-3-102 Main Road, beside Bhavani Theatre, KAZIPE T, Kazipet, Telangana 506003",
+    "city": "Kazipet",
+    "state": "Telangana",
+    "pincode": "506003",
+    "locality": "KAZIPE T",
+    "landmark": "beside Bhavani Theatre, KAZIPE T, Kazipet, Telangana 506003",
+    "emergencyContact": "095024 05555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/LATHA+VENKAT+ORTHO+%26+GENERAL+CARE/data=!4m7!3m6!1s0x3a334fc23917f153:0xa3961cb57063a062!8m2!3d17.9778192!4d79.5116466!16s%2Fg%2F11j9ckhrgg!19sChIJU_EXOcJPMzoRYqBjcLUclqM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/LATHA+VENKAT+ORTHO+%26+GENERAL+CARE/data=!4m7!3m6!1s0x3a334fc23917f153:0xa3961cb57063a062!8m2!3d17.9778192!4d79.5116466!16s%2Fg%2F11j9ckhrgg!19sChIJU_EXOcJPMzoRYqBjcLUclqM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9778192,
+      "lng": 79.5116466,
+      "label": "LATHA VENKAT ORTHO & GENERAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lavanya-hospital-hanamkonda",
+    "name": "Lavanya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lavanya Hospital is a prominent hospital in Hanamkonda, known for structured tertiary care across General Surgery In Warangal. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073960 55100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Asian Mall, Sai Nagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Sai Nagar",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "073960 55100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Lavanya+Hospital/data=!4m7!3m6!1s0x3a3345825df869e7:0x7d9a9d58f6959b76!8m2!3d18.0024931!4d79.5613535!16s%2Fg%2F1q645d5k7!19sChIJ52n4XYJFMzoRdpuV9lidmn0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lavanya+Hospital/data=!4m7!3m6!1s0x3a3345825df869e7:0x7d9a9d58f6959b76!8m2!3d18.0024931!4d79.5613535!16s%2Fg%2F1q645d5k7!19sChIJ52n4XYJFMzoRdpuV9lidmn0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0024931,
+      "lng": 79.5613535,
+      "label": "Lavanya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laxmi-narasimha-hospital-best-fertility-centre-in-hanamkonda-iui-centre-ivf-centre-fertility-clinic-hanamkonda",
+    "name": "Laxmi Narasimha Hospital | Best Fertility Centre in Hanamkonda | IUI Centre | IVF Centre | Fertility clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Laxmi Narasimha Hospital | Best Fertility Centre in Hanamkonda | IUI Centre | IVF Centre | Fertility clinic offers coordinated hospital care with major focus on IVF In Warangal and Fertility Care. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095509 78696",
+    "alternatePhone": "",
+    "website": "http://www.laxminarasimhahospital.in/",
+    "address": "2-2-316, Warangal-Huzurabad Road, Naim Nagar, Beside Pushpanjali Function Hall, Kishanpura, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kishanpura",
+    "landmark": "Beside Pushpanjali Function Hall, Kishanpura, Hanamkonda, Telangana 506001",
+    "emergencyContact": "095509 78696",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Laxmi+Narasimha+Hospital+%7C+Best+Fertility+Centre+in+Hanamkonda+%7C+IUI+Centre+%7C+IVF+Centre+%7C+Fertility+clinic/data=!4m7!3m6!1s0x3a334f634991e0c3:0xe47a0bffe88accda!8m2!3d18.0137691!4d79.556103!16s%2Fg%2F1tc_728y!19sChIJw-CRSWNPMzoR2syK6P8LeuQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laxmi+Narasimha+Hospital+%7C+Best+Fertility+Centre+in+Hanamkonda+%7C+IUI+Centre+%7C+IVF+Centre+%7C+Fertility+clinic/data=!4m7!3m6!1s0x3a334f634991e0c3:0xe47a0bffe88accda!8m2!3d18.0137691!4d79.556103!16s%2Fg%2F1tc_728y!19sChIJw-CRSWNPMzoR2syK6P8LeuQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0137691,
+      "lng": 79.556103,
+      "label": "Laxmi Narasimha Hospital | Best Fertility Centre in Hanamkonda | IUI Centre | IVF Centre | Fertility clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laxmi-sri-orthopeadic-clinic-warangal",
+    "name": "Laxmi Sri Orthopeadic Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Laxmi Sri Orthopeadic Clinic has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Orthopedic Surgery In Warangal and Orthopaedics. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098491 65881",
+    "alternatePhone": "",
+    "website": "",
+    "address": "House No. 10-6, 6, Jayaprakash Narayan Road, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "Jayaprakash Narayan Road",
+    "emergencyContact": "098491 65881",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Laxmi+Sri+Orthopeadic+Clinic/@17.9818098,79.5989734,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334518b0821c19:0xb49012b4a57d9839!8m2!3d17.9818098!4d79.5989734!16s%2Fg%2F1ptvtrdl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Laxmi+Sri+Orthopeadic+Clinic/@17.9818098,79.5989734,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334518b0821c19:0xb49012b4a57d9839!8m2!3d17.9818098!4d79.5989734!16s%2Fg%2F1ptvtrdl5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9818098,
+      "lng": 79.5989734,
+      "label": "Laxmi Sri Orthopeadic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "luminis-hospital-hanamkonda",
+    "name": "Luminis Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Luminis Hospital is a prominent hospital in Hanamkonda, known for structured tertiary care across Heart Surgery In Warangal. Operational strengths including Google rating 3.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087025 10481",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHW2+45J, Subedari, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Subedari",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "087025 10481",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/Luminis+Hospital/data=!4m7!3m6!1s0x3a334f84a3c8e92f:0x3c9414032889fa7f!8m2!3d17.995346!4d79.5503765!16s%2Fg%2F1tklnzgk!19sChIJL-nIo4RPMzoRf_qJKAMUlDw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Luminis+Hospital/data=!4m7!3m6!1s0x3a334f84a3c8e92f:0x3c9414032889fa7f!8m2!3d17.995346!4d79.5503765!16s%2Fg%2F1tklnzgk!19sChIJL-nIo4RPMzoRf_qJKAMUlDw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.995346,
+      "lng": 79.5503765,
+      "label": "Luminis Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "luminis-hospital-ivf-fertility-hospital-in-warangal-maternity-hospital-in-warangal-ivf-center-in-warangal-hanamkonda",
+    "name": "Luminis Hospital | IVF Fertility Hospital in Warangal | Maternity Hospital in Warangal | IVF Center in Warangal",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Luminis Hospital | IVF Fertility Hospital in Warangal | Maternity Hospital in Warangal | IVF Center in Warangal offers coordinated hospital care with major focus on IVF In Warangal and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@luminishospitals.com",
+    "phone": "092814 33567",
+    "alternatePhone": "087024 33366",
+    "website": "http://luminishospitals.com/",
+    "address": "1-7-696, Postal Colony, Subedari, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Subedari",
+    "landmark": "Subedari",
+    "emergencyContact": "087024 33366",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Luminis-Hospital/61571820881874/",
+    "twitter": "https://x.com/LuminisHospital",
+    "instagram": "https://www.instagram.com/luminis_hospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@LuminisHospital",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Luminis+Hospital+%7C+IVF+Fertility+Hospital+in+Warangal+%7C+Maternity+Hospital+in+Warangal+%7C+IVF+Center+in+Warangal/data=!4m7!3m6!1s0x3a334f0031532b9b:0x2ea5c273b249fb01!8m2!3d17.9959195!4d79.5501825!16s%2Fg%2F11wk47m606!19sChIJmytTMQBPMzoRAftJsnPCpS4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Luminis+Hospital+%7C+IVF+Fertility+Hospital+in+Warangal+%7C+Maternity+Hospital+in+Warangal+%7C+IVF+Center+in+Warangal/data=!4m7!3m6!1s0x3a334f0031532b9b:0x2ea5c273b249fb01!8m2!3d17.9959195!4d79.5501825!16s%2Fg%2F11wk47m606!19sChIJmytTMQBPMzoRAftJsnPCpS4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9959195,
+      "lng": 79.5501825,
+      "label": "Luminis Hospital | IVF Fertility Hospital in Warangal | Maternity Hospital in Warangal | IVF Center in Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maharshi-goshala-charitable-trust-beside-bgr-garden-chinthagattu-v-hasanparthy",
+    "name": "Maharshi Goshala Charitable Trust",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Maharshi Goshala Charitable Trust is a prominent ayurvedic clinic in Beside BGR Garden Chinthagattu (V Hasanparthy, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "maharshigoshala99@gmail.com",
+    "phone": "070326 26105",
+    "alternatePhone": "",
+    "website": "http://www.maharshigoshala.in/",
+    "address": "Beside BGR Garden Chinthagattu (V Hasanparthy, Telangana 506015",
+    "city": "Beside BGR Garden Chinthagattu (V Hasanparthy",
+    "state": "Telangana",
+    "pincode": "506015",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "070326 26105",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/Maharshi-Goshala-Charitable-Trust-Warangal-100070985412166/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@maharshigoshalawarangal4099",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Maharshi+Goshala+Charitable+Trust/data=!4m7!3m6!1s0x3a334960bcd1f0a7:0xf5f9711f0abd42a0!8m2!3d18.048087!4d79.5242491!16s%2Fg%2F11grcb6wyw!19sChIJp_DRvGBJMzoRoEK9Ch9x-fU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maharshi+Goshala+Charitable+Trust/data=!4m7!3m6!1s0x3a334960bcd1f0a7:0xf5f9711f0abd42a0!8m2!3d18.048087!4d79.5242491!16s%2Fg%2F11grcb6wyw!19sChIJp_DRvGBJMzoRoEK9Ch9x-fU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.048087,
+      "lng": 79.5242491,
+      "label": "Maharshi Goshala Charitable Trust",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahi-hospital-warangal",
+    "name": "Mahi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, Mahi Hospital offers coordinated hospital care with major focus on IVF In Warangal. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "mahihospital@gmail.com",
+    "phone": "096187 68426",
+    "alternatePhone": "",
+    "website": "https://www.mahihospitals.com/",
+    "address": "1-8-67/68, opp. fire station, beside ABVP function Hall, Balasamudram, Hanamkonda, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Hanamkonda",
+    "landmark": "beside ABVP function Hall, Balasamudram, Hanamkonda, Warangal, Telangana 506001",
+    "emergencyContact": "096187 68426",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mahi+Hospital/data=!4m7!3m6!1s0x3a334faca1bb42eb:0x935c97485224393d!8m2!3d18.0017136!4d79.5614664!16s%2Fg%2F11gnq8jhv4!19sChIJ60K7oaxPMzoRPTkkUkiXXJM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahi+Hospital/data=!4m7!3m6!1s0x3a334faca1bb42eb:0x935c97485224393d!8m2!3d18.0017136!4d79.5614664!16s%2Fg%2F11gnq8jhv4!19sChIJ60K7oaxPMzoRPTkkUkiXXJM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0017136,
+      "lng": 79.5614664,
+      "label": "Mahi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "male-surgical-ward-units-5-6-warangal",
+    "name": "Male Surgical Ward Units - 5,6",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Male Surgical Ward Units - 5,6 brings together specialists for Kidney Transplant Surgery In Warangal. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHRR+2XP, Swami Vivekananda Rd, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Sherpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Male+Surgical+Ward+Units+-+5,6/data=!4m7!3m6!1s0x3a3345104324854b:0x742c838084e54ab4!8m2!3d17.990096!4d79.5924389!16s%2Fg%2F1tg59j9r!19sChIJS4UkQxBFMzoRtErlhICDLHQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Male+Surgical+Ward+Units+-+5,6/data=!4m7!3m6!1s0x3a3345104324854b:0x742c838084e54ab4!8m2!3d17.990096!4d79.5924389!16s%2Fg%2F1tg59j9r!19sChIJS4UkQxBFMzoRtErlhICDLHQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.990096,
+      "lng": 79.5924389,
+      "label": "Male Surgical Ward Units - 5,6",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "male-surgical-ward-units-1-3-first-floor-warangal",
+    "name": "Male Surgical Ward Units- 1,3 (first floor)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Male Surgical Ward Units- 1,3 (first floor) is a prominent hospital in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHRV+25C, MGM Hospital Rd, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Sherpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Male+Surgical+Ward+Units-+1,3+%28first+floor%29/data=!4m7!3m6!1s0x3a3345004c2136bd:0x7f8a54daf8f1665d!8m2!3d17.9900558!4d79.5928986!16s%2Fg%2F11x7z7yl5q!19sChIJvTYhTABFMzoRXWbx-NpUin8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Male+Surgical+Ward+Units-+1,3+%28first+floor%29/data=!4m7!3m6!1s0x3a3345004c2136bd:0x7f8a54daf8f1665d!8m2!3d17.9900558!4d79.5928986!16s%2Fg%2F11x7z7yl5q!19sChIJvTYhTABFMzoRXWbx-NpUin8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9900558,
+      "lng": 79.5928986,
+      "label": "Male Surgical Ward Units- 1,3 (first floor)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mamatha-heart-clinic-hanamkonda",
+    "name": "Mamatha Heart Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Hanamkonda, Mamatha Heart Clinic delivers integrated care across Heart Surgery In Warangal and Cardiac Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078931 30600",
+    "alternatePhone": "",
+    "website": "http://www.mamathaheartclinic.com/",
+    "address": "1-8-142, 2nd Floor, opp. Labour Office, beside Reliance, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "beside Reliance, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "078931 30600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mamatha+Heart+Clinic/data=!4m7!3m6!1s0x3a33459f4d91a65d:0xecf8e332490ff6bc!8m2!3d17.9990319!4d79.5604337!16s%2Fg%2F11f6f_f6d0!19sChIJXaaRTZ9FMzoRvPYPSTLj-Ow?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mamatha+Heart+Clinic/data=!4m7!3m6!1s0x3a33459f4d91a65d:0xecf8e332490ff6bc!8m2!3d17.9990319!4d79.5604337!16s%2Fg%2F11f6f_f6d0!19sChIJXaaRTZ9FMzoRvPYPSTLj-Ow?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9990319,
+      "lng": 79.5604337,
+      "label": "Mamatha Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "matrika-fertility-center-best-fertility-centre-in-hanamkonda-warangal-best-ivf-centre-in-hanamkonda-hanamkonda",
+    "name": "Matrika Fertility Center - Best Fertility Centre in Hanamkonda, Warangal , Best IVF Centre in Hanamkonda",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Matrika Fertility Center - Best Fertility Centre in Hanamkonda, Warangal , Best IVF Centre in Hanamkonda is a prominent fertility clinic in Hanamkonda, known for structured tertiary care across IVF In Warangal and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "saimatrikaivflabs@gmail.com",
+    "phone": "063025 87377",
+    "alternatePhone": "",
+    "website": "https://matrikaivf.in/best-fertility-ivf-iui-icsi-treatment-centre-in-warangal-hanamakonda?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "address": "1-8-143, Kaloji Marg, beside to Reliance Smart, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "beside to Reliance Smart, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "063025 87377",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MatrikaFertilityCentre",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/matrikafertilitycenter/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Matrika+Fertility+Center+-+Best+Fertility+Centre+in+Hanamkonda,+Warangal+,+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334582c00ebf0d:0x38245bbb43982876!8m2!3d17.9991808!4d79.5599765!16s%2Fg%2F11s_y_f933!19sChIJDb8OwIJFMzoRdiiYQ7tbJDg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Matrika+Fertility+Center+-+Best+Fertility+Centre+in+Hanamkonda,+Warangal+,+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334582c00ebf0d:0x38245bbb43982876!8m2!3d17.9991808!4d79.5599765!16s%2Fg%2F11s_y_f933!19sChIJDb8OwIJFMzoRdiiYQ7tbJDg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9991808,
+      "lng": 79.5599765,
+      "label": "Matrika Fertility Center - Best Fertility Centre in Hanamkonda, Warangal , Best IVF Centre in Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maxcare-hospital-hanakonda-hanamkonda",
+    "name": "Maxcare Hospital Hanakonda",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Maxcare Hospital Hanakonda brings together specialists for General Surgery In Warangal. Its infrastructure includes Google rating 3.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-1-236, 6-1-121, 6-1-121/A, B,6-1- 121/1, 2 Kancharakunta, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "2 Kancharakunta",
+    "landmark": "6-1-121/A",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Maxcare+Hospital+Hanakonda/data=!4m7!3m6!1s0x3a3345815ae5e585:0x6be092521fde22e3!8m2!3d18.0074484!4d79.5653732!16s%2Fg%2F11mhhy6239!19sChIJheXlWoFFMzoR4yLeH1KS4Gs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maxcare+Hospital+Hanakonda/data=!4m7!3m6!1s0x3a3345815ae5e585:0x6be092521fde22e3!8m2!3d18.0074484!4d79.5653732!16s%2Fg%2F11mhhy6239!19sChIJheXlWoFFMzoR4yLeH1KS4Gs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0074484,
+      "lng": 79.5653732,
+      "label": "Maxcare Hospital Hanakonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicare-general-hospital-warangal",
+    "name": "Medicare general hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Warangal, Medicare general hospital delivers integrated care across General Surgery In Warangal. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "medicarehospitalwarangal108@gmail.com",
+    "phone": "+91 82828 88108",
+    "alternatePhone": "087024 20427",
+    "website": "https://medicaregeneralhospital.in/",
+    "address": "h.no-17, Rajiv Nagar, 2-850/142, behind medicare hospital, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "behind medicare hospital",
+    "landmark": "2-850/142",
+    "emergencyContact": "+91 82828 88108",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/medicarehospitalwarangal/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/medicarehospitalwarangal/",
+    "linkedin": "https://www.linkedin.com/company/medicare-general-hospital-warangal",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicare+general+hospital/@17.971645,79.5787161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345083499c74f:0xa7cc3e8616c82853!8m2!3d17.971645!4d79.5787161!16s%2Fg%2F11l5vqz0xr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicare+general+hospital/@17.971645,79.5787161,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345083499c74f:0xa7cc3e8616c82853!8m2!3d17.971645!4d79.5787161!16s%2Fg%2F11l5vqz0xr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.971645,
+      "lng": 79.5787161,
+      "label": "Medicare general hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-warangal-hanamkonda",
+    "name": "Medicover Hospitals - Best Hospital in Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicover Hospitals - Best Hospital in Warangal is a prominent hospital in Hanamkonda, known for structured tertiary care across Urologist Surgery In Warangal. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@medicoverhospitals.in",
+    "phone": "0406 833 4455",
+    "alternatePhone": "+91 70754 93806",
+    "website": "https://www.medicoverhospitals.in/hospitals/telangana/warangal/?utm_source=google&utm_medium=organic&utm_campaign=gmb-warangal",
+    "address": "Medicover hospital, Nexa service center, Opp:, Hunter Rd, Rahmath Nagar, Shyampet, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Shyampet",
+    "landmark": "Opp:",
+    "emergencyContact": "+91 70754 93806",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MedicoverHospitals/",
+    "twitter": "https://x.com/medicoverin/",
+    "instagram": "https://www.instagram.com/medicoverhospitals/",
+    "linkedin": "https://www.linkedin.com/company/medicoverhospitals/",
+    "youtube": "https://www.youtube.com/channel/UCmGEBYC8PHToDss_qFaZPUA",
+    "specialties": [
+      "Urologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Warangal/data=!4m7!3m6!1s0x3a33456640fb177b:0x8097f0212c5aeaac!8m2!3d17.9836321!4d79.5778649!16s%2Fg%2F11ks459jyz!19sChIJexf7QGZFMzoRrOpaLCHwl4A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Warangal/data=!4m7!3m6!1s0x3a33456640fb177b:0x8097f0212c5aeaac!8m2!3d17.9836321!4d79.5778649!16s%2Fg%2F11ks459jyz!19sChIJexf7QGZFMzoRrOpaLCHwl4A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9836321,
+      "lng": 79.5778649,
+      "label": "Medicover Hospitals - Best Hospital in Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mgm-hospital-warangal-warangal",
+    "name": "MGM Hospital Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Warangal, MGM Hospital Warangal delivers integrated care across General Surgery In Warangal. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://health.telangana.gov.in/",
+    "address": "MGM Rd, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Warangal",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MGM+Hospital+Warangal/data=!4m7!3m6!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432!16s%2Fm%2F05q8p49!19sChIJUeSPBBBFMzoRL3a6ikwr6mc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MGM+Hospital+Warangal/data=!4m7!3m6!1s0x3a334510048fe451:0x67ea2b4c8aba762f!8m2!3d17.9903134!4d79.5928432!16s%2Fm%2F05q8p49!19sChIJUeSPBBBFMzoRL3a6ikwr6mc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9903134,
+      "lng": 79.5928432,
+      "label": "MGM Hospital Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mokshita-hospitals-warangal",
+    "name": "Mokshita Hospitals",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mokshita Hospitals has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Orthopedic Surgery In Warangal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097043 04310",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.No. 6 - 4 -1, near Prasannanjaneya swamy Temple, Brahmanawada, Hanamkonda, Warangal, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Hanamkonda",
+    "landmark": "near Prasannanjaneya swamy Temple, Brahmanawada, Hanamkonda, Warangal, Telangana 506011",
+    "emergencyContact": "097043 04310",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mokshita+Hospitals/data=!4m7!3m6!1s0x3a334526e6f0c5ff:0x270fe53864b05f6a!8m2!3d18.0024048!4d79.5720258!16s%2Fg%2F11s535rq0r!19sChIJ_8Xw5iZFMzoRal-wZDjlDyc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mokshita+Hospitals/data=!4m7!3m6!1s0x3a334526e6f0c5ff:0x270fe53864b05f6a!8m2!3d18.0024048!4d79.5720258!16s%2Fg%2F11s535rq0r!19sChIJ_8Xw5iZFMzoRal-wZDjlDyc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0024048,
+      "lng": 79.5720258,
+      "label": "Mokshita Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mourya-dental-hospital-warangal",
+    "name": "Mourya Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mourya Dental Hospital is a prominent dental clinic in Warangal, known for structured tertiary care across Oral Surgery In Warangal. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077803 95758",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H No, 2-1-45, Gopalpur Rd, Saraswathi Nagar, Gopalapuram, Warangal, Hanamkonda, Telangana 506009",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506009",
+    "locality": "Gopalapuram",
+    "landmark": "Gopalpur Rd",
+    "emergencyContact": "077803 95758",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mourya+Dental+Hospital/data=!4m7!3m6!1s0x3a334fafa0feadbd:0x18559c9a029a263d!8m2!3d18.0198516!4d79.5447371!16s%2Fg%2F11s7517wpb!19sChIJva3-oK9PMzoRPSaaApqcVRg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mourya+Dental+Hospital/data=!4m7!3m6!1s0x3a334fafa0feadbd:0x18559c9a029a263d!8m2!3d18.0198516!4d79.5447371!16s%2Fg%2F11s7517wpb!19sChIJva3-oK9PMzoRPSaaApqcVRg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0198516,
+      "lng": 79.5447371,
+      "label": "Mourya Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mourya-hospital-warangal",
+    "name": "Mourya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Mourya Hospital for its strength in Orthopedic Surgery In Warangal. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094403 25070",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11-26-193, M.G. Road, near Vaartha Office, Auto Nagar, Kothawada, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Kothawada",
+    "landmark": "near Vaartha Office, Auto Nagar, Kothawada, Warangal, Telangana 506007",
+    "emergencyContact": "094403 25070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Mourya+Hospital/data=!4m7!3m6!1s0x3a33451a92ba85c1:0x383146bb16551b65!8m2!3d17.9902234!4d79.5955519!16s%2Fg%2F1ptyz3cs_!19sChIJwYW6khpFMzoRZRtVFrtGMTg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mourya+Hospital/data=!4m7!3m6!1s0x3a33451a92ba85c1:0x383146bb16551b65!8m2!3d17.9902234!4d79.5955519!16s%2Fg%2F1ptyz3cs_!19sChIJwYW6khpFMzoRZRtVFrtGMTg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9902234,
+      "lng": 79.5955519,
+      "label": "Mourya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mythri-sri-fertility-centre-warangal-warangal",
+    "name": "Mythri Sri fertility centre Warangal",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mythri Sri fertility centre Warangal is a prominent fertility clinic in Warangal, known for structured tertiary care across IVF In Warangal and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095021 55634",
+    "alternatePhone": "+91 85200 99863",
+    "website": "https://mythrifertility.com/",
+    "address": "FIRST FLOOR, Ambedkar Circle, Balasamudram, Hanamkonda, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Hanamkonda",
+    "landmark": "Balasamudram",
+    "emergencyContact": "+91 85200 99863",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/mythrisrifertilitycentre",
+    "twitter": "https://x.com/mythrifertility",
+    "instagram": "https://www.instagram.com/mythrisri_fertility_centre/reels/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@MythrisriFertilityCentre",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mythri+Sri+fertility+centre+Warangal/data=!4m7!3m6!1s0x3a3345d252b61fd9:0x5c11cd463ffa9e3f!8m2!3d18.006208!4d79.5577968!16s%2Fg%2F11wgr39nrx!19sChIJ2R-2UtJFMzoRP576P0bNEVw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mythri+Sri+fertility+centre+Warangal/data=!4m7!3m6!1s0x3a3345d252b61fd9:0x5c11cd463ffa9e3f!8m2!3d18.006208!4d79.5577968!16s%2Fg%2F11wgr39nrx!19sChIJ2R-2UtJFMzoRP576P0bNEVw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.006208,
+      "lng": 79.5577968,
+      "label": "Mythri Sri fertility centre Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephron-kidney-centre-warangal",
+    "name": "Nephron Kidney Centre",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nephron Kidney Centre is a prominent clinic in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal and Kidney Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079014 89723",
+    "alternatePhone": "",
+    "website": "https://nephronkidneycentre.com/",
+    "address": "No.01, 01, Main Rd, Bank Colony, Kothawada, Warangal, Telangana 506006",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Kothawada",
+    "landmark": "Main Rd",
+    "emergencyContact": "079014 89723",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Nephron-Kidney-Centre-2148769758722503/",
+    "twitter": "https://twitter.com/NephronKC",
+    "instagram": "https://www.instagram.com/nephronkidneycenter/",
+    "linkedin": "https://www.linkedin.com/company/nephron-kidney-centre",
+    "youtube": "https://www.youtube.com/channel/UCOCbR6-7bLpPX0tS1GADdDA",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nephron+Kidney+Centre/data=!4m7!3m6!1s0x3a334502a9e9f1cb:0x16df4658b775aea5!8m2!3d17.9932478!4d79.6054953!16s%2Fg%2F11sbq_knnq!19sChIJy_HpqQJFMzoRpa51t1hG3xY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nephron+Kidney+Centre/data=!4m7!3m6!1s0x3a334502a9e9f1cb:0x16df4658b775aea5!8m2!3d17.9932478!4d79.6054953!16s%2Fg%2F11sbq_knnq!19sChIJy_HpqQJFMzoRpa51t1hG3xY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9932478,
+      "lng": 79.6054953,
+      "label": "Nephron Kidney Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephron-kidney-centre-hanamkonda-warangal-kidney-specialist-best-urology-and-andrology-laser-kidney-stone-surgery-hanamkonda",
+    "name": "Nephron Kidney Centre - Hanamkonda/Warangal - Kidney Specialist | Best Urology & Andrology | Laser Kidney Stone Surgery",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nephron Kidney Centre - Hanamkonda/Warangal - Kidney Specialist | Best Urology & Andrology | Laser Kidney Stone Surgery is a prominent urology clinic in Hanamkonda, known for structured tertiary care across Urologist Surgery In Warangal and Kidney Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079014 89723",
+    "alternatePhone": "",
+    "website": "https://www.nephronkidneycentre.com/",
+    "address": "2nd Floor, Ranga Rao Complex, Pinjerla St, Chowrastha, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Pinjerla St",
+    "emergencyContact": "079014 89723",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Nephron-Kidney-Centre-2148769758722503/",
+    "twitter": "https://twitter.com/NephronKC",
+    "instagram": "https://www.instagram.com/nephronkidneycenter/",
+    "linkedin": "https://www.linkedin.com/company/nephron-kidney-centre",
+    "youtube": "https://www.youtube.com/channel/UCOCbR6-7bLpPX0tS1GADdDA",
+    "specialties": [
+      "Urologist Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nephron+Kidney+Centre+-+Hanamkonda%2FWarangal+-+Kidney+Specialist+%7C+Best+Urology+%26+Andrology+%7C+Laser+Kidney+Stone+Surgery/data=!4m7!3m6!1s0x3a334582952b62ef:0x6f8537704f8e6de8!8m2!3d18.0042098!4d79.5700019!16s%2Fg%2F11hbr7x4ht!19sChIJ72IrlYJFMzoR6G2OT3A3hW8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nephron+Kidney+Centre+-+Hanamkonda%2FWarangal+-+Kidney+Specialist+%7C+Best+Urology+%26+Andrology+%7C+Laser+Kidney+Stone+Surgery/data=!4m7!3m6!1s0x3a334582952b62ef:0x6f8537704f8e6de8!8m2!3d18.0042098!4d79.5700019!16s%2Fg%2F11hbr7x4ht!19sChIJ72IrlYJFMzoR6G2OT3A3hW8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0042098,
+      "lng": 79.5700019,
+      "label": "Nephron Kidney Centre - Hanamkonda/Warangal - Kidney Specialist | Best Urology & Andrology | Laser Kidney Stone Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephroplus-dialysis-clinic-in-warangal-warangal",
+    "name": "Nephroplus Dialysis Clinic in Warangal",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Nephroplus Dialysis Clinic in Warangal for its strength in Kidney Transplant Surgery In Warangal and Dialysis Center. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://nephroplus.com/",
+    "address": "Revuri's RRR Arcade, Vijaya Theater Road, Chowrastha, Chowrasta, Kakaji Nagar Colony, Hanamkonda, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Hanamkonda",
+    "landmark": "Chowrastha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nephroplus+Dialysis+Clinic+in+Warangal/data=!4m7!3m6!1s0x3a3345a569f3a3ad:0x367270f87eb96231!8m2!3d18.0040576!4d79.5700086!16s%2Fg%2F11m5zbvkfz!19sChIJraPzaaVFMzoRMWK5fvhwcjY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nephroplus+Dialysis+Clinic+in+Warangal/data=!4m7!3m6!1s0x3a3345a569f3a3ad:0x367270f87eb96231!8m2!3d18.0040576!4d79.5700086!16s%2Fg%2F11m5zbvkfz!19sChIJraPzaaVFMzoRMWK5fvhwcjY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0040576,
+      "lng": 79.5700086,
+      "label": "Nephroplus Dialysis Clinic in Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nihira-hospital-fever-diabetes-and-emergency-care-kashibugga-warangal",
+    "name": "Nihira Hospital | Fever, Diabetes & Emergency Care Kashibugga",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nihira Hospital | Fever, Diabetes & Emergency Care Kashibugga has built a strong reputation in Warangal for multidisciplinary treatment pathways covering General Surgery In Warangal and Diabetology. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087029 50046",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11-21-16, Grain Market Road, beside SHIVALAYAM, Kashibugga, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Kashibugga",
+    "landmark": "beside SHIVALAYAM, Kashibugga, Warangal, Telangana 506002",
+    "emergencyContact": "087029 50046",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Nihira+Hospital+%7C+Fever,+Diabetes+%26+Emergency+Care+Kashibugga/data=!4m7!3m6!1s0x3a334582c9011347:0x5c9dc66a8ac536f4!8m2!3d17.9843756!4d79.6116583!16s%2Fg%2F11qgdppx8j!19sChIJRxMByYJFMzoR9DbFimrGnVw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nihira+Hospital+%7C+Fever,+Diabetes+%26+Emergency+Care+Kashibugga/data=!4m7!3m6!1s0x3a334582c9011347:0x5c9dc66a8ac536f4!8m2!3d17.9843756!4d79.6116583!16s%2Fg%2F11qgdppx8j!19sChIJRxMByYJFMzoR9DbFimrGnVw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9843756,
+      "lng": 79.6116583,
+      "label": "Nihira Hospital | Fever, Diabetes & Emergency Care Kashibugga",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nnr-hospital-warangal",
+    "name": "NNR Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NNR Hospital has built a strong reputation in Warangal for multidisciplinary treatment pathways covering General Surgery In Warangal. Its infrastructure includes Google rating 3.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087025 00897",
+    "alternatePhone": "",
+    "website": "",
+    "address": "10-5-33, Girmajipet Rd, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "Girmajipet",
+    "emergencyContact": "087025 00897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/NNR+Hospital/@17.9795492,79.6009221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334521ead0c33b:0x268f2ec812a7f898!8m2!3d17.9795492!4d79.6009221!16s%2Fg%2F1w2ys8yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NNR+Hospital/@17.9795492,79.6009221,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334521ead0c33b:0x268f2ec812a7f898!8m2!3d17.9795492!4d79.6009221!16s%2Fg%2F1w2ys8yn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9795492,
+      "lng": 79.6009221,
+      "label": "NNR Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-centre-in-hanamkonda-warangal-hanamkonda",
+    "name": "Nova IVF Fertility Center - Best IVF Centre in Hanamkonda, Warangal",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova IVF Fertility Center - Best IVF Centre in Hanamkonda, Warangal has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering IVF In Warangal and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@novaivffertility.com",
+    "phone": "080444 74566",
+    "alternatePhone": "80494 36666",
+    "website": "https://www.novaivffertility.com/ivf-centre/warangal/fertility-clinic-warangal?utm_source=GMB&utm_medium=organic",
+    "address": "3rd Floor, Om Jai Govind Complex, Kaloji Marg, near IDFC First Bank, beside SBI, Advocates Colony, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Nakkala Gutta",
+    "landmark": "near IDFC First Bank, beside SBI, Advocates Colony, Nakkala Gutta, Hanamkonda, Telangana 506001",
+    "emergencyContact": "80494 36666",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NovaIVFFertility/",
+    "twitter": "https://twitter.com/nova_ivf",
+    "instagram": "https://www.instagram.com/novaivffertility/",
+    "linkedin": "https://in.linkedin.com/company/nova-ivf-fertility",
+    "youtube": "https://www.youtube.com/c/NovaIVFFertility",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Hanamkonda,+Warangal/data=!4m7!3m6!1s0x3a334f883a96ea6d:0x35d81cfa8032e26a!8m2!3d17.9976729!4d79.5550462!16s%2Fg%2F11vzxrwd5c!19sChIJbeqWOohPMzoRauIygPoc2DU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Hanamkonda,+Warangal/data=!4m7!3m6!1s0x3a334f883a96ea6d:0x35d81cfa8032e26a!8m2!3d17.9976729!4d79.5550462!16s%2Fg%2F11vzxrwd5c!19sChIJbeqWOohPMzoRauIygPoc2DU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9976729,
+      "lng": 79.5550462,
+      "label": "Nova IVF Fertility Center - Best IVF Centre in Hanamkonda, Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oasis-fertility-best-ivf-centre-in-hanamkonda-hanamkonda",
+    "name": "Oasis Fertility - Best IVF Centre in Hanamkonda",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Oasis Fertility - Best IVF Centre in Hanamkonda for its strength in IVF In Warangal and Fertility Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078385 12542",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H-NO: 1, 3&4th Floor, 8-627, Depo X Rd, above Tanishq Jewellery, Roads, Ambedkar Circle, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Ambedkar Circle",
+    "landmark": "8-627",
+    "emergencyContact": "078385 12542",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334f6a02d26671:0x47bb5ebc86e310b7!8m2!3d18.006335!4d79.5580187!16s%2Fg%2F11l1r59dq3!19sChIJcWbSAmpPMzoRtxDjhrxeu0c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Hanamkonda/data=!4m7!3m6!1s0x3a334f6a02d26671:0x47bb5ebc86e310b7!8m2!3d18.006335!4d79.5580187!16s%2Fg%2F11l1r59dq3!19sChIJcWbSAmpPMzoRtxDjhrxeu0c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.006335,
+      "lng": 79.5580187,
+      "label": "Oasis Fertility - Best IVF Centre in Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oasis-fertility-best-ivf-centre-in-warangal-hanamkonda-warangal",
+    "name": "Oasis Fertility - Best IVF Centre in Warangal, Hanamkonda",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Warangal, Oasis Fertility - Best IVF Centre in Warangal, Hanamkonda delivers integrated care across IVF In Warangal and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "89513 94817",
+    "alternatePhone": "",
+    "website": "https://oasisindia.in/fertility-centres-warangal/hanumakonda/?utm_source=GBP&utm_medium=hanumakonda&utm_campaign=hanumakonda-GBP",
+    "address": "Third and Fourth Floor, Ambedkar Circle, House No 1, 8-627, Depo X Rd, above Tanishq Jewellery, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "above Tanishq Jewellery",
+    "landmark": "House No 1",
+    "emergencyContact": "89513 94817",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Warangal,+Hanamkonda/data=!4m7!3m6!1s0x3a3345f9f9efdd69:0xfe975dcb7f261fdd!8m2!3d18.006464!4d79.557919!16s%2Fg%2F11f4__61t_!19sChIJad3v-flFMzoR3R8mf8tdl_4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oasis+Fertility+-+Best+IVF+Centre+in+Warangal,+Hanamkonda/data=!4m7!3m6!1s0x3a3345f9f9efdd69:0xfe975dcb7f261fdd!8m2!3d18.006464!4d79.557919!16s%2Fg%2F11f4__61t_!19sChIJad3v-flFMzoR3R8mf8tdl_4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.006464,
+      "lng": 79.557919,
+      "label": "Oasis Fertility - Best IVF Centre in Warangal, Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "op-neuro-cure-pvt-ltd-hanamkonda",
+    "name": "OP NEURO CURE PVT LTD",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OP NEURO CURE PVT LTD has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering Neurosurgeon In Warangal and Neurosciences. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2H39+6W5, Bus Stand Road, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/OP+NEURO+CURE+PVT+LTD/data=!4m7!3m6!1s0x3a33453591339ce5:0x8ad720a2e1fc088a!8m2!3d18.0030088!4d79.5698626!16s%2Fg%2F11ptqqz121!19sChIJ5ZwzkTVFMzoRigj84aIg14o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OP+NEURO+CURE+PVT+LTD/data=!4m7!3m6!1s0x3a33453591339ce5:0x8ad720a2e1fc088a!8m2!3d18.0030088!4d79.5698626!16s%2Fg%2F11ptqqz121!19sChIJ5ZwzkTVFMzoRigj84aIg14o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0030088,
+      "lng": 79.5698626,
+      "label": "OP NEURO CURE PVT LTD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "origins-ivf-center-hanamkonda-hanamkonda",
+    "name": "Origins IVF Center Hanamkonda",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Hanamkonda, Origins IVF Center Hanamkonda delivers integrated care across IVF In Warangal and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "originsivf@gmail.com",
+    "phone": "087904 86090",
+    "alternatePhone": "+91 80059 80039",
+    "website": "http://www.originsivf.com/",
+    "address": "HNO 1-7-1765, 1-7-1504/1, Srinivas Nagar Rd, COLONY, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "Srinivas Nagar Rd",
+    "emergencyContact": "+91 80059 80039",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100091385291975",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/originsivf/",
+    "linkedin": "https://www.linkedin.com/company/originsivf",
+    "youtube": "https://www.youtube.com/@OriginsIVF",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Origins+IVF+Center+Hanamkonda/data=!4m7!3m6!1s0x3a33452ee1e5de45:0x198dad92bec539bb!8m2!3d17.9984643!4d79.5614338!16s%2Fg%2F11lsr5wh0p!19sChIJRd7l4S5FMzoRuznFvpKtjRk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Origins+IVF+Center+Hanamkonda/data=!4m7!3m6!1s0x3a33452ee1e5de45:0x198dad92bec539bb!8m2!3d17.9984643!4d79.5614338!16s%2Fg%2F11lsr5wh0p!19sChIJRd7l4S5FMzoRuznFvpKtjRk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9984643,
+      "lng": 79.5614338,
+      "label": "Origins IVF Center Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orugallugastro-warangal",
+    "name": "Orugallugastro",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Orugallugastro is a prominent hospital in Warangal, known for structured tertiary care across Liver Transplant Surgery In Warangal and Gastroenterology. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H.NO : 6-2-73/1 & 73/2/A/F1&2 Dharani complex, Kakaji colony line no :, 1, Warangal, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "1",
+    "landmark": "1",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Orugallugastro/data=!4m7!3m6!1s0x3a33450d451ceb31:0xce2fd4e67a07c297!8m2!3d18.004462!4d79.5684216!16s%2Fg%2F11t3cyr7zq!19sChIJMescRQ1FMzoRl8IHeubUL84?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Orugallugastro/data=!4m7!3m6!1s0x3a33450d451ceb31:0xce2fd4e67a07c297!8m2!3d18.004462!4d79.5684216!16s%2Fg%2F11t3cyr7zq!19sChIJMescRQ1FMzoRl8IHeubUL84?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.004462,
+      "lng": 79.5684216,
+      "label": "Orugallugastro",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parnika-ent-and-dental-hospital-warangal",
+    "name": "Parnika ENT & Dental Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parnika ENT & Dental Hospital is a prominent hospital in Warangal, known for structured tertiary care across General Surgery In Warangal. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099854 02030",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H No:9-6-58, Charbowli Cross, Jayaprakash Narayan Road, near Mahabubia High School, beside Petrol pump, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "beside Petrol pump",
+    "landmark": "near Mahabubia High School, beside Petrol pump, Warangal, Telangana 506002",
+    "emergencyContact": "099854 02030",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Parnika+ENT+%26+Dental+Hospital/@17.9841275,79.5993178,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334509d9eada61:0x6b0946db9cf7ffd!8m2!3d17.9841275!4d79.5993178!16s%2Fg%2F11sd70489n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parnika+ENT+%26+Dental+Hospital/@17.9841275,79.5993178,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334509d9eada61:0x6b0946db9cf7ffd!8m2!3d17.9841275!4d79.5993178!16s%2Fg%2F11sd70489n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9841275,
+      "lng": 79.5993178,
+      "label": "Parnika ENT & Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "partha-dental-clinic-hanamkonda-invisalign-provider-hanamkonda",
+    "name": "Partha Dental Clinic - Hanamkonda | దంత వైద్యశాల | Invisalign Provider",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Partha Dental Clinic - Hanamkonda | దంత వైద్యశాల | Invisalign Provider for its strength in Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "online@parthadental.com",
+    "phone": "089770 21661",
+    "alternatePhone": "+91 91217 10800",
+    "website": "https://parthadental.com/dental-skin-hair-clinic-hanamkonda/?utm_source=google&utm_medium=gmb&utm_campaign=hanamkonda",
+    "address": "Opp, Vijaya Theater Road, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "+91 91217 10800",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/parthadentalhair",
+    "twitter": "https://twitter.com/parthaclinics/",
+    "instagram": "https://www.instagram.com/parthadentalhair/",
+    "linkedin": "https://in.linkedin.com/company/parthadentalskinhair",
+    "youtube": "https://www.youtube.com/@ParthaDentalHair",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Hanamkonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider/@18.0035388,79.5694526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345829042bb1b:0x3c5c4370db4ef853!8m2!3d18.0035388!4d79.5694526!16s%2Fg%2F11c48s6rm4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Hanamkonda+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7C+Invisalign+Provider/@18.0035388,79.5694526,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345829042bb1b:0x3c5c4370db4ef853!8m2!3d18.0035388!4d79.5694526!16s%2Fg%2F11c48s6rm4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0035388,
+      "lng": 79.5694526,
+      "label": "Partha Dental Clinic - Hanamkonda | దంత వైద్యశాల | Invisalign Provider",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "partha-dental-clinic-warangal-invisalign-provider-aligners-braces-root-canal-and-dental-implants-warangal",
+    "name": "Partha Dental Clinic - Warangal | దంత వైద్యశాల |Invisalign Provider | Aligners, Braces, Root Canal & Dental Implants",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, Partha Dental Clinic - Warangal | దంత వైద్యశాల |Invisalign Provider | Aligners, Braces, Root Canal & Dental Implants offers coordinated hospital care with major focus on Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "online@parthadental.com",
+    "phone": "072070 41441",
+    "alternatePhone": "+91 91217 10800",
+    "website": "https://parthadental.com/dental-skin-hair-clinic-warangal/?utm_source=google&utm_medium=gmb&utm_campaign=warangal",
+    "address": "Warangal Central, above ICICI Bank, beside SBI Zonal Office, Nandayya Gari Compound, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "beside SBI Zonal Office, Nandayya Gari Compound, Girmajipet, Warangal, Telangana 506002",
+    "emergencyContact": "+91 91217 10800",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/parthadentalhair",
+    "twitter": "https://twitter.com/parthaclinics/",
+    "instagram": "https://www.instagram.com/parthadentalhair/",
+    "linkedin": "https://in.linkedin.com/company/parthadentalskinhair",
+    "youtube": "https://www.youtube.com/@ParthaDentalHair",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Warangal+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7CInvisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants/data=!4m7!3m6!1s0x3a334518a84ee0df:0xb2c888e66b9194d!8m2!3d17.9809996!4d79.5991131!16s%2Fg%2F11hd9n_tys!19sChIJ3-BOqBhFMzoRTRm5Zo6ILAs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Partha+Dental+Clinic+-+Warangal+%7C+%E0%B0%A6%E0%B0%82%E0%B0%A4+%E0%B0%B5%E0%B1%88%E0%B0%A6%E0%B1%8D%E0%B0%AF%E0%B0%B6%E0%B0%BE%E0%B0%B2+%7CInvisalign+Provider+%7C+Aligners,+Braces,+Root+Canal+%26+Dental+Implants/data=!4m7!3m6!1s0x3a334518a84ee0df:0xb2c888e66b9194d!8m2!3d17.9809996!4d79.5991131!16s%2Fg%2F11hd9n_tys!19sChIJ3-BOqBhFMzoRTRm5Zo6ILAs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9809996,
+      "lng": 79.5991131,
+      "label": "Partha Dental Clinic - Warangal | దంత వైద్యశాల |Invisalign Provider | Aligners, Braces, Root Canal & Dental Implants",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "piles-clinic-hanamkonda-hanamkonda",
+    "name": "Piles Clinic Hanamkonda",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Piles Clinic Hanamkonda for its strength in General Surgery In Warangal. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078424 27932",
+    "alternatePhone": "",
+    "website": "https://skipline.in/online-appointments?uniqueId=222",
+    "address": "sigma hospital, H..no ,OppNew bustand road, C/o, Bustand circle, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "OppNew bustand road",
+    "emergencyContact": "078424 27932",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Piles+Clinic+Hanamkonda/data=!4m7!3m6!1s0x3a334580f0c301a5:0x6992db3d223711e5!8m2!3d18.0022435!4d79.5667787!16s%2Fg%2F11hd4vhn68!19sChIJpQHD8IBFMzoR5RE3Ij3bkmk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Piles+Clinic+Hanamkonda/data=!4m7!3m6!1s0x3a334580f0c301a5:0x6992db3d223711e5!8m2!3d18.0022435!4d79.5667787!16s%2Fg%2F11hd4vhn68!19sChIJpQHD8IBFMzoR5RE3Ij3bkmk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0022435,
+      "lng": 79.5667787,
+      "label": "Piles Clinic Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "piles-clinic-warangal-warangal",
+    "name": "Piles Clinic Warangal",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Piles Clinic Warangal is a prominent medical clinic in Warangal, known for structured tertiary care across Liver Transplant Surgery In Warangal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090646 14311",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Desaipet Rd, Krishna Nagar, LB Nagar, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "LB Nagar",
+    "landmark": "LB Nagar",
+    "emergencyContact": "090646 14311",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Piles+Clinic+Warangal/data=!4m7!3m6!1s0x3a3345fbe1b67a91:0xd287c64603346b96!8m2!3d17.9890764!4d79.6027964!16s%2Fg%2F11t4bt72kb!19sChIJkXq24ftFMzoRlms0A0bGh9I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Piles+Clinic+Warangal/data=!4m7!3m6!1s0x3a3345fbe1b67a91:0xd287c64603346b96!8m2!3d17.9890764!4d79.6027964!16s%2Fg%2F11t4bt72kb!19sChIJkXq24ftFMzoRlms0A0bGh9I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9890764,
+      "lng": 79.6027964,
+      "label": "Piles Clinic Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pramoda-hospital-warangal",
+    "name": "Pramoda Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pramoda Hospital is a prominent general hospital in Warangal, known for structured tertiary care across General Surgery In Warangal. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "085209 83050",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kaloji Marg, beside CANARA BANK, Balasamudram, Warangal, Hanamkonda, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "beside CANARA BANK, Balasamudram, Warangal, Hanamkonda, Telangana 506001",
+    "emergencyContact": "085209 83050",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Pramoda+Hospital/data=!4m7!3m6!1s0x3a334f8103972ed9:0x780aaf0d896e661a!8m2!3d17.9984438!4d79.5580811!16s%2Fg%2F1vyn28nb!19sChIJ2S6XA4FPMzoRGmZuiQ2vCng?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pramoda+Hospital/data=!4m7!3m6!1s0x3a334f8103972ed9:0x780aaf0d896e661a!8m2!3d17.9984438!4d79.5580811!16s%2Fg%2F1vyn28nb!19sChIJ2S6XA4FPMzoRGmZuiQ2vCng?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9984438,
+      "lng": 79.5580811,
+      "label": "Pramoda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prathima-cancer-institute-warangal-damera",
+    "name": "Prathima Cancer Institute | Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Damera, Prathima Cancer Institute | Warangal delivers integrated care across Liver Transplant Surgery In Warangal. With public-facing highlights like Google rating 4.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093451 08108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Arepally - Paidipally Road, Cross Road, Damera, Telangana 506006",
+    "city": "Damera",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Cross Road",
+    "landmark": "Damera",
+    "emergencyContact": "093451 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Prathima+Cancer+Institute+%7C+Warangal/@18.072383,79.6560462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334557b1ac2735:0x346b7c156aad7c2b!8m2!3d18.072383!4d79.6560462!16s%2Fg%2F11f5k2h_fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prathima+Cancer+Institute+%7C+Warangal/@18.072383,79.6560462,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334557b1ac2735:0x346b7c156aad7c2b!8m2!3d18.072383!4d79.6560462!16s%2Fg%2F11f5k2h_fg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.072383,
+      "lng": 79.6560462,
+      "label": "Prathima Cancer Institute | Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prime-care-hospital-hanamkonda",
+    "name": "Prime Care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Prime Care Hospital offers coordinated hospital care with major focus on General Surgery In Warangal. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090056 04900",
+    "alternatePhone": "",
+    "website": "http://primecarehospitals24x7.com/",
+    "address": "5-9-211, opp. Skill Stork Early learning Campus, Kishanpura, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kishanpura",
+    "landmark": "Kishanpura",
+    "emergencyContact": "090056 04900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prime+Care+Hospital/data=!4m7!3m6!1s0x3a3345737a3b58bd:0x121bb9cad70efb3b!8m2!3d18.0117319!4d79.5600228!16s%2Fg%2F11lf4g4qxg!19sChIJvVg7enNFMzoRO_sO18q5GxI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prime+Care+Hospital/data=!4m7!3m6!1s0x3a3345737a3b58bd:0x121bb9cad70efb3b!8m2!3d18.0117319!4d79.5600228!16s%2Fg%2F11lf4g4qxg!19sChIJvVg7enNFMzoRO_sO18q5GxI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0117319,
+      "lng": 79.5600228,
+      "label": "Prime Care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "raghu-hospital-hanamkonda",
+    "name": "Raghu Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Hanamkonda, Raghu Hospital delivers integrated care across General Surgery In Warangal. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090301 77990",
+    "alternatePhone": "",
+    "website": "http://raghuhospital.my.canva.site/about",
+    "address": "Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "090301 77990",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Raghu+Hospital/data=!4m7!3m6!1s0x3a334582f50abc7f:0x685e3e094b2414d5!8m2!3d18.0044568!4d79.5688951!16s%2Fg%2F11f53mhy7l!19sChIJf7wK9YJFMzoR1RQkSwk-Xmg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Raghu+Hospital/data=!4m7!3m6!1s0x3a334582f50abc7f:0x685e3e094b2414d5!8m2!3d18.0044568!4d79.5688951!16s%2Fg%2F11f53mhy7l!19sChIJf7wK9YJFMzoR1RQkSwk-Xmg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0044568,
+      "lng": 79.5688951,
+      "label": "Raghu Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rainbow-children-s-hospital-best-pediatric-hospital-by-prashanthi-hanamkonda",
+    "name": "Rainbow Children's Hospital - Best Pediatric Hospital by Prashanthi",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Rainbow Children's Hospital - Best Pediatric Hospital by Prashanthi offers coordinated hospital care with major focus on Kidney Transplant Surgery In Warangal and Women and Child Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "queries@rainbowhospitals.in",
+    "phone": "080452 34422",
+    "alternatePhone": "79970 79970",
+    "website": "https://www.rainbowhospitals.in/our-centre/warangal/warangal",
+    "address": "7-2-147, Machili Bazar Rd, Machili Bazar, Brahmanawada, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Brahmanawada",
+    "landmark": "Machili Bazar",
+    "emergencyContact": "79970 79970",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rainbowchildrenshospitals/",
+    "twitter": "https://twitter.com/RCH_India?t=7y-Tq_FTQ4cfPf8smLnYUg&s=08",
+    "instagram": "https://www.instagram.com/rainbowchildrenshospital/",
+    "linkedin": "https://www.linkedin.com/company/rainbow-hospitals/",
+    "youtube": "https://www.youtube.com/c/RainbowChildren%E2%80%99sHospital",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+by+Prashanthi/data=!4m7!3m6!1s0x3a3345cd0fc294e5:0xa732e7214b17a6bc!8m2!3d18.0019475!4d79.5728741!16s%2Fg%2F11xcg_v656!19sChIJ5ZTCD81FMzoRvKYXSyHnMqc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rainbow+Children%27s+Hospital+-+Best+Pediatric+Hospital+by+Prashanthi/data=!4m7!3m6!1s0x3a3345cd0fc294e5:0xa732e7214b17a6bc!8m2!3d18.0019475!4d79.5728741!16s%2Fg%2F11xcg_v656!19sChIJ5ZTCD81FMzoRvKYXSyHnMqc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0019475,
+      "lng": 79.5728741,
+      "label": "Rainbow Children's Hospital - Best Pediatric Hospital by Prashanthi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajiv-ranjan-chinta-neuro-center-ss-hanamkonda",
+    "name": "Rajiv Ranjan chinta neuro center-SS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Rajiv Ranjan chinta neuro center-SS brings together specialists for Neurosurgeon In Warangal and Neurosciences. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-8-81,sainagar, near swimming pool, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "near swimming pool, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Rajiv+Ranjan+chinta+neuro+center-SS/data=!4m7!3m6!1s0x3a33450023af5a35:0x4b951319df92860f!8m2!3d18.0051823!4d79.5611736!16s%2Fg%2F11whs9d24h!19sChIJNVqvIwBFMzoRD4aS3xkTlUs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajiv+Ranjan+chinta+neuro+center-SS/data=!4m7!3m6!1s0x3a33450023af5a35:0x4b951319df92860f!8m2!3d18.0051823!4d79.5611736!16s%2Fg%2F11whs9d24h!19sChIJNVqvIwBFMzoRD4aS3xkTlUs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0051823,
+      "lng": 79.5611736,
+      "label": "Rajiv Ranjan chinta neuro center-SS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramakrishna-hospitals-warangal",
+    "name": "Ramakrishna Hospitals",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Ramakrishna Hospitals brings together specialists for Spine Surgery In Warangal. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "ramakrishnahospitalsofficial@gmail.com",
+    "phone": "077028 22833",
+    "alternatePhone": "",
+    "website": "https://www.ramakrishnahospitals.com/",
+    "address": "Beside: Vijetha Diagnostics, 6-2-299, Near: Vijaya Talkies Hanuman, Padmakshi Temple Road, Hanamkonda, Warangal, Telangana 506011",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Hanamkonda",
+    "landmark": "Near: Vijaya Talkies Hanuman",
+    "emergencyContact": "077028 22833",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ramakrishnahospitals/",
+    "twitter": "https://x.com/rkhospitals",
+    "instagram": "https://www.instagram.com/ramakrishnahospitals/",
+    "linkedin": "https://www.linkedin.com/company/ramakrishnahospitals",
+    "youtube": "https://www.youtube.com/@Ramakrishna_Hospitals/",
+    "specialties": [
+      "Spine Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ramakrishna+Hospitals/data=!4m7!3m6!1s0x3a3345e0ed46b05d:0x832afeba746e58e2!8m2!3d18.0030482!4d79.5698817!16s%2Fg%2F11fngz1r4b!19sChIJXbBG7eBFMzoR4lhudLr-KoM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramakrishna+Hospitals/data=!4m7!3m6!1s0x3a3345e0ed46b05d:0x832afeba746e58e2!8m2!3d18.0030482!4d79.5698817!16s%2Fg%2F11fngz1r4b!19sChIJXbBG7eBFMzoR4lhudLr-KoM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0030482,
+      "lng": 79.5698817,
+      "label": "Ramakrishna Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramesh-hospital-hanamkonda",
+    "name": "Ramesh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Ramesh Hospital for its strength in General Surgery In Warangal. Hospital capacity markers such as Google rating 3.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087025 52797",
+    "alternatePhone": "98480 54321",
+    "website": "http://www.rameshhospitals.com/",
+    "address": "6-2-40, 3rd lane, Vijaya Theater Road, near SR Girls college, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "near SR Girls college, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "98480 54321",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rameshhospitals",
+    "twitter": "https://twitter.com/AsterRamesh",
+    "instagram": "https://www.instagram.com/asterrameshhospitals/",
+    "linkedin": "https://www.linkedin.com/company/ramesh-hospitals/",
+    "youtube": "https://www.youtube.com/channel/UC2KXe8qzlPs--brCyINdJTg",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ramesh+Hospital/@18.0044672,79.5682841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33453c2254e9e5:0xb5c9109a2bdfc95b!8m2!3d18.0044672!4d79.5682841!16s%2Fg%2F11llfpv7cq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramesh+Hospital/@18.0044672,79.5682841,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33453c2254e9e5:0xb5c9109a2bdfc95b!8m2!3d18.0044672!4d79.5682841!16s%2Fg%2F11llfpv7cq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0044672,
+      "lng": 79.5682841,
+      "label": "Ramesh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "relief-hospital-prathima-relief-institute-of-medical-sciences-warangal",
+    "name": "Relief Hospital ( Prathima Relief Institute of Medical Sciences )",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Warangal, Relief Hospital ( Prathima Relief Institute of Medical Sciences ) delivers integrated care across Heart Surgery In Warangal. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@prims.com",
+    "phone": "091657 75555",
+    "alternatePhone": "+91 91117 71188",
+    "website": "https://www.primswarangal.com/",
+    "address": "Sahasra Nagar Ayyappa Swamy Temple, Mulugu Rd, Warangal, Telangana 506006",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Mulugu Rd",
+    "landmark": "Warangal",
+    "emergencyContact": "+91 91117 71188",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/primswarangal",
+    "twitter": "https://twitter.com/",
+    "instagram": "https://www.instagram.com/prims_warangal/",
+    "linkedin": "https://www.linkedin.com/",
+    "youtube": "https://youtube.com/@PrathimaHospitals",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Relief+Hospital+%28+Prathima+Relief+Institute+of+Medical+Sciences+%29/data=!4m7!3m6!1s0x3a3345a836a60171:0xacbbb3e5f921b8ac!8m2!3d18.0309293!4d79.6070803!16s%2Fg%2F11k9f1k6pr!19sChIJcQGmNqhFMzoRrLgh-eWzu6w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Relief+Hospital+%28+Prathima+Relief+Institute+of+Medical+Sciences+%29/data=!4m7!3m6!1s0x3a3345a836a60171:0xacbbb3e5f921b8ac!8m2!3d18.0309293!4d79.6070803!16s%2Fg%2F11k9f1k6pr!19sChIJcQGmNqhFMzoRrLgh-eWzu6w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0309293,
+      "lng": 79.6070803,
+      "label": "Relief Hospital ( Prathima Relief Institute of Medical Sciences )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "renova-bannu-hospitals-best-cancer-hospital-warangal-warangal",
+    "name": "Renova Bannu Hospitals | Best Cancer Hospital Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, Renova Bannu Hospitals | Best Cancer Hospital Warangal offers coordinated hospital care with major focus on Oncologist Surgery In Warangal. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "info@renovahospitals.com",
+    "phone": "072070 68885",
+    "alternatePhone": "+91 99123 41701",
+    "website": "https://renovahospitals.com/",
+    "address": "3-16-334, Mulugu X road, Sp road, Vidya Nagar, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Vidya Nagar",
+    "landmark": "Sp road",
+    "emergencyContact": "+91 99123 41701",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/renovahospitals/",
+    "twitter": "https://x.com/renovahospitals",
+    "instagram": "https://www.instagram.com/renova_hospitals/",
+    "linkedin": "https://in.linkedin.com/company/renova-hospitals",
+    "youtube": "https://www.youtube.com/@renovahospitals",
+    "specialties": [
+      "Oncologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Renova+Bannu+Hospitals+%7C+Best+Cancer+Hospital+Warangal/data=!4m7!3m6!1s0x3a334fe82530ad4d:0xe1fcee30f5c09bfd!8m2!3d18.0012558!4d79.5824277!16s%2Fg%2F11yc8gcvgf!19sChIJTa0wJehPMzoR_ZvA9TDu_OE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Renova+Bannu+Hospitals+%7C+Best+Cancer+Hospital+Warangal/data=!4m7!3m6!1s0x3a334fe82530ad4d:0xe1fcee30f5c09bfd!8m2!3d18.0012558!4d79.5824277!16s%2Fg%2F11yc8gcvgf!19sChIJTa0wJehPMzoR_ZvA9TDu_OE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0012558,
+      "lng": 79.5824277,
+      "label": "Renova Bannu Hospitals | Best Cancer Hospital Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "riva-skin-and-plastic-surgery-hanamkonda",
+    "name": "RiVa Skin And Plastic Surgery",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RiVa Skin And Plastic Surgery has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085000 20332",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2-5-8, Old Bus Depot Rd, Ramnagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Ramnagar",
+    "landmark": "Ramnagar",
+    "emergencyContact": "085000 20332",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/RiVa+Skin+And+Plastic+Surgery/data=!4m7!3m6!1s0x3a334f553b145a47:0x1315643c461f58b5!8m2!3d18.0059881!4d79.5557732!16s%2Fg%2F11nx5hvy8m!19sChIJR1oUO1VPMzoRtVgfRjxkFRM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RiVa+Skin+And+Plastic+Surgery/data=!4m7!3m6!1s0x3a334f553b145a47:0x1315643c461f58b5!8m2!3d18.0059881!4d79.5557732!16s%2Fg%2F11nx5hvy8m!19sChIJR1oUO1VPMzoRtVgfRjxkFRM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0059881,
+      "lng": 79.5557732,
+      "label": "RiVa Skin And Plastic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rohini-nursing-centre-hanamkonda",
+    "name": "Rohini nursing Centre",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Rohini nursing Centre offers coordinated hospital care with major focus on General Surgery In Warangal and Nursing Home. Hospital capacity markers such as Google rating 3.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Subedari, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Subedari",
+    "landmark": "Telangana 506001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rohini+nursing+Centre/data=!4m7!3m6!1s0x3a334f9b81b15ef1:0xfb7007159b7066e!8m2!3d17.9951081!4d79.5462624!16s%2Fg%2F1tg4v7z1!19sChIJ8V6xgZtPMzoRbga3WXEAtw8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rohini+nursing+Centre/data=!4m7!3m6!1s0x3a334f9b81b15ef1:0xfb7007159b7066e!8m2!3d17.9951081!4d79.5462624!16s%2Fg%2F1tg4v7z1!19sChIJ8V6xgZtPMzoRbga3WXEAtw8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9951081,
+      "lng": 79.5462624,
+      "label": "Rohini nursing Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-manasa-dental-clinic-best-advanced-dentist-in-hanamkonda-warangal-pediatric-dental-hospital-in-hanamkonda-warangal-hanamkonda",
+    "name": "Sai Manasa Dental Clinic Best Advanced Dentist in Hanamkonda Warangal | Pediatric Dental Hospital in Hanamkonda Warangal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Sai Manasa Dental Clinic Best Advanced Dentist in Hanamkonda Warangal | Pediatric Dental Hospital in Hanamkonda Warangal offers coordinated hospital care with major focus on Oral Surgery In Warangal. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "saimanasadentalclinic.hnk@gmail.com",
+    "phone": "062816 77760",
+    "alternatePhone": "",
+    "website": "https://www.saimanasadentalclinic.com/",
+    "address": "Lane, LIC Office, H.No: 1-8-457, Ekashila Park Road, beside Anil Electronics, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "beside Anil Electronics, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "062816 77760",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SaiManasadentalclinic?mibextid=ZbWKwL",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/saimanasadentalclinic?igsh=MW9yeDVkZjk2bW50cw==",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Manasa+Dental+Clinic+Best+Advanced+Dentist+in+Hanamkonda+Warangal+%7C+Pediatric+Dental+Hospital+in+Hanamkonda+Warangal/data=!4m7!3m6!1s0x3a334f7fbb53a67f:0xf9c52ce9ff5aa816!8m2!3d18.0037936!4d79.5581586!16s%2Fg%2F11tms8ksz8!19sChIJf6ZTu39PMzoRFqha_-ksxfk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Manasa+Dental+Clinic+Best+Advanced+Dentist+in+Hanamkonda+Warangal+%7C+Pediatric+Dental+Hospital+in+Hanamkonda+Warangal/data=!4m7!3m6!1s0x3a334f7fbb53a67f:0xf9c52ce9ff5aa816!8m2!3d18.0037936!4d79.5581586!16s%2Fg%2F11tms8ksz8!19sChIJf6ZTu39PMzoRFqha_-ksxfk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0037936,
+      "lng": 79.5581586,
+      "label": "Sai Manasa Dental Clinic Best Advanced Dentist in Hanamkonda Warangal | Pediatric Dental Hospital in Hanamkonda Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-shree-hospitals-warangal",
+    "name": "Sai Shree Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Sai Shree Hospitals brings together specialists for Oncologist Surgery In Warangal. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087024 21163",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHMX+RVW, Jayaprakash Narayan Road, Mandi Bazar, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "Mandi Bazar",
+    "emergencyContact": "087024 21163",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Shree+Hospitals/data=!4m7!3m6!1s0x3a33451ecd455835:0x8b1387a657ba5c79!8m2!3d17.9846228!4d79.599713!16s%2Fg%2F1ptw5d0gy!19sChIJNVhFzR5FMzoReVy6V6aHE4s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Shree+Hospitals/data=!4m7!3m6!1s0x3a33451ecd455835:0x8b1387a657ba5c79!8m2!3d17.9846228!4d79.599713!16s%2Fg%2F1ptw5d0gy!19sChIJNVhFzR5FMzoReVy6V6aHE4s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9846228,
+      "lng": 79.599713,
+      "label": "Sai Shree Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samaira-dental-care-hanamkonda",
+    "name": "SAMAIRA DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, SAMAIRA DENTAL CARE brings together specialists for Oral Surgery In Warangal. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097014 07874",
+    "alternatePhone": "",
+    "website": "https://samairadentalcare.my.canva.site/",
+    "address": "H.no: 24, Samaira Dental Care, 7-29, above Union Bank Fathima Complex, Fathimanagar, Hanamkonda, Telangana 506004",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506004",
+    "locality": "Fathimanagar",
+    "landmark": "7-29",
+    "emergencyContact": "097014 07874",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SAMAIRA+DENTAL+CARE/data=!4m7!3m6!1s0x3a334f00645c5bc7:0x29690d27ea482752!8m2!3d17.9844221!4d79.5226164!16s%2Fg%2F11vm52479m!19sChIJx1tcZABPMzoRUidI6icNaSk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAMAIRA+DENTAL+CARE/data=!4m7!3m6!1s0x3a334f00645c5bc7:0x29690d27ea482752!8m2!3d17.9844221!4d79.5226164!16s%2Fg%2F11vm52479m!19sChIJx1tcZABPMzoRUidI6icNaSk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9844221,
+      "lng": 79.5226164,
+      "label": "SAMAIRA DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sandeep-reddy-gastro-and-liver-clinic-endoscocpy-centre-hanamkonda",
+    "name": "Sandeep Reddy Gastro & Liver Clinic, Endoscocpy Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Sandeep Reddy Gastro & Liver Clinic, Endoscocpy Centre for its strength in Liver Transplant Surgery In Warangal, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092468 98281",
+    "alternatePhone": "",
+    "website": "http://www.sandeepgastro.com/",
+    "address": "1-8-142/1, Opp. Labour Office Beside Realince, Main Rd, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "Beside Realince, Main Rd, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "092468 98281",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sandeep+Reddy+Gastro+%26+Liver+Clinic,+Endoscocpy+Centre/data=!4m7!3m6!1s0x3a33457e2d0b2767:0x2df8a81d778500c!8m2!3d17.998954!4d79.560463!16s%2Fg%2F1q65cxd0z!19sChIJZycLLX5FMzoRDFB414GK3wI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sandeep+Reddy+Gastro+%26+Liver+Clinic,+Endoscocpy+Centre/data=!4m7!3m6!1s0x3a33457e2d0b2767:0x2df8a81d778500c!8m2!3d17.998954!4d79.560463!16s%2Fg%2F1q65cxd0z!19sChIJZycLLX5FMzoRDFB414GK3wI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.998954,
+      "lng": 79.560463,
+      "label": "Sandeep Reddy Gastro & Liver Clinic, Endoscocpy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeev-neuro-clinic-hanamkonda",
+    "name": "Sanjeev Neuro Clinic",
+    "type": "Psychoneurological Specialized Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Sanjeev Neuro Clinic for its strength in Neurosurgeon In Warangal and Neurosciences. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099594 01892",
+    "alternatePhone": "",
+    "website": "",
+    "address": "beside K.R & M.S Reddy Complex, opp. street to sbi, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Colony",
+    "emergencyContact": "099594 01892",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeev+Neuro+Clinic/data=!4m7!3m6!1s0x3a3345013316d16d:0x8a9fc1cd5eda993f!8m2!3d18.004822!4d79.5695143!16s%2Fg%2F11hfn0kpc2!19sChIJbdEWMwFFMzoRP5naXs3Bn4o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeev+Neuro+Clinic/data=!4m7!3m6!1s0x3a3345013316d16d:0x8a9fc1cd5eda993f!8m2!3d18.004822!4d79.5695143!16s%2Fg%2F11hfn0kpc2!19sChIJbdEWMwFFMzoRP5naXs3Bn4o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.004822,
+      "lng": 79.5695143,
+      "label": "Sanjeev Neuro Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "seven-hills-hospital-best-gynecology-best-dermatology-best-general-medicine-hanamkonda",
+    "name": "Seven Hills Hospital | Best Gynecology | Best Dermatology | Best General Medicine",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Seven Hills Hospital | Best Gynecology | Best Dermatology | Best General Medicine for its strength in General Surgery In Warangal. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090309 21111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5-9-214, Lane 2, Kishanpura, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kishanpura",
+    "landmark": "Kishanpura",
+    "emergencyContact": "090309 21111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Seven+Hills+Hospital+%7C+Best+Gynecology+%7C+Best+Dermatology+%7C+Best+General+Medicine/data=!4m7!3m6!1s0x3a334f7d6386fca5:0xb55e686c11c7def9!8m2!3d18.0118884!4d79.5600539!16s%2Fg%2F11cjj1c_j1!19sChIJpfyGY31PMzoR-d7HEWxoXrU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Seven+Hills+Hospital+%7C+Best+Gynecology+%7C+Best+Dermatology+%7C+Best+General+Medicine/data=!4m7!3m6!1s0x3a334f7d6386fca5:0xb55e686c11c7def9!8m2!3d18.0118884!4d79.5600539!16s%2Fg%2F11cjj1c_j1!19sChIJpfyGY31PMzoR-d7HEWxoXrU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0118884,
+      "lng": 79.5600539,
+      "label": "Seven Hills Hospital | Best Gynecology | Best Dermatology | Best General Medicine",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiva-hospital-warangal",
+    "name": "Shiva Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shiva Hospital is a prominent hospital in Warangal, known for structured tertiary care across Heart Surgery In Warangal. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092469 85511",
+    "alternatePhone": "",
+    "website": "",
+    "address": "svn road Near Kakatiya Talkies, Mattewada, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Mattewada",
+    "landmark": "Near Kakatiya Talkies, Mattewada, Warangal, Telangana 506002",
+    "emergencyContact": "092469 85511",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Shiva+Hospital/@17.9849182,79.5938912,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334519df67ac69:0xf72dd8770c74d21b!8m2!3d17.9849182!4d79.5938912!16s%2Fg%2F1thx7097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiva+Hospital/@17.9849182,79.5938912,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334519df67ac69:0xf72dd8770c74d21b!8m2!3d17.9849182!4d79.5938912!16s%2Fg%2F1thx7097?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9849182,
+      "lng": 79.5938912,
+      "label": "Shiva Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sivva-poly-clinic-warangal",
+    "name": "Sivva Poly Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Sivva Poly Clinic for its strength in Spine Surgery In Warangal. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086009 96888",
+    "alternatePhone": "",
+    "website": "https://orthosrujan.com/Home/Home",
+    "address": "Bus Stop, Junction, Jayaprakash Narayan Road, Mandi Bazar, Sherpura, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Sherpura",
+    "landmark": "Jayaprakash Narayan Road",
+    "emergencyContact": "086009 96888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sivva+Poly+Clinic/data=!4m7!3m6!1s0x3a3345197449d85d:0xfc58bdd4bab2e673!8m2!3d17.9861349!4d79.6001623!16s%2Fg%2F11n60v1d40!19sChIJXdhJdBlFMzoRc-ayutS9WPw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sivva+Poly+Clinic/data=!4m7!3m6!1s0x3a3345197449d85d:0xfc58bdd4bab2e673!8m2!3d17.9861349!4d79.6001623!16s%2Fg%2F11n60v1d40!19sChIJXdhJdBlFMzoRc-ayutS9WPw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9861349,
+      "lng": 79.6001623,
+      "label": "Sivva Poly Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sowparnika-bone-hospital-hanamkonda",
+    "name": "Sowparnika Bone Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Sowparnika Bone Hospital for its strength in Orthopedic Surgery In Warangal and Orthopaedics. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "076750 51729",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2G2W+5V2, KLN Reddy Colony Rd, NGOs Colony, KLN Reddy Colony, Subedari, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Subedari",
+    "landmark": "NGOs Colony",
+    "emergencyContact": "076750 51729",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Sowparnika+Bone+Hospital/data=!4m7!3m6!1s0x3a334f9d6e5674c1:0x3c4afdd8f59f3c27!8m2!3d18.0004947!4d79.5472261!16s%2Fg%2F11f3tk23l5!19sChIJwXRWbp1PMzoRJzyf9dj9Sjw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sowparnika+Bone+Hospital/data=!4m7!3m6!1s0x3a334f9d6e5674c1:0x3c4afdd8f59f3c27!8m2!3d18.0004947!4d79.5472261!16s%2Fg%2F11f3tk23l5!19sChIJwXRWbp1PMzoRJzyf9dj9Sjw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0004947,
+      "lng": 79.5472261,
+      "label": "Sowparnika Bone Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sree-balaji-hospital-hanamkonda",
+    "name": "Sree Balaji Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Sree Balaji Hospital for its strength in General Surgery In Warangal. Hospital capacity markers such as Google rating 3.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096765 74312",
+    "alternatePhone": "",
+    "website": "http://www.sreebalajihospitals.in/",
+    "address": "near Bus Depot -2, beside SR Junior College Lane, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "beside SR Junior College Lane, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "096765 74312",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sree+Balaji+Hospital/data=!4m7!3m6!1s0x3a33458238769a21:0x4df864f61113ffc5!8m2!3d18.0046272!4d79.5674096!16s%2Fg%2F11gf0_wp72!19sChIJIZp2OIJFMzoRxf8TEfZk-E0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sree+Balaji+Hospital/data=!4m7!3m6!1s0x3a33458238769a21:0x4df864f61113ffc5!8m2!3d18.0046272!4d79.5674096!16s%2Fg%2F11gf0_wp72!19sChIJIZp2OIJFMzoRxf8TEfZk-E0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0046272,
+      "lng": 79.5674096,
+      "label": "Sree Balaji Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sree-laxmi-test-tube-center-warangal",
+    "name": "Sree Laxmi Test Tube Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Warangal, Sree Laxmi Test Tube Center delivers integrated care across IVF In Warangal and Fertility Care. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087025 52441",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2H25+QWV NearAmbekar Statue, Balasamudram, Hanamkonda, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Hanamkonda",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "087025 52441",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Sree+Laxmi+Test+Tube+Center/@18.0019963,79.5597968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f7e5d2477c5:0x1c2ae57390a86d30!8m2!3d18.0019963!4d79.5597968!16s%2Fg%2F11f38y8sr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sree+Laxmi+Test+Tube+Center/@18.0019963,79.5597968,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f7e5d2477c5:0x1c2ae57390a86d30!8m2!3d18.0019963!4d79.5597968!16s%2Fg%2F11f38y8sr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0019963,
+      "lng": 79.5597968,
+      "label": "Sree Laxmi Test Tube Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sree-susmitha-dental-and-hair-transplant-centre-warangal",
+    "name": "Sree Susmitha Dental & Hair transplant centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Sree Susmitha Dental & Hair transplant centre for its strength in Kidney Transplant Surgery In Warangal. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099087 63409",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opposite Samraksha hospital, venkatarama junction, Warangal, Telangana 506013",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506013",
+    "locality": "venkatarama junction",
+    "landmark": "Warangal",
+    "emergencyContact": "099087 63409",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sree+Susmitha+Dental+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a3345e71e74657b:0x215c7d705a793541!8m2!3d17.9774629!4d79.6091869!16s%2Fg%2F11l28j8gwl!19sChIJe2V0HudFMzoRQTV5WnB9XCE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sree+Susmitha+Dental+%26+Hair+transplant+centre/data=!4m7!3m6!1s0x3a3345e71e74657b:0x215c7d705a793541!8m2!3d17.9774629!4d79.6091869!16s%2Fg%2F11l28j8gwl!19sChIJe2V0HudFMzoRQTV5WnB9XCE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9774629,
+      "lng": 79.6091869,
+      "label": "Sree Susmitha Dental & Hair transplant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-devi-hospital-obsterics-gynaecology-laser-cosmetic-gynaecology-paediatric-surgery-general-surgery-laser-piles-treatment-warangal",
+    "name": "Sri Devi Hospital-Obsterics,Gynaecology,Laser Cosmetic Gynaecology,Paediatric Surgery,General Surgery,Laser Piles Treatment",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Warangal, Sri Devi Hospital-Obsterics,Gynaecology,Laser Cosmetic Gynaecology,Paediatric Surgery,General Surgery,Laser Piles Treatment brings together specialists for Gynecologist Surgery In Warangal. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095504 55888",
+    "alternatePhone": "",
+    "website": "",
+    "address": "street no.1, chowrasta, beside Surya Diagnostics, near Vijaya Theater Road, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Hanamkonda",
+    "landmark": "near Vijaya Theater Road, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Warangal, Telangana 506001",
+    "emergencyContact": "095504 55888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Devi+Hospital-Obsterics,Gynaecology,Laser+Cosmetic+Gynaecology,Paediatric+Surgery,General+Surgery,Laser+Piles+Treatment/data=!4m7!3m6!1s0x3a334522ca9bf837:0xd57271dd847344e6!8m2!3d18.0048259!4d79.569272!16s%2Fg%2F11h5vlkjv2!19sChIJN_ibyiJFMzoR5kRzhN1xctU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Devi+Hospital-Obsterics,Gynaecology,Laser+Cosmetic+Gynaecology,Paediatric+Surgery,General+Surgery,Laser+Piles+Treatment/data=!4m7!3m6!1s0x3a334522ca9bf837:0xd57271dd847344e6!8m2!3d18.0048259!4d79.569272!16s%2Fg%2F11h5vlkjv2!19sChIJN_ibyiJFMzoR5kRzhN1xctU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0048259,
+      "lng": 79.569272,
+      "label": "Sri Devi Hospital-Obsterics,Gynaecology,Laser Cosmetic Gynaecology,Paediatric Surgery,General Surgery,Laser Piles Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-kakatiya-kidney-centre-hanamkonda",
+    "name": "Sri kakatiya kidney centre",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted urology clinic in Hanamkonda, Sri kakatiya kidney centre delivers integrated care across Urologist Surgery In Warangal and Kidney Care. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084998 54669",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Oppo:naleen chowdary, H.no:7-1-327 Lakshmipuram, Padmakshi Temple Road, near Hanuman temple, Laxmipuram, Kakaji Nagar Colony, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "near Hanuman temple, Laxmipuram, Kakaji Nagar Colony, Hanamkonda, Telangana 506001",
+    "emergencyContact": "084998 54669",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+kakatiya+kidney+centre/data=!4m7!3m6!1s0x3a334521c18b0809:0x81b2025a2c54bed6!8m2!3d18.0014049!4d79.569253!16s%2Fg%2F11j4flk9zg!19sChIJCQiLwSFFMzoR1r5ULFoCsoE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+kakatiya+kidney+centre/data=!4m7!3m6!1s0x3a334521c18b0809:0x81b2025a2c54bed6!8m2!3d18.0014049!4d79.569253!16s%2Fg%2F11j4flk9zg!19sChIJCQiLwSFFMzoR1r5ULFoCsoE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0014049,
+      "lng": 79.569253,
+      "label": "Sri kakatiya kidney centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sai-nursing-home-hanamkonda",
+    "name": "Sri Sai Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri Sai Nursing Home has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering General Surgery In Warangal. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087025 51306",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XGWW+HQ8, beside Eden Function Hall, Subedari, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Subedari",
+    "landmark": "beside Eden Function Hall, Subedari, Hanamkonda, Telangana 506001",
+    "emergencyContact": "087025 51306",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sai+Nursing+Home/data=!4m7!3m6!1s0x3a334f9c8fe60903:0x6d381704bc53c01!8m2!3d17.9964187!4d79.5469564!16s%2Fg%2F11g6vm3xr1!19sChIJAwnmj5xPMzoRATzFS3CB0wY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sai+Nursing+Home/data=!4m7!3m6!1s0x3a334f9c8fe60903:0x6d381704bc53c01!8m2!3d17.9964187!4d79.5469564!16s%2Fg%2F11g6vm3xr1!19sChIJAwnmj5xPMzoRATzFS3CB0wY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9964187,
+      "lng": 79.5469564,
+      "label": "Sri Sai Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sri-cardiac-centre-hanamkonda",
+    "name": "Sri Sri Cardiac Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hanamkonda, Sri Sri Cardiac Centre brings together specialists for Heart Surgery In Warangal and Cardiac Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099666 53521",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Balasamudram, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Balasamudram",
+    "landmark": "Telangana 506011",
+    "emergencyContact": "099666 53521",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sri+Cardiac+Centre/data=!4m7!3m6!1s0x3a33457875fbaf91:0xad412c16bf2899e5!8m2!3d18.000703!4d79.5635623!16s%2Fg%2F11fylw2c3y!19sChIJka_7dXhFMzoR5ZkovxYsQa0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sri+Cardiac+Centre/data=!4m7!3m6!1s0x3a33457875fbaf91:0xad412c16bf2899e5!8m2!3d18.000703!4d79.5635623!16s%2Fg%2F11fylw2c3y!19sChIJka_7dXhFMzoR5ZkovxYsQa0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.000703,
+      "lng": 79.5635623,
+      "label": "Sri Sri Cardiac Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-srusti-hospitals-om-birth-fertility-center-warangal",
+    "name": "Sri srusti hospitals (Om birth fertility center)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sri srusti hospitals (Om birth fertility center) has built a strong reputation in Warangal for multidisciplinary treatment pathways covering IVF In Warangal and Fertility Care. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11-23-1395/1 beside SR LADIES COLLEGE pochammamaidan, circle, circlePochammamaidan, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "circlePochammamaidan",
+    "landmark": "beside SR LADIES COLLEGE pochammamaidan, circle, circlePochammamaidan, Warangal, Telangana 506002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+srusti+hospitals+%28Om+birth+fertility+center%29/data=!4m7!3m6!1s0x3a3345314f1169f7:0x56043055dd2b9839!8m2!3d17.9873992!4d79.6020321!16s%2Fg%2F11sm__233c!19sChIJ92kRTzFFMzoROZgr3VUwBFY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+srusti+hospitals+%28Om+birth+fertility+center%29/data=!4m7!3m6!1s0x3a3345314f1169f7:0x56043055dd2b9839!8m2!3d17.9873992!4d79.6020321!16s%2Fg%2F11sm__233c!19sChIJ92kRTzFFMzoROZgr3VUwBFY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9873992,
+      "lng": 79.6020321,
+      "label": "Sri srusti hospitals (Om birth fertility center)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-sunlife-hospitals-warangal",
+    "name": "Sri Sunlife hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Warangal often choose Sri Sunlife hospitals for its strength in General Surgery In Warangal. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099122 59504",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jayaprakash Narayan Road, Sherpura, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Sherpura",
+    "landmark": "Warangal",
+    "emergencyContact": "099122 59504",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Sunlife+hospitals/@17.9823829,79.5987796,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345267943a6ef:0xf65cb74491f67695!8m2!3d17.9823829!4d79.5987796!16s%2Fg%2F11t1jfq7r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Sunlife+hospitals/@17.9823829,79.5987796,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345267943a6ef:0xf65cb74491f67695!8m2!3d17.9823829!4d79.5987796!16s%2Fg%2F11t1jfq7r2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9823829,
+      "lng": 79.5987796,
+      "label": "Sri Sunlife hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-vijaya-hospital-hanamkonda",
+    "name": "SRI VIJAYA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SRI VIJAYA HOSPITAL is a prominent hospital in Hanamkonda, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074169 69108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-2-52/4, Beside Vijaya Talkies, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Beside Vijaya Talkies, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "074169 69108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SRI+VIJAYA+HOSPITAL/data=!4m7!3m6!1s0x3a33450004f48021:0x1f021003698236df!8m2!3d18.004897!4d79.568864!16s%2Fg%2F11xgsk1ty8!19sChIJIYD0BABFMzoR3zaCaQMQAh8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SRI+VIJAYA+HOSPITAL/data=!4m7!3m6!1s0x3a33450004f48021:0x1f021003698236df!8m2!3d18.004897!4d79.568864!16s%2Fg%2F11xgsk1ty8!19sChIJIYD0BABFMzoR3zaCaQMQAh8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.004897,
+      "lng": 79.568864,
+      "label": "SRI VIJAYA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sridevi-katakam-skin-hair-and-laser-clinic-warangal",
+    "name": "Sridevi Katakam Skin, Hair & Laser Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, Sridevi Katakam Skin, Hair & Laser Clinic offers coordinated hospital care with major focus on Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076740 55486",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11-26-105, 1st Floor, MGM Rd, opp. Gopalaswamy Temple, Kothawada, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Kothawada",
+    "landmark": "MGM Rd",
+    "emergencyContact": "076740 55486",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sridevi+Katakam+Skin,+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3a3345f1e497d8cf:0xfd600695c2f9719c!8m2!3d17.9901822!4d79.5961099!16s%2Fg%2F11rs2dhh8z!19sChIJz9iX5PFFMzoRnHH5wpUGYP0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sridevi+Katakam+Skin,+Hair+%26+Laser+Clinic/data=!4m7!3m6!1s0x3a3345f1e497d8cf:0xfd600695c2f9719c!8m2!3d17.9901822!4d79.5961099!16s%2Fg%2F11rs2dhh8z!19sChIJz9iX5PFFMzoRnHH5wpUGYP0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9901822,
+      "lng": 79.5961099,
+      "label": "Sridevi Katakam Skin, Hair & Laser Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srihitha-poly-clinic-hanamkonda",
+    "name": "Srihitha Poly Clinic",
+    "type": "Pharmacy",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose Srihitha Poly Clinic for its strength in General Surgery In Warangal and Pharmacy. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070757 87956",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6-2-73/1, Road No.1, Chowrastha, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Chowrastha",
+    "emergencyContact": "070757 87956",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal",
+      "Pharmacy"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Srihitha+Poly+Clinic/data=!4m7!3m6!1s0x3a3345761a1139c1:0x5188d3dc7779cb13!8m2!3d18.0047439!4d79.5694541!16s%2Fg%2F11sqxj9tb1!19sChIJwTkRGnZFMzoRE8t5d9zTiFE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srihitha+Poly+Clinic/data=!4m7!3m6!1s0x3a3345761a1139c1:0x5188d3dc7779cb13!8m2!3d18.0047439!4d79.5694541!16s%2Fg%2F11sqxj9tb1!19sChIJwTkRGnZFMzoRE8t5d9zTiFE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0047439,
+      "lng": 79.5694541,
+      "label": "Srihitha Poly Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-heart-centre-hanamkonda",
+    "name": "Srinivasa Heart Centre",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Srinivasa Heart Centre offers coordinated hospital care with major focus on Heart Surgery In Warangal and Cardiac Care. Hospital capacity markers such as Google rating 3.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "reserved@srinivasaheart.org",
+    "phone": "087024 48622",
+    "alternatePhone": "",
+    "website": "http://www.srinivasaheart.org/",
+    "address": "2-4-617/1/1, near Children’s world Montessori school, Ramnagar, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Ramnagar",
+    "landmark": "near Children’s world Montessori school, Ramnagar, Hanamkonda, Telangana 506001",
+    "emergencyContact": "087024 48622",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Warangal",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Srinivasa+Heart+Centre/data=!4m7!3m6!1s0x3a334f7bdfb772c3:0xfe5aca2b944d5a85!8m2!3d18.0078148!4d79.553386!16s%2Fg%2F1tf8rj4p!19sChIJw3K333tPMzoRhVpNlCvKWv4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Heart+Centre/data=!4m7!3m6!1s0x3a334f7bdfb772c3:0xfe5aca2b944d5a85!8m2!3d18.0078148!4d79.553386!16s%2Fg%2F1tf8rj4p!19sChIJw3K333tPMzoRhVpNlCvKWv4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0078148,
+      "lng": 79.553386,
+      "label": "Srinivasa Heart Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-hospital-hanamkonda",
+    "name": "Srinivasa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Srinivasa Hospital has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering General Surgery In Warangal. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097008 75045",
+    "alternatePhone": "",
+    "website": "",
+    "address": "jevan blood bank, pinjarlla street, beside Raghavendra tiffins, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "beside Raghavendra tiffins, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "emergencyContact": "097008 75045",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Srinivasa+Hospital/@18.0031373,79.5693079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f9a889895a7:0x2e6247bc9fc64b7d!8m2!3d18.0031373!4d79.5693079!16s%2Fg%2F11b5yvy7qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Hospital/@18.0031373,79.5693079,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334f9a889895a7:0x2e6247bc9fc64b7d!8m2!3d18.0031373!4d79.5693079!16s%2Fg%2F11b5yvy7qx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0031373,
+      "lng": 79.5693079,
+      "label": "Srinivasa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-kidney-and-maternity-hospital-hanamkonda",
+    "name": "Srinivasa Kidney & Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Srinivasa Kidney & Maternity Hospital is a prominent hospital in Hanamkonda, known for structured tertiary care across Kidney Transplant Surgery In Warangal and Kidney Care. Hospital capacity markers such as Google rating 3.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070329 15151",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Raganna Darwaja, New Raipura, Brahmanawada, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Brahmanawada",
+    "landmark": "Brahmanawada",
+    "emergencyContact": "070329 15151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Srinivasa+Kidney+%26+Maternity+Hospital/data=!4m7!3m6!1s0x3a3345fccc935881:0x5bf4af69ade420a7!8m2!3d18.00497!4d79.5752339!16s%2Fg%2F11sgkjwyb6!19sChIJgViTzPxFMzoRpyDkrWmv9Fs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Kidney+%26+Maternity+Hospital/data=!4m7!3m6!1s0x3a3345fccc935881:0x5bf4af69ade420a7!8m2!3d18.00497!4d79.5752339!16s%2Fg%2F11sgkjwyb6!19sChIJgViTzPxFMzoRpyDkrWmv9Fs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.00497,
+      "lng": 79.5752339,
+      "label": "Srinivasa Kidney & Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-kidney-centre-warangal",
+    "name": "Srinivasa Kidney Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Srinivasa Kidney Centre has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Warangal and Kidney Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2-72, Hanamkonda - Pegadapally Rd, Jagruti Colony, Naim Nagar, Warangal, Hanamkonda, Telangana 506009",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506009",
+    "locality": "Naim Nagar",
+    "landmark": "Jagruti Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Srinivasa+Kidney+Centre/@18.0179219,79.5531166,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33457873eb37dd:0xa9a840552f27b5ef!8m2!3d18.0179219!4d79.5531166!16s%2Fg%2F11rgh77177?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Kidney+Centre/@18.0179219,79.5531166,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33457873eb37dd:0xa9a840552f27b5ef!8m2!3d18.0179219!4d79.5531166!16s%2Fg%2F11rgh77177?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0179219,
+      "lng": 79.5531166,
+      "label": "Srinivasa Kidney Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srinivasa-pinnacle-hospital-hanumakonda-warangal-hanamkonda",
+    "name": "Srinivasa Pinnacle Hospital,Hanumakonda, Warangal",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, Srinivasa Pinnacle Hospital,Hanumakonda, Warangal offers coordinated hospital care with major focus on Neurosurgeon In Warangal. Hospital capacity markers such as Google rating 3.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079999 96595",
+    "alternatePhone": "",
+    "website": "https://srinivasapinnacle.com/",
+    "address": "Running Track, KANCHARAKUNTA, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "KANCHARAKUNTA",
+    "landmark": "Hanamkonda",
+    "emergencyContact": "079999 96595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Srinivasa+Pinnacle+Hospital,Hanumakonda,+Warangal/data=!4m7!3m6!1s0x3a33454ed8cae285:0x9bc6feb0af2364e4!8m2!3d18.0055854!4d79.5638416!16s%2Fg%2F11fj5c74dj!19sChIJheLK2E5FMzoR5GQjr7D-xps?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srinivasa+Pinnacle+Hospital,Hanumakonda,+Warangal/data=!4m7!3m6!1s0x3a33454ed8cae285:0x9bc6feb0af2364e4!8m2!3d18.0055854!4d79.5638416!16s%2Fg%2F11fj5c74dj!19sChIJheLK2E5FMzoR5GQjr7D-xps?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0055854,
+      "lng": 79.5638416,
+      "label": "Srinivasa Pinnacle Hospital,Hanumakonda, Warangal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sudha-fertility-centre-hanamkonda-hanamkonda",
+    "name": "Sudha Fertility Centre - Hanamkonda",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sudha Fertility Centre - Hanamkonda is a prominent fertility clinic in Hanamkonda, known for structured tertiary care across IVF In Warangal and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076700 76006",
+    "alternatePhone": "",
+    "website": "https://sudhafertilitycentre.com/",
+    "address": "100 Feet Rd, opposite Shyamala Gardens, Saptagiri Colony, Hanamkonda, Telangana 506370",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506370",
+    "locality": "Saptagiri Colony",
+    "landmark": "opposite Shyamala Gardens, Saptagiri Colony, Hanamkonda, Telangana 506370",
+    "emergencyContact": "076700 76006",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Warangal",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sudha+Fertility+Centre+-+Hanamkonda/data=!4m7!3m6!1s0x3a334fbfa4e57bc9:0xec6abb959a112981!8m2!3d18.0119201!4d79.53885!16s%2Fg%2F11xdtpb79_!19sChIJyXvlpL9PMzoRgSkRmpW7auw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sudha+Fertility+Centre+-+Hanamkonda/data=!4m7!3m6!1s0x3a334fbfa4e57bc9:0xec6abb959a112981!8m2!3d18.0119201!4d79.53885!16s%2Fg%2F11xdtpb79_!19sChIJyXvlpL9PMzoRgSkRmpW7auw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0119201,
+      "lng": 79.53885,
+      "label": "Sudha Fertility Centre - Hanamkonda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sujatha-hospital-hanamkonda",
+    "name": "Sujatha Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Hanamkonda, Sujatha Hospital delivers integrated care across General Surgery In Warangal. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Unnamed Road, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Kakaji Nagar Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sujatha+Hospital/data=!4m7!3m6!1s0x3a334573927ce5a7:0xad2982e5b536f98b!8m2!3d18.0043809!4d79.5682704!16s%2Fg%2F11gzpht1pw!19sChIJp-V8knNFMzoRi_k2teWCKa0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sujatha+Hospital/data=!4m7!3m6!1s0x3a334573927ce5a7:0xad2982e5b536f98b!8m2!3d18.0043809!4d79.5682704!16s%2Fg%2F11gzpht1pw!19sChIJp-V8knNFMzoRi_k2teWCKa0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0043809,
+      "lng": 79.5682704,
+      "label": "Sujatha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surgery-op-warangal",
+    "name": "Surgery OP",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Surgery OP is a prominent hospital in Warangal, known for structured tertiary care across Kidney Transplant Surgery In Warangal. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHRR+9PV, MGM Hospital Rd, Sherpura, Warangal, Telangana 506007",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506007",
+    "locality": "Sherpura",
+    "landmark": "Sherpura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Surgery+OP/data=!4m7!3m6!1s0x3a33450064c287e5:0xf446f9b2d01fbf8c!8m2!3d17.9909767!4d79.5917939!16s%2Fg%2F11x7z7y5x6!19sChIJ5YfCZABFMzoRjL8f0LL5RvQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Surgery+OP/data=!4m7!3m6!1s0x3a33450064c287e5:0xf446f9b2d01fbf8c!8m2!3d17.9909767!4d79.5917939!16s%2Fg%2F11x7z7y5x6!19sChIJ5YfCZABFMzoRjL8f0LL5RvQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9909767,
+      "lng": 79.5917939,
+      "label": "Surgery OP",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tosacon-2022-warangal",
+    "name": "TOSACON 2022",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, TOSACON 2022 offers coordinated hospital care with major focus on Orthopedic Surgery In Warangal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C/o CURE WELL HOSPITAL 15-1-48, Srinivasa Colony, MGM Rd, near MGM Hospital, Kothawada, Warangal, Telangana 506006",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506006",
+    "locality": "Kothawada",
+    "landmark": "near MGM Hospital, Kothawada, Warangal, Telangana 506006",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/TOSACON+2022/data=!4m7!3m6!1s0x3a33457d4e95f571:0xb9270d473a80da2e!8m2!3d17.9949131!4d79.5992707!16s%2Fg%2F11t0y29nz2!19sChIJcfWVTn1FMzoRLtqAOkcNJ7k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TOSACON+2022/data=!4m7!3m6!1s0x3a33457d4e95f571:0xb9270d473a80da2e!8m2!3d17.9949131!4d79.5992707!16s%2Fg%2F11t0y29nz2!19sChIJcfWVTn1FMzoRLtqAOkcNJ7k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9949131,
+      "lng": 79.5992707,
+      "label": "TOSACON 2022",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-b-hospital-warangal",
+    "name": "V.B. Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "V.B. Hospital is a prominent hospital in Warangal, known for structured tertiary care across Cancer Surgery In Warangal. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087024 36446",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opposite Ayurvedic Hospital, Underbridge Road, Khammam - Warangal Hwy, Perukawada, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Perukawada",
+    "landmark": "Khammam - Warangal Hwy",
+    "emergencyContact": "087024 36446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/V.B.+Hospital/@17.9708097,79.5985412,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334525c10ff0fd:0x90a32ce85bf9e2f9!8m2!3d17.9708097!4d79.5985412!16s%2Fg%2F1hg4sqyqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V.B.+Hospital/@17.9708097,79.5985412,17z/data=!3m1!4b1!4m6!3m5!1s0x3a334525c10ff0fd:0x90a32ce85bf9e2f9!8m2!3d17.9708097!4d79.5985412!16s%2Fg%2F1hg4sqyqp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9708097,
+      "lng": 79.5985412,
+      "label": "V.B. Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vamshi-gastro-and-liver-clinic-hanamkonda",
+    "name": "Vamshi Gastro & Liver Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vamshi Gastro & Liver Clinic has built a strong reputation in Hanamkonda for multidisciplinary treatment pathways covering Liver Transplant Surgery In Warangal, Liver Care, and Gastroenterology. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095737 44211",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "Telangana 506011",
+    "emergencyContact": "095737 44211",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Warangal",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Vamshi+Gastro+%26+Liver+Clinic/data=!4m7!3m6!1s0x3a33456731246f41:0x5c55b84cb16bf08!8m2!3d18.0029013!4d79.5698459!16s%2Fg%2F11qskt9wfg!19sChIJQW8kMWdFMzoRCL8Wy4RbxQU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vamshi+Gastro+%26+Liver+Clinic/data=!4m7!3m6!1s0x3a33456731246f41:0x5c55b84cb16bf08!8m2!3d18.0029013!4d79.5698459!16s%2Fg%2F11qskt9wfg!19sChIJQW8kMWdFMzoRCL8Wy4RbxQU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0029013,
+      "lng": 79.5698459,
+      "label": "Vamshi Gastro & Liver Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "varun-hospital-warangal",
+    "name": "VARUN HOSPITAL 🏥",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, VARUN HOSPITAL 🏥 offers coordinated hospital care with major focus on General Surgery In Warangal. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XHMX+9M6, Jayaprakash Narayan Road, Charbowli, Sherpura, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Sherpura",
+    "landmark": "Charbowli",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/VARUN+HOSPITAL+%F0%9F%8F%A5/@17.9833363,79.5991203,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345000154641d:0xbd9d1c56d4ce3226!8m2!3d17.9833363!4d79.5991203!16s%2Fg%2F11wnmw5dpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VARUN+HOSPITAL+%F0%9F%8F%A5/@17.9833363,79.5991203,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3345000154641d:0xbd9d1c56d4ce3226!8m2!3d17.9833363!4d79.5991203!16s%2Fg%2F11wnmw5dpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9833363,
+      "lng": 79.5991203,
+      "label": "VARUN HOSPITAL 🏥",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "varuns-dental-warangal",
+    "name": "VARUNS DENTAL",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Warangal, VARUNS DENTAL offers coordinated hospital care with major focus on Oral Surgery In Warangal. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091608 17575",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Asian Sreedevi Mall, Main Rd, opp. Diet College, Sai Nagar, Warangal, Hanamkonda, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Sai Nagar",
+    "landmark": "opp. Diet College",
+    "emergencyContact": "091608 17575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/VARUNS+DENTAL/@18.0062171,79.5618862,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458055fd011b:0x7d8014bfeabcdb22!8m2!3d18.0062171!4d79.5618862!16s%2Fg%2F1q665zczt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VARUNS+DENTAL/@18.0062171,79.5618862,17z/data=!3m1!4b1!4m6!3m5!1s0x3a33458055fd011b:0x7d8014bfeabcdb22!8m2!3d18.0062171!4d79.5618862!16s%2Fg%2F1q665zczt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0062171,
+      "lng": 79.5618862,
+      "label": "VARUNS DENTAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vcare-hair-and-skin-clinic-hanamkonda-skin-treatment-hair-treatment-hair-transplant-laser-hair-removal-skin-whitening-hanamkonda",
+    "name": "VCare Hair & Skin Clinic - Hanamkonda | Skin Treatment, Hair Treatment, Hair Transplant, Laser Hair Removal, Skin Whitening",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hanamkonda, VCare Hair & Skin Clinic - Hanamkonda | Skin Treatment, Hair Treatment, Hair Transplant, Laser Hair Removal, Skin Whitening offers coordinated hospital care with major focus on Kidney Transplant Surgery In Warangal. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073958 24242",
+    "alternatePhone": "",
+    "website": "https://hair-skin-clinic.vcaretrichology.com/vcare-trichology/clinic-in-hanamkonda/clinic-in-Balasamudram/vcare-hair-and-skin-clinic-in-Balasamudram-hanamkonda--7Hnacv/home",
+    "address": "behind Near VRK Silks, HNO. 1-8-554, OmSree Brilliance, Nakkala Gutta, Balasumdram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasumdram",
+    "landmark": "Near VRK Silks, HNO. 1-8-554, OmSree Brilliance, Nakkala Gutta, Balasumdram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "073958 24242",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/officialvcareclinics",
+    "twitter": "https://x.com/vcaregroups",
+    "instagram": "https://www.instagram.com/vcare.clinics/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/prabasvcare",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Hanamkonda+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a334f6c1edd3069:0x6cecabf13c815770!8m2!3d18.0015458!4d79.5567023!16s%2Fg%2F11fnhph776!19sChIJaTDdHmxPMzoRcFeBPPGr7Gw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VCare+Hair+%26+Skin+Clinic+-+Hanamkonda+%7C+Skin+Treatment,+Hair+Treatment,+Hair+Transplant,+Laser+Hair+Removal,+Skin+Whitening/data=!4m7!3m6!1s0x3a334f6c1edd3069:0x6cecabf13c815770!8m2!3d18.0015458!4d79.5567023!16s%2Fg%2F11fnhph776!19sChIJaTDdHmxPMzoRcFeBPPGr7Gw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0015458,
+      "lng": 79.5567023,
+      "label": "VCare Hair & Skin Clinic - Hanamkonda | Skin Treatment, Hair Treatment, Hair Transplant, Laser Hair Removal, Skin Whitening",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinoda-dental-hospital-best-dental-hospital-in-hanamkonda-hanamkonda",
+    "name": "VINODA DENTAL HOSPITAL (Best Dental Hospital In Hanamkonda)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hanamkonda often choose VINODA DENTAL HOSPITAL (Best Dental Hospital In Hanamkonda) for its strength in Oral Surgery In Warangal. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@vinodahospital.com",
+    "phone": "098854 32424",
+    "alternatePhone": "",
+    "website": "https://vinodahospital.com/",
+    "address": "Kaloji Marg, opposite Hayagrivachary Ground, Balasamudram, Hanamkonda, Telangana 506001",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Balasamudram",
+    "landmark": "opposite Hayagrivachary Ground, Balasamudram, Hanamkonda, Telangana 506001",
+    "emergencyContact": "098854 32424",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/vinodadental",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/vinoda_dental/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VINODA+DENTAL+HOSPITAL+%28Best+Dental+Hospital+In+Hanamkonda%29/data=!4m7!3m6!1s0x3a334f7d04e22c07:0x5ebbb45e04a5dd40!8m2!3d18.0006247!4d79.5635304!16s%2Fg%2F11bbt8qbb5!19sChIJByziBH1PMzoRQN2lBF60u14?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VINODA+DENTAL+HOSPITAL+%28Best+Dental+Hospital+In+Hanamkonda%29/data=!4m7!3m6!1s0x3a334f7d04e22c07:0x5ebbb45e04a5dd40!8m2!3d18.0006247!4d79.5635304!16s%2Fg%2F11bbt8qbb5!19sChIJByziBH1PMzoRQN2lBF60u14?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0006247,
+      "lng": 79.5635304,
+      "label": "VINODA DENTAL HOSPITAL (Best Dental Hospital In Hanamkonda)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "warangal-kidney-center-and-children-hospital-warangal",
+    "name": "Warangal Kidney Center & Children Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Warangal Kidney Center & Children Hospital has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Warangal, Kidney Care, and Women and Child Care. Its infrastructure includes Google rating 3.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9-5-27, Jayaprakash Narayan Road, Yellamma Bazar, Girmajipet, Warangal, Telangana 506002",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506002",
+    "locality": "Girmajipet",
+    "landmark": "Yellamma Bazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Kidney Care",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Warangal+Kidney+Center+%26+Children+Hospital/data=!4m7!3m6!1s0x3a3345192d9c68b9:0xf33171b2c48b971d!8m2!3d17.9845655!4d79.5994572!16s%2Fg%2F11g873z047!19sChIJuWicLRlFMzoRHZeLxLJxMfM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Warangal+Kidney+Center+%26+Children+Hospital/data=!4m7!3m6!1s0x3a3345192d9c68b9:0xf33171b2c48b971d!8m2!3d17.9845655!4d79.5994572!16s%2Fg%2F11g873z047!19sChIJuWicLRlFMzoRHZeLxLJxMfM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9845655,
+      "lng": 79.5994572,
+      "label": "Warangal Kidney Center & Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "warangal-medical-and-surgicals-hanamkonda",
+    "name": "Warangal Medical and surgicals",
+    "type": "Medical Group",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical group in Hanamkonda, Warangal Medical and surgicals delivers integrated care across Kidney Transplant Surgery In Warangal and Medical Group. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090321 61441",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, opp:veena medicare hospital, 6-2-51/2, Kakaji Colony, Kakaji Nagar Colony, Hanamkonda, Telangana 506011",
+    "city": "Hanamkonda",
+    "state": "Telangana",
+    "pincode": "506011",
+    "locality": "Kakaji Nagar Colony",
+    "landmark": "6-2-51/2",
+    "emergencyContact": "090321 61441",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal",
+      "Medical Group"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Warangal+Medical+and+surgicals/data=!4m7!3m6!1s0x3a3345167d8f8b1f:0x5da0a7d8d2b2be33!8m2!3d18.0050908!4d79.5687701!16s%2Fg%2F11vyhyddjp!19sChIJH4uPfRZFMzoRM76y0tinoF0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Warangal+Medical+and+surgicals/data=!4m7!3m6!1s0x3a3345167d8f8b1f:0x5da0a7d8d2b2be33!8m2!3d18.0050908!4d79.5687701!16s%2Fg%2F11vyhyddjp!19sChIJH4uPfRZFMzoRM76y0tinoF0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.0050908,
+      "lng": 79.5687701,
+      "label": "Warangal Medical and surgicals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-hospitals-warangal-hanamkonda-clinic-warangal",
+    "name": "Yashoda Hospitals - Warangal (Hanamkonda) Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yashoda Hospitals - Warangal (Hanamkonda) Clinic has built a strong reputation in Warangal for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Warangal. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "mailto:info@yashodamail.com",
+    "phone": "080659 06086",
+    "alternatePhone": "+91 80659 06200",
+    "website": "https://www.yashodahospitals.com/clinic-city/warangal/?utm_source=Google&utm_medium=GMB",
+    "address": "beside SBI Bank, Advocates Colony, Nakkala Gutta, Hanamkonda, Warangal, Telangana 506001",
+    "city": "Warangal",
+    "state": "Telangana",
+    "pincode": "506001",
+    "locality": "Hanamkonda",
+    "landmark": "Nakkala Gutta",
+    "emergencyContact": "+91 80659 06200",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/YashodaHospitals/",
+    "twitter": "https://twitter.com/YashodaHosp",
+    "instagram": "https://www.instagram.com/yashoda.hospitals/",
+    "linkedin": "https://www.linkedin.com/company/yashodahospitals/",
+    "youtube": "https://www.youtube.com/c/YashodaHospitalsHyderabad",
+    "specialties": [
+      "Kidney Transplant Surgery In Warangal"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+-+Warangal+%28Hanamkonda%29+Clinic/data=!4m7!3m6!1s0x3a334f826aaaaa9f:0x779e909773eea5c8!8m2!3d17.9976515!4d79.5549012!16s%2Fg%2F11h9x3g6sd!19sChIJn6qqaoJPMzoRyKXuc5eQnnc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+Hospitals+-+Warangal+%28Hanamkonda%29+Clinic/data=!4m7!3m6!1s0x3a334f826aaaaa9f:0x779e909773eea5c8!8m2!3d17.9976515!4d79.5549012!16s%2Fg%2F11h9x3g6sd!19sChIJn6qqaoJPMzoRyKXuc5eQnnc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.9976515,
+      "lng": 79.5549012,
+      "label": "Yashoda Hospitals - Warangal (Hanamkonda) Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

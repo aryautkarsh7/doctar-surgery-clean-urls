@@ -1,4 +1,4 @@
-const CACHE_NAME = 'doctar-v16';
+const CACHE_NAME = 'doctar-v17';
 const STATIC_ASSETS = [
   '/',
   '/styles.css',

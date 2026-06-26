@@ -1,0 +1,17676 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "advance-brain-and-spine-clinic-gwalior",
+    "name": "ADVANCE BRAIN & SPINE CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ADVANCE BRAIN & SPINE CLINIC has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Spine Surgery In Gwalior, Neurosciences, and Spine Care. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082694 12875",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55R6+3G6, Aamkho Rd, Cirar Colony, Vakil Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Cirar Colony",
+    "emergencyContact": "082694 12875",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/ADVANCE+BRAIN+%26+SPINE+CLINIC/@26.1901672,78.1612644,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c435cfa120bb:0xc7f52c8c075854bb!8m2!3d26.1901672!4d78.1612644!16s%2Fg%2F11l6tmsh2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ADVANCE+BRAIN+%26+SPINE+CLINIC/@26.1901672,78.1612644,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c435cfa120bb:0xc7f52c8c075854bb!8m2!3d26.1901672!4d78.1612644!16s%2Fg%2F11l6tmsh2_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1901672,
+      "lng": 78.1612644,
+      "label": "ADVANCE BRAIN & SPINE CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "advanced-dental-clinic-dental-clinic-best-dentist-in-gwalior-gwalior",
+    "name": "ADVANCED DENTAL CLINIC | Dental Clinic| Best Dentist in Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ADVANCED DENTAL CLINIC | Dental Clinic| Best Dentist in Gwalior has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087178 40958",
+    "alternatePhone": "",
+    "website": "",
+    "address": "54VV+7R2, near MADHAVGANJ POLICE STATION, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "near MADHAVGANJ POLICE STATION",
+    "landmark": "near MADHAVGANJ POLICE STATION, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "087178 40958",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+%7C+Dental+Clinic%7C+Best+Dentist+in+Gwalior/@26.193143,78.1445126,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5b61047997d:0x86ae8547bf98a1f7!8m2!3d26.193143!4d78.1445126!16s%2Fg%2F11clspn4m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ADVANCED+DENTAL+CLINIC+%7C+Dental+Clinic%7C+Best+Dentist+in+Gwalior/@26.193143,78.1445126,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5b61047997d:0x86ae8547bf98a1f7!8m2!3d26.193143!4d78.1445126!16s%2Fg%2F11clspn4m7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.193143,
+      "lng": 78.1445126,
+      "label": "ADVANCED DENTAL CLINIC | Dental Clinic| Best Dentist in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrawal-hospital-and-research-institute-gwalior",
+    "name": "AGRAWAL HOSPITAL AND RESEARCH INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "AGRAWAL HOSPITAL AND RESEARCH INSTITUTE has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Liver Transplant Surgery In Gwalior. Operational strengths including Google rating 4.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075124 23700",
+    "alternatePhone": "",
+    "website": "http://www.ahrihospital.com/",
+    "address": "Agrawal Hospital and Research Institute, H 204, Madhav Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "Madhav Nagar",
+    "emergencyContact": "075124 23700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AGRAWAL+HOSPITAL+AND+RESEARCH+INSTITUTE/@26.1999915,78.1764808,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57b9416ac25:0x95c87631c4d86a45!8m2!3d26.1999915!4d78.1764808!16s%2Fg%2F1hc6825kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AGRAWAL+HOSPITAL+AND+RESEARCH+INSTITUTE/@26.1999915,78.1764808,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57b9416ac25:0x95c87631c4d86a45!8m2!3d26.1999915!4d78.1764808!16s%2Fg%2F1hc6825kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1999915,
+      "lng": 78.1764808,
+      "label": "AGRAWAL HOSPITAL AND RESEARCH INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "all-hair-solution-hair-patch-in-gwalior-best-hair-patch-in-gwalior-hair-wigs-in-gwalior-hair-replacemnt-gwalior",
+    "name": "All Hair Solution- Hair Patch in Gwalior | Best Hair Patch in Gwalior | Hair wigs in Gwalior | Hair Replacemnt.",
+    "type": "Hair Replacement Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "All Hair Solution- Hair Patch in Gwalior | Best Hair Patch in Gwalior | Hair wigs in Gwalior | Hair Replacemnt. is a prominent hair replacement service in Gwalior, known for structured tertiary care across Kidney Transplant Surgery In Gwalior and Hair Replacement Service. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Petrol Pump ke Saamne, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Shinde Ki Chhawani",
+    "landmark": "Shinde Ki Chhawani",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior",
+      "Hair Replacement Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/All+Hair+Solution-+Hair+Patch+in+Gwalior+%7C+Best+Hair+Patch+in+Gwalior+%7C+Hair+wigs+in+Gwalior+%7C+Hair+Replacemnt./@26.2079994,78.1651016,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5846d420007:0x11c232c2f1b8c2f2!8m2!3d26.2079994!4d78.1651016!16s%2Fg%2F11t0vyhggd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/All+Hair+Solution-+Hair+Patch+in+Gwalior+%7C+Best+Hair+Patch+in+Gwalior+%7C+Hair+wigs+in+Gwalior+%7C+Hair+Replacemnt./@26.2079994,78.1651016,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5846d420007:0x11c232c2f1b8c2f2!8m2!3d26.2079994!4d78.1651016!16s%2Fg%2F11t0vyhggd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2079994,
+      "lng": 78.1651016,
+      "label": "All Hair Solution- Hair Patch in Gwalior | Best Hair Patch in Gwalior | Hair wigs in Gwalior | Hair Replacemnt.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ananda-hospital-gwalior",
+    "name": "Ananda Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Gwalior, Ananda Hospital delivers integrated care across Liver Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 3.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075124 33707",
+    "alternatePhone": "",
+    "website": "http://janakhospital.com/contact-us.php",
+    "address": "Jinsi Marg Number 3 Near Roxy Pul, Kampoo Rd, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Kampoo Rd",
+    "landmark": "Near Roxy Pul, Kampoo Rd, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "075124 33707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ananda+Hospital/@26.1965948,78.1521292,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cc3344ca07:0x2a2cc5c371cf657b!8m2!3d26.1965948!4d78.1521292!16s%2Fg%2F1tr7gssh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ananda+Hospital/@26.1965948,78.1521292,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cc3344ca07:0x2a2cc5c371cf657b!8m2!3d26.1965948!4d78.1521292!16s%2Fg%2F1tr7gssh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1965948,
+      "lng": 78.1521292,
+      "label": "Ananda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apex-diagnostics-best-mri-testing-center-ct-scan-center-pap-smear-fnac-histopathology-pathology-lab-in-gwalior-gwalior",
+    "name": "Apex Diagnostics - Best MRI Testing Center | CT Scan Center | PAP-Smear FNAC Histopathology | Pathology Lab in Gwalior",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apex Diagnostics - Best MRI Testing Center | CT Scan Center | PAP-Smear FNAC Histopathology | Pathology Lab in Gwalior is a prominent diagnostic center in Gwalior, known for structured tertiary care across Spine Surgery In Gwalior and Diagnostic Center. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075124 23980",
+    "alternatePhone": "",
+    "website": "https://apexmrictscan.in/",
+    "address": "Shankar Chowk, Near, Hospital Rd, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Hospital Rd",
+    "emergencyContact": "075124 23980",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+Diagnostics+-+Best+MRI+Testing+Center+%7C+CT+Scan+Center+%7C+PAP-Smear+FNAC+Histopathology+%7C+Pathology+Lab+in+Gwalior/@26.1970328,78.1611386,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43237b457c5:0xd5d23d583daaaf1f!8m2!3d26.1970328!4d78.1611386!16s%2Fg%2F11st2bvkzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+Diagnostics+-+Best+MRI+Testing+Center+%7C+CT+Scan+Center+%7C+PAP-Smear+FNAC+Histopathology+%7C+Pathology+Lab+in+Gwalior/@26.1970328,78.1611386,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43237b457c5:0xd5d23d583daaaf1f!8m2!3d26.1970328!4d78.1611386!16s%2Fg%2F11st2bvkzs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1970328,
+      "lng": 78.1611386,
+      "label": "Apex Diagnostics - Best MRI Testing Center | CT Scan Center | PAP-Smear FNAC Histopathology | Pathology Lab in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-proton-therapy-in-gwalior-gwalior",
+    "name": "Apollo Proton Therapy in Gwalior",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Apollo Proton Therapy in Gwalior offers coordinated hospital care with major focus on Liver Transplant Surgery In Gwalior and Cancer Treatment Center. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080629 72782",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/proton-therapy/proton-therapy/",
+    "address": "Shriram Colony, Harishankar Puram, Madhav Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "Madhav Nagar",
+    "emergencyContact": "080629 72782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Gwalior/@26.199142,78.177018,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5f772b260f7:0x5b10367bdabc1c11!8m2!3d26.199142!4d78.177018!16s%2Fg%2F11yhrht2v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Gwalior/@26.199142,78.177018,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5f772b260f7:0x5b10367bdabc1c11!8m2!3d26.199142!4d78.177018!16s%2Fg%2F11yhrht2v6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.199142,
+      "lng": 78.177018,
+      "label": "Apollo Proton Therapy in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogyadham-hospital-gwalior",
+    "name": "Arogyadham Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gwalior, Arogyadham Hospital delivers integrated care across Urologist Surgery In Gwalior. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075122 34101",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Foot Over Bridge, near AG Office, City Center, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "near AG Office, City Center, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "075122 34101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Arogyadham+Hospital/@26.2035253,78.1860876,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c41a394ae8cb:0x35d3da84a58a9236!8m2!3d26.2035253!4d78.1860876!16s%2Fg%2F11_t5hq9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogyadham+Hospital/@26.2035253,78.1860876,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c41a394ae8cb:0x35d3da84a58a9236!8m2!3d26.2035253!4d78.1860876!16s%2Fg%2F11_t5hq9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2035253,
+      "lng": 78.1860876,
+      "label": "Arogyadham Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arogyaman-dental-care-gwalior-gwalior",
+    "name": "Arogyaman Dental Care - Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Arogyaman Dental Care - Gwalior delivers integrated care across Oral Surgery In Gwalior. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089891 00642",
+    "alternatePhone": "",
+    "website": "https://arogyaman.in/",
+    "address": "Sachin Tendulkar Marg, opposite Sanskriti Garden, near J K Tyre, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near J K Tyre, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "089891 00642",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arogyaman+Dental+Care+-+Gwalior/@26.202356,78.2052151,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53f106b002b:0xb39ca7d78792bb4!8m2!3d26.202356!4d78.2052151!16s%2Fg%2F11kj8x3jyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arogyaman+Dental+Care+-+Gwalior/@26.202356,78.2052151,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53f106b002b:0xb39ca7d78792bb4!8m2!3d26.202356!4d78.2052151!16s%2Fg%2F11kj8x3jyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.202356,
+      "lng": 78.2052151,
+      "label": "Arogyaman Dental Care - Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arora-hospital-best-gall-bladder-stone-best-kidney-stone-best-hernia-centre-in-gwalior-gwalior",
+    "name": "Arora Hospital || Best Gall Bladder STONE || Best Kidney STONE || Best HERNIA Centre In Gwalior",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Arora Hospital || Best Gall Bladder STONE || Best Kidney STONE || Best HERNIA Centre In Gwalior is a prominent hospital in Gwalior, known for structured tertiary care across Urologist Surgery In Gwalior and Kidney Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080854 10981",
+    "alternatePhone": "",
+    "website": "",
+    "address": "20, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "080854 10981",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Arora+Hospital+%7C%7C+Best+Gall+Bladder+STONE+%7C%7C+Best+Kidney+STONE+%7C%7C+Best+HERNIA+Centre+In+Gwalior/@26.1980791,78.162782,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c551c85011c3:0x7b15e70270a04784!8m2!3d26.1980791!4d78.162782!16s%2Fg%2F11rcvyj5fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arora+Hospital+%7C%7C+Best+Gall+Bladder+STONE+%7C%7C+Best+Kidney+STONE+%7C%7C+Best+HERNIA+Centre+In+Gwalior/@26.1980791,78.162782,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c551c85011c3:0x7b15e70270a04784!8m2!3d26.1980791!4d78.162782!16s%2Fg%2F11rcvyj5fx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1980791,
+      "lng": 78.162782,
+      "label": "Arora Hospital || Best Gall Bladder STONE || Best Kidney STONE || Best HERNIA Centre In Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asg-eye-hospital-gwalior-gwalior",
+    "name": "ASG Eye Hospital - Gwalior",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, ASG Eye Hospital - Gwalior brings together specialists for Heart Surgery In Gwalior. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "067461 72343",
+    "alternatePhone": "",
+    "website": "https://asgeyehospital.com/hospital/city-center-gwalior",
+    "address": "Tower, C, Infront of Hotel, Central Park, Nigotia, 1, City Center, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "City Center",
+    "landmark": "Infront of Hotel",
+    "emergencyContact": "067461 72343",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Gwalior/@26.2114599,78.1871297,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ccfa1c3e25:0x27ce9574e369caf2!8m2!3d26.2114599!4d78.1871297!16s%2Fg%2F11rcmpgm9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASG+Eye+Hospital+-+Gwalior/@26.2114599,78.1871297,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ccfa1c3e25:0x27ce9574e369caf2!8m2!3d26.2114599!4d78.1871297!16s%2Fg%2F11rcmpgm9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2114599,
+      "lng": 78.1871297,
+      "label": "ASG Eye Hospital - Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashish-dental-clinic-gwalior",
+    "name": "Ashish dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ashish dental clinic has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094253 37600",
+    "alternatePhone": "",
+    "website": "https://jsdl.in/DT-99GXM18M",
+    "address": "Shabd Pratap Ashram Rd, in front of Union bank of india, New Prem Nagar, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "New Prem Nagar",
+    "landmark": "New Prem Nagar",
+    "emergencyContact": "094253 37600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ashish+dental+clinic/@26.2160603,78.1605581,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c68139f3d0dd:0x32b0b55aaaed74b5!8m2!3d26.2160603!4d78.1605581!16s%2Fg%2F11dxm684jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashish+dental+clinic/@26.2160603,78.1605581,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c68139f3d0dd:0x32b0b55aaaed74b5!8m2!3d26.2160603!4d78.1605581!16s%2Fg%2F11dxm684jd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2160603,
+      "lng": 78.1605581,
+      "label": "Ashish dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "atishay-hospital-gwalior",
+    "name": "ATISHAY HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ATISHAY HOSPITAL has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Heart Surgery In Gwalior. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097536 83294",
+    "alternatePhone": "",
+    "website": "https://atishayhospital.in.net/",
+    "address": "Near, Chappar Wala Pull Rd, Jayendraganj, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Jayendraganj",
+    "emergencyContact": "097536 83294",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ATISHAY+HOSPITAL/@26.2042475,78.1626847,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42ea302ec47:0xddbe2fb70bb7c935!8m2!3d26.2042475!4d78.1626847!16s%2Fg%2F11bxc65lc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ATISHAY+HOSPITAL/@26.2042475,78.1626847,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42ea302ec47:0xddbe2fb70bb7c935!8m2!3d26.2042475!4d78.1626847!16s%2Fg%2F11bxc65lc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2042475,
+      "lng": 78.1626847,
+      "label": "ATISHAY HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "balaji-hospital-and-trauma-centre-gwalior",
+    "name": "Balaji Hospital & Trauma Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Gwalior, Balaji Hospital & Trauma Centre delivers integrated care across Orthopedic Surgery In Gwalior. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sachin Niwas, M-11, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lalitpur Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Balaji+Hospital+%26+Trauma+Centre/@26.1976194,78.1627817,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4318fc979dd:0x7d0805851a5cd007!8m2!3d26.1976194!4d78.1627817!16s%2Fg%2F11hbg909sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Balaji+Hospital+%26+Trauma+Centre/@26.1976194,78.1627817,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4318fc979dd:0x7d0805851a5cd007!8m2!3d26.1976194!4d78.1627817!16s%2Fg%2F11hbg909sj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1976194,
+      "lng": 78.1627817,
+      "label": "Balaji Hospital & Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bimr-cancer-centre-gwalior",
+    "name": "BIMR Cancer Centre",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, BIMR Cancer Centre brings together specialists for Oncologist Surgery In Gwalior and Cancer Treatment Center. Operational strengths including Google rating 2.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070006 93838",
+    "alternatePhone": "",
+    "website": "http://www.bimr.org/",
+    "address": "66M9+X67 BIMR HOSPITAL, Surya Mandir Rd, Mahaveer, Morar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Morar",
+    "landmark": "Mahaveer",
+    "emergencyContact": "070006 93838",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BIMR+Cancer+Centre/@26.2349248,78.2180593,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c148ffd13827:0x2d51efe182858f6b!8m2!3d26.2349248!4d78.2180593!16s%2Fg%2F11cs0d1p1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BIMR+Cancer+Centre/@26.2349248,78.2180593,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c148ffd13827:0x2d51efe182858f6b!8m2!3d26.2349248!4d78.2180593!16s%2Fg%2F11cs0d1p1g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2349248,
+      "lng": 78.2180593,
+      "label": "BIMR Cancer Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bimr-hospitals-gwalior",
+    "name": "BIMR HOSPITALS",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Gwalior, BIMR HOSPITALS delivers integrated care across Liver Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075171 02615",
+    "alternatePhone": "",
+    "website": "http://www.bimr.org/BIMRHOSPITAL/index.html",
+    "address": "Surya Mandir Rd, Residency Rd, Mahaveer, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Mahaveer",
+    "landmark": "Mahaveer",
+    "emergencyContact": "075171 02615",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BIMR+HOSPITALS/@26.2352579,78.2184329,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c146c5f0faeb:0x3c9e56a00a744f9a!8m2!3d26.2352579!4d78.2184329!16s%2Fg%2F1v_0h52s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BIMR+HOSPITALS/@26.2352579,78.2184329,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c146c5f0faeb:0x3c9e56a00a744f9a!8m2!3d26.2352579!4d78.2184329!16s%2Fg%2F1v_0h52s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2352579,
+      "lng": 78.2184329,
+      "label": "BIMR HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bliss-dental-clinic-gwalior",
+    "name": "Bliss Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Bliss Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Gwalior and Dentist. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078793 30180",
+    "alternatePhone": "",
+    "website": "",
+    "address": "in front of Shiv Shakti mandir, Tansen Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Tansen Nagar",
+    "landmark": "Gwalior",
+    "emergencyContact": "078793 30180",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bliss+Dental+Clinic/@26.226364,78.1801606,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c6bd6acfbfa3:0x30d38182f656fab!8m2!3d26.226364!4d78.1801606!16s%2Fg%2F11b7r_qb4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bliss+Dental+Clinic/@26.226364,78.1801606,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c6bd6acfbfa3:0x30d38182f656fab!8m2!3d26.226364!4d78.1801606!16s%2Fg%2F11b7r_qb4g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.226364,
+      "lng": 78.1801606,
+      "label": "Bliss Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brain-and-spine-center-gwalior",
+    "name": "Brain & Spine Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Brain & Spine Center is a prominent medical clinic in Gwalior, known for structured tertiary care across Spine Surgery In Gwalior, Neurosciences, and Spine Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075124 54822",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55W2+HJ3, Jinsi Rd Number 3, near Ananda Hospital, Roxy Pul, Chitnis Ki Goth, Lohiya Bazaar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lohiya Bazaar",
+    "landmark": "near Ananda Hospital, Roxy Pul, Chitnis Ki Goth, Lohiya Bazaar, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "075124 54822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Brain+%26+Spine+Center/@26.1963985,78.1515555,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cdd034af81:0x6153e2139d65b6e2!8m2!3d26.1963985!4d78.1515555!16s%2Fg%2F11bymy8jw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brain+%26+Spine+Center/@26.1963985,78.1515555,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cdd034af81:0x6153e2139d65b6e2!8m2!3d26.1963985!4d78.1515555!16s%2Fg%2F11bymy8jw8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1963985,
+      "lng": 78.1515555,
+      "label": "Brain & Spine Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-hill-gwalior",
+    "name": "CANCER HILL",
+    "type": "Hill Station",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, CANCER HILL brings together specialists for Oncologist Surgery In Gwalior and Hill Station. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cancer Hospital Rd, Amkhoh, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Amkhoh",
+    "landmark": "Gwalior",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior",
+      "Hill Station"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/CANCER+HILL/@26.183661,78.1652787,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4368b504211:0xe0401af83bf0a7ba!8m2!3d26.183661!4d78.1652787!16s%2Fg%2F11cst0lg0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CANCER+HILL/@26.183661,78.1652787,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4368b504211:0xe0401af83bf0a7ba!8m2!3d26.183661!4d78.1652787!16s%2Fg%2F11cst0lg0s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.183661,
+      "lng": 78.1652787,
+      "label": "CANCER HILL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-hospital-and-research-institute-gwalior",
+    "name": "Cancer Hospital & Research Institute",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cancer Hospital & Research Institute is a prominent cancer treatment center in Gwalior, known for structured tertiary care across Kidney Transplant Surgery In Gwalior and Cancer Treatment Center. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075123 36502",
+    "alternatePhone": "",
+    "website": "http://www.cancerhospitalgwalior.com/",
+    "address": "Cancer Hills, New Vijay Nagar, Amkhoh, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Amkhoh",
+    "landmark": "Amkhoh",
+    "emergencyContact": "075123 36502",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Hospital+%26+Research+Institute/@26.186612,78.163569,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c448c398d523:0x4ba42223c3791b11!8m2!3d26.186612!4d78.163569!16s%2Fm%2F0hn95q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Hospital+%26+Research+Institute/@26.186612,78.163569,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c448c398d523:0x4ba42223c3791b11!8m2!3d26.186612!4d78.163569!16s%2Fm%2F0hn95q2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.186612,
+      "lng": 78.163569,
+      "label": "Cancer Hospital & Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-hospital-and-nuclear-medicine-centre-gwalior",
+    "name": "Cancer Hospital and Nuclear Medicine Centre",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Cancer Hospital and Nuclear Medicine Centre for its strength in Cancer Surgery In Gwalior and Cancer Treatment Center. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075123 21452",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6526+G24, opp. District and Sessions Court and Family Court, Maina Wali Gali, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Maina Wali Gali",
+    "emergencyContact": "075123 21452",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Hospital+and+Nuclear+Medicine+Centre/@26.2012532,78.1600673,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42dbc9fdcb1:0x2472d0d3654b9519!8m2!3d26.2012532!4d78.1600673!16s%2Fg%2F1hm37bb47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Hospital+and+Nuclear+Medicine+Centre/@26.2012532,78.1600673,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42dbc9fdcb1:0x2472d0d3654b9519!8m2!3d26.2012532!4d78.1600673!16s%2Fg%2F1hm37bb47?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2012532,
+      "lng": 78.1600673,
+      "label": "Cancer Hospital and Nuclear Medicine Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-hospital-and-research-institute-jan-vikas-nyas-trust-gwalior",
+    "name": "Cancer Hospital And Research Institute Jan Vikas Nyas Trust",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Cancer Hospital And Research Institute Jan Vikas Nyas Trust offers coordinated hospital care with major focus on Cancer Surgery In Gwalior. With public-facing highlights like Google rating 2.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075123 36502",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cancer Hills, To Mandare ki Mata, Amkhoh, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Amkhoh",
+    "landmark": "Amkhoh",
+    "emergencyContact": "075123 36502",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Hospital+And+Research+Institute+Jan+Vikas+Nyas+Trust/@26.1848344,78.1660189,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4489a6dc6f7:0xcbfc41084a881c09!8m2!3d26.1848344!4d78.1660189!16s%2Fg%2F11pbrjbkk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Hospital+And+Research+Institute+Jan+Vikas+Nyas+Trust/@26.1848344,78.1660189,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4489a6dc6f7:0xcbfc41084a881c09!8m2!3d26.1848344!4d78.1660189!16s%2Fg%2F11pbrjbkk7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1848344,
+      "lng": 78.1660189,
+      "label": "Cancer Hospital And Research Institute Jan Vikas Nyas Trust",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandak-hospital-gwalior",
+    "name": "Chandak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Chandak Hospital offers coordinated hospital care with major focus on Urologist Surgery In Gwalior. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "14, Hospital Rd, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lalitpur Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Chandak+Hospital/@26.1982516,78.161562,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c431ff5dd48f:0x9fa8bd652d34f0c1!8m2!3d26.1982516!4d78.161562!16s%2Fg%2F1263t675q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandak+Hospital/@26.1982516,78.161562,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c431ff5dd48f:0x9fa8bd652d34f0c1!8m2!3d26.1982516!4d78.161562!16s%2Fg%2F1263t675q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1982516,
+      "lng": 78.161562,
+      "label": "Chandak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chandra-hospital-gwalior",
+    "name": "Chandra hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gwalior, Chandra hospital delivers integrated care across Orthopedic Surgery In Gwalior. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075123 40739",
+    "alternatePhone": "",
+    "website": "",
+    "address": "170, near chandra hospital, Jiwaji Nagar, Suresh Nagar Colony, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near chandra hospital, Jiwaji Nagar, Suresh Nagar Colony, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "075123 40739",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Chandra+hospital/@26.2173889,78.207306,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1560a7eb5dd:0x20382786d255ba94!8m2!3d26.2173889!4d78.207306!16s%2Fg%2F126134b5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chandra+hospital/@26.2173889,78.207306,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1560a7eb5dd:0x20382786d255ba94!8m2!3d26.2173889!4d78.207306!16s%2Fg%2F126134b5j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2173889,
+      "lng": 78.207306,
+      "label": "Chandra hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chs-apple-hospital-gwalior",
+    "name": "CHS Apple Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose CHS Apple Hospital for its strength in Liver Transplant Surgery In Gwalior. Its infrastructure includes Google rating 3.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.chsapplehospitalgwalior.com/",
+    "address": "CHS Apple Hospital, Hospital Rd, Geeta Colony, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Geeta Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CHS+Apple+Hospital/@26.1972187,78.1606277,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53a652c8161:0xab92afeeba210692!8m2!3d26.1972187!4d78.1606277!16s%2Fg%2F11nwwp6tf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CHS+Apple+Hospital/@26.1972187,78.1606277,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53a652c8161:0xab92afeeba210692!8m2!3d26.1972187!4d78.1606277!16s%2Fg%2F11nwwp6tf8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1972187,
+      "lng": 78.1606277,
+      "label": "CHS Apple Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-smiles-dental-clinic-strategic-implantologist-full-mouth-rehabilitation-fixed-teeth-and-dentures-specialist-gwalior",
+    "name": "City Smiles Dental Clinic – Strategic Implantologist | Full Mouth Rehabilitation | Fixed Teeth and Dentures Specialist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, City Smiles Dental Clinic – Strategic Implantologist | Full Mouth Rehabilitation | Fixed Teeth and Dentures Specialist delivers integrated care across Oral Surgery In Gwalior. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096303 57666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gayatri Nagar, near Midtown Galaxy complex, opposite pinto park, Pinto Park, sabzi mandi, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "sabzi mandi",
+    "landmark": "near Midtown Galaxy complex, opposite pinto park, Pinto Park, sabzi mandi, Gwalior, Madhya Pradesh 474005",
+    "emergencyContact": "096303 57666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Smiles+Dental+Clinic+%E2%80%93+Strategic+Implantologist+%7C+Full+Mouth+Rehabilitation+%7C+Fixed+Teeth+and+Dentures+Specialist/@26.24828,78.2168915,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c13b05287d89:0xa746f13051fc1fc2!8m2!3d26.24828!4d78.2168915!16s%2Fg%2F11fxcybc10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Smiles+Dental+Clinic+%E2%80%93+Strategic+Implantologist+%7C+Full+Mouth+Rehabilitation+%7C+Fixed+Teeth+and+Dentures+Specialist/@26.24828,78.2168915,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c13b05287d89:0xa746f13051fc1fc2!8m2!3d26.24828!4d78.2168915!16s%2Fg%2F11fxcybc10?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.24828,
+      "lng": 78.2168915,
+      "label": "City Smiles Dental Clinic – Strategic Implantologist | Full Mouth Rehabilitation | Fixed Teeth and Dentures Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmazone-gwalior",
+    "name": "Cosmazone",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Cosmazone for its strength in Kidney Transplant Surgery In Gwalior. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094251 11944",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6547+88J, Pan-In-Plaza Complex, Lashkar, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Shinde Ki Chhawani",
+    "landmark": "Lashkar",
+    "emergencyContact": "094251 11944",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmazone/@26.2058352,78.1632771,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c697f90766e5:0xc886875dfcf38db4!8m2!3d26.2058352!4d78.1632771!16s%2Fg%2F1tlqnd3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmazone/@26.2058352,78.1632771,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c697f90766e5:0xc886875dfcf38db4!8m2!3d26.2058352!4d78.1632771!16s%2Fg%2F1tlqnd3l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2058352,
+      "lng": 78.1632771,
+      "label": "Cosmazone",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-experts-clinic-gwalior-best-hair-transplant-clinic-gwalior",
+    "name": "Cosmo Experts Clinic Gwalior - Best Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Cosmo Experts Clinic Gwalior - Best Hair Transplant Clinic for its strength in Kidney Transplant Surgery In Gwalior. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081096 79650",
+    "alternatePhone": "",
+    "website": "https://www.cosmoexpert.in/",
+    "address": "201, 2nd floor, Madhav Rao Scindia Marg, near Salasar Mall, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Tulsi Vihar Colony",
+    "landmark": "near Salasar Mall, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "081096 79650",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmo+Experts+Clinic+Gwalior+-+Best+Hair+Transplant+Clinic/@26.2054826,78.1894994,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5178f3d7d59:0x656e9dedf856e397!8m2!3d26.2054826!4d78.1894994!16s%2Fg%2F11h6rx3dbz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmo+Experts+Clinic+Gwalior+-+Best+Hair+Transplant+Clinic/@26.2054826,78.1894994,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5178f3d7d59:0x656e9dedf856e397!8m2!3d26.2054826!4d78.1894994!16s%2Fg%2F11h6rx3dbz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2054826,
+      "lng": 78.1894994,
+      "label": "Cosmo Experts Clinic Gwalior - Best Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-skin-and-hair-care-gwalior-aesthetic-centre-gwalior",
+    "name": "Cosmo Skin and Hair Care Gwalior( Aesthetic Centre)",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Gwalior, Cosmo Skin and Hair Care Gwalior( Aesthetic Centre) delivers integrated care across Kidney Transplant Surgery In Gwalior. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092005 95809",
+    "alternatePhone": "",
+    "website": "https://cosmoskinandhaircaregwalior.com/",
+    "address": "Infront of Canara Bank, Shop no.33 Adarsh Colony marg, branch, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Shinde Ki Chhawani",
+    "landmark": "branch",
+    "emergencyContact": "092005 95809",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmo+Skin+and+Hair+Care+Gwalior(+Aesthetic+Centre)/@26.2089783,78.1579479,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c569630c22f3:0xeed856c7f82e5fc2!8m2!3d26.2089783!4d78.1579479!16s%2Fg%2F11sw4p_qnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmo+Skin+and+Hair+Care+Gwalior(+Aesthetic+Centre)/@26.2089783,78.1579479,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c569630c22f3:0xeed856c7f82e5fc2!8m2!3d26.2089783!4d78.1579479!16s%2Fg%2F11sw4p_qnk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2089783,
+      "lng": 78.1579479,
+      "label": "Cosmo Skin and Hair Care Gwalior( Aesthetic Centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cusp-dental-clinic-and-academy-best-orthodontic-dental-implant-top-root-canal-treatment-in-gwalior-gwalior",
+    "name": "Cusp Dental clinic & Academy - Best Orthodontic | Dental Implant | Top Root Canal Treatment in Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cusp Dental clinic & Academy - Best Orthodontic | Dental Implant | Top Root Canal Treatment in Gwalior has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior and Orthopaedics. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094257 74685",
+    "alternatePhone": "",
+    "website": "http://cuspdental.co.in/",
+    "address": "Roman, Ingle Sahab Ka Bada, near Padhma Vidhyalaya, Idgah, Kampoo, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Kampoo",
+    "landmark": "near Padhma Vidhyalaya, Idgah, Kampoo, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "094257 74685",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cusp+Dental+clinic+%26+Academy+-+Best+Orthodontic+%7C+Dental+Implant+%7C+Top+Root+Canal+Treatment+in+Gwalior/@26.1930403,78.1519046,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59c79cbbc83:0xbf0ca00cacd00918!8m2!3d26.1930403!4d78.1519046!16s%2Fg%2F11h2pty_gy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cusp+Dental+clinic+%26+Academy+-+Best+Orthodontic+%7C+Dental+Implant+%7C+Top+Root+Canal+Treatment+in+Gwalior/@26.1930403,78.1519046,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59c79cbbc83:0xbf0ca00cacd00918!8m2!3d26.1930403!4d78.1519046!16s%2Fg%2F11h2pty_gy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1930403,
+      "lng": 78.1519046,
+      "label": "Cusp Dental clinic & Academy - Best Orthodontic | Dental Implant | Top Root Canal Treatment in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cusp-dental-clinic-and-academy-best-orthodontic-braces-treatment-dental-academy-top-root-canal-treatment-clinic-in-gwalior-gwalior",
+    "name": "Cusp Dental Clinic & Academy- Best Orthodontic Braces Treatment | Dental Academy | Top Root Canal Treatment Clinic in Gwalior",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Cusp Dental Clinic & Academy- Best Orthodontic Braces Treatment | Dental Academy | Top Root Canal Treatment Clinic in Gwalior brings together specialists for Oral Surgery In Gwalior, Dentist, and Orthopaedics. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094257 74685",
+    "alternatePhone": "",
+    "website": "https://cuspdental.co.in/",
+    "address": "Keshav Vihar, Opposite Bazz Cinema, Morar Cantt., Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar Cantt.",
+    "landmark": "Opposite Bazz Cinema, Morar Cantt., Gwalior, Madhya Pradesh 474006",
+    "emergencyContact": "094257 74685",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cusp+Dental+Clinic+%26+Academy-+Best+Orthodontic+Braces+Treatment+%7C+Dental+Academy+%7C+Top+Root+Canal+Treatment+Clinic+in+Gwalior/@26.2222953,78.2363217,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c16569e039e1:0xb374d09dd7eb3583!8m2!3d26.2222953!4d78.2363217!16s%2Fg%2F11spddnl9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cusp+Dental+Clinic+%26+Academy-+Best+Orthodontic+Braces+Treatment+%7C+Dental+Academy+%7C+Top+Root+Canal+Treatment+Clinic+in+Gwalior/@26.2222953,78.2363217,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c16569e039e1:0xb374d09dd7eb3583!8m2!3d26.2222953!4d78.2363217!16s%2Fg%2F11spddnl9g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2222953,
+      "lng": 78.2363217,
+      "label": "Cusp Dental Clinic & Academy- Best Orthodontic Braces Treatment | Dental Academy | Top Root Canal Treatment Clinic in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dalmia-heart-and-infertility-center-gwalior",
+    "name": "Dalmia Heart & Infertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dalmia Heart & Infertility Center is a prominent fertility clinic in Gwalior, known for structured tertiary care across IVF In Gwalior, Cardiac Care, and Fertility Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094251 10355",
+    "alternatePhone": "",
+    "website": "https://dalmiaheartandivf.com/",
+    "address": "54, behind Gole ka mandir, Morar Enclave, Mahaveer, Morar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Morar",
+    "landmark": "Morar Enclave",
+    "emergencyContact": "094251 10355",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Cardiac Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dalmia+Heart+%26+Infertility+Center/@26.2338742,78.2111022,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c14dfc2b0069:0xb41de6e1673ac10c!8m2!3d26.2338742!4d78.2111022!16s%2Fg%2F11qjzkgl9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dalmia+Heart+%26+Infertility+Center/@26.2338742,78.2111022,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c14dfc2b0069:0xb41de6e1673ac10c!8m2!3d26.2338742!4d78.2111022!16s%2Fg%2F11qjzkgl9x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2338742,
+      "lng": 78.2111022,
+      "label": "Dalmia Heart & Infertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dalmia-heart-diagnostics-gwalior",
+    "name": "Dalmia Heart Diagnostics",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Dalmia Heart Diagnostics for its strength in Heart Surgery In Gwalior and Cardiac Care. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "54, Gole Ka Mandir Rd, adjoining Hotel Suruchi, Morar Enclave, Mahaveer, Morar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Morar",
+    "landmark": "adjoining Hotel Suruchi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Dalmia+Heart+Diagnostics/@26.2339199,78.2110439,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15135b4e0b5:0xdfbb038efc1425ce!8m2!3d26.2339199!4d78.2110439!16s%2Fg%2F11gk8pynyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dalmia+Heart+Diagnostics/@26.2339199,78.2110439,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15135b4e0b5:0xdfbb038efc1425ce!8m2!3d26.2339199!4d78.2110439!16s%2Fg%2F11gk8pynyq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2339199,
+      "lng": 78.2110439,
+      "label": "Dalmia Heart Diagnostics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dalmia-infertility-and-test-tube-baby-centre-gwalior",
+    "name": "Dalmia Infertility and Test Tube Baby Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dalmia Infertility and Test Tube Baby Centre is a prominent hospital in Gwalior, known for structured tertiary care across IVF In Gwalior and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "66M6+JCF, Gole Ka Mandir Rd, Morar Enclave, Hanuman Nagar, Morar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Morar",
+    "landmark": "Morar Enclave",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dalmia+Infertility+and+Test+Tube+Baby+Centre/@26.2340727,78.2110604,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1000c87dda7:0xac7733ea2191aeb4!8m2!3d26.2340727!4d78.2110604!16s%2Fg%2F11yfwk99w3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dalmia+Infertility+and+Test+Tube+Baby+Centre/@26.2340727,78.2110604,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1000c87dda7:0xac7733ea2191aeb4!8m2!3d26.2340727!4d78.2110604!16s%2Fg%2F11yfwk99w3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2340727,
+      "lng": 78.2110604,
+      "label": "Dalmia Infertility and Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deep-dental-care-gwalior",
+    "name": "DEEP DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose DEEP DENTAL CARE for its strength in Oral Surgery In Gwalior. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083579 37864",
+    "alternatePhone": "",
+    "website": "",
+    "address": "170, near chandra hospital, Jiwaji Nagar, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near chandra hospital, Jiwaji Nagar, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "083579 37864",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/DEEP+DENTAL+CARE/@26.2171572,78.2068277,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1888cd6fce9:0xd0325e272f80358c!8m2!3d26.2171572!4d78.2068277!16s%2Fg%2F11nyys_dmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DEEP+DENTAL+CARE/@26.2171572,78.2068277,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1888cd6fce9:0xd0325e272f80358c!8m2!3d26.2171572!4d78.2068277!16s%2Fg%2F11nyys_dmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2171572,
+      "lng": 78.2068277,
+      "label": "DEEP DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dehli-hospital-non-surgical-spine-center-gwalior",
+    "name": "Dehli Hospital/NON-SURGICAL SPINE CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dehli Hospital/NON-SURGICAL SPINE CENTER has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Spine Surgery In Gwalior and Spine Care. Its infrastructure includes Google rating 3.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073548 58466",
+    "alternatePhone": "",
+    "website": "http://www.nonsurgicalspinecenter.in/",
+    "address": "Delhi Hospital, Baradari Chauraha, near Power House, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "near Power House, Morar, Gwalior, Madhya Pradesh 474006",
+    "emergencyContact": "073548 58466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dehli+Hospital%2FNON-SURGICAL+SPINE+CENTER/@26.2188852,78.2237105,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3b630109947:0xf9ee887c83a9fe7d!8m2!3d26.2188852!4d78.2237105!16s%2Fg%2F11gkzmvf_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dehli+Hospital%2FNON-SURGICAL+SPINE+CENTER/@26.2188852,78.2237105,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3b630109947:0xf9ee887c83a9fe7d!8m2!3d26.2188852!4d78.2237105!16s%2Fg%2F11gkzmvf_c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2188852,
+      "lng": 78.2237105,
+      "label": "Dehli Hospital/NON-SURGICAL SPINE CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dent-o-care-dental-and-oral-health-care-center-gwalior",
+    "name": "Dent-O-Care Dental And Oral Health Care Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Dent-O-Care Dental And Oral Health Care Center for its strength in Oral Surgery In Gwalior. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097131 93357",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Koteshwar Rd, Near Bijlighar, Vinay Nagar, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "Vinay Nagar",
+    "landmark": "Near Bijlighar, Vinay Nagar, Gwalior, Madhya Pradesh 474012",
+    "emergencyContact": "097131 93357",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dent-O-Care+Dental+And+Oral+Health+Care+Center/@26.2259819,78.1614391,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c6892893dc7b:0x9d2a7784806c1a5e!8m2!3d26.2259819!4d78.1614391!16s%2Fg%2F11b7rnf34l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dent-O-Care+Dental+And+Oral+Health+Care+Center/@26.2259819,78.1614391,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c6892893dc7b:0x9d2a7784806c1a5e!8m2!3d26.2259819!4d78.1614391!16s%2Fg%2F11b7rnf34l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2259819,
+      "lng": 78.1614391,
+      "label": "Dent-O-Care Dental And Oral Health Care Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-hub-implant-and-trauma-clinic-gwalior",
+    "name": "Dental hub implant and trauma clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental hub implant and trauma clinic is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096911 71688",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of hotel Prahlad in, Tansen Rd, Laxman Pura, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Laxman Pura",
+    "landmark": "Laxman Pura",
+    "emergencyContact": "096911 71688",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+hub+implant+and+trauma+clinic/@26.213648,78.177033,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c76012502711:0x529a5060e4e34d69!8m2!3d26.213648!4d78.177033!16s%2Fg%2F11rcw8n73d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+hub+implant+and+trauma+clinic/@26.213648,78.177033,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c76012502711:0x529a5060e4e34d69!8m2!3d26.213648!4d78.177033!16s%2Fg%2F11rcw8n73d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.213648,
+      "lng": 78.177033,
+      "label": "Dental hub implant and trauma clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentalox-best-dental-clinic-dental-clinic-in-gwalior-rct-implant-braces-gwalior",
+    "name": "Dentalox||Best Dental Clinic||Dental Clinic in Gwalior|| RCT||Implant||Braces||",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Dentalox||Best Dental Clinic||Dental Clinic in Gwalior|| RCT||Implant||Braces|| delivers integrated care across Oral Surgery In Gwalior. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091111 99004",
+    "alternatePhone": "",
+    "website": "https://dentalox.com/",
+    "address": "First Floor, Yamnotri Apartment, above Yamnotri Apartment, Mayur Market, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "above Yamnotri Apartment",
+    "emergencyContact": "091111 99004",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentalox%7C%7CBest+Dental+Clinic%7C%7CDental+Clinic+in+Gwalior%7C%7C+RCT%7C%7CImplant%7C%7CBraces%7C%7C/@26.2157514,78.204645,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c110a13219d1:0x56d34220f6a10f71!8m2!3d26.2157514!4d78.204645!16s%2Fg%2F11vrl8vrg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentalox%7C%7CBest+Dental+Clinic%7C%7CDental+Clinic+in+Gwalior%7C%7C+RCT%7C%7CImplant%7C%7CBraces%7C%7C/@26.2157514,78.204645,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c110a13219d1:0x56d34220f6a10f71!8m2!3d26.2157514!4d78.204645!16s%2Fg%2F11vrl8vrg1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2157514,
+      "lng": 78.204645,
+      "label": "Dentalox||Best Dental Clinic||Dental Clinic in Gwalior|| RCT||Implant||Braces||",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devita-dental-clinic-opposite-gandhi-park-landmark-khedapati-mandir-churaha",
+    "name": "Devita dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in opposite Gandhi park Landmark: Khedapati mandir churaha often choose Devita dental clinic for its strength in Oral Surgery In Gwalior. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094251 26836",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gandhi nagar, opposite Gandhi park Landmark: Khedapati mandir churaha, Madhya Pradesh 474002",
+    "city": "opposite Gandhi park Landmark: Khedapati mandir churaha",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Gandhi nagar",
+    "landmark": "opposite Gandhi park Landmark: Khedapati mandir churaha, Madhya Pradesh 474002",
+    "emergencyContact": "094251 26836",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Devita+dental+clinic/@26.2185468,78.1771206,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7597c3d73bf:0x15ea5f5a23ce67bd!8m2!3d26.2185468!4d78.1771206!16s%2Fg%2F11fr41xp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devita+dental+clinic/@26.2185468,78.1771206,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7597c3d73bf:0x15ea5f5a23ce67bd!8m2!3d26.2185468!4d78.1771206!16s%2Fg%2F11fr41xp8b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2185468,
+      "lng": 78.1771206,
+      "label": "Devita dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhir-dental-clinic-gwalior",
+    "name": "DHIR DENTAL CLINIC धीर डेंटल क्लिनिक",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, DHIR DENTAL CLINIC धीर डेंटल क्लिनिक offers coordinated hospital care with major focus on Oral Surgery In Gwalior. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097525 01500",
+    "alternatePhone": "",
+    "website": "",
+    "address": "EH- 1B, next to Kaveri Enclave, Thatipur, Darpan Colony, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Darpan Colony",
+    "landmark": "Thatipur",
+    "emergencyContact": "097525 01500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/DHIR+DENTAL+CLINIC+%E0%A4%A7%E0%A5%80%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@26.2098309,78.2071059,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c39ad4b59501:0xd8077bf677a6aba1!8m2!3d26.2098309!4d78.2071059!16s%2Fg%2F11fjx9ylmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DHIR+DENTAL+CLINIC+%E0%A4%A7%E0%A5%80%E0%A4%B0+%E0%A4%A1%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B2+%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%95/@26.2098309,78.2071059,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c39ad4b59501:0xd8077bf677a6aba1!8m2!3d26.2098309!4d78.2071059!16s%2Fg%2F11fjx9ylmh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2098309,
+      "lng": 78.2071059,
+      "label": "DHIR DENTAL CLINIC धीर डेंटल क्लिनिक",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "divy-dental-care-clinic-ll-dentist-in-gwalior-ll-dental-clinic-in-gwalior-ll-orthodontics-center-ll-teeth-whightening-clinic-gwalior",
+    "name": "Divy Dental Care clinic ll DENTIST IN GWALIOR ll Dental Clinic In Gwalior ll Orthodontics Center ll Teeth Whightening Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Divy Dental Care clinic ll DENTIST IN GWALIOR ll Dental Clinic In Gwalior ll Orthodontics Center ll Teeth Whightening Clinic delivers integrated care across Oral Surgery In Gwalior and Orthopaedics. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073548 02573",
+    "alternatePhone": "",
+    "website": "https://divydentalclinic.com/",
+    "address": "Phalka Bazar Rd, Phalka Bazar, Hanuman Nagar, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Hanuman Nagar",
+    "emergencyContact": "073548 02573",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Divy+Dental+Care+clinic+ll+DENTIST+IN+GWALIOR+ll+Dental+Clinic+In+Gwalior+ll+Orthodontics+Center+ll+Teeth+Whightening+Clinic/@26.203432,78.1585754,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5daf8323ce7:0x68bf8ce2c46d9f94!8m2!3d26.203432!4d78.1585754!16s%2Fg%2F11k1hhtfr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Divy+Dental+Care+clinic+ll+DENTIST+IN+GWALIOR+ll+Dental+Clinic+In+Gwalior+ll+Orthodontics+Center+ll+Teeth+Whightening+Clinic/@26.203432,78.1585754,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5daf8323ce7:0x68bf8ce2c46d9f94!8m2!3d26.203432!4d78.1585754!16s%2Fg%2F11k1hhtfr3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.203432,
+      "lng": 78.1585754,
+      "label": "Divy Dental Care clinic ll DENTIST IN GWALIOR ll Dental Clinic In Gwalior ll Orthodontics Center ll Teeth Whightening Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "drdeeksha-smilenest-dental-care-gwalior",
+    "name": "DrDeeksha SmileNest Dental care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, DrDeeksha SmileNest Dental care brings together specialists for Oral Surgery In Gwalior. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089894 82842",
+    "alternatePhone": "",
+    "website": "https://drdeeksha-smilenest.grexa.site/",
+    "address": "City Centre, SmilNest Dental care IA tower, above idfc bank, Patel Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Patel Nagar",
+    "landmark": "above idfc bank",
+    "emergencyContact": "089894 82842",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DrDeeksha+SmileNest+Dental+care/@26.2090171,78.190736,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ad69891ee3:0x1fa86d13d46a1af8!8m2!3d26.2090171!4d78.190736!16s%2Fg%2F11xzf0_3g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DrDeeksha+SmileNest+Dental+care/@26.2090171,78.190736,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ad69891ee3:0x1fa86d13d46a1af8!8m2!3d26.2090171!4d78.190736!16s%2Fg%2F11xzf0_3g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2090171,
+      "lng": 78.190736,
+      "label": "DrDeeksha SmileNest Dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "extol-dental-clinic-gwalior",
+    "name": "Extol Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Extol Dental Clinic for its strength in Oral Surgery In Gwalior. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099939 91888",
+    "alternatePhone": "",
+    "website": "https://extoldental.com/",
+    "address": "Ground Floor, Dauaa Apartment, Kushwah Market Rd, D.D. Nagar, Bakloh Cantt, Deen Dayal Nagar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Deen Dayal Nagar",
+    "landmark": "Kushwah Market Rd",
+    "emergencyContact": "099939 91888",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Extol+Dental+Clinic/@26.2637918,78.210385,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1004d060a0b:0xdd1ba2f18b9c38b5!8m2!3d26.2637918!4d78.210385!16s%2Fg%2F11vqd1q14s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Extol+Dental+Clinic/@26.2637918,78.210385,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1004d060a0b:0xdd1ba2f18b9c38b5!8m2!3d26.2637918!4d78.210385!16s%2Fg%2F11vqd1q14s?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2637918,
+      "lng": 78.210385,
+      "label": "Extol Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gaur-nursing-home-gwalior",
+    "name": "Gaur Nursing Home",
+    "type": "Nursing Home",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Gaur Nursing Home offers coordinated hospital care with major focus on Orthopedic Surgery In Gwalior and Nursing Home. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6523+2G9, Madhoganj, Khurjewala Mohalla, Daulat Ganj, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Daulat Ganj",
+    "landmark": "Khurjewala Mohalla",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior",
+      "Nursing Home"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Gaur+Nursing+Home/@26.2000419,78.1538584,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d28bc1604f:0xe373dd5ecfd789d6!8m2!3d26.2000419!4d78.1538584!16s%2Fg%2F11btrr7r74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gaur+Nursing+Home/@26.2000419,78.1538584,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d28bc1604f:0xe373dd5ecfd789d6!8m2!3d26.2000419!4d78.1538584!16s%2Fg%2F11btrr7r74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2000419,
+      "lng": 78.1538584,
+      "label": "Gaur Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gshri-hospital-gwalior",
+    "name": "GSHRI HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, GSHRI HOSPITAL offers coordinated hospital care with major focus on Spine Surgery In Gwalior. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077240 73238",
+    "alternatePhone": "",
+    "website": "http://www.gshrihospital.com/",
+    "address": "GSHRI HOSPITAL, opp. MADHAV DISPENSARY, Lalitpur Colony, Lashkar, LALITPUR, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "LALITPUR",
+    "landmark": "Lalitpur Colony",
+    "emergencyContact": "077240 73238",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GSHRI+HOSPITAL/@26.1949946,78.160249,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5b24e71447f:0x83a8b935146c58b2!8m2!3d26.1949946!4d78.160249!16s%2Fg%2F11hyvkpqfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GSHRI+HOSPITAL/@26.1949946,78.160249,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5b24e71447f:0x83a8b935146c58b2!8m2!3d26.1949946!4d78.160249!16s%2Fg%2F11hyvkpqfr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1949946,
+      "lng": 78.160249,
+      "label": "GSHRI HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gwalior-burn-and-plastic-surgery-centre-gwalior",
+    "name": "Gwalior Burn and plastic surgery centre",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gwalior Burn and plastic surgery centre is a prominent plastic surgery clinic in Gwalior, known for structured tertiary care across Liver Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094257 06368",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Prem motors ke paas, Kamla garrage wali gali me, D 40, Basant Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Basant Vihar Colony",
+    "landmark": "D 40",
+    "emergencyContact": "094257 06368",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Gwalior+Burn+and+plastic+surgery+centre/@26.2068675,78.1785538,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53d1f193e3d:0x6e6fbed55e8dc36d!8m2!3d26.2068675!4d78.1785538!16s%2Fg%2F11w4df74cc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gwalior+Burn+and+plastic+surgery+centre/@26.2068675,78.1785538,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53d1f193e3d:0x6e6fbed55e8dc36d!8m2!3d26.2068675!4d78.1785538!16s%2Fg%2F11w4df74cc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2068675,
+      "lng": 78.1785538,
+      "label": "Gwalior Burn and plastic surgery centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gwalior-endoscopy-centre-gwalior",
+    "name": "Gwalior Endoscopy Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Gwalior, Gwalior Endoscopy Centre delivers integrated care across Liver Transplant Surgery In Gwalior. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096173 46111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55V6+RPM, Hoapital rd, 786, Hospital Rd, opposite J.A Hospital, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "opposite J.A Hospital, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "096173 46111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Gwalior+Endoscopy+Centre/@26.194624,78.1618358,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c433e370bc3f:0xf42febc4a2e85356!8m2!3d26.194624!4d78.1618358!16s%2Fg%2F124ss3kpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gwalior+Endoscopy+Centre/@26.194624,78.1618358,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c433e370bc3f:0xf42febc4a2e85356!8m2!3d26.194624!4d78.1618358!16s%2Fg%2F124ss3kpl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.194624,
+      "lng": 78.1618358,
+      "label": "Gwalior Endoscopy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gwalior-surgicare-clinic-gwalior",
+    "name": "Gwalior Surgicare Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Gwalior Surgicare Clinic offers coordinated hospital care with major focus on Liver Transplant Surgery In Gwalior. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "093993 65933",
+    "alternatePhone": "",
+    "website": "",
+    "address": "chuhan pyau, thatipur, Morar, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Morar",
+    "landmark": "Morar",
+    "emergencyContact": "093993 65933",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Gwalior+Surgicare+Clinic/@26.214834,78.204386,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1557da39f61:0xac6ee77baf7fe83b!8m2!3d26.214834!4d78.204386!16s%2Fg%2F11s82yw6sk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gwalior+Surgicare+Clinic/@26.214834,78.204386,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1557da39f61:0xac6ee77baf7fe83b!8m2!3d26.214834!4d78.204386!16s%2Fg%2F11s82yw6sk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.214834,
+      "lng": 78.204386,
+      "label": "Gwalior Surgicare Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hair-beauty-and-you-hair-transplant-in-gwalior-evolve-esthetique-clinics-gwalior",
+    "name": "Hair Beauty & You | hair Transplant in Gwalior | Evolve Esthetique Clinics",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hair Beauty & You | hair Transplant in Gwalior | Evolve Esthetique Clinics has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Gwalior. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098212 98172",
+    "alternatePhone": "",
+    "website": "",
+    "address": "DK TOWER, PLOT NO. 113, opp. INCOME TAX OFFICE, near SBI REGIONAL OFFICE, City Center, Jiwaji University, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Mahalgaon",
+    "landmark": "near SBI REGIONAL OFFICE, City Center, Jiwaji University, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "098212 98172",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Hair+Beauty+%26+You+%7C+hair+Transplant+in+Gwalior+%7C+Evolve+Esthetique+Clinics/@26.2035227,78.1920664,15z/data=!3m1!4b1!4m6!3m5!1s0x3976c4056aaaaaab:0x51856e7b0e173fdd!8m2!3d26.2035227!4d78.1920664!16s%2Fg%2F11fn4hz3ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hair+Beauty+%26+You+%7C+hair+Transplant+in+Gwalior+%7C+Evolve+Esthetique+Clinics/@26.2035227,78.1920664,15z/data=!3m1!4b1!4m6!3m5!1s0x3976c4056aaaaaab:0x51856e7b0e173fdd!8m2!3d26.2035227!4d78.1920664!16s%2Fg%2F11fn4hz3ht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2035227,
+      "lng": 78.1920664,
+      "label": "Hair Beauty & You | hair Transplant in Gwalior | Evolve Esthetique Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "happy-dentz-dental-clinic-orthodontic-and-implant-center-invisalign-provider-gwalior",
+    "name": "Happy Dentz Dental Clinic Orthodontic and Implant center Invisalign provider",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Happy Dentz Dental Clinic Orthodontic and Implant center Invisalign provider for its strength in Oral Surgery In Gwalior, Dentist, and Orthopaedics. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099588 75337",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C-21 govindpuri, road, opposite sai apartments, Jiwaji University, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "opposite sai apartments, Jiwaji University, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "099588 75337",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic+Orthodontic+and+Implant+center+Invisalign+provider/@26.2057222,78.2003503,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c565c9f43263:0x25463c500bbd1fc2!8m2!3d26.2057222!4d78.2003503!16s%2Fg%2F11fngybnpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Happy+Dentz+Dental+Clinic+Orthodontic+and+Implant+center+Invisalign+provider/@26.2057222,78.2003503,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c565c9f43263:0x25463c500bbd1fc2!8m2!3d26.2057222!4d78.2003503!16s%2Fg%2F11fngybnpf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2057222,
+      "lng": 78.2003503,
+      "label": "Happy Dentz Dental Clinic Orthodontic and Implant center Invisalign provider",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "harmony-dental-clinic-gwalior",
+    "name": "Harmony Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Harmony Dental Clinic is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095223 05080",
+    "alternatePhone": "",
+    "website": "http://www.harmonydentalclinics.in/",
+    "address": "Shop no. 2, Ground floor ,M k Plaza Madhav dispensary Road, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "M k Plaza Madhav dispensary Road",
+    "landmark": "M k Plaza Madhav dispensary Road",
+    "emergencyContact": "095223 05080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Harmony+Dental+Clinic/@26.1941345,78.1631824,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4314cfc495b:0x982b14acd1898fb3!8m2!3d26.1941345!4d78.1631824!16s%2Fg%2F11cmcl65hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Harmony+Dental+Clinic/@26.1941345,78.1631824,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4314cfc495b:0x982b14acd1898fb3!8m2!3d26.1941345!4d78.1631824!16s%2Fg%2F11cmcl65hv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1941345,
+      "lng": 78.1631824,
+      "label": "Harmony Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "harmony-dental-clinic-gwalior",
+    "name": "Harmony Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Harmony Dental Clinic is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075881 12992",
+    "alternatePhone": "",
+    "website": "http://www.harmonydentalclinics.in/",
+    "address": "city centre, D33, Main Road, behind New Collectorate Road, Gulmohar City, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Gulmohar City",
+    "landmark": "Main Road",
+    "emergencyContact": "075881 12992",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Harmony+Dental+Clinic/@26.1850643,78.2075187,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c34328004467:0x2741a680e50114e4!8m2!3d26.1850643!4d78.2075187!16s%2Fg%2F11sskz_0cv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Harmony+Dental+Clinic/@26.1850643,78.2075187,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c34328004467:0x2741a680e50114e4!8m2!3d26.1850643!4d78.2075187!16s%2Fg%2F11sskz_0cv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1850643,
+      "lng": 78.2075187,
+      "label": "Harmony Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-gwalior-best-ivf-centre-next-to-lic-building",
+    "name": "Indira IVF Fertility Centre in Gwalior - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira IVF Fertility Centre in Gwalior - Best IVF Centre is a prominent fertility clinic in Next to LIC Building, known for structured tertiary care across IVF In Gwalior and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3MxXqjn",
+    "address": "Second Floor, Orion Tower, City center, Next to LIC Building, Madhya Pradesh 474002",
+    "city": "Next to LIC Building",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "City center",
+    "landmark": "City center",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Gwalior+-+Best+IVF+Centre/@26.2047995,78.1912607,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c54dd34525d7:0xfa409d4c8c6703cb!8m2!3d26.2047995!4d78.1912607!16s%2Fg%2F11flt185hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Gwalior+-+Best+IVF+Centre/@26.2047995,78.1912607,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c54dd34525d7:0xfa409d4c8c6703cb!8m2!3d26.2047995!4d78.1912607!16s%2Fg%2F11flt185hz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2047995,
+      "lng": 78.1912607,
+      "label": "Indira IVF Fertility Centre in Gwalior - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indus-hospital-gwalior",
+    "name": "Indus Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indus Hospital is a prominent hospital in Gwalior, known for structured tertiary care across Urologist Surgery In Gwalior. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096305 68087",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Viivek Vihar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "Gwalior",
+    "emergencyContact": "096305 68087",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Indus+Hospital/@26.2046952,78.1808532,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ce979c02c7:0x40f57515109a6ebf!8m2!3d26.2046952!4d78.1808532!16s%2Fg%2F11fkpnsx2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indus+Hospital/@26.2046952,78.1808532,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ce979c02c7:0x40f57515109a6ebf!8m2!3d26.2046952!4d78.1808532!16s%2Fg%2F11fkpnsx2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2046952,
+      "lng": 78.1808532,
+      "label": "Indus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "itm-hospital-and-research-centre-gwalior-gwalior",
+    "name": "ITM Hospital & Research Centre, Gwalior",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ITM Hospital & Research Centre, Gwalior is a prominent hospital in Gwalior, known for structured tertiary care across Orthopedic Surgery In Gwalior. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090901 91964",
+    "alternatePhone": "",
+    "website": "https://itmhospital.com/",
+    "address": "Nh-75, opp. Sithouli Railway Station, Sithouli, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Sithouli",
+    "landmark": "Sithouli",
+    "emergencyContact": "090901 91964",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ITM+Hospital+%26+Research+Centre,+Gwalior/@26.147131,78.1887276,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5015569514f:0x5268cbf93c09a813!8m2!3d26.147131!4d78.1887276!16s%2Fg%2F11hkt2zpr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ITM+Hospital+%26+Research+Centre,+Gwalior/@26.147131,78.1887276,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5015569514f:0x5268cbf93c09a813!8m2!3d26.147131!4d78.1887276!16s%2Fg%2F11hkt2zpr9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.147131,
+      "lng": 78.1887276,
+      "label": "ITM Hospital & Research Centre, Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-a-hospital-gwalior",
+    "name": "J. A Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "J. A Hospital is a prominent hospital in Gwalior, known for structured tertiary care across Orthopedic Surgery In Gwalior. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55R4+W5V Kamla raja, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/J.+A+Hospital/@26.192373,78.155427,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cb4f03f2c3:0xf31b1c6ad3262368!8m2!3d26.192373!4d78.155427!16s%2Fg%2F1tj565ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J.+A+Hospital/@26.192373,78.155427,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cb4f03f2c3:0xf31b1c6ad3262368!8m2!3d26.192373!4d78.155427!16s%2Fg%2F1tj565ch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.192373,
+      "lng": 78.155427,
+      "label": "J. A Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-s-memorial-ayurvedic-center-gwalior",
+    "name": "J.S Memorial Ayurvedic Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Gwalior, J.S Memorial Ayurvedic Center delivers integrated care across Spine Surgery In Gwalior. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083195 45101",
+    "alternatePhone": "",
+    "website": "",
+    "address": "115, Mayur Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "Thatipur",
+    "emergencyContact": "083195 45101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/J.S+Memorial+Ayurvedic+Center/@26.2167994,78.205362,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c155a5c58877:0xfca26d6979360959!8m2!3d26.2167994!4d78.205362!16s%2Fg%2F1261c_jpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J.S+Memorial+Ayurvedic+Center/@26.2167994,78.205362,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c155a5c58877:0xfca26d6979360959!8m2!3d26.2167994!4d78.205362!16s%2Fg%2F1261c_jpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2167994,
+      "lng": 78.205362,
+      "label": "J.S Memorial Ayurvedic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jain-dental-care-centre-gwalior",
+    "name": "Jain Dental Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jain Dental Care Centre has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075140 82450",
+    "alternatePhone": "",
+    "website": "https://dramitjaindentist.com/",
+    "address": "Phalke sahab ka bada, old lic office, Phalka Bazar Rd, Phalka Bazar, Pardhi Mohalla, Shekh Ki Bagiya, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Shekh Ki Bagiya",
+    "landmark": "Phalka Bazar Rd",
+    "emergencyContact": "075140 82450",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jain+Dental+Care+Centre/@26.2040677,78.158092,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42c9660714b:0x5dd90103d18485ea!8m2!3d26.2040677!4d78.158092!16s%2Fg%2F1pp2tzhkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jain+Dental+Care+Centre/@26.2040677,78.158092,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42c9660714b:0x5dd90103d18485ea!8m2!3d26.2040677!4d78.158092!16s%2Fg%2F1pp2tzhkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2040677,
+      "lng": 78.158092,
+      "label": "Jain Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaya-arogya-hospital-group-gwalior",
+    "name": "Jaya Arogya Hospital Group",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Jaya Arogya Hospital Group brings together specialists for Urologist Surgery In Gwalior. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075124 03200",
+    "alternatePhone": "",
+    "website": "http://www.grmcgwalior.org/index.php/jaya-arogya-hospital/",
+    "address": "55R6+V7G, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "075124 03200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jaya+Arogya+Hospital+Group/@26.1916375,78.1607183,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43415555555:0xbc6ead086b3923db!8m2!3d26.1916375!4d78.1607183!16s%2Fg%2F1tjtgp5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaya+Arogya+Hospital+Group/@26.1916375,78.1607183,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43415555555:0xbc6ead086b3923db!8m2!3d26.1916375!4d78.1607183!16s%2Fg%2F1tjtgp5l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1916375,
+      "lng": 78.1607183,
+      "label": "Jaya Arogya Hospital Group",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jeevan-jyoti-netralaya-gwalior",
+    "name": "Jeevan Jyoti Netralaya",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Jeevan Jyoti Netralaya brings together specialists for Urologist Surgery In Gwalior and Eye Care Center. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094065 04352",
+    "alternatePhone": "",
+    "website": "http://jeevanjyotinetralaya.com/",
+    "address": "site No.1, near Hotel Central Park, City Center, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "City Center",
+    "landmark": "near Hotel Central Park, City Center, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "094065 04352",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jeevan+Jyoti+Netralaya/@26.2104805,78.1877706,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c41daabf1347:0x46e9d1993c759cd6!8m2!3d26.2104805!4d78.1877706!16s%2Fg%2F11_s8zybk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jeevan+Jyoti+Netralaya/@26.2104805,78.1877706,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c41daabf1347:0x46e9d1993c759cd6!8m2!3d26.2104805!4d78.1877706!16s%2Fg%2F11_s8zybk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2104805,
+      "lng": 78.1877706,
+      "label": "Jeevan Jyoti Netralaya",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jiva-ayurveda-clinic-tulsi-vihar-gwalior-gwalior",
+    "name": "Jiva Ayurveda Clinic, Tulsi Vihar, Gwalior",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Jiva Ayurveda Clinic, Tulsi Vihar, Gwalior for its strength in Spine Surgery In Gwalior. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093114 01963",
+    "alternatePhone": "",
+    "website": "https://clinics.jiva.com/jiva-ayurveda-clinic-tulsi-vihar-gwalior-ayurvedic-clinic-tulsi-vihar-gwalior-328952/Home?utm_source=locator&utm_medium=googleplaces",
+    "address": "Bajrang Plaza, No 302/1F, Sachin Tendulkar Marg, near BSNL, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Tulsi Vihar Colony",
+    "landmark": "near BSNL, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "093114 01963",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Tulsi+Vihar,+Gwalior/@26.2054953,78.1951565,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59007d8f31b:0x79b6e58837383b95!8m2!3d26.2054953!4d78.1951565!16s%2Fg%2F11f7kksbdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jiva+Ayurveda+Clinic,+Tulsi+Vihar,+Gwalior/@26.2054953,78.1951565,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59007d8f31b:0x79b6e58837383b95!8m2!3d26.2054953!4d78.1951565!16s%2Fg%2F11f7kksbdj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2054953,
+      "lng": 78.1951565,
+      "label": "Jiva Ayurveda Clinic, Tulsi Vihar, Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "josh-maternity-and-surgical-hospital-gwalior",
+    "name": "Josh Maternity & Surgical Hospital",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Josh Maternity & Surgical Hospital is a prominent clinic in Gwalior, known for structured tertiary care across Laparoscopic Surgery In Gwalior. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062686 91645",
+    "alternatePhone": "",
+    "website": "",
+    "address": "29, Govindpuri, Patel Nagar, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Patel Nagar",
+    "landmark": "Patel Nagar",
+    "emergencyContact": "062686 91645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Josh+Maternity+%26+Surgical+Hospital/@26.209607,78.200377,15z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c6c44fa1:0x967f15ed3e397cca!8m2!3d26.209607!4d78.200377!16s%2Fg%2F11tft004ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Josh+Maternity+%26+Surgical+Hospital/@26.209607,78.200377,15z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c6c44fa1:0x967f15ed3e397cca!8m2!3d26.209607!4d78.200377!16s%2Fg%2F11tft004ph?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.209607,
+      "lng": 78.200377,
+      "label": "Josh Maternity & Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jpm-dermatech-clinic-gwalior-hair-transplant-and-skin-care-center-gwalior",
+    "name": "JPM Dermatech Clinic Gwalior | Hair Transplant & Skin Care Center",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "JPM Dermatech Clinic Gwalior | Hair Transplant & Skin Care Center is a prominent hair transplantation clinic in Gwalior, known for structured tertiary care across Cosmetic Surgery In Gwalior. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099830 81100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Parimal Complex, circle, opposite Indian oil petrol pump, Chetakpuri, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "opposite Indian oil petrol pump, Chetakpuri, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "099830 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/JPM+Dermatech+Clinic+Gwalior+%7C+Hair+Transplant+%26+Skin+Care+Center/@26.2014679,78.1726978,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57f677341f3:0xe50b4d957893de73!8m2!3d26.2014679!4d78.1726978!16s%2Fg%2F11rqxrzzc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JPM+Dermatech+Clinic+Gwalior+%7C+Hair+Transplant+%26+Skin+Care+Center/@26.2014679,78.1726978,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57f677341f3:0xe50b4d957893de73!8m2!3d26.2014679!4d78.1726978!16s%2Fg%2F11rqxrzzc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2014679,
+      "lng": 78.1726978,
+      "label": "JPM Dermatech Clinic Gwalior | Hair Transplant & Skin Care Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kain-cancer-care-hospital-and-research-centre-gwalior",
+    "name": "Kain Cancer Care hospital & research centre",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Kain Cancer Care hospital & research centre offers coordinated hospital care with major focus on Oncologist Surgery In Gwalior and Cancer Treatment Center. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083190 04870",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Krishna medicare, Main Rd, near Ayurveda College Marg, Amkhoh, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Amkhoh",
+    "landmark": "near Ayurveda College Marg, Amkhoh, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "083190 04870",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kain+Cancer+Care+hospital+%26+research+centre/@26.1906729,78.1623897,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4321a877665:0x90ec6a440303d25!8m2!3d26.1906729!4d78.1623897!16s%2Fg%2F11tfdzkdn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kain+Cancer+Care+hospital+%26+research+centre/@26.1906729,78.1623897,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4321a877665:0x90ec6a440303d25!8m2!3d26.1906729!4d78.1623897!16s%2Fg%2F11tfdzkdn0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1906729,
+      "lng": 78.1623897,
+      "label": "Kain Cancer Care hospital & research centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalyan-hospital-gwalior",
+    "name": "kalyan hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, kalyan hospital brings together specialists for Kidney Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 3.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "669C+4XP, Meera Nagar, Tyagi Nagar, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Tyagi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/kalyan+hospital/@26.2178377,78.2224454,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fa39c1f61:0x822c560554b74429!8m2!3d26.2178377!4d78.2224454!16s%2Fg%2F1tgfbs77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/kalyan+hospital/@26.2178377,78.2224454,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fa39c1f61:0x822c560554b74429!8m2!3d26.2178377!4d78.2224454!16s%2Fg%2F1tgfbs77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2178377,
+      "lng": 78.2224454,
+      "label": "kalyan hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalyan-ivf-and-test-tube-baby-fertility-centre-gwalior-best-ivf-and-test-tube-baby-center-gwalior",
+    "name": "Kalyan IVF and Test Tube Baby Fertility Centre Gwalior - Best IVF&Test Tube Baby Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Gwalior, Kalyan IVF and Test Tube Baby Fertility Centre Gwalior - Best IVF&Test Tube Baby Center delivers integrated care across IVF In Gwalior and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073148 50051",
+    "alternatePhone": "",
+    "website": "https://www.kalyanivf.com/",
+    "address": "669H+Q3V, MH Chauraha, Garam Sadak, Sardar Bazar, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Garam Sadak",
+    "emergencyContact": "073148 50051",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kalyan+IVF+and+Test+Tube+Baby+Fertility+Centre+Gwalior+-+Best+IVF%26Test+Tube+Baby+Center/@26.2187606,78.2221342,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fab14fe7b:0x8a4f209b85291dd7!8m2!3d26.2187606!4d78.2221342!16s%2Fg%2F1v76y13k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalyan+IVF+and+Test+Tube+Baby+Fertility+Centre+Gwalior+-+Best+IVF%26Test+Tube+Baby+Center/@26.2187606,78.2221342,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fab14fe7b:0x8a4f209b85291dd7!8m2!3d26.2187606!4d78.2221342!16s%2Fg%2F1v76y13k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2187606,
+      "lng": 78.2221342,
+      "label": "Kalyan IVF and Test Tube Baby Fertility Centre Gwalior - Best IVF&Test Tube Baby Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalyan-memorial-and-kdj-hospital-gwalior-best-hospital-lscs-delivery-gall-bladder-piles-kidney-stone-fracture-surgery-nicu-gwalior",
+    "name": "Kalyan Memorial & KDJ Hospital Gwalior Best Hospital LSCS delivery Gall Bladder Piles Kidney stone Fracture Surgery NICU",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Kalyan Memorial & KDJ Hospital Gwalior Best Hospital LSCS delivery Gall Bladder Piles Kidney stone Fracture Surgery NICU for its strength in Urologist Surgery In Gwalior, Kidney Care, and Liver Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073148 55333",
+    "alternatePhone": "",
+    "website": "http://www.kalyanhospitals.in/",
+    "address": "Near, Garam Sadak, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Morar",
+    "emergencyContact": "073148 55333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior",
+      "Kidney Care",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kalyan+Memorial+%26+KDJ+Hospital+Gwalior+Best+Hospital+LSCS+delivery+Gall+Bladder+Piles+Kidney+stone+Fracture+Surgery+NICU/@26.21736,78.2221212,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fab615cd1:0xf39c4f26e282805f!8m2!3d26.21736!4d78.2221212!16s%2Fg%2F1vknmsfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalyan+Memorial+%26+KDJ+Hospital+Gwalior+Best+Hospital+LSCS+delivery+Gall+Bladder+Piles+Kidney+stone+Fracture+Surgery+NICU/@26.21736,78.2221212,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15fab615cd1:0xf39c4f26e282805f!8m2!3d26.21736!4d78.2221212!16s%2Fg%2F1vknmsfv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.21736,
+      "lng": 78.2221212,
+      "label": "Kalyan Memorial & KDJ Hospital Gwalior Best Hospital LSCS delivery Gall Bladder Piles Kidney stone Fracture Surgery NICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kayakalp-skin-clinic-gwalior",
+    "name": "Kayakalp Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Gwalior, Kayakalp Skin Clinic delivers integrated care across Kidney Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088715 89660",
+    "alternatePhone": "",
+    "website": "https://kayakalpskinclinicgwalior.com/",
+    "address": "Hospital Rd, Geeta Colony, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Dal Bazaar",
+    "emergencyContact": "088715 89660",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kayakalp+Skin+Clinic/@26.1979076,78.1609601,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4323c088edf:0xa8d945f4bbad0878!8m2!3d26.1979076!4d78.1609601!16s%2Fg%2F11s82t1z95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kayakalp+Skin+Clinic/@26.1979076,78.1609601,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4323c088edf:0xa8d945f4bbad0878!8m2!3d26.1979076!4d78.1609601!16s%2Fg%2F11s82t1z95?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1979076,
+      "lng": 78.1609601,
+      "label": "Kayakalp Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khurasiya-dental-care-centre-gwalior",
+    "name": "Khurasiya Dental care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Khurasiya Dental care Centre for its strength in Oral Surgery In Gwalior. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099265 58802",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khurasiya Tower, Gandhi Rd, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "Thatipur",
+    "emergencyContact": "099265 58802",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Khurasiya+Dental+care+Centre/@26.2153845,78.2112892,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c352009d04bb:0x4f39370f3c1eb52e!8m2!3d26.2153845!4d78.2112892!16s%2Fg%2F11h057cxwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Khurasiya+Dental+care+Centre/@26.2153845,78.2112892,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c352009d04bb:0x4f39370f3c1eb52e!8m2!3d26.2153845!4d78.2112892!16s%2Fg%2F11h057cxwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2153845,
+      "lng": 78.2112892,
+      "label": "Khurasiya Dental care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kilkari-children-hospital-pvt-ltd-and-samadhan-diagnostic-in-gwalior-gwalior",
+    "name": "Kilkari Children Hospital Pvt. Ltd. & Samadhan Diagnostic (In Gwalior)",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kilkari Children Hospital Pvt. Ltd. & Samadhan Diagnostic (In Gwalior) has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Heart Surgery In Gwalior and Women and Child Care. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075126 24363",
+    "alternatePhone": "",
+    "website": "http://www.kilkariandsamadhan.com/",
+    "address": "Site No.1, Nai Sadak, near Filmistan Plaza, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "near Filmistan Plaza, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "075126 24363",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kilkari+Children+Hospital+Pvt.+Ltd.+%26+Samadhan+Diagnostic+(In+Gwalior)/@26.2049732,78.1522728,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d37b8e02a1:0xff8acee1b035472d!8m2!3d26.2049732!4d78.1522728!16s%2Fg%2F11bv33gwjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kilkari+Children+Hospital+Pvt.+Ltd.+%26+Samadhan+Diagnostic+(In+Gwalior)/@26.2049732,78.1522728,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d37b8e02a1:0xff8acee1b035472d!8m2!3d26.2049732!4d78.1522728!16s%2Fg%2F11bv33gwjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2049732,
+      "lng": 78.1522728,
+      "label": "Kilkari Children Hospital Pvt. Ltd. & Samadhan Diagnostic (In Gwalior)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "klm-spine-clinic-gwalior",
+    "name": "KLM Spine Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose KLM Spine Clinic for its strength in Spine Surgery In Gwalior and Spine Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078048 26825",
+    "alternatePhone": "",
+    "website": "https://klmgroup.org/",
+    "address": "91, University Rd Vivekanand Colony, University Rd, Vivekanand Colony, Anupam Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "University Rd",
+    "emergencyContact": "078048 26825",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/KLM+Spine+Clinic/@26.2097331,78.2006108,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c0a7e4fd:0x9ef55cc4a2a8160d!8m2!3d26.2097331!4d78.2006108!16s%2Fg%2F11ddwwspkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KLM+Spine+Clinic/@26.2097331,78.2006108,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c0a7e4fd:0x9ef55cc4a2a8160d!8m2!3d26.2097331!4d78.2006108!16s%2Fg%2F11ddwwspkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2097331,
+      "lng": 78.2006108,
+      "label": "KLM Spine Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-heart-care-hospital-gwalior",
+    "name": "Krishna heart care hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Krishna heart care hospital offers coordinated hospital care with major focus on Heart Surgery In Gwalior and Cardiac Care. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55X6+4X9, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+heart+care+hospital/@26.1977886,78.1624749,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4318be28e03:0x276b5151bf38b4b4!8m2!3d26.1977886!4d78.1624749!16s%2Fg%2F11g72g0rdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+heart+care+hospital/@26.1977886,78.1624749,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4318be28e03:0x276b5151bf38b4b4!8m2!3d26.1977886!4d78.1624749!16s%2Fg%2F11g72g0rdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1977886,
+      "lng": 78.1624749,
+      "label": "Krishna heart care hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lakshya-physiotherapy-clinic-gwalior",
+    "name": "Lakshya Physiotherapy Clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Lakshya Physiotherapy Clinic for its strength in Spine Surgery In Gwalior and Physiotherapy Center. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094251 15839",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Padav C-14, Basant Vihar Colony, Lashkar, Gwalior, Madhya Pradesh 474007",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474007",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "094251 15839",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Lakshya+Physiotherapy+Clinic/@26.2077903,78.1761825,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42175af04f9:0xc2e41536ba7c50e7!8m2!3d26.2077903!4d78.1761825!16s%2Fg%2F11b7q64_0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lakshya+Physiotherapy+Clinic/@26.2077903,78.1761825,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42175af04f9:0xc2e41536ba7c50e7!8m2!3d26.2077903!4d78.1761825!16s%2Fg%2F11b7q64_0w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2077903,
+      "lng": 78.1761825,
+      "label": "Lakshya Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "link-hospital-gwalior",
+    "name": "Link Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Link Hospital is a prominent hospital in Gwalior, known for structured tertiary care across Urologist Surgery In Gwalior. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075129 20333",
+    "alternatePhone": "",
+    "website": "http://www.linkhospitals.in/",
+    "address": "5566+34J, PLOT NO.1 ,Green South Avenue ShivpriLink Road, Shivpuri Link Rd, opposite Sumedha Nissan Showroom, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "opposite Sumedha Nissan Showroom",
+    "landmark": "opposite Sumedha Nissan Showroom, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "075129 20333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Link+Hospital/@26.1611002,78.1596848,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5af3e585e3d:0x5c9911b342177631!8m2!3d26.1611002!4d78.1596848!16s%2Fg%2F11fnp627j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Link+Hospital/@26.1611002,78.1596848,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5af3e585e3d:0x5c9911b342177631!8m2!3d26.1611002!4d78.1596848!16s%2Fg%2F11fnp627j7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1611002,
+      "lng": 78.1596848,
+      "label": "Link Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "liver-and-gastrocare-endoscopy-center-gwalior",
+    "name": "LIVER AND GASTROCARE ENDOSCOPY CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "LIVER AND GASTROCARE ENDOSCOPY CENTER has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Liver Transplant Surgery In Gwalior, Liver Care, and Gastroenterology. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098930 45355",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Gwalior",
+    "emergencyContact": "098930 45355",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/LIVER+AND+GASTROCARE+ENDOSCOPY+CENTER/@26.1962514,78.1605591,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c433b5cbf6d1:0x35b67bca99ccdc18!8m2!3d26.1962514!4d78.1605591!16s%2Fg%2F11d_8cp6fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/LIVER+AND+GASTROCARE+ENDOSCOPY+CENTER/@26.1962514,78.1605591,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c433b5cbf6d1:0x35b67bca99ccdc18!8m2!3d26.1962514!4d78.1605591!16s%2Fg%2F11d_8cp6fz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1962514,
+      "lng": 78.1605591,
+      "label": "LIVER AND GASTROCARE ENDOSCOPY CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lotus-hospital-gwalior",
+    "name": "Lotus hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lotus hospital is a prominent hospital in Gwalior, known for structured tertiary care across Spine Surgery In Gwalior. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Rd, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Lotus+hospital/@26.197346,78.1608549,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5aee39966a7:0x3996ff72fcbf87b!8m2!3d26.197346!4d78.1608549!16s%2Fg%2F11fmw1pl3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lotus+hospital/@26.197346,78.1608549,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5aee39966a7:0x3996ff72fcbf87b!8m2!3d26.197346!4d78.1608549!16s%2Fg%2F11fmw1pl3b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.197346,
+      "lng": 78.1608549,
+      "label": "Lotus hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "m-k-plaza-gwalior",
+    "name": "M. K. Plaza",
+    "type": "Apartment Complex",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, M. K. Plaza offers coordinated hospital care with major focus on Spine Surgery In Gwalior and Apartment Complex. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "M K Plaza, near sanmati garden, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "near sanmati garden, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Apartment Complex"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/M.+K.+Plaza/@26.1941992,78.163256,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4314956093f:0xa8596310c8cb4792!8m2!3d26.1941992!4d78.163256!16s%2Fg%2F11bv1c6_x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/M.+K.+Plaza/@26.1941992,78.163256,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4314956093f:0xa8596310c8cb4792!8m2!3d26.1941992!4d78.163256!16s%2Fg%2F11bv1c6_x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1941992,
+      "lng": 78.163256,
+      "label": "M. K. Plaza",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhav-dispensary-gwalior",
+    "name": "Madhav Dispensary",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Gwalior, Madhav Dispensary delivers integrated care across Urologist Surgery In Gwalior. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075124 03200",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Rd, near Chandak hospital, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "near Chandak hospital, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "075124 03200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Madhav+Dispensary/@26.1937569,78.1614365,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4340886158b:0xcc82065ef54794d5!8m2!3d26.1937569!4d78.1614365!16s%2Fg%2F1th1b37_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhav+Dispensary/@26.1937569,78.1614365,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4340886158b:0xcc82065ef54794d5!8m2!3d26.1937569!4d78.1614365!16s%2Fg%2F1th1b37_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1937569,
+      "lng": 78.1614365,
+      "label": "Madhav Dispensary",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-vikas-nagar-gwalior-madhya-pradesh-cardiac-care-ayurvedic-clinic-and-panchakarma-center-gwalior",
+    "name": "Madhavbaug Vikas Nagar, Gwalior, Madhya Pradesh | Cardiac Care Ayurvedic Clinic & Panchakarma Center",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Madhavbaug Vikas Nagar, Gwalior, Madhya Pradesh | Cardiac Care Ayurvedic Clinic & Panchakarma Center for its strength in Heart Surgery In Gwalior and Cardiac Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081098 10224",
+    "alternatePhone": "",
+    "website": "https://madhavbaug.org/clinic/heart-hospital-in-vikas-nagar-gwalior-madhya-pradesh/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=heart-hospital-in-vikas-nagar-gwalior-madhya-pradesh",
+    "address": "B, First Floor, near Apollo Hospital 39, near Apollo Hospital, Vikas Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "near Apollo Hospital 39, near Apollo Hospital, Vikas Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "081098 10224",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+Vikas+Nagar,+Gwalior,+Madhya+Pradesh+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@26.2202598,78.1713562,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c75c9a2a53e5:0x7b45c66249be03b6!8m2!3d26.2202598!4d78.1713562!16s%2Fg%2F11kjjh38z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+Vikas+Nagar,+Gwalior,+Madhya+Pradesh+%7C+Cardiac+Care+Ayurvedic+Clinic+%26+Panchakarma+Center/@26.2202598,78.1713562,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c75c9a2a53e5:0x7b45c66249be03b6!8m2!3d26.2202598!4d78.1713562!16s%2Fg%2F11kjjh38z3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2202598,
+      "lng": 78.1713562,
+      "label": "Madhavbaug Vikas Nagar, Gwalior, Madhya Pradesh | Cardiac Care Ayurvedic Clinic & Panchakarma Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maheshwari-nursing-home-gwalior",
+    "name": "Maheshwari Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gwalior, Maheshwari Nursing Home delivers integrated care across Spine Surgery In Gwalior. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075140 12551",
+    "alternatePhone": "",
+    "website": "http://www.maheshwarinursinghome.com/",
+    "address": "85, New Chandra Nagar, Maharani Laxmi Bai Colony, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "Maharani Laxmi Bai Colony",
+    "emergencyContact": "075140 12551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Maheshwari+Nursing+Home/@26.2136091,78.1738103,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69e0ba8cfff:0x8662e714c1329a83!8m2!3d26.2136091!4d78.1738103!16s%2Fg%2F11b6bw_vwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maheshwari+Nursing+Home/@26.2136091,78.1738103,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69e0ba8cfff:0x8662e714c1329a83!8m2!3d26.2136091!4d78.1738103!16s%2Fg%2F11b6bw_vwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2136091,
+      "lng": 78.1738103,
+      "label": "Maheshwari Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mehta-dental-care-clinic-gwalior",
+    "name": "Mehta Dental Care Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mehta Dental Care Clinic is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094251 20684",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Khulaa Santar, Sardar Bazar, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Morar",
+    "emergencyContact": "094251 20684",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mehta+Dental+Care+Clinic/@26.2228844,78.2240252,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15deff31d23:0x581161fa6f1ceaca!8m2!3d26.2228844!4d78.2240252!16s%2Fg%2F11byflh_mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mehta+Dental+Care+Clinic/@26.2228844,78.2240252,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c15deff31d23:0x581161fa6f1ceaca!8m2!3d26.2228844!4d78.2240252!16s%2Fg%2F11byflh_mz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2228844,
+      "lng": 78.2240252,
+      "label": "Mehta Dental Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mohit-jain-gwalior",
+    "name": "Mohit Jain",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Mohit Jain delivers integrated care across Orthopedic Surgery In Gwalior. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073548 02573",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Phalka Bazar Rd, Hanuman Nagar, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "073548 02573",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mohit+Jain/@26.2045924,78.1598993,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c58c3e15c933:0xfe3c21fd198175e0!8m2!3d26.2045924!4d78.1598993!16s%2Fg%2F11j7dbgy2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mohit+Jain/@26.2045924,78.1598993,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c58c3e15c933:0xfe3c21fd198175e0!8m2!3d26.2045924!4d78.1598993!16s%2Fg%2F11j7dbgy2x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2045924,
+      "lng": 78.1598993,
+      "label": "Mohit Jain",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "muskan-dental-clinic-gwalior",
+    "name": "Muskan Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Muskan Dental Clinic delivers integrated care across Oral Surgery In Gwalior. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092022 27645",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Anand Metro Mart, Hujrat Pull Chauraha, Near Roxy Pull, Jinsi Rd Number 3, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Jinsi Rd Number 3",
+    "landmark": "Near Roxy Pull, Jinsi Rd Number 3, Gwalior, Madhya Pradesh 474001",
+    "emergencyContact": "092022 27645",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Muskan+Dental+Clinic/@26.194917,78.1511489,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cc25c4eaa3:0x1571e5c0f79119c5!8m2!3d26.194917!4d78.1511489!16s%2Fg%2F11byl5zdw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Muskan+Dental+Clinic/@26.194917,78.1511489,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5cc25c4eaa3:0x1571e5c0f79119c5!8m2!3d26.194917!4d78.1511489!16s%2Fg%2F11byl5zdw6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.194917,
+      "lng": 78.1511489,
+      "label": "Muskan Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "narayana-hospital-gwalior",
+    "name": "Narayana hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Narayana hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Orthopedic Surgery In Gwalior. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075131 33155",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sabji mandi ke samne, Pinto Park, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Pinto Park",
+    "landmark": "Gwalior",
+    "emergencyContact": "075131 33155",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Narayana+hospital/@26.2497168,78.2168165,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c16bc520c9a1:0xa42d8d1b8363a338!8m2!3d26.2497168!4d78.2168165!16s%2Fg%2F11n5ryshsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Narayana+hospital/@26.2497168,78.2168165,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c16bc520c9a1:0xa42d8d1b8363a338!8m2!3d26.2497168!4d78.2168165!16s%2Fg%2F11n5ryshsq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2497168,
+      "lng": 78.2168165,
+      "label": "Narayana hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navjeevan-hospital-gwalior",
+    "name": "Navjeevan Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navjeevan Hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Urologist Surgery In Gwalior. With public-facing highlights like Google rating 3.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075140 24081",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Moti Mahal Rd, opp. Scindia Kanya Vidyalay, Basant Vihar Colony, Lashkar, Gwalior, Madhya Pradesh 474007",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474007",
+    "locality": "Lashkar",
+    "landmark": "Basant Vihar Colony",
+    "emergencyContact": "075140 24081",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Navjeevan+Hospital/@26.2104767,78.1765829,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c420cd7ec175:0x219aa19920fa32bd!8m2!3d26.2104767!4d78.1765829!16s%2Fg%2F1ptwrc89c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navjeevan+Hospital/@26.2104767,78.1765829,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c420cd7ec175:0x219aa19920fa32bd!8m2!3d26.2104767!4d78.1765829!16s%2Fg%2F1ptwrc89c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2104767,
+      "lng": 78.1765829,
+      "label": "Navjeevan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navjeevan-hospital-gwalior",
+    "name": "Navjeevan Hospital",
+    "type": "Building Materials Store",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted building materials store in Gwalior, Navjeevan Hospital delivers integrated care across Urologist Surgery In Gwalior and Building Materials Store. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075124 24345",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55W4+9R4, Naya Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "075124 24345",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior",
+      "Building Materials Store"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Navjeevan+Hospital/@26.1958917,78.1570753,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43328c2203f:0x9e62235681cfb86f!8m2!3d26.1958917!4d78.1570753!16s%2Fg%2F11s82zd8bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navjeevan+Hospital/@26.1958917,78.1570753,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43328c2203f:0x9e62235681cfb86f!8m2!3d26.1958917!4d78.1570753!16s%2Fg%2F11s82zd8bw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1958917,
+      "lng": 78.1570753,
+      "label": "Navjeevan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-gwalior",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose NephroPlus Dialysis & Kidney Care Centre for its strength in Kidney Transplant Surgery In Gwalior and Kidney Care. Its infrastructure includes Google rating 3.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099110 71501",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "CANCER HILL, SSIMS Hospital, To Mandare ki Mata, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "To Mandare ki Mata",
+    "emergencyContact": "099110 71501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@26.183402,78.1655155,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c2620a2405:0xfa0b5963eb1eeff5!8m2!3d26.183402!4d78.1655155!16s%2Fg%2F11slfckwg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/@26.183402,78.1655155,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c2620a2405:0xfa0b5963eb1eeff5!8m2!3d26.183402!4d78.1655155!16s%2Fg%2F11slfckwg_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.183402,
+      "lng": 78.1655155,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neurocare-foundation-gwalior",
+    "name": "Neurocare Foundation",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Gwalior, Neurocare Foundation delivers integrated care across Spine Surgery In Gwalior and Neurosciences. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098719 75970",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Office No. 603, Keshar Tower, Racecourse Rd, near Railway Station, LNUPE Campus, Thatipur, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Thatipur",
+    "landmark": "near Railway Station, LNUPE Campus, Thatipur, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "098719 75970",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Neurocare+Foundation/@26.219147,78.1879199,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7871eb3f535:0x704c95b890cdcdee!8m2!3d26.219147!4d78.1879199!16s%2Fg%2F11w3nb7y2t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neurocare+Foundation/@26.219147,78.1879199,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7871eb3f535:0x704c95b890cdcdee!8m2!3d26.219147!4d78.1879199!16s%2Fg%2F11w3nb7y2t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.219147,
+      "lng": 78.1879199,
+      "label": "Neurocare Foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-jaya-arogya-hospital-gwalior",
+    "name": "New Jaya Arogya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "New Jaya Arogya Hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Heart Surgery In Gwalior. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kirar Colony, Vakil Colony, Amkhoh, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Amkhoh",
+    "landmark": "Amkhoh",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/New+Jaya+Arogya+Hospital/@26.1890804,78.1570453,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c54a7a80424b:0x28fbd301fd61b5b!8m2!3d26.1890804!4d78.1570453!16s%2Fg%2F11s83lyr4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Jaya+Arogya+Hospital/@26.1890804,78.1570453,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c54a7a80424b:0x28fbd301fd61b5b!8m2!3d26.1890804!4d78.1570453!16s%2Fg%2F11s83lyr4x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1890804,
+      "lng": 78.1570453,
+      "label": "New Jaya Arogya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-royal-dental-clinic-and-implant-center-gwalior",
+    "name": "New Royal Dental Clinic and implant center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose New Royal Dental Clinic and implant center for its strength in Oral Surgery In Gwalior. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094257 82661",
+    "alternatePhone": "",
+    "website": "",
+    "address": "cosmo tower, Hanuman Chauraha, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "094257 82661",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/New+Royal+Dental+Clinic+and+implant+center/@26.2053554,78.1465648,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d7412182db:0x35822c570ccd7788!8m2!3d26.2053554!4d78.1465648!16s%2Fg%2F11ggvsh1tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Royal+Dental+Clinic+and+implant+center/@26.2053554,78.1465648,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d7412182db:0x35822c570ccd7788!8m2!3d26.2053554!4d78.1465648!16s%2Fg%2F11ggvsh1tb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2053554,
+      "lng": 78.1465648,
+      "label": "New Royal Dental Clinic and implant center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nidaan-hospital-gwalior",
+    "name": "Nidaan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Nidaan Hospital brings together specialists for Heart Surgery In Gwalior. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075124 21029",
+    "alternatePhone": "",
+    "website": "",
+    "address": "No. 2, Sai Baba Mandir Road, New, Kherapati Colony, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Kherapati Colony",
+    "landmark": "New",
+    "emergencyContact": "075124 21029",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Nidaan+Hospital/@26.2156122,78.1706424,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69cf7be76b7:0xea2d6f43939f2b8!8m2!3d26.2156122!4d78.1706424!16s%2Fg%2F1hjhf1bg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nidaan+Hospital/@26.2156122,78.1706424,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69cf7be76b7:0xea2d6f43939f2b8!8m2!3d26.2156122!4d78.1706424!16s%2Fg%2F1hjhf1bg5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2156122,
+      "lng": 78.1706424,
+      "label": "Nidaan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "niramaya-cancer-care-gwalior",
+    "name": "Niramaya Cancer Care",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Gwalior, Niramaya Cancer Care delivers integrated care across Oncologist Surgery In Gwalior and Cancer Treatment Center. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092015 67311",
+    "alternatePhone": "",
+    "website": "",
+    "address": "ground floor, M K Plaza, Veer Savarkar Road, opposite Madhav Dispensary, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "opposite Madhav Dispensary, J. A. Hospital Campus, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "092015 67311",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Niramaya+Cancer+Care/@26.1941979,78.1632393,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d8e6a39a8b:0x7776867d93ced0b2!8m2!3d26.1941979!4d78.1632393!16s%2Fg%2F11y50jgz__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Niramaya+Cancer+Care/@26.1941979,78.1632393,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d8e6a39a8b:0x7776867d93ced0b2!8m2!3d26.1941979!4d78.1632393!16s%2Fg%2F11y50jgz__?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1941979,
+      "lng": 78.1632393,
+      "label": "Niramaya Cancer Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nitya-physiotherapy-clinic-and-home-visits-gwalior",
+    "name": "Nitya Physiotherapy Clinic & Home visits",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Nitya Physiotherapy Clinic & Home visits offers coordinated hospital care with major focus on Spine Surgery In Gwalior and Physiotherapy Center. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082696 15097",
+    "alternatePhone": "",
+    "website": "http://nityaphysiotherapyclinic.info/",
+    "address": "akanksha kirana store, 402, new, near sheetla garden, Suresh Nagar Colony, Thatipur, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Thatipur",
+    "landmark": "near sheetla garden, Suresh Nagar Colony, Thatipur, Gwalior, Madhya Pradesh 474005",
+    "emergencyContact": "082696 15097",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nitya+Physiotherapy+Clinic+%26+Home+visits/@26.2231917,78.2110242,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1731f1d5f11:0x46a64a1830981769!8m2!3d26.2231917!4d78.2110242!16s%2Fg%2F11lp08m26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nitya+Physiotherapy+Clinic+%26+Home+visits/@26.2231917,78.2110242,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1731f1d5f11:0x46a64a1830981769!8m2!3d26.2231917!4d78.2110242!16s%2Fg%2F11lp08m26n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2231917,
+      "lng": 78.2110242,
+      "label": "Nitya Physiotherapy Clinic & Home visits",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "olyai-hospital-gwalior",
+    "name": "Olyai Hospital",
+    "type": "Pregnancy Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Olyai Hospital is a prominent pregnancy care center in Gwalior, known for structured tertiary care across Orthopedic Surgery In Gwalior and Pregnancy Care Center. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094251 12241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Rd, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "094251 12241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior",
+      "Pregnancy Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Olyai+Hospital/@26.198617,78.1617104,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4321b780d13:0xf505bc494bdae7e7!8m2!3d26.198617!4d78.1617104!16s%2Fg%2F11h0qxgz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Olyai+Hospital/@26.198617,78.1617104,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4321b780d13:0xf505bc494bdae7e7!8m2!3d26.198617!4d78.1617104!16s%2Fg%2F11h0qxgz3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.198617,
+      "lng": 78.1617104,
+      "label": "Olyai Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-and-ent-clinic-l-best-dental-implantologist-gwalior",
+    "name": "Om Dental & ENT Clinic l Best Dental Implantologist",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Om Dental & ENT Clinic l Best Dental Implantologist for its strength in Oral Surgery In Gwalior and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098276 59332",
+    "alternatePhone": "",
+    "website": "http://www.dentalclinicingwalior.com/",
+    "address": "18, University Rd, Tagore Nagar, Anupam Nagar, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Govindpuri",
+    "landmark": "Tagore Nagar",
+    "emergencyContact": "098276 59332",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Dental+%26+ENT+Clinic+l+Best+Dental+Implantologist/@26.2065546,78.1994456,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c7831e1f:0xf6d8f4f8c946907!8m2!3d26.2065546!4d78.1994456!16s%2Fg%2F11b63b6bww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Dental+%26+ENT+Clinic+l+Best+Dental+Implantologist/@26.2065546,78.1994456,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c400c7831e1f:0xf6d8f4f8c946907!8m2!3d26.2065546!4d78.1994456!16s%2Fg%2F11b63b6bww?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2065546,
+      "lng": 78.1994456,
+      "label": "Om Dental & ENT Clinic l Best Dental Implantologist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-world-dental-care-gwalior",
+    "name": "Oral World Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Oral World Dental Care offers coordinated hospital care with major focus on Oral Surgery In Gwalior. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081097 20920",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Oral World Dental Care, Jiwaji Nagar, Suresh Nagar Colony, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "Suresh Nagar Colony",
+    "emergencyContact": "081097 20920",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+World+Dental+Care/@26.2179219,78.2072829,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c11a9b2eab17:0x307338bb4ad472df!8m2!3d26.2179219!4d78.2072829!16s%2Fg%2F11h7fnlkbw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+World+Dental+Care/@26.2179219,78.2072829,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c11a9b2eab17:0x307338bb4ad472df!8m2!3d26.2179219!4d78.2072829!16s%2Fg%2F11h7fnlkbw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2179219,
+      "lng": 78.2072829,
+      "label": "Oral World Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "p4-cancer-hospital-gwalior",
+    "name": "P4 cancer hospital",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "P4 cancer hospital is a prominent cancer treatment center in Gwalior, known for structured tertiary care across Oncologist Surgery In Gwalior and Cancer Treatment Center. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://p4cancerhospital.com/",
+    "address": "P4, cancer hospital, police station, P4, opposite Jhansi Road, Vijaynagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Vijaynagar",
+    "landmark": "opposite Jhansi Road, Vijaynagar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/P4+cancer+hospital/@26.1888591,78.1741415,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5980ccb5e2b:0x5ed47a0994eb48df!8m2!3d26.1888591!4d78.1741415!16s%2Fg%2F11w4jd3zly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/P4+cancer+hospital/@26.1888591,78.1741415,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5980ccb5e2b:0x5ed47a0994eb48df!8m2!3d26.1888591!4d78.1741415!16s%2Fg%2F11w4jd3zly?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1888591,
+      "lng": 78.1741415,
+      "label": "P4 cancer hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pariniti-heart-clinic-gwalior",
+    "name": "Pariniti Heart Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pariniti Heart Clinic is a prominent medical clinic in Gwalior, known for structured tertiary care across Heart Surgery In Gwalior and Cardiac Care. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091096 00182",
+    "alternatePhone": "",
+    "website": "",
+    "address": "654X+9V2, University Rd, Jiwaji University, Mahalgaon, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Mahalgaon",
+    "landmark": "Jiwaji University",
+    "emergencyContact": "091096 00182",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Pariniti+Heart+Clinic/@26.2058872,78.1996381,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57fbc521899:0x7d526db5d78f484a!8m2!3d26.2058872!4d78.1996381!16s%2Fg%2F11ft20qq9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pariniti+Heart+Clinic/@26.2058872,78.1996381,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c57fbc521899:0x7d526db5d78f484a!8m2!3d26.2058872!4d78.1996381!16s%2Fg%2F11ft20qq9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2058872,
+      "lng": 78.1996381,
+      "label": "Pariniti Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parivar-hospital-gwalior",
+    "name": "Parivar Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Parivar Hospital brings together specialists for Urologist Surgery In Gwalior. Hospital capacity markers such as Google rating 2.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075140 47000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "55W6+XCG, Hospital Rd, Lalitpur Colony, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lalitpur Colony",
+    "emergencyContact": "075140 47000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.4"
+    ],
+    "image": "https://www.google.com/maps/place/Parivar+Hospital/@26.1974371,78.1610724,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4323b2a45db:0x3fb670df5cba2ed9!8m2!3d26.1974371!4d78.1610724!16s%2Fg%2F1tq8gzc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parivar+Hospital/@26.1974371,78.1610724,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4323b2a45db:0x3fb670df5cba2ed9!8m2!3d26.1974371!4d78.1610724!16s%2Fg%2F1tq8gzc0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1974371,
+      "lng": 78.1610724,
+      "label": "Parivar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parmarth-m-physio-clinic-gwalior",
+    "name": "PARMARTH. M. PHYSIO CLINIC",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Gwalior, PARMARTH. M. PHYSIO CLINIC delivers integrated care across Spine Surgery In Gwalior and Physiotherapy Center. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099932 73241",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C-48 jawahar colony, kampoo, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "099932 73241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/PARMARTH.+M.+PHYSIO+CLINIC/@26.1908399,78.1519449,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c50039f0f709:0x26a98bc46852f431!8m2!3d26.1908399!4d78.1519449!16s%2Fg%2F11lct6f9jl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PARMARTH.+M.+PHYSIO+CLINIC/@26.1908399,78.1519449,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c50039f0f709:0x26a98bc46852f431!8m2!3d26.1908399!4d78.1519449!16s%2Fg%2F11lct6f9jl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1908399,
+      "lng": 78.1519449,
+      "label": "PARMARTH. M. PHYSIO CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearl-dental-planet-cavities-root-canal-implant-braces-teeth-specialist-best-dentist-and-dental-clinic-in-gwalior-gwalior",
+    "name": "Pearl Dental Planet | Cavities- Root Canal- Implant- Braces Teeth Specialist | Best Dentist & Dental clinic In Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Gwalior, Pearl Dental Planet | Cavities- Root Canal- Implant- Braces Teeth Specialist | Best Dentist & Dental clinic In Gwalior delivers integrated care across Oral Surgery In Gwalior. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091794 44559",
+    "alternatePhone": "",
+    "website": "http://pearldentalplanet.co/",
+    "address": "101, 1st floor, Anshiya Plaza, near Basant Talkies, Mayur Market, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near Basant Talkies, Mayur Market, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "091794 44559",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pearl+Dental+Planet+%7C+Cavities-+Root+Canal-+Implant-+Braces+Teeth+Specialist+%7C+Best+Dentist+%26+Dental+clinic+In+Gwalior/@26.2160644,78.2047195,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1555555e9c3:0xf1c31d74bdaa44cd!8m2!3d26.2160644!4d78.2047195!16s%2Fg%2F1pp2wyt_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearl+Dental+Planet+%7C+Cavities-+Root+Canal-+Implant-+Braces+Teeth+Specialist+%7C+Best+Dentist+%26+Dental+clinic+In+Gwalior/@26.2160644,78.2047195,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1555555e9c3:0xf1c31d74bdaa44cd!8m2!3d26.2160644!4d78.2047195!16s%2Fg%2F1pp2wyt_j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2160644,
+      "lng": 78.2047195,
+      "label": "Pearl Dental Planet | Cavities- Root Canal- Implant- Braces Teeth Specialist | Best Dentist & Dental clinic In Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pihu-dental-center-gwalior",
+    "name": "Pihu dental center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Pihu dental center offers coordinated hospital care with major focus on Oral Surgery In Gwalior. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087708 52730",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ram Das Ghati, Bahodapur Rd, in front of Om hospital, Police Line, Ghosipura, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "Ghosipura",
+    "landmark": "in front of Om hospital",
+    "emergencyContact": "087708 52730",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Pihu+dental+center/@26.2122743,78.1566108,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7d31caec965:0x6ba9cf4be1a51ad5!8m2!3d26.2122743!4d78.1566108!16s%2Fg%2F11x0dzxhcl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pihu+dental+center/@26.2122743,78.1566108,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7d31caec965:0x6ba9cf4be1a51ad5!8m2!3d26.2122743!4d78.1566108!16s%2Fg%2F11x0dzxhcl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2122743,
+      "lng": 78.1566108,
+      "label": "Pihu dental center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "potdar-dental-hospital-gwalior",
+    "name": "Potdar Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Potdar Dental Hospital offers coordinated hospital care with major focus on Oral Surgery In Gwalior. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075140 50086",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Ayurvedic College, Amkhoh, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Amkhoh",
+    "landmark": "Gwalior",
+    "emergencyContact": "075140 50086",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Potdar+Dental+Hospital/@26.1901939,78.1617294,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c435c8cac601:0x4dd6ac5beeed421e!8m2!3d26.1901939!4d78.1617294!16s%2Fg%2F1tfwhskh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Potdar+Dental+Hospital/@26.1901939,78.1617294,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c435c8cac601:0x4dd6ac5beeed421e!8m2!3d26.1901939!4d78.1617294!16s%2Fg%2F1tfwhskh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1901939,
+      "lng": 78.1617294,
+      "label": "Potdar Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "premy-test-tube-baby-and-ivf-fertility-center-gwalior-gwalior",
+    "name": "Premy Test Tube Baby and IVF Fertility Center Gwalior",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Premy Test Tube Baby and IVF Fertility Center Gwalior is a prominent fertility clinic in Gwalior, known for structured tertiary care across IVF In Gwalior and Fertility Care. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089590 10991",
+    "alternatePhone": "",
+    "website": "https://www.premyivfclinic.com/",
+    "address": "1st floor Premy complex, Hospital Rd, opp. madhav dispensary, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "opp. madhav dispensary",
+    "landmark": "opp. madhav dispensary",
+    "emergencyContact": "089590 10991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Premy+Test+Tube+Baby+and+IVF+Fertility+Center+Gwalior/@26.1943876,78.1620439,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43249121853:0xf61d8d981026f10e!8m2!3d26.1943876!4d78.1620439!16s%2Fg%2F11g81hf3tl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Premy+Test+Tube+Baby+and+IVF+Fertility+Center+Gwalior/@26.1943876,78.1620439,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43249121853:0xf61d8d981026f10e!8m2!3d26.1943876!4d78.1620439!16s%2Fg%2F11g81hf3tl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1943876,
+      "lng": 78.1620439,
+      "label": "Premy Test Tube Baby and IVF Fertility Center Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prestige-dental-clinic-and-implant-center-gwalior-gwalior",
+    "name": "Prestige Dental Clinic And Implant Center Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prestige Dental Clinic And Implant Center Gwalior is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062641 03433",
+    "alternatePhone": "",
+    "website": "",
+    "address": "gate no 3, oppo, 25, Gandhi Rd, near Canara Bank, Shastri Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near Canara Bank, Shastri Nagar, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "062641 03433",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prestige+Dental+Clinic+And+Implant+Center+Gwalior/@26.2143081,78.201061,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5dfebeee10b:0xb857d9ea197a3e82!8m2!3d26.2143081!4d78.201061!16s%2Fg%2F11glxf2_8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prestige+Dental+Clinic+And+Implant+Center+Gwalior/@26.2143081,78.201061,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5dfebeee10b:0xb857d9ea197a3e82!8m2!3d26.2143081!4d78.201061!16s%2Fg%2F11glxf2_8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2143081,
+      "lng": 78.201061,
+      "label": "Prestige Dental Clinic And Implant Center Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prime-hospital-gwalior",
+    "name": "Prime Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prime Hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Liver Transplant Surgery In Gwalior. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093990 74205",
+    "alternatePhone": "",
+    "website": "https://prime-hospital.in/",
+    "address": "C3, Plot No C2, 26, New Collectorate Rd, City Center, Kailash Nagar, Mahalgaon, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Mahalgaon",
+    "landmark": "26",
+    "emergencyContact": "093990 74205",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prime+Hospital/@26.1961965,78.1974797,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3f66aaaaaab:0x8188183cd80d76b!8m2!3d26.1961965!4d78.1974797!16s%2Fg%2F11b7ty2x2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prime+Hospital/@26.1961965,78.1974797,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3f66aaaaaab:0x8188183cd80d76b!8m2!3d26.1961965!4d78.1974797!16s%2Fg%2F11b7ty2x2l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1961965,
+      "lng": 78.1974797,
+      "label": "Prime Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "punarjani-ayurveda-panchkarma-and-infertility-clinic-gwalior",
+    "name": "Punarjani Ayurveda Panchkarma & Infertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Punarjani Ayurveda Panchkarma & Infertility Clinic has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering IVF In Gwalior and Fertility Care. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075140 07236",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vardhan Apartment, University Rd, near Monte Carlo show, Anupam Nagar, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Govindpuri",
+    "landmark": "near Monte Carlo show, Anupam Nagar, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "075140 07236",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Gwalior",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Punarjani+Ayurveda+Panchkarma+%26+Infertility+Clinic/@26.2087066,78.2005919,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3f8faaaaaab:0xbfdccf9539ed4c16!8m2!3d26.2087066!4d78.2005919!16s%2Fg%2F11gfcyct7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Punarjani+Ayurveda+Panchkarma+%26+Infertility+Clinic/@26.2087066,78.2005919,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3f8faaaaaab:0xbfdccf9539ed4c16!8m2!3d26.2087066!4d78.2005919!16s%2Fg%2F11gfcyct7t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2087066,
+      "lng": 78.2005919,
+      "label": "Punarjani Ayurveda Panchkarma & Infertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "purohit-dental-clinic-trauma-and-implant-centre-gwalior",
+    "name": "Purohit Dental Clinic , Trauma & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Purohit Dental Clinic , Trauma & Implant Centre has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093032 80609",
+    "alternatePhone": "",
+    "website": "",
+    "address": "35-37 Shastri Market, Padav, Gandhi Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Gandhi Nagar",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "093032 80609",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Purohit+Dental+Clinic+,+Trauma+%26+Implant+Centre/@26.2125941,78.1767648,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7dddc3681c3:0xcc346287a6fc01b5!8m2!3d26.2125941!4d78.1767648!16s%2Fg%2F11h_f5stb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Purohit+Dental+Clinic+,+Trauma+%26+Implant+Centre/@26.2125941,78.1767648,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7dddc3681c3:0xcc346287a6fc01b5!8m2!3d26.2125941!4d78.1767648!16s%2Fg%2F11h_f5stb2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2125941,
+      "lng": 78.1767648,
+      "label": "Purohit Dental Clinic , Trauma & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "radhe-dental-clinic-and-implant-center-gwalior",
+    "name": "Radhe Dental Clinic And Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Radhe Dental Clinic And Implant Center for its strength in Oral Surgery In Gwalior. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099770 03315",
+    "alternatePhone": "",
+    "website": "https://radhedentalclinic.com/",
+    "address": "Shop No 1 Indra Complex, Chetakpuri Gate, Chhetak Puri, near by State Bank Of India, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "near by State Bank Of India",
+    "landmark": "near by State Bank Of India, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "099770 03315",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Radhe+Dental+Clinic+And+Implant+Center/@26.1996788,78.1747568,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43cb97279c7:0x8459686325050cf1!8m2!3d26.1996788!4d78.1747568!16s%2Fg%2F11ckvljrhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Radhe+Dental+Clinic+And+Implant+Center/@26.1996788,78.1747568,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43cb97279c7:0x8459686325050cf1!8m2!3d26.1996788!4d78.1747568!16s%2Fg%2F11ckvljrhj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1996788,
+      "lng": 78.1747568,
+      "label": "Radhe Dental Clinic And Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramdas-hospital-and-neuro-trauma-centre-gwalior",
+    "name": "Ramdas Hospital And Neuro Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Ramdas Hospital And Neuro Trauma Centre offers coordinated hospital care with major focus on Neurosurgeon In Gwalior and Neurosciences. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus Stand, Opposite, Jhansi Rd, Vijaynagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Vijaynagar",
+    "landmark": "Jhansi Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Gwalior",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Ramdas+Hospital+And+Neuro+Trauma+Centre/@26.1922099,78.1729458,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59862fa02a3:0x621a12df6b889936!8m2!3d26.1922099!4d78.1729458!16s%2Fg%2F11t_t_4345?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramdas+Hospital+And+Neuro+Trauma+Centre/@26.1922099,78.1729458,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59862fa02a3:0x621a12df6b889936!8m2!3d26.1922099!4d78.1729458!16s%2Fg%2F11t_t_4345?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1922099,
+      "lng": 78.1729458,
+      "label": "Ramdas Hospital And Neuro Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratan-jyoti-dalmia-heart-institute-gwalior",
+    "name": "RATAN JYOTI DALMIA HEART INSTITUTE",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RATAN JYOTI DALMIA HEART INSTITUTE has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Heart Surgery In Gwalior and Cardiac Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091110 07625",
+    "alternatePhone": "",
+    "website": "http://www.ratanjyotidalmiaheartinstitute.com/",
+    "address": "VIKAS NAGAR, near SAI BABA MANDIR, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "near SAI BABA MANDIR",
+    "landmark": "near SAI BABA MANDIR, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "091110 07625",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RATAN+JYOTI+DALMIA+HEART+INSTITUTE/@26.2198174,78.1713913,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53f8771411b:0x6345529d2979b81d!8m2!3d26.2198174!4d78.1713913!16s%2Fg%2F11kg1rzbsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RATAN+JYOTI+DALMIA+HEART+INSTITUTE/@26.2198174,78.1713913,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53f8771411b:0x6345529d2979b81d!8m2!3d26.2198174!4d78.1713913!16s%2Fg%2F11kg1rzbsj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2198174,
+      "lng": 78.1713913,
+      "label": "RATAN JYOTI DALMIA HEART INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rescure-dental-care-gwalior",
+    "name": "Rescure Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rescure Dental Care has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070006 18357",
+    "alternatePhone": "",
+    "website": "",
+    "address": "new collectrate road , Between satyam and metro tower, Kailash nagar, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Kailash nagar",
+    "landmark": "Kailash nagar",
+    "emergencyContact": "070006 18357",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Rescure+Dental+Care/@26.1958989,78.1975357,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4095abf3533:0xf95fb3e7c27c140c!8m2!3d26.1958989!4d78.1975357!16s%2Fg%2F11df7psdpt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rescure+Dental+Care/@26.1958989,78.1975357,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4095abf3533:0xf95fb3e7c27c140c!8m2!3d26.1958989!4d78.1975357!16s%2Fg%2F11df7psdpt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1958989,
+      "lng": 78.1975357,
+      "label": "Rescure Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rimss-hospital-gwalior-gwalior",
+    "name": "Rimss Hospital Gwalior",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rimss Hospital Gwalior has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Spine Surgery In Gwalior. With public-facing highlights like Google rating 3.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075129 70955",
+    "alternatePhone": "",
+    "website": "http://rimsshospital.in/",
+    "address": "Opp. Indraprasta Garden, Gole ka Mandir, Bhind Rd, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Bhind Rd",
+    "landmark": "Bhind Rd",
+    "emergencyContact": "075129 70955",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rimss+Hospital+Gwalior/@26.2363383,78.2079932,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1186425cbc5:0xf87ff02ea0eede35!8m2!3d26.2363383!4d78.2079932!16s%2Fg%2F11flrfvrc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rimss+Hospital+Gwalior/@26.2363383,78.2079932,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1186425cbc5:0xf87ff02ea0eede35!8m2!3d26.2363383!4d78.2079932!16s%2Fg%2F11flrfvrc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2363383,
+      "lng": 78.2079932,
+      "label": "Rimss Hospital Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rjn-apollo-spectra-hospital-gwalior-madhya-pradesh-gwalior",
+    "name": "RJN Apollo Spectra Hospital - Gwalior, Madhya Pradesh",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gwalior, RJN Apollo Spectra Hospital - Gwalior, Madhya Pradesh delivers integrated care across Liver Transplant Surgery In Gwalior. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075124 54600",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/our-hospitals/gwalior/vikas-nagar/best-hospital-in-vikas-nagar-gwalior/?utm_source=Google&utm_medium=GoogleMap&utm_campaign=GoogleMapGwalior",
+    "address": "18, Road Kila Gate Road, near Sai Baba Mandir, Vikas Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Vikas Nagar",
+    "landmark": "near Sai Baba Mandir, Vikas Nagar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "075124 54600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RJN+Apollo+Spectra+Hospital+-+Gwalior,+Madhya+Pradesh/@26.2198181,78.1713935,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69ba3519b5d:0x4ccef20d4fd100b9!8m2!3d26.2198181!4d78.1713935!16s%2Fg%2F11c56qv0y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RJN+Apollo+Spectra+Hospital+-+Gwalior,+Madhya+Pradesh/@26.2198181,78.1713935,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c69ba3519b5d:0x4ccef20d4fd100b9!8m2!3d26.2198181!4d78.1713935!16s%2Fg%2F11c56qv0y4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2198181,
+      "lng": 78.1713935,
+      "label": "RJN Apollo Spectra Hospital - Gwalior, Madhya Pradesh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaol-heart-center-gwalior-gwalior",
+    "name": "Saaol Heart Center Gwalior",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Saaol Heart Center Gwalior offers coordinated hospital care with major focus on Heart Surgery In Gwalior and Cardiac Care. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "084457 47111",
+    "alternatePhone": "",
+    "website": "https://saaol.com/gwalior/",
+    "address": "PG-28 Enclave, near by silver Oak hotel, City Center, Patel Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Patel Nagar",
+    "landmark": "near by silver Oak hotel, City Center, Patel Nagar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "084457 47111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+Gwalior/@26.2087232,78.1953671,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5258b755535:0xbc6c827e2e332543!8m2!3d26.2087232!4d78.1953671!16s%2Fg%2F11vf0gqzdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaol+Heart+Center+Gwalior/@26.2087232,78.1953671,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5258b755535:0xbc6c827e2e332543!8m2!3d26.2087232!4d78.1953671!16s%2Fg%2F11vf0gqzdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2087232,
+      "lng": 78.1953671,
+      "label": "Saaol Heart Center Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sahara-hospital-gwalior",
+    "name": "Sahara Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sahara Hospital is a prominent private hospital in Gwalior, known for structured tertiary care across Urologist Surgery In Gwalior. Hospital capacity markers such as Google rating 3.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099268 00870",
+    "alternatePhone": "",
+    "website": "https://saharahospitalgwalior.in/",
+    "address": "Sophia College Campus, near RI Training Center, City Center, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Mahalgaon",
+    "landmark": "near RI Training Center, City Center, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "099268 00870",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sahara+Hospital/@26.2014445,78.1878908,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42125bbf457:0x1b107a9a53f4a79d!8m2!3d26.2014445!4d78.1878908!16s%2Fg%2F1tffh570?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sahara+Hospital/@26.2014445,78.1878908,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42125bbf457:0x1b107a9a53f4a79d!8m2!3d26.2014445!4d78.1878908!16s%2Fg%2F1tffh570?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2014445,
+      "lng": 78.1878908,
+      "label": "Sahara Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sahyog-hospital-gwalior",
+    "name": "Sahyog Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Sahyog Hospital brings together specialists for Urologist Surgery In Gwalior. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094257 08284",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Madhav dispensary ke samane, Hospital Rd, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Hospital Rd",
+    "landmark": "Gwalior",
+    "emergencyContact": "094257 08284",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sahyog+Hospital/@26.1943747,78.1620368,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d79633dae9:0x2dcfe116478b5c13!8m2!3d26.1943747!4d78.1620368!16s%2Fg%2F11g2z188_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sahyog+Hospital/@26.1943747,78.1620368,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d79633dae9:0x2dcfe116478b5c13!8m2!3d26.1943747!4d78.1620368!16s%2Fg%2F11g2z188_g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1943747,
+      "lng": 78.1620368,
+      "label": "Sahyog Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "samvedana-joint-and-spine-clinic-gwalior",
+    "name": "Samvedana joint and spine clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Samvedana joint and spine clinic is a prominent medical center in Gwalior, known for structured tertiary care across Spine Surgery In Gwalior, Medical Center, Spine Care, and Orthopaedics. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "J - 288 Darpan colony, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "Gwalior",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Medical Center",
+      "Spine Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Samvedana+joint+and+spine+clinic/@26.206338,78.2075919,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3818773e261:0xac075e53d9fa9578!8m2!3d26.206338!4d78.2075919!16s%2Fg%2F11gtzfw23b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Samvedana+joint+and+spine+clinic/@26.206338,78.2075919,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3818773e261:0xac075e53d9fa9578!8m2!3d26.206338!4d78.2075919!16s%2Fg%2F11gtzfw23b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.206338,
+      "lng": 78.2075919,
+      "label": "Samvedana joint and spine clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevan-healthcare-gwalior",
+    "name": "Sanjeevan Healthcare",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Sanjeevan Healthcare offers coordinated hospital care with major focus on Heart Surgery In Gwalior. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098262 33771",
+    "alternatePhone": "",
+    "website": "",
+    "address": "25/2, Jhansi Rd, opp. Shri Ram Colony, near Punjab National Bank, Shriram Colony, Madhav Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "near Punjab National Bank, Shriram Colony, Madhav Nagar, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "098262 33771",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevan+Healthcare/@26.1995115,78.1771971,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43d17e6ddab:0xc4653d7870df1fcb!8m2!3d26.1995115!4d78.1771971!16s%2Fg%2F1tf00wrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevan+Healthcare/@26.1995115,78.1771971,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c43d17e6ddab:0xc4653d7870df1fcb!8m2!3d26.1995115!4d78.1771971!16s%2Fg%2F1tf00wrt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1995115,
+      "lng": 78.1771971,
+      "label": "Sanjeevan Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevani-hospital-and-research-centre-gwalior",
+    "name": "Sanjeevani Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Sanjeevani Hospital & Research Centre brings together specialists for Orthopedic Surgery In Gwalior. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075140 80123",
+    "alternatePhone": "",
+    "website": "http://www.sanjeevanihospitalgwalior.com/",
+    "address": "42,43,City Centre,Site No-II, Near Hotel Sita Manor, Opposite Akashvani, Gandhi Road, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Gandhi Road",
+    "landmark": "Near Hotel Sita Manor, Opposite Akashvani, Gandhi Road, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "075140 80123",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevani+Hospital+%26+Research+Centre/@26.2129928,78.1923365,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4024f91bbe7:0xed4d5bdd3a66028d!8m2!3d26.2129928!4d78.1923365!16s%2Fg%2F11b6bbhq1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevani+Hospital+%26+Research+Centre/@26.2129928,78.1923365,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c4024f91bbe7:0xed4d5bdd3a66028d!8m2!3d26.2129928!4d78.1923365!16s%2Fg%2F11b6bbhq1t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2129928,
+      "lng": 78.1923365,
+      "label": "Sanjeevani Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santro-hospital-gwalior",
+    "name": "SANTRO HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SANTRO HOSPITAL has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Cancer Surgery In Gwalior. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "092853 91992",
+    "alternatePhone": "",
+    "website": "http://www.santrohospital.com/",
+    "address": "14 A, Hospital Rd, Geeta Colony, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Geeta Colony",
+    "emergencyContact": "092853 91992",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SANTRO+HOSPITAL/@26.1964681,78.1603325,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ca06e5f5f7:0xddf6224c70325ec!8m2!3d26.1964681!4d78.1603325!16s%2Fg%2F11rzgsqtpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SANTRO+HOSPITAL/@26.1964681,78.1603325,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5ca06e5f5f7:0xddf6224c70325ec!8m2!3d26.1964681!4d78.1603325!16s%2Fg%2F11rzgsqtpq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1964681,
+      "lng": 78.1603325,
+      "label": "SANTRO HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarala-hospital-gwalior",
+    "name": "SARALA HOSPITAL",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SARALA HOSPITAL is a prominent private hospital in Gwalior, known for structured tertiary care across Orthopedic Surgery In Gwalior. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073540 05008",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of Lal Jain Mandir, CP Colony, Raghavpuram, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Raghavpuram",
+    "emergencyContact": "073540 05008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SARALA+HOSPITAL/@26.2346032,78.2240835,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c111832a9551:0x2816f8fdda573a8a!8m2!3d26.2346032!4d78.2240835!16s%2Fg%2F11sj9hmnzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SARALA+HOSPITAL/@26.2346032,78.2240835,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c111832a9551:0x2816f8fdda573a8a!8m2!3d26.2346032!4d78.2240835!16s%2Fg%2F11sj9hmnzf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2346032,
+      "lng": 78.2240835,
+      "label": "SARALA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sati-dental-clinic-dentist-in-gwalior-best-dentist-in-gwalior-orthodontist-in-gwalior-gwalior",
+    "name": "Sati Dental Clinic – Dentist in Gwalior | Best dentist in Gwalior | Orthodontist in Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sati Dental Clinic – Dentist in Gwalior | Best dentist in Gwalior | Orthodontist in Gwalior is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior and Orthopaedics. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097551 87010",
+    "alternatePhone": "",
+    "website": "https://shree-dental-clinic.odoo.com/",
+    "address": "Main Rd, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Shinde Ki Chhawani",
+    "landmark": "Gwalior",
+    "emergencyContact": "097551 87010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sati+Dental+Clinic+%E2%80%93+Dentist+in+Gwalior+%7C+Best+dentist+in+Gwalior+%7C+Orthodontist+in+Gwalior/@26.2090933,78.1625415,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c429860f91d5:0x28c573251a4094b5!8m2!3d26.2090933!4d78.1625415!16s%2Fg%2F11b7q9ygq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sati+Dental+Clinic+%E2%80%93+Dentist+in+Gwalior+%7C+Best+dentist+in+Gwalior+%7C+Orthodontist+in+Gwalior/@26.2090933,78.1625415,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c429860f91d5:0x28c573251a4094b5!8m2!3d26.2090933!4d78.1625415!16s%2Fg%2F11b7q9ygq7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2090933,
+      "lng": 78.1625415,
+      "label": "Sati Dental Clinic – Dentist in Gwalior | Best dentist in Gwalior | Orthodontist in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saumitra-dental-hospital-gwalior",
+    "name": "Saumitra Dental Hospital",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Saumitra Dental Hospital brings together specialists for Oral Surgery In Gwalior and Dentist. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078794 27932",
+    "alternatePhone": "",
+    "website": "https://saumitra-dental-hospital.ueniweb.com/?utm_campaign=gmb",
+    "address": "wine shop, near, Kalyan towar, Sharad travels, Thatipur, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Thatipur",
+    "landmark": "Kalyan towar",
+    "emergencyContact": "078794 27932",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saumitra+Dental+Hospital/@26.214986,78.2046824,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5e3e2bcea9d:0x4895c8ae1911e42c!8m2!3d26.214986!4d78.2046824!16s%2Fg%2F11jg1mt9r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saumitra+Dental+Hospital/@26.214986,78.2046824,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5e3e2bcea9d:0x4895c8ae1911e42c!8m2!3d26.214986!4d78.2046824!16s%2Fg%2F11jg1mt9r3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.214986,
+      "lng": 78.2046824,
+      "label": "Saumitra Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-hospital-gwalior",
+    "name": "Shashwat Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Shashwat Hospital for its strength in Laparoscopic Surgery In Gwalior. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075140 11329",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shahid Mangal Pandey Dwar, Surya Mandir Road, Gole Ka Mandir Rd, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Gole Ka Mandir Rd",
+    "landmark": "Gole Ka Mandir Rd",
+    "emergencyContact": "075140 11329",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Hospital/@26.2349288,78.208853,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1e34743132b:0xefcec2a4e24b7a24!8m2!3d26.2349288!4d78.208853!16s%2Fg%2F11l20btk54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Hospital/@26.2349288,78.208853,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1e34743132b:0xefcec2a4e24b7a24!8m2!3d26.2349288!4d78.208853!16s%2Fg%2F11l20btk54?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2349288,
+      "lng": 78.208853,
+      "label": "Shashwat Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-navodaya-gastroliver-hospital-gwalior",
+    "name": "Shree Navodaya Gastroliver Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Navodaya Gastroliver Hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Liver Transplant Surgery In Gwalior, Liver Care, and Gastroenterology. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://shreenavodayahospital.com/",
+    "address": "Lotus Ville colony, Ohadpur, Mahalgaon, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Mahalgaon",
+    "landmark": "Mahalgaon",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Navodaya+Gastroliver+Hospital/@26.1905305,78.1938841,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5001714b103:0x3bf302c020c34a75!8m2!3d26.1905305!4d78.1938841!16s%2Fg%2F11x999mp3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Navodaya+Gastroliver+Hospital/@26.1905305,78.1938841,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5001714b103:0x3bf302c020c34a75!8m2!3d26.1905305!4d78.1938841!16s%2Fg%2F11x999mp3h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1905305,
+      "lng": 78.1938841,
+      "label": "Shree Navodaya Gastroliver Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-ram-dental-clinic-dentist-in-gwalior-dental-clinic-in-gwalior-gwalior",
+    "name": "Shri Ram Dental Clinic - DENTIST IN GWALIOR | Dental Clinic in Gwalior",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Ram Dental Clinic - DENTIST IN GWALIOR | Dental Clinic in Gwalior has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081093 40592",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajput Communication ke Bagal Me, Bahodapur, Anand Nagar, Chauraha, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "Chauraha",
+    "landmark": "Anand Nagar",
+    "emergencyContact": "081093 40592",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic+-+DENTIST+IN+GWALIOR+%7C+Dental+Clinic+in+Gwalior/@26.2348624,78.1537199,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7c0e8b15d95:0x591d896afa084173!8m2!3d26.2348624!4d78.1537199!16s%2Fg%2F11fl5m_q91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic+-+DENTIST+IN+GWALIOR+%7C+Dental+Clinic+in+Gwalior/@26.2348624,78.1537199,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7c0e8b15d95:0x591d896afa084173!8m2!3d26.2348624!4d78.1537199!16s%2Fg%2F11fl5m_q91?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2348624,
+      "lng": 78.1537199,
+      "label": "Shri Ram Dental Clinic - DENTIST IN GWALIOR | Dental Clinic in Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shrivastava-dental-clinic-dentist-in-gwalior-best-root-canal-specialist-veneers-braces-implants-teeth-alignment-whitening-gwalior",
+    "name": "Shrivastava Dental Clinic - Dentist in Gwalior - Best Root Canal Specialist/Veneers/Braces/Implants/Teeth Alignment/Whitening",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, Shrivastava Dental Clinic - Dentist in Gwalior - Best Root Canal Specialist/Veneers/Braces/Implants/Teeth Alignment/Whitening offers coordinated hospital care with major focus on Oral Surgery In Gwalior and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070009 59011",
+    "alternatePhone": "",
+    "website": "http://www.shrivastavadental.com/",
+    "address": "ICICI bank and PNB, Shrivastava Dental Clinic Near narcotics office Between, Ramkala nagar, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "Near narcotics office Between, Ramkala nagar, Morar, Gwalior, Madhya Pradesh 474006",
+    "emergencyContact": "070009 59011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shrivastava+Dental+Clinic+-+Dentist+in+Gwalior+-+Best+Root+Canal+Specialist%2FVeneers%2FBraces%2FImplants%2FTeeth+Alignment%2FWhitening/@26.2276305,78.2248453,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c167fd514afd:0x9f7f895fcda50346!8m2!3d26.2276305!4d78.2248453!16s%2Fg%2F11g98yj68c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shrivastava+Dental+Clinic+-+Dentist+in+Gwalior+-+Best+Root+Canal+Specialist%2FVeneers%2FBraces%2FImplants%2FTeeth+Alignment%2FWhitening/@26.2276305,78.2248453,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c167fd514afd:0x9f7f895fcda50346!8m2!3d26.2276305!4d78.2248453!16s%2Fg%2F11g98yj68c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2276305,
+      "lng": 78.2248453,
+      "label": "Shrivastava Dental Clinic - Dentist in Gwalior - Best Root Canal Specialist/Veneers/Braces/Implants/Teeth Alignment/Whitening",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "singhal-dental-clinic-gwalior",
+    "name": "Singhal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Singhal Dental Clinic brings together specialists for Oral Surgery In Gwalior. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095550 99635",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Daulat Ganj Rd, opp. Daud Market, Dahi Mandi, Topi Bazar, Sarafa Bazar, Daulat Ganj, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Daulat Ganj",
+    "landmark": "Dahi Mandi",
+    "emergencyContact": "095550 99635",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Singhal+Dental+Clinic/@26.1991248,78.1498014,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d1e52c059d:0x4c433b5de81e1fc2!8m2!3d26.1991248!4d78.1498014!16s%2Fg%2F11b7wndxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Singhal+Dental+Clinic/@26.1991248,78.1498014,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5d1e52c059d:0x4c433b5de81e1fc2!8m2!3d26.1991248!4d78.1498014!16s%2Fg%2F11b7wndxqb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1991248,
+      "lng": 78.1498014,
+      "label": "Singhal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skinos-best-hair-transplant-centre-in-gwalior-gwalior",
+    "name": "SKINOS - Best Hair Transplant centre in gwalior",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, SKINOS - Best Hair Transplant centre in gwalior offers coordinated hospital care with major focus on Kidney Transplant Surgery In Gwalior. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099262 31326",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tansen Rd, R P Colony, Ashok Vihar Colony, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Ashok Vihar Colony",
+    "landmark": "Ashok Vihar Colony",
+    "emergencyContact": "099262 31326",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SKINOS+-+Best+Hair+Transplant+centre+in+gwalior/@26.2225515,78.1808711,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c71263bc1819:0x32036cf4e83596a1!8m2!3d26.2225515!4d78.1808711!16s%2Fg%2F11fnk82y82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SKINOS+-+Best+Hair+Transplant+centre+in+gwalior/@26.2225515,78.1808711,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c71263bc1819:0x32036cf4e83596a1!8m2!3d26.2225515!4d78.1808711!16s%2Fg%2F11fnk82y82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2225515,
+      "lng": 78.1808711,
+      "label": "SKINOS - Best Hair Transplant centre in gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-up-dental-care-gwalior",
+    "name": "SMILE.UP DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SMILE.UP DENTAL CARE is a prominent dental clinic in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099179 99975",
+    "alternatePhone": "",
+    "website": "https://smileup-dental-care.grexa.site/",
+    "address": "A-343, Sagartal Rd, opp. suraj sundaram garden, Bahodapur, Anand Nagar, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "Anand Nagar",
+    "landmark": "opp. suraj sundaram garden",
+    "emergencyContact": "099179 99975",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SMILE.UP+DENTAL+CARE/@26.2327061,78.1531553,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7e75edda26d:0xa69864b727aa7273!8m2!3d26.2327061!4d78.1531553!16s%2Fg%2F11h64y2dd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SMILE.UP+DENTAL+CARE/@26.2327061,78.1531553,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c7e75edda26d:0xa69864b727aa7273!8m2!3d26.2327061!4d78.1531553!16s%2Fg%2F11h64y2dd5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2327061,
+      "lng": 78.1531553,
+      "label": "SMILE.UP DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ssims-hospital-gwalior",
+    "name": "SSIMS Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SSIMS Hospital is a prominent general hospital in Gwalior, known for structured tertiary care across Kidney Transplant Surgery In Gwalior. Hospital capacity markers such as Google rating 3.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "075123 36619",
+    "alternatePhone": "",
+    "website": "https://ssimshospital.com/",
+    "address": "Cancer Hill, Cancer Hospital Rd, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Cancer Hospital Rd",
+    "landmark": "Gwalior",
+    "emergencyContact": "075123 36619",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SSIMS+Hospital/@26.183402,78.1655155,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c448c5c30b0b:0xde901f5386bed0e8!8m2!3d26.183402!4d78.1655155!16s%2Fg%2F11bw2_d7cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSIMS+Hospital/@26.183402,78.1655155,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c448c5c30b0b:0xde901f5386bed0e8!8m2!3d26.183402!4d78.1655155!16s%2Fg%2F11bw2_d7cr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.183402,
+      "lng": 78.1655155,
+      "label": "SSIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "surgery-and-endoscopy-gwalior",
+    "name": "Surgery and endoscopy",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Surgery and endoscopy for its strength in Liver Transplant Surgery In Gwalior. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vineet Market, Jayendraganj, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Surgery+and+endoscopy/@26.2048215,78.1628933,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c55256018f9b:0x8a3eb752951c5e4a!8m2!3d26.2048215!4d78.1628933!16s%2Fg%2F11swnbn670?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Surgery+and+endoscopy/@26.2048215,78.1628933,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c55256018f9b:0x8a3eb752951c5e4a!8m2!3d26.2048215!4d78.1628933!16s%2Fg%2F11swnbn670?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2048215,
+      "lng": 78.1628933,
+      "label": "Surgery and endoscopy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swasthyam-hospital-gwalior",
+    "name": "Swasthyam Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Swasthyam Hospital for its strength in Urologist Surgery In Gwalior. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://swasthyamhospital.co.in/",
+    "address": "New ROB Road, Tansen Rd, near Chauhan Crane, Birla Nagar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Birla Nagar",
+    "landmark": "near Chauhan Crane, Birla Nagar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swasthyam+Hospital/@26.2246811,78.1816276,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c70065e8f33b:0xed6126d8c0a1e09a!8m2!3d26.2246811!4d78.1816276!16s%2Fg%2F11x_jyqkmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swasthyam+Hospital/@26.2246811,78.1816276,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c70065e8f33b:0xed6126d8c0a1e09a!8m2!3d26.2246811!4d78.1816276!16s%2Fg%2F11x_jyqkmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2246811,
+      "lng": 78.1816276,
+      "label": "Swasthyam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thakur-hospital-gwalior",
+    "name": "Thakur Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Thakur Hospital has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Urologist Surgery In Gwalior. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095898 92266",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Police Station, Gadway Ki Goth, Madhav Ganj, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Madhav Ganj",
+    "landmark": "Madhav Ganj",
+    "emergencyContact": "095898 92266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Thakur+Hospital/@26.192799,78.1448062,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c5f8fe1693:0x879ca1c05399964a!8m2!3d26.192799!4d78.1448062!16s%2Fg%2F11bwym7_82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Thakur+Hospital/@26.192799,78.1448062,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c5f8fe1693:0x879ca1c05399964a!8m2!3d26.192799!4d78.1448062!16s%2Fg%2F11bwym7_82?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.192799,
+      "lng": 78.1448062,
+      "label": "Thakur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-aesthetic-clinic-skin-dental-hair-gwalior",
+    "name": "The Aesthetic Clinic (Skin • Dental • Hair)",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, The Aesthetic Clinic (Skin • Dental • Hair) brings together specialists for Cosmetic Surgery In Gwalior. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091311 90181",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3rd Floor, Neoteric Milestone, New Collectorate Rd, Madhuwan Enclave, Alkapuri, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Alkapuri",
+    "landmark": "New Collectorate Rd",
+    "emergencyContact": "091311 90181",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/The+Aesthetic+Clinic+(Skin+%E2%80%A2+Dental+%E2%80%A2+Hair)/@26.1966156,78.1959421,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3ff607c25b5:0x63d53149f0554d3d!8m2!3d26.1966156!4d78.1959421!16s%2Fg%2F11y4bg3g13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Aesthetic+Clinic+(Skin+%E2%80%A2+Dental+%E2%80%A2+Hair)/@26.1966156,78.1959421,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3ff607c25b5:0x63d53149f0554d3d!8m2!3d26.1966156!4d78.1959421!16s%2Fg%2F11y4bg3g13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1966156,
+      "lng": 78.1959421,
+      "label": "The Aesthetic Clinic (Skin • Dental • Hair)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-ville-family-dentistry-gwalior",
+    "name": "Tooth Ville Family Dentistry",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Tooth Ville Family Dentistry brings together specialists for Oral Surgery In Gwalior and Dentist. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://drlalitgurjar.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "address": "Shop No. 1, Infront of, Gagan plaza, 7 Number Choraha, next to Gole ka mandir police station, Kalpi Bridge Colony, Mahaveer, Morar, Gwalior, Madhya Pradesh 474005",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474005",
+    "locality": "Morar",
+    "landmark": "Gagan plaza",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Ville+Family+Dentistry/@26.2311244,78.2184465,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53bbe4bf8eb:0x3ec5daa5572e1b4e!8m2!3d26.2311244!4d78.2184465!16s%2Fg%2F11n18rsy0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Ville+Family+Dentistry/@26.2311244,78.2184465,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c53bbe4bf8eb:0x3ec5daa5572e1b4e!8m2!3d26.2311244!4d78.2184465!16s%2Fg%2F11n18rsy0t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2311244,
+      "lng": 78.2184465,
+      "label": "Tooth Ville Family Dentistry",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tyagi-dental-and-medical-care-gwalior",
+    "name": "Tyagi Dental and Medical Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Tyagi Dental and Medical Care brings together specialists for Oral Surgery In Gwalior. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088898 73454",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Harishankar Puram, Shiram Colony, Harishankarpuram, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Harishankarpuram",
+    "landmark": "Harishankarpuram",
+    "emergencyContact": "088898 73454",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Tyagi+Dental+and+Medical+Care/@26.1972483,78.1801117,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5f6a8dcd4c9:0xb553e8a9a7bcd859!8m2!3d26.1972483!4d78.1801117!16s%2Fg%2F11rv2gzrr2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tyagi+Dental+and+Medical+Care/@26.1972483,78.1801117,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5f6a8dcd4c9:0xb553e8a9a7bcd859!8m2!3d26.1972483!4d78.1801117!16s%2Fg%2F11rv2gzrr2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1972483,
+      "lng": 78.1801117,
+      "label": "Tyagi Dental and Medical Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "universal-dental-clinic-gwalior",
+    "name": "Universal Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Universal Dental Clinic is a prominent dentist in Gwalior, known for structured tertiary care across Oral Surgery In Gwalior and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "076939 25921",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Darul Habib Complex, G-12, Roxy Rd, Infront of star plaza, Madhoganj, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474001",
+    "locality": "Lashkar",
+    "landmark": "Roxy Rd",
+    "emergencyContact": "076939 25921",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Universal+Dental+Clinic/@26.1963869,78.1490721,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c5368569d1:0x39cc20aca6373dd5!8m2!3d26.1963869!4d78.1490721!16s%2Fg%2F11h11kn3tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Universal+Dental+Clinic/@26.1963869,78.1490721,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5c5368569d1:0x39cc20aca6373dd5!8m2!3d26.1963869!4d78.1490721!16s%2Fg%2F11h11kn3tr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1963869,
+      "lng": 78.1490721,
+      "label": "Universal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urogynae-clinic-gwalior",
+    "name": "UroGynae Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, UroGynae Clinic offers coordinated hospital care with major focus on Urologist Surgery In Gwalior. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "090797 65578",
+    "alternatePhone": "",
+    "website": "",
+    "address": "UroGynae Clinic, Infront of Dwarkadhish Temple, opposite Dwarikadhish Temple, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "opposite Dwarikadhish Temple, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "090797 65578",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/UroGynae+Clinic/@26.2157247,78.2125317,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1a5e0fe10ad:0xc9f47a49d6bc9cac!8m2!3d26.2157247!4d78.2125317!16s%2Fg%2F11vl1m_fh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UroGynae+Clinic/@26.2157247,78.2125317,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1a5e0fe10ad:0xc9f47a49d6bc9cac!8m2!3d26.2157247!4d78.2125317!16s%2Fg%2F11vl1m_fh0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2157247,
+      "lng": 78.2125317,
+      "label": "UroGynae Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uttam-hospital-multi-specialists-and-trauma-centre-gwalior",
+    "name": "Uttam Hospital Multi Specialists & Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Gwalior, Uttam Hospital Multi Specialists & Trauma Centre delivers integrated care across Heart Surgery In Gwalior. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083192 79651",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vivekanand Chouraha, behind Punjab National Bank, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "behind Punjab National Bank",
+    "landmark": "Gwalior",
+    "emergencyContact": "083192 79651",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Uttam+Hospital+Multi+Specialists+%26+Trauma+Centre/@26.21388,78.20253,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3978ad216b1:0x2a63406791e0af15!8m2!3d26.21388!4d78.20253!16s%2Fg%2F11qbdt_gnq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Uttam+Hospital+Multi+Specialists+%26+Trauma+Centre/@26.21388,78.20253,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c3978ad216b1:0x2a63406791e0af15!8m2!3d26.21388!4d78.20253!16s%2Fg%2F11qbdt_gnq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.21388,
+      "lng": 78.20253,
+      "label": "Uttam Hospital Multi Specialists & Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vaibhav-memorial-hospital-gwalior",
+    "name": "Vaibhav Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Gwalior often choose Vaibhav Memorial Hospital for its strength in Orthopedic Surgery In Gwalior. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075140 08070",
+    "alternatePhone": "",
+    "website": "http://www.vaibhavmemorialhospital.com/",
+    "address": "Park No. 2, D-20-1, near Basant Vihar, Vijay Nagar Extension, Basant Vihar Colony, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Lashkar",
+    "landmark": "near Basant Vihar, Vijay Nagar Extension, Basant Vihar Colony, Lashkar, Gwalior, Madhya Pradesh 474002",
+    "emergencyContact": "075140 08070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vaibhav+Memorial+Hospital/@26.2077139,78.1775631,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5db023849df:0xdda1f90d74ede841!8m2!3d26.2077139!4d78.1775631!16s%2Fg%2F11k2hxypxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vaibhav+Memorial+Hospital/@26.2077139,78.1775631,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c5db023849df:0xdda1f90d74ede841!8m2!3d26.2077139!4d78.1775631!16s%2Fg%2F11k2hxypxl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2077139,
+      "lng": 78.1775631,
+      "label": "Vaibhav Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vedant-hospital-cosmetic-surgery-and-maternity-centre-plastic-laser-skin-care-best-hair-treatment-in-gwalior-gwalior",
+    "name": "VEDANT HOSPITAL | Cosmetic Surgery and Maternity Centre | Plastic/Laser/Skin Care - Best Hair Treatment In Gwalior",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Gwalior, VEDANT HOSPITAL | Cosmetic Surgery and Maternity Centre | Plastic/Laser/Skin Care - Best Hair Treatment In Gwalior offers coordinated hospital care with major focus on Gynecologist Surgery In Gwalior. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075140 31226",
+    "alternatePhone": "",
+    "website": "http://www.cosmeticsurgerygwalior.com/",
+    "address": "27-28, 7 Number Choraha, CP Colony, Raghavpuram, Morar, Gwalior, Madhya Pradesh 474006",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474006",
+    "locality": "Morar",
+    "landmark": "CP Colony",
+    "emergencyContact": "075140 31226",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VEDANT+HOSPITAL+%7C+Cosmetic+Surgery+and+Maternity+Centre+%7C+Plastic%2FLaser%2FSkin+Care+-+Best+Hair+Treatment+In+Gwalior/@26.2328885,78.2236044,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c14216f2754d:0x8d24ccd5edbd187d!8m2!3d26.2328885!4d78.2236044!16s%2Fg%2F11cn6gxwlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VEDANT+HOSPITAL+%7C+Cosmetic+Surgery+and+Maternity+Centre+%7C+Plastic%2FLaser%2FSkin+Care+-+Best+Hair+Treatment+In+Gwalior/@26.2328885,78.2236044,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c14216f2754d:0x8d24ccd5edbd187d!8m2!3d26.2328885!4d78.2236044!16s%2Fg%2F11cn6gxwlg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2328885,
+      "lng": 78.2236044,
+      "label": "VEDANT HOSPITAL | Cosmetic Surgery and Maternity Centre | Plastic/Laser/Skin Care - Best Hair Treatment In Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vidya-cancer-hospital-gwalior",
+    "name": "Vidya Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vidya Cancer Hospital is a prominent hospital in Gwalior, known for structured tertiary care across Oncologist Surgery In Gwalior. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6525+GXJ, Old High Ct Rd, near High Court, Maina Wali Gali, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "near High Court, Maina Wali Gali, Dal Bazaar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Vidya+Cancer+Hospital/@26.201331,78.1598991,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42da4b81241:0x99f84cfd9668260c!8m2!3d26.201331!4d78.1598991!16s%2Fg%2F11b7q9kvkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vidya+Cancer+Hospital/@26.201331,78.1598991,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42da4b81241:0x99f84cfd9668260c!8m2!3d26.201331!4d78.1598991!16s%2Fg%2F11b7q9kvkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.201331,
+      "lng": 78.1598991,
+      "label": "Vidya Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vidya-dental-clinic-and-implant-centre-gwalior",
+    "name": "Vidya Dental Clinic and implant centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vidya Dental Clinic and implant centre has built a strong reputation in Gwalior for multidisciplinary treatment pathways covering Oral Surgery In Gwalior. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078985 15319",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bahodapur Rd, Jadhav Colony, Bahodapur, Vinay Nagar, Gwalior, Madhya Pradesh 474012",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474012",
+    "locality": "Vinay Nagar",
+    "landmark": "Bahodapur",
+    "emergencyContact": "078985 15319",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vidya+Dental+Clinic+and+implant+centre/@26.2217365,78.1526946,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c67cce168489:0x78730cf9d458a3d6!8m2!3d26.2217365!4d78.1526946!16s%2Fg%2F11g6bln0p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vidya+Dental+Clinic+and+implant+centre/@26.2217365,78.1526946,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c67cce168489:0x78730cf9d458a3d6!8m2!3d26.2217365!4d78.1526946!16s%2Fg%2F11g6bln0p7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2217365,
+      "lng": 78.1526946,
+      "label": "Vidya Dental Clinic and implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vyas-animal-care-and-cure-pet-hospital-shop-and-surgery-centre-gwalior",
+    "name": "Vyas Animal Care and Cure pet hospital,shop and surgery centre",
+    "type": "Veterinarian",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted veterinarian in Gwalior, Vyas Animal Care and Cure pet hospital,shop and surgery centre delivers integrated care across Heart Surgery In Gwalior and Veterinarian. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094257 73748",
+    "alternatePhone": "",
+    "website": "",
+    "address": "178, New High Ct Rd, Narsingh Nagar, Sharda Vihar, Mahalgaon, Gwalior, Madhya Pradesh 474002",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474002",
+    "locality": "Mahalgaon",
+    "landmark": "Narsingh Nagar",
+    "emergencyContact": "094257 73748",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Gwalior",
+      "Veterinarian"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Vyas+Animal+Care+and+Cure+pet+hospital,shop+and+surgery+centre/@26.201022,78.1890732,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c576d987c9f9:0x86c42665861b9eaf!8m2!3d26.201022!4d78.1890732!16s%2Fg%2F11hz2c__h2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vyas+Animal+Care+and+Cure+pet+hospital,shop+and+surgery+centre/@26.201022,78.1890732,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c576d987c9f9:0x86c42665861b9eaf!8m2!3d26.201022!4d78.1890732!16s%2Fg%2F11hz2c__h2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.201022,
+      "lng": 78.1890732,
+      "label": "Vyas Animal Care and Cure pet hospital,shop and surgery centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "we-care-gwalior-gwalior",
+    "name": "We Care Gwalior",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "We Care Gwalior is a prominent plastic surgery clinic in Gwalior, known for structured tertiary care across Urologist Surgery In Gwalior. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095753 02206",
+    "alternatePhone": "",
+    "website": "",
+    "address": "115-116, First Floor MK Plaza, near Madhav Dispensary Close to jain chhatrawas, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "near Madhav Dispensary Close to jain chhatrawas",
+    "landmark": "near Madhav Dispensary Close to jain chhatrawas, Gwalior, Madhya Pradesh 474009",
+    "emergencyContact": "095753 02206",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/We+Care+Gwalior/@26.1941832,78.1631657,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59fcfc9492f:0xdf8f46edd7e5edc9!8m2!3d26.1941832!4d78.1631657!16s%2Fg%2F11j3sz6zlf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/We+Care+Gwalior/@26.1941832,78.1631657,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c59fcfc9492f:0xdf8f46edd7e5edc9!8m2!3d26.1941832!4d78.1631657!16s%2Fg%2F11j3sz6zlf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.1941832,
+      "lng": 78.1631657,
+      "label": "We Care Gwalior",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "wish-physiotherapy-clinic-gwalior",
+    "name": "Wishवास Physiotherapy Clinic",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Wishवास Physiotherapy Clinic is a prominent physiotherapist in Gwalior, known for structured tertiary care across Spine Surgery In Gwalior and Physiotherapist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082259 55543",
+    "alternatePhone": "",
+    "website": "https://wish-physiotherapy-clinic.launchmy.site/",
+    "address": "Jinsi Rd Number 1, Jayendraganj, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474009",
+    "locality": "Lashkar",
+    "landmark": "Lashkar",
+    "emergencyContact": "082259 55543",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Gwalior",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Wish%E0%A4%B5%E0%A4%BE%E0%A4%B8+Physiotherapy+Clinic/@26.2028536,78.1597619,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42bdd00f891:0x2d88b66401a54588!8m2!3d26.2028536!4d78.1597619!16s%2Fg%2F11hcvyrryj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Wish%E0%A4%B5%E0%A4%BE%E0%A4%B8+Physiotherapy+Clinic/@26.2028536,78.1597619,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c42bdd00f891:0x2d88b66401a54588!8m2!3d26.2028536!4d78.1597619!16s%2Fg%2F11hcvyrryj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2028536,
+      "lng": 78.1597619,
+      "label": "Wishवास Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-hospital-gwalior",
+    "name": "Yashoda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Gwalior, Yashoda Hospital brings together specialists for Orthopedic Surgery In Gwalior. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6688+5FJ, near dwarikadeesh mandir kumharpura, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "pincode": "474011",
+    "locality": "Thatipur",
+    "landmark": "near dwarikadeesh mandir kumharpura, Thatipur, Gwalior, Madhya Pradesh 474011",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Gwalior"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+Hospital/@26.2164159,78.2137372,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1bfec97dc1b:0x8079cd09f87d8d42!8m2!3d26.2164159!4d78.2137372!16s%2Fg%2F11s2k9bhml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+Hospital/@26.2164159,78.2137372,17z/data=!3m1!4b1!4m6!3m5!1s0x3976c1bfec97dc1b:0x8079cd09f87d8d42!8m2!3d26.2164159!4d78.2137372!16s%2Fg%2F11s2k9bhml?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 26.2164159,
+      "lng": 78.2137372,
+      "label": "Yashoda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

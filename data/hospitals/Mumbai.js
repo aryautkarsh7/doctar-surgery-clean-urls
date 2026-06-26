@@ -1,0 +1,21461 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32-pearls-dental-clinic-mumbai",
+    "name": "32 Pearls Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, 32 Pearls Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Mumbai. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098330 48975",
+    "alternatePhone": "",
+    "website": "https://clinic32pearls.com/",
+    "address": "3rd Floor, Centre Point Building, 302, Rd Number 18, opp. SBI, near Ambedkar Garden, Chembur Gaothan, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "near Ambedkar Garden, Chembur Gaothan, Chembur, Mumbai, Maharashtra 400071",
+    "emergencyContact": "098330 48975",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/32+Pearls+Dental+Clinic/@19.0595362,72.89952,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c61e1228eb4f:0x332b279021198089!8m2!3d19.0595362!4d72.89952!16s%2Fg%2F1vlk00hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Pearls+Dental+Clinic/@19.0595362,72.89952,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c61e1228eb4f:0x332b279021198089!8m2!3d19.0595362!4d72.89952!16s%2Fg%2F1vlk00hq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0595362,
+      "lng": 72.89952,
+      "label": "32 Pearls Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarogya-smiles-best-dentist-in-vashi-navi-mumbai-navi-mumbai",
+    "name": "Aarogya Smiles - Best Dentist in Vashi Navi-Mumbai.",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aarogya Smiles - Best Dentist in Vashi Navi-Mumbai. has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098206 65550",
+    "alternatePhone": "",
+    "website": "http://aarogyasmiles.com/",
+    "address": "47/ 4, Sector 6, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Vashi",
+    "emergencyContact": "098206 65550",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarogya+Smiles+-+Best+Dentist+in+Vashi+Navi-Mumbai./@19.0700455,72.988073,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6b5d18b03b1:0xd870acbdeb08d43d!8m2!3d19.0700455!4d72.988073!16s%2Fg%2F11s58bhh77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarogya+Smiles+-+Best+Dentist+in+Vashi+Navi-Mumbai./@19.0700455,72.988073,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6b5d18b03b1:0xd870acbdeb08d43d!8m2!3d19.0700455!4d72.988073!16s%2Fg%2F11s58bhh77?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0700455,
+      "lng": 72.988073,
+      "label": "Aarogya Smiles - Best Dentist in Vashi Navi-Mumbai.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarush-ivf-and-endoscopy-centre-mumbai",
+    "name": "Aarush IVF & Endoscopy Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aarush IVF & Endoscopy Centre is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091360 20320",
+    "alternatePhone": "",
+    "website": "https://www.aarushivf.com/",
+    "address": "Prathmesh Harmony CHS, Bhagwan Gautam Buddha Rd, opposite Orlem Church, off Marve Road, Malad, Orlem, Lourdes Colony, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "opposite Orlem Church, off Marve Road, Malad, Orlem, Lourdes Colony, Malad West, Mumbai, Maharashtra 400064",
+    "emergencyContact": "091360 20320",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarush+IVF+%26+Endoscopy+Centre/@19.1965173,72.8367065,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6e829322cc3:0xcea56a6f680f7839!8m2!3d19.1965173!4d72.8367065!16s%2Fg%2F1hdzvypkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarush+IVF+%26+Endoscopy+Centre/@19.1965173,72.8367065,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6e829322cc3:0xcea56a6f680f7839!8m2!3d19.1965173!4d72.8367065!16s%2Fg%2F1hdzvypkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1965173,
+      "lng": 72.8367065,
+      "label": "Aarush IVF & Endoscopy Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarush-ivf-and-endoscopy-centre-best-ivf-clinic-in-mira-road-mumbai-mumbai",
+    "name": "Aarush IVF & Endoscopy Centre | Best IVF Clinic in Mira Road, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aarush IVF & Endoscopy Centre | Best IVF Clinic in Mira Road, Mumbai is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "075067 40241",
+    "alternatePhone": "",
+    "website": "https://www.aarushivf.com/",
+    "address": "Shop no. 2 & 3, Ashley towers, Kanakia Rd, next to Cinemax Theatre, Vagad Nagar, Beverly Park, Mira Road East, Mumbai, Mira Bhayandar, Maharashtra 401105",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "401105",
+    "locality": "Mira Road East",
+    "landmark": "Kanakia Rd",
+    "emergencyContact": "075067 40241",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aarush+IVF+%26+Endoscopy+Centre+%7C+Best+IVF+Clinic+in+Mira+Road,+Mumbai/@19.2932106,72.8710577,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1f3c9f89805:0x84cdca5263d9ef7!8m2!3d19.2932106!4d72.8710577!16s%2Fg%2F11ffv36cfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarush+IVF+%26+Endoscopy+Centre+%7C+Best+IVF+Clinic+in+Mira+Road,+Mumbai/@19.2932106,72.8710577,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1f3c9f89805:0x84cdca5263d9ef7!8m2!3d19.2932106!4d72.8710577!16s%2Fg%2F11ffv36cfx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2932106,
+      "lng": 72.8710577,
+      "label": "Aarush IVF & Endoscopy Centre | Best IVF Clinic in Mira Road, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aca-fertility-care-best-ivf-clinic-in-mumbai-mumbai",
+    "name": "ACA Fertility care (Best IVF Clinic in Mumbai)",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ACA Fertility care (Best IVF Clinic in Mumbai) has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091318 42226",
+    "alternatePhone": "",
+    "website": "http://www.dranuja.in/",
+    "address": "G7, divine residency, Swastik Park, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "Swastik Park",
+    "emergencyContact": "091318 42226",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ACA+Fertility+care+(Best+IVF+Clinic+in+Mumbai)/@19.0577847,72.8900836,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9000296b0d1:0xe2ef31d320f89c06!8m2!3d19.0577847!4d72.8900836!16s%2Fg%2F11wnmt612z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ACA+Fertility+care+(Best+IVF+Clinic+in+Mumbai)/@19.0577847,72.8900836,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9000296b0d1:0xe2ef31d320f89c06!8m2!3d19.0577847!4d72.8900836!16s%2Fg%2F11wnmt612z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0577847,
+      "lng": 72.8900836,
+      "label": "ACA Fertility care (Best IVF Clinic in Mumbai)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "accidental-clinic-mumbai",
+    "name": "Accidental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Accidental Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098925 27524",
+    "alternatePhone": "",
+    "website": "http://www.mumbaimaxillofacial.com/",
+    "address": "Besides Habib Hospital, Manekia Building, Shop No.: 4, Children’s, Jail Rd S, Mumbai, Maharashtra 400009",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400009",
+    "locality": "Jail Rd S",
+    "landmark": "Shop No.: 4",
+    "emergencyContact": "098925 27524",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Accidental+Clinic/@18.9594669,72.8366635,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf2b39647dab:0x62d7149404020daa!8m2!3d18.9594669!4d72.8366635!16s%2Fg%2F11f79ytgqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Accidental+Clinic/@18.9594669,72.8366635,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf2b39647dab:0x62d7149404020daa!8m2!3d18.9594669!4d72.8366635!16s%2Fg%2F11f79ytgqt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9594669,
+      "lng": 72.8366635,
+      "label": "Accidental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "acme-fertility-mumbai",
+    "name": "Acme Fertility",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Acme Fertility brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0222 527 6006",
+    "alternatePhone": "",
+    "website": "http://www.acmefertility.com/",
+    "address": "4 th Floor, Signature Business Park, 403, Postal Colony Rd, near Chembur Monorail Station, Postal Colony, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "near Chembur Monorail Station, Postal Colony, Chembur, Mumbai, Maharashtra 400071",
+    "emergencyContact": "0222 527 6006",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Acme+Fertility/@19.0601365,72.8960035,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c92322b10b53:0x52f9dda6d7a96d3f!8m2!3d19.0601365!4d72.8960035!16s%2Fg%2F11fmpcs8b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Acme+Fertility/@19.0601365,72.8960035,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c92322b10b53:0x52f9dda6d7a96d3f!8m2!3d19.0601365!4d72.8960035!16s%2Fg%2F11fmpcs8b6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0601365,
+      "lng": 72.8960035,
+      "label": "Acme Fertility",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ak-dental-clinic-mumbai",
+    "name": "AK Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose AK Dental Clinic for its strength in Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088509 92611",
+    "alternatePhone": "",
+    "website": "https://akdentalclinic.co.in/",
+    "address": "8th Floor, D Square Building, GOKALIBAI PUNAMCHAND PITAMBAR HIGH SCHOOL, 801, Dadabhai Rd, opp. CNMS School, Pond Gaothan, Navpada, Kamala Nagar, Vile Parle West, Mumbai, Maharashtra 400056",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400056",
+    "locality": "Vile Parle West",
+    "landmark": "GOKALIBAI PUNAMCHAND PITAMBAR HIGH SCHOOL",
+    "emergencyContact": "088509 92611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AK+Dental+Clinic/@19.1058472,72.8408924,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c956ff44538d:0xea77d1b913e7ea6f!8m2!3d19.1058472!4d72.8408924!16s%2Fg%2F11r8xgtcvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AK+Dental+Clinic/@19.1058472,72.8408924,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c956ff44538d:0xea77d1b913e7ea6f!8m2!3d19.1058472!4d72.8408924!16s%2Fg%2F11r8xgtcvd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1058472,
+      "lng": 72.8408924,
+      "label": "AK Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anil-cancer-clinic-mumbai",
+    "name": "Anil Cancer Clinic",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Anil Cancer Clinic brings together specialists for Oncologist Surgery In Mumbai and Cancer Treatment Center. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090290 49175",
+    "alternatePhone": "",
+    "website": "http://www.anilcancerclinic.com/",
+    "address": "Nirmal Corporate Centre, 226, Hallmark, Vasant Oscar, Opp. Sony Showroom Near, Lal Bahadur Shastri Marg, Mulund West, Mumbai, Maharashtra 400080",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400080",
+    "locality": "Mulund West",
+    "landmark": "Hallmark",
+    "emergencyContact": "090290 49175",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Anil+Cancer+Clinic/@19.1680958,72.9388946,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b856e501723d:0xa48d237683170b97!8m2!3d19.1680958!4d72.9388946!16s%2Fg%2F11fyx9mt6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anil+Cancer+Clinic/@19.1680958,72.9388946,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b856e501723d:0xa48d237683170b97!8m2!3d19.1680958!4d72.9388946!16s%2Fg%2F11fyx9mt6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1680958,
+      "lng": 72.9388946,
+      "label": "Anil Cancer Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ankoor-mumbai",
+    "name": "Ankoor",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ankoor is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098204 50061",
+    "alternatePhone": "",
+    "website": "http://fertilityclinicmumbai.com/",
+    "address": "242 Jain Sadan, Bhandar Gully, LJ Road Mumbai Bhandar Gully, Lady Jamshedji Rd, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "locality": "Lady Jamshedji Rd",
+    "landmark": "LJ Road Mumbai Bhandar Gully",
+    "emergencyContact": "098204 50061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ankoor/@19.0332836,72.8432928,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ced27df67c89:0x374882e2f08c6fe4!8m2!3d19.0332836!4d72.8432928!16s%2Fg%2F12htc_42d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ankoor/@19.0332836,72.8432928,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ced27df67c89:0x374882e2f08c6fe4!8m2!3d19.0332836!4d72.8432928!16s%2Fg%2F12htc_42d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0332836,
+      "lng": 72.8432928,
+      "label": "Ankoor",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-fertility-best-ivf-and-fertility-hospital-in-borivali-mumbai",
+    "name": "Apollo Fertility - Best IVF & Fertility Hospital in Borivali",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Fertility - Best IVF & Fertility Hospital in Borivali is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072900 84295",
+    "alternatePhone": "",
+    "website": "https://www.apollofertility.com/mumbai/borivali/our-hospitals/best-ivf-centre-in-borivali-mumbai",
+    "address": "WESTERN EXPRESS HIGHWAY DEVI PADA, Khodiyar Nagar, Magathane, Borivali East, Mumbai, Maharashtra 400066",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400066",
+    "locality": "Borivali East",
+    "landmark": "Magathane",
+    "emergencyContact": "072900 84295",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Fertility+-+Best+IVF+%26+Fertility+Hospital+in+Borivali/@19.2239352,72.8651158,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d7dd2f2ec7:0x9faa546ced850431!8m2!3d19.2239352!4d72.8651158!16s%2Fg%2F11qmykv57x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Fertility+-+Best+IVF+%26+Fertility+Hospital+in+Borivali/@19.2239352,72.8651158,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d7dd2f2ec7:0x9faa546ced850431!8m2!3d19.2239352!4d72.8651158!16s%2Fg%2F11qmykv57x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2239352,
+      "lng": 72.8651158,
+      "label": "Apollo Fertility - Best IVF & Fertility Hospital in Borivali",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-fertility-best-ivf-center-in-thane-west-mumbai-thane",
+    "name": "Apollo Fertility - Best IVF Center in Thane West, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Thane, Apollo Fertility - Best IVF Center in Thane West, Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072900 67208",
+    "alternatePhone": "",
+    "website": "https://www.apollofertility.com/",
+    "address": "Vibgyor, A- Wing, Ghodbunder Rd, near Hiranandani Estate, behind Tata Motors Showroom, Patlipada, Thane West, Thane, Maharashtra 400607",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400607",
+    "locality": "Thane West",
+    "landmark": "near Hiranandani Estate, behind Tata Motors Showroom, Patlipada, Thane West, Thane, Maharashtra 400607",
+    "emergencyContact": "072900 67208",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Fertility+-+Best+IVF+Center+in+Thane+West,+Mumbai/@19.2481149,72.9754646,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bbbaa8c90603:0x6aabdb26f568da73!8m2!3d19.2481149!4d72.9754646!16s%2Fg%2F11qszs9qkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Fertility+-+Best+IVF+Center+in+Thane+West,+Mumbai/@19.2481149,72.9754646,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bbbaa8c90603:0x6aabdb26f568da73!8m2!3d19.2481149!4d72.9754646!16s%2Fg%2F11qszs9qkf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2481149,
+      "lng": 72.9754646,
+      "label": "Apollo Fertility - Best IVF Center in Thane West, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-spectra-taradeo-mumbai-mumbai",
+    "name": "Apollo Spectra - Taradeo, Mumbai",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Apollo Spectra - Taradeo, Mumbai for its strength in Urologist Surgery In Mumbai. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/mumbai/tardeo/our-hospitals/best-hospital-in-tardeo-mumbai?utm_source=google&utm_medium=GoogleMap&utm_campaign=GoogleMapTardeo",
+    "address": "Famous Cine Labs 156, behind Everest Building, Tardeo, Mumbai, Maharashtra 400034",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400034",
+    "locality": "Tardeo",
+    "landmark": "Tardeo",
+    "emergencyContact": "084484 40991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Spectra+-+Taradeo,+Mumbai/@18.97071,72.8145189,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce7190366d17:0x74b428b06265d818!8m2!3d18.97071!4d72.8145189!16s%2Fg%2F11b8c1c82t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Spectra+-+Taradeo,+Mumbai/@18.97071,72.8145189,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce7190366d17:0x74b428b06265d818!8m2!3d18.97071!4d72.8145189!16s%2Fg%2F11b8c1c82t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.97071,
+      "lng": 72.8145189,
+      "label": "Apollo Spectra - Taradeo, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-spectra-hospital-chembur-mumbai-mumbai",
+    "name": "Apollo Spectra Hospital - Chembur, Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Apollo Spectra Hospital - Chembur, Mumbai offers coordinated hospital care with major focus on Urologist Surgery In Mumbai. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084484 40991",
+    "alternatePhone": "",
+    "website": "https://www.apollospectra.com/mumbai/chembur/our-hospitals/best-hospital-in-chembur-mumbai?utm_source=google&utm_medium=GoogleMap&utm_campaign=GoogleMapChembur",
+    "address": "Ujagar Compund, Main GAte, opp. Deonar Bus Depot, MBPT Colony, Best Colony, Chembur, Mumbai, Maharashtra 400088",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400088",
+    "locality": "Chembur",
+    "landmark": "opp. Deonar Bus Depot",
+    "emergencyContact": "084484 40991",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Spectra+Hospital+-+Chembur,+Mumbai/@19.047139,72.9110992,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6089a207511:0xf27685f9b71711fd!8m2!3d19.047139!4d72.9110992!16s%2Fg%2F1hc10l2dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Spectra+Hospital+-+Chembur,+Mumbai/@19.047139,72.9110992,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6089a207511:0xf27685f9b71711fd!8m2!3d19.047139!4d72.9110992!16s%2Fg%2F1hc10l2dm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.047139,
+      "lng": 72.9110992,
+      "label": "Apollo Spectra Hospital - Chembur, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "areeva-wellness-and-aesthetic-clinic-navi-mumbai",
+    "name": "Areeva Wellness & Aesthetic Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Navi Mumbai, Areeva Wellness & Aesthetic Clinic delivers integrated care across Plastic Surgery In Mumbai. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099679 22767",
+    "alternatePhone": "",
+    "website": "https://areevacosmeticsurgery.com/",
+    "address": "Office No. 3, 1st Floor, Mahavir Center, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Mahavir Center",
+    "emergencyContact": "099679 22767",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Areeva+Wellness+%26+Aesthetic+Clinic/@19.0738331,72.9992474,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c136009aaaab:0x1964356125f252ff!8m2!3d19.0738331!4d72.9992474!16s%2Fg%2F11v0__sjj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Areeva+Wellness+%26+Aesthetic+Clinic/@19.0738331,72.9992474,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c136009aaaab:0x1964356125f252ff!8m2!3d19.0738331!4d72.9992474!16s%2Fg%2F11v0__sjj4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0738331,
+      "lng": 72.9992474,
+      "label": "Areeva Wellness & Aesthetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "art-fertility-clinics-navi-mumbai",
+    "name": "ART Fertility Clinics",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ART Fertility Clinics has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://artfertilityclinics.in/ivf-clinic/ivf-clinic-vashi-navi-mumbai",
+    "address": "Art Fertility Clinics, 1st Floor, Unit No 14 & 15 Mahavir Center Plot No. 77, above Golden Punjab Hotel, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Unit No 14 & 15 Mahavir Center Plot No. 77",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ART+Fertility+Clinics/@19.0738331,72.9992474,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c14eafbd56b3:0xc4a2e7182c12969e!8m2!3d19.0738331!4d72.9992474!16s%2Fg%2F11wjbffbdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ART+Fertility+Clinics/@19.0738331,72.9992474,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c14eafbd56b3:0xc4a2e7182c12969e!8m2!3d19.0738331!4d72.9992474!16s%2Fg%2F11wjbffbdz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0738331,
+      "lng": 72.9992474,
+      "label": "ART Fertility Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "art-fertility-clinics-best-ivf-center-in-mumbai-mumbai",
+    "name": "ART Fertility Clinics - Best IVF Center in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, ART Fertility Clinics - Best IVF Center in Mumbai offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084488 01362",
+    "alternatePhone": "",
+    "website": "https://artfertilityclinics.in/ivf-clinic/ivf-clinic-in-mumbai",
+    "address": "Ground Floor, Tower 4 Plot, Equinox Business Park, 81A, Lal Bahadur Shastri Marg, beside Tata Communications, Ambedkar Nagar, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400070",
+    "locality": "Kurla",
+    "landmark": "beside Tata Communications, Ambedkar Nagar, Kurla West, Kurla, Mumbai, Maharashtra 400070",
+    "emergencyContact": "084488 01362",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ART+Fertility+Clinics+-+Best+IVF+Center+in+Mumbai/@19.0711804,72.8770899,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9f4dd2ad901:0x69a60861fe685c28!8m2!3d19.0711804!4d72.8770899!16s%2Fg%2F11q8y5nz8r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ART+Fertility+Clinics+-+Best+IVF+Center+in+Mumbai/@19.0711804,72.8770899,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9f4dd2ad901:0x69a60861fe685c28!8m2!3d19.0711804!4d72.8770899!16s%2Fg%2F11q8y5nz8r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0711804,
+      "lng": 72.8770899,
+      "label": "ART Fertility Clinics - Best IVF Center in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asian-heart-institute-mumbai",
+    "name": "Asian Heart Institute",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Asian Heart Institute offers coordinated hospital care with major focus on Heart Surgery In Mumbai and Cardiac Care. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0226 698 6666",
+    "alternatePhone": "",
+    "website": "https://asianheartinstitute.org/",
+    "address": "G / N, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400051",
+    "locality": "Bandra East",
+    "landmark": "Bandra Kurla Complex",
+    "emergencyContact": "0226 698 6666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Asian+Heart+Institute/@19.0652405,72.8610142,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c8e632b92973:0xfc994ae0b57a17a4!8m2!3d19.0652405!4d72.8610142!16s%2Fm%2F0g9ynsr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Asian+Heart+Institute/@19.0652405,72.8610142,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c8e632b92973:0xfc994ae0b57a17a4!8m2!3d19.0652405!4d72.8610142!16s%2Fm%2F0g9ynsr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0652405,
+      "lng": 72.8610142,
+      "label": "Asian Heart Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asperia-cosmetic-clinic-and-hair-transplant-center-mumbai",
+    "name": "ASPERIA COSMETIC CLINIC & HAIR TRANSPLANT CENTER",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Mumbai, ASPERIA COSMETIC CLINIC & HAIR TRANSPLANT CENTER delivers integrated care across Cosmetic Surgery In Mumbai. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086899 37887",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Daffodil CHS, C-102, opposite Naturals Ice cream, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400076",
+    "locality": "Powai",
+    "landmark": "opposite Naturals Ice cream, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "emergencyContact": "086899 37887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/ASPERIA+COSMETIC+CLINIC+%26+HAIR+TRANSPLANT+CENTER/@19.1149679,72.9068831,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7bafa68c19d:0xf84b27a9af7cb727!8m2!3d19.1149679!4d72.9068831!16s%2Fg%2F11plfk7pwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASPERIA+COSMETIC+CLINIC+%26+HAIR+TRANSPLANT+CENTER/@19.1149679,72.9068831,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7bafa68c19d:0xf84b27a9af7cb727!8m2!3d19.1149679!4d72.9068831!16s%2Fg%2F11plfk7pwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1149679,
+      "lng": 72.9068831,
+      "label": "ASPERIA COSMETIC CLINIC & HAIR TRANSPLANT CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aurous-dental-clinic-mumbai",
+    "name": "Aurous Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Aurous Dental Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai and Dentist. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098197 19655",
+    "alternatePhone": "",
+    "website": "https://drrikingogri.in/",
+    "address": "207, Shreedham Classic, opp Kotak mahindra bank, next to St john school, Goregaon West, Mumbai, Maharashtra 400104",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400104",
+    "locality": "Goregaon West",
+    "landmark": "opp Kotak mahindra bank",
+    "emergencyContact": "098197 19655",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aurous+Dental+Clinic/@19.1561306,72.8455591,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79d415d796d:0x264ae595392e742e!8m2!3d19.1561306!4d72.8455591!16s%2Fg%2F11ghfnp7ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aurous+Dental+Clinic/@19.1561306,72.8455591,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79d415d796d:0x264ae595392e742e!8m2!3d19.1561306!4d72.8455591!16s%2Fg%2F11ghfnp7ff?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1561306,
+      "lng": 72.8455591,
+      "label": "Aurous Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aveta-fertility-clinic-best-ivf-and-infertility-treatment-centre-in-mumbai-mumbai",
+    "name": "Aveta Fertility Clinic – Best IVF & Infertility Treatment Centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Aveta Fertility Clinic – Best IVF & Infertility Treatment Centre in Mumbai offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083692 92970",
+    "alternatePhone": "",
+    "website": "http://www.avetafertility.com/",
+    "address": "Ground floor, Sanjeev building, c/o zen hospital Junction of Ganesh gawde road, &, Dr Ambedkar Rd, Mulund West, Mumbai, Maharashtra 400080",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400080",
+    "locality": "Mulund West",
+    "landmark": "c/o zen hospital Junction of Ganesh gawde road",
+    "emergencyContact": "083692 92970",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Aveta+Fertility+Clinic+%E2%80%93+Best+IVF+%26+Infertility+Treatment+Centre+in+Mumbai/@19.1721503,72.9509485,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b90339f4ce37:0xa7c62fdaf1a81d5b!8m2!3d19.1721503!4d72.9509485!16s%2Fg%2F11g4htmcv9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aveta+Fertility+Clinic+%E2%80%93+Best+IVF+%26+Infertility+Treatment+Centre+in+Mumbai/@19.1721503,72.9509485,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b90339f4ce37:0xa7c62fdaf1a81d5b!8m2!3d19.1721503!4d72.9509485!16s%2Fg%2F11g4htmcv9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1721503,
+      "lng": 72.9509485,
+      "label": "Aveta Fertility Clinic – Best IVF & Infertility Treatment Centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "b-k-kidney-and-g-i-centre-mumbai",
+    "name": "B K Kidney & G I Centre",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B K Kidney & G I Centre has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Urologist Surgery In Mumbai, Medical Diagnostic Imaging Center, and Kidney Care. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "3-1, Ground Floor, Aarey Rd, opposite Rajasthan Hall, Piramal Nagar, Goregaon West, Mumbai, Maharashtra 400104",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400104",
+    "locality": "Goregaon West",
+    "landmark": "opposite Rajasthan Hall, Piramal Nagar, Goregaon West, Mumbai, Maharashtra 400104",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai",
+      "Medical Diagnostic Imaging Center",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/B+K+Kidney+%26+G+I+Centre/@19.1667674,72.8476284,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7bc56616e5f:0xc36b000730897802!8m2!3d19.1667674!4d72.8476284!16s%2Fg%2F1wk6y6_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/B+K+Kidney+%26+G+I+Centre/@19.1667674,72.8476284,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7bc56616e5f:0xc36b000730897802!8m2!3d19.1667674!4d72.8476284!16s%2Fg%2F1wk6y6_k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1667674,
+      "lng": 72.8476284,
+      "label": "B K Kidney & G I Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "babies-and-us-ivf-and-icsi-center-ivf-center-in-mumbai-best-fertility-clinic-mumbai",
+    "name": "Babies & Us IVF & ICSI Center | IVF Center in Mumbai | Best Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Babies & Us IVF & ICSI Center | IVF Center in Mumbai | Best Fertility Clinic brings together specialists for IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098717 17305",
+    "alternatePhone": "",
+    "website": "https://bloomclinicsobo.com/",
+    "address": "534, 4th Floor, Bombay Mutual Terrace, Opera House, Mumbai, Maharashtra 400004",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "locality": "Opera House",
+    "landmark": "Bombay Mutual Terrace",
+    "emergencyContact": "098717 17305",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Babies+%26+Us+IVF+%26+ICSI+Center+%7C+IVF+Center+in+Mumbai+%7C+Best+Fertility+Clinic/@18.9537342,72.8183134,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf82125bec23:0x4d7765227676adbb!8m2!3d18.9537342!4d72.8183134!16s%2Fg%2F11h226qs8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Babies+%26+Us+IVF+%26+ICSI+Center+%7C+IVF+Center+in+Mumbai+%7C+Best+Fertility+Clinic/@18.9537342,72.8183134,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf82125bec23:0x4d7765227676adbb!8m2!3d18.9537342!4d72.8183134!16s%2Fg%2F11h226qs8z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9537342,
+      "lng": 72.8183134,
+      "label": "Babies & Us IVF & ICSI Center | IVF Center in Mumbai | Best Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bavishi-fertility-institute-ghatkopar-mumbai",
+    "name": "Bavishi Fertility Institute Ghatkopar",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Bavishi Fertility Institute Ghatkopar offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097126 22288",
+    "alternatePhone": "",
+    "website": "https://www.ivfclinic.com/mumbai/",
+    "address": "2nd Floor, Vallabh Vihar CHS, Mahatma Gandhi Rd, opp. Kotak Mahindra Bank, Rajawadi Colony, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400077",
+    "locality": "Ghatkopar East",
+    "landmark": "Mahatma Gandhi Rd",
+    "emergencyContact": "097126 22288",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bavishi+Fertility+Institute+Ghatkopar/@19.0784861,72.9038475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62fdbb9d193:0xfc1036a70726ac64!8m2!3d19.0784861!4d72.9038475!16s%2Fg%2F11stvrmkkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bavishi+Fertility+Institute+Ghatkopar/@19.0784861,72.9038475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62fdbb9d193:0xfc1036a70726ac64!8m2!3d19.0784861!4d72.9038475!16s%2Fg%2F11stvrmkkd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0784861,
+      "lng": 72.9038475,
+      "label": "Bavishi Fertility Institute Ghatkopar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-bone-marrow-transplant-hospital-in-mulund-mumbai-top-cancer-care-hospital-in-mulund-fortis-hospital-mulund-mumbai",
+    "name": "Best Bone Marrow Transplant Hospital in Mulund, Mumbai | Top Cancer Care Hospital in Mulund | Fortis Hospital Mulund",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Best Bone Marrow Transplant Hospital in Mulund, Mumbai | Top Cancer Care Hospital in Mulund | Fortis Hospital Mulund for its strength in Liver Transplant Surgery In Mumbai, Cancer Treatment Center, and Orthopaedics. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/lp/bone-marrow-transplant-hospital-mumbai",
+    "address": "Cabin, Fortis Hospital, 133, Mulund - Goregaon Link Rd, Nahur West, Industrial Area, Mulund West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Mulund West",
+    "landmark": "133",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai",
+      "Cancer Treatment Center",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Bone+Marrow+Transplant+Hospital+in+Mulund,+Mumbai+%7C+Top+Cancer+Care+Hospital+in+Mulund+%7C+Fortis+Hospital+Mulund/@19.1616531,72.9416441,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b984fe2b2af9:0x1555d3aa0093ca3e!8m2!3d19.1616531!4d72.9416441!16s%2Fg%2F11rs2vkcrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Bone+Marrow+Transplant+Hospital+in+Mulund,+Mumbai+%7C+Top+Cancer+Care+Hospital+in+Mulund+%7C+Fortis+Hospital+Mulund/@19.1616531,72.9416441,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b984fe2b2af9:0x1555d3aa0093ca3e!8m2!3d19.1616531!4d72.9416441!16s%2Fg%2F11rs2vkcrv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1616531,
+      "lng": 72.9416441,
+      "label": "Best Bone Marrow Transplant Hospital in Mulund, Mumbai | Top Cancer Care Hospital in Mulund | Fortis Hospital Mulund",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-cancer-hospital-in-mulund-mumbai-cancer-hospital-in-mulund-fortis-hospital-mulund-mumbai",
+    "name": "Best Cancer Hospital in Mulund, Mumbai | Cancer Hospital in Mulund | Fortis Hospital Mulund",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Cancer Hospital in Mulund, Mumbai | Cancer Hospital in Mulund | Fortis Hospital Mulund has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Cancer Surgery In Mumbai and Cancer Treatment Center. With public-facing highlights like Google rating 4.4 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/coe/hospitals/fortis-cancer-institute-mulund",
+    "address": "Cabin, Fortis Hospital, 134, Mulund - Goregaon Link Rd, Nahur West, Industrial Area, Mulund West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Mulund West",
+    "landmark": "134",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Cancer+Hospital+in+Mulund,+Mumbai+%7C+Cancer+Hospital+in+Mulund+%7C+Fortis+Hospital+Mulund/@19.1618507,72.9416339,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9744ab06bdd:0xa4851fac147c989f!8m2!3d19.1618507!4d72.9416339!16s%2Fg%2F11rcfft7kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Cancer+Hospital+in+Mulund,+Mumbai+%7C+Cancer+Hospital+in+Mulund+%7C+Fortis+Hospital+Mulund/@19.1618507,72.9416339,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9744ab06bdd:0xa4851fac147c989f!8m2!3d19.1618507!4d72.9416339!16s%2Fg%2F11rcfft7kn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1618507,
+      "lng": 72.9416339,
+      "label": "Best Cancer Hospital in Mulund, Mumbai | Cancer Hospital in Mulund | Fortis Hospital Mulund",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-heart-hospital-in-mahim-mumbai-fortis-sl-raheja-hospital-mahim-mumbai",
+    "name": "Best Heart Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Heart Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Heart Surgery In Mumbai and Cardiac Care. The facility stands out for Google rating 4.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.rahejahospital.com/",
+    "address": "Cabin No 296, Fortis SL Raheja Hospital, Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "locality": "Mahim",
+    "landmark": "Raheja Rugnalaya Marg",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Heart+Hospital+in+Mahim,+Mumbai+%7C+Fortis+SL+Raheja+Hospital,+Mahim/@19.0462815,72.842687,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c96face58539:0xac7cc0092bc0187d!8m2!3d19.0462815!4d72.842687!16s%2Fg%2F11nxt7_z6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Heart+Hospital+in+Mahim,+Mumbai+%7C+Fortis+SL+Raheja+Hospital,+Mahim/@19.0462815,72.842687,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c96face58539:0xac7cc0092bc0187d!8m2!3d19.0462815!4d72.842687!16s%2Fg%2F11nxt7_z6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0462815,
+      "lng": 72.842687,
+      "label": "Best Heart Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-liver-transplant-hospital-in-vashi-navi-mumbai-fortis-hospital-vashi-navi-mumbai",
+    "name": "Best Liver Transplant Hospital in Vashi, Navi Mumbai - Fortis Hospital Vashi",
+    "type": "Hepatologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Liver Transplant Hospital in Vashi, Navi Mumbai - Fortis Hospital Vashi is a prominent hepatologist in Navi Mumbai, known for structured tertiary care across Liver Transplant Surgery In Mumbai, Hepatologist, and Liver Care. The facility stands out for Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/specialities/liver-transplant-53?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=FHL-gmb",
+    "address": "Cabin No 33, Mini, Fortis Hiranandani Hospital, Seashore Rd, Juhu Nagar, Sector 10A, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Fortis Hiranandani Hospital",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai",
+      "Hepatologist",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Liver+Transplant+Hospital+in+Vashi,+Navi+Mumbai+-+Fortis+Hospital+Vashi/@19.0828323,72.9960646,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c111b3e9de21:0x93231395ae2c001!8m2!3d19.0828323!4d72.9960646!16s%2Fg%2F11vhqg4zfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Liver+Transplant+Hospital+in+Vashi,+Navi+Mumbai+-+Fortis+Hospital+Vashi/@19.0828323,72.9960646,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c111b3e9de21:0x93231395ae2c001!8m2!3d19.0828323!4d72.9960646!16s%2Fg%2F11vhqg4zfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0828323,
+      "lng": 72.9960646,
+      "label": "Best Liver Transplant Hospital in Vashi, Navi Mumbai - Fortis Hospital Vashi",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-urology-hospital-in-mahim-mumbai-fortis-sl-raheja-hospital-mahim-mumbai",
+    "name": "Best Urology Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim",
+    "type": "Urology Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Urology Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim is a prominent urology clinic in Mumbai, known for structured tertiary care across Urologist Surgery In Mumbai. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.rahejahospital.com/specialities/urology",
+    "address": "Cabin 160, Fortis SL Raheja Hospital, Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "locality": "Mahim",
+    "landmark": "Raheja Rugnalaya Marg",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Urology+Hospital+in+Mahim,+Mumbai+%7C+Fortis+SL+Raheja+Hospital,+Mahim/@19.0462851,72.8426718,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9351f9ef50b:0xba0c6d89eb2b2cf4!8m2!3d19.0462851!4d72.8426718!16s%2Fg%2F11p77h43f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Urology+Hospital+in+Mahim,+Mumbai+%7C+Fortis+SL+Raheja+Hospital,+Mahim/@19.0462851,72.8426718,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9351f9ef50b:0xba0c6d89eb2b2cf4!8m2!3d19.0462851!4d72.8426718!16s%2Fg%2F11p77h43f0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0462851,
+      "lng": 72.8426718,
+      "label": "Best Urology Hospital in Mahim, Mumbai | Fortis SL Raheja Hospital, Mahim",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "birla-fertility-and-ivf-best-ivf-centre-in-mumbai-mumbai",
+    "name": "Birla Fertility & IVF - Best IVF Centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Birla Fertility & IVF - Best IVF Centre in Mumbai offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096069 96503",
+    "alternatePhone": "",
+    "website": "https://birlafertility.com/locations/maharashtra/best-fertility-ivf-center-in-mumbai/?utm_source=google+my+business&utm_medium=mumbai",
+    "address": "Block No. 6 First Floor, Sane Guruji Premises, 386, Swatantryaveer Savarkar Rd, opp. Siddhivinayak Temple, Prabhadevi, Mumbai, Maharashtra 400025",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400025",
+    "locality": "Prabhadevi",
+    "landmark": "386",
+    "emergencyContact": "096069 96503",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+-+Best+IVF+Centre+in+Mumbai/@19.0177221,72.8303536,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfc36446b0cf:0x706b731cd57e65f6!8m2!3d19.0177221!4d72.8303536!16s%2Fg%2F11k9dt1ssv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Birla+Fertility+%26+IVF+-+Best+IVF+Centre+in+Mumbai/@19.0177221,72.8303536,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfc36446b0cf:0x706b731cd57e65f6!8m2!3d19.0177221!4d72.8303536!16s%2Fg%2F11k9dt1ssv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0177221,
+      "lng": 72.8303536,
+      "label": "Birla Fertility & IVF - Best IVF Centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bombay-cosmetic-clinic-mumbai",
+    "name": "Bombay Cosmetic Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bombay Cosmetic Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Cosmetic Surgery In Mumbai. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0223 558 2678",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Seema Colony, 3/4, Sangeetkar N Dutta Marg, Gharkul Society, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Sangeetkar N Dutta Marg",
+    "emergencyContact": "0223 558 2678",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Bombay+Cosmetic+Clinic/@19.1230009,72.8266693,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9e08b145985:0x5eca66131a3273f1!8m2!3d19.1230009!4d72.8266693!16s%2Fg%2F1hc37trl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bombay+Cosmetic+Clinic/@19.1230009,72.8266693,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9e08b145985:0x5eca66131a3273f1!8m2!3d19.1230009!4d72.8266693!16s%2Fg%2F1hc37trl7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1230009,
+      "lng": 72.8266693,
+      "label": "Bombay Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bone-spine-and-gynec-center-mumbai",
+    "name": "BONE SPINE &GYNEC CENTER",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose BONE SPINE &GYNEC CENTER for its strength in Spine Surgery In Mumbai, Medical Center, Spine Care, and Orthopaedics. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099205 17777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "LEHRI HOUSE, Sofia Zubair Road, NEW NAGPADA, Nagpada, Mumbai, Maharashtra 400008",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400008",
+    "locality": "Nagpada",
+    "landmark": "NEW NAGPADA",
+    "emergencyContact": "099205 17777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mumbai",
+      "Medical Center",
+      "Spine Care",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/BONE+SPINE+%26GYNEC+CENTER/@18.9654756,72.8322191,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa466bd4e9b:0x20fdd0ae1237cf9d!8m2!3d18.9654756!4d72.8322191!16s%2Fg%2F11s0zm_f40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BONE+SPINE+%26GYNEC+CENTER/@18.9654756,72.8322191,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa466bd4e9b:0x20fdd0ae1237cf9d!8m2!3d18.9654756!4d72.8322191!16s%2Fg%2F11s0zm_f40?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9654756,
+      "lng": 72.8322191,
+      "label": "BONE SPINE &GYNEC CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "broadway-smiles-dental-care-dadar-east-mumbai-mumbai",
+    "name": "Broadway Smiles Dental Care - Dadar East, Mumbai",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Broadway Smiles Dental Care - Dadar East, Mumbai is a prominent orthodontist in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai, Orthodontist, and Orthopaedics. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093733 00901",
+    "alternatePhone": "",
+    "website": "https://www.broadwaysmiles.in/",
+    "address": "Ground Floor, Narayan Mansion, 2, Dr Babasaheb Ambedkar Rd, Dadar East, Punewadi, Mumbai, Maharashtra 400014",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400014",
+    "locality": "Punewadi",
+    "landmark": "2",
+    "emergencyContact": "093733 00901",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Broadway+Smiles+Dental+Care+-+Dadar+East,+Mumbai/@19.0202426,72.8492735,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa2533a56d1:0xefb67f8f9dd0daf3!8m2!3d19.0202426!4d72.8492735!16s%2Fg%2F11s0wd1jf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Broadway+Smiles+Dental+Care+-+Dadar+East,+Mumbai/@19.0202426,72.8492735,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa2533a56d1:0xefb67f8f9dd0daf3!8m2!3d19.0202426!4d72.8492735!16s%2Fg%2F11s0wd1jf0?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0202426,
+      "lng": 72.8492735,
+      "label": "Broadway Smiles Dental Care - Dadar East, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-healer-center-best-cancer-treatment-in-mumbai-cancer-hospital-in-mumbai-mumbai",
+    "name": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai is a prominent medical clinic in Mumbai, known for structured tertiary care across Cancer Surgery In Mumbai. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092890 90703",
+    "alternatePhone": "",
+    "website": "https://www.cancerhealercenter.com/cancer-treatment-hospital-in-mumbai?utm_source=local&utm_medium=gmb&utm_campaign=mumbai",
+    "address": "Ground Floor, Sun Tower, GD Ambekar Marg, near TATA Memorial, Bhoiwada, Parel, Mumbai, Maharashtra 400012",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400012",
+    "locality": "Parel",
+    "landmark": "near TATA Memorial, Bhoiwada, Parel, Mumbai, Maharashtra 400012",
+    "emergencyContact": "092890 90703",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Mumbai+%7C+Cancer+Hospital+in+Mumbai/@19.0058618,72.8465861,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf0a1a835423:0x3806bb485375a72b!8m2!3d19.0058618!4d72.8465861!16s%2Fg%2F11vxls1pj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Mumbai+%7C+Cancer+Hospital+in+Mumbai/@19.0058618,72.8465861,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf0a1a835423:0x3806bb485375a72b!8m2!3d19.0058618!4d72.8465861!16s%2Fg%2F11vxls1pj6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0058618,
+      "lng": 72.8465861,
+      "label": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-healer-center-best-cancer-treatment-in-mumbai-cancer-hospital-in-mumbai-mumbai",
+    "name": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Cancer Surgery In Mumbai. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088822 03695",
+    "alternatePhone": "",
+    "website": "https://www.cancerhealercenter.com/cancer-treatment-hospital-in-mumbai?utm_source=local&utm_medium=gmb&utm_campaign=mumbai",
+    "address": "Aryston Center, Jw Marriott, A-201-202, opposite Hotel, Juhu Tara, Juhu, Mumbai, Maharashtra 400049",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400049",
+    "locality": "Juhu",
+    "landmark": "opposite Hotel, Juhu Tara, Juhu, Mumbai, Maharashtra 400049",
+    "emergencyContact": "088822 03695",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Mumbai+%7C+Cancer+Hospital+in+Mumbai/@19.1019766,72.8261694,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9bd5b7803ab:0xfccd3962f6ecfe1e!8m2!3d19.1019766!4d72.8261694!16s%2Fg%2F12vt14pb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Healer+Center+-+Best+Cancer+Treatment+in+Mumbai+%7C+Cancer+Hospital+in+Mumbai/@19.1019766,72.8261694,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9bd5b7803ab:0xfccd3962f6ecfe1e!8m2!3d19.1019766!4d72.8261694!16s%2Fg%2F12vt14pb8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1019766,
+      "lng": 72.8261694,
+      "label": "Cancer Healer Center - Best Cancer Treatment in Mumbai | Cancer Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-surgery-clinic-mumbai",
+    "name": "Cancer Surgery Clinic",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted cancer treatment center in Mumbai, Cancer Surgery Clinic delivers integrated care across Cancer Surgery In Mumbai and Cancer Treatment Center. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077000 58024",
+    "alternatePhone": "",
+    "website": "https://www.cancersurgeryclinic.com/",
+    "address": "2nd Floor, Sanskruti by Sugee, Lady Jamshedji Rd, opp. Kohinoor Tower, Dadar West, Shivaji Park, Mumbai, Maharashtra 400028",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400028",
+    "locality": "Shivaji Park",
+    "landmark": "Lady Jamshedji Rd",
+    "emergencyContact": "077000 58024",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Surgery+Clinic/@19.0257513,72.8405185,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b62e0f139aef:0x14897d193026a591!8m2!3d19.0257513!4d72.8405185!16s%2Fg%2F11pkd1n_nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Surgery+Clinic/@19.0257513,72.8405185,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b62e0f139aef:0x14897d193026a591!8m2!3d19.0257513!4d72.8405185!16s%2Fg%2F11pkd1n_nr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0257513,
+      "lng": 72.8405185,
+      "label": "Cancer Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "casa-dentique-navi-mumbai",
+    "name": "Casa Dentique",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Navi Mumbai, Casa Dentique delivers integrated care across Oral Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098204 65370",
+    "alternatePhone": "",
+    "website": "https://www.casadentique.com/",
+    "address": "Anurag Nursing Home, FIRST FLOOR Shreeji Plaza Complex, plot no. 24, Seawoods East, Sector 25, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Sector 25",
+    "landmark": "plot no. 24",
+    "emergencyContact": "098204 65370",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Casa+Dentique/@19.0228351,73.0209759,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3c04205dcf7:0x51208f2a520ccd8d!8m2!3d19.0228351!4d73.0209759!16s%2Fg%2F11f6dppqgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Casa+Dentique/@19.0228351,73.0209759,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3c04205dcf7:0x51208f2a520ccd8d!8m2!3d19.0228351!4d73.0209759!16s%2Fg%2F11f6dppqgt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0228351,
+      "lng": 73.0209759,
+      "label": "Casa Dentique",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ceramco-dental-clinic-mumbai",
+    "name": "Ceramco Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Ceramco Dental Clinic brings together specialists for Oral Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0226 833 6833",
+    "alternatePhone": "",
+    "website": "http://www.ceramcodentalclinic.com/",
+    "address": "1st Floor, Ganesh Darshan, LT Rd, opp. Manubhai Jewellers, Lokmanya Tilak Nagar, Maharashtra Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "LT Rd",
+    "emergencyContact": "0226 833 6833",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ceramco+Dental+Clinic/@19.2288057,72.8511346,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d62e7e17e1:0xd330e065db44be50!8m2!3d19.2288057!4d72.8511346!16s%2Fg%2F1pty6142j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ceramco+Dental+Clinic/@19.2288057,72.8511346,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d62e7e17e1:0xd330e065db44be50!8m2!3d19.2288057!4d72.8511346!16s%2Fg%2F1pty6142j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2288057,
+      "lng": 72.8511346,
+      "label": "Ceramco Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-dental-implant-and-aesthetic-clinic-dental-implants-and-aligners-in-mumbai-mumbai",
+    "name": "CITY DENTAL IMPLANT & AESTHETIC CLINIC | Dental Implants & Aligners in Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose CITY DENTAL IMPLANT & AESTHETIC CLINIC | Dental Implants & Aligners in Mumbai for its strength in Oral Surgery In Mumbai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081084 52365",
+    "alternatePhone": "",
+    "website": "http://citydentals.in/",
+    "address": "3VG8+WV Mumbai, Maharashtra Shop No 1 UNIVERSAL APARTMENT Kolivary Marg Church Road Kunchi Kurve Nagar Kalina Sanatcruz East Mumbai 400098, Mumbai, Maharashtra 400029",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400098",
+    "locality": "Maharashtra Shop No 1 UNIVERSAL APARTMENT Kolivary Marg Church Road Kunchi Kurve Nagar Kalina Sanatcruz East Mumbai 400098",
+    "landmark": "Mumbai",
+    "emergencyContact": "081084 52365",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CITY+DENTAL+IMPLANT+%26+AESTHETIC+CLINIC+%7C+Dental+Implants+%26+Aligners+in+Mumbai/@19.0772152,72.8671697,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9727ef3cf3f:0x61ccd1ade2ba7d8a!8m2!3d19.0772152!4d72.8671697!16s%2Fg%2F11yxn4ztxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CITY+DENTAL+IMPLANT+%26+AESTHETIC+CLINIC+%7C+Dental+Implants+%26+Aligners+in+Mumbai/@19.0772152,72.8671697,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9727ef3cf3f:0x61ccd1ade2ba7d8a!8m2!3d19.0772152!4d72.8671697!16s%2Fg%2F11yxn4ztxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0772152,
+      "lng": 72.8671697,
+      "label": "CITY DENTAL IMPLANT & AESTHETIC CLINIC | Dental Implants & Aligners in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-malad-best-fertility-and-ivf-treatments-in-mumbai-mumbai",
+    "name": "Cloudnine IVF Center in Malad | Best Fertility & IVF Treatments in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cloudnine IVF Center in Malad | Best Fertility & IVF Treatments in Mumbai is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-malad?utm_city=mumbai&utm_source=gmb&utm_medium=organic&utm_campaign=mumbai+malad+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "116, First Floor, Siddhachal Arcade, CTS Nos. 1084C and 1186A, New Link Rd, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "Siddhachal Arcade",
+    "emergencyContact": "080682 16217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Malad+%7C+Best+Fertility+%26+IVF+Treatments+in+Mumbai/@19.1755421,72.8376174,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6f7a50b6531:0xfbadc3ea0e48f6ec!8m2!3d19.1755421!4d72.8376174!16s%2Fg%2F11w59mftkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Malad+%7C+Best+Fertility+%26+IVF+Treatments+in+Mumbai/@19.1755421,72.8376174,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6f7a50b6531:0xfbadc3ea0e48f6ec!8m2!3d19.1755421!4d72.8376174!16s%2Fg%2F11w59mftkt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1755421,
+      "lng": 72.8376174,
+      "label": "Cloudnine IVF Center in Malad | Best Fertility & IVF Treatments in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-nerul-best-fertility-and-ivf-treatments-in-navi-mumbai-navi-mumbai",
+    "name": "Cloudnine IVF Center in Nerul | Best Fertility & IVF Treatments in Navi Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Navi Mumbai often choose Cloudnine IVF Center in Nerul | Best Fertility & IVF Treatments in Navi Mumbai for its strength in IVF In Mumbai and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-nerul?utm_city=mumbai&utm_source=gmb&utm_medium=organic&utm_campaign=mumbai+nerul+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "Neelsidhi Atlantis, Plot No: 49/1, opposite Wonders Park, Nerul East, Sector 19A, Nerul, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Nerul",
+    "landmark": "opposite Wonders Park, Nerul East, Sector 19A, Nerul, Navi Mumbai, Maharashtra 400706",
+    "emergencyContact": "080682 16217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Nerul+%7C+Best+Fertility+%26+IVF+Treatments+in+Navi+Mumbai/@19.026857,73.027829,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3295ce4b193:0x989cd9208948b85a!8m2!3d19.026857!4d73.027829!16s%2Fg%2F11y30_qbfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Nerul+%7C+Best+Fertility+%26+IVF+Treatments+in+Navi+Mumbai/@19.026857,73.027829,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3295ce4b193:0x989cd9208948b85a!8m2!3d19.026857!4d73.027829!16s%2Fg%2F11y30_qbfj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.026857,
+      "lng": 73.027829,
+      "label": "Cloudnine IVF Center in Nerul | Best Fertility & IVF Treatments in Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cloudnine-ivf-center-in-vashi-best-fertility-and-ivf-treatments-in-navi-mumbai-navi-mumbai",
+    "name": "Cloudnine IVF Center in Vashi | Best Fertility & IVF Treatments in Navi Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Navi Mumbai often choose Cloudnine IVF Center in Vashi | Best Fertility & IVF Treatments in Navi Mumbai for its strength in IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080682 16217",
+    "alternatePhone": "",
+    "website": "https://www.cloudninefertility.com/centre/fertility-ivf-hospitals-in-vashi?utm_city=mumbai&utm_source=gmb&utm_medium=organic&utm_campaign=mumbai+vashi+c9-fertility-gmb-website&utm_content=website-button",
+    "address": "2nd Floor, Palm Beach Galleria Mall, Phase 2, Sector 19D, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Phase 2",
+    "emergencyContact": "080682 16217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Vashi+%7C+Best+Fertility+%26+IVF+Treatments+in+Navi+Mumbai/@19.0851071,73.0077808,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c1374348c03d:0xcf354bf5a69657!8m2!3d19.0851071!4d73.0077808!16s%2Fg%2F11g0hm038f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cloudnine+IVF+Center+in+Vashi+%7C+Best+Fertility+%26+IVF+Treatments+in+Navi+Mumbai/@19.0851071,73.0077808,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c1374348c03d:0xcf354bf5a69657!8m2!3d19.0851071!4d73.0077808!16s%2Fg%2F11g0hm038f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0851071,
+      "lng": 73.0077808,
+      "label": "Cloudnine IVF Center in Vashi | Best Fertility & IVF Treatments in Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "corion-fertility-clinic-and-best-ivf-centre-in-mumbai-mumbai",
+    "name": "Corion Fertility Clinic & Best IVF Centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Corion Fertility Clinic & Best IVF Centre in Mumbai offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086929 49000",
+    "alternatePhone": "",
+    "website": "http://www.corionfertilityclinic.com/",
+    "address": "2nd Floor, Trans Avenue, Lokhandwala Road, Mhada Rd, near Versova Telephone Exchange, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near Versova Telephone Exchange, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "086929 49000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Corion+Fertility+Clinic+%26+Best+IVF+Centre+in+Mumbai/@19.1353661,72.8244529,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b715061ba563:0xe96ebcf488c873aa!8m2!3d19.1353661!4d72.8244529!16s%2Fg%2F1hm4p8p6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Corion+Fertility+Clinic+%26+Best+IVF+Centre+in+Mumbai/@19.1353661,72.8244529,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b715061ba563:0xe96ebcf488c873aa!8m2!3d19.1353661!4d72.8244529!16s%2Fg%2F1hm4p8p6n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1353661,
+      "lng": 72.8244529,
+      "label": "Corion Fertility Clinic & Best IVF Centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmed-aesthetic-clinic-cosmetic-surgery-and-hair-transplant-clinic-in-mumbai-mira-road-mira-bhayandar",
+    "name": "Cosmed Aesthetic Clinic | Cosmetic Surgery and Hair Transplant Clinic in Mumbai | Mira Road",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Mira Bhayandar, Cosmed Aesthetic Clinic | Cosmetic Surgery and Hair Transplant Clinic in Mumbai | Mira Road delivers integrated care across Plastic Surgery In Mumbai. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086555 57979",
+    "alternatePhone": "",
+    "website": "https://www.cosmedclinic.co.in/",
+    "address": "114, 1st Floor, Ostwal Ashadeep Chs Ltd, Mira Bhayandar Rd, opp. Vijay Sales, Silver Park, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "city": "Mira Bhayandar",
+    "state": "Maharashtra",
+    "pincode": "401107",
+    "locality": "Mira Road East",
+    "landmark": "Ostwal Ashadeep Chs Ltd",
+    "emergencyContact": "086555 57979",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmed+Aesthetic+Clinic+%7C+Cosmetic+Surgery+and+Hair+Transplant+Clinic+in+Mumbai+%7C+Mira+Road/@19.2810259,72.8751056,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1d4bec6c2c1:0xcf401453a76a2044!8m2!3d19.2810259!4d72.8751056!16s%2Fg%2F11jhsvrfx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmed+Aesthetic+Clinic+%7C+Cosmetic+Surgery+and+Hair+Transplant+Clinic+in+Mumbai+%7C+Mira+Road/@19.2810259,72.8751056,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1d4bec6c2c1:0xcf401453a76a2044!8m2!3d19.2810259!4d72.8751056!16s%2Fg%2F11jhsvrfx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2810259,
+      "lng": 72.8751056,
+      "label": "Cosmed Aesthetic Clinic | Cosmetic Surgery and Hair Transplant Clinic in Mumbai | Mira Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmetic-surgery-mumbai-mumbai",
+    "name": "Cosmetic Surgery Mumbai",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Cosmetic Surgery Mumbai offers coordinated hospital care with major focus on Plastic Surgery In Mumbai. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081696 22775",
+    "alternatePhone": "",
+    "website": "http://www.cosmeticsurgerymumbai.com/",
+    "address": "Main, Gulmohar Rd, JVPD Scheme, Andheri West, Mumbai, Maharashtra 400049",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400049",
+    "locality": "Andheri West",
+    "landmark": "JVPD Scheme",
+    "emergencyContact": "081696 22775",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmetic+Surgery+Mumbai/@19.115648,72.835345,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9db4ce6daed:0xa2fce9fb629b13c3!8m2!3d19.115648!4d72.835345!16s%2Fg%2F11c59rty06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmetic+Surgery+Mumbai/@19.115648,72.835345,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9db4ce6daed:0xa2fce9fb629b13c3!8m2!3d19.115648!4d72.835345!16s%2Fg%2F11c59rty06?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.115648,
+      "lng": 72.835345,
+      "label": "Cosmetic Surgery Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "craftsman-plastic-reconstruction-and-cosmetic-surgery-centre-mumbai-mumbai",
+    "name": "Craftsman Plastic Reconstruction and Cosmetic Surgery Centre - Mumbai",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Craftsman Plastic Reconstruction and Cosmetic Surgery Centre - Mumbai for its strength in Plastic Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090047 66707",
+    "alternatePhone": "",
+    "website": "http://www.craftsmanclinics.com/",
+    "address": "A Wing Nirman Apts 5/6, Rani Sati Ngr, opp. HP petrol pump, Chincholi Phatak, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "opp. HP petrol pump",
+    "emergencyContact": "090047 66707",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/@19.1785534,72.846703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Craftsman+Plastic+Reconstruction+and+Cosmetic+Surgery+Centre+-+Mumbai/@19.1785534,72.846703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b778bb6e97c1:0x2b72b2c09aaa0359!8m2!3d19.1785534!4d72.846703!16s%2Fg%2F11hfgn6sc4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1785534,
+      "lng": 72.846703,
+      "label": "Craftsman Plastic Reconstruction and Cosmetic Surgery Centre - Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dazzle-dental-clinic-mumbai",
+    "name": "Dazzle Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Dazzle Dental Clinic for its strength in Oral Surgery In Mumbai. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0224 149 8949",
+    "alternatePhone": "",
+    "website": "https://dazzle.dental/",
+    "address": "Notan Chambers, 501, Turner Rd, above VLCC, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "locality": "Bandra West",
+    "landmark": "Turner Rd",
+    "emergencyContact": "0224 149 8949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dazzle+Dental+Clinic/@19.0596277,72.8327492,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c972faaaaaa5:0xbc19625d439a4d2d!8m2!3d19.0596277!4d72.8327492!16s%2Fg%2F11c3symwsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dazzle+Dental+Clinic/@19.0596277,72.8327492,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c972faaaaaa5:0xbc19625d439a4d2d!8m2!3d19.0596277!4d72.8327492!16s%2Fg%2F11c3symwsb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0596277,
+      "lng": 72.8327492,
+      "label": "Dazzle Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-and-maxillofacial-clinic-mumbai",
+    "name": "Dental & Maxillofacial Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dental & Maxillofacial Clinic is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai and Maxillofacial Surgery. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aderbad CHS, 34, N S Patkar Marg, New Khareghat Colony, Babulnath, Khareghat Colony, Malabar Hill, Mumbai, Maharashtra 400007",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400007",
+    "locality": "Malabar Hill",
+    "landmark": "N S Patkar Marg",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+%26+Maxillofacial+Clinic/@18.9592336,72.8096342,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf6d07095bc9:0x712bf3e8d56a1ecc!8m2!3d18.9592336!4d72.8096342!16s%2Fg%2F11ny1gj8m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+%26+Maxillofacial+Clinic/@18.9592336,72.8096342,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf6d07095bc9:0x712bf3e8d56a1ecc!8m2!3d18.9592336!4d72.8096342!16s%2Fg%2F11ny1gj8m3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9592336,
+      "lng": 72.8096342,
+      "label": "Dental & Maxillofacial Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentamax-clinic-mumbai-mumbai",
+    "name": "Dentamax clinic Mumbai",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Dentamax clinic Mumbai offers coordinated hospital care with major focus on Oral Surgery In Mumbai and Dentist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096531 93075",
+    "alternatePhone": "",
+    "website": "https://dentamax.in/",
+    "address": "Shop 18 , Ground floor, Aniraj Towers, Kaka Bharat petroleum pump & Metro, Lal Bahadur Shastri Marg, opposite to Neptune Magnet Mall, GKW Colony, Bhandup West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Bhandup West",
+    "landmark": "opposite to Neptune Magnet Mall, GKW Colony, Bhandup West, Mumbai, Maharashtra 400078",
+    "emergencyContact": "096531 93075",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentamax+clinic+Mumbai/@19.1426388,72.9333915,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b94bb1ec8c97:0xe31d8fbcfd20b6a4!8m2!3d19.1426388!4d72.9333915!16s%2Fg%2F11tf0y5m8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentamax+clinic+Mumbai/@19.1426388,72.9333915,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b94bb1ec8c97:0xe31d8fbcfd20b6a4!8m2!3d19.1426388!4d72.9333915!16s%2Fg%2F11tf0y5m8x?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1426388,
+      "lng": 72.9333915,
+      "label": "Dentamax clinic Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "denteus-the-specialist-hub-mumbai",
+    "name": "Denteus The specialist Hub",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Denteus The specialist Hub is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098197 34442",
+    "alternatePhone": "",
+    "website": "https://denteusclinic.com/",
+    "address": "001/3,Yashodhan Apartments, 4 Bungalows, opp. Kamdhenu Shopping Arcade, Versova, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "4 Bungalows",
+    "emergencyContact": "098197 34442",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Denteus+The+specialist+Hub/@19.1290825,72.8254041,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61f00c5eb3b:0xd12bb331c01a6d02!8m2!3d19.1290825!4d72.8254041!16s%2Fg%2F1v3lndx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Denteus+The+specialist+Hub/@19.1290825,72.8254041,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61f00c5eb3b:0xd12bb331c01a6d02!8m2!3d19.1290825!4d72.8254041!16s%2Fg%2F1v3lndx6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1290825,
+      "lng": 72.8254041,
+      "label": "Denteus The specialist Hub",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "designer-bodyz-centre-plastic-surgery-clinic-in-mumbai-mumbai",
+    "name": "Designer Bodyz Centre - Plastic Surgery Clinic In Mumbai",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Designer Bodyz Centre - Plastic Surgery Clinic In Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Plastic Surgery In Mumbai. The facility stands out for Google rating 4.2 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.designerbodyzcentre.com/",
+    "address": "Vastu Precinct, 401-402, Lokhandwala Complex Rd, opposite Mercedes Benz show room, Sundervan Complex, SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "opposite Mercedes Benz show room, Sundervan Complex, SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Designer+Bodyz+Centre+-+Plastic+Surgery+Clinic+In+Mumbai/@19.1374281,72.8254925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63d40000009:0x3281b1422e9882dc!8m2!3d19.1374281!4d72.8254925!16s%2Fg%2F11cn9ltwcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Designer+Bodyz+Centre+-+Plastic+Surgery+Clinic+In+Mumbai/@19.1374281,72.8254925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63d40000009:0x3281b1422e9882dc!8m2!3d19.1374281!4d72.8254925!16s%2Fg%2F11cn9ltwcj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1374281,
+      "lng": 72.8254925,
+      "label": "Designer Bodyz Centre - Plastic Surgery Clinic In Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dezy-dental-clinic-mumbai",
+    "name": "Dezy Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dezy Dental Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076187 92440",
+    "alternatePhone": "",
+    "website": "https://www.dezy.com/clinics/mumbai/best-dental-clinic-mumbai-juhu",
+    "address": "Shop No. G5 Gauthan No3 AB Nair road, Juhu, near Juhu Church, Vile Parle, Mumbai, Maharashtra 400049",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400049",
+    "locality": "Vile Parle",
+    "landmark": "near Juhu Church, Vile Parle, Mumbai, Maharashtra 400049",
+    "emergencyContact": "076187 92440",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dezy+Dental+Clinic/@19.1074823,72.8261328,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c91de8aa6147:0x44fcd6f3611941e0!8m2!3d19.1074823!4d72.8261328!16s%2Fg%2F11kb87_yvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dezy+Dental+Clinic/@19.1074823,72.8261328,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c91de8aa6147:0x44fcd6f3611941e0!8m2!3d19.1074823!4d72.8261328!16s%2Fg%2F11kb87_yvv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1074823,
+      "lng": 72.8261328,
+      "label": "Dezy Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "embrion-ivf-center-mumbai-mumbai",
+    "name": "Embrion IVF Center Mumbai",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Embrion IVF Center Mumbai offers coordinated hospital care with major focus on IVF In Mumbai, Medical Center, and Fertility Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083559 27529",
+    "alternatePhone": "",
+    "website": "https://www.embrionivf.com/",
+    "address": "101, 1st floor, Classic Commercial Complex, Landmark- Mumbai Bank Building, Kannamwar Nagar II, Vikhroli East, Mumbai, Maharashtra 400083",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400083",
+    "locality": "Vikhroli East",
+    "landmark": "Classic Commercial Complex",
+    "emergencyContact": "083559 27529",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Medical Center",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Embrion+IVF+Center+Mumbai/@19.1191121,72.9396665,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c79951ac6acb:0x378e688ba15cb65!8m2!3d19.1191121!4d72.9396665!16s%2Fg%2F11tfd0ckn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Embrion+IVF+Center+Mumbai/@19.1191121,72.9396665,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c79951ac6acb:0x378e688ba15cb65!8m2!3d19.1191121!4d72.9396665!16s%2Fg%2F11tfd0ckn2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1191121,
+      "lng": 72.9396665,
+      "label": "Embrion IVF Center Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "evolve-cosmetic-clinic-mumbai",
+    "name": "EVOLVE COSMETIC CLINIC",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "EVOLVE COSMETIC CLINIC has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Plastic Surgery In Mumbai. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098196 85222",
+    "alternatePhone": "",
+    "website": "http://evolvecosmeticclinic.com/",
+    "address": "102 A wing, The central, Shell colony road, Chembur east., Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur east.",
+    "landmark": "Shell colony road",
+    "emergencyContact": "098196 85222",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/EVOLVE+COSMETIC+CLINIC/@19.0637187,72.8976879,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c89f6508b1fb:0xfd6caaed1a70cb39!8m2!3d19.0637187!4d72.8976879!16s%2Fg%2F11gf61l4f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/EVOLVE+COSMETIC+CLINIC/@19.0637187,72.8976879,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c89f6508b1fb:0xfd6caaed1a70cb39!8m2!3d19.0637187!4d72.8976879!16s%2Fg%2F11gf61l4f_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0637187,
+      "lng": 72.8976879,
+      "label": "EVOLVE COSMETIC CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fertility-clinic-and-ivf-center-mumbai",
+    "name": "Fertility Clinic & IVF Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Fertility Clinic & IVF Center delivers integrated care across IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0227 966 9554",
+    "alternatePhone": "",
+    "website": "https://www.ivfcentremumbai.com/",
+    "address": "1st Floor, Spring Field, 12, 19, Vachha Gandhi Marg, Gamdevi, Mumbai, Maharashtra 400007",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400007",
+    "locality": "Gamdevi",
+    "landmark": "12",
+    "emergencyContact": "0227 966 9554",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fertility+Clinic+%26+IVF+Center/@18.9591197,72.8111076,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0c127789bf:0x7ce36feaaba939c0!8m2!3d18.9591197!4d72.8111076!16s%2Fg%2F1hc26_n15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fertility+Clinic+%26+IVF+Center/@18.9591197,72.8111076,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0c127789bf:0x7ce36feaaba939c0!8m2!3d18.9591197!4d72.8111076!16s%2Fg%2F1hc26_n15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9591197,
+      "lng": 72.8111076,
+      "label": "Fertility Clinic & IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fertility-square-best-fertility-clinic-in-malad-mumbai-ivf-centre-in-malad-mumbai",
+    "name": "Fertility Square - Best Fertility Clinic in Malad, Mumbai | IVF Centre in Malad",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Fertility Square - Best Fertility Clinic in Malad, Mumbai | IVF Centre in Malad for its strength in IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090043 46917",
+    "alternatePhone": "",
+    "website": "https://fertilitysquaremumbai.com/",
+    "address": "First Floor, Onkar Towers, Shiv Sham Sankul Gen. A. K. Vaidya Math, across Oberoi Mall, Malad East, Mumbai, Maharashtra 400097",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400097",
+    "locality": "Malad East",
+    "landmark": "Shiv Sham Sankul Gen. A. K. Vaidya Math",
+    "emergencyContact": "090043 46917",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fertility+Square+-+Best+Fertility+Clinic+in+Malad,+Mumbai+%7C+IVF+Centre+in+Malad/@19.1751243,72.8615112,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b75104de5229:0x4e519b17fd8ae8c9!8m2!3d19.1751243!4d72.8615112!16s%2Fg%2F11n7rghc0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fertility+Square+-+Best+Fertility+Clinic+in+Malad,+Mumbai+%7C+IVF+Centre+in+Malad/@19.1751243,72.8615112,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b75104de5229:0x4e519b17fd8ae8c9!8m2!3d19.1751243!4d72.8615112!16s%2Fg%2F11n7rghc0v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1751243,
+      "lng": 72.8615112,
+      "label": "Fertility Square - Best Fertility Clinic in Malad, Mumbai | IVF Centre in Malad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fertility-square-best-ivf-center-in-borivali-mumbai-fertility-clinic-in-mumbai-best-ivf-and-infertility-specialist-mumbai",
+    "name": "Fertility Square - Best IVF Center in Borivali, Mumbai | Fertility Clinic in Mumbai | Best IVF & Infertility Specialist",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Fertility Square - Best IVF Center in Borivali, Mumbai | Fertility Clinic in Mumbai | Best IVF & Infertility Specialist brings together specialists for IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090043 46917",
+    "alternatePhone": "",
+    "website": "https://fertilitysquaremumbai.com/",
+    "address": "2nd Floor, Devkrupa CHS, Swami Vivekanand Rd, near Pulse Diagnostics, Meghdoot, Hari Om Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "near Pulse Diagnostics, Meghdoot, Hari Om Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "emergencyContact": "090043 46917",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fertility+Square+-+Best+IVF+Center+in+Borivali,+Mumbai+%7C+Fertility+Clinic+in+Mumbai+%7C+Best+IVF+%26+Infertility+Specialist/@19.2228029,72.8537862,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b19ca41c7de7:0x21cf9fd2112c410b!8m2!3d19.2228029!4d72.8537862!16s%2Fg%2F11mdf8stdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fertility+Square+-+Best+IVF+Center+in+Borivali,+Mumbai+%7C+Fertility+Clinic+in+Mumbai+%7C+Best+IVF+%26+Infertility+Specialist/@19.2228029,72.8537862,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b19ca41c7de7:0x21cf9fd2112c410b!8m2!3d19.2228029!4d72.8537862!16s%2Fg%2F11mdf8stdn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2228029,
+      "lng": 72.8537862,
+      "label": "Fertility Square - Best IVF Center in Borivali, Mumbai | Fertility Clinic in Mumbai | Best IVF & Infertility Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fort-dental-clinic-mumbai",
+    "name": "Fort Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Fort Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Mumbai. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.fortdentalclinic.com/",
+    "address": "2nd Floor, Sambava Chambers, 20, Sir Phirozshah Mehta Rd, opp. The Bombay Store, Borabazar Precinct, Fort, Mumbai, Maharashtra 400001",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "locality": "Fort",
+    "landmark": "20",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fort+Dental+Clinic/@18.9342982,72.8341987,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1db71b412b7:0xdf37b5496ca1221!8m2!3d18.9342982!4d72.8341987!16s%2Fg%2F1tf7qlvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fort+Dental+Clinic/@18.9342982,72.8341987,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1db71b412b7:0xdf37b5496ca1221!8m2!3d18.9342982!4d72.8341987!16s%2Fg%2F1tf7qlvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9342982,
+      "lng": 72.8341987,
+      "label": "Fort Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fortis-hospital-mulund-best-hospital-in-mumbai-mumbai",
+    "name": "Fortis Hospital Mulund | Best Hospital in Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Fortis Hospital Mulund | Best Hospital in Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Mumbai. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-mulund-mumbai?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=FHL-gmb",
+    "address": "Mulund - Goregaon Link Rd Nahur West, Industrial Area, Bhandup West, Mulund West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Mulund West",
+    "landmark": "Bhandup West",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fortis+Hospital+Mulund+%7C+Best+Hospital+in+Mumbai/@19.1617943,72.9418091,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b85e410ad361:0x6ca97bfe9216e096!8m2!3d19.1617943!4d72.9418091!16s%2Fg%2F11bvtryz5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fortis+Hospital+Mulund+%7C+Best+Hospital+in+Mumbai/@19.1617943,72.9418091,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b85e410ad361:0x6ca97bfe9216e096!8m2!3d19.1617943!4d72.9418091!16s%2Fg%2F11bvtryz5h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1617943,
+      "lng": 72.9418091,
+      "label": "Fortis Hospital Mulund | Best Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fortis-s-l-raheja-hospital-best-hospital-in-mumbai-mumbai",
+    "name": "Fortis S L Raheja Hospital - Best Hospital in Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Fortis S L Raheja Hospital - Best Hospital in Mumbai offers coordinated hospital care with major focus on Liver Transplant Surgery In Mumbai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0226 884 6143",
+    "alternatePhone": "",
+    "website": "https://www.rahejahospital.com/?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=FHL-gmb",
+    "address": "Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "locality": "Mahim",
+    "landmark": "Mahim",
+    "emergencyContact": "0226 884 6143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Fortis+S+L+Raheja+Hospital+-+Best+Hospital+in+Mumbai/@19.0462883,72.8426504,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!8m2!3d19.0462883!4d72.8426504!16s%2Fg%2F1thz03zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fortis+S+L+Raheja+Hospital+-+Best+Hospital+in+Mumbai/@19.0462883,72.8426504,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!8m2!3d19.0462883!4d72.8426504!16s%2Fg%2F1thz03zj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0462883,
+      "lng": 72.8426504,
+      "label": "Fortis S L Raheja Hospital - Best Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "free-heart-surgery-hospital-in-mumbai-angioplasty-and-bypass-surgery-in-thane-mumbai",
+    "name": "Free Heart Surgery Hospital in Mumbai - Angioplasty & Bypass Surgery in Thane",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Free Heart Surgery Hospital in Mumbai - Angioplasty & Bypass Surgery in Thane for its strength in Heart Surgery In Mumbai and Cardiac Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087792 28690",
+    "alternatePhone": "",
+    "website": "https://www.hospitalsurf.com/free-heart-surgery/",
+    "address": "Colour Scape, Mall Dhamaal, Off LBS Road, Dindayal Upadhyay Marg, Siddharth Nagar, Mulund West, Mumbai, Maharashtra 400604",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400604",
+    "locality": "Mulund West",
+    "landmark": "Off LBS Road",
+    "emergencyContact": "087792 28690",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Free+Heart+Surgery+Hospital+in+Mumbai+-+Angioplasty+%26+Bypass+Surgery+in+Thane/@19.1805788,72.9536953,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9ea0cd96cff:0xa42c10e61becda13!8m2!3d19.1805788!4d72.9536953!16s%2Fg%2F11pzt7cjkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Free+Heart+Surgery+Hospital+in+Mumbai+-+Angioplasty+%26+Bypass+Surgery+in+Thane/@19.1805788,72.9536953,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9ea0cd96cff:0xa42c10e61becda13!8m2!3d19.1805788!4d72.9536953!16s%2Fg%2F11pzt7cjkn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1805788,
+      "lng": 72.9536953,
+      "label": "Free Heart Surgery Hospital in Mumbai - Angioplasty & Bypass Surgery in Thane",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "garden-dental-clinic-mumbai",
+    "name": "Garden Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Garden Dental Clinic brings together specialists for Oral Surgery In Mumbai. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099207 49987",
+    "alternatePhone": "",
+    "website": "http://vivibytes.wordpress.com/",
+    "address": "Shop D9, Garden Dental Clinic (Family & Child Dental Clinic, Garden Colony, Soona Wala Agiary Ln, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400016",
+    "locality": "Mahim",
+    "landmark": "Garden Colony",
+    "emergencyContact": "099207 49987",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Garden+Dental+Clinic/@19.0405267,72.8431655,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9d0c99c8471:0x8867cad8149e5a25!8m2!3d19.0405267!4d72.8431655!16s%2Fg%2F11fsjzyw9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Garden+Dental+Clinic/@19.0405267,72.8431655,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9d0c99c8471:0x8867cad8149e5a25!8m2!3d19.0405267!4d72.8431655!16s%2Fg%2F11fsjzyw9q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0405267,
+      "lng": 72.8431655,
+      "label": "Garden Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gaudium-ivf-best-ivf-centre-in-mumbai-mumbai",
+    "name": "Gaudium IVF - Best IVF Centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Gaudium IVF - Best IVF Centre in Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085278 58585",
+    "alternatePhone": "",
+    "website": "https://www.gaudiumivfcentre.com/best-ivf-centre-mumbai",
+    "address": "4th Floor, Samaj Kendra Building, Anand Vihar Society, 20th Road, Chitrakar Dhurandhar Rd, Khar West, Mumbai, Maharashtra 400052",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400052",
+    "locality": "Khar West",
+    "landmark": "Anand Vihar Society",
+    "emergencyContact": "085278 58585",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gaudium+IVF+-+Best+IVF+Centre+in+Mumbai/@19.0741396,72.8280097,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9a4bdd568df:0xdda02b6e8dc3bc4e!8m2!3d19.0741396!4d72.8280097!16s%2Fg%2F11r_rvqz8l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gaudium+IVF+-+Best+IVF+Centre+in+Mumbai/@19.0741396,72.8280097,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9a4bdd568df:0xdda02b6e8dc3bc4e!8m2!3d19.0741396!4d72.8280097!16s%2Fg%2F11r_rvqz8l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0741396,
+      "lng": 72.8280097,
+      "label": "Gaudium IVF - Best IVF Centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "genomics-ivf-centre-best-ivf-centre-in-mumbai-mumbai",
+    "name": "Genomics IVF Centre | Best IVF centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Genomics IVF Centre | Best IVF centre in Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089288 41738",
+    "alternatePhone": "",
+    "website": "https://genomicsivfcentre.com/",
+    "address": "THIRUMALAI HOUSE, SAMRUDDHI SBI OFFICERS QUARTER, Thirumalai house, 1st floor above Dhanalaxmi Bank, plot no 101/102, Road no, 29, Sion East, Mumbai, Maharashtra 400022",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400022",
+    "locality": "Sion East",
+    "landmark": "Thirumalai house",
+    "emergencyContact": "089288 41738",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Genomics+IVF+Centre+%7C+Best+IVF+centre+in+Mumbai/@19.0437611,72.8676572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c90b84b2e7e7:0x1d7187efff9d0266!8m2!3d19.0437611!4d72.8676572!16s%2Fg%2F11fjs8syfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Genomics+IVF+Centre+%7C+Best+IVF+centre+in+Mumbai/@19.0437611,72.8676572,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c90b84b2e7e7:0x1d7187efff9d0266!8m2!3d19.0437611!4d72.8676572!16s%2Fg%2F11fjs8syfw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0437611,
+      "lng": 72.8676572,
+      "label": "Genomics IVF Centre | Best IVF centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "harleys-hair-transplant-clinic-mumbai",
+    "name": "Harleys Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Harleys Hair Transplant Clinic is a prominent hair transplantation clinic in Mumbai, known for structured tertiary care across Plastic Surgery In Mumbai. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093200 48601",
+    "alternatePhone": "",
+    "website": "https://www.harleyshairtransplant.in/",
+    "address": "Jyoti Tower, 101-102, opp. Versova Police station, off New Link Road, Wing B, New LIC Colony, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "opp. Versova Police station",
+    "emergencyContact": "093200 48601",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Harleys+Hair+Transplant+Clinic/@19.125478,72.8302557,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61874cbfe41:0xad63fcfaff69119a!8m2!3d19.125478!4d72.8302557!16s%2Fg%2F11bby72thn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Harleys+Hair+Transplant+Clinic/@19.125478,72.8302557,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61874cbfe41:0xad63fcfaff69119a!8m2!3d19.125478!4d72.8302557!16s%2Fg%2F11bby72thn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.125478,
+      "lng": 72.8302557,
+      "label": "Harleys Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-ics-khubchandani-cancer-hospital-cooperage-mumbai-mumbai",
+    "name": "HCG ICS Khubchandani Cancer Hospital - (Cooperage, Mumbai)",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, HCG ICS Khubchandani Cancer Hospital - (Cooperage, Mumbai) offers coordinated hospital care with major focus on Oncologist Surgery In Mumbai and Cancer Treatment Center. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074064 99999",
+    "alternatePhone": "",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-ics-khubchandani-cancer-centre-mumbai/",
+    "address": "QUEENS BARRACKS, LADYRATAN TATA BUILDING, 31, Maharshi Karve Rd, Cooperage, Nariman Point, Mumbai, Maharashtra 400021",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400021",
+    "locality": "Nariman Point",
+    "landmark": "31",
+    "emergencyContact": "074064 99999",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+ICS+Khubchandani+Cancer+Hospital+-+(Cooperage,+Mumbai)/@18.9231484,72.8276348,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1bc05235991:0x84354643a33c896e!8m2!3d18.9231484!4d72.8276348!16s%2Fg%2F11h02k_yp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+ICS+Khubchandani+Cancer+Hospital+-+(Cooperage,+Mumbai)/@18.9231484,72.8276348,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1bc05235991:0x84354643a33c896e!8m2!3d18.9231484!4d72.8276348!16s%2Fg%2F11h02k_yp5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9231484,
+      "lng": 72.8276348,
+      "label": "HCG ICS Khubchandani Cancer Hospital - (Cooperage, Mumbai)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heartclinic-mumbai",
+    "name": "HeartClinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose HeartClinic for its strength in Heart Surgery In Mumbai and Cardiac Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083690 71795",
+    "alternatePhone": "",
+    "website": "http://www.esmrheart.com/",
+    "address": "5 Accord classic 6 th floor near station, Goregaon East, Mumbai, Maharashtra 400063",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400063",
+    "locality": "Goregaon East",
+    "landmark": "near station, Goregaon East, Mumbai, Maharashtra 400063",
+    "emergencyContact": "083690 71795",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HeartClinic/@19.1659852,72.8515923,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b788e877736f:0x51d950abad1ae3a4!8m2!3d19.1659852!4d72.8515923!16s%2Fg%2F11gpfgclpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HeartClinic/@19.1659852,72.8515923,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b788e877736f:0x51d950abad1ae3a4!8m2!3d19.1659852!4d72.8515923!16s%2Fg%2F11gpfgclpj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1659852,
+      "lng": 72.8515923,
+      "label": "HeartClinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ic-dental-ic-colony-borivali-mumbai-mumbai",
+    "name": "IC Dental ic colony Borivali Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, IC Dental ic colony Borivali Mumbai brings together specialists for Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098206 00844",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Raj Sebastian Kinny society, Shop11, IC Colony Cross Rd Number 4, next to Silvercoin restuarant, I C Colony, Borivali West, Mumbai, Maharashtra 400103",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400103",
+    "locality": "Borivali West",
+    "landmark": "IC Colony Cross Rd Number 4",
+    "emergencyContact": "098206 00844",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/IC+Dental+ic+colony+Borivali+Mumbai/@19.2455311,72.8483104,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b12f221a4089:0xa170c5a64f48093!8m2!3d19.2455311!4d72.8483104!16s%2Fg%2F11wx8j02xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/IC+Dental+ic+colony+Borivali+Mumbai/@19.2455311,72.8483104,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b12f221a4089:0xa170c5a64f48093!8m2!3d19.2455311!4d72.8483104!16s%2Fg%2F11wx8j02xn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2455311,
+      "lng": 72.8483104,
+      "label": "IC Dental ic colony Borivali Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "impression-skin-hair-and-cosmetic-hub-hair-transplant-clinic-in-mumbai-mumbai",
+    "name": "Impression Skin-Hair & Cosmetic Hub | Hair Transplant Clinic in Mumbai",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Impression Skin-Hair & Cosmetic Hub | Hair Transplant Clinic in Mumbai brings together specialists for Cosmetic Surgery In Mumbai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098704 49318",
+    "alternatePhone": "",
+    "website": "https://impressionclinics.com/?utm_source=Google&utm_medium=GMB",
+    "address": "8th floor, lotus trade center, Unit 803, station, near Audi showroom, next to Metro Station D N Nagar, Sahakar Nagar, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near Audi showroom, next to Metro Station D N Nagar, Sahakar Nagar, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "098704 49318",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Impression+Skin-Hair+%26+Cosmetic+Hub+%7C+Hair+Transplant+Clinic+in+Mumbai/@19.1297595,72.8316909,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63c9a8d703f:0xdfddee609d71a86e!8m2!3d19.1297595!4d72.8316909!16s%2Fg%2F11kc6d4lv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Impression+Skin-Hair+%26+Cosmetic+Hub+%7C+Hair+Transplant+Clinic+in+Mumbai/@19.1297595,72.8316909,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63c9a8d703f:0xdfddee609d71a86e!8m2!3d19.1297595!4d72.8316909!16s%2Fg%2F11kc6d4lv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1297595,
+      "lng": 72.8316909,
+      "label": "Impression Skin-Hair & Cosmetic Hub | Hair Transplant Clinic in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-andheri-west-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Andheri West - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Indira IVF Fertility Centre in Andheri West - Best IVF Centre for its strength in IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/maharashtra/best-ivf-center-in-andheri-west",
+    "address": "Unit no 3, first floor Lotus Link Square, Above Bank of Baroda New Link Rd, near D.N. Nagar Metro, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near D.N. Nagar Metro, D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Andheri+West+-+Best+IVF+Centre/@19.1276121,72.8312353,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7c0bcc91e4d:0xb37fb9ce2d9e831f!8m2!3d19.1276121!4d72.8312353!16s%2Fg%2F11wj2b934_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Andheri+West+-+Best+IVF+Centre/@19.1276121,72.8312353,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7c0bcc91e4d:0xb37fb9ce2d9e831f!8m2!3d19.1276121!4d72.8312353!16s%2Fg%2F11wj2b934_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1276121,
+      "lng": 72.8312353,
+      "label": "Indira IVF Fertility Centre in Andheri West - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-bhandup-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Bhandup - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Indira IVF Fertility Centre in Bhandup - Best IVF Centre delivers integrated care across IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/maharashtra/best-ivf-center-bhandup/?utm_source=gmb&utm_medium=listings&utm_campaign=indiraivfgmb&utm_id=seo-local",
+    "address": "Partial Ground, Filix Tower, Lal Bahadur Shastri Marg, opp. Asian Paints Company, Sonapur, Bhandup West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Bhandup West",
+    "landmark": "Lal Bahadur Shastri Marg",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bhandup+-+Best+IVF+Centre/@19.1598969,72.9370048,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b95d3114abc5:0x52f35f7482f40dfd!8m2!3d19.1598969!4d72.9370048!16s%2Fg%2F11h0033zn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Bhandup+-+Best+IVF+Centre/@19.1598969,72.9370048,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b95d3114abc5:0x52f35f7482f40dfd!8m2!3d19.1598969!4d72.9370048!16s%2Fg%2F11h0033zn9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1598969,
+      "lng": 72.9370048,
+      "label": "Indira IVF Fertility Centre in Bhandup - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-borivali-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Borivali - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Indira IVF Fertility Centre in Borivali - Best IVF Centre brings together specialists for IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076650 02474",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/maharashtra/best-ivf-center-borivali/?utm_source=gmb&utm_medium=listings&utm_campaign=indiraivfgmb&utm_id=seo-local",
+    "address": "Shop no. 2,3, Ambrosia Building, E, Western Express Hwy, opposite Devipada Metro Station, Devipada, Borivali, Mumbai, Maharashtra 400066",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400066",
+    "locality": "Borivali",
+    "landmark": "opposite Devipada Metro Station, Devipada, Borivali, Mumbai, Maharashtra 400066",
+    "emergencyContact": "076650 02474",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Borivali+-+Best+IVF+Centre/@19.2240878,72.8649038,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0cd74f5d9f3:0x6c2e05ff390ccf34!8m2!3d19.2240878!4d72.8649038!16s%2Fg%2F11dym54sfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Borivali+-+Best+IVF+Centre/@19.2240878,72.8649038,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0cd74f5d9f3:0x6c2e05ff390ccf34!8m2!3d19.2240878!4d72.8649038!16s%2Fg%2F11dym54sfl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2240878,
+      "lng": 72.8649038,
+      "label": "Indira IVF Fertility Centre in Borivali - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-dadar-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Dadar - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Indira IVF Fertility Centre in Dadar - Best IVF Centre for its strength in IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/42Mb4oO",
+    "address": "1, 6th, 7th & 10th floor, office no. 601, Diamond Plaza, new street, Chabildas Rd, near Tilak Bridge, W, Dadar, Mumbai, Maharashtra 400028",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400028",
+    "locality": "Dadar",
+    "landmark": "near Tilak Bridge, W, Dadar, Mumbai, Maharashtra 400028",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Dadar+-+Best+IVF+Centre/@19.0207312,72.8429549,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfb704e08fe3:0xa9d52f9aa1ec4e8b!8m2!3d19.0207312!4d72.8429549!16s%2Fg%2F11fnxs5sqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Dadar+-+Best+IVF+Centre/@19.0207312,72.8429549,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfb704e08fe3:0xa9d52f9aa1ec4e8b!8m2!3d19.0207312!4d72.8429549!16s%2Fg%2F11fnxs5sqm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0207312,
+      "lng": 72.8429549,
+      "label": "Indira IVF Fertility Centre in Dadar - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-fort-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Fort - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Indira IVF Fertility Centre in Fort - Best IVF Centre has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://shorturl.at/XHOSZ",
+    "address": "3rd Floor, Dhiraj Chambers, 9, Hazarimal Somani Rd, Azad Maidan, Fort, Mumbai, Maharashtra 400001",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "locality": "Fort",
+    "landmark": "9",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Fort+-+Best+IVF+Centre/@18.9387475,72.8334375,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d10c16283483:0x4a88d19867f0c461!8m2!3d18.9387475!4d72.8334375!16s%2Fg%2F11mdwzdrb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Fort+-+Best+IVF+Centre/@18.9387475,72.8334375,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d10c16283483:0x4a88d19867f0c461!8m2!3d18.9387475!4d72.8334375!16s%2Fg%2F11mdwzdrb9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9387475,
+      "lng": 72.8334375,
+      "label": "Indira IVF Fertility Centre in Fort - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-ghatkopar-best-ivf-centre-mumbai",
+    "name": "Indira IVF Fertility Centre in Ghatkopar - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Indira IVF Fertility Centre in Ghatkopar - Best IVF Centre delivers integrated care across IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3Mjaism",
+    "address": "Patel Chowk, Indira IVF Clinic- 1st Floor, Neelyog square mall, B-Wing, RB Mehta Marg, opp. Ghatkopar Railway Station, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400077",
+    "locality": "Ghatkopar East",
+    "landmark": "Neelyog square mall",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ghatkopar+-+Best+IVF+Centre/@19.0851235,72.9089026,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d1ea997d73:0x6fb4a00c73769a8b!8m2!3d19.0851235!4d72.9089026!16s%2Fg%2F11h4679yvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Ghatkopar+-+Best+IVF+Centre/@19.0851235,72.9089026,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d1ea997d73:0x6fb4a00c73769a8b!8m2!3d19.0851235!4d72.9089026!16s%2Fg%2F11h4679yvg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0851235,
+      "lng": 72.9089026,
+      "label": "Indira IVF Fertility Centre in Ghatkopar - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-kalyan-mumbai-best-ivf-centre-kalyan",
+    "name": "Indira IVF Fertility Centre in Kalyan Mumbai - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kalyan, Indira IVF Fertility Centre in Kalyan Mumbai - Best IVF Centre brings together specialists for IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3ImztZX",
+    "address": "Indira IVF Clinic, 1st Floor, Om Supreme Complex, above D Mart, opp. Kalyan Station Road, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "opp. Kalyan Station Road",
+    "landmark": "Om Supreme Complex",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kalyan+Mumbai+-+Best+IVF+Centre/@19.2374292,73.1260635,17z/data=!3m1!4b1!4m6!3m5!1s0x3be795df0786ab7d:0xaf2611232ccfcd98!8m2!3d19.2374292!4d73.1260635!16s%2Fg%2F11q9b6p5nt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Kalyan+Mumbai+-+Best+IVF+Centre/@19.2374292,73.1260635,17z/data=!3m1!4b1!4m6!3m5!1s0x3be795df0786ab7d:0xaf2611232ccfcd98!8m2!3d19.2374292!4d73.1260635!16s%2Fg%2F11q9b6p5nt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2374292,
+      "lng": 73.1260635,
+      "label": "Indira IVF Fertility Centre in Kalyan Mumbai - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-vashi-main-best-ivf-centre-navi-mumbai",
+    "name": "Indira IVF Fertility Centre in Vashi Main - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Navi Mumbai, Indira IVF Fertility Centre in Vashi Main - Best IVF Centre brings together specialists for IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://bit.ly/3MDS9GS",
+    "address": "Ground Floor, Sea Queen Heritage, Palm Beach Service Road, Sector 18, Sanpada, Vashi, Navi Mumbai, Maharashtra 400705",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400705",
+    "locality": "Vashi",
+    "landmark": "Palm Beach Service Road",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Vashi+Main+-+Best+IVF+Centre/@19.0542864,73.0059512,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c1448854d211:0x95a17769044f9b8a!8m2!3d19.0542864!4d73.0059512!16s%2Fg%2F11dym3_vq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Vashi+Main+-+Best+IVF+Centre/@19.0542864,73.0059512,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c1448854d211:0x95a17769044f9b8a!8m2!3d19.0542864!4d73.0059512!16s%2Fg%2F11dym3_vq8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0542864,
+      "lng": 73.0059512,
+      "label": "Indira IVF Fertility Centre in Vashi Main - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "infinity-ivf-and-fertility-center-best-ivf-centre-in-thane-mumbai-thane",
+    "name": "Infinity IVF and Fertility center- Best IVF Centre in Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Thane, Infinity IVF and Fertility center- Best IVF Centre in Thane, Mumbai delivers integrated care across IVF In Mumbai and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081081 00621",
+    "alternatePhone": "",
+    "website": "https://infinityivf.com/",
+    "address": "2nd Floor, Pride Park, Ghodbunder Rd, Dokali Pada, Manpada, Thane West, Thane, Maharashtra 400607",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400607",
+    "locality": "Thane West",
+    "landmark": "Ghodbunder Rd",
+    "emergencyContact": "081081 00621",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Infinity+IVF+and+Fertility+center-+Best+IVF+Centre+in+Thane,+Mumbai/@19.229038,72.97722,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b959c5fd239d:0xc38945d43aa78568!8m2!3d19.229038!4d72.97722!16s%2Fg%2F11vwxvdg_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Infinity+IVF+and+Fertility+center-+Best+IVF+Centre+in+Thane,+Mumbai/@19.229038,72.97722,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b959c5fd239d:0xc38945d43aa78568!8m2!3d19.229038!4d72.97722!16s%2Fg%2F11vwxvdg_t?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.229038,
+      "lng": 72.97722,
+      "label": "Infinity IVF and Fertility center- Best IVF Centre in Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "iswarya-ivf-and-fertility-centre-chembur-mumbai",
+    "name": "Iswarya IVF & Fertility Centre Chembur",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Iswarya IVF & Fertility Centre Chembur delivers integrated care across IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099627 00000",
+    "alternatePhone": "",
+    "website": "https://www.iswaryafertility.com/ivf-centers/maharashtra/mumbai/chembur?utm_source=Google_Local_Listing&utm_medium=Local_SEO&utm_campaign=Chembur",
+    "address": "2nd floor, Skyrise Apartments, Central Ave Rd, Ambedkar Garden, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "Central Ave Rd",
+    "emergencyContact": "099627 00000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Chembur/@19.0562351,72.9007692,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d2826f2b91:0xc70b6a7d5285785a!8m2!3d19.0562351!4d72.9007692!16s%2Fg%2F11qsn67zqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Iswarya+IVF+%26+Fertility+Centre+Chembur/@19.0562351,72.9007692,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d2826f2b91:0xc70b6a7d5285785a!8m2!3d19.0562351!4d72.9007692!16s%2Fg%2F11qsn67zqk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0562351,
+      "lng": 72.9007692,
+      "label": "Iswarya IVF & Fertility Centre Chembur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ivory-dental-clinic-seawoods-navi-mumbai",
+    "name": "Ivory Dental Clinic ™ Seawoods",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ivory Dental Clinic ™ Seawoods has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090290 68111",
+    "alternatePhone": "",
+    "website": "https://ivorydc.in/",
+    "address": "Office No. 6, Majesty, Plot A, near Olde Bailey's cafe, next to anzen suzuki showroom, Om Ganesh Society, Sector-46/A, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Seawoods",
+    "landmark": "near Olde Bailey's cafe, next to anzen suzuki showroom, Om Ganesh Society, Sector-46/A, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "emergencyContact": "090290 68111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ivory+Dental+Clinic+%E2%84%A2+Seawoods/@19.0102252,73.0123365,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c399283639f9:0x8c84353d62bad94d!8m2!3d19.0102252!4d73.0123365!16s%2Fg%2F11c5h3bqq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ivory+Dental+Clinic+%E2%84%A2+Seawoods/@19.0102252,73.0123365,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c399283639f9:0x8c84353d62bad94d!8m2!3d19.0102252!4d73.0123365!16s%2Fg%2F11c5h3bqq2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0102252,
+      "lng": 73.0123365,
+      "label": "Ivory Dental Clinic ™ Seawoods",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaslok-hospital-and-research-centre-mumbai",
+    "name": "Jaslok Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Jaslok Hospital & Research Centre is a prominent hospital in Mumbai, known for structured tertiary care across Liver Transplant Surgery In Mumbai. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099301 92000",
+    "alternatePhone": "",
+    "website": "https://www.jaslokhospital.net/",
+    "address": "15, Dr Gopalrao Deshmukh Marg, Peddar Rd, Cumballa Hill, Mumbai, Maharashtra 400026",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "locality": "Cumballa Hill",
+    "landmark": "Peddar Rd",
+    "emergencyContact": "099301 92000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jaslok+Hospital+%26+Research+Centre/@18.9716603,72.8098319,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce76d1f47593:0x73af47ca4e2965c7!8m2!3d18.9716603!4d72.8098319!16s%2Fm%2F02pxxbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaslok+Hospital+%26+Research+Centre/@18.9716603,72.8098319,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce76d1f47593:0x73af47ca4e2965c7!8m2!3d18.9716603!4d72.8098319!16s%2Fm%2F02pxxbs?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9716603,
+      "lng": 72.8098319,
+      "label": "Jaslok Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jilla-ivf-center-mumbai",
+    "name": "Jilla IVF Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Jilla IVF Center brings together specialists for IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080809 43943",
+    "alternatePhone": "",
+    "website": "https://www.jillaivfcenter.com/",
+    "address": "Metro Station Exit, Jilla IVF Center, 202 Crystal Point, 3, New Link Rd, above Star Bazaar, near DN Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near DN Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "080809 43943",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jilla+IVF+Center/@19.1307754,72.8311742,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63c7f64f76b:0x752a7ad10036fbc2!8m2!3d19.1307754!4d72.8311742!16s%2Fg%2F11stqsb5b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jilla+IVF+Center/@19.1307754,72.8311742,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63c7f64f76b:0x752a7ad10036fbc2!8m2!3d19.1307754!4d72.8311742!16s%2Fg%2F11stqsb5b5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1307754,
+      "lng": 72.8311742,
+      "label": "Jilla IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kadali-dental-clinic-andheri-west-mumbai-best-dental-implants-and-cosmetic-dentist-in-oshiwara-andheri-west-mumbai",
+    "name": "Kadali Dental Clinic Andheri West Mumbai | Best Dental Implants & Cosmetic Dentist In Oshiwara Andheri West",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mumbai, Kadali Dental Clinic Andheri West Mumbai | Best Dental Implants & Cosmetic Dentist In Oshiwara Andheri West delivers integrated care across Oral Surgery In Mumbai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098192 01882",
+    "alternatePhone": "",
+    "website": "https://kadalidental.com/",
+    "address": "1st Floor, Oshiwara Mhada Complex, Sargam Society, 40/102, Off New Link Rd, Mhada Colony, Andheri West, Mumbai, Maharashtra 400102",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400102",
+    "locality": "Andheri West",
+    "landmark": "Sargam Society",
+    "emergencyContact": "098192 01882",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kadali+Dental+Clinic+Andheri+West+Mumbai+%7C+Best+Dental+Implants+%26+Cosmetic+Dentist+In+Oshiwara+Andheri+West/@19.1490014,72.8316778,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63f6517f267:0xdbd073bf3473b486!8m2!3d19.1490014!4d72.8316778!16s%2Fg%2F1tk61l1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kadali+Dental+Clinic+Andheri+West+Mumbai+%7C+Best+Dental+Implants+%26+Cosmetic+Dentist+In+Oshiwara+Andheri+West/@19.1490014,72.8316778,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b63f6517f267:0xdbd073bf3473b486!8m2!3d19.1490014!4d72.8316778!16s%2Fg%2F1tk61l1l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1490014,
+      "lng": 72.8316778,
+      "label": "Kadali Dental Clinic Andheri West Mumbai | Best Dental Implants & Cosmetic Dentist In Oshiwara Andheri West",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamala-polyclinic-and-nursing-home-mumbai",
+    "name": "Kamala Polyclinic & Nursing Home",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kamala Polyclinic & Nursing Home is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0226 690 8000",
+    "alternatePhone": "",
+    "website": "http://www.drjatinshah.com/",
+    "address": "66 C, 1st Floor, Motiwala Building, A.K Marg, West, opposite August Kranti Maidan, Gowalia Tank, Grant Road, Mumbai, Maharashtra 400026",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "locality": "Grant Road",
+    "landmark": "opposite August Kranti Maidan, Gowalia Tank, Grant Road, Mumbai, Maharashtra 400026",
+    "emergencyContact": "0226 690 8000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kamala+Polyclinic+%26+Nursing+Home/@18.9632828,72.8109169,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0cae2f67b7:0x20a333b8f8f85e29!8m2!3d18.9632828!4d72.8109169!16s%2Fg%2F1tpb9fys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kamala+Polyclinic+%26+Nursing+Home/@18.9632828,72.8109169,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0cae2f67b7:0x20a333b8f8f85e29!8m2!3d18.9632828!4d72.8109169!16s%2Fg%2F1tpb9fys?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9632828,
+      "lng": 72.8109169,
+      "label": "Kamala Polyclinic & Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kikabhai-hospital-mehta-hospital-s-r-mehta-and-sir-k-p-cardiac-institute-mumbai",
+    "name": "Kikabhai hospital (mehta hospital) S.R. Mehta & Sir K. P. Cardiac Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kikabhai hospital (mehta hospital) S.R. Mehta & Sir K. P. Cardiac Institute has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Heart Surgery In Mumbai and Cardiac Care. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "King's Circle, Plot No. 96, Rd Number 31, near Gandhi Market, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400022",
+    "locality": "Sion",
+    "landmark": "near Gandhi Market, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Kikabhai+hospital+(mehta+hospital)+S.R.+Mehta+%26+Sir+K.+P.+Cardiac+Institute/@19.0323496,72.859642,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf00401c3091:0x28e59468a70d0e42!8m2!3d19.0323496!4d72.859642!16s%2Fg%2F11y6lm8dzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kikabhai+hospital+(mehta+hospital)+S.R.+Mehta+%26+Sir+K.+P.+Cardiac+Institute/@19.0323496,72.859642,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf00401c3091:0x28e59468a70d0e42!8m2!3d19.0323496!4d72.859642!16s%2Fg%2F11y6lm8dzm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0323496,
+      "lng": 72.859642,
+      "label": "Kikabhai hospital (mehta hospital) S.R. Mehta & Sir K. P. Cardiac Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kokilaben-dhirubhai-ambani-hospital-and-medical-research-institute-mumbai",
+    "name": "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute is a prominent hospital in Mumbai, known for structured tertiary care across Liver Transplant Surgery In Mumbai. The facility stands out for Google rating 3.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.kokilabenhospital.com/",
+    "address": "Rao Saheb Achutrao Patwardhan Marg, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Andheri West",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kokilaben+Dhirubhai+Ambani+Hospital+and+Medical+Research+Institute/@19.1309308,72.8249882,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61ed7e04c69:0x3860c51257a72c24!8m2!3d19.1309308!4d72.8249882!16s%2Fg%2F11clhtgm93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kokilaben+Dhirubhai+Ambani+Hospital+and+Medical+Research+Institute/@19.1309308,72.8249882,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b61ed7e04c69:0x3860c51257a72c24!8m2!3d19.1309308!4d72.8249882!16s%2Fg%2F11clhtgm93?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1309308,
+      "lng": 72.8249882,
+      "label": "Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "la-transformation-cosmetic-surgery-prp-liposuction-breast-implant-lymphedema-hair-transplant-clinic-in-mumbai-mumbai",
+    "name": "La Transformationé : Cosmetic Surgery | PRP | Liposuction | Breast Implant | Lymphedema | Hair Transplant Clinic in Mumbai",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, La Transformationé : Cosmetic Surgery | PRP | Liposuction | Breast Implant | Lymphedema | Hair Transplant Clinic in Mumbai brings together specialists for Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077381 06125",
+    "alternatePhone": "",
+    "website": "http://latransformatione.com/",
+    "address": "Flat No. 06, Gautam Ashish CHSL, 290-A, Vaikunthlal Mehta Rd, Vile Parle West, Mumbai, Maharashtra 400056",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400056",
+    "locality": "Vile Parle West",
+    "landmark": "290-A",
+    "emergencyContact": "077381 06125",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/La+Transformation%C3%A9+:+Cosmetic+Surgery+%7C+PRP+%7C+Liposuction+%7C+Breast+Implant+%7C+Lymphedema+%7C+Hair+Transplant+Clinic+in+Mumbai/@19.1018467,72.8390434,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c915c0c4e895:0xf36331e14926f488!8m2!3d19.1018467!4d72.8390434!16s%2Fg%2F1tfg1k5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/La+Transformation%C3%A9+:+Cosmetic+Surgery+%7C+PRP+%7C+Liposuction+%7C+Breast+Implant+%7C+Lymphedema+%7C+Hair+Transplant+Clinic+in+Mumbai/@19.1018467,72.8390434,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c915c0c4e895:0xf36331e14926f488!8m2!3d19.1018467!4d72.8390434!16s%2Fg%2F1tfg1k5d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1018467,
+      "lng": 72.8390434,
+      "label": "La Transformationé : Cosmetic Surgery | PRP | Liposuction | Breast Implant | Lymphedema | Hair Transplant Clinic in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "little-miracles-fertility-clinic-ivf-clinic-mumbai-mumbai",
+    "name": "Little Miracles Fertility Clinic IVF clinic mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Little Miracles Fertility Clinic IVF clinic mumbai is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098207 38638",
+    "alternatePhone": "",
+    "website": "https://www.littlemiraclesivf.com/",
+    "address": "Platinum Arcade, Jagannath Shankar Seth Rd, Charni Road East, Bhatwadi, Girgaon, Mumbai, Maharashtra 400004",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "locality": "Girgaon",
+    "landmark": "Charni Road East",
+    "emergencyContact": "098207 38638",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Little+Miracles+Fertility+Clinic+IVF+clinic+mumbai/@18.9557272,72.8180011,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf40e74cce0d:0x6cf211f69d4c837b!8m2!3d18.9557272!4d72.8180011!16s%2Fg%2F11gt__cs88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Little+Miracles+Fertility+Clinic+IVF+clinic+mumbai/@18.9557272,72.8180011,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf40e74cce0d:0x6cf211f69d4c837b!8m2!3d18.9557272!4d72.8180011!16s%2Fg%2F11gt__cs88?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9557272,
+      "lng": 72.8180011,
+      "label": "Little Miracles Fertility Clinic IVF clinic mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "liver-transplant-and-hpb-clinic-mumbai",
+    "name": "Liver Transplant and HPB Clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Liver Transplant and HPB Clinic for its strength in Liver Transplant Surgery In Mumbai, Surgical Center, and Liver Care. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0223 069 6969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Second Floor Kokilaben, Dhirubhai Ambani Hospital, Gharkul Society, Indira Nagar, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Gharkul Society",
+    "emergencyContact": "0223 069 6969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai",
+      "Surgical Center",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Liver+Transplant+and+HPB+Clinic/@19.1247347,72.8264379,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9e015555555:0x2ecf7b9d200e13f7!8m2!3d19.1247347!4d72.8264379!16s%2Fg%2F11c5xp1xb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Liver+Transplant+and+HPB+Clinic/@19.1247347,72.8264379,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9e015555555:0x2ecf7b9d200e13f7!8m2!3d19.1247347!4d72.8264379!16s%2Fg%2F11c5xp1xb4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1247347,
+      "lng": 72.8264379,
+      "label": "Liver Transplant and HPB Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lokare-s-dental-clinic-borivali-mumbai-mumbai",
+    "name": "Lokare's Dental Clinic - Borivali, Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mumbai, Lokare's Dental Clinic - Borivali, Mumbai delivers integrated care across Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096536 36748",
+    "alternatePhone": "",
+    "website": "https://www.lokares.com/",
+    "address": "Shop no-5, Shanti Ashram, Shanti Dham, CHS Ltd, Devki Nagar, Borivali West, Mumbai, Maharashtra 400103",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400103",
+    "locality": "Borivali West",
+    "landmark": "Shanti Dham",
+    "emergencyContact": "096536 36748",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Lokare's+Dental+Clinic+-+Borivali,+Mumbai/@19.2414566,72.8463553,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1281f1a93cd:0x64e1be1d9067ce2c!8m2!3d19.2414566!4d72.8463553!16s%2Fg%2F11rr7hw165?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lokare's+Dental+Clinic+-+Borivali,+Mumbai/@19.2414566,72.8463553,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1281f1a93cd:0x64e1be1d9067ce2c!8m2!3d19.2414566!4d72.8463553!16s%2Fg%2F11rr7hw165?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2414566,
+      "lng": 72.8463553,
+      "label": "Lokare's Dental Clinic - Borivali, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "london-dental-clinic-mumbai",
+    "name": "London Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "London Dental Clinic is a prominent dentist in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai and Dentist. Its infrastructure includes Google rating 4.1 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098198 53854",
+    "alternatePhone": "",
+    "website": "http://londondental.in/",
+    "address": "C.H.S, F/1-2, Gokul Heaven, Asha Nagar Rd, Thakur Complex, Kandivali East, Mumbai, Maharashtra 400101",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400101",
+    "locality": "Kandivali East",
+    "landmark": "Gokul Heaven",
+    "emergencyContact": "098198 53854",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/London+Dental+Clinic/@19.2098035,72.8672382,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b73a70261241:0x9c2b1db7752493b6!8m2!3d19.2098035!4d72.8672382!16s%2Fg%2F11gglydddw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/London+Dental+Clinic/@19.2098035,72.8672382,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b73a70261241:0x9c2b1db7752493b6!8m2!3d19.2098035!4d72.8672382!16s%2Fg%2F11gglydddw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2098035,
+      "lng": 72.8672382,
+      "label": "London Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "m-o-c-cancer-care-and-research-centre-moc-ghatkopar-mumbai",
+    "name": "M | O | C Cancer Care & Research Centre (MOC Ghatkopar)",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, M | O | C Cancer Care & Research Centre (MOC Ghatkopar) offers coordinated hospital care with major focus on Cancer Surgery In Mumbai and Cancer Treatment Center. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099878 99700",
+    "alternatePhone": "",
+    "website": "https://www.mocindia.co.in/our-centers/ghatkopar",
+    "address": "Silver Point, 8th, Lal Bahadur Shastri Marg, opp. Sukhshanti Hospital, near Telephone Exchange Road, Kasturi Park, Maneklal Estate, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400086",
+    "locality": "Ghatkopar West",
+    "landmark": "near Telephone Exchange Road, Kasturi Park, Maneklal Estate, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "emergencyContact": "099878 99700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/M+%7C+O+%7C+C+Cancer+Care+%26+Research+Centre+(MOC+Ghatkopar)/@19.0878668,72.9027294,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c71c3b7ae30f:0xbe98bf84ba5c13d6!8m2!3d19.0878668!4d72.9027294!16s%2Fg%2F11h4c9zzyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/M+%7C+O+%7C+C+Cancer+Care+%26+Research+Centre+(MOC+Ghatkopar)/@19.0878668,72.9027294,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c71c3b7ae30f:0xbe98bf84ba5c13d6!8m2!3d19.0878668!4d72.9027294!16s%2Fg%2F11h4c9zzyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0878668,
+      "lng": 72.9027294,
+      "label": "M | O | C Cancer Care & Research Centre (MOC Ghatkopar)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mallika-hospital-mumbai",
+    "name": "Mallika Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Mallika Hospital offers coordinated hospital care with major focus on General Surgery In Mumbai. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090820 97421",
+    "alternatePhone": "",
+    "website": "http://www.mallikahospital.co.in/",
+    "address": "No 52, Swami Vivekanand Rd, next to Dewan Shopping Centre, Momin Nagar, Jogeshwari West, Mumbai, Maharashtra 400102",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400102",
+    "locality": "Jogeshwari West",
+    "landmark": "next to Dewan Shopping Centre",
+    "emergencyContact": "090820 97421",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mallika+Hospital/@19.137442,72.8467119,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b630ffffffff:0x4b4cd4ae6926881f!8m2!3d19.137442!4d72.8467119!16s%2Fg%2F1w96f6bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mallika+Hospital/@19.137442,72.8467119,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b630ffffffff:0x4b4cd4ae6926881f!8m2!3d19.137442!4d72.8467119!16s%2Fg%2F1w96f6bp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.137442,
+      "lng": 72.8467119,
+      "label": "Mallika Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "malpani-infertility-clinic-stress-free-ivf-clinic-in-mumbai-mumbai",
+    "name": "Malpani Infertility Clinic | Stress Free IVF clinic in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Malpani Infertility Clinic | Stress Free IVF clinic in Mumbai delivers integrated care across IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098674 41589",
+    "alternatePhone": "",
+    "website": "https://www.drmalpani.com/",
+    "address": "5th Floor, Jamuna Sagar, 505, Shahid Bhagat Singh Rd, opp. Sahakari Bhandar, Azad Nagar, Colaba, Mumbai, Maharashtra 400005",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400005",
+    "locality": "Colaba",
+    "landmark": "505",
+    "emergencyContact": "098674 41589",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Malpani+Infertility+Clinic+%7C+Stress+Free+IVF+clinic+in+Mumbai/@18.9120738,72.8224218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1e06e110dbb:0x1313a94e53648a58!8m2!3d18.9120738!4d72.8224218!16s%2Fg%2F1w2ysbmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Malpani+Infertility+Clinic+%7C+Stress+Free+IVF+clinic+in+Mumbai/@18.9120738,72.8224218,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d1e06e110dbb:0x1313a94e53648a58!8m2!3d18.9120738!4d72.8224218!16s%2Fg%2F1w2ysbmr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9120738,
+      "lng": 72.8224218,
+      "label": "Malpani Infertility Clinic | Stress Free IVF clinic in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medi-heart-cardiac-care-mumbai",
+    "name": "Medi Heart Cardiac Care",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Medi Heart Cardiac Care brings together specialists for Heart Surgery In Mumbai and Cardiac Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098921 12628",
+    "alternatePhone": "",
+    "website": "https://mediheartcardiaccare.com/",
+    "address": "Wockhardt Hospitals, Agripada, Mumbai, Maharashtra 400011",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400011",
+    "locality": "Agripada",
+    "landmark": "Mumbai",
+    "emergencyContact": "098921 12628",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medi+Heart+Cardiac+Care/@18.9748922,72.8243648,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c76bcc91cfab:0xaa97a549624057a2!8m2!3d18.9748922!4d72.8243648!16s%2Fg%2F11xfqk5htl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medi+Heart+Cardiac+Care/@18.9748922,72.8243648,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c76bcc91cfab:0xaa97a549624057a2!8m2!3d18.9748922!4d72.8243648!16s%2Fg%2F11xfqk5htl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9748922,
+      "lng": 72.8243648,
+      "label": "Medi Heart Cardiac Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meditore-healthcare-ivf-centre-in-mumbai-thane",
+    "name": "Meditore Healthcare | IVF Centre in Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meditore Healthcare | IVF Centre in Mumbai has built a strong reputation in Thane for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077770 76954",
+    "alternatePhone": "",
+    "website": "https://meditore.com/",
+    "address": "Last, Harasiddh Park, Bus Stop, Pawar Nagar Rd, S.R. Pawar Nagar, Vasant Vihar, Thane West, Thane, Maharashtra 400610",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400610",
+    "locality": "Thane West",
+    "landmark": "Bus Stop",
+    "emergencyContact": "077770 76954",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Meditore+Healthcare+%7C+IVF+Centre+in+Mumbai/@19.2280255,72.9666164,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9476e097701:0x7caa917e88d176f1!8m2!3d19.2280255!4d72.9666164!16s%2Fg%2F11pcmdk6fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meditore+Healthcare+%7C+IVF+Centre+in+Mumbai/@19.2280255,72.9666164,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9476e097701:0x7caa917e88d176f1!8m2!3d19.2280255!4d72.9666164!16s%2Fg%2F11pcmdk6fw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2280255,
+      "lng": 72.9666164,
+      "label": "Meditore Healthcare | IVF Centre in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mira-ivf-thane",
+    "name": "Mira IVF",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Thane often choose Mira IVF for its strength in IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093210 37760",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near D Mart, Off 150 Feet Road,, Bhayandar west, Bhayandar, Thane, Maharashtra 401101",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "401101",
+    "locality": "Bhayandar",
+    "landmark": "Bhayandar west",
+    "emergencyContact": "093210 37760",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Mira+IVF/@19.2926362,72.8503396,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1cb26ad819f:0x7192543e38a6217c!8m2!3d19.2926362!4d72.8503396!16s%2Fg%2F1261b9jc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mira+IVF/@19.2926362,72.8503396,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1cb26ad819f:0x7192543e38a6217c!8m2!3d19.2926362!4d72.8503396!16s%2Fg%2F1261b9jc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2926362,
+      "lng": 72.8503396,
+      "label": "Mira IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morpheus-andheri-international-mumbai",
+    "name": "Morpheus Andheri International",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Morpheus Andheri International is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074000 86833",
+    "alternatePhone": "",
+    "website": "",
+    "address": "The Summit Business Bay (Omkar), G2 G3, Andheri - Kurla Rd, adjacent to Cinemax, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400093",
+    "locality": "Andheri East",
+    "landmark": "Andheri - Kurla Rd",
+    "emergencyContact": "074000 86833",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Morpheus+Andheri+International/@19.116732,72.8573298,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c98792632f1f:0x204b14f304b952a5!8m2!3d19.116732!4d72.8573298!16s%2Fg%2F11qmmjkjp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Morpheus+Andheri+International/@19.116732,72.8573298,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c98792632f1f:0x204b14f304b952a5!8m2!3d19.116732!4d72.8573298!16s%2Fg%2F11qmmjkjp2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.116732,
+      "lng": 72.8573298,
+      "label": "Morpheus Andheri International",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mothercare-maternity-and-surgical-nursing-home-best-fertility-and-ivf-clinic-in-andheri-test-tube-bab-surrogacy-specialist-mumbai",
+    "name": "Mothercare Maternity and Surgical Nursing Home - Best Fertility & IVF Clinic in Andheri | Test Tube Bab, Surrogacy Specialist",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Mothercare Maternity and Surgical Nursing Home - Best Fertility & IVF Clinic in Andheri | Test Tube Bab, Surrogacy Specialist offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089281 58380",
+    "alternatePhone": "",
+    "website": "https://mothercarefertility.com/",
+    "address": "Gokul Apartment , Kevni Pada Road, Swami Vivekanand Rd, Andheri West, Mumbai, Maharashtra 400102",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400102",
+    "locality": "Andheri West",
+    "landmark": "Swami Vivekanand Rd",
+    "emergencyContact": "089281 58380",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mothercare+Maternity+and+Surgical+Nursing+Home+-+Best+Fertility+%26+IVF+Clinic+in+Andheri+%7C+Test+Tube+Bab,+Surrogacy+Specialist/@19.1307224,72.8468845,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b62a34200cf5:0xdbcdbc07c35c381a!8m2!3d19.1307224!4d72.8468845!16s%2Fg%2F1tjl4c6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mothercare+Maternity+and+Surgical+Nursing+Home+-+Best+Fertility+%26+IVF+Clinic+in+Andheri+%7C+Test+Tube+Bab,+Surrogacy+Specialist/@19.1307224,72.8468845,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b62a34200cf5:0xdbcdbc07c35c381a!8m2!3d19.1307224!4d72.8468845!16s%2Fg%2F1tjl4c6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1307224,
+      "lng": 72.8468845,
+      "label": "Mothercare Maternity and Surgical Nursing Home - Best Fertility & IVF Clinic in Andheri | Test Tube Bab, Surrogacy Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "motherhood-fertility-and-ivf-center-best-ivf-centre-in-kharghar-iui-icsi-infertility-treatment-panvel",
+    "name": "Motherhood Fertility & IVF Center - Best IVF Centre in Kharghar | IUI, ICSI, Infertility Treatment",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Motherhood Fertility & IVF Center - Best IVF Centre in Kharghar | IUI, ICSI, Infertility Treatment has built a strong reputation in Panvel for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080695 49272",
+    "alternatePhone": "",
+    "website": "https://www.motherhoodivf.com/best-fertility-ivf-centre-in-kharghar-navi-mumbai/?utm_source=mhi&utm_medium=gmb&utm_campaign=mumbai",
+    "address": "1st Floor, Motherhood Hospital - Best Maternity, Child Care & Pregnancy Hospital in Kharghar, Navi Mumbai | Gynecologist , Paediatrics, Fountain Square Building, Sector 7, Kharghar, Panvel, Maharashtra 410210",
+    "city": "Panvel",
+    "state": "Maharashtra",
+    "pincode": "410210",
+    "locality": "Kharghar",
+    "landmark": "Child Care & Pregnancy Hospital in Kharghar",
+    "emergencyContact": "080695 49272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Kharghar+%7C+IUI,+ICSI,+Infertility+Treatment/@19.0357343,73.0630799,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3743a7dab0d:0xaaeb9647aac4e634!8m2!3d19.0357343!4d73.0630799!16s%2Fg%2F11zhs5dh2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Motherhood+Fertility+%26+IVF+Center+-+Best+IVF+Centre+in+Kharghar+%7C+IUI,+ICSI,+Infertility+Treatment/@19.0357343,73.0630799,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3743a7dab0d:0xaaeb9647aac4e634!8m2!3d19.0357343!4d73.0630799!16s%2Fg%2F11zhs5dh2n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0357343,
+      "lng": 73.0630799,
+      "label": "Motherhood Fertility & IVF Center - Best IVF Centre in Kharghar | IUI, ICSI, Infertility Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mumbai-cosmetic-centre-skin-hair-and-laser-clinic-mumbai",
+    "name": "Mumbai Cosmetic Centre - Skin, Hair and Laser Clinic",
+    "type": "Laser Hair Removal Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted laser hair removal service in Mumbai, Mumbai Cosmetic Centre - Skin, Hair and Laser Clinic delivers integrated care across Cosmetic Surgery In Mumbai and Laser Hair Removal Service. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "074001 88399",
+    "alternatePhone": "",
+    "website": "http://www.mumbaicosmeticcentre.com/",
+    "address": "1st floor, Milap Apt, Swami Vivekanand Rd, opp. PVR Milap, Kandivali, Bhadran Nagar, Kandivali West, Malad, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad",
+    "landmark": "Swami Vivekanand Rd",
+    "emergencyContact": "074001 88399",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mumbai",
+      "Laser Hair Removal Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mumbai+Cosmetic+Centre+-+Skin,+Hair+and+Laser+Clinic/@19.1952171,72.8474161,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79692abac35:0x490e36eb53ffcfc7!8m2!3d19.1952171!4d72.8474161!16s%2Fg%2F11y660xghb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mumbai+Cosmetic+Centre+-+Skin,+Hair+and+Laser+Clinic/@19.1952171,72.8474161,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79692abac35:0x490e36eb53ffcfc7!8m2!3d19.1952171!4d72.8474161!16s%2Fg%2F11y660xghb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1952171,
+      "lng": 72.8474161,
+      "label": "Mumbai Cosmetic Centre - Skin, Hair and Laser Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mumbai-dental-wahal",
+    "name": "Mumbai Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mumbai Dental is a prominent dental clinic in Wahal, known for structured tertiary care across Oral Surgery In Mumbai. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073043 19909",
+    "alternatePhone": "",
+    "website": "http://www.mumbaidentalcare.in/",
+    "address": "Tejas Mauli, Plot no.3, Sector 19B, Ulwe, Wahal, Maharashtra 410206",
+    "city": "Wahal",
+    "state": "Maharashtra",
+    "pincode": "410206",
+    "locality": "Ulwe",
+    "landmark": "Sector 19B",
+    "emergencyContact": "073043 19909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mumbai+Dental/@18.9700586,73.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3ff20d3f42d:0xe1b51b1b3ed9c1e7!8m2!3d18.9700586!4d73.0257!16s%2Fg%2F11jxr5pq8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mumbai+Dental/@18.9700586,73.0257,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3ff20d3f42d:0xe1b51b1b3ed9c1e7!8m2!3d18.9700586!4d73.0257!16s%2Fg%2F11jxr5pq8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9700586,
+      "lng": 73.0257,
+      "label": "Mumbai Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mumbai-eye-plastic-surgery-mumbai",
+    "name": "Mumbai Eye Plastic Surgery",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Mumbai Eye Plastic Surgery for its strength in Plastic Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090042 88294",
+    "alternatePhone": "",
+    "website": "https://mumbaieyeplasticsurgery.in/",
+    "address": "A- 2nd Floor, Gasper Enclave, B.R. Ambedkar road, Pali Mala Rd, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "locality": "Bandra West",
+    "landmark": "B.R. Ambedkar road",
+    "emergencyContact": "090042 88294",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mumbai+Eye+Plastic+Surgery/@19.0619664,72.8293475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c914a06b3ea9:0xf8eac7115fc6fdb7!8m2!3d19.0619664!4d72.8293475!16s%2Fg%2F11ggb8h_gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mumbai+Eye+Plastic+Surgery/@19.0619664,72.8293475,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c914a06b3ea9:0xf8eac7115fc6fdb7!8m2!3d19.0619664!4d72.8293475!16s%2Fg%2F11ggb8h_gf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0619664,
+      "lng": 72.8293475,
+      "label": "Mumbai Eye Plastic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mumbai-fertility-clinic-and-ivf-centre-mumbai",
+    "name": "Mumbai Fertility Clinic and IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Mumbai Fertility Clinic and IVF Centre brings together specialists for IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0222 388 7865",
+    "alternatePhone": "",
+    "website": "http://drjatinshah.com/",
+    "address": "1st Floor, Motiwala Building, Kemps Corner, Tardeo, Mumbai, Maharashtra 400026",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "locality": "Tardeo",
+    "landmark": "Kemps Corner",
+    "emergencyContact": "0222 388 7865",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mumbai+Fertility+Clinic+and+IVF+Centre/@18.9631924,72.8107675,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce75392027dd:0x56a5f984c49566eb!8m2!3d18.9631924!4d72.8107675!16s%2Fg%2F1tf68j9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mumbai+Fertility+Clinic+and+IVF+Centre/@18.9631924,72.8107675,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce75392027dd:0x56a5f984c49566eb!8m2!3d18.9631924!4d72.8107675!16s%2Fg%2F1tf68j9l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9631924,
+      "lng": 72.8107675,
+      "label": "Mumbai Fertility Clinic and IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "my-smile-dental-clinic-andheri-west-mumbai-mumbai",
+    "name": "My Smile Dental Clinic Andheri West, Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, My Smile Dental Clinic Andheri West, Mumbai brings together specialists for Oral Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098199 31333",
+    "alternatePhone": "",
+    "website": "https://www.mysmiledentalclinic.com/",
+    "address": "Shop No.59, 1st Floor, Oshiwara Link Plaza Next to Shreejee Restaurant Near Oshiwara Police Station Bhau Tatoba Toraskar Marg, Mhada Colony, Oshiwara, Andheri West, Mumbai, Maharashtra 400102",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400102",
+    "locality": "Andheri West",
+    "landmark": "Near Oshiwara Police Station Bhau Tatoba Toraskar Marg, Mhada Colony, Oshiwara, Andheri West, Mumbai, Maharashtra 400102",
+    "emergencyContact": "098199 31333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/My+Smile+Dental+Clinic+Andheri+West,+Mumbai/@19.1488106,72.8316703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b640f31ec4b1:0x260c17ccac238a03!8m2!3d19.1488106!4d72.8316703!16s%2Fg%2F1tmg4_rt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/My+Smile+Dental+Clinic+Andheri+West,+Mumbai/@19.1488106,72.8316703,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b640f31ec4b1:0x260c17ccac238a03!8m2!3d19.1488106!4d72.8316703!16s%2Fg%2F1tmg4_rt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1488106,
+      "lng": 72.8316703,
+      "label": "My Smile Dental Clinic Andheri West, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navaa-plastic-and-cosmetic-surgery-clinic-in-andheri-mumbai",
+    "name": "Navaa Plastic & Cosmetic Surgery Clinic in Andheri",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Mumbai, Navaa Plastic & Cosmetic Surgery Clinic in Andheri delivers integrated care across Plastic Surgery In Mumbai. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091364 21922",
+    "alternatePhone": "",
+    "website": "https://www.navaa.in/",
+    "address": "4th floor, 405, Morya Estate, New Link Rd, opp. Infinity Mall, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Morya Estate",
+    "emergencyContact": "091364 21922",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Navaa+Plastic+%26+Cosmetic+Surgery+Clinic+in+Andheri/data=!4m7!3m6!1s0x3be7b7f9c74ac26d:0x657ac8ad4b5cbd95!8m2!3d19.1412907!4d72.8319309!16s%2Fg%2F11wr646cdk!19sChIJbcJKx_m35zsRlb1cS63IemU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navaa+Plastic+%26+Cosmetic+Surgery+Clinic+in+Andheri/data=!4m7!3m6!1s0x3be7b7f9c74ac26d:0x657ac8ad4b5cbd95!8m2!3d19.1412907!4d72.8319309!16s%2Fg%2F11wr646cdk!19sChIJbcJKx_m35zsRlb1cS63IemU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1412907,
+      "lng": 72.8319309,
+      "label": "Navaa Plastic & Cosmetic Surgery Clinic in Andheri",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neurogen-brain-and-spine-institute-navi-mumbai",
+    "name": "NeuroGen Brain and Spine Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NeuroGen Brain and Spine Institute is a prominent hospital in Navi Mumbai, known for structured tertiary care across Spine Neurosurgeon In Mumbai, Neurosciences, and Spine Care. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099202 00400",
+    "alternatePhone": "",
+    "website": "https://www.neurogenbsi.com/",
+    "address": "Plot No: 19, near Seawoods Grand Central Railway Station, off Palm Beach Road, Seawoods West, Sector 40, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Seawoods",
+    "landmark": "near Seawoods Grand Central Railway Station, off Palm Beach Road, Seawoods West, Sector 40, Seawoods, Navi Mumbai, Maharashtra 400706",
+    "emergencyContact": "099202 00400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Mumbai",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NeuroGen+Brain+and+Spine+Institute/@19.0214869,73.0150854,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c39641016771:0x8ba4cace39b75321!8m2!3d19.0214869!4d73.0150854!16s%2Fg%2F11bc7m43pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NeuroGen+Brain+and+Spine+Institute/@19.0214869,73.0150854,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c39641016771:0x8ba4cace39b75321!8m2!3d19.0214869!4d73.0150854!16s%2Fg%2F11bc7m43pp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0214869,
+      "lng": 73.0150854,
+      "label": "NeuroGen Brain and Spine Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirman-ivf-center-best-ivf-center-in-dombivli-thane-mumbai-kalyan",
+    "name": "Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kalyan, Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086525 53338",
+    "alternatePhone": "",
+    "website": "https://www.nirmanivf.in/",
+    "address": "Manpada Rd, Dombivli, Gandhi Nagar, Dombivli East, Kalyan, Maharashtra 421204",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421204",
+    "locality": "Dombivli East",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "086525 53338",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nirman+IVF+Center+%7C+Best+IVF+Center+in+Dombivli+Thane,+Mumbai/@19.2044872,73.0954934,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7957f2eb37ea1:0x1300f60cb2ea1178!8m2!3d19.2044872!4d73.0954934!16s%2Fg%2F11cksyjwzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirman+IVF+Center+%7C+Best+IVF+Center+in+Dombivli+Thane,+Mumbai/@19.2044872,73.0954934,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7957f2eb37ea1:0x1300f60cb2ea1178!8m2!3d19.2044872!4d73.0954934!16s%2Fg%2F11cksyjwzn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2044872,
+      "lng": 73.0954934,
+      "label": "Nirman IVF Center | Best IVF Center in Dombivli Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-center-in-mira-road-mumbai-mumbai",
+    "name": "Nova IVF Fertility Center - Best IVF Center in Mira Road, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Nova IVF Fertility Center - Best IVF Center in Mira Road, Mumbai delivers integrated care across IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080494 36666",
+    "alternatePhone": "",
+    "website": "https://www.novaivffertility.com/ivf-centre/mumbai/fertility-clinic-mira-road?utm_source=GMB&utm_medium=Organic",
+    "address": "Shop no 4 & 26, NG Estate CHS, Nova IVF Fertility, Mira Bhayandar Rd, near VI Store, Mira Road East, Mumbai, Maharashtra 401107",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "401107",
+    "locality": "Mira Road East",
+    "landmark": "near VI Store, Mira Road East, Mumbai, Maharashtra 401107",
+    "emergencyContact": "080494 36666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Mira+Road,+Mumbai/@19.2899926,72.8635086,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b185c884a2df:0x89c87bdfe3cc9587!8m2!3d19.2899926!4d72.8635086!16s%2Fg%2F11ls1492gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Center+in+Mira+Road,+Mumbai/@19.2899926,72.8635086,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b185c884a2df:0x89c87bdfe3cc9587!8m2!3d19.2899926!4d72.8635086!16s%2Fg%2F11ls1492gj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2899926,
+      "lng": 72.8635086,
+      "label": "Nova IVF Fertility Center - Best IVF Center in Mira Road, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-center-best-ivf-centre-in-thane-mumbai-mumbai",
+    "name": "Nova IVF Fertility Center - Best IVF Centre in Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Nova IVF Fertility Center - Best IVF Centre in Thane, Mumbai for its strength in IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080444 77084",
+    "alternatePhone": "",
+    "website": "https://www.novaivffertility.com/ivf-centre/thane/fertility-clinic-thane?utm_source=GMB&utm_medium=organic",
+    "address": "1st floor, Pokharan Rd No. 2, opp. HIRANANDANI MEADOWS, Lok Puram, Vasant Vihar, Thane West, Mumbai, Thane, Maharashtra 400610",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400610",
+    "locality": "Thane West",
+    "landmark": "opp. HIRANANDANI MEADOWS",
+    "emergencyContact": "080444 77084",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Thane,+Mumbai/@19.2279573,72.9694234,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9609dd3a861:0xe553186896e49bda!8m2!3d19.2279573!4d72.9694234!16s%2Fg%2F1tlvm_gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Center+-+Best+IVF+Centre+in+Thane,+Mumbai/@19.2279573,72.9694234,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9609dd3a861:0xe553186896e49bda!8m2!3d19.2279573!4d72.9694234!16s%2Fg%2F1tlvm_gp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2279573,
+      "lng": 72.9694234,
+      "label": "Nova IVF Fertility Center - Best IVF Centre in Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-ivf-fertility-centre-best-ivf-center-in-bandra-west-mumbai-mumbai",
+    "name": "Nova IVF Fertility Centre - Best IVF Center in Bandra West, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova IVF Fertility Centre - Best IVF Center in Bandra West, Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080444 77081",
+    "alternatePhone": "",
+    "website": "https://www.novaivffertility.com/ivf-centre/mumbai/fertility-clinic-bandra?utm_source=GMB&utm_medium=Organic",
+    "address": "Shop No 3, Belfer CHS, Waterfield Road, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "locality": "Bandra West",
+    "landmark": "Waterfield Road",
+    "emergencyContact": "080444 77081",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Bandra+West,+Mumbai/@19.0602232,72.8342142,17z/data=!3m1!4b1!4m6!3m5!1s0x4b871eb1d57ba0e7:0xa353e58222141a7f!8m2!3d19.0602232!4d72.8342142!16s%2Fg%2F11rk5b61rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+IVF+Fertility+Centre+-+Best+IVF+Center+in+Bandra+West,+Mumbai/@19.0602232,72.8342142,17z/data=!3m1!4b1!4m6!3m5!1s0x4b871eb1d57ba0e7:0xa353e58222141a7f!8m2!3d19.0602232!4d72.8342142!16s%2Fg%2F11rk5b61rw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0602232,
+      "lng": 72.8342142,
+      "label": "Nova IVF Fertility Centre - Best IVF Center in Bandra West, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nuface-cleft-and-maxillofacial-surgery-clinic-mumbai",
+    "name": "Nuface Cleft & Maxillofacial Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nuface Cleft & Maxillofacial Surgery Clinic is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai and Maxillofacial Surgery. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077150 98366",
+    "alternatePhone": "",
+    "website": "http://www.cleftsurgerymumbai.in/",
+    "address": "Bldg No. 42, Dhanashree Heights, B 105-106, Veera Desai Rd, Azad Nagar 2, Mhada Colony, Jeevan Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "B 105-106",
+    "emergencyContact": "077150 98366",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nuface+Cleft+%26+Maxillofacial+Surgery+Clinic/@19.1307526,72.8370755,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b626575e375d:0x8610371cc74272ad!8m2!3d19.1307526!4d72.8370755!16s%2Fg%2F11b76drxz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nuface+Cleft+%26+Maxillofacial+Surgery+Clinic/@19.1307526,72.8370755,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b626575e375d:0x8610371cc74272ad!8m2!3d19.1307526!4d72.8370755!16s%2Fg%2F11b76drxz5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1307526,
+      "lng": 72.8370755,
+      "label": "Nuface Cleft & Maxillofacial Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nulife-ivf-clinic-seawoods-navi-mumbai-navi-mumbai",
+    "name": "Nulife IVF Clinic Seawoods, Navi Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nulife IVF Clinic Seawoods, Navi Mumbai has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077382 14950",
+    "alternatePhone": "",
+    "website": "https://www.nulifeivf.co.in/",
+    "address": "A, Seawoods (W, Plot No. 70, Laxmi Icon CHS, Shop no. 21, 22, 23, 24, Sector 44, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Sector 44",
+    "landmark": "Plot No. 70",
+    "emergencyContact": "077382 14950",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nulife+IVF+Clinic+Seawoods,+Navi+Mumbai/@19.012596,73.0128205,17z/data=!3m1!4b1!4m6!3m5!1s0xbb6de39075b2575:0xf0c4cfdc117c78dd!8m2!3d19.012596!4d73.0128205!16s%2Fg%2F11x8hhhpfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nulife+IVF+Clinic+Seawoods,+Navi+Mumbai/@19.012596,73.0128205,17z/data=!3m1!4b1!4m6!3m5!1s0xbb6de39075b2575:0xf0c4cfdc117c78dd!8m2!3d19.012596!4d73.0128205!16s%2Fg%2F11x8hhhpfh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.012596,
+      "lng": 73.0128205,
+      "label": "Nulife IVF Clinic Seawoods, Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oma-womens-hospital-best-maternity-hospital-in-mumbai-icsi-treatment-in-mumbai-ivf-treatment-in-mumbai-mumbai",
+    "name": "Oma Womens Hospital - Best Maternity Hospital In Mumbai | ICSI Treatment In Mumbai | IVF Treatment in Mumbai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Oma Womens Hospital - Best Maternity Hospital In Mumbai | ICSI Treatment In Mumbai | IVF Treatment in Mumbai for its strength in IVF In Mumbai, Women and Child Care, and Fertility Care. Hospital capacity markers such as Google rating 4.3 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077100 48562",
+    "alternatePhone": "",
+    "website": "https://omahospital.com/",
+    "address": "Plot No 5, V N Purav Marg, Sion - Trombay Rd, behind Small Union Finance Bank, opposite K Star Mall, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "opposite K Star Mall, Chembur, Mumbai, Maharashtra 400071",
+    "emergencyContact": "077100 48562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oma+Womens+Hospital+-+Best+Maternity+Hospital+In+Mumbai+%7C+ICSI+Treatment+In+Mumbai+%7C+IVF+Treatment+in+Mumbai/@19.0523842,72.8975956,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c602de08663b:0xd8a3064df864d283!8m2!3d19.0523842!4d72.8975956!16s%2Fg%2F1v2yxbcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oma+Womens+Hospital+-+Best+Maternity+Hospital+In+Mumbai+%7C+ICSI+Treatment+In+Mumbai+%7C+IVF+Treatment+in+Mumbai/@19.0523842,72.8975956,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c602de08663b:0xd8a3064df864d283!8m2!3d19.0523842!4d72.8975956!16s%2Fg%2F1v2yxbcf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0523842,
+      "lng": 72.8975956,
+      "label": "Oma Womens Hospital - Best Maternity Hospital In Mumbai | ICSI Treatment In Mumbai | IVF Treatment in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oral-treat-dental-clinic-mumbai",
+    "name": "Oral Treat dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Oral Treat dental clinic brings together specialists for Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070214 77604",
+    "alternatePhone": "",
+    "website": "http://www.oraltreat.in/",
+    "address": "4th Floor, Pure Gold, 406, N.G. Acharya Marg, opp. Saroj Sweets, near Chembur, Chembur West, Station East, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "near Chembur, Chembur West, Station East, Chembur, Mumbai, Maharashtra 400071",
+    "emergencyContact": "070214 77604",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Oral+Treat+dental+clinic/@19.0627161,72.8997833,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c61efb5ddcf9:0x24a1fcb9e55f91a6!8m2!3d19.0627161!4d72.8997833!16s%2Fg%2F11ckkx9928?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oral+Treat+dental+clinic/@19.0627161,72.8997833,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c61efb5ddcf9:0x24a1fcb9e55f91a6!8m2!3d19.0627161!4d72.8997833!16s%2Fg%2F11ckkx9928?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0627161,
+      "lng": 72.8997833,
+      "label": "Oral Treat dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oroface-dental-clinic-seawoods-navi-mumbai-navi-mumbai",
+    "name": "OroFace® Dental Clinic Seawoods, Navi Mumbai",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Navi Mumbai, OroFace® Dental Clinic Seawoods, Navi Mumbai delivers integrated care across Oral Surgery In Mumbai and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089767 44432",
+    "alternatePhone": "",
+    "website": "https://oroface.in/",
+    "address": "Infront of Ganesh Talav, Shop No. 2,3, H No.529, 6, Gosavi Kruhna Tandel Rd, near Madhusheth Tandel Maidan, Seawoods West, Sector 36, Navi Mumbai, Maharashtra 400706",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400706",
+    "locality": "Sector 36",
+    "landmark": "near Madhusheth Tandel Maidan, Seawoods West, Sector 36, Navi Mumbai, Maharashtra 400706",
+    "emergencyContact": "089767 44432",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OroFace%C2%AE+Dental+Clinic+Seawoods,+Navi+Mumbai/@19.0196096,73.0115372,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3972b48f493:0x6d4dce716f56f618!8m2!3d19.0196096!4d73.0115372!16s%2Fg%2F11c707x3bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OroFace%C2%AE+Dental+Clinic+Seawoods,+Navi+Mumbai/@19.0196096,73.0115372,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c3972b48f493:0x6d4dce716f56f618!8m2!3d19.0196096!4d73.0115372!16s%2Fg%2F11c707x3bh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0196096,
+      "lng": 73.0115372,
+      "label": "OroFace® Dental Clinic Seawoods, Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-mumbai",
+    "name": "OrthoSquare Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "OrthoSquare Dental Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai and Orthopaedics. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080718 20900",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/mumbai/Ghatkopar/orthosquare-dental-clinic-in-Ghatkopar-mumbai--7kKUO0/home",
+    "address": "Co-operative Housing Society, Plot No 1/40, Flat 2, Kailash Bhuvan, MP Vaidya Marg, Tilak Rd, nearby Yes Bank, Ghatkopar, Mumbai, Maharashtra 400077",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400077",
+    "locality": "Ghatkopar",
+    "landmark": "Flat 2",
+    "emergencyContact": "080718 20900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic/@19.0792358,72.9053226,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62f39b41e15:0x7e69f55688469971!8m2!3d19.0792358!4d72.9053226!16s%2Fg%2F11ggpspss_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic/@19.0792358,72.9053226,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62f39b41e15:0x7e69f55688469971!8m2!3d19.0792358!4d72.9053226!16s%2Fg%2F11ggpspss_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0792358,
+      "lng": 72.9053226,
+      "label": "OrthoSquare Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orthosquare-dental-clinic-byculla-west-mumbai-mumbai",
+    "name": "OrthoSquare Dental Clinic - Byculla West, Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, OrthoSquare Dental Clinic - Byculla West, Mumbai brings together specialists for Oral Surgery In Mumbai and Orthopaedics. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080718 20836",
+    "alternatePhone": "",
+    "website": "https://dental-clinics.orthosquare.com/near-me/mumbai/Byculla-West/orthosquare-dental-clinic-in-Byculla-West-mumbai--6HMjB7/home",
+    "address": "Shop No 6A, Ground Floor, Laxmi Niwas CHS, NM Joshi Marg, nearby South Bridge, Byculla West, Jacob Circle, Mumbai, Maharashtra 400011",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400011",
+    "locality": "Jacob Circle",
+    "landmark": "Laxmi Niwas CHS",
+    "emergencyContact": "080718 20836",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Byculla+West,+Mumbai/data=!4m7!3m6!1s0x3be7cf2becdde8a1:0x811f201e43b663c7!8m2!3d18.9793917!4d72.832053!16s%2Fg%2F11gpfzt2h5!19sChIJoejd7CvP5zsRx2O2Qx4gH4E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OrthoSquare+Dental+Clinic+-+Byculla+West,+Mumbai/data=!4m7!3m6!1s0x3be7cf2becdde8a1:0x811f201e43b663c7!8m2!3d18.9793917!4d72.832053!16s%2Fg%2F11gpfzt2h5!19sChIJoejd7CvP5zsRx2O2Qx4gH4E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9793917,
+      "lng": 72.832053,
+      "label": "OrthoSquare Dental Clinic - Byculla West, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ova-fertility-and-women-care-best-ivf-treatment-in-thane-mumbai-thane-west",
+    "name": "Ova Fertility and Women Care - Best IVF Treatment in Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Thane West, Ova Fertility and Women Care - Best IVF Treatment in Thane, Mumbai brings together specialists for IVF In Mumbai, Women and Child Care, and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070358 01111",
+    "alternatePhone": "",
+    "website": "https://www.theovacare.com/",
+    "address": "1st Floor, Ova Fertility and Women Care, Tieten Medicity Hospital, Ghodbunder Rd, Kasarvadavali, Thane West, Maharashtra 400615",
+    "city": "Thane West",
+    "state": "Maharashtra",
+    "pincode": "400615",
+    "locality": "Kasarvadavali",
+    "landmark": "Tieten Medicity Hospital",
+    "emergencyContact": "070358 01111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ova+Fertility+and+Women+Care+-+Best+IVF+Treatment+in+Thane,+Mumbai/@19.2716976,72.9628151,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb9314fe654f:0xec7d6203bfb81f40!8m2!3d19.2716976!4d72.9628151!16s%2Fg%2F11fnnwfcny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ova+Fertility+and+Women+Care+-+Best+IVF+Treatment+in+Thane,+Mumbai/@19.2716976,72.9628151,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb9314fe654f:0xec7d6203bfb81f40!8m2!3d19.2716976!4d72.9628151!16s%2Fg%2F11fnnwfcny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2716976,
+      "lng": 72.9628151,
+      "label": "Ova Fertility and Women Care - Best IVF Treatment in Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parkar-dental-care-mumbai",
+    "name": "Parkar Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parkar Dental Care has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "083691 12830",
+    "alternatePhone": "",
+    "website": "https://parkardentalcare.in/",
+    "address": "Gordon Hall Apartments, C/6, Sofia Zubair Road, Nagpada, Mumbai, Maharashtra 400008",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400008",
+    "locality": "Nagpada",
+    "landmark": "Sofia Zubair Road",
+    "emergencyContact": "083691 12830",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Parkar+Dental+Care/@18.9662322,72.8301044,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce406ffc12a3:0x7d25102e298f1296!8m2!3d18.9662322!4d72.8301044!16s%2Fg%2F1ptwp6z6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parkar+Dental+Care/@18.9662322,72.8301044,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce406ffc12a3:0x7d25102e298f1296!8m2!3d18.9662322!4d72.8301044!16s%2Fg%2F1ptwp6z6w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9662322,
+      "lng": 72.8301044,
+      "label": "Parkar Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "plastic-cosmetic-and-laser-centre-mumbai",
+    "name": "Plastic Cosmetic and Laser Centre",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Plastic Cosmetic and Laser Centre has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Plastic Surgery In Mumbai. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lokmanya Tilak Rd, Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "locality": "Fort",
+    "landmark": "Fort",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Plastic+Cosmetic+and+Laser+Centre/@18.948561,72.835319,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce269f572127:0x4f6b0aa6a11778fb!8m2!3d18.948561!4d72.835319!16s%2Fg%2F11gfdccfnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Plastic+Cosmetic+and+Laser+Centre/@18.948561,72.835319,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce269f572127:0x4f6b0aa6a11778fb!8m2!3d18.948561!4d72.835319!16s%2Fg%2F11gfdccfnb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.948561,
+      "lng": 72.835319,
+      "label": "Plastic Cosmetic and Laser Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pramukh-ivf-centre-best-ivf-center-in-andheri-west-mumbai-mumbai",
+    "name": "Pramukh IVF Centre - Best IVF Center in Andheri West Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Pramukh IVF Centre - Best IVF Center in Andheri West Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. With public-facing highlights like Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.pramukhivfcenter.com/",
+    "address": "Unit No. 402, Richa Industrial Estate, Off New Link Rd, near OBEROI SPRINGS, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near OBEROI SPRINGS, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pramukh+IVF+Centre+-+Best+IVF+Center+in+Andheri+West+Mumbai/@19.1388386,72.8349312,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79391f523bf:0x6c28c412c9fe44af!8m2!3d19.1388386!4d72.8349312!16s%2Fg%2F11z616d8yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pramukh+IVF+Centre+-+Best+IVF+Center+in+Andheri+West+Mumbai/@19.1388386,72.8349312,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b79391f523bf:0x6c28c412c9fe44af!8m2!3d19.1388386!4d72.8349312!16s%2Fg%2F11z616d8yj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1388386,
+      "lng": 72.8349312,
+      "label": "Pramukh IVF Centre - Best IVF Center in Andheri West Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-andheri-mumbai-mumbai",
+    "name": "Progenesis Fertility Center - Best IVF Center in Andheri, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Progenesis Fertility Center - Best IVF Center in Andheri, Mumbai has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070309 44041",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-andheri/",
+    "address": "4th, Off New Link Rd, near Lower Oshiwara Station, opposite to Laxmi Industrial, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near Lower Oshiwara Station, opposite to Laxmi Industrial, Veera Desai Industrial Estate, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "070309 44041",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Andheri,+Mumbai/@19.1371948,72.8323002,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b77d39bf026d:0x1a302fbd1e58597e!8m2!3d19.1371948!4d72.8323002!16s%2Fg%2F11y8rhmjw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Andheri,+Mumbai/@19.1371948,72.8323002,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b77d39bf026d:0x1a302fbd1e58597e!8m2!3d19.1371948!4d72.8323002!16s%2Fg%2F11y8rhmjw1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1371948,
+      "lng": 72.8323002,
+      "label": "Progenesis Fertility Center - Best IVF Center in Andheri, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-borivali-mumbai-mumbai",
+    "name": "Progenesis Fertility Center - Best IVF Center in Borivali, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Progenesis Fertility Center - Best IVF Center in Borivali, Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094239 71620",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-borivali/",
+    "address": "Unit no 2, 1st Floor, Volga Building, Rayani Gram, Shimpoli, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "Volga Building",
+    "emergencyContact": "094239 71620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Borivali,+Mumbai/@19.2221387,72.8485524,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b18004702abd:0x5fd33100cf17d18f!8m2!3d19.2221387!4d72.8485524!16s%2Fg%2F11x204h0zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Borivali,+Mumbai/@19.2221387,72.8485524,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b18004702abd:0x5fd33100cf17d18f!8m2!3d19.2221387!4d72.8485524!16s%2Fg%2F11x204h0zl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2221387,
+      "lng": 72.8485524,
+      "label": "Progenesis Fertility Center - Best IVF Center in Borivali, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-ghatkopar-mumbai-mumbai",
+    "name": "Progenesis Fertility Center - Best IVF Center in Ghatkopar, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Progenesis Fertility Center - Best IVF Center in Ghatkopar, Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094239 71620",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-ghatkopar/",
+    "address": "1st Floor, Mahatma Gandhi Rd, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400086",
+    "locality": "Ghatkopar West",
+    "landmark": "Ghatkopar West",
+    "emergencyContact": "094239 71620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Ghatkopar,+Mumbai/@19.0858784,72.9051982,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7de9e7770a7:0x43cbc20c7d55ea2c!8m2!3d19.0858784!4d72.9051982!16s%2Fg%2F11y8mxnc3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Ghatkopar,+Mumbai/@19.0858784,72.9051982,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7de9e7770a7:0x43cbc20c7d55ea2c!8m2!3d19.0858784!4d72.9051982!16s%2Fg%2F11y8mxnc3d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0858784,
+      "lng": 72.9051982,
+      "label": "Progenesis Fertility Center - Best IVF Center in Ghatkopar, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-thane-mumbai-mumbai",
+    "name": "Progenesis Fertility Center - Best IVF Center in Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Progenesis Fertility Center - Best IVF Center in Thane, Mumbai is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070309 44041",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-thane/",
+    "address": "16, First Floor, Dosti Imperia, Complex, Ghodbunder Rd, opp. R Mall, Manpada, Thane West, Mumbai, Thane, Maharashtra 400601",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400601",
+    "locality": "Thane West",
+    "landmark": "Dosti Imperia",
+    "emergencyContact": "070309 44041",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Thane,+Mumbai/@19.2319173,72.97594,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb0141c1354d:0xfb8acab954cc7c9e!8m2!3d19.2319173!4d72.97594!16s%2Fg%2F11h711gx3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Thane,+Mumbai/@19.2319173,72.97594,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb0141c1354d:0xfb8acab954cc7c9e!8m2!3d19.2319173!4d72.97594!16s%2Fg%2F11h711gx3w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2319173,
+      "lng": 72.97594,
+      "label": "Progenesis Fertility Center - Best IVF Center in Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-vashi-navi-mumbai-navi-mumbai",
+    "name": "Progenesis Fertility Center Best IVF Center in Vashi, Navi Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Progenesis Fertility Center Best IVF Center in Vashi, Navi Mumbai has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070309 44041",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-vashi/",
+    "address": "Ground Floor, Bhumiraj Costarica, Palm Beach Service Road, Sector 18, Vashi, Navi Mumbai, Maharashtra 400705",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400705",
+    "locality": "Vashi",
+    "landmark": "Palm Beach Service Road",
+    "emergencyContact": "070309 44041",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+Best+IVF+Center+in+Vashi,+Navi+Mumbai/@19.0565633,73.0035369,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c19653969387:0x5dc90551f255bfa!8m2!3d19.0565633!4d73.0035369!16s%2Fg%2F11y98nlz53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+Best+IVF+Center+in+Vashi,+Navi+Mumbai/@19.0565633,73.0035369,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c19653969387:0x5dc90551f255bfa!8m2!3d19.0565633!4d73.0035369!16s%2Fg%2F11y98nlz53?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0565633,
+      "lng": 73.0035369,
+      "label": "Progenesis Fertility Center Best IVF Center in Vashi, Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rane-hospital-and-mumbai-heart-clinic-mumbai",
+    "name": "Rane Hospital & Mumbai Heart Clinic",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rane Hospital & Mumbai Heart Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Heart Surgery In Mumbai and Cardiac Care. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0223 513 0080",
+    "alternatePhone": "",
+    "website": "https://ranehospital.com/",
+    "address": "37, Pestom Sagar Road No. 2, Chembur West, Pestom Sagar Colony, Chembur, Mumbai, Maharashtra 400089",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400089",
+    "locality": "Chembur",
+    "landmark": "Chembur West",
+    "emergencyContact": "0223 513 0080",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rane+Hospital+%26+Mumbai+Heart+Clinic/@19.0694549,72.903847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c89e6aaaaaab:0xc8ebf346a9d87edb!8m2!3d19.0694549!4d72.903847!16s%2Fg%2F1tm284g8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rane+Hospital+%26+Mumbai+Heart+Clinic/@19.0694549,72.903847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c89e6aaaaaab:0xc8ebf346a9d87edb!8m2!3d19.0694549!4d72.903847!16s%2Fg%2F1tm284g8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0694549,
+      "lng": 72.903847,
+      "label": "Rane Hospital & Mumbai Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "recon-plastic-surgery-and-physiotherapy-clinic-mumbai",
+    "name": "Recon Plastic Surgery & Physiotherapy Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Recon Plastic Surgery & Physiotherapy Clinic offers coordinated hospital care with major focus on Plastic Surgery In Mumbai. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090049 83316",
+    "alternatePhone": "",
+    "website": "https://drvishalpatel.com/plastic-surgeon-in-andheri/",
+    "address": "3rd floor, Corporate Corner, 302, near dalmia college, Mandlik Nagar, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "near dalmia college, Mandlik Nagar, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "emergencyContact": "090049 83316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Recon+Plastic+Surgery+%26+Physiotherapy+Clinic/@19.1770722,72.8421966,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b74aa977184b:0x7e85cbeb08d614cb!8m2!3d19.1770722!4d72.8421966!16s%2Fg%2F11wqz6hqxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Recon+Plastic+Surgery+%26+Physiotherapy+Clinic/@19.1770722,72.8421966,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b74aa977184b:0x7e85cbeb08d614cb!8m2!3d19.1770722!4d72.8421966!16s%2Fg%2F11wqz6hqxk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1770722,
+      "lng": 72.8421966,
+      "label": "Recon Plastic Surgery & Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "redefine-hair-transplant-and-plastic-surgery-center-mumbai",
+    "name": "Redefine Hair Transplant & Plastic Surgery Center",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Redefine Hair Transplant & Plastic Surgery Center for its strength in Plastic Surgery In Mumbai. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "089776 94446",
+    "alternatePhone": "",
+    "website": "https://redefineu.in/hair-transplant-in-mumbai/",
+    "address": "1st Floor, Four Bungalows, Plot No. 180, Mhada Rd, Jankidevi School Rd, SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Plot No. 180",
+    "emergencyContact": "089776 94446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Redefine+Hair+Transplant+%26+Plastic+Surgery+Center/@19.1369199,72.8232103,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b756d612a929:0x90256d777c3fb958!8m2!3d19.1369199!4d72.8232103!16s%2Fg%2F11yttsvbc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Redefine+Hair+Transplant+%26+Plastic+Surgery+Center/@19.1369199,72.8232103,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b756d612a929:0x90256d777c3fb958!8m2!3d19.1369199!4d72.8232103!16s%2Fg%2F11yttsvbc3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1369199,
+      "lng": 72.8232103,
+      "label": "Redefine Hair Transplant & Plastic Surgery Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "refonte-cosmetic-and-plastic-surgery-clinic-mumbai",
+    "name": "Refonte Cosmetic and Plastic Surgery Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Refonte Cosmetic and Plastic Surgery Clinic offers coordinated hospital care with major focus on Plastic Surgery In Mumbai. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098202 56452",
+    "alternatePhone": "",
+    "website": "http://refonte.co.in/",
+    "address": "Samartha Aishwarya, B-611, above Marks & Spencer, opp. Tarapore Towers, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "above Marks & Spencer",
+    "emergencyContact": "098202 56452",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Refonte+Cosmetic+and+Plastic+Surgery+Clinic/@19.145516,72.8291613,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7cf9d4383b3:0xd12ee8c944b6052a!8m2!3d19.145516!4d72.8291613!16s%2Fg%2F11j02b0vwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Refonte+Cosmetic+and+Plastic+Surgery+Clinic/@19.145516,72.8291613,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7cf9d4383b3:0xd12ee8c944b6052a!8m2!3d19.145516!4d72.8291613!16s%2Fg%2F11j02b0vwj?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.145516,
+      "lng": 72.8291613,
+      "label": "Refonte Cosmetic and Plastic Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rg-stone-urology-and-laparoscopy-hospital-mumbai",
+    "name": "RG Stone Urology & Laparoscopy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mumbai, RG Stone Urology & Laparoscopy Hospital delivers integrated care across Urologist Surgery In Mumbai. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098100 26456",
+    "alternatePhone": "",
+    "website": "https://www.rghospitals.com/urology-hospitals/mumbai/khar",
+    "address": "Madhu Park, 14-A, Ahimsa Marg, Khar West, Mumbai, Maharashtra 400052",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400052",
+    "locality": "Khar West",
+    "landmark": "Ahimsa Marg",
+    "emergencyContact": "098100 26456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3be7c90c16d08797:0xd98fb0dcab73b017!8m2!3d19.0742251!4d72.8324524!16s%2Fg%2F1vj5ypj4!19sChIJl4fQFgzJ5zsRF7Bzq9ywj9k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RG+Stone+Urology+%26+Laparoscopy+Hospital/data=!4m7!3m6!1s0x3be7c90c16d08797:0xd98fb0dcab73b017!8m2!3d19.0742251!4d72.8324524!16s%2Fg%2F1vj5ypj4!19sChIJl4fQFgzJ5zsRF7Bzq9ywj9k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0742251,
+      "lng": 72.8324524,
+      "label": "RG Stone Urology & Laparoscopy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rg-stone-urology-centre-mumbai",
+    "name": "RG Stone Urology Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mumbai, RG Stone Urology Centre delivers integrated care across Urologist Surgery In Mumbai. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098100 26456",
+    "alternatePhone": "",
+    "website": "https://www.rghospitals.com/urology-hospitals/mumbai/mulund",
+    "address": "Valiji, Valji Ladha Rd, Near Kalidas Natya Gruh, Mulund West, Mumbai, Maharashtra 400080",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400080",
+    "locality": "Mulund West",
+    "landmark": "Near Kalidas Natya Gruh, Mulund West, Mumbai, Maharashtra 400080",
+    "emergencyContact": "098100 26456",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RG+Stone+Urology+Centre/@19.1709662,72.950303,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b8f76cf1845d:0x4980009b28e0e86d!8m2!3d19.1709662!4d72.950303!16s%2Fg%2F1hjggpjwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RG+Stone+Urology+Centre/@19.1709662,72.950303,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b8f76cf1845d:0x4980009b28e0e86d!8m2!3d19.1709662!4d72.950303!16s%2Fg%2F1hjggpjwb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1709662,
+      "lng": 72.950303,
+      "label": "RG Stone Urology Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rhia-fertility-and-ivf-centre-mumbai",
+    "name": "RHIA FERTILITY AND IVF CENTRE",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, RHIA FERTILITY AND IVF CENTRE brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087795 94687",
+    "alternatePhone": "",
+    "website": "http://www.rhiaivf.com/",
+    "address": "Marina Mansion, 3rd Floor, Unit 11B/C Opera House, next to Sukh Sagar Restaurant, Charni Road, Chowpatty, Girgaon, Mumbai, Maharashtra 400007",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400007",
+    "locality": "Girgaon",
+    "landmark": "Unit 11B/C Opera House",
+    "emergencyContact": "087795 94687",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RHIA+FERTILITY+AND+IVF+CENTRE/@18.9560041,72.8128723,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce44f67b3fcd:0xea624a93d6f3c2df!8m2!3d18.9560041!4d72.8128723!16s%2Fg%2F11d_7ngcyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RHIA+FERTILITY+AND+IVF+CENTRE/@18.9560041,72.8128723,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce44f67b3fcd:0xea624a93d6f3c2df!8m2!3d18.9560041!4d72.8128723!16s%2Fg%2F11d_7ngcyz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9560041,
+      "lng": 72.8128723,
+      "label": "RHIA FERTILITY AND IVF CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-and-b-dental-specialities-centre-of-advanced-dentistry-mumbai",
+    "name": "S&B Dental Specialities - Centre Of Advanced Dentistry",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "S&B Dental Specialities - Centre Of Advanced Dentistry is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077678 44989",
+    "alternatePhone": "",
+    "website": "http://www.snbdental.com/",
+    "address": "104, 1st floor, Aadarsh CHSL, KD Gaikwad Marg, RTO Rd, opposite Ambedkar Hall, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "opposite Ambedkar Hall, Four Bungalows, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "077678 44989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/S%26B+Dental+Specialities+-+Centre+Of+Advanced+Dentistry/@19.1324624,72.8261331,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9f60a77d2cb:0x5da5303df5982c84!8m2!3d19.1324624!4d72.8261331!16s%2Fg%2F11h_1yc6km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S%26B+Dental+Specialities+-+Centre+Of+Advanced+Dentistry/@19.1324624,72.8261331,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9f60a77d2cb:0x5da5303df5982c84!8m2!3d19.1324624!4d72.8261331!16s%2Fg%2F11h_1yc6km?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1324624,
+      "lng": 72.8261331,
+      "label": "S&B Dental Specialities - Centre Of Advanced Dentistry",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sabka-dentist-mumbai",
+    "name": "Sabka dentist",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mumbai, Sabka dentist delivers integrated care across Oral Surgery In Mumbai. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082918 19560",
+    "alternatePhone": "",
+    "website": "https://www.sabkadentist.com/dental-clinics-in-mumbai/powai/",
+    "address": "Shop No-3, Ground Floor, Maruti Darshan Building, Jogeshwari - Vikhroli Link Rd, opp. IIT Mumbai Main Gate, near to Hanuman Temple, BSNL Colony, Powai, Mumbai, Maharashtra 400076",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400076",
+    "locality": "Powai",
+    "landmark": "near to Hanuman Temple, BSNL Colony, Powai, Mumbai, Maharashtra 400076",
+    "emergencyContact": "082918 19560",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sabka+dentist/@19.1244011,72.9153138,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7f22756bd7d:0x6e33e4d662d52b9e!8m2!3d19.1244011!4d72.9153138!16s%2Fg%2F11h12mx15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sabka+dentist/@19.1244011,72.9153138,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7f22756bd7d:0x6e33e4d662d52b9e!8m2!3d19.1244011!4d72.9153138!16s%2Fg%2F11h12mx15?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1244011,
+      "lng": 72.9153138,
+      "label": "Sabka dentist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sankalp-dental-clinic-mumbai",
+    "name": "Sankalp Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Sankalp Dental Clinic for its strength in Oral Surgery In Mumbai. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098210 83697",
+    "alternatePhone": "",
+    "website": "https://sankalpdental.com/",
+    "address": "1st Floor, Kailas complex, 110, A-2 Wing, Lal Bahadur Shastri Marg, opposite Dreams Mall Road, Valmik Nagar, Bhandup West, Mumbai, Maharashtra 400078",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400078",
+    "locality": "Bhandup West",
+    "landmark": "opposite Dreams Mall Road, Valmik Nagar, Bhandup West, Mumbai, Maharashtra 400078",
+    "emergencyContact": "098210 83697",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sankalp+Dental+Clinic/@19.1459173,72.9354847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b87a940c65c9:0xc44d7b7c52d1a106!8m2!3d19.1459173!4d72.9354847!16s%2Fg%2F1q5bm5fny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sankalp+Dental+Clinic/@19.1459173,72.9354847,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b87a940c65c9:0xc44d7b7c52d1a106!8m2!3d19.1459173!4d72.9354847!16s%2Fg%2F1q5bm5fny?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1459173,
+      "lng": 72.9354847,
+      "label": "Sankalp Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanket-hospital-and-urology-centre-mumbai",
+    "name": "Sanket Hospital and Urology Centre",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted surgical center in Mumbai, Sanket Hospital and Urology Centre delivers integrated care across Urologist Surgery In Mumbai and Surgical Center. Operational strengths including Google rating 4.1 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B Wing, NAND DHAM, SOCIETY, LT Rd, opp. St Annes High School, Lokmanya Tilak Nagar, Maharashtra Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "SOCIETY",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Mumbai",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Sanket+Hospital+and+Urology+Centre/@19.2294803,72.8512358,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b13affffffff:0xaf7675e83a611893!8m2!3d19.2294803!4d72.8512358!16s%2Fg%2F1td4n4qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanket+Hospital+and+Urology+Centre/@19.2294803,72.8512358,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b13affffffff:0xaf7675e83a611893!8m2!3d19.2294803!4d72.8512358!16s%2Fg%2F1td4n4qp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2294803,
+      "lng": 72.8512358,
+      "label": "Sanket Hospital and Urology Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "santati-ivf-fertility-center-best-ivf-specialist-in-thane-iui-ivf-specialist-mumbai",
+    "name": "Santati IVF Fertility Center-Best IVF Specialist in Thane/IUI/IVF Specialist",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Santati IVF Fertility Center-Best IVF Specialist in Thane/IUI/IVF Specialist for its strength in IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098598 50808",
+    "alternatePhone": "",
+    "website": "https://www.santatifertility.com/",
+    "address": "Dev Corpora, A Wing, 103, 1st Floor, Eastern Express Hwy, opp. Cadbury Junction, Khopat, Thane West, Mumbai, Maharashtra 400601",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400601",
+    "locality": "Thane West",
+    "landmark": "103",
+    "emergencyContact": "098598 50808",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Santati+IVF+Fertility+Center-Best+IVF+Specialist+in+Thane%2FIUI%2FIVF+Specialist/@19.2032528,72.9690052,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b96fc79b75f1:0x73e1cf27eb1bcdc5!8m2!3d19.2032528!4d72.9690052!16s%2Fg%2F11bzrpwwcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Santati+IVF+Fertility+Center-Best+IVF+Specialist+in+Thane%2FIUI%2FIVF+Specialist/@19.2032528,72.9690052,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b96fc79b75f1:0x73e1cf27eb1bcdc5!8m2!3d19.2032528!4d72.9690052!16s%2Fg%2F11bzrpwwcb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2032528,
+      "lng": 72.9690052,
+      "label": "Santati IVF Fertility Center-Best IVF Specialist in Thane/IUI/IVF Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saraogi-hospital-and-iris-ivf-mumbai",
+    "name": "Saraogi Hospital & IRIS IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Saraogi Hospital & IRIS IVF has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090825 14128",
+    "alternatePhone": "",
+    "website": "https://saraogihospital.com/",
+    "address": "Khetan Apartment, Swami Vivekanand Rd, opp. Telephone Exchange, Malad, Malad (W, Adarsh Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "opp. Telephone Exchange",
+    "emergencyContact": "090825 14128",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF/@19.189129,72.846306,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b701648ae499:0xdfe9ac66fc3a1318!8m2!3d19.189129!4d72.846306!16s%2Fg%2F1tfmlvsd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF/@19.189129,72.846306,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b701648ae499:0xdfe9ac66fc3a1318!8m2!3d19.189129!4d72.846306!16s%2Fg%2F1tfmlvsd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.189129,
+      "lng": 72.846306,
+      "label": "Saraogi Hospital & IRIS IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saraogi-hospital-and-iris-ivf-centre-ivf-centre-in-ghatkopar-mumbai-mumbai",
+    "name": "Saraogi Hospital & IRIS IVF Centre | IVF Centre in Ghatkopar, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Saraogi Hospital & IRIS IVF Centre | IVF Centre in Ghatkopar, Mumbai offers coordinated hospital care with major focus on IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081041 26133",
+    "alternatePhone": "",
+    "website": "https://saraogihospital.com/",
+    "address": "5th, Sanghvi Square, 510, Mahatma Gandhi Rd, opp. Bank of Baroda, near railway station, Bhatwadi, Kapol wadi, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400086",
+    "locality": "Ghatkopar West",
+    "landmark": "near railway station, Bhatwadi, Kapol wadi, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "emergencyContact": "081041 26133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Centre+in+Ghatkopar,+Mumbai/@19.0845283,72.9054058,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7e0e45aaf6b:0xabba275a0e4d97c!8m2!3d19.0845283!4d72.9054058!16s%2Fg%2F11t9mndh5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Centre+in+Ghatkopar,+Mumbai/@19.0845283,72.9054058,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7e0e45aaf6b:0xabba275a0e4d97c!8m2!3d19.0845283!4d72.9054058!16s%2Fg%2F11t9mndh5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0845283,
+      "lng": 72.9054058,
+      "label": "Saraogi Hospital & IRIS IVF Centre | IVF Centre in Ghatkopar, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saraogi-hospital-and-iris-ivf-centre-ivf-centre-in-malad-mumbai-mumbai",
+    "name": "Saraogi Hospital & IRIS IVF Centre | IVF Centre in Malad, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Saraogi Hospital & IRIS IVF Centre | IVF Centre in Malad, Mumbai delivers integrated care across IVF In Mumbai and Fertility Care. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077770 55234",
+    "alternatePhone": "",
+    "website": "http://www.saraogihospital.com/",
+    "address": "Simplex Khushaangan, 101-102, Swami Vivekanand Rd, opposite Indian Oil petrol pump, Malad, Commercial, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "opposite Indian Oil petrol pump, Malad, Commercial, Malad West, Mumbai, Maharashtra 400064",
+    "emergencyContact": "077770 55234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Centre+in+Malad,+Mumbai/@19.1815851,72.8475323,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7b65336938b:0x2ab8f7d205b8526c!8m2!3d19.1815851!4d72.8475323!16s%2Fg%2F11wwprzp20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Centre+in+Malad,+Mumbai/@19.1815851,72.8475323,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7b65336938b:0x2ab8f7d205b8526c!8m2!3d19.1815851!4d72.8475323!16s%2Fg%2F11wwprzp20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1815851,
+      "lng": 72.8475323,
+      "label": "Saraogi Hospital & IRIS IVF Centre | IVF Centre in Malad, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saraogi-hospital-and-iris-ivf-centre-ivf-clinic-in-thane-mumbai-thane",
+    "name": "Saraogi Hospital & IRIS IVF Centre | IVF Clinic in Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Thane, Saraogi Hospital & IRIS IVF Centre | IVF Clinic in Thane, Mumbai brings together specialists for IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070214 24501",
+    "alternatePhone": "",
+    "website": "https://www.ivfinmumbai.com/ivf-centre-in-thane/",
+    "address": "Panama planet, 501 - 502, Gopal Krishna Gokhale Marg, Naupada, Thane West, Thane, Maharashtra 400602",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400602",
+    "locality": "Thane West",
+    "landmark": "Gopal Krishna Gokhale Marg",
+    "emergencyContact": "070214 24501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Clinic+in+Thane,+Mumbai/@19.1879337,72.9732088,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9060acdf1a1:0x5a3d50b3f88dae3!8m2!3d19.1879337!4d72.9732088!16s%2Fg%2F11yl774lds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saraogi+Hospital+%26+IRIS+IVF+Centre+%7C+IVF+Clinic+in+Thane,+Mumbai/@19.1879337,72.9732088,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b9060acdf1a1:0x5a3d50b3f88dae3!8m2!3d19.1879337!4d72.9732088!16s%2Fg%2F11yl774lds?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1879337,
+      "lng": 72.9732088,
+      "label": "Saraogi Hospital & IRIS IVF Centre | IVF Clinic in Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sculpt-sublime-cosmetic-surgery-clinic-in-andheri-w-liposuction-rhinoplasty-breas-t-implant-surgery-mumbai",
+    "name": "Sculpt Sublime - Cosmetic Surgery Clinic in Andheri (w) | Liposuction | Rhinoplasty | Breas-t Implant Surgery",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sculpt Sublime - Cosmetic Surgery Clinic in Andheri (w) | Liposuction | Rhinoplasty | Breas-t Implant Surgery is a prominent plastic surgery clinic in Mumbai, known for structured tertiary care across Plastic Surgery In Mumbai. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099672 98466",
+    "alternatePhone": "",
+    "website": "https://www.sculptsublime.in/",
+    "address": "Abhishek APPT, G, Juhu Versova Link Rd, near Kapaswadi, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "near Kapaswadi, Andheri West, Mumbai, Maharashtra 400053",
+    "emergencyContact": "099672 98466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sculpt+Sublime+-+Cosmetic+Surgery+Clinic+in+Andheri+(w)+%7C+Liposuction+%7C+Rhinoplasty+%7C+Breas-t+Implant+Surgery/@19.1210296,72.8269401,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b793e5e2e99b:0xf7ec837962ae2fc7!8m2!3d19.1210296!4d72.8269401!16s%2Fg%2F11ss7mbtht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sculpt+Sublime+-+Cosmetic+Surgery+Clinic+in+Andheri+(w)+%7C+Liposuction+%7C+Rhinoplasty+%7C+Breas-t+Implant+Surgery/@19.1210296,72.8269401,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b793e5e2e99b:0xf7ec837962ae2fc7!8m2!3d19.1210296!4d72.8269401!16s%2Fg%2F11ss7mbtht?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1210296,
+      "lng": 72.8269401,
+      "label": "Sculpt Sublime - Cosmetic Surgery Clinic in Andheri (w) | Liposuction | Rhinoplasty | Breas-t Implant Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shah-s-dental-serenity-mumbai",
+    "name": "Shah's Dental Serenity",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Shah's Dental Serenity offers coordinated hospital care with major focus on Oral Surgery In Mumbai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070211 42662",
+    "alternatePhone": "",
+    "website": "https://www.shahsdentalserenity.com/",
+    "address": "B wing, Panchshil Plaza, 617, N S Patkar Marg, Gamdevi, Mumbai, Maharashtra 400007",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400007",
+    "locality": "Gamdevi",
+    "landmark": "617",
+    "emergencyContact": "070211 42662",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shah's+Dental+Serenity/@18.958083,72.8124367,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0db0ed774d:0xabc4feba40aae298!8m2!3d18.958083!4d72.8124367!16s%2Fg%2F11b5wkfzgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shah's+Dental+Serenity/@18.958083,72.8124367,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0db0ed774d:0xabc4feba40aae298!8m2!3d18.958083!4d72.8124367!16s%2Fg%2F11b5wkfzgl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.958083,
+      "lng": 72.8124367,
+      "label": "Shah's Dental Serenity",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-health-and-rejuvenation-centre-mumbai",
+    "name": "Skin Health & Rejuvenation Centre",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Skin Health & Rejuvenation Centre has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Spine Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089284 92540",
+    "alternatePhone": "",
+    "website": "https://www.rfhospital.org/care-centres/well-women-centre/skin-health-rejuvenation-centre",
+    "address": "Gate No - 5, Reliance Foundation Hospital, Sir H. N, Prarthana Samaj, Raja Ram Mohan Roy Rd, Charni Road East, Khetwadi, Girgaon, Mumbai, Maharashtra 400004",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "locality": "Girgaon",
+    "landmark": "Sir H. N",
+    "emergencyContact": "089284 92540",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/@18.958733,72.82005,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Health+%26+Rejuvenation+Centre/@18.958733,72.82005,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf4463f50f11:0xf100b40d71518b86!8m2!3d18.958733!4d72.82005!16s%2Fg%2F11lnwx__7r?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.958733,
+      "lng": 72.82005,
+      "label": "Skin Health & Rejuvenation Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skinzome-clinics-mumbai",
+    "name": "Skinzome clinics",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, Skinzome clinics offers coordinated hospital care with major focus on Plastic Surgery In Mumbai. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099307 00939",
+    "alternatePhone": "",
+    "website": "https://www.gynecomastiasurgeonmumbai.com/",
+    "address": "Vini Elegance, 404, Lt Rd, above Tanishq Jewellers, Mini Zaveri Bazaar, Mhatre Wadi, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "Lt Rd",
+    "emergencyContact": "099307 00939",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Skinzome+clinics/@19.2284997,72.8527094,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1e5d7e71ae3:0xc55d0f670148eab3!8m2!3d19.2284997!4d72.8527094!16s%2Fg%2F11sl20t3lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skinzome+clinics/@19.2284997,72.8527094,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1e5d7e71ae3:0xc55d0f670148eab3!8m2!3d19.2284997!4d72.8527094!16s%2Fg%2F11sl20t3lr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2284997,
+      "lng": 72.8527094,
+      "label": "Skinzome clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-again-dental-clinic-mumbai",
+    "name": "Smile Again Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mumbai, Smile Again Dental Clinic delivers integrated care across Oral Surgery In Mumbai. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099207 49091",
+    "alternatePhone": "",
+    "website": "https://smileagain.in/",
+    "address": "Rajgir Court, B/1, Swami Gyan Jivandas Marg, opposite Midtown Pritam Hotel, behind Federal Bank, Dadar East, Dadar, Mumbai, Maharashtra 400014",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400014",
+    "locality": "Dadar",
+    "landmark": "opposite Midtown Pritam Hotel, behind Federal Bank, Dadar East, Dadar, Mumbai, Maharashtra 400014",
+    "emergencyContact": "099207 49091",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@19.0167592,72.8454956,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cedc53ee4b63:0x1b2c616b7323eab5!8m2!3d19.0167592!4d72.8454956!16s%2Fg%2F11b63w246z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Again+Dental+Clinic/@19.0167592,72.8454956,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cedc53ee4b63:0x1b2c616b7323eab5!8m2!3d19.0167592!4d72.8454956!16s%2Fg%2F11b63w246z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0167592,
+      "lng": 72.8454956,
+      "label": "Smile Again Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-couture-dental-clinic-best-dental-clinic-in-lokhandwala-andheri-west-mumbai-mumbai",
+    "name": "Smile Couture Dental Clinic | Best Dental Clinic In Lokhandwala, Andheri West, Mumbai",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Couture Dental Clinic | Best Dental Clinic In Lokhandwala, Andheri West, Mumbai is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081040 54109",
+    "alternatePhone": "",
+    "website": "https://www.smilecouturedental.com/",
+    "address": "Ground Floor, Building No. 8, Blue Bell Apartments, behind Tarapore Towers, opp. Jbcn International School, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Blue Bell Apartments",
+    "emergencyContact": "081040 54109",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Couture+Dental+Clinic+%7C+Best+Dental+Clinic+In+Lokhandwala,+Andheri+West,+Mumbai/@19.1468652,72.8306701,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7002fc1af7f:0x246eb06ecd2f9033!8m2!3d19.1468652!4d72.8306701!16s%2Fg%2F11trx6nyjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Couture+Dental+Clinic+%7C+Best+Dental+Clinic+In+Lokhandwala,+Andheri+West,+Mumbai/@19.1468652,72.8306701,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7002fc1af7f:0x246eb06ecd2f9033!8m2!3d19.1468652!4d72.8306701!16s%2Fg%2F11trx6nyjz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1468652,
+      "lng": 72.8306701,
+      "label": "Smile Couture Dental Clinic | Best Dental Clinic In Lokhandwala, Andheri West, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-masters-and-jaw-joint-matters-mumbai",
+    "name": "Smile Masters and Jaw Joint Matters",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Masters and Jaw Joint Matters is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai and Orthopaedics. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "077389 68210",
+    "alternatePhone": "",
+    "website": "https://smilemastersindia.com/",
+    "address": "3rd floor, Zeba Apartments, Hill Road Landmarks:, above Mamamia Pizza, next to Tea Villa Cafe, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "locality": "Bandra West",
+    "landmark": "Hill Road Landmarks:",
+    "emergencyContact": "077389 68210",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Masters+and+Jaw+Joint+Matters/@19.0554496,72.8341054,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9475b60deb1:0x2806deb8ae2acb72!8m2!3d19.0554496!4d72.8341054!16s%2Fg%2F11ddxzd4nx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Masters+and+Jaw+Joint+Matters/@19.0554496,72.8341054,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9475b60deb1:0x2806deb8ae2acb72!8m2!3d19.0554496!4d72.8341054!16s%2Fg%2F11ddxzd4nx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0554496,
+      "lng": 72.8341054,
+      "label": "Smile Masters and Jaw Joint Matters",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smiling-mumbai-dental-clinic-mumbai",
+    "name": "Smiling Mumbai Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smiling Mumbai Dental Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093200 77400",
+    "alternatePhone": "",
+    "website": "https://www.dentee.com/clinic/thane/smiling-mumbai-dental-clinic/0b3e9fb4-f860-49c8-af36-717d4adc00a9",
+    "address": "Plot No. 186/187, Shop No. 9, Dhanlaxmi C.H.S. Ltd, Upper Govind Nagar, Malad East, Mumbai, Maharashtra 400097",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400097",
+    "locality": "Malad East",
+    "landmark": "Dhanlaxmi C.H.S. Ltd",
+    "emergencyContact": "093200 77400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smiling+Mumbai+Dental+Clinic/@19.1770495,72.8558777,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b700e80205bf:0xe531ef3cb8495116!8m2!3d19.1770495!4d72.8558777!16s%2Fg%2F11c3q3xl9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smiling+Mumbai+Dental+Clinic/@19.1770495,72.8558777,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b700e80205bf:0xe531ef3cb8495116!8m2!3d19.1770495!4d72.8558777!16s%2Fg%2F11c3q3xl9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1770495,
+      "lng": 72.8558777,
+      "label": "Smiling Mumbai Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smiling-mumbai-dental-clinic-mumbai",
+    "name": "Smiling Mumbai Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smiling Mumbai Dental Clinic is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093200 77400",
+    "alternatePhone": "",
+    "website": "https://www.dentee.com/clinic/thane/smiling-mumbai-dental-clinic/0b3e9fb4-f860-49c8-af36-717d4adc00a9",
+    "address": "Shop No. 6, Ground Floor, Gala Residency, Plot No 48, Haji Bapu Rd, opp. Post Office, Devchand Nagar, Matanpur Nagar, Malad East, Mumbai, Maharashtra 400097",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400097",
+    "locality": "Malad East",
+    "landmark": "Gala Residency",
+    "emergencyContact": "093200 77400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smiling+Mumbai+Dental+Clinic/@19.1797845,72.8502483,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7273513ca99:0x8d0f3976ddeeb770!8m2!3d19.1797845!4d72.8502483!16s%2Fg%2F11s791twjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smiling+Mumbai+Dental+Clinic/@19.1797845,72.8502483,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7273513ca99:0x8d0f3976ddeeb770!8m2!3d19.1797845!4d72.8502483!16s%2Fg%2F11s791twjg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1797845,
+      "lng": 72.8502483,
+      "label": "Smiling Mumbai Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smt-s-r-mehta-and-sir-k-p-cardiac-institute-mumbai",
+    "name": "Smt S R Mehta & Sir K P Cardiac Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Smt S R Mehta & Sir K P Cardiac Institute for its strength in Heart Surgery In Mumbai and Cardiac Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0226 910 5400",
+    "alternatePhone": "",
+    "website": "http://www.srmkpcardiac.com/",
+    "address": "King's Circle, Plot No. 96, Rd Number 31, near Gandhi Market, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400022",
+    "locality": "Sion",
+    "landmark": "near Gandhi Market, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "emergencyContact": "0226 910 5400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smt+S+R+Mehta+%26+Sir+K+P+Cardiac+Institute/@19.0323445,72.85963,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c865ff931067:0xc38c0e6b87807e09!8m2!3d19.0323445!4d72.85963!16s%2Fg%2F1tcy7c13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smt+S+R+Mehta+%26+Sir+K+P+Cardiac+Institute/@19.0323445,72.85963,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c865ff931067:0xc38c0e6b87807e09!8m2!3d19.0323445!4d72.85963!16s%2Fg%2F1tcy7c13?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0323445,
+      "lng": 72.85963,
+      "label": "Smt S R Mehta & Sir K P Cardiac Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smylexl-dental-clinic-mumbai-central-mumbai",
+    "name": "SmyleXL Dental Clinic Mumbai Central",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SmyleXL Dental Clinic Mumbai Central is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074209 63040",
+    "alternatePhone": "",
+    "website": "https://smylexl.com/dental-clinic-in-mumbai-central/",
+    "address": "Anand Rao, C-01, Ground Floor, Afzal CHS, Dr, Dr Anandrao Nair Marg, near Nair Dental College, Mumbai Central, Mumbai, Maharashtra 400008",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400008",
+    "locality": "Mumbai Central",
+    "landmark": "near Nair Dental College, Mumbai Central, Mumbai, Maharashtra 400008",
+    "emergencyContact": "074209 63040",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Mumbai+Central/@18.971044,72.8211838,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa01e4477d5:0x34dfbbec88ce932a!8m2!3d18.971044!4d72.8211838!16s%2Fg%2F11jzhfg24n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SmyleXL+Dental+Clinic+Mumbai+Central/@18.971044,72.8211838,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfa01e4477d5:0x34dfbbec88ce932a!8m2!3d18.971044!4d72.8211838!16s%2Fg%2F11jzhfg24n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.971044,
+      "lng": 72.8211838,
+      "label": "SmyleXL Dental Clinic Mumbai Central",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spegg-fertility-clinic-ivf-mumbai",
+    "name": "Spegg Fertility Clinic ( IVF )",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Spegg Fertility Clinic ( IVF ) is a prominent fertility clinic in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091522 58848",
+    "alternatePhone": "",
+    "website": "https://www.speggfertility.com/in",
+    "address": "Shiddhivinayak apartment, A-1, S k Bole road, Agar bazar, Dadar West, Dadar, Mumbai, Maharashtra 400028",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400028",
+    "locality": "Dadar",
+    "landmark": "S k Bole road",
+    "emergencyContact": "091522 58848",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Spegg+Fertility+Clinic+(+IVF+)/@19.0186878,72.8337446,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf7f59608ead:0x7d21281753cd4619!8m2!3d19.0186878!4d72.8337446!16s%2Fg%2F11y1tfr5jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spegg+Fertility+Clinic+(+IVF+)/@19.0186878,72.8337446,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf7f59608ead:0x7d21281753cd4619!8m2!3d19.0186878!4d72.8337446!16s%2Fg%2F11y1tfr5jw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0186878,
+      "lng": 72.8337446,
+      "label": "Spegg Fertility Clinic ( IVF )",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "srijan-hospital-and-ivf-centre-mumbai",
+    "name": "Srijan Hospital & IVF Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Srijan Hospital & IVF Centre brings together specialists for IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099305 97794",
+    "alternatePhone": "",
+    "website": "http://srijanivf.com/",
+    "address": "Netramandir 2nd floor, opp. Bank of Baroda, near Bhagwati Hospital, Madonna Colony, Mandapeshwar, Borivali West, Mumbai, Maharashtra 400103",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400103",
+    "locality": "Borivali West",
+    "landmark": "near Bhagwati Hospital, Madonna Colony, Mandapeshwar, Borivali West, Mumbai, Maharashtra 400103",
+    "emergencyContact": "099305 97794",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Srijan+Hospital+%26+IVF+Centre/@19.2420958,72.854699,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d7c7c9bcc7:0xae00db2393c53064!8m2!3d19.2420958!4d72.854699!16s%2Fg%2F11fy5dp6rn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Srijan+Hospital+%26+IVF+Centre/@19.2420958,72.854699,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d7c7c9bcc7:0xae00db2393c53064!8m2!3d19.2420958!4d72.854699!16s%2Fg%2F11fy5dp6rn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2420958,
+      "lng": 72.854699,
+      "label": "Srijan Hospital & IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sso-cancer-clinic-best-cancer-treatment-center-charni-road-mumbai-mumbai",
+    "name": "SSO Cancer Clinic | Best Cancer treatment Center - Charni Road Mumbai",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, SSO Cancer Clinic | Best Cancer treatment Center - Charni Road Mumbai brings together specialists for Cancer Surgery In Mumbai and Cancer Treatment Center. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089768 97201",
+    "alternatePhone": "",
+    "website": "http://www.ssohospitals.com/",
+    "address": "9th Floor, Mehta Mahal, 9 B, Shrimad Rajchandraji Marg, Charni Road East, Opera House, Girgaon, Mumbai, Maharashtra 400004",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400004",
+    "locality": "Girgaon",
+    "landmark": "9 B",
+    "emergencyContact": "089768 97201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SSO+Cancer+Clinic+%7C+Best+Cancer+treatment+Center+-+Charni+Road+Mumbai/@18.9545948,72.8157976,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfaef7e28721:0x416628acaa6da0c0!8m2!3d18.9545948!4d72.8157976!16s%2Fg%2F11fswbr4z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSO+Cancer+Clinic+%7C+Best+Cancer+treatment+Center+-+Charni+Road+Mumbai/@18.9545948,72.8157976,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfaef7e28721:0x416628acaa6da0c0!8m2!3d18.9545948!4d72.8157976!16s%2Fg%2F11fswbr4z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9545948,
+      "lng": 72.8157976,
+      "label": "SSO Cancer Clinic | Best Cancer treatment Center - Charni Road Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sso-cancer-hospital-best-cancer-hospital-andheri-mumbai-mumbai",
+    "name": "SSO Cancer Hospital | Best Cancer Hospital - Andheri Mumbai",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, SSO Cancer Hospital | Best Cancer Hospital - Andheri Mumbai brings together specialists for Liver Transplant Surgery In Mumbai and Cancer Treatment Center. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "089768 97201",
+    "alternatePhone": "",
+    "website": "https://ssohospitals.com/",
+    "address": "2nd Floor, Specialty Surgical Oncology, New Link Rd, above Bellevue Hospital, next to Audi Showroom, Sahakar Nagar, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "New Link Rd",
+    "emergencyContact": "089768 97201",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+-+Andheri+Mumbai/@19.1292147,72.8317167,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9058310d917:0x48f396d15f4be145!8m2!3d19.1292147!4d72.8317167!16s%2Fg%2F11ht6mpbdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+-+Andheri+Mumbai/@19.1292147,72.8317167,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c9058310d917:0x48f396d15f4be145!8m2!3d19.1292147!4d72.8317167!16s%2Fg%2F11ht6mpbdy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1292147,
+      "lng": 72.8317167,
+      "label": "SSO Cancer Hospital | Best Cancer Hospital - Andheri Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sso-cancer-hospital-best-cancer-hospital-in-mumbai-mumbai",
+    "name": "SSO Cancer Hospital | Best Cancer Hospital in Mumbai",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, SSO Cancer Hospital | Best Cancer Hospital in Mumbai offers coordinated hospital care with major focus on Oncologist Surgery In Mumbai and Cancer Treatment Center. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089768 97203",
+    "alternatePhone": "",
+    "website": "https://ssohospitals.com/",
+    "address": "Silver Point, 7th Floor, Specialty Surgical Oncology Hospital and Research Centre, Lal Bahadur Shastri Marg, Kasturi Park, Maneklal Estate, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400086",
+    "locality": "Ghatkopar West",
+    "landmark": "Specialty Surgical Oncology Hospital and Research Centre",
+    "emergencyContact": "089768 97203",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Mumbai",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+in+Mumbai/@19.0877128,72.902741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62e5421ac59:0xb403bfe76ddca43e!8m2!3d19.0877128!4d72.902741!16s%2Fg%2F11c5898x_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSO+Cancer+Hospital+%7C+Best+Cancer+Hospital+in+Mumbai/@19.0877128,72.902741,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c62e5421ac59:0xb403bfe76ddca43e!8m2!3d19.0877128!4d72.902741!16s%2Fg%2F11c5898x_z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0877128,
+      "lng": 72.902741,
+      "label": "SSO Cancer Hospital | Best Cancer Hospital in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunshine-fertility-and-ivf-center-vikhroli-mumbai",
+    "name": "Sunshine Fertility & IVF Center (Vikhroli)",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, Sunshine Fertility & IVF Center (Vikhroli) brings together specialists for IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072986 66555",
+    "alternatePhone": "",
+    "website": "http://sunshineivf.com/",
+    "address": "Group VII, A Unit of Atul-Lok Hospital, 139/2447, opposite Ambedkar Hospital, Tagore Nagar, Vikhroli East, Mumbai, Maharashtra 400083",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400083",
+    "locality": "Vikhroli East",
+    "landmark": "opposite Ambedkar Hospital, Tagore Nagar, Vikhroli East, Mumbai, Maharashtra 400083",
+    "emergencyContact": "072986 66555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sunshine+Fertility+%26+IVF+Center+(Vikhroli)/@19.1190719,72.9343293,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7fedb640689:0xdfe7dd500eba8515!8m2!3d19.1190719!4d72.9343293!16s%2Fg%2F11h7rr1srh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunshine+Fertility+%26+IVF+Center+(Vikhroli)/@19.1190719,72.9343293,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7fedb640689:0xdfe7dd500eba8515!8m2!3d19.1190719!4d72.9343293!16s%2Fg%2F11h7rr1srh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1190719,
+      "lng": 72.9343293,
+      "label": "Sunshine Fertility & IVF Center (Vikhroli)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swiss-dental-clinic-mumbai",
+    "name": "Swiss Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Swiss Dental Clinic for its strength in Oral Surgery In Mumbai. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080971 68966",
+    "alternatePhone": "",
+    "website": "https://swissdentalaesthetics.com/",
+    "address": "101, First Floor, Silver Pearl Building, Waterfield Road, opp. China Gate Restaurant, Bandra West, Mumbai, Maharashtra 400050",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400050",
+    "locality": "Bandra West",
+    "landmark": "Silver Pearl Building",
+    "emergencyContact": "080971 68966",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Swiss+Dental+Clinic/@19.061992,72.8347003,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c96856685877:0xb9ecc8174666b45d!8m2!3d19.061992!4d72.8347003!16s%2Fg%2F11lpxdxgdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swiss+Dental+Clinic/@19.061992,72.8347003,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c96856685877:0xb9ecc8174666b45d!8m2!3d19.061992!4d72.8347003!16s%2Fg%2F11lpxdxgdf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.061992,
+      "lng": 72.8347003,
+      "label": "Swiss Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "synergy-dental-clinic-mumbai-mumbai",
+    "name": "Synergy Dental Clinic (Mumbai)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Synergy Dental Clinic (Mumbai) is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098202 20095",
+    "alternatePhone": "",
+    "website": "https://synergydentalclinic.co.in/",
+    "address": "1st Floor, Residency, Ganjawala Ln, opp. Punjab National Bank, beside Bharat Petrol Pump, Pai Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400092",
+    "locality": "Borivali West",
+    "landmark": "beside Bharat Petrol Pump, Pai Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "emergencyContact": "098202 20095",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Synergy+Dental+Clinic+(Mumbai)/@19.233684,72.8566209,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d9927de659:0xf93bef8c358ca123!8m2!3d19.233684!4d72.8566209!16s%2Fg%2F1pp2txwy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Synergy+Dental+Clinic+(Mumbai)/@19.233684,72.8566209,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b0d9927de659:0xf93bef8c358ca123!8m2!3d19.233684!4d72.8566209!16s%2Fg%2F1pp2txwy2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.233684,
+      "lng": 72.8566209,
+      "label": "Synergy Dental Clinic (Mumbai)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-curve-dental-solutions-mumbai",
+    "name": "The Curve Dental Solutions",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Curve Dental Solutions is a prominent dental clinic in Mumbai, known for structured tertiary care across Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091361 54925",
+    "alternatePhone": "",
+    "website": "https://thecurvedentalsolutions.com/",
+    "address": "B-126, Laxmi Business park, Laxmi Industrial estate Sab TV lane, Off, New Link Rd, Andheri West, Mumbai, Maharashtra 400053",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053",
+    "locality": "Andheri West",
+    "landmark": "Laxmi Industrial estate Sab TV lane",
+    "emergencyContact": "091361 54925",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Curve+Dental+Solutions/@19.1362137,72.8302667,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7dedc37a65b:0x3c2cfd541435674a!8m2!3d19.1362137!4d72.8302667!16s%2Fg%2F11nww2j8_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Curve+Dental+Solutions/@19.1362137,72.8302667,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7dedc37a65b:0x3c2cfd541435674a!8m2!3d19.1362137!4d72.8302667!16s%2Fg%2F11nww2j8_5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1362137,
+      "lng": 72.8302667,
+      "label": "The Curve Dental Solutions",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-hair-and-shape-clinic-mumbai",
+    "name": "The Hair And Shape Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Hair And Shape Clinic is a prominent plastic surgery clinic in Mumbai, known for structured tertiary care across Plastic Surgery In Mumbai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079000 35194",
+    "alternatePhone": "",
+    "website": "http://www.hairandshape.com/",
+    "address": "2nd Floor, mithchowky signal, Lotus Link Square, 201, building, New Link Rd, Malad West, Mumbai, Maharashtra 400064",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400064",
+    "locality": "Malad West",
+    "landmark": "Lotus Link Square",
+    "emergencyContact": "079000 35194",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Hair+And+Shape+Clinic/@19.1953621,72.8333618,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6ea046bb8c7:0xc6de8082195cfd44!8m2!3d19.1953621!4d72.8333618!16s%2Fg%2F11gfh1nl75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Hair+And+Shape+Clinic/@19.1953621,72.8333618,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b6ea046bb8c7:0xc6de8082195cfd44!8m2!3d19.1953621!4d72.8333618!16s%2Fg%2F11gfh1nl75?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.1953621,
+      "lng": 72.8333618,
+      "label": "The Hair And Shape Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-heartree-clinique-mumbai",
+    "name": "The heartree clinique",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Mumbai, The heartree clinique brings together specialists for Heart Surgery In Mumbai and Cardiac Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098200 37633",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Panchshil Plaza, 619 B Wing, N S Patkar Marg, Gamdevi, Mumbai, Maharashtra 400007",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400007",
+    "locality": "Gamdevi",
+    "landmark": "N S Patkar Marg",
+    "emergencyContact": "098200 37633",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/The+heartree+clinique/@18.9577142,72.812074,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0e9d6db47d:0x391cc19453609136!8m2!3d18.9577142!4d72.812074!16s%2Fg%2F11c6vtcb45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+heartree+clinique/@18.9577142,72.812074,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce0e9d6db47d:0x391cc19453609136!8m2!3d18.9577142!4d72.812074!16s%2Fg%2F11c6vtcb45?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9577142,
+      "lng": 72.812074,
+      "label": "The heartree clinique",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-smile-hub-dentist-in-kandivali-west-dental-implants-braces-invisalign-teeth-cleaning-root-canal-teeth-aligners-mumbai",
+    "name": "The Smile Hub - Dentist in Kandivali West | Dental Implants, Braces, Invisalign, Teeth Cleaning, Root Canal, Teeth Aligners",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose The Smile Hub - Dentist in Kandivali West | Dental Implants, Braces, Invisalign, Teeth Cleaning, Root Canal, Teeth Aligners for its strength in Oral Surgery In Mumbai and Dentist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093723 03602",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 4, 4, Mahatma Gandhi Rd, opposite La Sarena, Krishna Nayan Society, Patel Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400067",
+    "locality": "Kandivali West",
+    "landmark": "opposite La Sarena, Krishna Nayan Society, Patel Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "emergencyContact": "093723 03602",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/The+Smile+Hub+-+Dentist+in+Kandivali+West+%7C+Dental+Implants,+Braces,+Invisalign,+Teeth+Cleaning,+Root+Canal,+Teeth+Aligners/@19.2063157,72.8439518,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7c78a09175d:0x552907b68b1d4de2!8m2!3d19.2063157!4d72.8439518!16s%2Fg%2F11j20cj25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Smile+Hub+-+Dentist+in+Kandivali+West+%7C+Dental+Implants,+Braces,+Invisalign,+Teeth+Cleaning,+Root+Canal,+Teeth+Aligners/@19.2063157,72.8439518,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7c78a09175d:0x552907b68b1d4de2!8m2!3d19.2063157!4d72.8439518!16s%2Fg%2F11j20cj25z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2063157,
+      "lng": 72.8439518,
+      "label": "The Smile Hub - Dentist in Kandivali West | Dental Implants, Braces, Invisalign, Teeth Cleaning, Root Canal, Teeth Aligners",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tmj-arthroscopy-surgery-clinic-mumbai",
+    "name": "TMJ Arthroscopy Surgery clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, TMJ Arthroscopy Surgery clinic offers coordinated hospital care with major focus on Oral Surgery In Mumbai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078757 03924",
+    "alternatePhone": "",
+    "website": "http://www.maxillofacialsurgeryindia.com/",
+    "address": "Shop No. 4, Rose apartment, Hanuman Mandir Rd, Marol Village Rd, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400059",
+    "locality": "Andheri East",
+    "landmark": "Hanuman Mandir Rd",
+    "emergencyContact": "078757 03924",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/TMJ+Arthroscopy+Surgery+clinic/@19.113341,72.8779759,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c815d3159431:0xa69f892892ad848b!8m2!3d19.113341!4d72.8779759!16s%2Fg%2F1ptyqpcjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TMJ+Arthroscopy+Surgery+clinic/@19.113341,72.8779759,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c815d3159431:0xa69f892892ad848b!8m2!3d19.113341!4d72.8779759!16s%2Fg%2F1ptyqpcjy?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.113341,
+      "lng": 72.8779759,
+      "label": "TMJ Arthroscopy Surgery clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-hub-dental-clinic-kemps-corner-best-dentist-in-south-mumbai-ceramic-bridges-dental-implants-mumbai",
+    "name": "Tooth Hub Dental Clinic (Kemps Corner) | Best Dentist in South Mumbai | Ceramic Bridges | Dental Implants",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tooth Hub Dental Clinic (Kemps Corner) | Best Dentist in South Mumbai | Ceramic Bridges | Dental Implants has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Oral Surgery In Mumbai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091671 25830",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ground floor, hospital, The New Surya Kiran Society, CHS, behind Cumbala Hill, Babulnath, Kemps Corner, Tardeo, Mumbai, Maharashtra 400026",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400026",
+    "locality": "Tardeo",
+    "landmark": "The New Surya Kiran Society",
+    "emergencyContact": "091671 25830",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Hub+Dental+Clinic+(Kemps+Corner)+%7C+Best+Dentist+in+South+Mumbai+%7C+Ceramic+Bridges+%7C+Dental+Implants/@18.9631599,72.8086423,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf83d314b117:0x8fc4b53b333cd32f!8m2!3d18.9631599!4d72.8086423!16s%2Fg%2F11j4mw4x6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Hub+Dental+Clinic+(Kemps+Corner)+%7C+Best+Dentist+in+South+Mumbai+%7C+Ceramic+Bridges+%7C+Dental+Implants/@18.9631599,72.8086423,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf83d314b117:0x8fc4b53b333cd32f!8m2!3d18.9631599!4d72.8086423!16s%2Fg%2F11j4mw4x6g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9631599,
+      "lng": 72.8086423,
+      "label": "Tooth Hub Dental Clinic (Kemps Corner) | Best Dentist in South Mumbai | Ceramic Bridges | Dental Implants",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "top-heart-specialist-in-mumbai-awarded-by-outlook-health-mumbai",
+    "name": "Top Heart Specialist in Mumbai Awarded by Outlook Health.",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Top Heart Specialist in Mumbai Awarded by Outlook Health. has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Heart Surgery In Mumbai and Cardiac Care. Operational strengths including Google rating 3.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098201 60600",
+    "alternatePhone": "",
+    "website": "https://www.drpavankumar.in/",
+    "address": "Bus Depot, BSES MG Hospital S. V. Road, Lohan Colony Opp. Andheri, Andheri (W, Mumbai, Maharashtra 400058",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400058",
+    "locality": "Andheri (W",
+    "landmark": "Lohan Colony Opp. Andheri",
+    "emergencyContact": "098201 60600",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Mumbai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Top+Heart+Specialist+in+Mumbai+Awarded+by+Outlook+Health./@19.119448,72.84502,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b74d9e7b07db:0xb8b9f2cc4efe800d!8m2!3d19.119448!4d72.84502!16s%2Fg%2F11j95mndyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Top+Heart+Specialist+in+Mumbai+Awarded+by+Outlook+Health./@19.119448,72.84502,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b74d9e7b07db:0xb8b9f2cc4efe800d!8m2!3d19.119448!4d72.84502!16s%2Fg%2F11j95mndyg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.119448,
+      "lng": 72.84502,
+      "label": "Top Heart Specialist in Mumbai Awarded by Outlook Health.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "top-hospital-for-hepatology-in-mumbai-gleneagles-hospitals-mumbai",
+    "name": "Top Hospital for Hepatology in Mumbai | Gleneagles Hospitals",
+    "type": "Hepatologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hepatologist in Mumbai, Top Hospital for Hepatology in Mumbai | Gleneagles Hospitals delivers integrated care across Liver Transplant Surgery In Mumbai and Hepatologist. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092402 61611",
+    "alternatePhone": "",
+    "website": "https://www.gleneagleshospitals.co.in/mumbai/speciality/hepatology",
+    "address": "OPD - 64, Gleneagles Hospital, Plot No: 35, Parel East, Parel, Mumbai, Maharashtra 400012",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400012",
+    "locality": "Parel",
+    "landmark": "Plot No: 35",
+    "emergencyContact": "092402 61611",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Mumbai",
+      "Hepatologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Top+Hospital+for+Hepatology+in+Mumbai+%7C+Gleneagles+Hospitals/@18.9996385,72.8406891,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfb6a2549029:0x61c57b400a4a95b4!8m2!3d18.9996385!4d72.8406891!16s%2Fg%2F11ytfzjbrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Top+Hospital+for+Hepatology+in+Mumbai+%7C+Gleneagles+Hospitals/@18.9996385,72.8406891,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cfb6a2549029:0x61c57b400a4a95b4!8m2!3d18.9996385!4d72.8406891!16s%2Fg%2F11ytfzjbrf?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9996385,
+      "lng": 72.8406891,
+      "label": "Top Hospital for Hepatology in Mumbai | Gleneagles Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tummy-tuck-surgery-centre-tummy-tuck-cost-in-mumbai-india-abdominoplasty-bbl-surgery-liposuction-cost-in-mumbai-mumbai",
+    "name": "TUMMY TUCK SURGERY CENTRE - Tummy Tuck Cost in Mumbai, India | Abdominoplasty, BBL Surgery, Liposuction Cost in Mumbai",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Mumbai, TUMMY TUCK SURGERY CENTRE - Tummy Tuck Cost in Mumbai, India | Abdominoplasty, BBL Surgery, Liposuction Cost in Mumbai delivers integrated care across Plastic Surgery In Mumbai. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099307 00939",
+    "alternatePhone": "",
+    "website": "https://tummy-tuck.in/",
+    "address": "403, SkinZone Clinic, Vini Elegance, LT Rd, above Tanishq Jewellers, Mhada Colony, Borivali West, Mumbai, Maharashtra 400091",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400091",
+    "locality": "Borivali West",
+    "landmark": "Vini Elegance",
+    "emergencyContact": "099307 00939",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/TUMMY+TUCK+SURGERY+CENTRE+-+Tummy+Tuck+Cost+in+Mumbai,+India+%7C+Abdominoplasty,+BBL+Surgery,+Liposuction+Cost+in+Mumbai/@19.2303852,72.8393453,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1f90ac3253d:0x6ce0c333f560f92f!8m2!3d19.2303852!4d72.8393453!16s%2Fg%2F11q4gd2l55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TUMMY+TUCK+SURGERY+CENTRE+-+Tummy+Tuck+Cost+in+Mumbai,+India+%7C+Abdominoplasty,+BBL+Surgery,+Liposuction+Cost+in+Mumbai/@19.2303852,72.8393453,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b1f90ac3253d:0x6ce0c333f560f92f!8m2!3d19.2303852!4d72.8393453!16s%2Fg%2F11q4gd2l55?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2303852,
+      "lng": 72.8393453,
+      "label": "TUMMY TUCK SURGERY CENTRE - Tummy Tuck Cost in Mumbai, India | Abdominoplasty, BBL Surgery, Liposuction Cost in Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uma-fertility-ivf-center-best-ivf-center-in-kalyan-mumbai-fertility-clinic-in-kalyan-fertility-specialist-in-kalyan-kalyan",
+    "name": "Uma Fertility IVF Center - Best IVF Center In Kalyan, Mumbai | Fertility Clinic In Kalyan | Fertility Specialist In Kalyan",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Uma Fertility IVF Center - Best IVF Center In Kalyan, Mumbai | Fertility Clinic In Kalyan | Fertility Specialist In Kalyan has built a strong reputation in Kalyan for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099308 94895",
+    "alternatePhone": "",
+    "website": "http://www.umafertility.com/",
+    "address": "Chikan Ghar Road, Opposite Bhoir Wadi Bus Stop Above Pizza Hut SOMAN Sun Citi Second and third floor, Kalyan West, Kalyan, Maharashtra 421301",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "pincode": "421301",
+    "locality": "Kalyan West",
+    "landmark": "Opposite Bhoir Wadi Bus Stop Above Pizza Hut SOMAN Sun Citi Second and third floor, Kalyan West, Kalyan, Maharashtra 421301",
+    "emergencyContact": "099308 94895",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Uma+Fertility+IVF+Center+-+Best+IVF+Center+In+Kalyan,+Mumbai+%7C+Fertility+Clinic+In+Kalyan+%7C+Fertility+Specialist+In+Kalyan/@19.248877,73.14283,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7968270e1e17f:0xcebc72ba289fb8be!8m2!3d19.248877!4d73.14283!16s%2Fg%2F124szjsym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Uma+Fertility+IVF+Center+-+Best+IVF+Center+In+Kalyan,+Mumbai+%7C+Fertility+Clinic+In+Kalyan+%7C+Fertility+Specialist+In+Kalyan/@19.248877,73.14283,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7968270e1e17f:0xcebc72ba289fb8be!8m2!3d19.248877!4d73.14283!16s%2Fg%2F124szjsym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.248877,
+      "lng": 73.14283,
+      "label": "Uma Fertility IVF Center - Best IVF Center In Kalyan, Mumbai | Fertility Clinic In Kalyan | Fertility Specialist In Kalyan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vaishnavi-dental-oral-and-maxillofacial-surgery-clinic-mumbai",
+    "name": "VAISHNAVI DENTAL, ORAL AND MAXILLOFACIAL SURGERY CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Mumbai, VAISHNAVI DENTAL, ORAL AND MAXILLOFACIAL SURGERY CLINIC offers coordinated hospital care with major focus on Oral Surgery In Mumbai and Maxillofacial Surgery. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099300 86275",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 2&3, Poornima C.H.S. Ltd, Shahid Bhagat Singh Rd, Azad Nagar, Colaba, Mumbai, Maharashtra 400005",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400005",
+    "locality": "Colaba",
+    "landmark": "Shahid Bhagat Singh Rd",
+    "emergencyContact": "099300 86275",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Mumbai",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/VAISHNAVI+DENTAL,+ORAL+AND+MAXILLOFACIAL+SURGERY+CLINIC/@18.9162445,72.8266872,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d196a79a69a9:0xf28e951d0c9b7e4d!8m2!3d18.9162445!4d72.8266872!16s%2Fg%2F11svch04mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VAISHNAVI+DENTAL,+ORAL+AND+MAXILLOFACIAL+SURGERY+CLINIC/@18.9162445,72.8266872,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7d196a79a69a9:0xf28e951d0c9b7e4d!8m2!3d18.9162445!4d72.8266872!16s%2Fg%2F11svch04mh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9162445,
+      "lng": 72.8266872,
+      "label": "VAISHNAVI DENTAL, ORAL AND MAXILLOFACIAL SURGERY CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vikara-cosmetic-surgery-skin-and-hair-clinic-mumbai",
+    "name": "VIKARA Cosmetic Surgery, Skin and Hair Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "VIKARA Cosmetic Surgery, Skin and Hair Clinic has built a strong reputation in Mumbai for multidisciplinary treatment pathways covering Cosmetic Surgery In Mumbai. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085916 33325",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Coral Classic Commercial Complex, 605, Chembur, Mumbai, Maharashtra 400071",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400071",
+    "locality": "Chembur",
+    "landmark": "Chembur",
+    "emergencyContact": "085916 33325",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Mumbai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/VIKARA+Cosmetic+Surgery,+Skin+and+Hair+Clinic/@19.0597377,72.8990146,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c74002efdb9f:0x24ae74086d9a80df!8m2!3d19.0597377!4d72.8990146!16s%2Fg%2F11y0d_8835?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VIKARA+Cosmetic+Surgery,+Skin+and+Hair+Clinic/@19.0597377,72.8990146,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c74002efdb9f:0x24ae74086d9a80df!8m2!3d19.0597377!4d72.8990146!16s%2Fg%2F11y0d_8835?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0597377,
+      "lng": 72.8990146,
+      "label": "VIKARA Cosmetic Surgery, Skin and Hair Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vitrovansh-ivf-centre-mumbai",
+    "name": "VitroVansh IVF Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "VitroVansh IVF Centre is a prominent hospital in Mumbai, known for structured tertiary care across IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087793 95530",
+    "alternatePhone": "",
+    "website": "http://vitrovansh.com/",
+    "address": "A-301, A-302, Jay-Vijay Building, Laxminarayan Ln, Andheri - Ghatkopar Link Rd, near Uday talkies, CGS Colony, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400086",
+    "locality": "Ghatkopar West",
+    "landmark": "near Uday talkies, CGS Colony, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "emergencyContact": "087793 95530",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VitroVansh+IVF+Centre/@19.0876118,72.9092999,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d0ca07b055:0x39327a4c8736e5cb!8m2!3d19.0876118!4d72.9092999!16s%2Fg%2F11h6tk5dmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VitroVansh+IVF+Centre/@19.0876118,72.9092999,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c7d0ca07b055:0x39327a4c8736e5cb!8m2!3d19.0876118!4d72.9092999!16s%2Fg%2F11h6tk5dmc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0876118,
+      "lng": 72.9092999,
+      "label": "VitroVansh IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "womb-ivf-and-fertility-center-in-kandivali-mumbai-mumbai",
+    "name": "Womb IVF & Fertility Center in Kandivali, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Mumbai, Womb IVF & Fertility Center in Kandivali, Mumbai delivers integrated care across IVF In Mumbai and Fertility Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "085913 56186",
+    "alternatePhone": "",
+    "website": "https://www.wombivf.com/",
+    "address": "NEW GOKUL HEAVEN CO-OPERATIVE HOUSING SOCIETY NEW GOKUL PLAZA CHS BLOCK-D, Asha Nagar Rd, Kandivali, Saraf Chaudhary Nagar, Kandivali East, Mumbai, Maharashtra 400101",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400101",
+    "locality": "Kandivali East",
+    "landmark": "Kandivali",
+    "emergencyContact": "085913 56186",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Womb+IVF+%26+Fertility+Center+in+Kandivali,+Mumbai/@19.2101837,72.865925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7d129494801:0xd19fa9ed924a3c23!8m2!3d19.2101837!4d72.865925!16s%2Fg%2F11gj0_93xv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Womb+IVF+%26+Fertility+Center+in+Kandivali,+Mumbai/@19.2101837,72.865925,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b7d129494801:0xd19fa9ed924a3c23!8m2!3d19.2101837!4d72.865925!16s%2Fg%2F11gj0_93xv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2101837,
+      "lng": 72.865925,
+      "label": "Womb IVF & Fertility Center in Kandivali, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-ivf-fertility-centre-best-ivf-centre-in-charni-road-mumbai-mumbai",
+    "name": "Yashoda IVF Fertility Centre | Best IVF Centre In Charni Road, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Yashoda IVF Fertility Centre | Best IVF Centre In Charni Road, Mumbai for its strength in IVF In Mumbai and Fertility Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "075758 88333",
+    "alternatePhone": "",
+    "website": "https://yashodaivf.com/",
+    "address": "Pathare Kshatriya, Karyalaya, Building, Maharshi Karve Rd, Charni Road, Mangal Wadi, Mumbai, Maharashtra 400021",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400021",
+    "locality": "Mangal Wadi",
+    "landmark": "Building",
+    "emergencyContact": "075758 88333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+In+Charni+Road,+Mumbai/@18.9516707,72.8193458,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf6ec1db5453:0xdf9f7211c0baac00!8m2!3d18.9516707!4d72.8193458!16s%2Fg%2F11w3_h2t2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+In+Charni+Road,+Mumbai/@18.9516707,72.8193458,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf6ec1db5453:0xdf9f7211c0baac00!8m2!3d18.9516707!4d72.8193458!16s%2Fg%2F11w3_h2t2h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9516707,
+      "lng": 72.8193458,
+      "label": "Yashoda IVF Fertility Centre | Best IVF Centre In Charni Road, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-ivf-fertility-centre-best-ivf-centre-in-parel-east-mumbai-mumbai",
+    "name": "Yashoda IVF Fertility Centre | Best IVF Centre in Parel East, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Mumbai often choose Yashoda IVF Fertility Centre | Best IVF Centre in Parel East, Mumbai for its strength in IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086554 42184",
+    "alternatePhone": "",
+    "website": "https://yashodaivf.com/",
+    "address": "Global HospitL, ANNEXE BUILDING, 6th Floor , Office 6A ,Trust House, Dr Ernest Borges Rd, Parel East, Mumbai, Maharashtra 400012",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400012",
+    "locality": "Parel East",
+    "landmark": "6th Floor",
+    "emergencyContact": "086554 42184",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+in+Parel+East,+Mumbai/@18.9995687,72.8402139,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf322bef3df9:0x88be56fc6f427fe3!8m2!3d18.9995687!4d72.8402139!16s%2Fg%2F11xs9tvzym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+in+Parel+East,+Mumbai/@18.9995687,72.8402139,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7cf322bef3df9:0x88be56fc6f427fe3!8m2!3d18.9995687!4d72.8402139!16s%2Fg%2F11xs9tvzym?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 18.9995687,
+      "lng": 72.8402139,
+      "label": "Yashoda IVF Fertility Centre | Best IVF Centre in Parel East, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-ivf-fertility-centre-best-ivf-centre-in-thane-mumbai-thane",
+    "name": "Yashoda IVF Fertility Centre | Best IVF Centre In Thane, Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Thane often choose Yashoda IVF Fertility Centre | Best IVF Centre In Thane, Mumbai for its strength in IVF In Mumbai and Fertility Care. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086554 42183",
+    "alternatePhone": "",
+    "website": "https://yashodaivf.com/",
+    "address": "Enter from Gate no. 2, 2nd Floor, Shop no. 8 DOSTI IMPERIA, Ghodbunder Rd, opposite R Mall near Chitalsar Manapada, Thane, Maharashtra 400601",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pincode": "400601",
+    "locality": "opposite R Mall near Chitalsar Manapada",
+    "landmark": "near Chitalsar Manapada, Thane, Maharashtra 400601",
+    "emergencyContact": "086554 42183",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+In+Thane,+Mumbai/@19.2320277,72.9761192,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb2a660536b1:0x86c6ef6565b9c4e6!8m2!3d19.2320277!4d72.9761192!16s%2Fg%2F11w1rd38jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+In+Thane,+Mumbai/@19.2320277,72.9761192,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7bb2a660536b1:0x86c6ef6565b9c4e6!8m2!3d19.2320277!4d72.9761192!16s%2Fg%2F11w1rd38jn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2320277,
+      "lng": 72.9761192,
+      "label": "Yashoda IVF Fertility Centre | Best IVF Centre In Thane, Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-ivf-fertility-centre-best-ivf-centre-in-vashi-navi-mumbai-navi-mumbai",
+    "name": "Yashoda IVF Fertility Centre | Best IVF Centre in Vashi, Navi Mumbai",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yashoda IVF Fertility Centre | Best IVF Centre in Vashi, Navi Mumbai has built a strong reputation in Navi Mumbai for multidisciplinary treatment pathways covering IVF In Mumbai and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086554 42182",
+    "alternatePhone": "",
+    "website": "https://yashodaivf.com/",
+    "address": "D-4, Aditi Apartment, Yashoda Fertility And IVF centre, F-02, above Shabri Hotel, Sector 9, Vashi, Navi Mumbai, Maharashtra 400703",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400703",
+    "locality": "Vashi",
+    "landmark": "Yashoda Fertility And IVF centre",
+    "emergencyContact": "086554 42182",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Mumbai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+in+Vashi,+Navi+Mumbai/@19.0806132,72.9985468,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c102c37dead3:0x6946afa70097b275!8m2!3d19.0806132!4d72.9985468!16s%2Fg%2F11y28_80ky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+IVF+Fertility+Centre+%7C+Best+IVF+Centre+in+Vashi,+Navi+Mumbai/@19.0806132,72.9985468,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7c102c37dead3:0x6946afa70097b275!8m2!3d19.0806132!4d72.9985468!16s%2Fg%2F11y28_80ky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.0806132,
+      "lng": 72.9985468,
+      "label": "Yashoda IVF Fertility Centre | Best IVF Centre in Vashi, Navi Mumbai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brain-spine-asha-hospital-mumbai",
+    "name": "✅BRAIN SPINE ASHA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Mumbai, ✅BRAIN SPINE ASHA HOSPITAL delivers integrated care across Brain Surgery In Mumbai, Neurosciences, and Spine Care. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088288 60000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mangalam Dairy Lane, Akurli Cross Rd Number 2, near Kandivali Station, opposite Saibaba Mandir, Kandivali, Aarya Chanakya Nagar, Kandivali East, Mumbai, Maharashtra 400101",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400101",
+    "locality": "Kandivali East",
+    "landmark": "near Kandivali Station, opposite Saibaba Mandir, Kandivali, Aarya Chanakya Nagar, Kandivali East, Mumbai, Maharashtra 400101",
+    "emergencyContact": "088288 60000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Mumbai",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85BRAIN+SPINE+ASHA+HOSPITAL/@19.2036749,72.8532608,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b721657c55d1:0x262dd1d73d80c081!8m2!3d19.2036749!4d72.8532608!16s%2Fg%2F1vl9pz74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85BRAIN+SPINE+ASHA+HOSPITAL/@19.2036749,72.8532608,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b721657c55d1:0x262dd1d73d80c081!8m2!3d19.2036749!4d72.8532608!16s%2Fg%2F1vl9pz74?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxNy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 19.2036749,
+      "lng": 72.8532608,
+      "label": "✅BRAIN SPINE ASHA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

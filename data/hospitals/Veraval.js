@@ -1,0 +1,5174 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aarav-clinic-veraval",
+    "name": "Aarav clinic",
+    "type": "General Practitioner",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general practitioner in Veraval, Aarav clinic delivers integrated care across General Surgery In Veraval and General Practitioner. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097374 86186",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shahid chowk, 80 Feet Rd, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "80 Feet Rd",
+    "landmark": "Veraval",
+    "emergencyContact": "097374 86186",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Veraval",
+      "General Practitioner"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Aarav+clinic/data=!4m7!3m6!1s0x3bfd324eb544b3ff:0xdca97ba0e8958e88!8m2!3d20.9175568!4d70.3660329!16s%2Fg%2F11cr_hd3ln!19sChIJ_7NEtU4y_TsRiI6V6KB7qdw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarav+clinic/data=!4m7!3m6!1s0x3bfd324eb544b3ff:0xdca97ba0e8958e88!8m2!3d20.9175568!4d70.3660329!16s%2Fg%2F11cr_hd3ln!19sChIJ_7NEtU4y_TsRiI6V6KB7qdw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9175568,
+      "lng": 70.3660329,
+      "label": "Aarav clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aarya-ayurved-clinic-veraval",
+    "name": "Aarya Ayurved Clinic",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Aarya Ayurved Clinic brings together specialists for Hip Replacement Surgery In Veraval. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083203 48544",
+    "alternatePhone": "",
+    "website": "",
+    "address": "behind hotel Kaveri, below bank of baroda, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Rayon Housing Society",
+    "emergencyContact": "083203 48544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Aarya+Ayurved+Clinic/data=!4m7!3m6!1s0x3bfd3313619bb915:0xa62ab56a271a734a!8m2!3d20.9119826!4d70.363434!16s%2Fg%2F11rxxspjk9!19sChIJFbmbYRMz_TsRSnMaJ2q1KqY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aarya+Ayurved+Clinic/data=!4m7!3m6!1s0x3bfd3313619bb915:0xa62ab56a271a734a!8m2!3d20.9119826!4d70.363434!16s%2Fg%2F11rxxspjk9!19sChIJFbmbYRMz_TsRSnMaJ2q1KqY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9119826,
+      "lng": 70.363434,
+      "label": "Aarya Ayurved Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aditya-birla-hospital-veraval",
+    "name": "Aditya Birla Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Aditya Birla Hospital delivers integrated care across Liver Transplant Surgery In Veraval. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0287 624 0015",
+    "alternatePhone": "",
+    "website": "",
+    "address": "opp. Hanuman Temple, Rayon Housing Society, Jobanpura, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Jobanpura",
+    "landmark": "Jobanpura",
+    "emergencyContact": "0287 624 0015",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Aditya+Birla+Hospital/@20.9139968,70.3660728,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd324f523bef1d:0x69fb8b4f07d4dddb!8m2!3d20.9139968!4d70.3660728!16s%2Fg%2F11csplfw9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aditya+Birla+Hospital/@20.9139968,70.3660728,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd324f523bef1d:0x69fb8b4f07d4dddb!8m2!3d20.9139968!4d70.3660728!16s%2Fg%2F11csplfw9h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9139968,
+      "lng": 70.3660728,
+      "label": "Aditya Birla Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alif-hospital-veraval",
+    "name": "Alif Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Alif Hospital delivers integrated care across Liver Transplant Surgery In Veraval. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Veraval - Govindapara - Talala Rd, Viraval Village, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Viraval Village",
+    "landmark": "Veraval",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Alif+Hospital/@20.9080285,70.3714338,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3370840e6155:0x556a32ee0989eab1!8m2!3d20.9080285!4d70.3714338!16s%2Fg%2F11llqwxk29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alif+Hospital/@20.9080285,70.3714338,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3370840e6155:0x556a32ee0989eab1!8m2!3d20.9080285!4d70.3714338!16s%2Fg%2F11llqwxk29?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9080285,
+      "lng": 70.3714338,
+      "label": "Alif Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alvura-cosmetic-clinic-plastic-surgery-clinic-liposuction-cosmetic-surgery-ahmedabad-ahmedabad",
+    "name": "Alvura Cosmetic Clinic - Plastic Surgery Clinic, Liposuction, Cosmetic Surgery Ahmedabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Ahmedabad, Alvura Cosmetic Clinic - Plastic Surgery Clinic, Liposuction, Cosmetic Surgery Ahmedabad offers coordinated hospital care with major focus on Plastic Surgery In Veraval. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "care@alvura.in",
+    "phone": "073775 00000",
+    "alternatePhone": "",
+    "website": "https://alvura.in/",
+    "address": "FF-1, Maple Trade Centre, Sun N Step Club Road, Surdhara Cir, Thaltej, Ahmedabad, Gujarat 380054",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "380054",
+    "locality": "Thaltej",
+    "landmark": "Sun N Step Club Road",
+    "emergencyContact": "073775 00000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/alvura.in",
+    "twitter": "https://twitter.com/alvura_in",
+    "instagram": "https://www.instagram.com/alvura.in/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@AlvuraClinic",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb!19sChIJuY9OLr6FXjkR9D5gF58DkgY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alvura+Cosmetic+Clinic+-+Plastic+Surgery+Clinic,+Liposuction,+Cosmetic+Surgery+Ahmedabad/data=!4m7!3m6!1s0x395e85be2e4e8fb9:0x692039f17603ef4!8m2!3d23.0571335!4d72.5288261!16s%2Fg%2F11hyn8xdrb!19sChIJuY9OLr6FXjkR9D5gF58DkgY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 23.0571335,
+      "lng": 72.5288261,
+      "label": "Alvura Cosmetic Clinic - Plastic Surgery Clinic, Liposuction, Cosmetic Surgery Ahmedabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amardeep-hospital-veraval",
+    "name": "Amardeep Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Amardeep Hospital for its strength in Liver Transplant Surgery In Veraval. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W966+6XP Pooja Complex, 5847, Rajendra Bhuvan Road, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rajendra Bhuvan Road",
+    "landmark": "Rajendra Bhuvan Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Amardeep+Hospital/@20.9106405,70.3624827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3247ae84b889:0xd4a5d9e8530ee74a!8m2!3d20.9106405!4d70.3624827!16s%2Fg%2F1hm526hhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amardeep+Hospital/@20.9106405,70.3624827,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3247ae84b889:0xd4a5d9e8530ee74a!8m2!3d20.9106405!4d70.3624827!16s%2Fg%2F1hm526hhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9106405,
+      "lng": 70.3624827,
+      "label": "Amardeep Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aradhana-hospital-for-women-and-child-veraval",
+    "name": "Aradhana Hospital--For Women & Child",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Aradhana Hospital--For Women & Child delivers integrated care across Oncologist Surgery In Veraval and Women and Child Care. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094261 21000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Radha Krishna, Street No.8, Prakash Complex, Tapeshwar Mandir Ln, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Tapeshwar Mandir Ln",
+    "landmark": "Prakash Complex",
+    "emergencyContact": "094261 21000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Veraval",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Aradhana+Hospital--For+Women+%26+Child/data=!4m7!3m6!1s0x3bfd32444a7fec4f:0x60f83acf739ba4e3!8m2!3d20.910444!4d70.3673375!16s%2Fg%2F1hm3d5z_2!19sChIJT-x_SkQy_TsR46Sbc886-GA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Aradhana+Hospital--For+Women+%26+Child/data=!4m7!3m6!1s0x3bfd32444a7fec4f:0x60f83acf739ba4e3!8m2!3d20.910444!4d70.3673375!16s%2Fg%2F1hm3d5z_2!19sChIJT-x_SkQy_TsR46Sbc886-GA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.910444,
+      "lng": 70.3673375,
+      "label": "Aradhana Hospital--For Women & Child",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "barad-surgical-hospital-and-icu-veraval",
+    "name": "Barad Surgical Hospital & ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Veraval, Barad Surgical Hospital & ICU offers coordinated hospital care with major focus on Liver Transplant Surgery In Veraval. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Alana na delama, khadi gram Office, Tawer Road, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Tawer Road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Barad+Surgical+Hospital+%26+ICU/data=!4m7!3m6!1s0x3bfd337eb51dd2f3:0xdcc6722d262e06ff!8m2!3d20.9109726!4d70.3645255!16s%2Fg%2F11gph1drrf!19sChIJ89IdtX4z_TsR_wYuJi1yxtw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Barad+Surgical+Hospital+%26+ICU/data=!4m7!3m6!1s0x3bfd337eb51dd2f3:0xdcc6722d262e06ff!8m2!3d20.9109726!4d70.3645255!16s%2Fg%2F11gph1drrf!19sChIJ89IdtX4z_TsR_wYuJi1yxtw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9109726,
+      "lng": 70.3645255,
+      "label": "Barad Surgical Hospital & ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "c-and-c-advanced-homoeopathic-and-cosmetic-clinic-homeopathic-clinic-laser-treatment-skin-treatment-veraval",
+    "name": "C&C Advanced Homoeopathic & cosmetic clinic/Homeopathic clinic/Laser Treatment/Skin Treatment",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "C&C Advanced Homoeopathic & cosmetic clinic/Homeopathic clinic/Laser Treatment/Skin Treatment is a prominent skin care clinic in Veraval, known for structured tertiary care across Plastic Surgery In Veraval. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "careandcurehomoeo@yahoo.co.uk",
+    "phone": "098257 82200",
+    "alternatePhone": "+91 88662 25354",
+    "website": "http://www.careandcurehomoeo.com/",
+    "address": "Kharakuva, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Kharakuva",
+    "landmark": "Gujarat 362265",
+    "emergencyContact": "+91 88662 25354",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/C%26C+Advanced+Homoeopathic+%26+cosmetic+clinic%2FHomeopathic+clinic%2FLaser+Treatment%2FSkin+Treatment/@20.9080013,70.3651369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd337708863439:0xdabe7069473ac22e!8m2!3d20.9080013!4d70.3651369!16s%2Fg%2F11h78f398l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/C%26C+Advanced+Homoeopathic+%26+cosmetic+clinic%2FHomeopathic+clinic%2FLaser+Treatment%2FSkin+Treatment/@20.9080013,70.3651369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd337708863439:0xdabe7069473ac22e!8m2!3d20.9080013!4d70.3651369!16s%2Fg%2F11h78f398l?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9080013,
+      "lng": 70.3651369,
+      "label": "C&C Advanced Homoeopathic & cosmetic clinic/Homeopathic clinic/Laser Treatment/Skin Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "civil-hospital-veraval",
+    "name": "Civil Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Civil Hospital brings together specialists for Oncologist Surgery In Veraval. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W965+GQP, Rajendra Bhuvan Road, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rajendra Bhuvan Road",
+    "landmark": "Veraval",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3bfd32478db70d13:0xb3101a446c3320cf!8m2!3d20.9113273!4d70.3594662!16s%2Fg%2F1vxfymyf!19sChIJEw23jUcy_TsRzyAzbEQaELM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Civil+Hospital/data=!4m7!3m6!1s0x3bfd32478db70d13:0xb3101a446c3320cf!8m2!3d20.9113273!4d70.3594662!16s%2Fg%2F1vxfymyf!19sChIJEw23jUcy_TsRzyAzbEQaELM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9113273,
+      "lng": 70.3594662,
+      "label": "Civil Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devi-chandan-surgical-hospital-veraval",
+    "name": "Devi Chandan Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Veraval, Devi Chandan Surgical Hospital offers coordinated hospital care with major focus on Oral Surgery In Veraval. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp, Blood Bank Rd, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Blood Bank Rd",
+    "landmark": "Veraval",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Devi+Chandan+Surgical+Hospital/@20.9120161,70.3612917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd33c9e3a0e48d:0xd5fffd5a63144017!8m2!3d20.9120161!4d70.3612917!16s%2Fg%2F11fr2y0t35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Devi+Chandan+Surgical+Hospital/@20.9120161,70.3612917,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd33c9e3a0e48d:0xd5fffd5a63144017!8m2!3d20.9120161!4d70.3612917!16s%2Fg%2F11fr2y0t35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9120161,
+      "lng": 70.3612917,
+      "label": "Devi Chandan Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dholakia-hospital-trusted-and-leading-cardiology-and-diabetology-center-veraval-somnath-veraval",
+    "name": "Dholakia Hospital - Trusted and Leading Cardiology & Diabetology Center. Veraval ,Somnath",
+    "type": "General Practitioner",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Veraval, Dholakia Hospital - Trusted and Leading Cardiology & Diabetology Center. Veraval ,Somnath offers coordinated hospital care with major focus on Spine Surgery In Veraval and General Practitioner. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098252 21120",
+    "alternatePhone": "",
+    "website": "http://www.dholakiahospital.com/",
+    "address": "St Bus Stand Rd, behind hotel kaveri, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Rayon Housing Society",
+    "emergencyContact": "098252 21120",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Veraval",
+      "General Practitioner"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dholakia+Hospital+-+Trusted+and+Leading+Cardiology+%26+Diabetology+Center.+Veraval+,Somnath/data=!4m7!3m6!1s0x3bfd3246465822e1:0x827a576b72c97e61!8m2!3d20.9114971!4d70.3639027!16s%2Fg%2F11bxfz9vb0!19sChIJ4SJYRkYy_TsRYX7JcmtXeoI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dholakia+Hospital+-+Trusted+and+Leading+Cardiology+%26+Diabetology+Center.+Veraval+,Somnath/data=!4m7!3m6!1s0x3bfd3246465822e1:0x827a576b72c97e61!8m2!3d20.9114971!4d70.3639027!16s%2Fg%2F11bxfz9vb0!19sChIJ4SJYRkYy_TsRYX7JcmtXeoI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9114971,
+      "lng": 70.3639027,
+      "label": "Dholakia Hospital - Trusted and Leading Cardiology & Diabetology Center. Veraval ,Somnath",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "divya-dental-clinic-veraval",
+    "name": "DIVYA DENTAL CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Veraval, DIVYA DENTAL CLINIC delivers integrated care across Oral Surgery In Veraval. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, Above Rajendra Soda, Tower Chowk, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Tower Chowk",
+    "landmark": "Tower Chowk",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/DIVYA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bfd3370dbc155bb:0xfe75ce5114128158!8m2!3d20.9096367!4d70.3652921!16s%2Fg%2F11sn_40j0j!19sChIJu1XB23Az_TsRWIESFFHOdf4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DIVYA+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bfd3370dbc155bb:0xfe75ce5114128158!8m2!3d20.9096367!4d70.3652921!16s%2Fg%2F11sn_40j0j!19sChIJu1XB23Az_TsRWIESFFHOdf4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9096367,
+      "lng": 70.3652921,
+      "label": "DIVYA DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "fatima-dental-and-facial-surgery-hospital-veraval",
+    "name": "Fatima Dental and Facial Surgery Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Fatima Dental and Facial Surgery Hospital brings together specialists for Oral Surgery In Veraval. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Floor, St Bus Stand Rd, opposite Khadi Bhandar, near Tower Chowk, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "near Tower Chowk, Rayon Housing Society, Veraval, Gujarat 362265",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Fatima+Dental+and+Facial+Surgery+Hospital/data=!4m7!3m6!1s0x3bfd33a3bcc8a317:0x1f6a071f7f3f807b!8m2!3d20.910687!4d70.3645687!16s%2Fg%2F11l5dh7hr8!19sChIJF6PIvKMz_TsRe4A_fx8Hah8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Fatima+Dental+and+Facial+Surgery+Hospital/data=!4m7!3m6!1s0x3bfd33a3bcc8a317:0x1f6a071f7f3f807b!8m2!3d20.910687!4d70.3645687!16s%2Fg%2F11l5dh7hr8!19sChIJF6PIvKMz_TsRe4A_fx8Hah8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.910687,
+      "lng": 70.3645687,
+      "label": "Fatima Dental and Facial Surgery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gondse-hospital-veraval",
+    "name": "Gondse hospital",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Gondse hospital for its strength in Kidney Transplant Surgery In Veraval and Maternity Centre. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094297 77333",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Sai baba Temple, in front of reliance mart B/S Patel Timber, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "in front of reliance mart B/S Patel Timber",
+    "landmark": "Veraval",
+    "emergencyContact": "094297 77333",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Veraval",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Gondse+hospital/data=!4m7!3m6!1s0x3bfd33e11d6146e5:0x29d9fe88e77951ae!8m2!3d20.9288048!4d70.3512146!16s%2Fg%2F11q83ypc53!19sChIJ5UZhHeEz_TsRrlF554j-2Sk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gondse+hospital/data=!4m7!3m6!1s0x3bfd33e11d6146e5:0x29d9fe88e77951ae!8m2!3d20.9288048!4d70.3512146!16s%2Fg%2F11q83ypc53!19sChIJ5UZhHeEz_TsRrlF554j-2Sk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9288048,
+      "lng": 70.3512146,
+      "label": "Gondse hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hcg-hospitals-rajkot-rajkot",
+    "name": "HCG Hospitals, Rajkot",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HCG Hospitals, Rajkot has built a strong reputation in Rajkot for multidisciplinary treatment pathways covering Plastic Surgery In Veraval. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "media.info@hcgel.com",
+    "phone": "063588 88817",
+    "alternatePhone": "+91 74064 99999",
+    "website": "https://www.hcgoncology.com/cancer-centers/hcg-cancer-centre-Rajkot/",
+    "address": "HCG Hospital Road, Near Aastha Avenue, 150 Feet Ring Road, Ayodhya Chowk, Rajkot, Gujarat 360006",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360006",
+    "locality": "Ayodhya Chowk",
+    "landmark": "Near Aastha Avenue, 150 Feet Ring Road, Ayodhya Chowk, Rajkot, Gujarat 360006",
+    "emergencyContact": "+91 74064 99999",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/HCGHospitals?mibextid=LQQJ4d",
+    "twitter": "https://twitter.com/HCGCancercare",
+    "instagram": "https://www.instagram.com/hcgoncology/",
+    "linkedin": "https://www.linkedin.com/company/hcgoncology/",
+    "youtube": "https://www.youtube.com/@TheHcgOncology",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HCG+Hospitals,+Rajkot/@22.3194779,70.7735301,17z/data=!3m1!4b1!4m6!3m5!1s0x3959c96a6168f28d:0x7d5bb35dff684c02!8m2!3d22.3194779!4d70.7735301!16s%2Fg%2F11ghfsb7sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HCG+Hospitals,+Rajkot/@22.3194779,70.7735301,17z/data=!3m1!4b1!4m6!3m5!1s0x3959c96a6168f28d:0x7d5bb35dff684c02!8m2!3d22.3194779!4d70.7735301!16s%2Fg%2F11ghfsb7sd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.3194779,
+      "lng": 70.7735301,
+      "label": "HCG Hospitals, Rajkot",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ishan-hospital-veraval-veraval",
+    "name": "ISHAN HOSPITAL VERAVAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ISHAN HOSPITAL VERAVAL has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Liver Transplant Surgery In Veraval. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NEW DR HOUSE, opp. RAJDHANI HOTEL, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "opp. RAJDHANI HOTEL",
+    "landmark": "Veraval",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/ISHAN+HOSPITAL+VERAVAL/data=!4m7!3m6!1s0x3bfd33bd49d534c1:0x2b26735724e8eb01!8m2!3d20.9109197!4d70.3644425!16s%2Fg%2F11jpbjr1g4!19sChIJwTTVSb0z_TsRAevoJFdzJis?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ISHAN+HOSPITAL+VERAVAL/data=!4m7!3m6!1s0x3bfd33bd49d534c1:0x2b26735724e8eb01!8m2!3d20.9109197!4d70.3644425!16s%2Fg%2F11jpbjr1g4!19sChIJwTTVSb0z_TsRAevoJFdzJis?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9109197,
+      "lng": 70.3644425,
+      "label": "ISHAN HOSPITAL VERAVAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-j-pampaniya-dental-hospital-veraval",
+    "name": "K J PAMPANIYA DENTAL HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose K J PAMPANIYA DENTAL HOSPITAL for its strength in Oral Surgery In Veraval. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094285 51111",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, NEW DOCTOR HOUSE, ST -TOWER, opp. Hotel Rajdhani, ROAD, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "ROAD",
+    "landmark": "ST -TOWER",
+    "emergencyContact": "094285 51111",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/K+J+PAMPANIYA+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3bfd32465c5001e1:0x34860b47814c462e!8m2!3d20.9108428!4d70.3641335!16s%2Fg%2F11f2wptx5g!19sChIJ4QFQXEYy_TsRLkZMgUcLhjQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+J+PAMPANIYA+DENTAL+HOSPITAL/data=!4m7!3m6!1s0x3bfd32465c5001e1:0x34860b47814c462e!8m2!3d20.9108428!4d70.3641335!16s%2Fg%2F11f2wptx5g!19sChIJ4QFQXEYy_TsRLkZMgUcLhjQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9108428,
+      "lng": 70.3641335,
+      "label": "K J PAMPANIYA DENTAL HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miracle-skin-clinic-veraval",
+    "name": "Miracle Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Miracle Skin Clinic brings together specialists for Cancer Surgery In Veraval. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0287 622 4000",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, Krishna Hospital, opp. Saint Bus Stand Road, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "opp. Saint Bus Stand Road",
+    "landmark": "opp. Saint Bus Stand Road",
+    "emergencyContact": "0287 622 4000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miracle+Skin+Clinic/data=!4m7!3m6!1s0x3bfd334e5964fdab:0xcaf79198fe155071!8m2!3d20.9117588!4d70.3614652!16s%2Fg%2F11wfgd0_px!19sChIJq_1kWU4z_TsRcVAV_piR98o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miracle+Skin+Clinic/data=!4m7!3m6!1s0x3bfd334e5964fdab:0xcaf79198fe155071!8m2!3d20.9117588!4d70.3614652!16s%2Fg%2F11wfgd0_px!19sChIJq_1kWU4z_TsRcVAV_piR98o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9117588,
+      "lng": 70.3614652,
+      "label": "Miracle Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nilkanth-neuro-and-spine-surgical-hospital-veraval",
+    "name": "Nilkanth Neuro and Spine Surgical Hospital",
+    "type": "Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nilkanth Neuro and Spine Surgical Hospital has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Spine Surgery In Veraval, Neurosciences, and Spine Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Alana Plot, St Bus Stand Rd, near Hotel Kaveri, near Paramhans apartment, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "near Hotel Kaveri, near Paramhans apartment, Rayon Housing Society, Veraval, Gujarat 362265",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Veraval",
+      "Neurosciences",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nilkanth+Neuro+and+Spine+Surgical+Hospital/data=!4m7!3m6!1s0x3bfd33412947114b:0x66f551e7e41e164f!8m2!3d20.9120033!4d70.3639492!16s%2Fg%2F11nft26sb8!19sChIJSxFHKUEz_TsRTxYe5OdR9WY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nilkanth+Neuro+and+Spine+Surgical+Hospital/data=!4m7!3m6!1s0x3bfd33412947114b:0x66f551e7e41e164f!8m2!3d20.9120033!4d70.3639492!16s%2Fg%2F11nft26sb8!19sChIJSxFHKUEz_TsRTxYe5OdR9WY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9120033,
+      "lng": 70.3639492,
+      "label": "Nilkanth Neuro and Spine Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nilkanthvarni-women-s-hospital-veraval",
+    "name": "Nilkanthvarni Women's Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Nilkanthvarni Women's Hospital delivers integrated care across Gynecologist Surgery In Veraval and Women and Child Care. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094264 55376",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near bapa sutaram, Shakti Nagar, Teacher's Colony, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Teacher's Colony",
+    "landmark": "Teacher's Colony",
+    "emergencyContact": "094264 55376",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Veraval",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Nilkanthvarni+Women%27s+Hospital/data=!4m7!3m6!1s0x3bfd33cb6935228f:0x7375f4d44df2b801!8m2!3d20.9251477!4d70.3551173!16s%2Fg%2F11crzdgndb!19sChIJjyI1acsz_TsRAbjyTdT0dXM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nilkanthvarni+Women%27s+Hospital/data=!4m7!3m6!1s0x3bfd33cb6935228f:0x7375f4d44df2b801!8m2!3d20.9251477!4d70.3551173!16s%2Fg%2F11crzdgndb!19sChIJjyI1acsz_TsRAbjyTdT0dXM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9251477,
+      "lng": 70.3551173,
+      "label": "Nilkanthvarni Women's Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ram-dental-hospital-veraval",
+    "name": "Ram Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Ram Dental Hospital for its strength in Oral Surgery In Veraval. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090169 88294",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aditya Arcade Ground Floor Opp Hotel Rajdhani Dr. Ramavat Street, St Bus Stand Rd, near New Doctor House, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "near New Doctor House",
+    "landmark": "near New Doctor House, Veraval, Gujarat 362265",
+    "emergencyContact": "090169 88294",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ram+Dental+Hospital/data=!4m7!3m6!1s0x3bfd3385ed70c879:0xc5232536e8811315!8m2!3d20.9108696!4d70.3642301!16s%2Fg%2F11xvdlv73h!19sChIJechw7YUz_TsRFROB6DYlI8U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ram+Dental+Hospital/data=!4m7!3m6!1s0x3bfd3385ed70c879:0xc5232536e8811315!8m2!3d20.9108696!4d70.3642301!16s%2Fg%2F11xvdlv73h!19sChIJechw7YUz_TsRFROB6DYlI8U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9108696,
+      "lng": 70.3642301,
+      "label": "Ram Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rms-hospital-veraval",
+    "name": "RMS HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RMS HOSPITAL has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Orthopedic Surgery In Veraval. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0287 624 7277",
+    "alternatePhone": "",
+    "website": "",
+    "address": "KAVERY HOTEL, B/H, St Bus Stand Rd, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "St Bus Stand Rd",
+    "emergencyContact": "0287 624 7277",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/RMS+HOSPITAL/data=!4m7!3m6!1s0x3bfd32463f09cb65:0x389cb692b422e862!8m2!3d20.9118949!4d70.364149!16s%2Fg%2F11b7cnsg6q!19sChIJZcsJP0Yy_TsRYugitJK2nDg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RMS+HOSPITAL/data=!4m7!3m6!1s0x3bfd32463f09cb65:0x389cb692b422e862!8m2!3d20.9118949!4d70.364149!16s%2Fg%2F11b7cnsg6q!19sChIJZcsJP0Yy_TsRYugitJK2nDg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9118949,
+      "lng": 70.364149,
+      "label": "RMS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rudraksh-dental-care-veraval",
+    "name": "Rudraksh Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rudraksh Dental Care is a prominent dentist in Veraval, known for structured tertiary care across Oral Surgery In Veraval and Dentist. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094271 48252",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bus stand, Tower Rd, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Rayon Housing Society",
+    "emergencyContact": "094271 48252",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Rudraksh+Dental+Care/@20.910824,70.3641592,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd32465db25325:0xc574f96356c9aeb7!8m2!3d20.910824!4d70.3641592!16s%2Fg%2F11bv2l3g9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rudraksh+Dental+Care/@20.910824,70.3641592,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd32465db25325:0xc574f96356c9aeb7!8m2!3d20.910824!4d70.3641592!16s%2Fg%2F11bv2l3g9c?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.910824,
+      "lng": 70.3641592,
+      "label": "Rudraksh Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sakhiya-skin-clinic-best-skin-clinic-chain-in-india-rajkot",
+    "name": "Sakhiya Skin Clinic - Best Skin Clinic chain in India",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Rajkot, Sakhiya Skin Clinic - Best Skin Clinic chain in India delivers integrated care across Plastic Surgery In Veraval. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.sakhiyaskinclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=kalavad",
+    "address": "Silver Coin, 109, complex, Kalavad Rd, opposite Crystal mall, Rajkot, Gujarat 360005",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360005",
+    "locality": "opposite Crystal mall",
+    "landmark": "opposite Crystal mall, Rajkot, Gujarat 360005",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+chain+in+India/data=!4m7!3m6!1s0x3959d392ada1b1b9:0x53db88cbb575fd8b!8m2!3d22.2794369!4d70.7641216!16s%2Fg%2F11m9pz3dfh!19sChIJubGhrZLTWTkRi_11tcuI21M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sakhiya+Skin+Clinic+-+Best+Skin+Clinic+chain+in+India/data=!4m7!3m6!1s0x3959d392ada1b1b9:0x53db88cbb575fd8b!8m2!3d22.2794369!4d70.7641216!16s%2Fg%2F11m9pz3dfh!19sChIJubGhrZLTWTkRi_11tcuI21M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.2794369,
+      "lng": 70.7641216,
+      "label": "Sakhiya Skin Clinic - Best Skin Clinic chain in India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "satasia-surgical-hospital-best-surgical-hospital-in-junagadh-junagadh",
+    "name": "Satasia surgical Hospital | Best Surgical Hospital in Junagadh",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Satasia surgical Hospital | Best Surgical Hospital in Junagadh has built a strong reputation in Junagadh for multidisciplinary treatment pathways covering Plastic Surgery In Veraval and Surgical Center. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "063559 41133",
+    "alternatePhone": "",
+    "website": "http://www.satasiahospital.com/",
+    "address": "2nd floor, unique plaza complex, near reliance trends, chokadi, Zanzarda, Junagadh, Gujarat 362015",
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "pincode": "362015",
+    "locality": "Zanzarda",
+    "landmark": "near reliance trends, chokadi, Zanzarda, Junagadh, Gujarat 362015",
+    "emergencyContact": "063559 41133",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Veraval",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Satasia+surgical+Hospital+%7C+Best+Surgical+Hospital+in+Junagadh/data=!4m7!3m6!1s0x395801db1e9898a9:0xacc093fc135afd14!8m2!3d21.5236472!4d70.432949!16s%2Fg%2F11h0bx0nc8!19sChIJqZiYHtsBWDkRFP1aE_yTwKw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Satasia+surgical+Hospital+%7C+Best+Surgical+Hospital+in+Junagadh/data=!4m7!3m6!1s0x395801db1e9898a9:0xacc093fc135afd14!8m2!3d21.5236472!4d70.432949!16s%2Fg%2F11h0bx0nc8!19sChIJqZiYHtsBWDkRFP1aE_yTwKw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 21.5236472,
+      "lng": 70.432949,
+      "label": "Satasia surgical Hospital | Best Surgical Hospital in Junagadh",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "satyam-hospital-and-icu-veraval",
+    "name": "Satyam Hospital And ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Satyam Hospital And ICU brings together specialists for Liver Transplant Surgery In Veraval. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099090 42108",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tower chowk, opp. Khadi Bhandar, near Minaxi Hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "near Minaxi Hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "emergencyContact": "099090 42108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Satyam+Hospital+And+ICU/data=!4m7!3m6!1s0x3bfd336ad68f4497:0x615a163475e2896f!8m2!3d20.9106746!4d70.3647228!16s%2Fg%2F11s5fmm7kh!19sChIJl0SP1moz_TsRb4nidTQWWmE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Satyam+Hospital+And+ICU/data=!4m7!3m6!1s0x3bfd336ad68f4497:0x615a163475e2896f!8m2!3d20.9106746!4d70.3647228!16s%2Fg%2F11s5fmm7kh!19sChIJl0SP1moz_TsRb4nidTQWWmE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9106746,
+      "lng": 70.3647228,
+      "label": "Satyam Hospital And ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-hospital-and-i-c-u-veraval",
+    "name": "Shashwat Hospital & I.C.U",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shashwat Hospital & I.C.U is a prominent hospital in Veraval, known for structured tertiary care across Liver Transplant Surgery In Veraval. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099244 34219",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shikshak Colony, Vidhyut Nagar, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Vidhyut Nagar",
+    "landmark": "Veraval",
+    "emergencyContact": "099244 34219",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Hospital+%26+I.C.U/data=!4m7!3m6!1s0x3bfd33fc79a4f9df:0x95b06cb43a2afb2e!8m2!3d20.920825!4d70.357187!16s%2Fg%2F11y73w9d6p!19sChIJ3_mkefwz_TsRLvsqOrRssJU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Hospital+%26+I.C.U/data=!4m7!3m6!1s0x3bfd33fc79a4f9df:0x95b06cb43a2afb2e!8m2!3d20.920825!4d70.357187!16s%2Fg%2F11y73w9d6p!19sChIJ3_mkefwz_TsRLvsqOrRssJU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.920825,
+      "lng": 70.357187,
+      "label": "Shashwat Hospital & I.C.U",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-hospitals-veraval-veraval",
+    "name": "Shashwat Hospitals Veraval",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Shashwat Hospitals Veraval delivers integrated care across Cancer Surgery In Veraval. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.shashwat.one/",
+    "address": "3rd floor, Mandir, Gondse Hospital, Junagadh - Somnath Hwy, opp. Reliance Mall, near Sai Baba Road, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "near Sai Baba Road",
+    "landmark": "near Sai Baba Road, Veraval, Gujarat 362265",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Hospitals+Veraval/@20.9287935,70.3512288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd33c550dd5dcd:0x68de58be3a5a218!8m2!3d20.9287935!4d70.3512288!16s%2Fg%2F11ml43yw4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Hospitals+Veraval/@20.9287935,70.3512288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd33c550dd5dcd:0x68de58be3a5a218!8m2!3d20.9287935!4d70.3512288!16s%2Fg%2F11ml43yw4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9287935,
+      "lng": 70.3512288,
+      "label": "Shashwat Hospitals Veraval",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiv-dental-care-veraval",
+    "name": "Shiv Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shiv Dental Care has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Oral Surgery In Veraval. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "vodafone office street, Bus stand, tower road, behind BANK OF BARODA, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "tower road",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shiv+Dental+Care/data=!4m7!3m6!1s0x3bfd33cd48f257d7:0xcef3ba7227eaf6fc!8m2!3d20.9114255!4d70.3641926!16s%2Fg%2F11xh4m69bt!19sChIJ11fySM0z_TsR_PbqJ3K6884?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiv+Dental+Care/data=!4m7!3m6!1s0x3bfd33cd48f257d7:0xcef3ba7227eaf6fc!8m2!3d20.9114255!4d70.3641926!16s%2Fg%2F11xh4m69bt!19sChIJ11fySM0z_TsR_PbqJ3K6884?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9114255,
+      "lng": 70.3641926,
+      "label": "Shiv Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-icu-and-trauma-centre-veraval",
+    "name": "shivam icu and trauma centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose shivam icu and trauma centre for its strength in Spine Surgery In Veraval. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W976+4R5, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "",
+    "landmark": "Gujarat 362265",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/shivam+icu+and+trauma+centre/data=!4m7!3m6!1s0x3bfd3354cf3b3adf:0xd113a8e2b2608612!8m2!3d20.9127559!4d70.3621071!16s%2Fg%2F11fd_nsjgw!19sChIJ3zo7z1Qz_TsREoZgsuKoE9E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/shivam+icu+and+trauma+centre/data=!4m7!3m6!1s0x3bfd3354cf3b3adf:0xd113a8e2b2608612!8m2!3d20.9127559!4d70.3621071!16s%2Fg%2F11fd_nsjgw!19sChIJ3zo7z1Qz_TsREoZgsuKoE9E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9127559,
+      "lng": 70.3621071,
+      "label": "shivam icu and trauma centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-hari-physiotherapy-center-veraval",
+    "name": "Shree Hari Physiotherapy Center",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Shree Hari Physiotherapy Center for its strength in Knee Replacement Surgery In Veraval and Physiotherapy Center. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095747 96813",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hotel, kaveri street, near shiv hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "near shiv hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "emergencyContact": "095747 96813",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Veraval",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Hari+Physiotherapy+Center/data=!4m7!3m6!1s0x3bfd33077da4ead3:0xb75d77edd2a7af2c!8m2!3d20.9115722!4d70.3634387!16s%2Fg%2F11wtl9d465!19sChIJ0-qkfQcz_TsRLK-n0u13Xbc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Hari+Physiotherapy+Center/data=!4m7!3m6!1s0x3bfd33077da4ead3:0xb75d77edd2a7af2c!8m2!3d20.9115722!4d70.3634387!16s%2Fg%2F11wtl9d465!19sChIJ0-qkfQcz_TsRLK-n0u13Xbc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9115722,
+      "lng": 70.3634387,
+      "label": "Shree Hari Physiotherapy Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreeji-dental-care-veraval",
+    "name": "Shreeji Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Veraval, Shreeji Dental Care delivers integrated care across Oral Surgery In Veraval. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "081603 32151",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lohana Boarding Road, opp. Bus Station, below Hotel Shyam, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "below Hotel Shyam",
+    "landmark": "below Hotel Shyam",
+    "emergencyContact": "081603 32151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shreeji+Dental+Care/data=!4m7!3m6!1s0x3bfd33020689a5a9:0x47fead4e449be6cd!8m2!3d20.9121049!4d70.3623746!16s%2Fg%2F11hms2klf7!19sChIJqaWJBgIz_TsRzeabRE6t_kc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shreeji+Dental+Care/data=!4m7!3m6!1s0x3bfd33020689a5a9:0x47fead4e449be6cd!8m2!3d20.9121049!4d70.3623746!16s%2Fg%2F11hms2klf7!19sChIJqaWJBgIz_TsRzeabRE6t_kc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9121049,
+      "lng": 70.3623746,
+      "label": "Shreeji Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreyansh-surgical-and-maternity-hospital-veraval",
+    "name": "Shreyansh Surgical and Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Veraval, Shreyansh Surgical and Maternity Hospital brings together specialists for Laparoscopic Surgery In Veraval. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0287 622 2219",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near bank of baroda, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Veraval",
+    "emergencyContact": "0287 622 2219",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shreyansh+Surgical+and+Maternity+Hospital/@20.9116159,70.3644514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3248ffffffff:0x4fc935828fd29dd0!8m2!3d20.9116159!4d70.3644514!16s%2Fg%2F11gbfcjzwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shreyansh+Surgical+and+Maternity+Hospital/@20.9116159,70.3644514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3248ffffffff:0x4fc935828fd29dd0!8m2!3d20.9116159!4d70.3644514!16s%2Fg%2F11gbfcjzwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9116159,
+      "lng": 70.3644514,
+      "label": "Shreyansh Surgical and Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skinova-skin-hair-laser-clinic-veraval",
+    "name": "Skinova skin hair laser clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Skinova skin hair laser clinic for its strength in Spine Neurosurgeon In Veraval. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "088495 29911",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Blood Bank Rd, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Blood Bank Rd",
+    "landmark": "Gujarat 362265",
+    "emergencyContact": "088495 29911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Skinova+skin+hair+laser+clinic/data=!4m7!3m6!1s0x3bfd33ac691d48f1:0xf782df5ae156f2c6!8m2!3d20.9114017!4d70.3615683!16s%2Fg%2F11jy_181qx!19sChIJ8Ugdaawz_TsRxvJW4Vrfgvc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skinova+skin+hair+laser+clinic/data=!4m7!3m6!1s0x3bfd33ac691d48f1:0xf782df5ae156f2c6!8m2!3d20.9114017!4d70.3615683!16s%2Fg%2F11jy_181qx!19sChIJ8Ugdaawz_TsRxvJW4Vrfgvc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9114017,
+      "lng": 70.3615683,
+      "label": "Skinova skin hair laser clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smit-dental-clinic-veraval",
+    "name": "Smit Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Veraval, Smit Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Veraval. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Shivay Complex, opposite Bus Stand, near Dr D.K. Barad Hospital, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "near Dr D.K. Barad Hospital",
+    "landmark": "near Dr D.K. Barad Hospital, Veraval, Gujarat 362265",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smit+Dental+Clinic/data=!4m7!3m6!1s0x3bfd33f0a462dbe1:0x7a103413d1fe58a9!8m2!3d20.9124107!4d70.3622613!16s%2Fg%2F11ss58lkv3!19sChIJ4dtipPAz_TsRqVj-0RM0EHo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smit+Dental+Clinic/data=!4m7!3m6!1s0x3bfd33f0a462dbe1:0x7a103413d1fe58a9!8m2!3d20.9124107!4d70.3622613!16s%2Fg%2F11ss58lkv3!19sChIJ4dtipPAz_TsRqVj-0RM0EHo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9124107,
+      "lng": 70.3622613,
+      "label": "Smit Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "solanki-hospital-surgical-hospital-for-piles-fissure-and-fistula-veraval",
+    "name": "Solanki Hospital Surgical Hospital for Piles Fissure and Fistula",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Veraval often choose Solanki Hospital Surgical Hospital for Piles Fissure and Fistula for its strength in Liver Transplant Surgery In Veraval. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096388 64087",
+    "alternatePhone": "",
+    "website": "https://solanki-hospital.grexa.site/",
+    "address": "Junagadh Rd, Shikshak Colony, Rayon Factory Area, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Factory Area",
+    "landmark": "Rayon Factory Area",
+    "emergencyContact": "096388 64087",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/people/Solanki-Hospital-Surgical-Hospital-for-Piles-Fissure-and-Fistula/61555726572112/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/solankihospital_/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Solanki+Hospital+Surgical+Hospital+for+Piles+Fissure+and+Fistula/@20.9200118,70.3575141,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3235b0ef2e8d:0x831391f1301acf08!8m2!3d20.9200118!4d70.3575141!16s%2Fg%2F11l2llv6d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Solanki+Hospital+Surgical+Hospital+for+Piles+Fissure+and+Fistula/@20.9200118,70.3575141,17z/data=!3m1!4b1!4m6!3m5!1s0x3bfd3235b0ef2e8d:0x831391f1301acf08!8m2!3d20.9200118!4d70.3575141!16s%2Fg%2F11l2llv6d_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9200118,
+      "lng": 70.3575141,
+      "label": "Solanki Hospital Surgical Hospital for Piles Fissure and Fistula",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "spine-physio-care-veraval",
+    "name": "Spine physio care",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted physiotherapy center in Veraval, Spine physio care delivers integrated care across Brain Surgery In Veraval, Physiotherapy Center, and Spine Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096648 05701",
+    "alternatePhone": "",
+    "website": "",
+    "address": "neuro pampaniya Hospital, New doctor house, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "Rayon Housing Society",
+    "emergencyContact": "096648 05701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Veraval",
+      "Physiotherapy Center",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Spine+physio+care/data=!4m7!3m6!1s0x3bfd33000e0827ad:0xbc5bd65f1ed1303f!8m2!3d20.9109281!4d70.3645888!16s%2Fg%2F11y3wxp494!19sChIJrScIDgAz_TsRPzDRHl_WW7w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Spine+physio+care/data=!4m7!3m6!1s0x3bfd33000e0827ad:0xbc5bd65f1ed1303f!8m2!3d20.9109281!4d70.3645888!16s%2Fg%2F11y3wxp494!19sChIJrScIDgAz_TsRPzDRHl_WW7w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9109281,
+      "lng": 70.3645888,
+      "label": "Spine physio care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-dental-clinic-veraval",
+    "name": "Swastik Dental clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Veraval, Swastik Dental clinic delivers integrated care across Oral Surgery In Veraval. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094273 79527",
+    "alternatePhone": "",
+    "website": "",
+    "address": "hotel kaveri, B/h, St Bus Stand Rd, near makhansha hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "near makhansha hospital, Rayon Housing Society, Veraval, Gujarat 362265",
+    "emergencyContact": "094273 79527",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Dental+clinic/data=!4m7!3m6!1s0x3bfd32466a2fcbf1:0x350f1b59d6f7c53c!8m2!3d20.9115175!4d70.3644853!16s%2Fg%2F11g9nllz34!19sChIJ8csvakYy_TsRPMX31lkbDzU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Dental+clinic/data=!4m7!3m6!1s0x3bfd32466a2fcbf1:0x350f1b59d6f7c53c!8m2!3d20.9115175!4d70.3644853!16s%2Fg%2F11g9nllz34!19sChIJ8csvakYy_TsRPMX31lkbDzU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9115175,
+      "lng": 70.3644853,
+      "label": "Swastik Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thakkar-surgical-hospital-veraval",
+    "name": "Thakkar Surgical Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Veraval, Thakkar Surgical Hospital offers coordinated hospital care with major focus on Spine Surgery In Veraval. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "W966+HH6, Dari, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Dari",
+    "landmark": "Veraval",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Thakkar+Surgical+Hospital/data=!4m7!3m6!1s0x3bfd3247eaa08bf7:0xad89c7f692e7d356!8m2!3d20.9114086!4d70.3613846!16s%2Fg%2F11_kcz1d2!19sChIJ94ug6kcy_TsRVtPnkvbHia0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Thakkar+Surgical+Hospital/data=!4m7!3m6!1s0x3bfd3247eaa08bf7:0xad89c7f692e7d356!8m2!3d20.9114086!4d70.3613846!16s%2Fg%2F11_kcz1d2!19sChIJ94ug6kcy_TsRVtPnkvbHia0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9114086,
+      "lng": 70.3613846,
+      "label": "Thakkar Surgical Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-facial-surgery-2-0-rajkot",
+    "name": "The Facial Surgery 2.0",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Facial Surgery 2.0 is a prominent hospital in Rajkot, known for structured tertiary care across Plastic Surgery In Veraval. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@thefacialsurgery.com",
+    "phone": "094266 48485",
+    "alternatePhone": "+91 87800 78700",
+    "website": "https://www.thefacialsurgery.com/",
+    "address": "2nd floor, Level 6, 150 Feet Ring Rd, near Big Bazaar, AP Park, Jagannath Plot, Rajkot, Gujarat 360005",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360005",
+    "locality": "Jagannath Plot",
+    "landmark": "near Big Bazaar, AP Park, Jagannath Plot, Rajkot, Gujarat 360005",
+    "emergencyContact": "+91 87800 78700",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/thefacialsurgery",
+    "twitter": "https://twitter.com/kaushik_pethani",
+    "instagram": "https://www.instagram.com/thefacialsurgery/",
+    "linkedin": "https://www.linkedin.com/in/thefacialsurgery",
+    "youtube": "http://www.youtube.com/@dr.kaushikpethani5739",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/The+Facial+Surgery+2.0/data=!4m7!3m6!1s0x3959cb2353203d49:0x6cdbff4edb513414!8m2!3d22.2814884!4d70.7746996!16s%2Fg%2F11wwkxpx_j!19sChIJST0gUyPLWTkRFDRR207_22w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Facial+Surgery+2.0/data=!4m7!3m6!1s0x3959cb2353203d49:0x6cdbff4edb513414!8m2!3d22.2814884!4d70.7746996!16s%2Fg%2F11wwkxpx_j!19sChIJST0gUyPLWTkRFDRR207_22w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.2814884,
+      "lng": 70.7746996,
+      "label": "The Facial Surgery 2.0",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urocare-kidney-and-prostate-hospital-veraval",
+    "name": "UROCARE KIDNEY & PROSTATE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "UROCARE KIDNEY & PROSTATE HOSPITAL has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Urologist Surgery In Veraval and Kidney Care. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2nd Floor, W967+9P2 Aditya arcade, St Bus Stand Rd, opp. Rajdhani hotel, nr. New Doctor house, Rayon Housing Society, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Rayon Housing Society",
+    "landmark": "St Bus Stand Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Veraval",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/search/urologist%20surgeon%20in%20Veraval",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/search/urologist%20surgeon%20in%20Veraval"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 0.0,
+      "lng": 0.0,
+      "label": "UROCARE KIDNEY & PROSTATE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parli-hair-transplant-clinic-in-rajkot-top-cosmetic-laser-center-best-skin-treatment-hair-specialist-rajkot",
+    "name": "✅ 𝐃𝐨𝐜𝐭𝐨𝐫 𝐏.𝐌. 𝐑𝐚𝐦𝐨𝐭𝐢𝐚 PARLI Hair Transplant Clinic in Rajkot Top Cosmetic Laser Center, Best Skin Treatment, Hair Specialist",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "✅ 𝐃𝐨𝐜𝐭𝐨𝐫 𝐏.𝐌. 𝐑𝐚𝐦𝐨𝐭𝐢𝐚 PARLI Hair Transplant Clinic in Rajkot Top Cosmetic Laser Center, Best Skin Treatment, Hair Specialist is a prominent skin care clinic in Rajkot, known for structured tertiary care across Plastic Surgery In Veraval. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "dr.pmramotia1@gmail.com",
+    "phone": "095581 05490",
+    "alternatePhone": "+91 93280 02954",
+    "website": "https://www.parlicosmeticrajkot.com/",
+    "address": "10 B/h Boss Colour Lab, opp. Jain Upashray, Sardarnagar, Rajkot, Gujarat 360001",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360001",
+    "locality": "Sardarnagar",
+    "landmark": "Sardarnagar",
+    "emergencyContact": "+91 93280 02954",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ParliCosmeticLaserCentre",
+    "twitter": "https://twitter.com/ParliCosmetic",
+    "instagram": "https://www.instagram.com/parlicosmeticlasercenterrajkot/",
+    "linkedin": "https://www.linkedin.com/in/parli-cosmetic-laser-center-56aa85219/",
+    "youtube": "https://www.youtube.com/channel/UCfSTNVYv2Xy-riehPxyhJeg",
+    "specialties": [
+      "Plastic Surgery In Veraval"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%90%83%F0%9D%90%A8%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%8F.%F0%9D%90%8C.+%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9A+PARLI+Hair+Transplant+Clinic+in+Rajkot+Top+Cosmetic+Laser+Center,+Best+Skin+Treatment,+Hair+Specialist/data=!4m7!3m6!1s0x3959ca1813485195:0x6f98c393a5e6e8c7!8m2!3d22.2915894!4d70.7899756!16s%2Fg%2F1tdkq5p5!19sChIJlVFIExjKWTkRx-jmpZPDmG8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%90%83%F0%9D%90%A8%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%8F.%F0%9D%90%8C.+%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9A+PARLI+Hair+Transplant+Clinic+in+Rajkot+Top+Cosmetic+Laser+Center,+Best+Skin+Treatment,+Hair+Specialist/data=!4m7!3m6!1s0x3959ca1813485195:0x6f98c393a5e6e8c7!8m2!3d22.2915894!4d70.7899756!16s%2Fg%2F1tdkq5p5!19sChIJlVFIExjKWTkRx-jmpZPDmG8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 22.2915894,
+      "lng": 70.7899756,
+      "label": "✅ 𝐃𝐨𝐜𝐭𝐨𝐫 𝐏.𝐌. 𝐑𝐚𝐦𝐨𝐭𝐢𝐚 PARLI Hair Transplant Clinic in Rajkot Top Cosmetic Laser Center, Best Skin Treatment, Hair Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-veraval-veraval",
+    "name": "𝐒𝐦𝐢𝐭 𝐖𝐨𝐦𝐞𝐧'𝐒 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 & 𝐈𝐕𝐅 𝐂𝐞𝐧𝐭𝐫𝐞 - Veraval",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "𝐒𝐦𝐢𝐭 𝐖𝐨𝐦𝐞𝐧'𝐒 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 & 𝐈𝐕𝐅 𝐂𝐞𝐧𝐭𝐫𝐞 - Veraval has built a strong reputation in Veraval for multidisciplinary treatment pathways covering Liver Transplant Surgery In Veraval and Fertility Care. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "081603 84007",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Junagadh Road, opposite Hotel Park, near Solanki Tyre, Junagadh Bypass, Veraval, Gujarat 362265",
+    "city": "Veraval",
+    "state": "Gujarat",
+    "pincode": "362265",
+    "locality": "Junagadh Bypass",
+    "landmark": "near Solanki Tyre, Junagadh Bypass, Veraval, Gujarat 362265",
+    "emergencyContact": "081603 84007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Veraval",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%90%92%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AD+%F0%9D%90%96%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%27%F0%9D%90%92+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5+%26+%F0%9D%90%88%F0%9D%90%95%F0%9D%90%85+%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E+-+Veraval/data=!4m7!3m6!1s0x3bfd338db49f72d7:0x92f0409090ba139d!8m2!3d20.9356162!4d70.3511539!16s%2Fg%2F11m22_ljn_!19sChIJ13KftI0z_TsRnRO6kJBA8JI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%90%92%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%AD+%F0%9D%90%96%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%27%F0%9D%90%92+%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5+%26+%F0%9D%90%88%F0%9D%90%95%F0%9D%90%85+%F0%9D%90%82%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9E+-+Veraval/data=!4m7!3m6!1s0x3bfd338db49f72d7:0x92f0409090ba139d!8m2!3d20.9356162!4d70.3511539!16s%2Fg%2F11m22_ljn_!19sChIJ13KftI0z_TsRnRO6kJBA8JI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9356162,
+      "lng": 70.3511539,
+      "label": "𝐒𝐦𝐢𝐭 𝐖𝐨𝐦𝐞𝐧'𝐒 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 & 𝐈𝐕𝐅 𝐂𝐞𝐧𝐭𝐫𝐞 - Veraval",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

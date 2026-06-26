@@ -1,0 +1,4586 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "apex-neuro-and-obs-gynae-clinic-silvassa",
+    "name": "Apex Neuro & Obs-Gynae Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, Apex Neuro & Obs-Gynae Clinic offers coordinated hospital care with major focus on Brain Surgery In Silvassa and Neurosciences. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "apexclinicng@gmail.com",
+    "phone": "087993 37392",
+    "alternatePhone": "",
+    "website": "https://apexclinicng.wixsite.com/apexclinic",
+    "address": "203-204, Samruddhi Shopping Center, Opp Old Dena bank, Kilvani, UT, Naka, of, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "of",
+    "landmark": "Opp Old Dena bank",
+    "emergencyContact": "087993 37392",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ApexClinicNG",
+    "twitter": "https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=31f40040-40ab-4f6d-b02f-d5e14733f45b&adsVersion=banner_2024",
+    "instagram": "https://instagram.com/apexclinicng?utm_medium=copy_link",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Silvassa",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+Neuro+%26+Obs-Gynae+Clinic/data=!4m7!3m6!1s0x3be0cda218155c45:0xd846b229deff2d9!8m2!3d20.2742162!4d73.0060396!16s%2Fg%2F11rss1rs8s!19sChIJRVwVGKLN4DsR2fLvnSJrhA0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+Neuro+%26+Obs-Gynae+Clinic/data=!4m7!3m6!1s0x3be0cda218155c45:0xd846b229deff2d9!8m2!3d20.2742162!4d73.0060396!16s%2Fg%2F11rss1rs8s!19sChIJRVwVGKLN4DsR2fLvnSJrhA0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2742162,
+      "lng": 73.0060396,
+      "label": "Apex Neuro & Obs-Gynae Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "auro-advanced-diagnostic-and-surgical-care-center-silvassa",
+    "name": "AURO Advanced Diagnostic and Surgical Care Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, AURO Advanced Diagnostic and Surgical Care Center offers coordinated hospital care with major focus on General Surgery In Silvassa. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078620 12475",
+    "alternatePhone": "",
+    "website": "",
+    "address": "FIRST FLOOR, BUILDING A-2, LANDMARK, SHOP NO.126, 127,128, above SPEED MART, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "above SPEED MART",
+    "landmark": "LANDMARK",
+    "emergencyContact": "078620 12475",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/AURO+Advanced+Diagnostic+and+Surgical+Care+Center/data=!4m7!3m6!1s0x3be0cb3b5c40e0d1:0xdd6df5d4789f7bd5!8m2!3d20.2645469!4d73.0041501!16s%2Fg%2F11qfn55qk_!19sChIJ0eBAXDvL4DsR1XufeNT1bd0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AURO+Advanced+Diagnostic+and+Surgical+Care+Center/data=!4m7!3m6!1s0x3be0cb3b5c40e0d1:0xdd6df5d4789f7bd5!8m2!3d20.2645469!4d73.0041501!16s%2Fg%2F11qfn55qk_!19sChIJ0eBAXDvL4DsR1XufeNT1bd0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2645469,
+      "lng": 73.0041501,
+      "label": "AURO Advanced Diagnostic and Surgical Care Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "city-heart-hospital-silvassa",
+    "name": "City Heart Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "City Heart Hospital has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Liver Transplant Surgery In Silvassa and Cardiac Care. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087587 58000",
+    "alternatePhone": "",
+    "website": "http://www.cityhearthospital.com/",
+    "address": "Shraddha - 2nd Floor, 396, Silvassa - Vapi Rd, nr. HDFC BANK, Amli Industrial Estate, Amli Ind. Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Amli Ind. Estate",
+    "landmark": "Silvassa - Vapi Rd",
+    "emergencyContact": "087587 58000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/City+Heart+Hospital/data=!4m7!3m6!1s0x3be0cb6439ca9a79:0x44d4d067af2705df!8m2!3d20.2786256!4d73.0015892!16s%2Fg%2F11xc92kkj!19sChIJeZrKOWTL4DsR3wUnr2fQ1EQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/City+Heart+Hospital/data=!4m7!3m6!1s0x3be0cb6439ca9a79:0x44d4d067af2705df!8m2!3d20.2786256!4d73.0015892!16s%2Fg%2F11xc92kkj!19sChIJeZrKOWTL4DsR3wUnr2fQ1EQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2786256,
+      "lng": 73.0015892,
+      "label": "City Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmetic-surgery-clinic-silvassa",
+    "name": "Cosmetic surgery clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose Cosmetic surgery clinic for its strength in Liver Transplant Surgery In Silvassa. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095496 66516",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Silvacare hospital, dayatfalia, Danudyog Industrial Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Danudyog Industrial Estate",
+    "landmark": "Danudyog Industrial Estate",
+    "emergencyContact": "095496 66516",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmetic+surgery+clinic/data=!4m7!3m6!1s0x3be0cb68cf6bfac9:0x52ef0d640ff6ac7!8m2!3d20.2857038!4d72.9952615!16s%2Fg%2F1hd_x_s7j!19sChIJyfprz2jL4DsRx2r_QNbwLgU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmetic+surgery+clinic/data=!4m7!3m6!1s0x3be0cb68cf6bfac9:0x52ef0d640ff6ac7!8m2!3d20.2857038!4d72.9952615!16s%2Fg%2F1hd_x_s7j!19sChIJyfprz2jL4DsRx2r_QNbwLgU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2857038,
+      "lng": 72.9952615,
+      "label": "Cosmetic surgery clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-house-silvassa-silvassa",
+    "name": "DENTAL HOUSE, SILVASSA",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose DENTAL HOUSE, SILVASSA for its strength in Oral Surgery In Silvassa. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097375 73722",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1ST FLOOR, EKDANT SQUARE, SN-44, Ring road, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396235",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396235",
+    "locality": "Ring road",
+    "landmark": "SN-44",
+    "emergencyContact": "097375 73722",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DENTAL+HOUSE,+SILVASSA/data=!4m7!3m6!1s0x3be0cdc979979ac7:0xf8c9e27a85275304!8m2!3d20.2822168!4d72.990407!16s%2Fg%2F11q2xz2khp!19sChIJx5qXecnN4DsRBFMnhXriyfg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DENTAL+HOUSE,+SILVASSA/data=!4m7!3m6!1s0x3be0cdc979979ac7:0xf8c9e27a85275304!8m2!3d20.2822168!4d72.990407!16s%2Fg%2F11q2xz2khp!19sChIJx5qXecnN4DsRBFMnhXriyfg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2822168,
+      "lng": 72.990407,
+      "label": "DENTAL HOUSE, SILVASSA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-zone-and-implant-center-silvassa",
+    "name": "Dental Zone & Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, Dental Zone & Implant Center offers coordinated hospital care with major focus on Oral Surgery In Silvassa. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097374 47707",
+    "alternatePhone": "",
+    "website": "http://wa.link/pooj6t",
+    "address": "SHOP NO-6, Garden City, Empress Mall Rd, near Bhavik Medical, Samarvarni, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Samarvarni",
+    "landmark": "near Bhavik Medical, Samarvarni, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "097374 47707",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100064758844406",
+    "twitter": "https://x.com/whatsapp",
+    "instagram": "https://www.instagram.com/whatsapp/?hl=en",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Zone+%26+Implant+Center/data=!4m7!3m6!1s0x3be0cbd9f38c7d69:0x87eb92163c075cf2!8m2!3d20.2562601!4d73.01007!16s%2Fg%2F11krp9lnz6!19sChIJaX2M89nL4DsR8lwHPBaS64c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Zone+%26+Implant+Center/data=!4m7!3m6!1s0x3be0cbd9f38c7d69:0x87eb92163c075cf2!8m2!3d20.2562601!4d73.01007!16s%2Fg%2F11krp9lnz6!19sChIJaX2M89nL4DsR8lwHPBaS64c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2562601,
+      "lng": 73.01007,
+      "label": "Dental Zone & Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gurudev-skin-clinic-silvassa",
+    "name": "Gurudev Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in silvassa, Gurudev Skin Clinic delivers integrated care across Plastic Surgery In Silvassa. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "72G4+3F6, Premaldeep square 202,203,2nd floor, opp pravin tailor, kilvani naka, silvassa,Ut, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "kilvani naka",
+    "landmark": "203",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Gurudev+Skin+Clinic/data=!4m7!3m6!1s0x3be0cb66612abb81:0x3fa28f243851045d!8m2!3d20.2751653!4d73.0061364!16s%2Fg%2F1q6jhjvwk!19sChIJgbsqYWbL4DsRXQRROCSPoj8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gurudev+Skin+Clinic/data=!4m7!3m6!1s0x3be0cb66612abb81:0x3fa28f243851045d!8m2!3d20.2751653!4d73.0061364!16s%2Fg%2F1q6jhjvwk!19sChIJgbsqYWbL4DsRXQRROCSPoj8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2751653,
+      "lng": 73.0061364,
+      "label": "Gurudev Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hairfree-and-hairgrow-hair-loss-and-hair-transplant-clinic-silvassa",
+    "name": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Liver Transplant Surgery In Silvassa. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@hairfreehairgrow.com",
+    "phone": "072638 85883",
+    "alternatePhone": "+91 72728 32222",
+    "website": "https://hairfreehairgrow.com/hair-transplant-in-vapi/",
+    "address": "1st floor, Horizon tower, Kilvani Rd, opposite Jalaram temple, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "opposite Jalaram temple",
+    "landmark": "opposite Jalaram temple, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "+91 72728 32222",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/hairfreehairgrow18/",
+    "twitter": "https://twitter.com/AndHairfree",
+    "instagram": "https://www.instagram.com/hairfree_hairgrow_clinic/",
+    "linkedin": "https://www.linkedin.com/company/hairfree-and-hairgrow-hair-transplant-clinic/",
+    "youtube": "https://www.youtube.com/channel/UCSaDWMYuM04Ao6gi76WUBVQ",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hairfree+%26+Hairgrow+Hair+Loss+%26+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3be0cba37c7ef561:0x64ddee4f1fbaf8d5!8m2!3d20.2762738!4d73.0078319!16s%2Fg%2F11jv682mw_!19sChIJYfV-fKPL4DsR1fi6H0_u3WQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hairfree+%26+Hairgrow+Hair+Loss+%26+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x3be0cba37c7ef561:0x64ddee4f1fbaf8d5!8m2!3d20.2762738!4d73.0078319!16s%2Fg%2F11jv682mw_!19sChIJYfV-fKPL4DsR1fi6H0_u3WQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2762738,
+      "lng": 73.0078319,
+      "label": "Hairfree & Hairgrow Hair Loss & Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "harsh-clinic-silvassa",
+    "name": "Harsh Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Harsh Clinic is a prominent medical clinic in Silvassa, known for structured tertiary care across Orthopedic Surgery In Silvassa. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0260 264 2975",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shoppers Shop, Silvassa - Vapi Rd, Rohit Street, Kilvani Naka Road, Millennium English School, Solanki Sadan, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Solanki Sadan",
+    "landmark": "Rohit Street",
+    "emergencyContact": "0260 264 2975",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Harsh+Clinic/data=!4m7!3m6!1s0x3be0cb662511a44d:0x300e69e9cfcbda38!8m2!3d20.2756306!4d73.0045098!16s%2Fg%2F1q6jkbskv!19sChIJTaQRJWbL4DsRONrLz-lpDjA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Harsh+Clinic/data=!4m7!3m6!1s0x3be0cb662511a44d:0x300e69e9cfcbda38!8m2!3d20.2756306!4d73.0045098!16s%2Fg%2F1q6jkbskv!19sChIJTaQRJWbL4DsRONrLz-lpDjA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2756306,
+      "lng": 73.0045098,
+      "label": "Harsh Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "holy-angel-hospital-silvassa",
+    "name": "Holy Angel Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Silvassa, Holy Angel Hospital delivers integrated care across Liver Transplant Surgery In Silvassa. With public-facing highlights like Google rating 3.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B1, Scarlet Park City, Kilvani Rd, opp. Yogi Hospital, Amli Ind. Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Amli Ind. Estate",
+    "landmark": "Kilvani Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Holy+Angel+Hospital/data=!4m7!3m6!1s0x3be0cb7929d6ea0f:0xc5aed394846bbc47!8m2!3d20.2606272!4d73.0071388!16s%2Fg%2F11slsxkpgx!19sChIJD-rWKXnL4DsRR7xrhJTTrsU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Holy+Angel+Hospital/data=!4m7!3m6!1s0x3be0cb7929d6ea0f:0xc5aed394846bbc47!8m2!3d20.2606272!4d73.0071388!16s%2Fg%2F11slsxkpgx!19sChIJD-rWKXnL4DsRR7xrhJTTrsU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2606272,
+      "lng": 73.0071388,
+      "label": "Holy Angel Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kraft-smile-dental-clinic-silvassa",
+    "name": "Kraft Smile Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, Kraft Smile Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Silvassa. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096245 33934",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Samarvarni, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Samarvarni",
+    "landmark": "Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "096245 33934",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kraft+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb00394657f5:0x21090d8170b8b0b0!8m2!3d20.2604704!4d73.0068618!16s%2Fg%2F11w4cv7gxk!19sChIJ9VdGOQDL4DsRsLC4cIENCSE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kraft+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb00394657f5:0x21090d8170b8b0b0!8m2!3d20.2604704!4d73.0068618!16s%2Fg%2F11w4cv7gxk!19sChIJ9VdGOQDL4DsRsLC4cIENCSE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2604704,
+      "lng": 73.0068618,
+      "label": "Kraft Smile Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-krupa-dental-care-silvassa",
+    "name": "Maa Krupa Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Silvassa, Maa Krupa Dental Care brings together specialists for Oral Surgery In Silvassa. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079720 53457",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No 114-1st floor, Balaji Platinum, Naroli Road, Central, near Athal, Athal, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396235",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396235",
+    "locality": "Athal",
+    "landmark": "near Athal, Athal, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396235",
+    "emergencyContact": "079720 53457",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+Krupa+Dental+Care/data=!4m7!3m6!1s0x3be0cd20e7b349fb:0x6b70e0cd80e594e6!8m2!3d20.2678574!4d72.9718482!16s%2Fg%2F11vb2t_r_d!19sChIJ-0mz5yDN4DsR5pTlgM3gcGs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+Krupa+Dental+Care/data=!4m7!3m6!1s0x3be0cd20e7b349fb:0x6b70e0cd80e594e6!8m2!3d20.2678574!4d72.9718482!16s%2Fg%2F11vb2t_r_d!19sChIJ-0mz5yDN4DsR5pTlgM3gcGs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2678574,
+      "lng": 72.9718482,
+      "label": "Maa Krupa Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "marigold-children-hospital-silvassa",
+    "name": "Marigold Children Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Silvassa, Marigold Children Hospital delivers integrated care across Kidney Transplant Surgery In Silvassa and Women and Child Care. With public-facing highlights like Google rating 3.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "hello@aboutmyclinic.com",
+    "phone": "095740 09944",
+    "alternatePhone": "+91 95740 09943",
+    "website": "http://www.aboutmyclinic.com/marigoldchildcare",
+    "address": "72H3+9X8, 1, Amli Hanuman Rd, Amli Ind. Estate Amli Ind. Estate Silvassa, Gujarat 396230, Jhanda Chowk Circle, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Jhanda Chowk Circle",
+    "landmark": "Amli Hanuman Rd",
+    "emergencyContact": "+91 95740 09943",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/aboutmyclinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/aboutmyclinic/",
+    "linkedin": "https://www.linkedin.com/company/aboutmyclinic/",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Silvassa",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Marigold+Children+Hospital/data=!4m7!3m6!1s0x3be0cb658cdac4e9:0xefb57b16ef9de501!8m2!3d20.2791417!4d73.0045943!16s%2Fg%2F11b6hq0smw!19sChIJ6cTajGXL4DsRAeWd7xZ7te8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Marigold+Children+Hospital/data=!4m7!3m6!1s0x3be0cb658cdac4e9:0xefb57b16ef9de501!8m2!3d20.2791417!4d73.0045943!16s%2Fg%2F11b6hq0smw!19sChIJ6cTajGXL4DsRAeWd7xZ7te8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2791417,
+      "lng": 73.0045943,
+      "label": "Marigold Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medifit-medical-academy-silvassa-dnh-silvassa",
+    "name": "Medifit Medical Academy, Silvassa, DNH.",
+    "type": "Sports Medicine Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose Medifit Medical Academy, Silvassa, DNH. for its strength in Orthopedic Surgery In Silvassa. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sai fitness, 1st floor, Panchayat Market, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Panchayat Market",
+    "landmark": "Panchayat Market",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Medifit+Medical+Academy,+Silvassa,+DNH./data=!4m7!3m6!1s0x3be0cb23c0ee60f7:0xfc838149262b5c2b!8m2!3d20.2742533!4d73.0044175!16s%2Fg%2F11fcs_4_n2!19sChIJ92DuwCPL4DsRK1wrJkmBg_w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medifit+Medical+Academy,+Silvassa,+DNH./data=!4m7!3m6!1s0x3be0cb23c0ee60f7:0xfc838149262b5c2b!8m2!3d20.2742533!4d73.0044175!16s%2Fg%2F11fcs_4_n2!19sChIJ92DuwCPL4DsRK1wrJkmBg_w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2742533,
+      "lng": 73.0044175,
+      "label": "Medifit Medical Academy, Silvassa, DNH.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-silvassa-silvassa",
+    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering IVF In Silvassa and Diagnostic Center. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "communication@metropolisindia.com",
+    "phone": "079410 57479",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-naroli-road-opposite-vardhman-hospital-silvassa",
+    "address": "Room No 106, 1st Floor, V Raj Vihar Apt, Ultan Faliya Rd, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Ultan Faliya Rd",
+    "landmark": "V Raj Vihar Apt",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "IVF In Silvassa",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Silvassa/data=!4m7!3m6!1s0x3be0cb711bcdaacd:0xc56545a64cc13a06!8m2!3d20.2745409!4d73.0012441!16s%2Fg%2F11vcnb8nwp!19sChIJzarNG3HL4DsRBjrBTKZFZcU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Silvassa/data=!4m7!3m6!1s0x3be0cb711bcdaacd:0xc56545a64cc13a06!8m2!3d20.2745409!4d73.0012441!16s%2Fg%2F11vcnb8nwp!19sChIJzarNG3HL4DsRBjrBTKZFZcU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2745409,
+      "lng": 73.0012441,
+      "label": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metropolis-labs-blood-test-and-diagnostic-centre-in-silvassa-silvassa",
+    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa",
+    "type": "Diagnostic Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering IVF In Silvassa and Diagnostic Center. Its infrastructure includes Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "communication@metropolisindia.com",
+    "phone": "079485 15843",
+    "alternatePhone": "+91 90332 73966",
+    "website": "https://www.metropolisindia.com/lab/diagnostic-centre-in-naroli-road-opposite-vardhman-hospital-silvassa",
+    "address": "Shop No 9, Naroli Rd, opposite Vardhman Hospital, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "opposite Vardhman Hospital",
+    "landmark": "opposite Vardhman Hospital, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "+91 90332 73966",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/MetropolisLab/",
+    "twitter": "https://twitter.com/metropolislab",
+    "instagram": "https://www.instagram.com/metropolis_labs/",
+    "linkedin": "https://in.linkedin.com/company/metropolislab",
+    "youtube": "https://www.youtube.com/user/MetropolisHealthcare",
+    "specialties": [
+      "IVF In Silvassa",
+      "Diagnostic Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Silvassa/data=!4m7!3m6!1s0x3be0cbcbc3c1d3cf:0x5a515a544a3f7b6d!8m2!3d20.2719268!4d73.0017505!16s%2Fg%2F11v9cfw48y!19sChIJz9PBw8vL4DsRbXs_SlRaUVo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metropolis+Labs+%7C+Blood+Test+%26+Diagnostic+Centre+in+Silvassa/data=!4m7!3m6!1s0x3be0cbcbc3c1d3cf:0x5a515a544a3f7b6d!8m2!3d20.2719268!4d73.0017505!16s%2Fg%2F11v9cfw48y!19sChIJz9PBw8vL4DsRbXs_SlRaUVo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2719268,
+      "lng": 73.0017505,
+      "label": "Metropolis Labs | Blood Test & Diagnostic Centre in Silvassa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mukta-general-hospital-silvassa",
+    "name": "Mukta General Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mukta General Hospital has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Liver Transplant Surgery In Silvassa. With public-facing highlights like Google rating 2.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Zanda Chowk St, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Zanda Chowk St",
+    "landmark": "Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://www.google.com/maps/place/Mukta+General+Hospital/data=!4m7!3m6!1s0x3be0cb663d49d45d:0x89f0b03b5039d4d5!8m2!3d20.2761845!4d73.0040552!16s%2Fg%2F1pp2vgxg1!19sChIJXdRJPWbL4DsR1dQ5UDuw8Ik?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mukta+General+Hospital/data=!4m7!3m6!1s0x3be0cb663d49d45d:0x89f0b03b5039d4d5!8m2!3d20.2761845!4d73.0040552!16s%2Fg%2F1pp2vgxg1!19sChIJXdRJPWbL4DsR1dQ5UDuw8Ik?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2761845,
+      "lng": 73.0040552,
+      "label": "Mukta General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "namo-hospital-silvassa",
+    "name": "NAMO HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Silvassa, NAMO HOSPITAL delivers integrated care across Kidney Transplant Surgery In Silvassa. Hospital capacity markers such as Google rating 2.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "72C5+H4V, Solanki Sadan, Bavisa Faliya, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Bavisa Faliya",
+    "landmark": "Bavisa Faliya",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.9"
+    ],
+    "image": "https://www.google.com/maps/place/NAMO+HOSPITAL/data=!4m7!3m6!1s0x3be0cb00086fec27:0xc52751615b76ddea!8m2!3d20.2714301!4d73.0066808!16s%2Fg%2F11m6200d5h!19sChIJJ-xvCADL4DsR6t12W2FRJ8U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NAMO+HOSPITAL/data=!4m7!3m6!1s0x3be0cb00086fec27:0xc52751615b76ddea!8m2!3d20.2714301!4d73.0066808!16s%2Fg%2F11m6200d5h!19sChIJJ-xvCADL4DsR6t12W2FRJ8U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2714301,
+      "lng": 73.0066808,
+      "label": "NAMO HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "new-generation-saikrishna-children-and-teenagers-hospital-silvassa",
+    "name": "New Generation SaiKrishna Children & Teenagers Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, New Generation SaiKrishna Children & Teenagers Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Silvassa and Women and Child Care. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098246 73321",
+    "alternatePhone": "",
+    "website": "",
+    "address": "SaiKrishna Hospital, Shop no 247to252 landmark business hub, Khanvel Rd, Tokarkhada, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Tokarkhada",
+    "landmark": "landmark business hub, Khanvel Rd, Tokarkhada, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "098246 73321",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Silvassa",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/New+Generation+SaiKrishna+Children+%26+Teenagers+Hospital/data=!4m7!3m6!1s0x3be0cb432e0f0c5f:0x96365634cc252481!8m2!3d20.2652851!4d73.0059418!16s%2Fg%2F11b6zzvmw1!19sChIJXwwPLkPL4DsRgSQlzDRWNpY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/New+Generation+SaiKrishna+Children+%26+Teenagers+Hospital/data=!4m7!3m6!1s0x3be0cb432e0f0c5f:0x96365634cc252481!8m2!3d20.2652851!4d73.0059418!16s%2Fg%2F11b6zzvmw1!19sChIJXwwPLkPL4DsRgSQlzDRWNpY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2652851,
+      "lng": 73.0059418,
+      "label": "New Generation SaiKrishna Children & Teenagers Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "osmic-skin-and-hair-clinic-silvassa",
+    "name": "Osmic Skin and Hair Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted medical clinic in Silvassa, Osmic Skin and Hair Clinic delivers integrated care across Cosmetic Surgery In Silvassa. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Osmic skin and hair clinic, Naroli Rd, near dominos, Pramukh Vihar, Phase 5, Silvassa, Athal, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Phase 5",
+    "landmark": "near dominos, Pramukh Vihar, Phase 5, Silvassa, Athal, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Osmic+Skin+and+Hair+Clinic/data=!4m7!3m6!1s0x3be0cb5a5f03ae3d:0x3c9de2da28055c08!8m2!3d20.2732195!4d72.9965643!16s%2Fg%2F11xctzh7zl!19sChIJPa4DX1rL4DsRCFwFKNrinTw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Osmic+Skin+and+Hair+Clinic/data=!4m7!3m6!1s0x3be0cb5a5f03ae3d:0x3c9de2da28055c08!8m2!3d20.2732195!4d72.9965643!16s%2Fg%2F11xctzh7zl!19sChIJPa4DX1rL4DsRCFwFKNrinTw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2732195,
+      "lng": 72.9965643,
+      "label": "Osmic Skin and Hair Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prayosha-hospital-pvt-ltd-silvassa",
+    "name": "Prayosha Hospital Pvt Ltd",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose Prayosha Hospital Pvt Ltd for its strength in Orthopedic Surgery In Silvassa. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0260 264 2709",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shree Rangkrupa Building, PWD-Road Opp - Father Agnelo School, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "PWD-Road Opp - Father Agnelo School",
+    "landmark": "Silvassa",
+    "emergencyContact": "0260 264 2709",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Prayosha+Hospital+Pvt+Ltd/data=!4m7!3m6!1s0x3be0cb427b793807:0xda32b4aafec6861e!8m2!3d20.2715827!4d73.0083805!16s%2Fg%2F1ptxjt65r!19sChIJBzh5e0LL4DsRHobG_qq0Mto?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prayosha+Hospital+Pvt+Ltd/data=!4m7!3m6!1s0x3be0cb427b793807:0xda32b4aafec6861e!8m2!3d20.2715827!4d73.0083805!16s%2Fg%2F1ptxjt65r!19sChIJBzh5e0LL4DsRHobG_qq0Mto?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2715827,
+      "lng": 73.0083805,
+      "label": "Prayosha Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pulse-hospital-silvassa",
+    "name": "PULSE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PULSE HOSPITAL is a prominent hospital in Silvassa, known for structured tertiary care across Liver Transplant Surgery In Silvassa. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084695 17733",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Horizon tower Kilvani Road, Kilavni Naka Cir, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Kilavni Naka Cir",
+    "landmark": "Silvassa",
+    "emergencyContact": "084695 17733",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/PULSE+HOSPITAL/data=!4m7!3m6!1s0x3be0cb68dfa8ee45:0x4aa71da57bb80685!8m2!3d20.2766233!4d73.0078759!16s%2Fg%2F11bz0dl9c1!19sChIJRe6o32jL4DsRhQa4e6Udp0o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PULSE+HOSPITAL/data=!4m7!3m6!1s0x3be0cb68dfa8ee45:0x4aa71da57bb80685!8m2!3d20.2766233!4d73.0078759!16s%2Fg%2F11bz0dl9c1!19sChIJRe6o32jL4DsRhQa4e6Udp0o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2766233,
+      "lng": 73.0078759,
+      "label": "PULSE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rushikesh-physiotherapy-clinic-silvassa",
+    "name": "Rushikesh Physiotherapy Clinic",
+    "type": "Physiotherapy Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rushikesh Physiotherapy Clinic is a prominent physiotherapy center in Silvassa, known for structured tertiary care across Spine Surgery In Silvassa and Physiotherapy Center. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098254 43291",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 218, Sahajanand Integrity, Kilavani road, beside Pramukh Gardens, opp. Signature height, Amli Ind. Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Amli Ind. Estate",
+    "landmark": "beside Pramukh Gardens, opp. Signature height, Amli Ind. Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "098254 43291",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Silvassa",
+      "Physiotherapy Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Rushikesh+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3be0cb94d4585b53:0xfb2acfcd0e98777f!8m2!3d20.280478!4d73.010871!16s%2Fg%2F11ft01khjm!19sChIJU1tY1JTL4DsRf3eYDs3PKvs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rushikesh+Physiotherapy+Clinic/data=!4m7!3m6!1s0x3be0cb94d4585b53:0xfb2acfcd0e98777f!8m2!3d20.280478!4d73.010871!16s%2Fg%2F11ft01khjm!19sChIJU1tY1JTL4DsRf3eYDs3PKvs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.280478,
+      "lng": 73.010871,
+      "label": "Rushikesh Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saanvi-dental-care-silvassa",
+    "name": "SAANVI DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Silvassa, SAANVI DENTAL CARE delivers integrated care across Oral Surgery In Silvassa. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099254 03010",
+    "alternatePhone": "97261 34288",
+    "website": "http://www.saanvidentalcare.in/",
+    "address": "Dr. AMIT MATHUR (MDS SAANVI DENTAL CARE 1135/2, Naroli Rd, opp. Shifa Medical, near Vardhaman Hospital, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "near Vardhaman Hospital",
+    "landmark": "near Vardhaman Hospital, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "97261 34288",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SAANVI+DENTAL+CARE/data=!4m7!3m6!1s0x3be0cb677c741439:0xb2c019f0c1b52b55!8m2!3d20.2715231!4d73.0017517!16s%2Fg%2F12hqqkct1!19sChIJORR0fGfL4DsRVSu1wfAZwLI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAANVI+DENTAL+CARE/data=!4m7!3m6!1s0x3be0cb677c741439:0xb2c019f0c1b52b55!8m2!3d20.2715231!4d73.0017517!16s%2Fg%2F12hqqkct1!19sChIJORR0fGfL4DsRVSu1wfAZwLI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2715231,
+      "lng": 73.0017517,
+      "label": "SAANVI DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sadguru-dental-care-and-implant-clinic-dental-care-dental-implant-clinic-braces-treatment-in-silvassa-silvassa",
+    "name": "Sadguru Dental Care and Implant Clinic -Dental Care |Dental Implant Clinic |Braces Treatment in Silvassa",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Silvassa, Sadguru Dental Care and Implant Clinic -Dental Care |Dental Implant Clinic |Braces Treatment in Silvassa brings together specialists for Oral Surgery In Silvassa. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@example.com",
+    "phone": "070461 23441",
+    "alternatePhone": "",
+    "website": "http://sadgurudentalcaresilvassa.in/",
+    "address": "Sadguru Dental Care and Implant Clinic, Premaldeep Square, 502, Dr. Hemant Jivnani, opposite Pravin Tailors, MDS- Prosthodontics, naka, Kilavani, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Kilavani",
+    "landmark": "opposite Pravin Tailors, MDS- Prosthodontics, naka, Kilavani, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "070461 23441",
+    "emergencyServices": false,
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://instagram.com",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/embed/692dhrQoC68?feature=oembed?playlist=692dhrQoC68&mute=0&autoplay=1&loop=no&controls=0&start=&end=",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sadguru+Dental+Care+and+Implant+Clinic+-Dental+Care+%7CDental+Implant+Clinic+%7CBraces+Treatment+in+Silvassa/data=!4m7!3m6!1s0x3be0cb5d4931bb4d:0x1bfed7262035694b!8m2!3d20.2752113!4d73.0061399!16s%2Fg%2F11f37dbkvs!19sChIJTbsxSV3L4DsRS2k1ICbX_hs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sadguru+Dental+Care+and+Implant+Clinic+-Dental+Care+%7CDental+Implant+Clinic+%7CBraces+Treatment+in+Silvassa/data=!4m7!3m6!1s0x3be0cb5d4931bb4d:0x1bfed7262035694b!8m2!3d20.2752113!4d73.0061399!16s%2Fg%2F11f37dbkvs!19sChIJTbsxSV3L4DsRS2k1ICbX_hs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2752113,
+      "lng": 73.0061399,
+      "label": "Sadguru Dental Care and Implant Clinic -Dental Care |Dental Implant Clinic |Braces Treatment in Silvassa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shayona-hospital-silvassa",
+    "name": "Shayona Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose Shayona Hospital for its strength in Liver Transplant Surgery In Silvassa. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094281 64789",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Soubhagya Inn, Silvassa - Vapi Rd, opposite Hotel, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "opposite Hotel",
+    "landmark": "opposite Hotel, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "094281 64789",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shayona+Hospital/data=!4m7!3m6!1s0x3be0cb7cc7aea563:0xc892910df0e2e742!8m2!3d20.2835806!4d72.9975629!16s%2Fg%2F11b5pj51qv!19sChIJY6Wux3zL4DsRQufi8A2Rksg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shayona+Hospital/data=!4m7!3m6!1s0x3be0cb7cc7aea563:0xc892910df0e2e742!8m2!3d20.2835806!4d72.9975629!16s%2Fg%2F11b5pj51qv!19sChIJY6Wux3zL4DsRQufi8A2Rksg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2835806,
+      "lng": 72.9975629,
+      "label": "Shayona Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-sainath-dental-clinic-silvassa",
+    "name": "Shree Sainath Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Sainath Dental Clinic is a prominent dental clinic in Silvassa, known for structured tertiary care across Oral Surgery In Silvassa. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063522 01895",
+    "alternatePhone": "",
+    "website": "",
+    "address": "112, Perin Complex, Kilvani Road, Bavisa Faliya, near Bal Bhavan, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "near Bal Bhavan",
+    "landmark": "near Bal Bhavan, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "063522 01895",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Sainath+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb68154f803d:0x1cdb012a2468b1b6!8m2!3d20.274663!4d73.006848!16s%2Fg%2F1q6j3hb61!19sChIJPYBPFWjL4DsRtrFoJCoB2xw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Sainath+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb68154f803d:0x1cdb012a2468b1b6!8m2!3d20.274663!4d73.006848!16s%2Fg%2F1q6j3hb61!19sChIJPYBPFWjL4DsRtrFoJCoB2xw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.274663,
+      "lng": 73.006848,
+      "label": "Shree Sainath Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-sainath-hospital-silvassa",
+    "name": "Shree Sainath Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Sainath Hospital is a prominent hospital in Silvassa, known for structured tertiary care across Liver Transplant Surgery In Silvassa. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097249 16995",
+    "alternatePhone": "",
+    "website": "",
+    "address": "102, Perin Complex, Kilvani Rd, Opposite Bal Bhavan, Bavisa Faliya, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Bavisa Faliya",
+    "landmark": "Opposite Bal Bhavan, Bavisa Faliya, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "097249 16995",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Sainath+Hospital/data=!4m7!3m6!1s0x3be0cb6814d11b63:0xefb2f3c56aaf44a1!8m2!3d20.2734768!4d73.0063541!16s%2Fg%2F1q6j35gty!19sChIJYxvRFGjL4DsRoUSvasXzsu8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Sainath+Hospital/data=!4m7!3m6!1s0x3be0cb6814d11b63:0xefb2f3c56aaf44a1!8m2!3d20.2734768!4d73.0063541!16s%2Fg%2F1q6j35gty!19sChIJYxvRFGjL4DsRoUSvasXzsu8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2734768,
+      "lng": 73.0063541,
+      "label": "Shree Sainath Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-vinoba-bhave-civil-hospital-silvassa",
+    "name": "Shri Vinoba Bhave Civil Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Vinoba Bhave Civil Hospital is a prominent general hospital in Silvassa, known for structured tertiary care across Liver Transplant Surgery In Silvassa. With public-facing highlights like Google rating 3.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0260 263 0102",
+    "alternatePhone": "",
+    "website": "http://vbch.dnh.nic.in/",
+    "address": "7294+MQM, Sayli Rd, near Collectorate, Solanki Sadan, Samarvarni, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Samarvarni",
+    "landmark": "near Collectorate, Solanki Sadan, Samarvarni, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "0260 263 0102",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Vinoba+Bhave+Civil+Hospital/data=!4m7!3m6!1s0x3be0cb42616d641b:0xb60b3a17730a1a75!8m2!3d20.2707155!4d73.0076634!16s%2Fg%2F11fgj7yc5k!19sChIJG2RtYULL4DsRdRoKcxc6C7Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Vinoba+Bhave+Civil+Hospital/data=!4m7!3m6!1s0x3be0cb42616d641b:0xb60b3a17730a1a75!8m2!3d20.2707155!4d73.0076634!16s%2Fg%2F11fgj7yc5k!19sChIJG2RtYULL4DsRdRoKcxc6C7Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2707155,
+      "lng": 73.0076634,
+      "label": "Shri Vinoba Bhave Civil Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "silvacare-hospital-silvassa",
+    "name": "SilvaCare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SilvaCare Hospital is a prominent hospital in Silvassa, known for structured tertiary care across Liver Transplant Surgery In Silvassa. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081410 50606",
+    "alternatePhone": "",
+    "website": "http://silvacare.in/",
+    "address": "Siddhi Tower, 1, Dayat Falia, Amli Ind. Estate, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Amli Ind. Estate",
+    "landmark": "Dayat Falia",
+    "emergencyContact": "081410 50606",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SilvaCare+Hospital/data=!4m7!3m6!1s0x3be0cbacce6d7471:0xced0c47721250698!8m2!3d20.2857104!4d72.9952966!16s%2Fg%2F11kgpg4gvj!19sChIJcXRtzqzL4DsRmAYlIXfE0M4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SilvaCare+Hospital/data=!4m7!3m6!1s0x3be0cbacce6d7471:0xced0c47721250698!8m2!3d20.2857104!4d72.9952966!16s%2Fg%2F11kgpg4gvj!19sChIJcXRtzqzL4DsRmAYlIXfE0M4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2857104,
+      "lng": 72.9952966,
+      "label": "SilvaCare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "silvassa-dental-care-silvassa",
+    "name": "Silvassa Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Silvassa Dental Care has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Oral Surgery In Silvassa. The facility stands out for Google rating 2.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nagar Haveli, 107,Harileelacomplex,Opp Balbhavan,above samsung smart plaza, Kilavni Naka Cir, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Kilavni Naka Cir",
+    "landmark": "Harileelacomplex",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Silvassa+Dental+Care/data=!4m7!3m6!1s0x3be0cb2846bc81e3:0x3c14315e1929a4eb!8m2!3d20.2723953!4d73.0066557!16s%2Fg%2F11p5lv4t9_!19sChIJ44G8RijL4DsR66QpGV4xFDw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Silvassa+Dental+Care/data=!4m7!3m6!1s0x3be0cb2846bc81e3:0x3c14315e1929a4eb!8m2!3d20.2723953!4d73.0066557!16s%2Fg%2F11p5lv4t9_!19sChIJ44G8RijL4DsR66QpGV4xFDw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2723953,
+      "lng": 73.0066557,
+      "label": "Silvassa Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smilearc-dental-and-implant-centre-silvassa-u-t-of",
+    "name": "SmileArc Dental & Implant centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in silvassa U. T. of, SmileArc Dental & Implant centre brings together specialists for Oral Surgery In Silvassa. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no 23 gokulesh complex above ganu arts silvassa - vapi main road amli, mandir falia, silvassa U. T. of, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "silvassa U. T. of",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "mandir falia",
+    "landmark": "silvassa U. T. of",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/SmileArc+Dental+%26+Implant+centre/data=!4m7!3m6!1s0x3be0cb2993a69b4f:0xdb8e6946c0ea88f7!8m2!3d20.2816333!4d72.9991156!16s%2Fg%2F11fcs4ts7m!19sChIJT5umkynL4DsR94jqwEZpjts?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SmileArc+Dental+%26+Implant+centre/data=!4m7!3m6!1s0x3be0cb2993a69b4f:0xdb8e6946c0ea88f7!8m2!3d20.2816333!4d72.9991156!16s%2Fg%2F11fcs4ts7m!19sChIJT5umkynL4DsR94jqwEZpjts?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2816333,
+      "lng": 72.9991156,
+      "label": "SmileArc Dental & Implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trident-hospital-silvassa",
+    "name": "Trident Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trident Hospital has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Orthopedic Surgery In Silvassa. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "15, Kilvani Rd, Near Vraj Dham, Park City, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Park City",
+    "landmark": "Near Vraj Dham, Park City, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Trident+Hospital/data=!4m7!3m6!1s0x3be0cbf7d794b1bd:0x5d0e45c09e17e224!8m2!3d20.2788275!4d73.0089616!16s%2Fg%2F11fsth70fp!19sChIJvbGU1_fL4DsRJOIXnsBFDl0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Trident+Hospital/data=!4m7!3m6!1s0x3be0cbf7d794b1bd:0x5d0e45c09e17e224!8m2!3d20.2788275!4d73.0089616!16s%2Fg%2F11fsth70fp!19sChIJvbGU1_fL4DsRJOIXnsBFDl0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2788275,
+      "lng": 73.0089616,
+      "label": "Trident Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tvam-cosmetic-clinic-best-cosmetic-clinic-skin-and-cosmetic-clinic-skin-care-clinic-in-silvassa-silvassa",
+    "name": "Tvam Cosmetic Clinic -Best Cosmetic Clinic |Skin & Cosmetic Clinic |Skin Care Clinic in Silvassa",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Silvassa often choose Tvam Cosmetic Clinic -Best Cosmetic Clinic |Skin & Cosmetic Clinic |Skin Care Clinic in Silvassa for its strength in Cosmetic Surgery In Silvassa. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, Kilwaninaka rotary circle, above Rajlaxmi Jwellers, Silvassa, Gujarat 396230",
+    "city": "Silvassa",
+    "state": "Gujarat",
+    "pincode": "396230",
+    "locality": "above Rajlaxmi Jwellers",
+    "landmark": "above Rajlaxmi Jwellers",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Tvam+Cosmetic+Clinic+-Best+Cosmetic+Clinic+%7CSkin+%26+Cosmetic+Clinic+%7CSkin+Care+Clinic+in+Silvassa/data=!4m7!3m6!1s0x3be0cb9db18cbb1d:0xe4331f16306bc047!8m2!3d20.2751938!4d73.0076111!16s%2Fg%2F11b5pk7t1q!19sChIJHbuMsZ3L4DsRR8BrMBYfM-Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tvam+Cosmetic+Clinic+-Best+Cosmetic+Clinic+%7CSkin+%26+Cosmetic+Clinic+%7CSkin+Care+Clinic+in+Silvassa/data=!4m7!3m6!1s0x3be0cb9db18cbb1d:0xe4331f16306bc047!8m2!3d20.2751938!4d73.0076111!16s%2Fg%2F11b5pk7t1q!19sChIJHbuMsZ3L4DsRR8BrMBYfM-Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2751938,
+      "lng": 73.0076111,
+      "label": "Tvam Cosmetic Clinic -Best Cosmetic Clinic |Skin & Cosmetic Clinic |Skin Care Clinic in Silvassa",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vardhaman-hospital-silvassa",
+    "name": "Vardhaman Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Silvassa, Vardhaman Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Silvassa. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0260 263 0769",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Road, Silvassa - Bhilad Rd, Near Axis Bank, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Near Axis Bank",
+    "landmark": "Near Axis Bank, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "0260 263 0769",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Vardhaman+Hospital/data=!4m7!3m6!1s0x3be0cb677dbc69cf:0xeefcfea5aaccd8e4!8m2!3d20.2712728!4d73.0014309!16s%2Fg%2F1hdzl32q1!19sChIJz2m8fWfL4DsR5NjMqqX-_O4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vardhaman+Hospital/data=!4m7!3m6!1s0x3be0cb677dbc69cf:0xeefcfea5aaccd8e4!8m2!3d20.2712728!4d73.0014309!16s%2Fg%2F1hdzl32q1!19sChIJz2m8fWfL4DsR5NjMqqX-_O4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2712728,
+      "lng": 73.0014309,
+      "label": "Vardhaman Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vinayak-dental-clinic-silvassa",
+    "name": "Vinayak Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vinayak Dental Clinic has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Oral Surgery In Silvassa and Dentist. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "097236 42177",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shop A/104, New Gog building, Sanjibhai Rupjibhai Delkar Marg, beside Mathura sweets, above Banglore Bakery, Solanki Sadan, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Solanki Sadan",
+    "landmark": "beside Mathura sweets, above Banglore Bakery, Solanki Sadan, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "097236 42177",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Vinayak+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb42bfb11e81:0x5cf795d9f5b4a14d!8m2!3d20.2707092!4d73.0064457!16s%2Fg%2F1q6hz9ytl!19sChIJgR6xv0LL4DsRTaG09dmV91w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vinayak+Dental+Clinic/data=!4m7!3m6!1s0x3be0cb42bfb11e81:0x5cf795d9f5b4a14d!8m2!3d20.2707092!4d73.0064457!16s%2Fg%2F1q6hz9ytl!19sChIJgR6xv0LL4DsRTaG09dmV91w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2707092,
+      "lng": 73.0064457,
+      "label": "Vinayak Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yog-dental-and-oral-care-silvassa",
+    "name": "Yog Dental & Oral Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yog Dental & Oral Care is a prominent dental clinic in Silvassa, known for structured tertiary care across Oral Surgery In Silvassa. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "096247 95786",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Harsh Complex, Silvassa - Vapi Rd, near Jalaram Hospital, Opposite Silvassa Police Station, Bavisa Faliya, Silvassa, Dadra, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Bavisa Faliya",
+    "landmark": "near Jalaram Hospital, Opposite Silvassa Police Station, Bavisa Faliya, Silvassa, Dadra, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "emergencyContact": "096247 95786",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Yog+Dental+%26+Oral+Care/data=!4m7!3m6!1s0x3be0cb666129dda5:0xebab649d2733a908!8m2!3d20.2762045!4d73.0024863!16s%2Fg%2F1q6jyr8z7!19sChIJpd0pYWbL4DsRCKkzJ51kq-s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yog+Dental+%26+Oral+Care/data=!4m7!3m6!1s0x3be0cb666129dda5:0xebab649d2733a908!8m2!3d20.2762045!4d73.0024863!16s%2Fg%2F1q6jyr8z7!19sChIJpd0pYWbL4DsRCKkzJ51kq-s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2762045,
+      "lng": 73.0024863,
+      "label": "Yog Dental & Oral Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yogi-hospital-silvassa",
+    "name": "Yogi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yogi Hospital has built a strong reputation in Silvassa for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Silvassa. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096241 55003",
+    "alternatePhone": "",
+    "website": "",
+    "address": "72J5+28Q, Kilvani Rd, opp. Park city, Park City, Amli, Silvassa, Dadra and Nagar Haveli and Daman and Diu 396230",
+    "city": "Silvassa",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "pincode": "396230",
+    "locality": "Amli",
+    "landmark": "opp. Park city",
+    "emergencyContact": "096241 55003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Silvassa"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Yogi+Hospital/data=!4m7!3m6!1s0x3be0cb5c00000001:0x16e43503a0b158c8!8m2!3d20.2795933!4d73.0081241!16s%2Fg%2F1vcjkq8f!19sChIJAQAAAFzL4DsRyFixoAM15BY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yogi+Hospital/data=!4m7!3m6!1s0x3be0cb5c00000001:0x16e43503a0b158c8!8m2!3d20.2795933!4d73.0081241!16s%2Fg%2F1vcjkq8f!19sChIJAQAAAFzL4DsRyFixoAM15BY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.2795933,
+      "lng": 73.0081241,
+      "label": "Yogi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "and-gynecology-ivf-maternity-and-laparoscopy-hospital-infertility-hospital-vapi-gujarat-vapi",
+    "name": "✅𝗜𝗦𝗛𝗔 𝗪𝗼𝗺𝗲𝗻'𝘀 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲| Gynecology| IVF| Maternity and Laparoscopy Hospital| Infertility Hospital Vapi Gujarat",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Vapi, ✅𝗜𝗦𝗛𝗔 𝗪𝗼𝗺𝗲𝗻'𝘀 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲| Gynecology| IVF| Maternity and Laparoscopy Hospital| Infertility Hospital Vapi Gujarat delivers integrated care across IVF In Silvassa and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094038 91590",
+    "alternatePhone": "",
+    "website": "http://www.ishacare.in/",
+    "address": "2nd floor, Raj Complex, near D-Mart, Near Cine Park, Chanod Colony, Chanod, Vapi, Gujarat 396195",
+    "city": "Vapi",
+    "state": "Gujarat",
+    "pincode": "396195",
+    "locality": "Chanod",
+    "landmark": "near D-Mart, Near Cine Park, Chanod Colony, Chanod, Vapi, Gujarat 396195",
+    "emergencyContact": "094038 91590",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Silvassa",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85%F0%9D%97%9C%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%94+%F0%9D%97%AA%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%27%F0%9D%98%80+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%26+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2%7C+Gynecology%7C+IVF%7C+Maternity+and+Laparoscopy+Hospital%7C+Infertility+Hospital+Vapi+Gujarat/data=!4m7!3m6!1s0x3be0cfca2f3c2f13:0xe63cce1043b0495f!8m2!3d20.3533534!4d72.9300651!16s%2Fg%2F11swpgf335!19sChIJEy88L8rP4DsRX0mwQxDOPOY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85%F0%9D%97%9C%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%94+%F0%9D%97%AA%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%27%F0%9D%98%80+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+%26+%F0%9D%97%9C%F0%9D%97%A9%F0%9D%97%99+%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B2%7C+Gynecology%7C+IVF%7C+Maternity+and+Laparoscopy+Hospital%7C+Infertility+Hospital+Vapi+Gujarat/data=!4m7!3m6!1s0x3be0cfca2f3c2f13:0xe63cce1043b0495f!8m2!3d20.3533534!4d72.9300651!16s%2Fg%2F11swpgf335!19sChIJEy88L8rP4DsRX0mwQxDOPOY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.3533534,
+      "lng": 72.9300651,
+      "label": "✅𝗜𝗦𝗛𝗔 𝗪𝗼𝗺𝗲𝗻'𝘀 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 & 𝗜𝗩𝗙 𝗖𝗲𝗻𝘁𝗿𝗲| Gynecology| IVF| Maternity and Laparoscopy Hospital| Infertility Hospital Vapi Gujarat",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

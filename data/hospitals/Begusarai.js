@@ -1,0 +1,10821 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "al-shifa-hospital-begusarai",
+    "name": "Al-Shifa Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Al-Shifa Hospital brings together specialists for Liver Transplant Surgery In Begusarai. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Masjid, Dr. M Akhtar Road, Kachahari Rd, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Kachahari Rd",
+    "landmark": "Kachahari Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Al-Shifa+Hospital/data=!4m7!3m6!1s0x39f21bf54c959e13:0x5c1dae7e300259af!8m2!3d25.4171831!4d86.1342988!16s%2Fg%2F11f7klr1bs!19sChIJE56VTPUb8jkRr1kCMH6uHVw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Al-Shifa+Hospital/data=!4m7!3m6!1s0x39f21bf54c959e13:0x5c1dae7e300259af!8m2!3d25.4171831!4d86.1342988!16s%2Fg%2F11f7klr1bs!19sChIJE56VTPUb8jkRr1kCMH6uHVw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4171831,
+      "lng": 86.1342988,
+      "label": "Al-Shifa Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "all-season-dental-care-begusarai",
+    "name": "All Season Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, All Season Dental Care offers coordinated hospital care with major focus on Oral Surgery In Begusarai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Heera Complex, Main gate, Main Rd, opposite GD College Road, Nirala Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Nirala Nagar",
+    "landmark": "opposite GD College Road, Nirala Nagar, Begusarai, Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/All+Season+Dental+Care/data=!4m7!3m6!1s0x39f21b84f37b7727:0x6c96340d2baff617!8m2!3d25.4171754!4d86.1258238!16s%2Fg%2F11vxpgyp6m!19sChIJJ3d784Qb8jkRF_avKw00lmw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/All+Season+Dental+Care/data=!4m7!3m6!1s0x39f21b84f37b7727:0x6c96340d2baff617!8m2!3d25.4171754!4d86.1258238!16s%2Fg%2F11vxpgyp6m!19sChIJJ3d784Qb8jkRF_avKw00lmw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4171754,
+      "lng": 86.1258238,
+      "label": "All Season Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amaan-dental-clinic-begusarai",
+    "name": "AMAAN DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Begusarai, AMAAN DENTAL CLINIC delivers integrated care across Oral Surgery In Begusarai. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079090 96272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pokharia Rd, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "079090 96272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/AMAAN+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f21b4cbcb331c3:0xf3af1c6284ec269b!8m2!3d25.416435!4d86.1388806!16s%2Fg%2F11pzbkmtkn!19sChIJwzGzvEwb8jkRmybshGIcr_M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AMAAN+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f21b4cbcb331c3:0xf3af1c6284ec269b!8m2!3d25.416435!4d86.1388806!16s%2Fg%2F11pzbkmtkn!19sChIJwzGzvEwb8jkRmybshGIcr_M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.416435,
+      "lng": 86.1388806,
+      "label": "AMAAN DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amaan-dental-clinic-dr-md-anzar-anis-begusarai",
+    "name": "AMAAN DENTAL CLINIC (Dr Md Anzar Anis)",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, AMAAN DENTAL CLINIC (Dr Md Anzar Anis) offers coordinated hospital care with major focus on Oral Surgery In Begusarai. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "079090 96272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nawab chowk, Pokharia Rd, near shamad chowk, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "near shamad chowk",
+    "landmark": "near shamad chowk, Begusarai, Bihar 851101",
+    "emergencyContact": "079090 96272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/AMAAN+DENTAL+CLINIC+%28Dr+Md+Anzar+Anis%29/data=!4m7!3m6!1s0x39f21bb692549847:0xbeae67eace177df6!8m2!3d25.4165154!4d86.1390003!16s%2Fg%2F11t7x_kg1f!19sChIJR5hUkrYb8jkR9n0Xzupnrr4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AMAAN+DENTAL+CLINIC+%28Dr+Md+Anzar+Anis%29/data=!4m7!3m6!1s0x39f21bb692549847:0xbeae67eace177df6!8m2!3d25.4165154!4d86.1390003!16s%2Fg%2F11t7x_kg1f!19sChIJR5hUkrYb8jkR9n0Xzupnrr4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4165154,
+      "lng": 86.1390003,
+      "label": "AMAAN DENTAL CLINIC (Dr Md Anzar Anis)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amar-jyoti-hospital-begusarai",
+    "name": "Amar Jyoti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Amar Jyoti Hospital is a prominent hospital in Begusarai, known for structured tertiary care across Orthopedic Surgery In Begusarai. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088738 31650",
+    "alternatePhone": "",
+    "website": "http://amarjyotihospital.com/",
+    "address": "C3JQ+CW7, Sushil Nagar, Begusarai, Bihar 851134",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851134",
+    "locality": "Sushil Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "088738 31650",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Amar+Jyoti+Hospital/data=!4m7!3m6!1s0x39f20f7175512009:0xc8092c1395ccdda9!8m2!3d25.4310274!4d86.0897879!16s%2Fg%2F11plg3ldt_!19sChIJCSBRdXEP8jkRqd3MlRMsCcg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amar+Jyoti+Hospital/data=!4m7!3m6!1s0x39f20f7175512009:0xc8092c1395ccdda9!8m2!3d25.4310274!4d86.0897879!16s%2Fg%2F11plg3ldt_!19sChIJCSBRdXEP8jkRqd3MlRMsCcg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4310274,
+      "lng": 86.0897879,
+      "label": "Amar Jyoti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apex-hospital-begusarai",
+    "name": "Apex Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apex Hospital is a prominent hospital in Begusarai, known for structured tertiary care across Knee Replacement Surgery In Begusarai. With public-facing highlights like Google rating 2.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kalisthan, Matihani Rd, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Matihani Rd",
+    "landmark": "Begusarai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3"
+    ],
+    "image": "https://www.google.com/maps/place/Apex+Hospital/data=!4m7!3m6!1s0x39f21b5fc0d9da2b:0x6a122d496c0924d0!8m2!3d25.4127086!4d86.1382133!16s%2Fg%2F11qsmwqcfn!19sChIJK9rZwF8b8jkR0CQJbEktEmo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apex+Hospital/data=!4m7!3m6!1s0x39f21b5fc0d9da2b:0x6a122d496c0924d0!8m2!3d25.4127086!4d86.1382133!16s%2Fg%2F11qsmwqcfn!19sChIJK9rZwF8b8jkR0CQJbEktEmo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4127086,
+      "lng": 86.1382133,
+      "label": "Apex Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "axis-hospital-and-research-center-begusarai",
+    "name": "AXIS HOSPITAL AND RESEARCH CENTER",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, AXIS HOSPITAL AND RESEARCH CENTER delivers integrated care across Cancer Surgery In Begusarai. With public-facing highlights like Google rating 2.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062433 59366",
+    "alternatePhone": "",
+    "website": "http://axishospitalbgs.com/",
+    "address": "NH 31, in front of D C SINGH PUMP, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "062433 59366",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AXIS+HOSPITAL+AND+RESEARCH+CENTER/data=!4m7!3m6!1s0x39f21b1a9d534dfd:0x2b8dc9a97f751125!8m2!3d25.4222397!4d86.1243976!16s%2Fg%2F11rf7mcqv6!19sChIJ_U1TnRob8jkRJRF1f6nJjSs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AXIS+HOSPITAL+AND+RESEARCH+CENTER/data=!4m7!3m6!1s0x39f21b1a9d534dfd:0x2b8dc9a97f751125!8m2!3d25.4222397!4d86.1243976!16s%2Fg%2F11rf7mcqv6!19sChIJ_U1TnRob8jkRJRF1f6nJjSs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4222397,
+      "lng": 86.1243976,
+      "label": "AXIS HOSPITAL AND RESEARCH CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayushman-hospital-bharti-surgical-sansthan-laparoscopic-and-maternity-care-centre-begusarai",
+    "name": "Ayushman Hospital(Bharti Surgical Sansthan , Laparoscopic & Maternity care centre)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Ayushman Hospital(Bharti Surgical Sansthan , Laparoscopic & Maternity care centre) brings together specialists for Liver Transplant Surgery In Begusarai. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "East from Jail, NH 31, Mahammadpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Mahammadpur",
+    "landmark": "Mahammadpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Ayushman+Hospital%28Bharti+Surgical+Sansthan+,+Laparoscopic+%26+Maternity+care+centre%29/data=!4m7!3m6!1s0x39f21b52353677eb:0x2db7b84c032a19da!8m2!3d25.4205147!4d86.1481584!16s%2Fg%2F11hyrf43jk!19sChIJ63c2NVIb8jkR2hkqA0y4ty0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayushman+Hospital%28Bharti+Surgical+Sansthan+,+Laparoscopic+%26+Maternity+care+centre%29/data=!4m7!3m6!1s0x39f21b52353677eb:0x2db7b84c032a19da!8m2!3d25.4205147!4d86.1481584!16s%2Fg%2F11hyrf43jk!19sChIJ63c2NVIb8jkR2hkqA0y4ty0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4205147,
+      "lng": 86.1481584,
+      "label": "Ayushman Hospital(Bharti Surgical Sansthan , Laparoscopic & Maternity care centre)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "b-m-hospital-begusarai",
+    "name": "B M Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "B M Hospital is a prominent hospital in Begusarai, known for structured tertiary care across Liver Transplant Surgery In Begusarai. Hospital capacity markers such as Google rating 3.6 and 4+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088777 37115",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vidyapati Marg, Chanakya Nagar, Begusarai, Mohan Eghu, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chanakya Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "088777 37115",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "4+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/B+M+Hospital/data=!4m7!3m6!1s0x39f21b304d652faf:0x76c7d6eaf256f8f8!8m2!3d25.4140425!4d86.1464418!16s%2Fg%2F11g6mj7j4r!19sChIJry9lTTAb8jkR-PhW8urWx3Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/B+M+Hospital/data=!4m7!3m6!1s0x39f21b304d652faf:0x76c7d6eaf256f8f8!8m2!3d25.4140425!4d86.1464418!16s%2Fg%2F11g6mj7j4r!19sChIJry9lTTAb8jkR-PhW8urWx3Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4140425,
+      "lng": 86.1464418,
+      "label": "B M Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 4,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baba-viswanathan-kidney-care-and-stone-centre-begusarai",
+    "name": "Baba Viswanathan kidney care & stone centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baba Viswanathan kidney care & stone centre is a prominent hospital in Begusarai, known for structured tertiary care across Kidney Transplant Surgery In Begusarai and Kidney Care. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092296 11986",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dak Bunglow Rd, near Omer girls high school, Chanakya Nagar, Begusarai, Mohan Eghu, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chanakya Nagar",
+    "landmark": "near Omer girls high school, Chanakya Nagar, Begusarai, Mohan Eghu, Bihar 851101",
+    "emergencyContact": "092296 11986",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Baba+Viswanathan+kidney+care+%26+stone+centre/data=!4m7!3m6!1s0x39f21b98d239e5d5:0x9864125fcd454622!8m2!3d25.4129604!4d86.1449479!16s%2Fg%2F11v_49xj2l!19sChIJ1eU50pgb8jkRIkZFzV8SZJg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baba+Viswanathan+kidney+care+%26+stone+centre/data=!4m7!3m6!1s0x39f21b98d239e5d5:0x9864125fcd454622!8m2!3d25.4129604!4d86.1449479!16s%2Fg%2F11v_49xj2l!19sChIJ1eU50pgb8jkRIkZFzV8SZJg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4129604,
+      "lng": 86.1449479,
+      "label": "Baba Viswanathan kidney care & stone centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "begusarai-fertility-and-ivf-clinic-begusarai",
+    "name": "BEGUSARAI FERTILITY & IVF CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BEGUSARAI FERTILITY & IVF CLINIC has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering IVF In Begusarai and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C47R+7HQ, काली स्थान रोड, Bishanpur, Begusarai, Hemra, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Bishanpur",
+    "landmark": "Bishanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Begusarai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/BEGUSARAI+FERTILITY+%26+IVF+CLINIC/data=!4m7!3m6!1s0x39f21b00343acfab:0x2d30512e39724cf1!8m2!3d25.4132104!4d86.1415305!16s%2Fg%2F11mdsfgn3v!19sChIJq886NAAb8jkR8UxyOS5RMC0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BEGUSARAI+FERTILITY+%26+IVF+CLINIC/data=!4m7!3m6!1s0x39f21b00343acfab:0x2d30512e39724cf1!8m2!3d25.4132104!4d86.1415305!16s%2Fg%2F11mdsfgn3v!19sChIJq886NAAb8jkR8UxyOS5RMC0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4132104,
+      "lng": 86.1415305,
+      "label": "BEGUSARAI FERTILITY & IVF CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "begusarai-neuro-psychiatry-center-begusarai",
+    "name": "Begusarai Neuro_ Psychiatry center",
+    "type": "Mental Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Begusarai Neuro_ Psychiatry center is a prominent mental hospital in Begusarai, known for structured tertiary care across Brain Surgery In Begusarai and Neurosciences. Hospital capacity markers such as Google rating 3.6 and 27+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095766 33866",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lohianagar, Begusarai, Bihar 851218",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851218",
+    "locality": "Lohianagar",
+    "landmark": "Bihar 851218",
+    "emergencyContact": "095766 33866",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Begusarai",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6",
+      "27+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Begusarai+Neuro_+Psychiatry+center/data=!4m7!3m6!1s0x39f204d44dc59ac7:0xd508ed28f28b3a7c!8m2!3d25.4265604!4d86.1372959!16s%2Fg%2F11dz5qljsp!19sChIJx5rFTdQE8jkRfDqL8ijtCNU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Begusarai+Neuro_+Psychiatry+center/data=!4m7!3m6!1s0x39f204d44dc59ac7:0xd508ed28f28b3a7c!8m2!3d25.4265604!4d86.1372959!16s%2Fg%2F11dz5qljsp!19sChIJx5rFTdQE8jkRfDqL8ijtCNU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4265604,
+      "lng": 86.1372959,
+      "label": "Begusarai Neuro_ Psychiatry center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 27,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhushan-hospital-begusarai",
+    "name": "Bhushan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhushan Hospital has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Begusarai. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099581 59817",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhushan Hospital, NH-31, At, corner, VIP Rd, Ashok Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ashok Nagar",
+    "landmark": "At",
+    "emergencyContact": "099581 59817",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bhushan+Hospital/data=!4m7!3m6!1s0x39f21b0a0d12ac77:0xc83a92ec838816d1!8m2!3d25.4225072!4d86.1395706!16s%2Fg%2F11kn3m05b8!19sChIJd6wSDQob8jkR0RaIg-ySOsg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhushan+Hospital/data=!4m7!3m6!1s0x39f21b0a0d12ac77:0xc83a92ec838816d1!8m2!3d25.4225072!4d86.1395706!16s%2Fg%2F11kn3m05b8!19sChIJd6wSDQob8jkR0RaIg-ySOsg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4225072,
+      "lng": 86.1395706,
+      "label": "Bhushan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bihar-cardiac-care-center-begusarai-ashok-nagar-pokharia",
+    "name": "Bihar Cardiac Care Center Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Ashok Nagar Pokharia, Bihar Cardiac Care Center Begusarai delivers integrated care across Heart Surgery In Begusarai and Cardiac Care. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C4CQ+WW3, Ashok Nagar Pokharia, Bihar 851101",
+    "city": "Ashok Nagar Pokharia",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "",
+    "landmark": "Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bihar+Cardiac+Care+Center+Begusarai/data=!4m7!3m6!1s0x39f21b3f648583bf:0x27797d3bc736d89!8m2!3d25.4222626!4d86.13981!16s%2Fg%2F11gznllstk!19sChIJv4OFZD8b8jkRiW1zvNOXdwI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bihar+Cardiac+Care+Center+Begusarai/data=!4m7!3m6!1s0x39f21b3f648583bf:0x27797d3bc736d89!8m2!3d25.4222626!4d86.13981!16s%2Fg%2F11gznllstk!19sChIJv4OFZD8b8jkRiW1zvNOXdwI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4222626,
+      "lng": 86.13981,
+      "label": "Bihar Cardiac Care Center Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bright-smile-dental-clinic-begusarai",
+    "name": "Bright smile dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Bright smile dental clinic brings together specialists for Oral Surgery In Begusarai. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "087091 78298",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Tilak Nagar, Vishnupur, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "Sarvodaya Nagar",
+    "emergencyContact": "087091 78298",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Bright+smile+dental+clinic/data=!4m7!3m6!1s0x39f21bee26443ce9:0x380ed1573803e3ed!8m2!3d25.4223658!4d86.1352937!16s%2Fg%2F11pqnzhlhc!19sChIJ6TxEJu4b8jkR7eMDOFfRDjg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bright+smile+dental+clinic/data=!4m7!3m6!1s0x39f21bee26443ce9:0x380ed1573803e3ed!8m2!3d25.4223658!4d86.1352937!16s%2Fg%2F11pqnzhlhc!19sChIJ6TxEJu4b8jkR7eMDOFfRDjg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4223658,
+      "lng": 86.1352937,
+      "label": "Bright smile dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "da-dental-clinic-begusarai",
+    "name": "DA DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DA DENTAL CLINIC is a prominent dental clinic in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097091 90868",
+    "alternatePhone": "",
+    "website": "http://www.dadentalclinic.co.in/",
+    "address": "Refinery road, Rd, New Colony, Begusarai, Bihar 851134",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851134",
+    "locality": "New Colony",
+    "landmark": "New Colony",
+    "emergencyContact": "097091 90868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f21b82f7165d2d:0x2e381296f4468849!8m2!3d25.4145685!4d86.1024486!16s%2Fg%2F11v6xqwwzm!19sChIJLV0W94Ib8jkRSYhG9JYSOC4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DA+DENTAL+CLINIC/data=!4m7!3m6!1s0x39f21b82f7165d2d:0x2e381296f4468849!8m2!3d25.4145685!4d86.1024486!16s%2Fg%2F11v6xqwwzm!19sChIJLV0W94Ib8jkRSYhG9JYSOC4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4145685,
+      "lng": 86.1024486,
+      "label": "DA DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "da-dental-clinic-begusarai",
+    "name": "DA Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DA Dental Clinic is a prominent dental clinic in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097091 90868",
+    "alternatePhone": "",
+    "website": "http://dadentalclinic.co.in/",
+    "address": "Lakho, Shahpur road, near Dr Dinesh kumar Verma, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "near Dr Dinesh kumar Verma",
+    "landmark": "near Dr Dinesh kumar Verma, Begusarai, Bihar 851129",
+    "emergencyContact": "097091 90868",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DA+Dental+Clinic/data=!4m7!3m6!1s0x39f21ddc918c4b67:0x1c2a792eba297cdc!8m2!3d25.4108986!4d86.1888217!16s%2Fg%2F11snqzzf1k!19sChIJZ0uMkdwd8jkR3Hwpui55Khw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DA+Dental+Clinic/data=!4m7!3m6!1s0x39f21ddc918c4b67:0x1c2a792eba297cdc!8m2!3d25.4108986!4d86.1888217!16s%2Fg%2F11snqzzf1k!19sChIJZ0uMkdwd8jkR3Hwpui55Khw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4108986,
+      "lng": 86.1888217,
+      "label": "DA Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dcdc-kidney-care-begusarai-begusarai",
+    "name": "DCDC Kidney Care - Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, DCDC Kidney Care - Begusarai brings together specialists for Kidney Transplant Surgery In Begusarai and Kidney Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jio-bp, Pokhar Thana, NH 31, near Singhaul, Sushil Nagar, Begusarai, Bihar 851134",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851134",
+    "locality": "Sushil Nagar",
+    "landmark": "near Singhaul, Sushil Nagar, Begusarai, Bihar 851134",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/DCDC+Kidney+Care+-+Begusarai/data=!4m7!3m6!1s0x39f20ff66a852203:0xfb741ec7cd080aa7!8m2!3d25.4295491!4d86.091529!16s%2Fg%2F11k9mqcn4m!19sChIJAyKFavYP8jkRpwoIzccedPs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DCDC+Kidney+Care+-+Begusarai/data=!4m7!3m6!1s0x39f20ff66a852203:0xfb741ec7cd080aa7!8m2!3d25.4295491!4d86.091529!16s%2Fg%2F11k9mqcn4m!19sChIJAyKFavYP8jkRpwoIzccedPs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4295491,
+      "lng": 86.091529,
+      "label": "DCDC Kidney Care - Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhiriti-jeevan-hospital-pvt-ltd-begusarai",
+    "name": "DHIRITI JEEVAN HOSPITAL PVT LTD",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, DHIRITI JEEVAN HOSPITAL PVT LTD brings together specialists for Heart Surgery In Begusarai. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070048 82968",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bldg. 1, NH-31, Opposit Amardeep Cinema Hall, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Opposit Amardeep Cinema Hall",
+    "landmark": "Opposit Amardeep Cinema Hall",
+    "emergencyContact": "070048 82968",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/DHIRITI+JEEVAN+HOSPITAL+PVT+LTD/data=!4m7!3m6!1s0x39f21316c5a79751:0xd5b38c2da819b54e!8m2!3d25.4201322!4d86.1212355!16s%2Fg%2F11h3lcv_8m!19sChIJUZenxRYT8jkRTrUZqC2Ms9U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DHIRITI+JEEVAN+HOSPITAL+PVT+LTD/data=!4m7!3m6!1s0x39f21316c5a79751:0xd5b38c2da819b54e!8m2!3d25.4201322!4d86.1212355!16s%2Fg%2F11h3lcv_8m!19sChIJUZenxRYT8jkRTrUZqC2Ms9U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4201322,
+      "lng": 86.1212355,
+      "label": "DHIRITI JEEVAN HOSPITAL PVT LTD",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dilip-babu-gasto-liver-endoscopy-and-ercp-centre-begusarai",
+    "name": "Dilip Babu Gasto liver endoscopy and ERCP centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Dilip Babu Gasto liver endoscopy and ERCP centre brings together specialists for Liver Transplant Surgery In Begusarai and Liver Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092291 93009",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C593+QCC, NH 31, Mahammadpur, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Mahammadpur",
+    "landmark": "Mahammadpur",
+    "emergencyContact": "092291 93009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai",
+      "Liver Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Dilip+Babu+Gasto+liver+endoscopy+and+ERCP+centre/data=!4m7!3m6!1s0x39f21b00146182df:0xf1fefcda5dcad44f!8m2!3d25.4194316!4d86.153511!16s%2Fg%2F11vwtfzqg6!19sChIJ34JhFAAb8jkRT9TKXdr8_vE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dilip+Babu+Gasto+liver+endoscopy+and+ERCP+centre/data=!4m7!3m6!1s0x39f21b00146182df:0xf1fefcda5dcad44f!8m2!3d25.4194316!4d86.153511!16s%2Fg%2F11vwtfzqg6!19sChIJ34JhFAAb8jkRT9TKXdr8_vE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4194316,
+      "lng": 86.153511,
+      "label": "Dilip Babu Gasto liver endoscopy and ERCP centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dilip-babu-gastro-liver-endoscopy-and-e-r-c-p-centre-begusarai",
+    "name": "Dilip Babu Gastro, Liver, Endoscopy & E.R.C.P Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Dilip Babu Gastro, Liver, Endoscopy & E.R.C.P Centre for its strength in Liver Transplant Surgery In Begusarai, Liver Care, and Gastroenterology. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092291 93009",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nh31, jail gate 500, meeter, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "meeter",
+    "landmark": "meeter",
+    "emergencyContact": "092291 93009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai",
+      "Liver Care",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Dilip+Babu+Gastro,+Liver,+Endoscopy+%26+E.R.C.P+Centre/data=!4m7!3m6!1s0x39f2054e60e2e35f:0x40991da651831a9d!8m2!3d25.4199445!4d86.1527762!16s%2Fg%2F11v_1_9_xp!19sChIJX-PiYE4F8jkRnRqDUaYdmUA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dilip+Babu+Gastro,+Liver,+Endoscopy+%26+E.R.C.P+Centre/data=!4m7!3m6!1s0x39f2054e60e2e35f:0x40991da651831a9d!8m2!3d25.4199445!4d86.1527762!16s%2Fg%2F11v_1_9_xp!19sChIJX-PiYE4F8jkRnRqDUaYdmUA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4199445,
+      "lng": 86.1527762,
+      "label": "Dilip Babu Gastro, Liver, Endoscopy & E.R.C.P Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eklavya-hospital-begusarai",
+    "name": "Eklavya hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Eklavya hospital has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Cancer Surgery In Begusarai. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chanakya Nagar, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Chanakya Nagar",
+    "landmark": "Bihar 851129",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Eklavya+hospital/data=!4m7!3m6!1s0x39f21ba069d82f01:0x4bfef61e952d2c4e!8m2!3d25.4177636!4d86.148353!16s%2Fg%2F11lm655xxv!19sChIJAS_YaaAb8jkRTiwtlR72_ks?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Eklavya+hospital/data=!4m7!3m6!1s0x39f21ba069d82f01:0x4bfef61e952d2c4e!8m2!3d25.4177636!4d86.148353!16s%2Fg%2F11lm655xxv!19sChIJAS_YaaAb8jkRTiwtlR72_ks?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4177636,
+      "lng": 86.148353,
+      "label": "Eklavya hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gait-wel-physiotherapy-clinic-begusarai",
+    "name": "Gait Wel Physiotherapy Clinic",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Gait Wel Physiotherapy Clinic for its strength in Knee Replacement Surgery In Begusarai and Physiotherapist. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079090 13272",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ward No.-37, Meera Nursing Home Road East of krishnamurti public school, Shivpuri Road, Pokharia, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Shivpuri Road",
+    "emergencyContact": "079090 13272",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Begusarai",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gait+Wel+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f21b2c8b8324f5:0xde035ca3b1d59a71!8m2!3d25.4207879!4d86.1393088!16s%2Fg%2F11dfwy8zgl!19sChIJ9SSDiywb8jkRcZrVsaNcA94?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gait+Wel+Physiotherapy+Clinic/data=!4m7!3m6!1s0x39f21b2c8b8324f5:0xde035ca3b1d59a71!8m2!3d25.4207879!4d86.1393088!16s%2Fg%2F11dfwy8zgl!19sChIJ9SSDiywb8jkRcZrVsaNcA94?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4207879,
+      "lng": 86.1393088,
+      "label": "Gait Wel Physiotherapy Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "glocal-hospital-begusarai-begusarai",
+    "name": "Glocal Hospital, Begusarai",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Glocal Hospital, Begusarai brings together specialists for Urologist Surgery In Begusarai. Its infrastructure includes Google rating 3.2 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095230 96206",
+    "alternatePhone": "",
+    "website": "http://www.ghspl.com/",
+    "address": "C3JR+8FP Jio-bp, Shushil Nagar Near Singhaul Pokhar Thana, NH 31, near Glocal hospital, Sushil Nagar, Begusarai, Bihar 851134",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851134",
+    "locality": "Sushil Nagar",
+    "landmark": "Near Singhaul Pokhar Thana, NH 31, near Glocal hospital, Sushil Nagar, Begusarai, Bihar 851134",
+    "emergencyContact": "095230 96206",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Glocal+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f205561eefc6d5:0x83ae1623944b5e28!8m2!3d25.4296134!4d86.0916285!16s%2Fg%2F11bwpy87rr!19sChIJ1cbvHlYF8jkRKF5LlCMWroM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Glocal+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f205561eefc6d5:0x83ae1623944b5e28!8m2!3d25.4296134!4d86.0916285!16s%2Fg%2F11bwpy87rr!19sChIJ1cbvHlYF8jkRKF5LlCMWroM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4296134,
+      "lng": 86.0916285,
+      "label": "Glocal Hospital, Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hayat-hospital-begusarai",
+    "name": "Hayat hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Hayat hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Begusarai. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C4CJ+GGP, Power House Rd, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Hayat+hospital/data=!4m7!3m6!1s0x39f21b005effca3d:0x59a8b5b8e78d82e4!8m2!3d25.421346!4d86.1313411!16s%2Fg%2F11lzfklyvl!19sChIJPcr_XgAb8jkR5IKN57i1qFk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hayat+hospital/data=!4m7!3m6!1s0x39f21b005effca3d:0x59a8b5b8e78d82e4!8m2!3d25.421346!4d86.1313411!16s%2Fg%2F11lzfklyvl!19sChIJPcr_XgAb8jkR5IKN57i1qFk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.421346,
+      "lng": 86.1313411,
+      "label": "Hayat hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hospital-begusarai",
+    "name": "Hospital",
+    "type": "Corporate Office",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Hospital for its strength in Liver Transplant Surgery In Begusarai and Corporate Office. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C4CP+J9J, Kachahari Rd, Tilak Nagar, Vishnupur, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Tilak Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai",
+      "Corporate Office"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x39f21b00720c8ac1:0xa1b6edf50f7c39e7!8m2!3d25.4215766!4d86.1358944!16s%2Fg%2F11w8gjfd0t!19sChIJwYoMcgAb8jkR5zl8D_XttqE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hospital/data=!4m7!3m6!1s0x39f21b00720c8ac1:0xa1b6edf50f7c39e7!8m2!3d25.4215766!4d86.1358944!16s%2Fg%2F11w8gjfd0t!19sChIJwYoMcgAb8jkR5zl8D_XttqE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4215766,
+      "lng": 86.1358944,
+      "label": "Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-begusarai-best-ivf-centre-begusarai",
+    "name": "Indira IVF Fertility Centre in Begusarai - Best IVF Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Indira IVF Fertility Centre in Begusarai - Best IVF Centre offers coordinated hospital care with major focus on IVF In Begusarai and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/bihar/best-ivf-centre-begusarai/?utm_source=gmb&utm_medium=listings&utm_campaign=indiraivfgmb&utm_id=seo-local",
+    "address": "Ground floor, NH 31, Har Har Mahadev Chowk, Mouza Mirganj, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Mouza Mirganj",
+    "landmark": "Har Har Mahadev Chowk",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Begusarai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Begusarai+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39f21b69451203b7:0x8de9048e5c5bc615!8m2!3d25.4204953!4d86.1184331!16s%2Fg%2F11fkxvhs2y!19sChIJtwMSRWkb8jkRFcZbXI4E6Y0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Begusarai+-+Best+IVF+Centre/data=!4m7!3m6!1s0x39f21b69451203b7:0x8de9048e5c5bc615!8m2!3d25.4204953!4d86.1184331!16s%2Fg%2F11fkxvhs2y!19sChIJtwMSRWkb8jkRFcZbXI4E6Y0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4204953,
+      "lng": 86.1184331,
+      "label": "Indira IVF Fertility Centre in Begusarai - Best IVF Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ishwar-hospital-begusarai-begusarai",
+    "name": "Ishwar Hospital, Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Ishwar Hospital, Begusarai brings together specialists for Heart Surgery In Begusarai. Hospital capacity markers such as Google rating 3.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092638 74710",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gacchi tola, Closer to motel sayonara, near Begusarai Private Bus stand, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "near Begusarai Private Bus stand",
+    "landmark": "near Begusarai Private Bus stand, Begusarai, Bihar 851101",
+    "emergencyContact": "092638 74710",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Ishwar+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f2052ad93e2f9f:0xb1973e49420c8b23!8m2!3d25.4236997!4d86.1322481!16s%2Fg%2F11dxc_djjh!19sChIJny8-2SoF8jkRI4sMQkk-l7E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ishwar+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f2052ad93e2f9f:0xb1973e49420c8b23!8m2!3d25.4236997!4d86.1322481!16s%2Fg%2F11dxc_djjh!19sChIJny8-2SoF8jkRI4sMQkk-l7E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4236997,
+      "lng": 86.1322481,
+      "label": "Ishwar Hospital, Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalpana-hospital-begusarai",
+    "name": "Kalpana Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kalpana Hospital is a prominent hospital in Begusarai, known for structured tertiary care across Gynecologist Surgery In Begusarai. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082713 52969",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Rd, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "Begusarai",
+    "emergencyContact": "082713 52969",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Kalpana+Hospital/data=!4m7!3m6!1s0x39f21b29cefc1def:0x31dfb4b70c4de3d0!8m2!3d25.4143782!4d86.1352885!16s%2Fg%2F11c5qs9rmw!19sChIJ7x38zikb8jkR0ONNDLe03zE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalpana+Hospital/data=!4m7!3m6!1s0x39f21b29cefc1def:0x31dfb4b70c4de3d0!8m2!3d25.4143782!4d86.1352885!16s%2Fg%2F11c5qs9rmw!19sChIJ7x38zikb8jkR0ONNDLe03zE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4143782,
+      "lng": 86.1352885,
+      "label": "Kalpana Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "khagendra-vaibhaw-ent-hospital-begusarai",
+    "name": "khagendra Vaibhaw (ENT HOSPITAL)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, khagendra Vaibhaw (ENT HOSPITAL) delivers integrated care across Kidney Transplant Surgery In Begusarai. Its infrastructure includes Google rating 4.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091991 02572",
+    "alternatePhone": "",
+    "website": "",
+    "address": "BP School Road, near Shani Bhagwan Mandir, Shrikrishnapuri Nagar, Ratanpur, Bishunpur Chaturbhuj, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Bishunpur Chaturbhuj",
+    "landmark": "near Shani Bhagwan Mandir, Shrikrishnapuri Nagar, Ratanpur, Bishunpur Chaturbhuj, Begusarai, Bihar 851101",
+    "emergencyContact": "091991 02572",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/khagendra+Vaibhaw+%28ENT+HOSPITAL%29/data=!4m7!3m6!1s0x39f21b77028e7483:0x888c9efd212ec3cb!8m2!3d25.4113445!4d86.1351788!16s%2Fg%2F11f61q0wyg!19sChIJg3SOAncb8jkRy8MuIf2ejIg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/khagendra+Vaibhaw+%28ENT+HOSPITAL%29/data=!4m7!3m6!1s0x39f21b77028e7483:0x888c9efd212ec3cb!8m2!3d25.4113445!4d86.1351788!16s%2Fg%2F11f61q0wyg!19sChIJg3SOAncb8jkRy8MuIf2ejIg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4113445,
+      "lng": 86.1351788,
+      "label": "khagendra Vaibhaw (ENT HOSPITAL)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kidney-dialysis-centre-bagusari-begusarai",
+    "name": "Kidney dialysis centre bagusari",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kidney dialysis centre bagusari is a prominent hospital in Begusarai, known for structured tertiary care across Kidney Transplant Surgery In Begusarai and Kidney Care. The facility stands out for round-the-clock hospital infrastructure, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C47P+46Q, Ratanpur, Hemra, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Hemra",
+    "landmark": "Hemra",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Kidney+dialysis+centre+bagusari/data=!4m7!3m6!1s0x39f21b06a1ad6f85:0xd4e1e36e122ae450!8m2!3d25.4128395!4d86.1356198!16s%2Fg%2F11h5w72rfq!19sChIJhW-toQYb8jkRUOQqEm7j4dQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kidney+dialysis+centre+bagusari/data=!4m7!3m6!1s0x39f21b06a1ad6f85:0xd4e1e36e122ae450!8m2!3d25.4128395!4d86.1356198!16s%2Fg%2F11h5w72rfq!19sChIJhW-toQYb8jkRUOQqEm7j4dQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4128395,
+      "lng": 86.1356198,
+      "label": "Kidney dialysis centre bagusari",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kriplalu-orthodontics-and-dental-care-kaali-mandir-ke-paas-near-durga-pharma-before-reliance-trends-mall",
+    "name": "Kriplalu orthodontics and dental care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in kaali mandir ke paas Near Durga Pharma Before Reliance Trends Mall, Kriplalu orthodontics and dental care offers coordinated hospital care with major focus on Oral Surgery In Begusarai, Dentist, and Orthopaedics. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "dak bangla road, kaali mandir ke paas Near Durga Pharma Before Reliance Trends Mall, Bihar 851101",
+    "city": "kaali mandir ke paas Near Durga Pharma Before Reliance Trends Mall",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "dak bangla road",
+    "landmark": "Near Durga Pharma Before Reliance Trends Mall, Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai",
+      "Dentist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kriplalu+orthodontics+and+dental+care/data=!4m7!3m6!1s0x39f207846f77f0b9:0xf4b5caabc77b73ca!8m2!3d25.4128784!4d86.1414683!16s%2Fg%2F11rf7lsb3p!19sChIJufB3b4QH8jkRynN7x6vKtfQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kriplalu+orthodontics+and+dental+care/data=!4m7!3m6!1s0x39f207846f77f0b9:0xf4b5caabc77b73ca!8m2!3d25.4128784!4d86.1414683!16s%2Fg%2F11rf7lsb3p!19sChIJufB3b4QH8jkRynN7x6vKtfQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4128784,
+      "lng": 86.1414683,
+      "label": "Kriplalu orthodontics and dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-dental-begusarai",
+    "name": "Krishna Dental",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Krishna Dental brings together specialists for Oral Surgery In Begusarai. The facility stands out for Google rating 5.0 and 8+ public reviews, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098350 86835",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Patel Chowk, Krishna Colony, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Krishna Colony",
+    "landmark": "Begusarai",
+    "emergencyContact": "098350 86835",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "8+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+Dental/data=!4m7!3m6!1s0x39f21ad188661245:0xe9e5e8a5585a40da!8m2!3d25.4163618!4d86.126226!16s%2Fg%2F11g7nn7q_2!19sChIJRRJmiNEa8jkR2kBaWKXo5ek?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+Dental/data=!4m7!3m6!1s0x39f21ad188661245:0xe9e5e8a5585a40da!8m2!3d25.4163618!4d86.126226!16s%2Fg%2F11g7nn7q_2!19sChIJRRJmiNEa8jkR2kBaWKXo5ek?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4163618,
+      "lng": 86.126226,
+      "label": "Krishna Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 8,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lakshy-hospital-begusarai",
+    "name": "Lakshy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Lakshy Hospital brings together specialists for Cardiac Surgery In Begusarai. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070339 63073",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 31, Ashok Nagar, Pokharia, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Pokharia",
+    "landmark": "Pokharia",
+    "emergencyContact": "070339 63073",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Lakshy+Hospital/data=!4m7!3m6!1s0x39f205dcf1baa225:0x8ebfd82e565503ce!8m2!3d25.4221223!4d86.1397396!16s%2Fg%2F11vsx2r3hz!19sChIJJaK68dwF8jkRzgNVVi7Yv44?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lakshy+Hospital/data=!4m7!3m6!1s0x39f205dcf1baa225:0x8ebfd82e565503ce!8m2!3d25.4221223!4d86.1397396!16s%2Fg%2F11vsx2r3hz!19sChIJJaK68dwF8jkRzgNVVi7Yv44?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4221223,
+      "lng": 86.1397396,
+      "label": "Lakshy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maa-maternity-hospital-and-research-center-begusarai",
+    "name": "Maa Maternity Hospital & Research Center",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Maa Maternity Hospital & Research Center for its strength in Gynecologist Surgery In Begusarai and Maternity Centre. Operational strengths including Google rating 3.8 and 3+ public reviews make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ratanpur, Hemra, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Hemra",
+    "landmark": "Begusarai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai",
+      "Maternity Centre"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "3+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Maa+Maternity+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x39f21b282d4c9e4f:0x4c59cdd0835a5d50!8m2!3d25.4138271!4d86.1350283!16s%2Fg%2F11b778y1_4!19sChIJT55MLSgb8jkRUF1ag9DNWUw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maa+Maternity+Hospital+%26+Research+Center/data=!4m7!3m6!1s0x39f21b282d4c9e4f:0x4c59cdd0835a5d50!8m2!3d25.4138271!4d86.1350283!16s%2Fg%2F11b778y1_4!19sChIJT55MLSgb8jkRUF1ag9DNWUw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4138271,
+      "lng": 86.1350283,
+      "label": "Maa Maternity Hospital & Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahavir-shalya-sansthan-begusarai",
+    "name": "Mahavir Shalya Sansthan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahavir Shalya Sansthan has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Laparoscopic Surgery In Begusarai. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091550 19068",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Power House Rd, gachi tola, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "Sarvodaya Nagar",
+    "emergencyContact": "091550 19068",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Mahavir+Shalya+Sansthan/data=!4m7!3m6!1s0x39f21bb60ba19c59:0xacb38d33c6dd056b!8m2!3d25.4233698!4d86.1306954!16s%2Fg%2F11j1hlq8pz!19sChIJWZyhC7Yb8jkRawXdxjONs6w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahavir+Shalya+Sansthan/data=!4m7!3m6!1s0x39f21bb60ba19c59:0xacb38d33c6dd056b!8m2!3d25.4233698!4d86.1306954!16s%2Fg%2F11j1hlq8pz!19sChIJWZyhC7Yb8jkRawXdxjONs6w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4233698,
+      "lng": 86.1306954,
+      "label": "Mahavir Shalya Sansthan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "malti-dental-clinic-begusarai",
+    "name": "Malti Dental Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Malti Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Begusarai. With public-facing highlights like Google rating 4.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094312 40666",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Badi Pokhar, Kachahari Rd, Vishnupur, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Vishnupur",
+    "emergencyContact": "094312 40666",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Malti+Dental+Clinic/data=!4m7!3m6!1s0x39f21bec1602ba51:0xb97fc9d42dcb5c74!8m2!3d25.4201723!4d86.1367968!16s%2Fg%2F11fll1z3xn!19sChIJUboCFuwb8jkRdFzLLdTJf7k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Malti+Dental+Clinic/data=!4m7!3m6!1s0x39f21bec1602ba51:0xb97fc9d42dcb5c74!8m2!3d25.4201723!4d86.1367968!16s%2Fg%2F11fll1z3xn!19sChIJUboCFuwb8jkRdFzLLdTJf7k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4201723,
+      "lng": 86.1367968,
+      "label": "Malti Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manasvi-dental-hospital-begusarai",
+    "name": "Manasvi Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manasvi Dental Hospital is a prominent dental clinic in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086778 80532",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Archana Vihar, Bagha Rd, Suhird Nagar, Subhash Nagar, Begusarai, Bihar 851218",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851218",
+    "locality": "Subhash Nagar",
+    "landmark": "Suhird Nagar",
+    "emergencyContact": "086778 80532",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Manasvi+Dental+Hospital/data=!4m7!3m6!1s0x39f205d2703cc47f:0x7d78b9a3918b1288!8m2!3d25.4292978!4d86.1359301!16s%2Fg%2F11vpt7r1k4!19sChIJf8Q8cNIF8jkRiBKLkaO5eH0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manasvi+Dental+Hospital/data=!4m7!3m6!1s0x39f205d2703cc47f:0x7d78b9a3918b1288!8m2!3d25.4292978!4d86.1359301!16s%2Fg%2F11vpt7r1k4!19sChIJf8Q8cNIF8jkRiBKLkaO5eH0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4292978,
+      "lng": 86.1359301,
+      "label": "Manasvi Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "maxz-dental-and-skin-clinic-begusarai",
+    "name": "Maxz Dental & Skin clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Begusarai, Maxz Dental & Skin clinic delivers integrated care across Kidney Transplant Surgery In Begusarai. Hospital capacity markers such as Google rating 4.1 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080515 27036",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Behind Phal Mandi, west of traffic chowk, Tilak Nagar,, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Tilak Nagar",
+    "landmark": "Tilak Nagar",
+    "emergencyContact": "080515 27036",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Maxz+Dental+%26+Skin+clinic/data=!4m7!3m6!1s0x39f204d54b03577b:0xe29e6f11d1e35da5!8m2!3d25.4228886!4d86.135607!16s%2Fg%2F11bxfjrvdk!19sChIJe1cDS9UE8jkRpV3j0RFvnuI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Maxz+Dental+%26+Skin+clinic/data=!4m7!3m6!1s0x39f204d54b03577b:0xe29e6f11d1e35da5!8m2!3d25.4228886!4d86.135607!16s%2Fg%2F11bxfjrvdk!19sChIJe1cDS9UE8jkRpV3j0RFvnuI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4228886,
+      "lng": 86.135607,
+      "label": "Maxz Dental & Skin clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mediversal-bone-and-joint-hospital-begusarai",
+    "name": "Mediversal Bone And Joint Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mediversal Bone And Joint Hospital is a prominent hospital in Begusarai, known for structured tertiary care across Orthopedic Surgery In Begusarai and Orthopaedics. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099392 30822",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bari Pokhar, Pokharia, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Pokharia",
+    "landmark": "Begusarai",
+    "emergencyContact": "099392 30822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Begusarai",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Mediversal+Bone+And+Joint+Hospital/data=!4m7!3m6!1s0x39f21b2af9876409:0x1bdc4f72a3f922b1!8m2!3d25.4201825!4d86.1364194!16s%2Fg%2F11g8cs1w5c!19sChIJCWSH-Sob8jkRsSL5o3JP3Bs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mediversal+Bone+And+Joint+Hospital/data=!4m7!3m6!1s0x39f21b2af9876409:0x1bdc4f72a3f922b1!8m2!3d25.4201825!4d86.1364194!16s%2Fg%2F11g8cs1w5c!19sChIJCWSH-Sob8jkRsSL5o3JP3Bs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4201825,
+      "lng": 86.1364194,
+      "label": "Mediversal Bone And Joint Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "metro-hospital-begusarai-begusarai",
+    "name": "Metro Hospital Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Metro Hospital Begusarai for its strength in Gynecologist Surgery In Begusarai. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099318 67195",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH31, near HP Gas Godown, Khatopur, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Khatopur",
+    "landmark": "near HP Gas Godown, Khatopur, Begusarai, Bihar 851129",
+    "emergencyContact": "099318 67195",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Metro+Hospital+Begusarai/data=!4m7!3m6!1s0x39f21bcdd22b8e89:0xc854b0e05f8bc7cb!8m2!3d25.414577!4d86.1583636!16s%2Fg%2F11styfxdlf!19sChIJiY4r0s0b8jkRy8eLX-CwVMg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Metro+Hospital+Begusarai/data=!4m7!3m6!1s0x39f21bcdd22b8e89:0xc854b0e05f8bc7cb!8m2!3d25.414577!4d86.1583636!16s%2Fg%2F11styfxdlf!19sChIJiY4r0s0b8jkRy8eLX-CwVMg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.414577,
+      "lng": 86.1583636,
+      "label": "Metro Hospital Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "miracare-hospital-begusarai",
+    "name": "Miracare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, Miracare Hospital delivers integrated care across Spine Surgery In Begusarai. With public-facing highlights like Google rating 4.8, 2+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077829 71426",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Gate 2, Gate 1, NH 31, VIP Rd, opposite Balidani Durga Mandir, Ashok Nagar, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "opposite Balidani Durga Mandir, Ashok Nagar, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "emergencyContact": "077829 71426",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "2+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Miracare+Hospital/data=!4m7!3m6!1s0x39f21b2ca417aa1d:0x2d8ed66cec5df381!8m2!3d25.4220665!4d86.1406087!16s%2Fg%2F11g879zjgr!19sChIJHaoXpCwb8jkRgfNd7GzWji0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Miracare+Hospital/data=!4m7!3m6!1s0x39f21b2ca417aa1d:0x2d8ed66cec5df381!8m2!3d25.4220665!4d86.1406087!16s%2Fg%2F11g879zjgr!19sChIJHaoXpCwb8jkRgfNd7GzWji0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4220665,
+      "lng": 86.1406087,
+      "label": "Miracare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "modern-furniture-begusarai",
+    "name": "Modern Furniture",
+    "type": "Home Goods Store",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Modern Furniture for its strength in Cosmetic Surgery In Begusarai and Home Goods Store. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094312 82840",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sushil Kumar Clinic, Station Rd, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "Sarvodaya Nagar",
+    "emergencyContact": "094312 82840",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Begusarai",
+      "Home Goods Store"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Modern+Furniture/data=!4m7!3m6!1s0x39f21ad54dad5335:0x471cb516c25e1d89!8m2!3d25.422473!4d86.1336744!16s%2Fg%2F11h2d7bzk_!19sChIJNVOtTdUa8jkRiR1ewha1HEc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Modern+Furniture/data=!4m7!3m6!1s0x39f21ad54dad5335:0x471cb516c25e1d89!8m2!3d25.422473!4d86.1336744!16s%2Fg%2F11h2d7bzk_!19sChIJNVOtTdUa8jkRiR1ewha1HEc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.422473,
+      "lng": 86.1336744,
+      "label": "Modern Furniture",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "narayani-hospital-begusarai",
+    "name": "Narayani hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, Narayani hospital delivers integrated care across Gynecologist Surgery In Begusarai. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082350 24253",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near Laxmi Nagar Gate, : 2, Nala Road, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Nala Road",
+    "landmark": "Nala Road",
+    "emergencyContact": "082350 24253",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Narayani+hospital/data=!4m7!3m6!1s0x39f21b41f613c0ab:0x8d0b30c330a79169!8m2!3d25.4211435!4d86.1270359!16s%2Fg%2F11vr7wvcxl!19sChIJq8AT9kEb8jkRaZGnMMMwC40?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Narayani+hospital/data=!4m7!3m6!1s0x39f21b41f613c0ab:0x8d0b30c330a79169!8m2!3d25.4211435!4d86.1270359!16s%2Fg%2F11vr7wvcxl!19sChIJq8AT9kEb8jkRaZGnMMMwC40?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4211435,
+      "lng": 86.1270359,
+      "label": "Narayani hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navdant-dental-clinic-begusarai",
+    "name": "Navdant Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Navdant Dental Clinic for its strength in Oral Surgery In Begusarai and Dentist. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094312 11055",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kapasiya, Begusarai, Bihar 851117",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851117",
+    "locality": "Kapasiya",
+    "landmark": "Bihar 851117",
+    "emergencyContact": "094312 11055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Navdant+Dental+Clinic/data=!4m7!3m6!1s0x39f2054acbe34d8b:0x2e4cc805cf7af70b!8m2!3d25.4222892!4d86.1133175!16s%2Fg%2F11dyzclmb8!19sChIJi03jy0oF8jkRC_d6zwXITC4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navdant+Dental+Clinic/data=!4m7!3m6!1s0x39f2054acbe34d8b:0x2e4cc805cf7af70b!8m2!3d25.4222892!4d86.1133175!16s%2Fg%2F11dyzclmb8!19sChIJi03jy0oF8jkRC_d6zwXITC4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4222892,
+      "lng": 86.1133175,
+      "label": "Navdant Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navlok-hospital-begusarai-begusarai",
+    "name": "NAVLOK HOSPITAL BEGUSARAI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NAVLOK HOSPITAL BEGUSARAI is a prominent hospital in Begusarai, known for structured tertiary care across Orthopedic Surgery In Begusarai. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070772 37777",
+    "alternatePhone": "",
+    "website": "http://www.navlokhospital.com/",
+    "address": "Navlok hospital, near Deepshikha cinema, Vishwanath Nagar, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "near Deepshikha cinema, Vishwanath Nagar, Vasant Vihar, Begusarai, Bihar 851101",
+    "emergencyContact": "070772 37777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NAVLOK+HOSPITAL+BEGUSARAI/data=!4m7!3m6!1s0x39f205aa259039e1:0xd523a324be5abb44!8m2!3d25.4227004!4d86.1287362!16s%2Fg%2F11ny04gk7q!19sChIJ4TmQJaoF8jkRRLtaviSjI9U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NAVLOK+HOSPITAL+BEGUSARAI/data=!4m7!3m6!1s0x39f205aa259039e1:0xd523a324be5abb44!8m2!3d25.4227004!4d86.1287362!16s%2Fg%2F11ny04gk7q!19sChIJ4TmQJaoF8jkRRLtaviSjI9U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4227004,
+      "lng": 86.1287362,
+      "label": "NAVLOK HOSPITAL BEGUSARAI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nephroplus-dialysis-and-kidney-care-centre-begusarai",
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, NephroPlus Dialysis & Kidney Care Centre offers coordinated hospital care with major focus on Kidney Transplant Surgery In Begusarai, Medical Center, and Kidney Care. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095344 60728",
+    "alternatePhone": "",
+    "website": "https://www.nephroplus.com/",
+    "address": "Sadar Hospital, Hospital Rd, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "Ratanpur",
+    "emergencyContact": "095344 60728",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai",
+      "Medical Center",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f21b2545a6c1a1:0xc4ced712e05fefab!8m2!3d25.4139475!4d86.1356461!16s%2Fg%2F11rkx7s0t3!19sChIJocGmRSUb8jkRq-9f4BLXzsQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NephroPlus+Dialysis+%26+Kidney+Care+Centre/data=!4m7!3m6!1s0x39f21b2545a6c1a1:0xc4ced712e05fefab!8m2!3d25.4139475!4d86.1356461!16s%2Fg%2F11rkx7s0t3!19sChIJocGmRSUb8jkRq-9f4BLXzsQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4139475,
+      "lng": 86.1356461,
+      "label": "NephroPlus Dialysis & Kidney Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neurology-and-ortho-physiotherapy-clinic-begusarai",
+    "name": "Neurology and ortho physiotherapy clinic",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Neurology and ortho physiotherapy clinic has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Brain Surgery In Begusarai, Physiotherapist, Neurosciences, and Orthopaedics. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075490 24452",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sushil Nagar, Begusarai, Bihar 851134",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851134",
+    "locality": "Sushil Nagar",
+    "landmark": "Bihar 851134",
+    "emergencyContact": "075490 24452",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Begusarai",
+      "Physiotherapist",
+      "Neurosciences",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Neurology+and+ortho+physiotherapy+clinic/data=!4m7!3m6!1s0x39f20f426af67019:0xefd63cd227d12e8!8m2!3d25.4341335!4d86.0905472!16s%2Fg%2F11ykxfc0_k!19sChIJGXD2akIP8jkR6BJ9Is1j_Q4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neurology+and+ortho+physiotherapy+clinic/data=!4m7!3m6!1s0x39f20f426af67019:0xefd63cd227d12e8!8m2!3d25.4341335!4d86.0905472!16s%2Fg%2F11ykxfc0_k!19sChIJGXD2akIP8jkR6BJ9Is1j_Q4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4341335,
+      "lng": 86.0905472,
+      "label": "Neurology and ortho physiotherapy clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "neuron-hospital-and-trauma-centre-begusarai",
+    "name": "Neuron Hospital and Trauma Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, Neuron Hospital and Trauma Centre delivers integrated care across Spine Surgery In Begusarai and Neurosciences. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062011 49641",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH31, near pink city, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "near pink city",
+    "landmark": "near pink city, Begusarai, Bihar 851129",
+    "emergencyContact": "062011 49641",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Begusarai",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Neuron+Hospital+and+Trauma+Centre/data=!4m7!3m6!1s0x39f21b004063b235:0x50a6f63812faba45!8m2!3d25.4132512!4d86.1709837!16s%2Fg%2F11w8ywb90y!19sChIJNbJjQAAb8jkRRbr6Ejj2plA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Neuron+Hospital+and+Trauma+Centre/data=!4m7!3m6!1s0x39f21b004063b235:0x50a6f63812faba45!8m2!3d25.4132512!4d86.1709837!16s%2Fg%2F11w8ywb90y!19sChIJNbJjQAAb8jkRRbr6Ejj2plA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4132512,
+      "lng": 86.1709837,
+      "label": "Neuron Hospital and Trauma Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nex-ivf-begusarai-begusarai",
+    "name": "NEX IVF BEGUSARAI",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "NEX IVF BEGUSARAI is a prominent fertility clinic in Begusarai, known for structured tertiary care across IVF In Begusarai and Fertility Care. Hospital capacity markers such as Google rating 4.9, 42+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081020 45005",
+    "alternatePhone": "",
+    "website": "https://nexivfbegusarai.com/",
+    "address": "4TH FLOOR, ADWITA HOSPITAL, Dak Bunglow Rd, Bishanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Bishanpur",
+    "landmark": "Dak Bunglow Rd",
+    "emergencyContact": "081020 45005",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Begusarai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "42+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/NEX+IVF+BEGUSARAI/data=!4m7!3m6!1s0x39f21bf2a61a8399:0x4cb8eae35d9ef2cb!8m2!3d25.4127!4d86.1418197!16s%2Fg%2F11wbx9lrhg!19sChIJmYMapvIb8jkRy_KeXePquEw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NEX+IVF+BEGUSARAI/data=!4m7!3m6!1s0x39f21bf2a61a8399:0x4cb8eae35d9ef2cb!8m2!3d25.4127!4d86.1418197!16s%2Fg%2F11wbx9lrhg!19sChIJmYMapvIb8jkRy_KeXePquEw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4127,
+      "lng": 86.1418197,
+      "label": "NEX IVF BEGUSARAI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 42,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nilaya-urostone-and-gynae-ivf-hospital-begusarai",
+    "name": "NILAYA UROSTONE & GYNAE-IVF HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Begusarai, NILAYA UROSTONE & GYNAE-IVF HOSPITAL delivers integrated care across Urologist Surgery In Begusarai and Fertility Care. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH-31, near Vasundhra warehouse, Khatopur, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Khatopur",
+    "landmark": "near Vasundhra warehouse, Khatopur, Begusarai, Bihar 851129",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Begusarai",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/NILAYA+UROSTONE+%26+GYNAE-IVF+HOSPITAL/data=!4m7!3m6!1s0x39f21b005b7fa321:0x88ded02a1b942d20!8m2!3d25.4144603!4d86.1589161!16s%2Fg%2F11z2j7g4c9!19sChIJIaN_WwAb8jkRIC2UGyrQ3og?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/NILAYA+UROSTONE+%26+GYNAE-IVF+HOSPITAL/data=!4m7!3m6!1s0x39f21b005b7fa321:0x88ded02a1b942d20!8m2!3d25.4144603!4d86.1589161!16s%2Fg%2F11z2j7g4c9!19sChIJIaN_WwAb8jkRIC2UGyrQ3og?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4144603,
+      "lng": 86.1589161,
+      "label": "NILAYA UROSTONE & GYNAE-IVF HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirogyam-hospital-khatopur-chowk-begusarai-bihar-begusarai",
+    "name": "Nirogyam Hospital, Khatopur Chowk, Begusarai (Bihar)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nirogyam Hospital, Khatopur Chowk, Begusarai (Bihar) has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Cardiac Surgery In Begusarai. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chowk, Khatopur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Khatopur",
+    "landmark": "Begusarai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nirogyam+Hospital,+Khatopur+Chowk,+Begusarai+%28Bihar%29/data=!4m7!3m6!1s0x39f21bca92df9cd5:0x9ca53a72c7c07ac9!8m2!3d25.4132959!4d86.1620802!16s%2Fg%2F11z5x0y2gn!19sChIJ1Zzfksob8jkRyXrAx3I6pZw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirogyam+Hospital,+Khatopur+Chowk,+Begusarai+%28Bihar%29/data=!4m7!3m6!1s0x39f21bca92df9cd5:0x9ca53a72c7c07ac9!8m2!3d25.4132959!4d86.1620802!16s%2Fg%2F11z5x0y2gn!19sChIJ1Zzfksob8jkRyXrAx3I6pZw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4132959,
+      "lng": 86.1620802,
+      "label": "Nirogyam Hospital, Khatopur Chowk, Begusarai (Bihar)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirshu-babu-memorial-hospital-pvt-ltd-begusarai",
+    "name": "Nirshu babu memorial hospital pvt ltd",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Begusarai, Nirshu babu memorial hospital pvt ltd delivers integrated care across Orthopedic Surgery In Begusarai. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "074886 98630",
+    "alternatePhone": "",
+    "website": "https://nbmhospital.in/",
+    "address": "Har har mahadev chowk, near Alka cinema, opposite Durga mandir, Kapasiya, Begusarai, Bihar 851117",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851117",
+    "locality": "Kapasiya",
+    "landmark": "near Alka cinema, opposite Durga mandir, Kapasiya, Begusarai, Bihar 851117",
+    "emergencyContact": "074886 98630",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nirshu+babu+memorial+hospital+pvt+ltd/data=!4m7!3m6!1s0x39f21b483fe23b4d:0xcf97126c0083f32c!8m2!3d25.4213193!4d86.1157808!16s%2Fg%2F11c2lfrlfm!19sChIJTTviP0gb8jkRLPODAGwSl88?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirshu+babu+memorial+hospital+pvt+ltd/data=!4m7!3m6!1s0x39f21b483fe23b4d:0xcf97126c0083f32c!8m2!3d25.4213193!4d86.1157808!16s%2Fg%2F11c2lfrlfm!19sChIJTTviP0gb8jkRLPODAGwSl88?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4213193,
+      "lng": 86.1157808,
+      "label": "Nirshu babu memorial hospital pvt ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "noor-eye-and-dental-clinic-begusarai",
+    "name": "Noor Eye And Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Noor Eye And Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Begusarai. With public-facing highlights like Google rating 4.2, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082986 11011",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pokharia Rd, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "082986 11011",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Noor+Eye+And+Dental+Clinic/data=!4m7!3m6!1s0x39f21b2b9493b78f:0xec897cf9490f75b6!8m2!3d25.4185413!4d86.1385377!16s%2Fg%2F11c0t9b12x!19sChIJj7eTlCsb8jkRtnUPSfl8iew?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Noor+Eye+And+Dental+Clinic/data=!4m7!3m6!1s0x39f21b2b9493b78f:0xec897cf9490f75b6!8m2!3d25.4185413!4d86.1385377!16s%2Fg%2F11c0t9b12x!19sChIJj7eTlCsb8jkRtnUPSfl8iew?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4185413,
+      "lng": 86.1385377,
+      "label": "Noor Eye And Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nova-hospital-lakho",
+    "name": "Nova hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nova hospital is a prominent hospital in Lakho, known for structured tertiary care across Heart Surgery In Begusarai. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "062076 97599",
+    "alternatePhone": "",
+    "website": "https://novahospitalbegusarai.com/",
+    "address": "C57G+6CM, Lakho, Bihar 851129",
+    "city": "Lakho",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "",
+    "landmark": "Bihar 851129",
+    "emergencyContact": "062076 97599",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nova+hospital/data=!4m7!3m6!1s0x39f21b004e987e4b:0x161871d6213a9edd!8m2!3d25.4129571!4d86.1761239!16s%2Fg%2F11lp870mk7!19sChIJS36YTgAb8jkR3Z46IdZxGBY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nova+hospital/data=!4m7!3m6!1s0x39f21b004e987e4b:0x161871d6213a9edd!8m2!3d25.4129571!4d86.1761239!16s%2Fg%2F11lp870mk7!19sChIJS36YTgAb8jkR3Z46IdZxGBY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4129571,
+      "lng": 86.1761239,
+      "label": "Nova hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "panacea-hospital-begusarai",
+    "name": "PANACEA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, PANACEA HOSPITAL offers coordinated hospital care with major focus on Orthopedic Surgery In Begusarai. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099315 30061",
+    "alternatePhone": "",
+    "website": "",
+    "address": "NH 31 NEAR GYAN BHARTI SCHOOL HARRAKH, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "NH 31 NEAR GYAN BHARTI SCHOOL HARRAKH",
+    "landmark": "NEAR GYAN BHARTI SCHOOL HARRAKH, Begusarai, Bihar 851101",
+    "emergencyContact": "099315 30061",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/PANACEA+HOSPITAL/data=!4m7!3m6!1s0x39f21b484e5c05c3:0xe84670cfa9b264e5!8m2!3d25.4221553!4d86.1232532!16s%2Fg%2F11nfqf1w32!19sChIJwwVcTkgb8jkR5WSyqc9wRug?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PANACEA+HOSPITAL/data=!4m7!3m6!1s0x39f21b484e5c05c3:0xe84670cfa9b264e5!8m2!3d25.4221553!4d86.1232532!16s%2Fg%2F11nfqf1w32!19sChIJwwVcTkgb8jkR5WSyqc9wRug?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4221553,
+      "lng": 86.1232532,
+      "label": "PANACEA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "panchsheel-mother-and-child-hospital-begusarai-begusarai",
+    "name": "Panchsheel mother and child hospital, Begusarai | डॉ.कुमारी स्वेता | डॉ. आशुतोष कुमार",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Panchsheel mother and child hospital, Begusarai | डॉ.कुमारी स्वेता | डॉ. आशुतोष कुमार has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Gynecologist Surgery In Begusarai and Women and Child Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090244 60595",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Station Rd, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "090244 60595",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Panchsheel+mother+and+child+hospital,+Begusarai+%7C+%E0%A4%A1%E0%A5%89.%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A4%E0%A4%BE+%7C+%E0%A4%A1%E0%A5%89.+%E0%A4%86%E0%A4%B6%E0%A5%81%E0%A4%A4%E0%A5%8B%E0%A4%B7+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/data=!4m7!3m6!1s0x39f21bc8f5bd6b69:0xa7a14be0137d922b!8m2!3d25.4219538!4d86.1336114!16s%2Fg%2F11t5b1n15b!19sChIJaWu99cgb8jkRK5J9E-BLoac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Panchsheel+mother+and+child+hospital,+Begusarai+%7C+%E0%A4%A1%E0%A5%89.%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A4%E0%A4%BE+%7C+%E0%A4%A1%E0%A5%89.+%E0%A4%86%E0%A4%B6%E0%A5%81%E0%A4%A4%E0%A5%8B%E0%A4%B7+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0/data=!4m7!3m6!1s0x39f21bc8f5bd6b69:0xa7a14be0137d922b!8m2!3d25.4219538!4d86.1336114!16s%2Fg%2F11t5b1n15b!19sChIJaWu99cgb8jkRK5J9E-BLoac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4219538,
+      "lng": 86.1336114,
+      "label": "Panchsheel mother and child hospital, Begusarai | डॉ.कुमारी स्वेता | डॉ. आशुतोष कुमार",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parmanand-dental-clinic-begusarai",
+    "name": "Parmanand Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parmanand Dental Clinic is a prominent dental clinic in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "092411 36793",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ambedkar Chowk, Kachahari Rd, Vishnupur, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Vishnupur",
+    "emergencyContact": "092411 36793",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Parmanand+Dental+Clinic/data=!4m7!3m6!1s0x39f21b7c5b840c8d:0x79157d43f44a9f40!8m2!3d25.4194794!4d86.1356336!16s%2Fg%2F11ln5jnd_j!19sChIJjQyEW3wb8jkRQJ9K9EN9FXk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parmanand+Dental+Clinic/data=!4m7!3m6!1s0x39f21b7c5b840c8d:0x79157d43f44a9f40!8m2!3d25.4194794!4d86.1356336!16s%2Fg%2F11ln5jnd_j!19sChIJjQyEW3wb8jkRQJ9K9EN9FXk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4194794,
+      "lng": 86.1356336,
+      "label": "Parmanand Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prakash-dental-begusarai",
+    "name": "Prakash Dental",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Begusarai, Prakash Dental delivers integrated care across Oral Surgery In Begusarai. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062992 65806",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dak Bunglow Rd, chandani chowk, Bishanpur, Begusarai, Mohan Eghu, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Bishanpur",
+    "landmark": "Bishanpur",
+    "emergencyContact": "062992 65806",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Prakash+Dental/data=!4m7!3m6!1s0x39f21b00518cbb13:0xa17a142e1ad5b139!8m2!3d25.4125695!4d86.1527204!16s%2Fg%2F11y56pp5b4!19sChIJE7uMUQAb8jkRObHVGi4UeqE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prakash+Dental/data=!4m7!3m6!1s0x39f21b00518cbb13:0xa17a142e1ad5b139!8m2!3d25.4125695!4d86.1527204!16s%2Fg%2F11y56pp5b4!19sChIJE7uMUQAb8jkRObHVGi4UeqE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4125695,
+      "lng": 86.1527204,
+      "label": "Prakash Dental",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prashant-ayurved-haddee-jor-and-cancer-care-hospital-begusarai",
+    "name": "Prashant ayurved haddee jor & Cancer care Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Prashant ayurved haddee jor & Cancer care Hospital for its strength in Cancer Surgery In Begusarai. With public-facing highlights like round-the-clock hospital infrastructure, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079030 62569",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C4HH+W96, Subhash Nagar, Begusarai, Bihar 851218",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851218",
+    "locality": "Subhash Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "079030 62569",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Prashant+ayurved+haddee+jor+%26+Cancer+care+Hospital/data=!4m7!3m6!1s0x39f2054ca570447b:0x302c00f1cf5e8143!8m2!3d25.4297807!4d86.128393!16s%2Fg%2F11fd8gy67s!19sChIJe0RwpUwF8jkRQ4Fez_EALDA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prashant+ayurved+haddee+jor+%26+Cancer+care+Hospital/data=!4m7!3m6!1s0x39f2054ca570447b:0x302c00f1cf5e8143!8m2!3d25.4297807!4d86.128393!16s%2Fg%2F11fd8gy67s!19sChIJe0RwpUwF8jkRQ4Fez_EALDA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4297807,
+      "lng": 86.128393,
+      "label": "Prashant ayurved haddee jor & Cancer care Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-d-s-dental-care-begusarai",
+    "name": "R.D.S DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Begusarai, R.D.S DENTAL CARE delivers integrated care across Oral Surgery In Begusarai. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092795 62583",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C48J+HJJ, Kharak Narayan Rd, Vishnupur, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "Vishnupur",
+    "emergencyContact": "092795 62583",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/R.D.S+DENTAL+CARE/data=!4m7!3m6!1s0x39f21b001b0c9d7b:0x86d2980e4d34174c!8m2!3d25.4164576!4d86.1315195!16s%2Fg%2F11ln_7cnwb!19sChIJe50MGwAb8jkRTBc0TQ6Y0oY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.D.S+DENTAL+CARE/data=!4m7!3m6!1s0x39f21b001b0c9d7b:0x86d2980e4d34174c!8m2!3d25.4164576!4d86.1315195!16s%2Fg%2F11ln_7cnwb!19sChIJe50MGwAb8jkRTBc0TQ6Y0oY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4164576,
+      "lng": 86.1315195,
+      "label": "R.D.S DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rameshwaram-dental-clinic-begusarai",
+    "name": "Rameshwaram Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Rameshwaram Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Begusarai. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "TITAN SHOWROOM, 2, Hemra Rd, opposite SHIVA MART, Ward 20, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "opposite SHIVA MART, Ward 20, Ratanpur, Begusarai, Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rameshwaram+Dental+Clinic/data=!4m7!3m6!1s0x39f21b966010cead:0x5290e4461a57895c!8m2!3d25.4091795!4d86.1381111!16s%2Fg%2F11y4tvzgf3!19sChIJrc4QYJYb8jkRXIlXGkbkkFI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rameshwaram+Dental+Clinic/data=!4m7!3m6!1s0x39f21b966010cead:0x5290e4461a57895c!8m2!3d25.4091795!4d86.1381111!16s%2Fg%2F11y4tvzgf3!19sChIJrc4QYJYb8jkRXIlXGkbkkFI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4091795,
+      "lng": 86.1381111,
+      "label": "Rameshwaram Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "river-valley-hospital-begusarai",
+    "name": "River Valley Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose River Valley Hospital for its strength in Heart Surgery In Begusarai. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Suhird Nagar, Subhash Nagar, Begusarai, Bihar 851218",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851218",
+    "locality": "Subhash Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/River+Valley+Hospital/data=!4m7!3m6!1s0x39f2050013e44697:0x1aec8c1e25c8c4e!8m2!3d25.4321341!4d86.1360332!16s%2Fg%2F11wfs0jywj!19sChIJl0bkEwAF8jkRToxc4sHIrgE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/River+Valley+Hospital/data=!4m7!3m6!1s0x39f2050013e44697:0x1aec8c1e25c8c4e!8m2!3d25.4321341!4d86.1360332!16s%2Fg%2F11wfs0jywj!19sChIJl0bkEwAF8jkRToxc4sHIrgE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4321341,
+      "lng": 86.1360332,
+      "label": "River Valley Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rk-dental-home-begusarai",
+    "name": "RK dental home",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, RK dental home brings together specialists for Oral Surgery In Begusarai. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "South of tv tower, IMA road, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "Ratanpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/RK+dental+home/data=!4m7!3m6!1s0x39f21b8e9624b1b3:0x5ea8415d36b7bf3d!8m2!3d25.4120468!4d86.1374002!16s%2Fg%2F11v5x11yrr!19sChIJs7Eklo4b8jkRPb-3Nl1BqF4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RK+dental+home/data=!4m7!3m6!1s0x39f21b8e9624b1b3:0x5ea8415d36b7bf3d!8m2!3d25.4120468!4d86.1374002!16s%2Fg%2F11v5x11yrr!19sChIJs7Eklo4b8jkRPb-3Nl1BqF4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4120468,
+      "lng": 86.1374002,
+      "label": "RK dental home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "roop-dev-eye-and-dental-hospital-begusarai",
+    "name": "Roop Dev Eye And Dental Hospital",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Roop Dev Eye And Dental Hospital is a prominent eye care center in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai and Eye Care Center. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099312 65163",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp. BP High School, I.M.A. Path, Dr P Gupta Rd, Krishnapuri, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Krishnapuri",
+    "landmark": "Dr P Gupta Rd",
+    "emergencyContact": "099312 65163",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Roop+Dev+Eye+And+Dental+Hospital/data=!4m7!3m6!1s0x39f21b28885d15c5:0x9522144495da8caa!8m2!3d25.4117418!4d86.1371544!16s%2Fg%2F11gy0g0xfk!19sChIJxRVdiCgb8jkRqozalUQUIpU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Roop+Dev+Eye+And+Dental+Hospital/data=!4m7!3m6!1s0x39f21b28885d15c5:0x9522144495da8caa!8m2!3d25.4117418!4d86.1371544!16s%2Fg%2F11gy0g0xfk!19sChIJxRVdiCgb8jkRqozalUQUIpU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4117418,
+      "lng": 86.1371544,
+      "label": "Roop Dev Eye And Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rudra-kidney-and-maternity-center-begusarai",
+    "name": "Rudra Kidney and Maternity center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rudra Kidney and Maternity center has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Begusarai and Kidney Care. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090606 25385",
+    "alternatePhone": "",
+    "website": "https://rudrakidneyandmaternitycentre.com/",
+    "address": "Shivpuri Chitragupta Nagar, NH 31, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "NH 31",
+    "landmark": "Begusarai",
+    "emergencyContact": "090606 25385",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rudra+Kidney+and+Maternity+center/data=!4m7!3m6!1s0x39f21b550105eb4d:0xe2f0f07b26ded8cb!8m2!3d25.4223077!4d86.1416004!16s%2Fg%2F11mvpnh7hb!19sChIJTesFAVUb8jkRy9jeJnvw8OI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rudra+Kidney+and+Maternity+center/data=!4m7!3m6!1s0x39f21b550105eb4d:0xe2f0f07b26ded8cb!8m2!3d25.4223077!4d86.1416004!16s%2Fg%2F11mvpnh7hb!19sChIJTesFAVUb8jkRy9jeJnvw8OI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4223077,
+      "lng": 86.1416004,
+      "label": "Rudra Kidney and Maternity center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saaol-heart-center-begusarai-pachamba",
+    "name": "Saaol Heart Center Begusarai",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Pachamba, Saaol Heart Center Begusarai offers coordinated hospital care with major focus on Heart Surgery In Begusarai and Cardiac Care. The facility stands out for Google rating 4.1 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099737 40185",
+    "alternatePhone": "",
+    "website": "https://saaol.com/all-centers-location/bihar",
+    "address": "Bharti Sewa Sadan, Birpur Road, Pachamba, Bihar 851218",
+    "city": "Pachamba",
+    "state": "Bihar",
+    "pincode": "851218",
+    "locality": "Birpur Road",
+    "landmark": "Pachamba",
+    "emergencyContact": "099737 40185",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saaol+Heart+Center+Begusarai/data=!4m7!3m6!1s0x39f205b3d55878a1:0xadf07f60ef6e4495!8m2!3d25.4398344!4d86.1225512!16s%2Fg%2F11y5hstg3m!19sChIJoXhY1bMF8jkRlURu72B_8K0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saaol+Heart+Center+Begusarai/data=!4m7!3m6!1s0x39f205b3d55878a1:0xadf07f60ef6e4495!8m2!3d25.4398344!4d86.1225512!16s%2Fg%2F11y5hstg3m!19sChIJoXhY1bMF8jkRlURu72B_8K0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4398344,
+      "lng": 86.1225512,
+      "label": "Saaol Heart Center Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sadar-hospital-begusarai-begusarai",
+    "name": "Sadar Hospital, Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sadar Hospital, Begusarai is a prominent hospital in Begusarai, known for structured tertiary care across Kidney Transplant Surgery In Begusarai. The facility stands out for Google rating 3.5, 3+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "077638 15325",
+    "alternatePhone": "",
+    "website": "https://begusarai.nic.in/notice/office-superintendent-sadar-hospital-begusarai/",
+    "address": "Hospital Rd, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "Begusarai",
+    "emergencyContact": "077638 15325",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sadar+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f21ad6aaaaaaab:0xf3a58653100ed877!8m2!3d25.4142247!4d86.1359366!16s%2Fg%2F11g6jt58_m!19sChIJq6qqqtYa8jkRd9gOEFOGpfM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sadar+Hospital,+Begusarai/data=!4m7!3m6!1s0x39f21ad6aaaaaaab:0xf3a58653100ed877!8m2!3d25.4142247!4d86.1359366!16s%2Fg%2F11g6jt58_m!19sChIJq6qqqtYa8jkRd9gOEFOGpfM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4142247,
+      "lng": 86.1359366,
+      "label": "Sadar Hospital, Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sahaj-sanjeevani-hospital-begusarai",
+    "name": "Sahaj Sanjeevani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sahaj Sanjeevani Hospital has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Begusarai. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "082524 47750",
+    "alternatePhone": "",
+    "website": "http://sahajsanjeevanihospital.com/",
+    "address": "Sahaj sanjeevani hospital, Chanakya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chanakya Nagar",
+    "landmark": "Begusarai",
+    "emergencyContact": "082524 47750",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sahaj+Sanjeevani+Hospital/data=!4m7!3m6!1s0x39f21b4e4b3e01b3:0xdeac16a6f08ae9bf!8m2!3d25.412898!4d86.1435434!16s%2Fg%2F11j4vnjy45!19sChIJswE-S04b8jkRv-mK8KYWrN4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sahaj+Sanjeevani+Hospital/data=!4m7!3m6!1s0x39f21b4e4b3e01b3:0xdeac16a6f08ae9bf!8m2!3d25.412898!4d86.1435434!16s%2Fg%2F11j4vnjy45!19sChIJswE-S04b8jkRv-mK8KYWrN4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.412898,
+      "lng": 86.1435434,
+      "label": "Sahaj Sanjeevani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sai-surgery-centre-begusarai",
+    "name": "Sai Surgery Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sai Surgery Centre has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Liver Transplant Surgery In Begusarai. Operational strengths including Google rating 1.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097083 21968",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C4CJ+3J9, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "Begusarai",
+    "emergencyContact": "097083 21968",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.3"
+    ],
+    "image": "https://www.google.com/maps/place/Sai+Surgery+Centre/data=!4m7!3m6!1s0x39f21ad4ffec08ad:0xe6374aaa1ba8ffa8!8m2!3d25.420154!4d86.1315945!16s%2Fg%2F11dd_nwnhf!19sChIJrQjs_9Qa8jkRqP-oG6pKN-Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sai+Surgery+Centre/data=!4m7!3m6!1s0x39f21ad4ffec08ad:0xe6374aaa1ba8ffa8!8m2!3d25.420154!4d86.1315945!16s%2Fg%2F11dd_nwnhf!19sChIJrQjs_9Qa8jkRqP-oG6pKN-Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.420154,
+      "lng": 86.1315945,
+      "label": "Sai Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saikripa-dental-and-skin-aesthetic-clinic-begusarai",
+    "name": "SAIKRIPA DENTAL AND SKIN AESTHETIC CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Begusarai, SAIKRIPA DENTAL AND SKIN AESTHETIC CLINIC delivers integrated care across Oral Surgery In Begusarai and Dentist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.saikripadental.com/",
+    "address": "Parmeswari Market, GD College Rd, Pipra, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Pipra",
+    "landmark": "Pipra",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SAIKRIPA+DENTAL+AND+SKIN+AESTHETIC+CLINIC/data=!4m7!3m6!1s0x39f21b7a553f7575:0xb4da9a0ae288c05d!8m2!3d25.4186!4d86.122175!16s%2Fg%2F11fjxg180g!19sChIJdXU_VXob8jkRXcCI4gqa2rQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAIKRIPA+DENTAL+AND+SKIN+AESTHETIC+CLINIC/data=!4m7!3m6!1s0x39f21b7a553f7575:0xb4da9a0ae288c05d!8m2!3d25.4186!4d86.122175!16s%2Fg%2F11fjxg180g!19sChIJdXU_VXob8jkRXcCI4gqa2rQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4186,
+      "lng": 86.122175,
+      "label": "SAIKRIPA DENTAL AND SKIN AESTHETIC CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sangam-jyoti-hospital-begusarai",
+    "name": "Sangam Jyoti Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Sangam Jyoti Hospital offers coordinated hospital care with major focus on Cardiac Surgery In Begusarai. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "062433 59717",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pipra Chowk, behind of GD College, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "behind of GD College",
+    "landmark": "Begusarai",
+    "emergencyContact": "062433 59717",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sangam+Jyoti+Hospital/data=!4m7!3m6!1s0x39f21bf3ef941a45:0x54d08aebb7e38956!8m2!3d25.4105198!4d86.1242691!16s%2Fg%2F11s0wkfwp0!19sChIJRRqU7_Mb8jkRVonjt-uK0FQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sangam+Jyoti+Hospital/data=!4m7!3m6!1s0x39f21bf3ef941a45:0x54d08aebb7e38956!8m2!3d25.4105198!4d86.1242691!16s%2Fg%2F11s0wkfwp0!19sChIJRRqU7_Mb8jkRVonjt-uK0FQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4105198,
+      "lng": 86.1242691,
+      "label": "Sangam Jyoti Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharma-healthcare-centre-begusarai",
+    "name": "Sharma Healthcare Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Sharma Healthcare Centre for its strength in Heart Surgery In Begusarai. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chanakya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chanakya Nagar",
+    "landmark": "Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Sharma+Healthcare+Centre/data=!4m7!3m6!1s0x39f21b2fa5111f57:0x8cf240fffdea7eb2!8m2!3d25.4131591!4d86.1427067!16s%2Fg%2F11gdrjfsfz!19sChIJVx8RpS8b8jkRsn7q_f9A8ow?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharma+Healthcare+Centre/data=!4m7!3m6!1s0x39f21b2fa5111f57:0x8cf240fffdea7eb2!8m2!3d25.4131591!4d86.1427067!16s%2Fg%2F11gdrjfsfz!19sChIJVx8RpS8b8jkRsn7q_f9A8ow?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4131591,
+      "lng": 86.1427067,
+      "label": "Sharma Healthcare Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiv-mithilesh-hospital-begusarai-begusarai",
+    "name": "SHIV MITHILESH HOSPITAL, BEGUSARAI",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose SHIV MITHILESH HOSPITAL, BEGUSARAI for its strength in Cancer Surgery In Begusarai. The facility stands out for Google rating 4.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062433 56450",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MOD, OPP OMAR GIRL'S SCHOOL, CHANAKYA NAGAR, Dak Bunglow Rd, CHOWK, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "CHOWK",
+    "landmark": "CHANAKYA NAGAR",
+    "emergencyContact": "062433 56450",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SHIV+MITHILESH+HOSPITAL,+BEGUSARAI/data=!4m7!3m6!1s0x39f21b05ccc33a6d:0x1256b63b6c71d46f!8m2!3d25.4127325!4d86.1447772!16s%2Fg%2F11y3ls95mv!19sChIJbTrDzAUb8jkRb9RxbDu2VhI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHIV+MITHILESH+HOSPITAL,+BEGUSARAI/data=!4m7!3m6!1s0x39f21b05ccc33a6d:0x1256b63b6c71d46f!8m2!3d25.4127325!4d86.1447772!16s%2Fg%2F11y3ls95mv!19sChIJbTrDzAUb8jkRb9RxbDu2VhI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4127325,
+      "lng": 86.1447772,
+      "label": "SHIV MITHILESH HOSPITAL, BEGUSARAI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-nursing-home-begusarai",
+    "name": "SHIVAM nursing home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SHIVAM nursing home has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Urologist Surgery In Begusarai. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098351 49862",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PILLAR NUMBER 83, Shivam nursing home, N.H 31 NEAR, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "N.H 31 NEAR",
+    "landmark": "N.H 31 NEAR",
+    "emergencyContact": "098351 49862",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/SHIVAM+nursing+home/data=!4m7!3m6!1s0x39f2057469e9a167:0xf402de469031a8d1!8m2!3d25.4249037!4d86.1303851!16s%2Fg%2F11j2xd5sn9!19sChIJZ6HpaXQF8jkR0agxkEbeAvQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHIVAM+nursing+home/data=!4m7!3m6!1s0x39f2057469e9a167:0xf402de469031a8d1!8m2!3d25.4249037!4d86.1303851!16s%2Fg%2F11j2xd5sn9!19sChIJZ6HpaXQF8jkR0agxkEbeAvQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4249037,
+      "lng": 86.1303851,
+      "label": "SHIVAM nursing home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-vinayak-maternity-and-child-care-clinic-and-infertility-center-begusarai",
+    "name": "Shree vinayak maternity & child care clinic and infertility center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Shree vinayak maternity & child care clinic and infertility center for its strength in Gynecologist Surgery In Begusarai, Women and Child Care, and Fertility Care. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096310 27813",
+    "alternatePhone": "",
+    "website": "",
+    "address": "C593+H66, NH 31, Mahammadpur, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Mahammadpur",
+    "landmark": "Mahammadpur",
+    "emergencyContact": "096310 27813",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+vinayak+maternity+%26+child+care+clinic+and+infertility+center/data=!4m7!3m6!1s0x39f21b268b01ae65:0x16cc8e3fae3e5ae4!8m2!3d25.4189038!4d86.1530018!16s%2Fg%2F11llllgdtn!19sChIJZa4BiyYb8jkR5Fo-rj-OzBY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+vinayak+maternity+%26+child+care+clinic+and+infertility+center/data=!4m7!3m6!1s0x39f21b268b01ae65:0x16cc8e3fae3e5ae4!8m2!3d25.4189038!4d86.1530018!16s%2Fg%2F11llllgdtn!19sChIJZa4BiyYb8jkR5Fo-rj-OzBY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4189038,
+      "lng": 86.1530018,
+      "label": "Shree vinayak maternity & child care clinic and infertility center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shrestha-surgical-and-meternity-hospital-begusarai",
+    "name": "Shrestha Surgical and Meternity Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Shrestha Surgical and Meternity Hospital brings together specialists for Liver Transplant Surgery In Begusarai. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099050 11316",
+    "alternatePhone": "",
+    "website": "",
+    "address": "East of, SP Office Rd, Kumhar Toli, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Kumhar Toli",
+    "landmark": "Kumhar Toli",
+    "emergencyContact": "099050 11316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shrestha+Surgical+and+Meternity+Hospital/data=!4m7!3m6!1s0x39f21b6dc513e947:0x41eb7188f18008e4!8m2!3d25.4184693!4d86.1400755!16s%2Fg%2F11g2_hn92v!19sChIJR-kTxW0b8jkR5AiA8Yhx60E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shrestha+Surgical+and+Meternity+Hospital/data=!4m7!3m6!1s0x39f21b6dc513e947:0x41eb7188f18008e4!8m2!3d25.4184693!4d86.1400755!16s%2Fg%2F11g2_hn92v!19sChIJR-kTxW0b8jkR5AiA8Yhx60E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4184693,
+      "lng": 86.1400755,
+      "label": "Shrestha Surgical and Meternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "siddhivinayak-dental-hospital-barauni",
+    "name": "Siddhivinayak Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Siddhivinayak Dental Hospital is a prominent dental clinic in Barauni, known for structured tertiary care across Oral Surgery In Begusarai. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073688 89003",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajendra Rd, near Patanjali store, Shokhara, Barauni, Bihar 851112",
+    "city": "Barauni",
+    "state": "Bihar",
+    "pincode": "851112",
+    "locality": "Shokhara",
+    "landmark": "near Patanjali store, Shokhara, Barauni, Bihar 851112",
+    "emergencyContact": "073688 89003",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Siddhivinayak+Dental+Hospital/data=!4m7!3m6!1s0x39f20d04165a85b5:0x8c388fda26bdfd6f!8m2!3d25.4679102!4d85.988401!16s%2Fg%2F11v6wnhp78!19sChIJtYVaFgQN8jkRb_29JtqPOIw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Siddhivinayak+Dental+Hospital/data=!4m7!3m6!1s0x39f20d04165a85b5:0x8c388fda26bdfd6f!8m2!3d25.4679102!4d85.988401!16s%2Fg%2F11v6wnhp78!19sChIJtYVaFgQN8jkRb_29JtqPOIw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4679102,
+      "lng": 85.988401,
+      "label": "Siddhivinayak Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-craft-dental-and-maxillofacial-centre-begusarai",
+    "name": "Smile craft dental and maxillofacial centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Smile craft dental and maxillofacial centre brings together specialists for Oral Surgery In Begusarai, Dentist, and Maxillofacial Surgery. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "IMA road, near BP High school, Ratanpur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Ratanpur",
+    "landmark": "near BP High school, Ratanpur, Begusarai, Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai",
+      "Dentist",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+craft+dental+and+maxillofacial+centre/data=!4m7!3m6!1s0x39f21b1b78c52cd3:0xdf7692c6fea5b7f1!8m2!3d25.4125041!4d86.1376047!16s%2Fg%2F11y_sx1jyd!19sChIJ0yzFeBsb8jkR8bel_saSdt8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+craft+dental+and+maxillofacial+centre/data=!4m7!3m6!1s0x39f21b1b78c52cd3:0xdf7692c6fea5b7f1!8m2!3d25.4125041!4d86.1376047!16s%2Fg%2F11y_sx1jyd!19sChIJ0yzFeBsb8jkR8bel_saSdt8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4125041,
+      "lng": 86.1376047,
+      "label": "Smile craft dental and maxillofacial centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "suraj-surgical-clinic-begusarai",
+    "name": "Suraj Surgical Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Suraj Surgical Clinic is a prominent medical clinic in Begusarai, known for structured tertiary care across Liver Transplant Surgery In Begusarai. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099559 33039",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near, काली स्थान रोड, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Chitragupta Nagar",
+    "emergencyContact": "099559 33039",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Suraj+Surgical+Clinic/data=!4m7!3m6!1s0x39f21b2f2caa42a9:0xfb9994976c57295d!8m2!3d25.4136359!4d86.1395609!16s%2Fg%2F11c54cwjwz!19sChIJqUKqLC8b8jkRXSlXbJeUmfs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Suraj+Surgical+Clinic/data=!4m7!3m6!1s0x39f21b2f2caa42a9:0xfb9994976c57295d!8m2!3d25.4136359!4d86.1395609!16s%2Fg%2F11c54cwjwz!19sChIJqUKqLC8b8jkRXSlXbJeUmfs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4136359,
+      "lng": 86.1395609,
+      "label": "Suraj Surgical Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-fetal-medicine-clinic-bhavya-s-ultrasound-centre-begusarai-begusarai",
+    "name": "The Fetal Medicine Clinic, Bhavya's Ultrasound Centre, Begusarai",
+    "type": "Medical Diagnostic Imaging Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose The Fetal Medicine Clinic, Bhavya's Ultrasound Centre, Begusarai for its strength in Gynecologist Surgery In Begusarai, Medical Diagnostic Imaging Center, and Fetal Medicine. Operational strengths including Google rating 4.2 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081023 60426",
+    "alternatePhone": "",
+    "website": "",
+    "address": "In front of Omar Girl's School, Chanakya Nagar Mod, Dak Bunglow Rd, Chowk, Bishnupur, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Bishnupur",
+    "landmark": "Dak Bunglow Rd",
+    "emergencyContact": "081023 60426",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Begusarai",
+      "Medical Diagnostic Imaging Center",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/The+Fetal+Medicine+Clinic,+Bhavya%27s+Ultrasound+Centre,+Begusarai/data=!4m7!3m6!1s0x39f21be84ab44715:0x895189465d77db3!8m2!3d25.4127557!4d86.1447827!16s%2Fg%2F11sgmysbg7!19sChIJFUe0Sugb8jkRs33XZZQYlQg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Fetal+Medicine+Clinic,+Bhavya%27s+Ultrasound+Centre,+Begusarai/data=!4m7!3m6!1s0x39f21be84ab44715:0x895189465d77db3!8m2!3d25.4127557!4d86.1447827!16s%2Fg%2F11sgmysbg7!19sChIJFUe0Sugb8jkRs33XZZQYlQg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4127557,
+      "lng": 86.1447827,
+      "label": "The Fetal Medicine Clinic, Bhavya's Ultrasound Centre, Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tirupati-dental-hospital-begusarai",
+    "name": "Tirupati Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tirupati Dental Hospital has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Oral Surgery In Begusarai. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082097 86669",
+    "alternatePhone": "",
+    "website": "",
+    "address": "pool chowk, R.N market, near Bus stop, Birpur, Begusarai, Bihar 851127",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851127",
+    "locality": "Birpur",
+    "landmark": "near Bus stop, Birpur, Begusarai, Bihar 851127",
+    "emergencyContact": "082097 86669",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Tirupati+Dental+Hospital/data=!4m7!3m6!1s0x39f209d26147006f:0x3d541a321fd18201!8m2!3d25.521511!4d86.0850406!16s%2Fg%2F11k9lbw0sv!19sChIJbwBHYdIJ8jkRAYLRHzIaVD0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tirupati+Dental+Hospital/data=!4m7!3m6!1s0x39f209d26147006f:0x3d541a321fd18201!8m2!3d25.521511!4d86.0850406!16s%2Fg%2F11k9lbw0sv!19sChIJbwBHYdIJ8jkRAYLRHzIaVD0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.521511,
+      "lng": 86.0850406,
+      "label": "Tirupati Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-care-and-implant-center-begusarai",
+    "name": "Tooth Care and Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tooth Care and Implant Center is a prominent dental clinic in Begusarai, known for structured tertiary care across Oral Surgery In Begusarai. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "093344 89258",
+    "alternatePhone": "",
+    "website": "",
+    "address": "beside SBI ATM, near Harijan school, Ashok nagar, Chitragupta Nagar, pokharia, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "pokharia",
+    "landmark": "near Harijan school, Ashok nagar, Chitragupta Nagar, pokharia, Begusarai, Bihar 851101",
+    "emergencyContact": "093344 89258",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Care+and+Implant+Center/data=!4m7!3m6!1s0x39f21b0017de3131:0xcd8033f9d282f49f!8m2!3d25.4204412!4d86.1394205!16s%2Fg%2F11vygp5wkc!19sChIJMTHeFwAb8jkRn_SC0vkzgM0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Care+and+Implant+Center/data=!4m7!3m6!1s0x39f21b0017de3131:0xcd8033f9d282f49f!8m2!3d25.4204412!4d86.1394205!16s%2Fg%2F11vygp5wkc!19sChIJMTHeFwAb8jkRn_SC0vkzgM0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4204412,
+      "lng": 86.1394205,
+      "label": "Tooth Care and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "top-medicare-hospital-begusarai-begusarai",
+    "name": "Top Medicare Hospital Begusarai",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Top Medicare Hospital Begusarai for its strength in Liver Transplant Surgery In Begusarai. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091352 33436",
+    "alternatePhone": "",
+    "website": "https://www.topmedicarehospital.com/",
+    "address": "Vishnu Cinema Hall, Vishwanath Nagar, Deepsikha, Road, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Road",
+    "landmark": "Deepsikha",
+    "emergencyContact": "091352 33436",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Top+Medicare+Hospital+Begusarai/data=!4m7!3m6!1s0x39f21b9467b5a407:0x31eef3b1eef553da!8m2!3d25.4217239!4d86.1282008!16s%2Fg%2F11v4mr5w_p!19sChIJB6S1Z5Qb8jkR2lP17rHz7jE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Top+Medicare+Hospital+Begusarai/data=!4m7!3m6!1s0x39f21b9467b5a407:0x31eef3b1eef553da!8m2!3d25.4217239!4d86.1282008!16s%2Fg%2F11v4mr5w_p!19sChIJB6S1Z5Qb8jkR2lP17rHz7jE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4217239,
+      "lng": 86.1282008,
+      "label": "Top Medicare Hospital Begusarai",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ujala-hospital-begusarai-begusarai",
+    "name": "UJALA HOSPITAL BEGUSARAI 🏥",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, UJALA HOSPITAL BEGUSARAI 🏥 brings together specialists for Cardiac Surgery In Begusarai. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Traffic Chouk, Vishnupur, Chitragupta Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Chitragupta Nagar",
+    "landmark": "Chitragupta Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/UJALA+HOSPITAL+BEGUSARAI+%F0%9F%8F%A5/data=!4m7!3m6!1s0x39f205005f34d2f3:0xce8667bd4166f973!8m2!3d25.4231516!4d86.1376006!16s%2Fg%2F11zkv084hh!19sChIJ89I0XwAF8jkRc_lmQb1nhs4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UJALA+HOSPITAL+BEGUSARAI+%F0%9F%8F%A5/data=!4m7!3m6!1s0x39f205005f34d2f3:0xce8667bd4166f973!8m2!3d25.4231516!4d86.1376006!16s%2Fg%2F11zkv084hh!19sChIJ89I0XwAF8jkRc_lmQb1nhs4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4231516,
+      "lng": 86.1376006,
+      "label": "UJALA HOSPITAL BEGUSARAI 🏥",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "urmila-memorial-hospital-begusarai",
+    "name": "Urmila memorial hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Begusarai, Urmila memorial hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Begusarai. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Urmila memorial hospital, near B.P high school, Shajanand Nagar, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "near B.P high school, Shajanand Nagar, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Urmila+memorial+hospital/data=!4m7!3m6!1s0x39f21b001f752ea9:0x18bd4ad78551cd68!8m2!3d25.4112613!4d86.1391751!16s%2Fg%2F11w24j3s1z!19sChIJqS51HwAb8jkRaM1RhddKvRg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Urmila+memorial+hospital/data=!4m7!3m6!1s0x39f21b001f752ea9:0x18bd4ad78551cd68!8m2!3d25.4112613!4d86.1391751!16s%2Fg%2F11w24j3s1z!19sChIJqS51HwAb8jkRaM1RhddKvRg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4112613,
+      "lng": 86.1391751,
+      "label": "Urmila memorial hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "usha-dental-clinic-and-implant-centre-begusarai",
+    "name": "Usha Dental Clinic & Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Usha Dental Clinic & Implant Centre for its strength in Oral Surgery In Begusarai. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "062078 08156",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Nh31 Khatopur, road Gumti, se phele, Ayodhyabari, Begusarai, Bihar 851129",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851129",
+    "locality": "Ayodhyabari",
+    "landmark": "se phele",
+    "emergencyContact": "062078 08156",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Usha+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x39f21b28cf84c3cd:0x957736387f434658!8m2!3d25.4162561!4d86.1622574!16s%2Fg%2F11fzsjf2n0!19sChIJzcOEzygb8jkRWEZDfzg2d5U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Usha+Dental+Clinic+%26+Implant+Centre/data=!4m7!3m6!1s0x39f21b28cf84c3cd:0x957736387f434658!8m2!3d25.4162561!4d86.1622574!16s%2Fg%2F11fzsjf2n0!19sChIJzcOEzygb8jkRWEZDfzg2d5U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4162561,
+      "lng": 86.1622574,
+      "label": "Usha Dental Clinic & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "usma-bone-and-joint-hospital-begusarai",
+    "name": "Usma bone & Joint Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose Usma bone & Joint Hospital for its strength in Knee Replacement Surgery In Begusarai and Orthopaedics. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Neelam complex, Kali Asthan, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Knee Replacement Surgery In Begusarai",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Usma+bone+%26+Joint+Hospital/data=!4m7!3m6!1s0x39f21b6a8e9f4471:0x30ad90bdbdcba1dc!8m2!3d25.4181163!4d86.1271353!16s%2Fg%2F11y7_33vf4!19sChIJcUSfjmob8jkR3KHLvb2QrTA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Usma+bone+%26+Joint+Hospital/data=!4m7!3m6!1s0x39f21b6a8e9f4471:0x30ad90bdbdcba1dc!8m2!3d25.4181163!4d86.1271353!16s%2Fg%2F11y7_33vf4!19sChIJcUSfjmob8jkR3KHLvb2QrTA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4181163,
+      "lng": 86.1271353,
+      "label": "Usma bone & Joint Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yogeshwar-kidani-hospital-begusarai",
+    "name": "Yogeshwar Kidani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yogeshwar Kidani Hospital has built a strong reputation in Begusarai for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Begusarai. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "H42H+MP2, SH-55, Bariyarpur, Seuri, Begusarai, Bihar 851127",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851127",
+    "locality": "Seuri",
+    "landmark": "Bariyarpur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Yogeshwar+Kidani+Hospital/data=!4m7!3m6!1s0x39f2065a1c36a181:0x36c62a91411bbe31!8m2!3d25.5516307!4d86.1292581!16s%2Fg%2F11dxl9yh81!19sChIJgaE2HFoG8jkRMb4bQZEqxjY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yogeshwar+Kidani+Hospital/data=!4m7!3m6!1s0x39f2065a1c36a181:0x36c62a91411bbe31!8m2!3d25.5516307!4d86.1292581!16s%2Fg%2F11dxl9yh81!19sChIJgaE2HFoG8jkRMb4bQZEqxjY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.5516307,
+      "lng": 86.1292581,
+      "label": "Yogeshwar Kidani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yugeshwar-kidney-hospital-begusarai",
+    "name": "Yugeshwar Kidney Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Begusarai, Yugeshwar Kidney Hospital brings together specialists for Urologist Surgery In Begusarai and Kidney Care. The facility stands out for Google rating 3.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093340 47828",
+    "alternatePhone": "",
+    "website": "",
+    "address": "IMA Road, Ratanpur Rd, behind Sadar hospital, near Pramila chowk, Ratanpur, Hemra, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Hemra",
+    "landmark": "near Pramila chowk, Ratanpur, Hemra, Begusarai, Bihar 851101",
+    "emergencyContact": "093340 47828",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Begusarai",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/Yugeshwar+Kidney+Hospital/data=!4m7!3m6!1s0x39f21b283060eb79:0xedf8f56baa624686!8m2!3d25.4134605!4d86.1353901!16s%2Fg%2F11c32jqhsp!19sChIJeetgMCgb8jkRhkZiqmv1-O0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yugeshwar+Kidney+Hospital/data=!4m7!3m6!1s0x39f21b283060eb79:0xedf8f56baa624686!8m2!3d25.4134605!4d86.1353901!16s%2Fg%2F11c32jqhsp!19sChIJeetgMCgb8jkRhkZiqmv1-O0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4134605,
+      "lng": 86.1353901,
+      "label": "Yugeshwar Kidney Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "begusarai",
+    "name": "जीवन सुरक्षा हॉस्पिटल बेगूसराय",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "जीवन सुरक्षा हॉस्पिटल बेगूसराय is a prominent hospital in Begusarai, known for structured tertiary care across Liver Transplant Surgery In Begusarai. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099342 16304",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sayonara Hotel, NH 31BEGUSARAI, near bus stand, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Sarvodaya Nagar",
+    "landmark": "near bus stand, Sarvodaya Nagar, Begusarai, Bihar 851101",
+    "emergencyContact": "099342 16304",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8+%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+%E0%A4%AC%E0%A5%87%E0%A4%97%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%AF/data=!4m7!3m6!1s0x39f2052ae1dfd1af:0xdd0552f3f6046cf7!8m2!3d25.4244631!4d86.1321168!16s%2Fg%2F11c1ww_fcx!19sChIJr9Hf4SoF8jkR92wE9vNSBd0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8+%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+%E0%A4%AC%E0%A5%87%E0%A4%97%E0%A5%82%E0%A4%B8%E0%A4%B0%E0%A4%BE%E0%A4%AF/data=!4m7!3m6!1s0x39f2052ae1dfd1af:0xdd0552f3f6046cf7!8m2!3d25.4244631!4d86.1321168!16s%2Fg%2F11c1ww_fcx!19sChIJr9Hf4SoF8jkR92wE9vNSBd0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4244631,
+      "lng": 86.1321168,
+      "label": "जीवन सुरक्षा हॉस्पिटल बेगूसराय",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heal-life-c2-hospital-pvt-ltd-2-begusarai",
+    "name": "🚑Heal Life C2 Hospital Pvt Ltd हील लाइफ सी2 हॉस्पिटल प्राइवेट लिमिटेड",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Begusarai often choose 🚑Heal Life C2 Hospital Pvt Ltd हील लाइफ सी2 हॉस्पिटल प्राइवेट लिमिटेड for its strength in Cardiac Surgery In Begusarai. Hospital capacity markers such as Google rating 3.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093045 14154",
+    "alternatePhone": "",
+    "website": "",
+    "address": "subhash chowk, ByPass NH-31, Vasant Vihar, Begusarai, Bihar 851101",
+    "city": "Begusarai",
+    "state": "Bihar",
+    "pincode": "851101",
+    "locality": "Vasant Vihar",
+    "landmark": "Vasant Vihar",
+    "emergencyContact": "093045 14154",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Begusarai"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9F%9A%91Heal+Life+C2+Hospital+Pvt+Ltd+%E0%A4%B9%E0%A5%80%E0%A4%B2+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%B8%E0%A5%802+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A5%87%E0%A4%9F+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1/data=!4m7!3m6!1s0x39f205a4f8380e0d:0x5d07a37f30a726b7!8m2!3d25.4228414!4d86.1251043!16s%2Fg%2F11t6lhymj3!19sChIJDQ44-KQF8jkRtyanMH-jB10?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9F%9A%91Heal+Life+C2+Hospital+Pvt+Ltd+%E0%A4%B9%E0%A5%80%E0%A4%B2+%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AB+%E0%A4%B8%E0%A5%802+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%87%E0%A4%B5%E0%A5%87%E0%A4%9F+%E0%A4%B2%E0%A4%BF%E0%A4%AE%E0%A4%BF%E0%A4%9F%E0%A5%87%E0%A4%A1/data=!4m7!3m6!1s0x39f205a4f8380e0d:0x5d07a37f30a726b7!8m2!3d25.4228414!4d86.1251043!16s%2Fg%2F11t6lhymj3!19sChIJDQ44-KQF8jkRtyanMH-jB10?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.4228414,
+      "lng": 86.1251043,
+      "label": "🚑Heal Life C2 Hospital Pvt Ltd हील लाइफ सी2 हॉस्पिटल प्राइवेट लिमिटेड",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

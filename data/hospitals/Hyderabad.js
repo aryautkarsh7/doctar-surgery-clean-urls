@@ -1,0 +1,5087 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "19-beauty-secrets-an-advanced-aesthetic-clinic-in-hyderabad-hyderabad",
+    "name": "19 Beauty Secrets - An Advanced Aesthetic Clinic in Hyderabad",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose 19 Beauty Secrets - An Advanced Aesthetic Clinic in Hyderabad for its strength in Cosmetic Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "092475 36900",
+    "alternatePhone": "",
+    "website": "https://www.the19beautysecrets.com/",
+    "address": "Building, 4th Floor, RV Magnifique, 129/35/D1, Road No. 12, above Galaxy Dental, Filmnagar, Banjara Hills, Hyderabad, Telangana 500028",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500028",
+    "locality": "Banjara Hills",
+    "landmark": "RV Magnifique",
+    "emergencyContact": "092475 36900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/19+Beauty+Secrets+-+An+Advanced+Aesthetic+Clinic+in+Hyderabad/@17.4103139,78.437826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97f566ac4573:0xa16e563b611c3251!8m2!3d17.4103139!4d78.437826!16s%2Fg%2F11tt4hlm11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/19+Beauty+Secrets+-+An+Advanced+Aesthetic+Clinic+in+Hyderabad/@17.4103139,78.437826,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97f566ac4573:0xa16e563b611c3251!8m2!3d17.4103139!4d78.437826!16s%2Fg%2F11tt4hlm11?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4103139,
+      "lng": 78.437826,
+      "label": "19 Beauty Secrets - An Advanced Aesthetic Clinic in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akruti-plastic-and-cosmetic-surgery-centre-hyderabad",
+    "name": "Akruti Plastic & Cosmetic Surgery Centre",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Akruti Plastic & Cosmetic Surgery Centre is a prominent plastic surgery clinic in Hyderabad, known for structured tertiary care across Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073861 91919",
+    "alternatePhone": "",
+    "website": "http://www.akruti.co.in/",
+    "address": "JNTU Rd, beside Anupama Hospital, Kukatpally Housing Board Colony, K P H B Phase 6, Kukatpally, Hyderabad, Telangana 500072",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500072",
+    "locality": "Kukatpally",
+    "landmark": "beside Anupama Hospital, Kukatpally Housing Board Colony, K P H B Phase 6, Kukatpally, Hyderabad, Telangana 500072",
+    "emergencyContact": "073861 91919",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4855927,78.3903187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb918beaaaaaab:0xfa0cd14ca78be55c!8m2!3d17.4855927!4d78.3903187!16s%2Fg%2F1td3pykt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4855927,78.3903187,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb918beaaaaaab:0xfa0cd14ca78be55c!8m2!3d17.4855927!4d78.3903187!16s%2Fg%2F1td3pykt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4855927,
+      "lng": 78.3903187,
+      "label": "Akruti Plastic & Cosmetic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akruti-plastic-and-cosmetic-surgery-centre-hyderabad",
+    "name": "Akruti Plastic & Cosmetic Surgery Centre",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Akruti Plastic & Cosmetic Surgery Centre for its strength in Cosmetic Surgery In Hyderabad. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077318 81919",
+    "alternatePhone": "",
+    "website": "http://www.akruti.co.in/",
+    "address": "2nd Floor, SSS Square Building, opposite Sarath City Capital Mall, Kondapur, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana 500084",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500084",
+    "locality": "Kondapur",
+    "landmark": "opposite Sarath City Capital Mall, Kondapur, Laxmi Cyber City, Whitefields, Kondapur, Hyderabad, Telangana 500084",
+    "emergencyContact": "077318 81919",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4578071,78.3660063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb930a8c4896ef:0xe71db858208f62ff!8m2!3d17.4578071!4d78.3660063!16s%2Fg%2F11sf6y1cxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akruti+Plastic+%26+Cosmetic+Surgery+Centre/@17.4578071,78.3660063,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb930a8c4896ef:0xe71db858208f62ff!8m2!3d17.4578071!4d78.3660063!16s%2Fg%2F11sf6y1cxn?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4578071,
+      "lng": 78.3660063,
+      "label": "Akruti Plastic & Cosmetic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ambrosia-clinic-hyderabad",
+    "name": "Ambrosia Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ambrosia Clinic has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Cosmetic Surgery In Hyderabad. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090149 01020",
+    "alternatePhone": "",
+    "website": "https://www.ambrosiaclinic.com/cosmetic-surgery-clinic-in-banjara-hills-hyderabad/",
+    "address": "284/A, Road No. 12, near Omega hospitals, MLA Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "locality": "Banjara Hills",
+    "landmark": "near Omega hospitals, MLA Colony, Banjara Hills, Hyderabad, Telangana 500034",
+    "emergencyContact": "090149 01020",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ambrosia+Clinic/@17.4142483,78.4232531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cd87dc821b:0xb4bba0779c5ac85c!8m2!3d17.4142483!4d78.4232531!16s%2Fg%2F1td1nb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ambrosia+Clinic/@17.4142483,78.4232531,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99cd87dc821b:0xb4bba0779c5ac85c!8m2!3d17.4142483!4d78.4232531!16s%2Fg%2F1td1nb8j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4142483,
+      "lng": 78.4232531,
+      "label": "Ambrosia Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-heart-institutes-hyderabad-hyderabad",
+    "name": "Apollo Heart Institutes, Hyderabad",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted heart hospital in Hyderabad, Apollo Heart Institutes, Hyderabad delivers integrated care across Heart Surgery In Hyderabad and Cardiac Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0406 907 1200",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hyderabad/hospitals/specialities/cardiology",
+    "address": "International Block, Apollo Hospital Jubilee Hills - Best Hospital, Rd Number 72, opp. Bharatiya Vidya Bhavan School, Film Nagar, Hyderabad, Telangana 500096",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500096",
+    "locality": "Film Nagar",
+    "landmark": "Rd Number 72",
+    "emergencyContact": "0406 907 1200",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Heart+Institutes,+Hyderabad/@17.4149668,78.4123859,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97ac5a518e5f:0xfe43418ea521d4eb!8m2!3d17.4149668!4d78.4123859!16s%2Fg%2F11jvsdzqdc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Heart+Institutes,+Hyderabad/@17.4149668,78.4123859,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97ac5a518e5f:0xfe43418ea521d4eb!8m2!3d17.4149668!4d78.4123859!16s%2Fg%2F11jvsdzqdc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4149668,
+      "lng": 78.4123859,
+      "label": "Apollo Heart Institutes, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-hospitals-hyderguda-best-hospital-in-hyderguda-hyderabad-hyderabad",
+    "name": "Apollo Hospitals Hyderguda | Best Hospital in Hyderguda, Hyderabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Apollo Hospitals Hyderguda | Best Hospital in Hyderguda, Hyderabad for its strength in Heart Surgery In Hyderabad. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0406 907 1298",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda",
+    "address": "Plot No. 3-5-836 to 838, Hyderguda-Basheerbagh Rd, Old MLA Quarters, King Koti, Hyderabad, Telangana 500029",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500029",
+    "locality": "King Koti",
+    "landmark": "Old MLA Quarters",
+    "emergencyContact": "0406 907 1298",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Hospitals+Hyderguda+%7C+Best+Hospital+in+Hyderguda,+Hyderabad/@17.3994805,78.4793278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99b5be5befb1:0x59937b43fb2f9dda!8m2!3d17.3994805!4d78.4793278!16s%2Fg%2F1v3gqcf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Hospitals+Hyderguda+%7C+Best+Hospital+in+Hyderguda,+Hyderabad/@17.3994805,78.4793278,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99b5be5befb1:0x59937b43fb2f9dda!8m2!3d17.3994805!4d78.4793278!16s%2Fg%2F1v3gqcf1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3994805,
+      "lng": 78.4793278,
+      "label": "Apollo Hospitals Hyderguda | Best Hospital in Hyderguda, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arcus-plastic-surgery-clinic-hyderabad",
+    "name": "Arcus Plastic Surgery Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Hyderabad, Arcus Plastic Surgery Clinic delivers integrated care across Cosmetic Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090328 02805",
+    "alternatePhone": "",
+    "website": "https://www.arcusplasticsurgery.com/",
+    "address": "1st floor, LIG 61/8, Kukatpally Housing Board Colony, 4th phase, K P H B Phase 4, Kukatpally, Hyderabad, Telangana 500085",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500085",
+    "locality": "Kukatpally",
+    "landmark": "Kukatpally Housing Board Colony",
+    "emergencyContact": "090328 02805",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arcus+Plastic+Surgery+Clinic/@17.4741004,78.3884479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91c3d7bb580f:0xce0b580111aafefc!8m2!3d17.4741004!4d78.3884479!16s%2Fg%2F11y1cwn9sz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arcus+Plastic+Surgery+Clinic/@17.4741004,78.3884479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91c3d7bb580f:0xce0b580111aafefc!8m2!3d17.4741004!4d78.3884479!16s%2Fg%2F11y1cwn9sz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4741004,
+      "lng": 78.3884479,
+      "label": "Arcus Plastic Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aroha-hyderabad",
+    "name": "AROHA",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Hyderabad, AROHA delivers integrated care across Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "085006 00789",
+    "alternatePhone": "",
+    "website": "https://www.arohaaesthetics.com/",
+    "address": "1st Floor, SBR Siri, Financial District, Gachibowli, Rai Durg, Hyderabad, Telangana 500008",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500008",
+    "locality": "Rai Durg",
+    "landmark": "Financial District",
+    "emergencyContact": "085006 00789",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AROHA/@17.4218506,78.3844164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb970dcf6e1dfb:0xdf749355062cef73!8m2!3d17.4218506!4d78.3844164!16s%2Fg%2F11w2b87325?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AROHA/@17.4218506,78.3844164,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb970dcf6e1dfb:0xdf749355062cef73!8m2!3d17.4218506!4d78.3844164!16s%2Fg%2F11w2b87325?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4218506,
+      "lng": 78.3844164,
+      "label": "AROHA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "care-hospitals-banjara-hills-hyderabad",
+    "name": "CARE Hospitals Banjara Hills",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "CARE Hospitals Banjara Hills has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Heart Surgery In Hyderabad. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0406 810 6589",
+    "alternatePhone": "",
+    "website": "https://www.carehospitals.com/hospital-detail/care-hospital-banjara-hills",
+    "address": "Road No. 1, Prem Nagar, Banjara Hills, Hyderabad, Telangana 500034",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "locality": "Banjara Hills",
+    "landmark": "Banjara Hills",
+    "emergencyContact": "0406 810 6589",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/CARE+Hospitals+Banjara+Hills/@17.4126129,78.4502437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb972ff51ff959:0x55376a3d51b6637!8m2!3d17.4126129!4d78.4502437!16s%2Fg%2F1thk75t6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/CARE+Hospitals+Banjara+Hills/@17.4126129,78.4502437,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb972ff51ff959:0x55376a3d51b6637!8m2!3d17.4126129!4d78.4502437!16s%2Fg%2F1thk75t6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4126129,
+      "lng": 78.4502437,
+      "label": "CARE Hospitals Banjara Hills",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-n-plastic-surgery-and-pediatric-clinic-gynaecomastia-mole-removal-liposuction-botox-hyderabad-hyderabad",
+    "name": "Clinic N - Plastic Surgery & Pediatric Clinic | Gynaecomastia, Mole Removal, Liposuction, Botox | Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Clinic N - Plastic Surgery & Pediatric Clinic | Gynaecomastia, Mole Removal, Liposuction, Botox | Hyderabad for its strength in Cosmetic Surgery In Hyderabad. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090107 46444",
+    "alternatePhone": "",
+    "website": "https://clinic-n.in/",
+    "address": "2nd floor, Fairmount Fortune One A216, near Metro Station Erragadda, Czech Colony, Sanath Nagar, Hyderabad, Telangana 500018",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500018",
+    "locality": "Sanath Nagar",
+    "landmark": "near Metro Station Erragadda, Czech Colony, Sanath Nagar, Hyderabad, Telangana 500018",
+    "emergencyContact": "090107 46444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Clinic+N+-+Plastic+Surgery+%26+Pediatric+Clinic+%7C+Gynaecomastia,+Mole+Removal,+Liposuction,+Botox+%7C+Hyderabad/@17.4562677,78.4349742,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91baf02091c1:0xe0c714f6b1cd95f!8m2!3d17.4562677!4d78.4349742!16s%2Fg%2F11x1gcm4vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic+N+-+Plastic+Surgery+%26+Pediatric+Clinic+%7C+Gynaecomastia,+Mole+Removal,+Liposuction,+Botox+%7C+Hyderabad/@17.4562677,78.4349742,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91baf02091c1:0xe0c714f6b1cd95f!8m2!3d17.4562677!4d78.4349742!16s%2Fg%2F11x1gcm4vq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4562677,
+      "lng": 78.4349742,
+      "label": "Clinic N - Plastic Surgery & Pediatric Clinic | Gynaecomastia, Mole Removal, Liposuction, Botox | Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "continental-hospitals-nanakramguda",
+    "name": "Continental Hospitals",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Continental Hospitals is a prominent general hospital in Nanakramguda, known for structured tertiary care across Heart Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0406 700 0000",
+    "alternatePhone": "",
+    "website": "https://www.continentalhospitals.com/?utm_source=organic&utm_medium=gmb&utm_campaign=gmbCHL",
+    "address": "Plot No 3, Road No. 2, Financial District, Gachibowli, Nanakramguda, Telangana 500032",
+    "city": "Nanakramguda",
+    "state": "Telangana",
+    "pincode": "500032",
+    "locality": "Gachibowli",
+    "landmark": "Financial District",
+    "emergencyContact": "0406 700 0000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Continental+Hospitals/@17.4175264,78.3394579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb947fdee4f5a1:0x2ca09b4d2e3a79f!8m2!3d17.4175264!4d78.3394579!16s%2Fg%2F1hf2skrky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Continental+Hospitals/@17.4175264,78.3394579,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb947fdee4f5a1:0x2ca09b4d2e3a79f!8m2!3d17.4175264!4d78.3394579!16s%2Fg%2F1hf2skrky?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4175264,
+      "lng": 78.3394579,
+      "label": "Continental Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "contours-plastic-and-cosmetic-surgery-center-in-hyderabad-hyderabad",
+    "name": "Contours - Plastic & Cosmetic Surgery Center in Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Contours - Plastic & Cosmetic Surgery Center in Hyderabad has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Cosmetic Surgery In Hyderabad. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090008 27555",
+    "alternatePhone": "",
+    "website": "https://contourshyd.com/",
+    "address": "No: 2, Door No : 8-2-120/112, P/5, Road, near Cream Stone, Banjara Hills, Hyderabad, Telangana 500034",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "locality": "Banjara Hills",
+    "landmark": "near Cream Stone, Banjara Hills, Hyderabad, Telangana 500034",
+    "emergencyContact": "090008 27555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Contours+-+Plastic+%26+Cosmetic+Surgery+Center+in+Hyderabad/@17.424912,78.4219896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90cb8a49628f:0x380a1e68c35ef4d!8m2!3d17.424912!4d78.4219896!16s%2Fg%2F11bx5pxx4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Contours+-+Plastic+%26+Cosmetic+Surgery+Center+in+Hyderabad/@17.424912,78.4219896,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90cb8a49628f:0x380a1e68c35ef4d!8m2!3d17.424912!4d78.4219896!16s%2Fg%2F11bx5pxx4n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.424912,
+      "lng": 78.4219896,
+      "label": "Contours - Plastic & Cosmetic Surgery Center in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cutis-international-cosmetic-clinics-hyderabad-hyderabad",
+    "name": "Cutis International Cosmetic Clinics | Hyderabad",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hair transplantation clinic in Hyderabad, Cutis International Cosmetic Clinics | Hyderabad delivers integrated care across Cosmetic Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "073566 33344",
+    "alternatePhone": "",
+    "website": "https://cutisinternationalhyderabad.com/?utm_source=google&utm_medium=GBP&utm_campaign=organic",
+    "address": "Survey no: 66 & 67, Jubilee Heights, Plot No: 68 & 69, Jubilee Enclave Rd, near Shilparamam, Jubilee Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500081",
+    "locality": "Madhapur",
+    "landmark": "near Shilparamam, Jubilee Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "emergencyContact": "073566 33344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cutis+International+Cosmetic+Clinics+%7C+Hyderabad/@17.4557238,78.3749745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb937c590e0e45:0xdf536fe73464cb58!8m2!3d17.4557238!4d78.3749745!16s%2Fg%2F11wp4gdx0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cutis+International+Cosmetic+Clinics+%7C+Hyderabad/@17.4557238,78.3749745,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb937c590e0e45:0xdf536fe73464cb58!8m2!3d17.4557238!4d78.3749745!16s%2Fg%2F11wp4gdx0d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4557238,
+      "lng": 78.3749745,
+      "label": "Cutis International Cosmetic Clinics | Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "durgabai-deshmukh-care-cardiac-center-24x7-cardiac-emergency-hyderabad",
+    "name": "Durgabai Deshmukh CARE Cardiac Center (24X7 Cardiac Emergency)",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, Durgabai Deshmukh CARE Cardiac Center (24X7 Cardiac Emergency) offers coordinated hospital care with major focus on Cardiac Surgery In Hyderabad and Cardiac Care. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1-9-27, 2-1-569, 1-9-27, Osmania University Rd, Vidya Nagar, Adikmet, Hyderabad, Telangana 500044",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500044",
+    "locality": "Adikmet",
+    "landmark": "1-9-27",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Hyderabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Durgabai+Deshmukh+CARE+Cardiac+Center+(24X7+Cardiac+Emergency)/@17.402153,78.51028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99a33c89c215:0xadf16a34a7c43b7a!8m2!3d17.402153!4d78.51028!16s%2Fg%2F1tffbn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Durgabai+Deshmukh+CARE+Cardiac+Center+(24X7+Cardiac+Emergency)/@17.402153,78.51028,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99a33c89c215:0xadf16a34a7c43b7a!8m2!3d17.402153!4d78.51028!16s%2Fg%2F1tffbn4q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.402153,
+      "lng": 78.51028,
+      "label": "Durgabai Deshmukh CARE Cardiac Center (24X7 Cardiac Emergency)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "falguni-clinics-plastic-surgery-centre-liposuction-bariatric-body-contouring-varicose-veins-raidurg-hyderabad-hyderabad",
+    "name": "FALGUNI CLINICS Plastic Surgery Centre | Liposuction, Bariatric, Body Contouring, Varicose Veins | Raidurg, Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose FALGUNI CLINICS Plastic Surgery Centre | Liposuction, Bariatric, Body Contouring, Varicose Veins | Raidurg, Hyderabad for its strength in Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.falguniclinics.com/",
+    "address": "Door No. 7-66/2/26&27/2F, Eshika Building, Prashanth Hills, Beside Chitrapuri Hills - Manikonda, Khajaguda - Nanakramguda Rd, Rai Durg, Hyderabad, Telangana 500008",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500008",
+    "locality": "Rai Durg",
+    "landmark": "Beside Chitrapuri Hills - Manikonda, Khajaguda - Nanakramguda Rd, Rai Durg, Hyderabad, Telangana 500008",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/FALGUNI+CLINICS+Plastic+Surgery+Centre+%7C+Liposuction,+Bariatric,+Body+Contouring,+Varicose+Veins+%7C+Raidurg,+Hyderabad/@17.4186119,78.3782229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb95f2cc3b0835:0x81577c6211cde5a1!8m2!3d17.4186119!4d78.3782229!16s%2Fg%2F11lzs4vvnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/FALGUNI+CLINICS+Plastic+Surgery+Centre+%7C+Liposuction,+Bariatric,+Body+Contouring,+Varicose+Veins+%7C+Raidurg,+Hyderabad/@17.4186119,78.3782229,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb95f2cc3b0835:0x81577c6211cde5a1!8m2!3d17.4186119!4d78.3782229!16s%2Fg%2F11lzs4vvnw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4186119,
+      "lng": 78.3782229,
+      "label": "FALGUNI CLINICS Plastic Surgery Centre | Liposuction, Bariatric, Body Contouring, Varicose Veins | Raidurg, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ga-skin-hair-and-plastic-surgery-centre-hyderabad",
+    "name": "GA Skin, Hair & Plastic Surgery Centre",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hyderabad, GA Skin, Hair & Plastic Surgery Centre brings together specialists for Cosmetic Surgery In Hyderabad and Surgical Center. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095054 43330",
+    "alternatePhone": "",
+    "website": "https://consult.gadentalclinics.com/",
+    "address": "C/o KGH Family Hospital, behind HDFC Bank, Saleem Nagar Colony, Malakpet, Hyderabad, Telangana 500036",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500036",
+    "locality": "Malakpet",
+    "landmark": "Saleem Nagar Colony",
+    "emergencyContact": "095054 43330",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GA+Skin,+Hair+%26+Plastic+Surgery+Centre/@17.3728186,78.5097207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb995049fee51b:0x8c595a9ecfd5a022!8m2!3d17.3728186!4d78.5097207!16s%2Fg%2F11ry3kmtzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GA+Skin,+Hair+%26+Plastic+Surgery+Centre/@17.3728186,78.5097207,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb995049fee51b:0x8c595a9ecfd5a022!8m2!3d17.3728186!4d78.5097207!16s%2Fg%2F11ry3kmtzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3728186,
+      "lng": 78.5097207,
+      "label": "GA Skin, Hair & Plastic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hk-permanent-makeup-clinic-hyderabad",
+    "name": "HK Permanent Makeup Clinic",
+    "type": "Permanent Make-up Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hyderabad, HK Permanent Makeup Clinic brings together specialists for Cosmetic Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090523 39052",
+    "alternatePhone": "",
+    "website": "http://hkpmuclinic.com/",
+    "address": "metro station, Plot no 14, Road No. 1, beside JNTU Road, Vasant Nagar, Hydernagar, Kukatpally, Hyderabad, Telangana 500085",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500085",
+    "locality": "Kukatpally",
+    "landmark": "beside JNTU Road, Vasant Nagar, Hydernagar, Kukatpally, Hyderabad, Telangana 500085",
+    "emergencyContact": "090523 39052",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/HK+Permanent+Makeup+Clinic/@17.4984676,78.3873675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91a219b41213:0x8843b00db179438c!8m2!3d17.4984676!4d78.3873675!16s%2Fg%2F11h88twxxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HK+Permanent+Makeup+Clinic/@17.4984676,78.3873675,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91a219b41213:0x8843b00db179438c!8m2!3d17.4984676!4d78.3873675!16s%2Fg%2F11h88twxxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4984676,
+      "lng": 78.3873675,
+      "label": "HK Permanent Makeup Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hyderabad-plastic-surgery-hyderabad",
+    "name": "Hyderabad Plastic Surgery",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, Hyderabad Plastic Surgery offers coordinated hospital care with major focus on Cosmetic Surgery In Hyderabad. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070138 23873",
+    "alternatePhone": "",
+    "website": "https://www.hyderabadplasticsurgery.com/",
+    "address": "4th Floor,Metro Pillar C1729, Boppanas Annapurna Arcade, Phase 2, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500081",
+    "locality": "Madhapur",
+    "landmark": "Boppanas Annapurna Arcade",
+    "emergencyContact": "070138 23873",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hyderabad+Plastic+Surgery/@17.440752,78.3918952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91d24d7561df:0x14b12bcc1cf82bce!8m2!3d17.440752!4d78.3918952!16s%2Fg%2F11y1jkszsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hyderabad+Plastic+Surgery/@17.440752,78.3918952,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91d24d7561df:0x14b12bcc1cf82bce!8m2!3d17.440752!4d78.3918952!16s%2Fg%2F11y1jkszsw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.440752,
+      "lng": 78.3918952,
+      "label": "Hyderabad Plastic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ikigai-hospitals-a-specialty-diabetic-foot-wound-care-vascular-and-plastic-surgery-centre-kondapur-hyderabad-hyderabad",
+    "name": "Ikigai Hospitals- A Specialty Diabetic Foot, Wound care, Vascular and Plastic Surgery Centre, Kondapur, Hyderabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ikigai Hospitals- A Specialty Diabetic Foot, Wound care, Vascular and Plastic Surgery Centre, Kondapur, Hyderabad is a prominent hospital in Hyderabad, known for structured tertiary care across Cosmetic Surgery In Hyderabad and Speciality Care. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090634 53372",
+    "alternatePhone": "",
+    "website": "https://www.ikigaihospitals.com/",
+    "address": "4th floor, Prasad Enclave, Masjid Banda Rd, above Starbucks, Kondapur, Camelot Layout, Gachibowli, Hyderabad, Telangana 500084",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500084",
+    "locality": "Gachibowli",
+    "landmark": "Masjid Banda Rd",
+    "emergencyContact": "090634 53372",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ikigai+Hospitals-+A+Specialty+Diabetic+Foot,+Wound+care,+Vascular+and+Plastic+Surgery+Centre,+Kondapur,+Hyderabad/@17.4654766,78.3478514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93a0a8594fc7:0x4565090211030df9!8m2!3d17.4654766!4d78.3478514!16s%2Fg%2F11wp90kxfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ikigai+Hospitals-+A+Specialty+Diabetic+Foot,+Wound+care,+Vascular+and+Plastic+Surgery+Centre,+Kondapur,+Hyderabad/@17.4654766,78.3478514,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93a0a8594fc7:0x4565090211030df9!8m2!3d17.4654766!4d78.3478514!16s%2Fg%2F11wp90kxfz?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4654766,
+      "lng": 78.3478514,
+      "label": "Ikigai Hospitals- A Specialty Diabetic Foot, Wound care, Vascular and Plastic Surgery Centre, Kondapur, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalyans-clinic-hyderabad",
+    "name": "KALYANS Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KALYANS Clinic is a prominent hair transplantation clinic in Hyderabad, known for structured tertiary care across Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080742 86762",
+    "alternatePhone": "",
+    "website": "",
+    "address": "flat no-216,2nd floor, above paradise biryani, adjacent to BLUE FOX HOTEL, Himayatnagar, Hyderabad, Telangana 500029",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500029",
+    "locality": "Himayatnagar",
+    "landmark": "above paradise biryani",
+    "emergencyContact": "080742 86762",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/KALYANS+Clinic/@17.4011016,78.4858289,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97a3bfde8f5b:0xb783a68d5cba914f!8m2!3d17.4011016!4d78.4858289!16s%2Fg%2F11j4gyfdz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KALYANS+Clinic/@17.4011016,78.4858289,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97a3bfde8f5b:0xb783a68d5cba914f!8m2!3d17.4011016!4d78.4858289!16s%2Fg%2F11j4gyfdz9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4011016,
+      "lng": 78.4858289,
+      "label": "KALYANS Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-slimming-and-cosmetic-clinic-hyderabad",
+    "name": "Life Slimming and Cosmetic Clinic",
+    "type": "Weight Loss Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted weight loss service in Hyderabad, Life Slimming and Cosmetic Clinic delivers integrated care across Cosmetic Surgery In Hyderabad and Weight Loss Service. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095334 45566",
+    "alternatePhone": "",
+    "website": "http://www.lifescc.com/",
+    "address": "3rd Floor, Hitech City Rd, above Karachi Bakery, opp. Pizza Hut, HUDA Techno Enclave, Madhapur, Hyderabad, Telangana 500081",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500081",
+    "locality": "Madhapur",
+    "landmark": "above Karachi Bakery",
+    "emergencyContact": "095334 45566",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Weight Loss Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic/@17.4449701,78.3855897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90c4152636c5:0x287aa16c8993363b!8m2!3d17.4449701!4d78.3855897!16s%2Fg%2F1tgx0gst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic/@17.4449701,78.3855897,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb90c4152636c5:0x287aa16c8993363b!8m2!3d17.4449701!4d78.3855897!16s%2Fg%2F1tgx0gst?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4449701,
+      "lng": 78.3855897,
+      "label": "Life Slimming and Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-slimming-and-cosmetic-clinic-banjara-hills-hyderabad",
+    "name": "Life Slimming And Cosmetic Clinic | Banjara Hills",
+    "type": "Weight Loss Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Life Slimming And Cosmetic Clinic | Banjara Hills is a prominent weight loss service in Hyderabad, known for structured tertiary care across Cosmetic Surgery In Hyderabad and Weight Loss Service. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095334 45566",
+    "alternatePhone": "",
+    "website": "https://www.lifescc.com/",
+    "address": "2nd Floor, Grand sitara hotel building, Road No. 12, above SBH Bank, Syed Nagar, Banjara Hills, Hyderabad, Telangana 500028",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500028",
+    "locality": "Banjara Hills",
+    "landmark": "Road No. 12",
+    "emergencyContact": "095334 45566",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Weight Loss Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Slimming+And+Cosmetic+Clinic+%7C+Banjara+Hills/@17.4072527,78.4404899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb972344dcc12d:0xf541e45da6897c24!8m2!3d17.4072527!4d78.4404899!16s%2Fg%2F1tg6h_qk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Slimming+And+Cosmetic+Clinic+%7C+Banjara+Hills/@17.4072527,78.4404899,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb972344dcc12d:0xf541e45da6897c24!8m2!3d17.4072527!4d78.4404899!16s%2Fg%2F1tg6h_qk?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4072527,
+      "lng": 78.4404899,
+      "label": "Life Slimming And Cosmetic Clinic | Banjara Hills",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-slimming-and-cosmetic-clinic-dilsukhnagar-hyderabad",
+    "name": "Life Slimming and Cosmetic Clinic | Dilsukhnagar",
+    "type": "Weight Loss Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted weight loss service in Hyderabad, Life Slimming and Cosmetic Clinic | Dilsukhnagar delivers integrated care across Cosmetic Surgery In Hyderabad and Weight Loss Service. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095334 45566",
+    "alternatePhone": "",
+    "website": "http://www.lifescc.com/",
+    "address": "5th floor, Kontham Ram Reddy Complex Opp Kothapet Fruit Market, Kothapet, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500060",
+    "locality": "Dilsukhnagar",
+    "landmark": "Kothapet",
+    "emergencyContact": "095334 45566",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Weight Loss Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic+%7C+Dilsukhnagar/@17.3677898,78.5350926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99e4e291e017:0x90bdbb7a7813a56c!8m2!3d17.3677898!4d78.5350926!16s%2Fg%2F11fqs5kk31?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic+%7C+Dilsukhnagar/@17.3677898,78.5350926,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99e4e291e017:0x90bdbb7a7813a56c!8m2!3d17.3677898!4d78.5350926!16s%2Fg%2F11fqs5kk31?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3677898,
+      "lng": 78.5350926,
+      "label": "Life Slimming and Cosmetic Clinic | Dilsukhnagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-slimming-and-cosmetic-clinic-gachibowli-hyderabad",
+    "name": "Life Slimming and Cosmetic Clinic | Gachibowli",
+    "type": "Weight Loss Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, Life Slimming and Cosmetic Clinic | Gachibowli offers coordinated hospital care with major focus on Cosmetic Surgery In Hyderabad and Weight Loss Service. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095334 45566",
+    "alternatePhone": "",
+    "website": "http://www.lifescc.com/",
+    "address": "building, 2-37, 1st floor, above the airtel store, M.M Arcade, 76, Gachibowli Rd, near ICICI Bank, Vinayak Nagar, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500032",
+    "locality": "Gachibowli",
+    "landmark": "near ICICI Bank, Vinayak Nagar, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "emergencyContact": "095334 45566",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Weight Loss Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic+%7C+Gachibowli/@17.4419079,78.3575154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb939e14632e3b:0x3b2f98ef2807cc47!8m2!3d17.4419079!4d78.3575154!16s%2Fg%2F11s__qtfz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+Slimming+and+Cosmetic+Clinic+%7C+Gachibowli/@17.4419079,78.3575154,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb939e14632e3b:0x3b2f98ef2807cc47!8m2!3d17.4419079!4d78.3575154!16s%2Fg%2F11s__qtfz_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4419079,
+      "lng": 78.3575154,
+      "label": "Life Slimming and Cosmetic Clinic | Gachibowli",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "life-slimming-and-cosmetic-clinic-himayathnagar-hyderabad",
+    "name": "Life slimming and Cosmetic Clinic | Himayathnagar",
+    "type": "Weight Loss Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Life slimming and Cosmetic Clinic | Himayathnagar has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Cosmetic Surgery In Hyderabad and Weight Loss Service. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "099965 55646",
+    "alternatePhone": "",
+    "website": "http://www.lifescc.com/",
+    "address": "101, Skill Spectrum Complex Liberty X Roads, adj. to TTD Kalyanamatapam, Himayatnagar, Hyderabad, Telangana 500029",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500029",
+    "locality": "Himayatnagar",
+    "landmark": "adj. to TTD Kalyanamatapam",
+    "emergencyContact": "099965 55646",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad",
+      "Weight Loss Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Life+slimming+and+Cosmetic+Clinic+%7C+Himayathnagar/@17.4060591,78.4791797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99e0efd5d8a3:0x2d24284813f73b26!8m2!3d17.4060591!4d78.4791797!16s%2Fg%2F1jmcx58x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Life+slimming+and+Cosmetic+Clinic+%7C+Himayathnagar/@17.4060591,78.4791797,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99e0efd5d8a3:0x2d24284813f73b26!8m2!3d17.4060591!4d78.4791797!16s%2Fg%2F1jmcx58x4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4060591,
+      "lng": 78.4791797,
+      "label": "Life slimming and Cosmetic Clinic | Himayathnagar",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medicover-hospitals-best-hospital-in-hyderabad-hitech-city-hyderabad",
+    "name": "Medicover Hospitals - Best Hospital in Hyderabad - Hitech City",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medicover Hospitals - Best Hospital in Hyderabad - Hitech City is a prominent hospital in Hyderabad, known for structured tertiary care across Cardiac Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0406 833 4455",
+    "alternatePhone": "",
+    "website": "https://www.medicoverhospitals.in/hospitals/telangana/hyderabad/hitec-city/?utm_source=google&utm_medium=organic&utm_campaign=gmb-hitech-hyderabad",
+    "address": "the Lane of IBIS Hotels, Behind Cyber Towers, In, HUDA Techno Enclave, HITEC City, Hyderabad, Telangana 500082",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500082",
+    "locality": "HITEC City",
+    "landmark": "In",
+    "emergencyContact": "0406 833 4455",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Hyderabad+-+Hitech+City/@17.4466685,78.3801261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93ddedcbbfd5:0x53c9001a66216872!8m2!3d17.4466685!4d78.3801261!16s%2Fg%2F11b6hyb781?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medicover+Hospitals+-+Best+Hospital+in+Hyderabad+-+Hitech+City/@17.4466685,78.3801261,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93ddedcbbfd5:0x53c9001a66216872!8m2!3d17.4466685!4d78.3801261!16s%2Fg%2F11b6hyb781?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4466685,
+      "lng": 78.3801261,
+      "label": "Medicover Hospitals - Best Hospital in Hyderabad - Hitech City",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "microcare-rhinoplasty-centre-rhinoplasty-hyderabad",
+    "name": "Microcare Rhinoplasty Centre Rhinoplasty",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Microcare Rhinoplasty Centre Rhinoplasty for its strength in Cosmetic Surgery In Hyderabad. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091007 71485",
+    "alternatePhone": "",
+    "website": "http://www.rhinoplastyhyderabad.com/",
+    "address": "No 4, Flat No 102, MIG-241, Kukatpally Housing Board Rd, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500072",
+    "locality": "Kukatpally",
+    "landmark": "MIG-241",
+    "emergencyContact": "091007 71485",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Microcare+Rhinoplasty+Centre+Rhinoplasty/@17.4939995,78.3985288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91ecdf706fb1:0x1d398dfc959dd03a!8m2!3d17.4939995!4d78.3985288!16s%2Fg%2F11g88bw1td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Microcare+Rhinoplasty+Centre+Rhinoplasty/@17.4939995,78.3985288,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb91ecdf706fb1:0x1d398dfc959dd03a!8m2!3d17.4939995!4d78.3985288!16s%2Fg%2F11g88bw1td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4939995,
+      "lng": 78.3985288,
+      "label": "Microcare Rhinoplasty Centre Rhinoplasty",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nosecontour-expert-rhinoplasty-surgery-in-hyderabad-hyderabad",
+    "name": "Nosecontour | Expert Rhinoplasty Surgery in Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, Nosecontour | Expert Rhinoplasty Surgery in Hyderabad offers coordinated hospital care with major focus on Cosmetic Surgery In Hyderabad. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087900 49911",
+    "alternatePhone": "",
+    "website": "https://nosecontour.com/",
+    "address": "Door No: 8-2, Park View Estates, 120/112/P/5, Road No. 2, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "locality": "Banjara Hills",
+    "landmark": "120/112/P/5",
+    "emergencyContact": "087900 49911",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nosecontour+%7C+Expert+Rhinoplasty+Surgery+in+Hyderabad/@17.4217619,78.4457369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97ecce9fa729:0x41d636d3c71aa446!8m2!3d17.4217619!4d78.4457369!16s%2Fg%2F11y3__pmd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nosecontour+%7C+Expert+Rhinoplasty+Surgery+in+Hyderabad/@17.4217619,78.4457369,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97ecce9fa729:0x41d636d3c71aa446!8m2!3d17.4217619!4d78.4457369!16s%2Fg%2F11y3__pmd4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4217619,
+      "lng": 78.4457369,
+      "label": "Nosecontour | Expert Rhinoplasty Surgery in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "olive-hospitals-hyderabad",
+    "name": "Olive Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Olive Hospitals is a prominent hospital in Hyderabad, known for structured tertiary care across Heart Surgery In Hyderabad. Its infrastructure includes Google rating 4.5 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0404 049 9500",
+    "alternatePhone": "",
+    "website": "http://www.olivehospitals.com/",
+    "address": "Building No. 12-2-718/3,4,5, Nanalnagar ‘X’ Road, Mehdipatnam, Hyderabad, Telangana 500006",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500006",
+    "locality": "Mehdipatnam",
+    "landmark": "5",
+    "emergencyContact": "0404 049 9500",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Olive+Hospitals/@17.3936095,78.4271174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96e24ec92bc3:0xccfd9d3502e362e9!8m2!3d17.3936095!4d78.4271174!16s%2Fg%2F1tr8k06h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Olive+Hospitals/@17.3936095,78.4271174,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96e24ec92bc3:0xccfd9d3502e362e9!8m2!3d17.3936095!4d78.4271174!16s%2Fg%2F1tr8k06h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3936095,
+      "lng": 78.4271174,
+      "label": "Olive Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "omega-heart-clinic-best-heart-hospital-in-gachibowli-hyderabad-best-cardiology-clinic-cardiac-care-hyderabad",
+    "name": "Omega Heart Clinic | Best Heart Hospital in Gachibowli Hyderabad| Best Cardiology Clinic | Cardiac Care",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Omega Heart Clinic | Best Heart Hospital in Gachibowli Hyderabad| Best Cardiology Clinic | Cardiac Care is a prominent heart hospital in Hyderabad, known for structured tertiary care across Heart Surgery In Hyderabad and Cardiac Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098490 22121",
+    "alternatePhone": "",
+    "website": "https://www.omegahospitals.com/omega-hospitals-gachibowli/centers-of-excellence/cardiology",
+    "address": "5th Floor, CHR Lane, Janardana Hills, P Janardhan Reddy Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500032",
+    "locality": "Gachibowli",
+    "landmark": "Janardana Hills",
+    "emergencyContact": "098490 22121",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Omega+Heart+Clinic+%7C+Best+Heart+Hospital+in+Gachibowli+Hyderabad%7C+Best+Cardiology+Clinic+%7C+Cardiac+Care/@17.4363919,78.3676109,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb933ec9977ded:0xee901348e6a598bd!8m2!3d17.4363919!4d78.3676109!16s%2Fg%2F11xf48fh20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Omega+Heart+Clinic+%7C+Best+Heart+Hospital+in+Gachibowli+Hyderabad%7C+Best+Cardiology+Clinic+%7C+Cardiac+Care/@17.4363919,78.3676109,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb933ec9977ded:0xee901348e6a598bd!8m2!3d17.4363919!4d78.3676109!16s%2Fg%2F11xf48fh20?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4363919,
+      "lng": 78.3676109,
+      "label": "Omega Heart Clinic | Best Heart Hospital in Gachibowli Hyderabad| Best Cardiology Clinic | Cardiac Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rainbow-children-s-heart-institute-banjara-hills-hyderabad-best-pediatric-cardiology-hospital-hyderabad",
+    "name": "Rainbow Children's Heart Institute, Banjara Hills, Hyderabad - Best Pediatric Cardiology Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rainbow Children's Heart Institute, Banjara Hills, Hyderabad - Best Pediatric Cardiology Hospital has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Heart Surgery In Hyderabad, Cardiac Care, and Women and Child Care. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080378 36514",
+    "alternatePhone": "",
+    "website": "https://www.rainbowhospitals.in/our-centre/hyderabad/rchi?utm_source=gmb&utm_medium=organic&utm_campaign=unit-profile",
+    "address": "Plot No, 22, Road No. 10, Avenue 4, Banjara Hills, Hyderabad, Telangana 500034",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500034",
+    "locality": "Banjara Hills",
+    "landmark": "Road No. 10",
+    "emergencyContact": "080378 36514",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad",
+      "Cardiac Care",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rainbow+Children's+Heart+Institute,+Banjara+Hills,+Hyderabad+-+Best+Pediatric+Cardiology+Hospital/@17.414795,78.447487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97328082347b:0xeb8ca9324a04d802!8m2!3d17.414795!4d78.447487!16s%2Fg%2F11h1k1tl9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rainbow+Children's+Heart+Institute,+Banjara+Hills,+Hyderabad+-+Best+Pediatric+Cardiology+Hospital/@17.414795,78.447487,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97328082347b:0xeb8ca9324a04d802!8m2!3d17.414795!4d78.447487!16s%2Fg%2F11h1k1tl9w?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.414795,
+      "lng": 78.447487,
+      "label": "Rainbow Children's Heart Institute, Banjara Hills, Hyderabad - Best Pediatric Cardiology Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "redefine-gynecomastia-surgery-in-hyderabad-hyderabad",
+    "name": "Redefine - Gynecomastia Surgery in Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, Redefine - Gynecomastia Surgery in Hyderabad offers coordinated hospital care with major focus on Cosmetic Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "089776 96663",
+    "alternatePhone": "",
+    "website": "https://gynecomastiaexperts.in/",
+    "address": "Office no. 403, Old Mumbai Hwy, above Ratnadeep Supermarket, Lumbini Avenue, Gachibowli, Hyderabad, Telangana 500032",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500032",
+    "locality": "Gachibowli",
+    "landmark": "above Ratnadeep Supermarket",
+    "emergencyContact": "089776 96663",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Redefine+-+Gynecomastia+Surgery+in+Hyderabad/@17.4301041,78.3742461,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93fa600b6199:0x36065dd315e7a4cd!8m2!3d17.4301041!4d78.3742461!16s%2Fg%2F11vy8st05h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Redefine+-+Gynecomastia+Surgery+in+Hyderabad/@17.4301041,78.3742461,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93fa600b6199:0x36065dd315e7a4cd!8m2!3d17.4301041!4d78.3742461!16s%2Fg%2F11vy8st05h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4301041,
+      "lng": 78.3742461,
+      "label": "Redefine - Gynecomastia Surgery in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "redefine-plastic-surgery-and-hair-transplant-in-hyderabad-hyderabad",
+    "name": "ReDefine Plastic Surgery & Hair Transplant in Hyderabad",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ReDefine Plastic Surgery & Hair Transplant in Hyderabad is a prominent hair transplantation clinic in Hyderabad, known for structured tertiary care across Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://redefineu.in/best-hair-transplant-in-hyderabad/?utm_source=gmb&utm_medium=organic",
+    "address": "3rd Floor, Axis Bank Building ,Beside OMNI Hospital,Kothapet 'X' Road, Road No. 2, Hyderabad, Telangana 500102",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500102",
+    "locality": "Road No. 2",
+    "landmark": "Beside OMNI Hospital",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ReDefine+Plastic+Surgery+%26+Hair+Transplant+in+Hyderabad/@17.3689064,78.5389717,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb98e917ce29d9:0xd54e6954494e6951!8m2!3d17.3689064!4d78.5389717!16s%2Fg%2F1ptxfybts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ReDefine+Plastic+Surgery+%26+Hair+Transplant+in+Hyderabad/@17.3689064,78.5389717,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb98e917ce29d9:0xd54e6954494e6951!8m2!3d17.3689064!4d78.5389717!16s%2Fg%2F1ptxfybts?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3689064,
+      "lng": 78.5389717,
+      "label": "ReDefine Plastic Surgery & Hair Transplant in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rhinoplasty-and-varicose-veins-treatment-and-surgery-in-hyderabad-hyderabad",
+    "name": "Rhinoplasty & Varicose Veins Treatment & Surgery in Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rhinoplasty & Varicose Veins Treatment & Surgery in Hyderabad has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Cosmetic Surgery In Hyderabad. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "081796 25836",
+    "alternatePhone": "",
+    "website": "https://nose-reshaping-surgery-hyderabad-cost.blogspot.com/",
+    "address": "2-135/66, Ushodaya Colony, Prakasham Panthulu Nagar, Gajularamaram, Hyderabad, Telangana 500055",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500055",
+    "locality": "Gajularamaram",
+    "landmark": "Prakasham Panthulu Nagar",
+    "emergencyContact": "081796 25836",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rhinoplasty+%26+Varicose+Veins+Treatment+%26+Surgery+in+Hyderabad/@17.5227165,78.4274175,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb8f67a0a0d5a1:0x65ec58e8bda4b62c!8m2!3d17.5227165!4d78.4274175!16s%2Fg%2F11hymlhgwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rhinoplasty+%26+Varicose+Veins+Treatment+%26+Surgery+in+Hyderabad/@17.5227165,78.4274175,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb8f67a0a0d5a1:0x65ec58e8bda4b62c!8m2!3d17.5227165!4d78.4274175!16s%2Fg%2F11hymlhgwl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.5227165,
+      "lng": 78.4274175,
+      "label": "Rhinoplasty & Varicose Veins Treatment & Surgery in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "thenewyou-liposuction-and-gynecomastia-clinic-hyderabad",
+    "name": "theNewyou - Liposuction & Gynecomastia Clinic",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted plastic surgery clinic in Hyderabad, theNewyou - Liposuction & Gynecomastia Clinic delivers integrated care across Cosmetic Surgery In Hyderabad. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063006 22048",
+    "alternatePhone": "",
+    "website": "https://www.thenewyou.in/",
+    "address": "SAKKUBAI COLONY, KRSNA VILLA, PLOT NO 37, beside OU COLONY, Shaikpet, Hyderabad, Telangana 500104",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500104",
+    "locality": "Shaikpet",
+    "landmark": "beside OU COLONY, Shaikpet, Hyderabad, Telangana 500104",
+    "emergencyContact": "063006 22048",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/theNewyou+-+Liposuction+%26+Gynecomastia+Clinic/@17.4054633,78.3932613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96d50c69c6af:0xab6be969b9ed6679!8m2!3d17.4054633!4d78.3932613!16s%2Fg%2F11b7rn8cwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/theNewyou+-+Liposuction+%26+Gynecomastia+Clinic/@17.4054633,78.3932613,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb96d50c69c6af:0xab6be969b9ed6679!8m2!3d17.4054633!4d78.3932613!16s%2Fg%2F11b7rn8cwh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4054633,
+      "lng": 78.3932613,
+      "label": "theNewyou - Liposuction & Gynecomastia Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tx-hospitals-banjara-hills-hyderabad",
+    "name": "TX Hospitals Banjara Hills",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hyderabad, TX Hospitals Banjara Hills brings together specialists for Heart Surgery In Hyderabad. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "091445 14459",
+    "alternatePhone": "",
+    "website": "https://txhospitals.in/",
+    "address": "Building, Road no:12, Raichandani Construction, Sri Ram Nagar Colony, Banjara Hills, Hyderabad, Telangana 500028",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500028",
+    "locality": "Banjara Hills",
+    "landmark": "Raichandani Construction",
+    "emergencyContact": "091445 14459",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/TX+Hospitals+Banjara+Hills/@17.4077701,78.4446554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97fe77c0cf9d:0xfee82fa44d76adad!8m2!3d17.4077701!4d78.4446554!16s%2Fg%2F11td4lzcfq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TX+Hospitals+Banjara+Hills/@17.4077701,78.4446554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97fe77c0cf9d:0xfee82fa44d76adad!8m2!3d17.4077701!4d78.4446554!16s%2Fg%2F11td4lzcfq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4077701,
+      "lng": 78.4446554,
+      "label": "TX Hospitals Banjara Hills",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tx-hospitals-banjara-hills-advanced-cardiology-hospitals-banjara-hills-hyderabad-hyderabad",
+    "name": "TX Hospitals Banjara Hills –Advanced Cardiology Hospitals | Banjara Hills, Hyderabad",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Hyderabad, TX Hospitals Banjara Hills –Advanced Cardiology Hospitals | Banjara Hills, Hyderabad offers coordinated hospital care with major focus on Heart Surgery In Hyderabad. Operational strengths including Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091445 14459",
+    "alternatePhone": "",
+    "website": "https://txhospitals.in/specialities/cardiac-sciences/",
+    "address": "Road no:12, Sri Ram Nagar Colony, Banjara Hills, Hyderabad, Telangana 500028",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500028",
+    "locality": "Banjara Hills",
+    "landmark": "Banjara Hills",
+    "emergencyContact": "091445 14459",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/TX+Hospitals+Banjara+Hills+%E2%80%93Advanced+Cardiology+Hospitals+%7C+Banjara+Hills,+Hyderabad/@17.4077732,78.4446556,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb979a2d5193a9:0xda8dc5ffa88e183b!8m2!3d17.4077732!4d78.4446556!16s%2Fg%2F11ylp3lmdg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TX+Hospitals+Banjara+Hills+%E2%80%93Advanced+Cardiology+Hospitals+%7C+Banjara+Hills,+Hyderabad/@17.4077732,78.4446556,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb979a2d5193a9:0xda8dc5ffa88e183b!8m2!3d17.4077732!4d78.4446556!16s%2Fg%2F11ylp3lmdg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4077732,
+      "lng": 78.4446556,
+      "label": "TX Hospitals Banjara Hills –Advanced Cardiology Hospitals | Banjara Hills, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uma-heart-clinic-hyderabad",
+    "name": "Uma Heart Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Uma Heart Clinic is a prominent medical center in Hyderabad, known for structured tertiary care across Heart Surgery In Hyderabad, Medical Center, and Cardiac Care. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098497 92919",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot No 2, Subhodaya Apartment, YWCA Road, Bogulkunta, Abids, Hyderabad, Telangana 500001",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500001",
+    "locality": "Abids",
+    "landmark": "YWCA Road",
+    "emergencyContact": "098497 92919",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad",
+      "Medical Center",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Uma+Heart+Clinic/@17.3923135,78.4790664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99d75d5d2bf1:0xa6e78c1ddad96d6d!8m2!3d17.3923135!4d78.4790664!16s%2Fg%2F1tjdk60z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Uma+Heart+Clinic/@17.3923135,78.4790664,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb99d75d5d2bf1:0xa6e78c1ddad96d6d!8m2!3d17.3923135!4d78.4790664!16s%2Fg%2F1tjdk60z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.3923135,
+      "lng": 78.4790664,
+      "label": "Uma Heart Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vasavi-cardiology-institute-lakdikapul-hyderabad-hyderabad",
+    "name": "Vasavi Cardiology Institute Lakdikapul, Hyderabad",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hyderabad, Vasavi Cardiology Institute Lakdikapul, Hyderabad brings together specialists for Heart Surgery In Hyderabad and Cardiac Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098481 20104",
+    "alternatePhone": "",
+    "website": "http://vasavicardiology.com/",
+    "address": "6-1-91, Opp Sensation Theater, Second Floor Lakdi-ka-pool, Khairtabad, Hyderabad, Telangana 500004",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500004",
+    "locality": "Khairtabad",
+    "landmark": "Second Floor Lakdi-ka-pool",
+    "emergencyContact": "098481 20104",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vasavi+Cardiology+Institute+Lakdikapul,+Hyderabad/@17.4064086,78.4644904,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb978e8de6cdb7:0x421c8361ebf0b0b7!8m2!3d17.4064086!4d78.4644904!16s%2Fg%2F11n158snbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vasavi+Cardiology+Institute+Lakdikapul,+Hyderabad/@17.4064086,78.4644904,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb978e8de6cdb7:0x421c8361ebf0b0b7!8m2!3d17.4064086!4d78.4644904!16s%2Fg%2F11n158snbt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4064086,
+      "lng": 78.4644904,
+      "label": "Vasavi Cardiology Institute Lakdikapul, Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-hospitals-best-hospital-in-hitech-city-hyderabad",
+    "name": "Yashoda Hospitals | Best Hospital in Hitech City",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Hyderabad, Yashoda Hospitals | Best Hospital in Hitech City brings together specialists for Heart Surgery In Hyderabad. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0404 567 4567",
+    "alternatePhone": "",
+    "website": "https://www.yashodahospitals.com/locations/hitec-city/",
+    "address": "Survey No. 41/14, JNTU, to, Hitech City Main Rd, Khanamet Village, Sharilimgampally, Hyderabad, Kothaguda, Telangana 500084",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500084",
+    "locality": "Sharilimgampally",
+    "landmark": "to",
+    "emergencyContact": "0404 567 4567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+%7C+Best+Hospital+in+Hitech+City/@17.4623137,78.3849124,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb917df77e5ba9:0xa47221c5deef3da2!8m2!3d17.4623137!4d78.3849124!16s%2Fg%2F11h9x8zchq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+Hospitals+%7C+Best+Hospital+in+Hitech+City/@17.4623137,78.3849124,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb917df77e5ba9:0xa47221c5deef3da2!8m2!3d17.4623137!4d78.3849124!16s%2Fg%2F11h9x8zchq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4623137,
+      "lng": 78.3849124,
+      "label": "Yashoda Hospitals | Best Hospital in Hitech City",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yashoda-hospitals-best-hospital-in-somajiguda-hyderabad",
+    "name": "Yashoda Hospitals | Best Hospital in Somajiguda",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yashoda Hospitals | Best Hospital in Somajiguda has built a strong reputation in Hyderabad for multidisciplinary treatment pathways covering Heart Surgery In Hyderabad. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0406 723 2348",
+    "alternatePhone": "",
+    "website": "https://www.yashodahospitals.com/locations/somajiguda/",
+    "address": "6-3-905, Raj Bhavan Rd, Matha Nagar, Somajiguda, Hyderabad, Telangana 500082",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500082",
+    "locality": "Somajiguda",
+    "landmark": "Matha Nagar",
+    "emergencyContact": "0406 723 2348",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yashoda+Hospitals+%7C+Best+Hospital+in+Somajiguda/@17.4244593,78.4566648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97b36c533e8d:0x3acfb01936398552!8m2!3d17.4244593!4d78.4566648!16s%2Fg%2F11p67mkc3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yashoda+Hospitals+%7C+Best+Hospital+in+Somajiguda/@17.4244593,78.4566648,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb97b36c533e8d:0x3acfb01936398552!8m2!3d17.4244593!4d78.4566648!16s%2Fg%2F11p67mkc3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4244593,
+      "lng": 78.4566648,
+      "label": "Yashoda Hospitals | Best Hospital in Somajiguda",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "youniq-plastic-surgery-hyderabad",
+    "name": "Youniq Plastic Surgery",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Youniq Plastic Surgery for its strength in Cosmetic Surgery In Hyderabad. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090555 34567",
+    "alternatePhone": "",
+    "website": "http://www.youniqsurgery.com/",
+    "address": "1335/A, Road No. 45 Jubilee Hills, Jubilee Hills, Hyderabad, Telangana 500033",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500033",
+    "locality": "Jubilee Hills",
+    "landmark": "Jubilee Hills",
+    "emergencyContact": "090555 34567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Youniq+Plastic+Surgery/@17.4256143,78.4085825,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb913486765701:0x1a4d8ec307147513!8m2!3d17.4256143!4d78.4085825!16s%2Fg%2F11l4kr994k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Youniq+Plastic+Surgery/@17.4256143,78.4085825,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb913486765701:0x1a4d8ec307147513!8m2!3d17.4256143!4d78.4085825!16s%2Fg%2F11l4kr994k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4256143,
+      "lng": 78.4085825,
+      "label": "Youniq Plastic Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "zenith-clinic-plastic-cosmetic-and-reconstructive-surgery-in-hyderabad-hyderabad",
+    "name": "Zenith Clinic – Plastic, Cosmetic & Reconstructive Surgery in Hyderabad",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Hyderabad often choose Zenith Clinic – Plastic, Cosmetic & Reconstructive Surgery in Hyderabad for its strength in Cosmetic Surgery In Hyderabad. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "zenithplasticsurgery@gmail.com",
+    "phone": "082259 76859",
+    "alternatePhone": "+91 98262 41007",
+    "website": "https://zenithplasticsurgery.in/",
+    "address": "Avasa Hospital H.NO, 1-1-48/B, Lanco Hills Rd 500089, Sri Laxmi Nagar Colony, Hyderabad, Telangana 500089",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500089",
+    "locality": "Sri Laxmi Nagar Colony",
+    "landmark": "Lanco Hills Rd 500089",
+    "emergencyContact": "+91 98262 41007",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/zenithplasticandcosmeticsurgeryindore/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@zenithclinic1364",
+    "specialties": [
+      "Cosmetic Surgery In Hyderabad"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Zenith+Clinic+%E2%80%93+Plastic,+Cosmetic+%26+Reconstructive+Surgery+in+Hyderabad/@17.4067064,78.3737318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb95aa28693bbf:0x4e23718888f342ea!8m2!3d17.4067064!4d78.3737318!16s%2Fg%2F11kq7hh_td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Zenith+Clinic+%E2%80%93+Plastic,+Cosmetic+%26+Reconstructive+Surgery+in+Hyderabad/@17.4067064,78.3737318,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb95aa28693bbf:0x4e23718888f342ea!8m2!3d17.4067064!4d78.3737318!16s%2Fg%2F11kq7hh_td?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 17.4067064,
+      "lng": 78.3737318,
+      "label": "Zenith Clinic – Plastic, Cosmetic & Reconstructive Surgery in Hyderabad",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

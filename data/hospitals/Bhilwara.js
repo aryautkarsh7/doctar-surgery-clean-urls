@@ -1,0 +1,5070 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "agrawal-dental-clinic-bhilwara",
+    "name": "Agrawal Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bhilwara, Agrawal Dental Clinic delivers integrated care across Oral Surgery In Bhilwara. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098292 45292",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JWQ+XR8, Manikya Nagar, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "Bhopal Ganj",
+    "emergencyContact": "098292 45292",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Agrawal+Dental+Clinic/data=!4m7!3m6!1s0x3968c24b2eeb98a1:0x91fea1213ab17010!8m2!3d25.3474223!4d74.6395726!16s%2Fg%2F11gg_wr9c1!19sChIJoZjrLkvCaDkREHCxOiGh_pE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agrawal+Dental+Clinic/data=!4m7!3m6!1s0x3968c24b2eeb98a1:0x91fea1213ab17010!8m2!3d25.3474223!4d74.6395726!16s%2Fg%2F11gg_wr9c1!19sChIJoZjrLkvCaDkREHCxOiGh_pE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3474223,
+      "lng": 74.6395726,
+      "label": "Agrawal Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ambesh-jain-hospital-bhilwara",
+    "name": "Ambesh Jain Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ambesh Jain Hospital is a prominent general hospital in Bhilwara, known for structured tertiary care across Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 3.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JJ9+CCM, Panna Dhay Cir, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Azad Nagar",
+    "landmark": "Azad Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Ambesh+Jain+Hospital/data=!4m7!3m6!1s0x3968c23d3b9c4645:0x8a3af6aa75802bad!8m2!3d25.3310934!4d74.618546!16s%2Fg%2F1hd_l9xxb!19sChIJRUacOz3CaDkRrSuAdar2Ooo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ambesh+Jain+Hospital/data=!4m7!3m6!1s0x3968c23d3b9c4645:0x8a3af6aa75802bad!8m2!3d25.3310934!4d74.618546!16s%2Fg%2F1hd_l9xxb!19sChIJRUacOz3CaDkRrSuAdar2Ooo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3310934,
+      "lng": 74.618546,
+      "label": "Ambesh Jain Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "arihant-hospital-bhilwara",
+    "name": "Arihant Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Arihant Hospital brings together specialists for Gynecologist Surgery In Bhilwara. Operational strengths including Google rating 3.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.arihanthospitalbhilwara.com/",
+    "address": "B/216, Arihant Marg, E Sector, Kashipuri, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Shastri Nagar",
+    "landmark": "E Sector",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Arihant+Hospital/data=!4m7!3m6!1s0x3968c3cdaaaaaaab:0xaf4438eb50248f8e!8m2!3d25.3327606!4d74.6356529!16s%2Fg%2F1tj_3ncd!19sChIJq6qqqs3DaDkRjo8kUOs4RK8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Arihant+Hospital/data=!4m7!3m6!1s0x3968c3cdaaaaaaab:0xaf4438eb50248f8e!8m2!3d25.3327606!4d74.6356529!16s%2Fg%2F1tj_3ncd!19sChIJq6qqqs3DaDkRjo8kUOs4RK8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3327606,
+      "lng": 74.6356529,
+      "label": "Arihant Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baser-clinic-dental-and-homeopathy-bhilwara",
+    "name": "Baser Clinic : Dental & Homeopathy",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baser Clinic : Dental & Homeopathy is a prominent dentist in Bhilwara, known for structured tertiary care across Oral Surgery In Bhilwara and Dentist. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094283 00143",
+    "alternatePhone": "",
+    "website": "http://www.baserdentalcare.com/",
+    "address": "RC Vyas Colony Rd, near tanki ke balaji, inside Sparsh Hospital, Subhash Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Subhash Nagar",
+    "landmark": "near tanki ke balaji, inside Sparsh Hospital, Subhash Nagar, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "094283 00143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Baser+Clinic+:+Dental+%26+Homeopathy/data=!4m7!3m6!1s0x3968c36392fbf9ef:0xa5b89a2aa125d12c!8m2!3d25.3690997!4d74.6372364!16s%2Fg%2F11jlkwd8q8!19sChIJ7_n7kmPDaDkRLNEloSqauKU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baser+Clinic+:+Dental+%26+Homeopathy/data=!4m7!3m6!1s0x3968c36392fbf9ef:0xa5b89a2aa125d12c!8m2!3d25.3690997!4d74.6372364!16s%2Fg%2F11jlkwd8q8!19sChIJ7_n7kmPDaDkRLNEloSqauKU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3690997,
+      "lng": 74.6372364,
+      "label": "Baser Clinic : Dental & Homeopathy",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baser-homeopathic-and-dental-clinic-bhilwara",
+    "name": "Baser Homeopathic and Dental Clinic",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baser Homeopathic and Dental Clinic is a prominent homeopath in Bhilwara, known for structured tertiary care across Oral Surgery In Bhilwara and Homeopath. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094283 00143",
+    "alternatePhone": "",
+    "website": "http://baserdentalcare.com/",
+    "address": "Sparsh hospital 7-M-24, ring road, near Tanki Ke Balaji, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "near Tanki Ke Balaji, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "094283 00143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Homeopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Baser+Homeopathic+and+Dental+Clinic/data=!4m7!3m6!1s0x3968c3ac6ae6d7e3:0x2ffc0df920c9493f!8m2!3d25.3680258!4d74.636857!16s%2Fg%2F11dxb7tz78!19sChIJ49fmaqzDaDkRP0nJIPkN_C8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baser+Homeopathic+and+Dental+Clinic/data=!4m7!3m6!1s0x3968c3ac6ae6d7e3:0x2ffc0df920c9493f!8m2!3d25.3680258!4d74.636857!16s%2Fg%2F11dxb7tz78!19sChIJ49fmaqzDaDkRP0nJIPkN_C8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3680258,
+      "lng": 74.636857,
+      "label": "Baser Homeopathic and Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhilwara-dental-hospital-bhilwara",
+    "name": "Bhilwara Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Bhilwara Dental Hospital offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095291 97472",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JQC+XQF, Kumbha Cir Rd, Azad Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Azad Nagar",
+    "landmark": "Azad Nagar",
+    "emergencyContact": "095291 97472",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Bhilwara+Dental+Hospital/data=!4m7!3m6!1s0x3968c23f2fca1f31:0xac8d8901f3c4d245!8m2!3d25.3399458!4d74.6219077!16s%2Fg%2F11f5v9lr82!19sChIJMR_KLz_CaDkRRdLE8wGJjaw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhilwara+Dental+Hospital/data=!4m7!3m6!1s0x3968c23f2fca1f31:0xac8d8901f3c4d245!8m2!3d25.3399458!4d74.6219077!16s%2Fg%2F11f5v9lr82!19sChIJMR_KLz_CaDkRRdLE8wGJjaw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3399458,
+      "lng": 74.6219077,
+      "label": "Bhilwara Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brijesh-banger-memorial-hospital-bhilwara",
+    "name": "Brijesh Banger Memorial Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Brijesh Banger Memorial Hospital brings together specialists for Gynecologist Surgery In Bhilwara. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0148 229 7501",
+    "alternatePhone": "",
+    "website": "https://www.brijeshbangermemorialhospital.com/home",
+    "address": "R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "Rajasthan 311001",
+    "emergencyContact": "0148 229 7501",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Brijesh+Banger+Memorial+Hospital/data=!4m7!3m6!1s0x3968c39b6194c2c1:0x36953cfd1840cfb0!8m2!3d25.3572684!4d74.6459351!16s%2Fg%2F11h04nyqp9!19sChIJwcKUYZvDaDkRsM9AGP08lTY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brijesh+Banger+Memorial+Hospital/data=!4m7!3m6!1s0x3968c39b6194c2c1:0x36953cfd1840cfb0!8m2!3d25.3572684!4d74.6459351!16s%2Fg%2F11h04nyqp9!19sChIJwcKUYZvDaDkRsM9AGP08lTY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3572684,
+      "lng": 74.6459351,
+      "label": "Brijesh Banger Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dev-ent-hospital-bhilwara",
+    "name": "Dev ENT Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bhilwara, Dev ENT Hospital delivers integrated care across Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "076651 95696",
+    "alternatePhone": "",
+    "website": "https://www.deventhospital.org/",
+    "address": "8 F9, beside Rajiv Gandhi Auditorium Road, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "beside Rajiv Gandhi Auditorium Road, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "076651 95696",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dev+ENT+Hospital/data=!4m7!3m6!1s0x3968c3ae72e40ceb:0x24e785b37fb8f04e!8m2!3d25.3579423!4d74.6463717!16s%2Fg%2F12hlfftql!19sChIJ6wzkcq7DaDkRTvC4f7OF5yQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dev+ENT+Hospital/data=!4m7!3m6!1s0x3968c3ae72e40ceb:0x24e785b37fb8f04e!8m2!3d25.3579423!4d74.6463717!16s%2Fg%2F12hlfftql!19sChIJ6wzkcq7DaDkRTvC4f7OF5yQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3579423,
+      "lng": 74.6463717,
+      "label": "Dev ENT Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gambhir-dental-hospital-mahesh-colony-oppo-sita-ram-ji-ki-bawri",
+    "name": "Gambhir Dental Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Mahesh Colony Oppo. Sita Ram ji ki Bawri, Gambhir Dental Hospital delivers integrated care across Oral Surgery In Bhilwara. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0148 222 2761",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahesh Colony Oppo. Sita Ram ji ki Bawri, Rajasthan 311001",
+    "city": "Mahesh Colony Oppo. Sita Ram ji ki Bawri",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "0148 222 2761",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/Gambhir+Dental+Hospital/data=!4m7!3m6!1s0x3968c24a95505e0d:0xeba30f140a17a14a!8m2!3d25.3485406!4d74.6395293!16s%2Fg%2F1264k4jnv!19sChIJDV5QlUrCaDkRSqEXChQPo-s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gambhir+Dental+Hospital/data=!4m7!3m6!1s0x3968c24a95505e0d:0xeba30f140a17a14a!8m2!3d25.3485406!4d74.6395293!16s%2Fg%2F1264k4jnv!19sChIJDV5QlUrCaDkRSqEXChQPo-s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3485406,
+      "lng": 74.6395293,
+      "label": "Gambhir Dental Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gbh-sims-hospital-bhilwara",
+    "name": "GBH Sims Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GBH Sims Hospital has built a strong reputation in Bhilwara for multidisciplinary treatment pathways covering Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0148 229 4101",
+    "alternatePhone": "",
+    "website": "https://simshospitalbhilwara.com/",
+    "address": "Mewar Mills Colony Campus, Puliya, in front of Police Line Road, near Ajmer, Chaliya, Santosh Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Santosh Colony",
+    "landmark": "near Ajmer, Chaliya, Santosh Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "0148 229 4101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/GBH+Sims+Hospital/data=!4m7!3m6!1s0x3968c3f9cc6a5e95:0x3b24f7e7b52172a2!8m2!3d25.3532039!4d74.6284309!16s%2Fg%2F11vr4_r4rr!19sChIJlV5qzPnDaDkRonIhtef3JDs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/GBH+Sims+Hospital/data=!4m7!3m6!1s0x3968c3f9cc6a5e95:0x3b24f7e7b52172a2!8m2!3d25.3532039!4d74.6284309!16s%2Fg%2F11vr4_r4rr!19sChIJlV5qzPnDaDkRonIhtef3JDs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3532039,
+      "lng": 74.6284309,
+      "label": "GBH Sims Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gupta-hospital-and-fertility-center-bhilwara",
+    "name": "Gupta Hospital & Fertility Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Gupta Hospital & Fertility Center offers coordinated hospital care with major focus on Gynecologist Surgery In Bhilwara and Fertility Care. The facility stands out for Google rating 3.7, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098291 56701",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JWG+J6H, 37-38, Old RTO Rd, Gandhi Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Gandhi Nagar",
+    "landmark": "Old RTO Rd",
+    "emergencyContact": "098291 56701",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Gupta+Hospital+%26+Fertility+Center/data=!4m7!3m6!1s0x3968c24195475119:0xa876ebea363e4b3f!8m2!3d25.3467039!4d74.624682!16s%2Fg%2F11cmvy7pj6!19sChIJGVFHlUHCaDkRP0s-Nurrdqg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gupta+Hospital+%26+Fertility+Center/data=!4m7!3m6!1s0x3968c24195475119:0xa876ebea363e4b3f!8m2!3d25.3467039!4d74.624682!16s%2Fg%2F11cmvy7pj6!19sChIJGVFHlUHCaDkRP0s-Nurrdqg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3467039,
+      "lng": 74.624682,
+      "label": "Gupta Hospital & Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kanishk-dental-care-bhilwara",
+    "name": "Kanishk Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Bhilwara, Kanishk Dental Care delivers integrated care across Oral Surgery In Bhilwara. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082096 94316",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8-R-8, 1st Floor, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "082096 94316",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kanishk+Dental+Care/data=!4m7!3m6!1s0x3968c3ada1ff00f1:0x2663c30a1d0cf82a!8m2!3d25.3574782!4d74.6433653!16s%2Fg%2F11dxstyc8y!19sChIJ8QD_oa3DaDkRKvgMHQrDYyY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kanishk+Dental+Care/data=!4m7!3m6!1s0x3968c3ada1ff00f1:0x2663c30a1d0cf82a!8m2!3d25.3574782!4d74.6433653!16s%2Fg%2F11dxstyc8y!19sChIJ8QD_oa3DaDkRKvgMHQrDYyY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3574782,
+      "lng": 74.6433653,
+      "label": "Kanishk Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kartar-dental-clinic-bhilwara",
+    "name": "Kartar Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Kartar Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092149 21070",
+    "alternatePhone": "",
+    "website": "",
+    "address": "INDRA MARKET, near Railway Station, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "near Railway Station, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "092149 21070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Kartar+Dental+Clinic/data=!4m7!3m6!1s0x3968c24992c58b8f:0xed6b82c874f15045!8m2!3d25.3449!4d74.6332676!16s%2Fg%2F11f62w8cl9!19sChIJj4vFkknCaDkRRVDxdMiCa-0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kartar+Dental+Clinic/data=!4m7!3m6!1s0x3968c24992c58b8f:0xed6b82c874f15045!8m2!3d25.3449!4d74.6332676!16s%2Fg%2F11f62w8cl9!19sChIJj4vFkknCaDkRRVDxdMiCa-0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3449,
+      "lng": 74.6332676,
+      "label": "Kartar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "keshav-dental-care-bhilwara",
+    "name": "Keshav Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Keshav Dental Care offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078208 06723",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Love Garden Rd, Majdoor Chouraha, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "078208 06723",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Keshav+Dental+Care/data=!4m7!3m6!1s0x3968c32822ae4fdb:0x9a8d6c3609f6afa1!8m2!3d25.3587289!4d74.6436689!16s%2Fg%2F11mq5gy80l!19sChIJ20-uIijDaDkRoa_2CTZsjZo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Keshav+Dental+Care/data=!4m7!3m6!1s0x3968c32822ae4fdb:0x9a8d6c3609f6afa1!8m2!3d25.3587289!4d74.6436689!16s%2Fg%2F11mq5gy80l!19sChIJ20-uIijDaDkRoa_2CTZsjZo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3587289,
+      "lng": 74.6436689,
+      "label": "Keshav Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "keshav-porwal-hospital-bhilwara",
+    "name": "Keshav Porwal Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bhilwara, Keshav Porwal Hospital delivers integrated care across Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0148 223 9117",
+    "alternatePhone": "",
+    "website": "http://www.porwalhospital.com/",
+    "address": "9J7R+6HG, Love Garden Rd, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "0148 223 9117",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Keshav+Porwal+Hospital/data=!4m7!3m6!1s0x3968c3a96fe55069:0x8c32b37b93659344!8m2!3d25.3640877!4d74.6468163!16s%2Fg%2F124yln8cr!19sChIJaVDlb6nDaDkRRJNlk3uzMow?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Keshav+Porwal+Hospital/data=!4m7!3m6!1s0x3968c3a96fe55069:0x8c32b37b93659344!8m2!3d25.3640877!4d74.6468163!16s%2Fg%2F124yln8cr!19sChIJaVDlb6nDaDkRRJNlk3uzMow?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3640877,
+      "lng": 74.6468163,
+      "label": "Keshav Porwal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "krishna-hospital-bhilwara-rajasthan-bhilwara",
+    "name": "Krishna hospital - Bhilwara, Rajasthan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Bhilwara, Krishna hospital - Bhilwara, Rajasthan delivers integrated care across Gynecologist Surgery In Bhilwara. Hospital capacity markers such as Google rating 3.7 and 5+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0148 222 8100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Devriya Balaji Rd, near Private Bus Stand, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Sanjay Colony",
+    "landmark": "near Private Bus Stand, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "0148 222 8100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "5+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Krishna+hospital+-+Bhilwara,+Rajasthan/data=!4m7!3m6!1s0x3968c24a4e001d3f:0xc12acda572360a57!8m2!3d25.3565204!4d74.64537!16s%2Fg%2F1tdkkmlj!19sChIJPx0ATkrCaDkRVwo2cqXNKsE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Krishna+hospital+-+Bhilwara,+Rajasthan/data=!4m7!3m6!1s0x3968c24a4e001d3f:0xc12acda572360a57!8m2!3d25.3565204!4d74.64537!16s%2Fg%2F1tdkkmlj!19sChIJPx0ATkrCaDkRVwo2cqXNKsE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3565204,
+      "lng": 74.64537,
+      "label": "Krishna hospital - Bhilwara, Rajasthan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 5,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifeline-hospital-bhilwara-bhilwara",
+    "name": "Lifeline hospital Bhilwara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lifeline hospital Bhilwara has built a strong reputation in Bhilwara for multidisciplinary treatment pathways covering Laparoscopic Surgery In Bhilwara. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094686 08897",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-251, Old Mahaveer Hospital Majdur Choraha, 252, Love Garden Rd, near Private Bus Stand, R K Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R K Colony",
+    "landmark": "near Private Bus Stand, R K Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "094686 08897",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Lifeline+hospital+Bhilwara/data=!4m7!3m6!1s0x3968c398b363fbd7:0x49472e5ddff7537e!8m2!3d25.3586483!4d74.6432228!16s%2Fg%2F11q888zvxv!19sChIJ1_tjs5jDaDkRflP3310uR0k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lifeline+hospital+Bhilwara/data=!4m7!3m6!1s0x3968c398b363fbd7:0x49472e5ddff7537e!8m2!3d25.3586483!4d74.6432228!16s%2Fg%2F11q888zvxv!19sChIJ1_tjs5jDaDkRflP3310uR0k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3586483,
+      "lng": 74.6432228,
+      "label": "Lifeline hospital Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahatma-gandhi-hospital-bhilwara",
+    "name": "Mahatma Gandhi Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Mahatma Gandhi Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Bhilwara. With public-facing highlights like Google rating 3.9, 11+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://health.rajasthan.gov.in/",
+    "address": "8JXR+4PV, Swami Ram Charan Marg, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "Bhopal Ganj",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "11+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital/data=!4m7!3m6!1s0x3968c3b4de287ec5:0x4f8bed47d3ccb2b7!8m2!3d25.3478617!4d74.6418026!16s%2Fg%2F1tcyjfpy!19sChIJxX4o3rTDaDkRt7LM00fti08?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahatma+Gandhi+Hospital/data=!4m7!3m6!1s0x3968c3b4de287ec5:0x4f8bed47d3ccb2b7!8m2!3d25.3478617!4d74.6418026!16s%2Fg%2F1tcyjfpy!19sChIJxX4o3rTDaDkRt7LM00fti08?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3478617,
+      "lng": 74.6418026,
+      "label": "Mahatma Gandhi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 11,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahesh-hospital-bhilwara",
+    "name": "Mahesh Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Mahesh Hospital brings together specialists for Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0148 225 7388",
+    "alternatePhone": "",
+    "website": "",
+    "address": "9M52+45M, Vijay Singh Pathik Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Vijay Singh Pathik Nagar",
+    "landmark": "Bhilwara",
+    "emergencyContact": "0148 225 7388",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Mahesh+Hospital/@25.3578381,74.6504145,17z/data=!3m1!4b1!4m6!3m5!1s0x3968c3a53fffffff:0x67fc85e719393540!8m2!3d25.3578381!4d74.6504145!16s%2Fg%2F11csqr7g4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahesh+Hospital/@25.3578381,74.6504145,17z/data=!3m1!4b1!4m6!3m5!1s0x3968c3a53fffffff:0x67fc85e719393540!8m2!3d25.3578381!4d74.6504145!16s%2Fg%2F11csqr7g4z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3578381,
+      "lng": 74.6504145,
+      "label": "Mahesh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "modern-hospitals-bhilwara",
+    "name": "MODERN HOSPITALS",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "MODERN HOSPITALS is a prominent hospital in Bhilwara, known for structured tertiary care across Oral Surgery In Bhilwara. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099503 76779",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bhopalpura road, near abdul kalam azad hall, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Shastri Nagar",
+    "landmark": "near abdul kalam azad hall, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "099503 76779",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/MODERN+HOSPITALS/data=!4m7!3m6!1s0x3968c3dbe6bb6dad:0xa8076ae3e3fb5d00!8m2!3d25.3349802!4d74.6469072!16s%2Fg%2F11sgh_3y3t!19sChIJrW275tvDaDkRAF374-NqB6g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MODERN+HOSPITALS/data=!4m7!3m6!1s0x3968c3dbe6bb6dad:0xa8076ae3e3fb5d00!8m2!3d25.3349802!4d74.6469072!16s%2Fg%2F11sgh_3y3t!19sChIJrW275tvDaDkRAF374-NqB6g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3349802,
+      "lng": 74.6469072,
+      "label": "MODERN HOSPITALS",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nikhil-hospital-and-ananya-fertility-bhilwara",
+    "name": "Nikhil Hospital And Ananya Fertility",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Nikhil Hospital And Ananya Fertility offers coordinated hospital care with major focus on Gynecologist Surgery In Bhilwara and Fertility Care. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094245 67221",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4-I-1, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "Bhilwara",
+    "emergencyContact": "094245 67221",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Nikhil+Hospital+And+Ananya+Fertility/data=!4m7!3m6!1s0x3968c346c1a55f65:0xc3416b9571ec6914!8m2!3d25.3649755!4d74.644101!16s%2Fg%2F11hz2bpk5m!19sChIJZV-lwUbDaDkRFGnscZVrQcM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nikhil+Hospital+And+Ananya+Fertility/data=!4m7!3m6!1s0x3968c346c1a55f65:0xc3416b9571ec6914!8m2!3d25.3649755!4d74.644101!16s%2Fg%2F11hz2bpk5m!19sChIJZV-lwUbDaDkRFGnscZVrQcM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3649755,
+      "lng": 74.644101,
+      "label": "Nikhil Hospital And Ananya Fertility",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ora-dental-care-dental-implants-root-canal-treatment-teeth-whitening-r-c-vyas-colony-bhilwara-bhilwara",
+    "name": "ORA DENTAL CARE | Dental Implants, Root Canal Treatment, Teeth Whitening | R C Vyas Colony, Bhilwara",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORA DENTAL CARE | Dental Implants, Root Canal Treatment, Teeth Whitening | R C Vyas Colony, Bhilwara is a prominent dental clinic in Bhilwara, known for structured tertiary care across Oral Surgery In Bhilwara. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097995 11130",
+    "alternatePhone": "",
+    "website": "http://oradentalcare.co.in/",
+    "address": "gate no.4, Rajeev choraha, Shivaji Rd, near dadhimati medical store, Sector 2, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "near dadhimati medical store, Sector 2, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "097995 11130",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/ORA+DENTAL+CARE+%7C+Dental+Implants,+Root+Canal+Treatment,+Teeth+Whitening+%7C+R+C+Vyas+Colony,+Bhilwara/data=!4m7!3m6!1s0x3968c32970697b6f:0x9dded3f2666f8acd!8m2!3d25.3602164!4d74.6393939!16s%2Fg%2F11ryrmk7l7!19sChIJb3tpcCnDaDkRzYpvZvLT3p0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORA+DENTAL+CARE+%7C+Dental+Implants,+Root+Canal+Treatment,+Teeth+Whitening+%7C+R+C+Vyas+Colony,+Bhilwara/data=!4m7!3m6!1s0x3968c32970697b6f:0x9dded3f2666f8acd!8m2!3d25.3602164!4d74.6393939!16s%2Fg%2F11ryrmk7l7!19sChIJb3tpcCnDaDkRzYpvZvLT3p0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3602164,
+      "lng": 74.6393939,
+      "label": "ORA DENTAL CARE | Dental Implants, Root Canal Treatment, Teeth Whitening | R C Vyas Colony, Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "perfect-dental-care-bhilwara",
+    "name": "PERFECT DENTAL CARE",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, PERFECT DENTAL CARE offers coordinated hospital care with major focus on Oral Surgery In Bhilwara and Dentist. Operational strengths including Google rating 3.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094133 56784",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Opp. Love Garden, Behind Petrol Pump, Private Bus Stand, Vardhman Colony, Sanjay Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Sanjay Colony",
+    "landmark": "Private Bus Stand",
+    "emergencyContact": "094133 56784",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/PERFECT+DENTAL+CARE/data=!4m7!3m6!1s0x3968c3ad872b9a11:0x56483c7bc6c0b6a9!8m2!3d25.3560369!4d74.643311!16s%2Fg%2F11bbw_rdxn!19sChIJEZorh63DaDkRqbbAxns8SFY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PERFECT+DENTAL+CARE/data=!4m7!3m6!1s0x3968c3ad872b9a11:0x56483c7bc6c0b6a9!8m2!3d25.3560369!4d74.643311!16s%2Fg%2F11bbw_rdxn!19sChIJEZorh63DaDkRqbbAxns8SFY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3560369,
+      "lng": 74.643311,
+      "label": "PERFECT DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajasthan-dental-clinic-bhilwara-bhilwara",
+    "name": "Rajasthan dental clinic bhilwara",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Rajasthan dental clinic bhilwara offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091664 30205",
+    "alternatePhone": "",
+    "website": "",
+    "address": "dental clinic, Bioscope ke pass, hand pump choraha, Ajmer Rd, near MRF tyre galaxy, Subhash Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Subhash Nagar",
+    "landmark": "near MRF tyre galaxy, Subhash Nagar, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "091664 30205",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rajasthan+dental+clinic+bhilwara/data=!4m7!3m6!1s0x3968c3f89cb450cb:0xe2402e6095237821!8m2!3d25.3675055!4d74.6265079!16s%2Fg%2F11sn_7dp7f!19sChIJy1C0nPjDaDkRIXgjlWAuQOI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajasthan+dental+clinic+bhilwara/data=!4m7!3m6!1s0x3968c3f89cb450cb:0xe2402e6095237821!8m2!3d25.3675055!4d74.6265079!16s%2Fg%2F11sn_7dp7f!19sChIJy1C0nPjDaDkRIXgjlWAuQOI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3675055,
+      "lng": 74.6265079,
+      "label": "Rajasthan dental clinic bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ram-snehi-hospital-bhilwara",
+    "name": "Ram Snehi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ram Snehi Hospital is a prominent hospital in Bhilwara, known for structured tertiary care across Gynecologist Surgery In Bhilwara. Operational strengths including Google rating 3.7, 12+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0148 223 4100",
+    "alternatePhone": "",
+    "website": "http://www.ramsnehihospital.co.in/",
+    "address": "Swami Ramcharan Marg, Nehru Rd, Ramdwara, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Ramdwara",
+    "landmark": "Ramdwara",
+    "emergencyContact": "0148 223 4100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "12+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ram+Snehi+Hospital/data=!4m7!3m6!1s0x3968c3b47a4b9c6f:0xf5d32517b994873f!8m2!3d25.3499727!4d74.6441556!16s%2Fg%2F1v1tlh7_!19sChIJb5xLerTDaDkRP4eUuRcl0_U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ram+Snehi+Hospital/data=!4m7!3m6!1s0x3968c3b47a4b9c6f:0xf5d32517b994873f!8m2!3d25.3499727!4d74.6441556!16s%2Fg%2F1v1tlh7_!19sChIJb5xLerTDaDkRP4eUuRcl0_U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3499727,
+      "lng": 74.6441556,
+      "label": "Ram Snehi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 12,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ramsnehi-heart-institute-bhilwara-bhilwara",
+    "name": "Ramsnehi Heart Institute, Bhilwara",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ramsnehi Heart Institute, Bhilwara has built a strong reputation in Bhilwara for multidisciplinary treatment pathways covering Heart Surgery In Bhilwara and Cardiac Care. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094139 08070",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8JXV+RF3, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "Bhilwara",
+    "emergencyContact": "094139 08070",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Bhilwara",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Ramsnehi+Heart+Institute,+Bhilwara/data=!4m7!3m6!1s0x3968c3b4739d4111:0xab6bc7a7ce0dd0f5!8m2!3d25.3495186!4d74.6436732!16s%2Fg%2F11c43yv47h!19sChIJEUGdc7TDaDkR9dANzqfHa6s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ramsnehi+Heart+Institute,+Bhilwara/data=!4m7!3m6!1s0x3968c3b4739d4111:0xab6bc7a7ce0dd0f5!8m2!3d25.3495186!4d74.6436732!16s%2Fg%2F11c43yv47h!19sChIJEUGdc7TDaDkR9dANzqfHa6s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3495186,
+      "lng": 74.6436732,
+      "label": "Ramsnehi Heart Institute, Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-mewar-hospital-bhilwara-bhilwara",
+    "name": "Shivam (Mewar) Hospital Bhilwara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bhilwara often choose Shivam (Mewar) Hospital Bhilwara for its strength in Laparoscopic Surgery In Bhilwara. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0294 663 3330",
+    "alternatePhone": "",
+    "website": "https://shivamhospitalbhilwara.com/",
+    "address": "8-F-7, near, Rajiv Gandhi Auditorium Rd, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Rajiv Gandhi Auditorium Rd",
+    "landmark": "Rajiv Gandhi Auditorium Rd",
+    "emergencyContact": "0294 663 3330",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shivam+%28Mewar%29+Hospital+Bhilwara/data=!4m7!3m6!1s0x3968c24fc521d0e7:0xbb7857998f8de7d!8m2!3d25.3580996!4d74.6461729!16s%2Fg%2F11c5_yydbd!19sChIJ59AhxU_CaDkRfd74mHmFtws?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivam+%28Mewar%29+Hospital+Bhilwara/data=!4m7!3m6!1s0x3968c24fc521d0e7:0xbb7857998f8de7d!8m2!3d25.3580996!4d74.6461729!16s%2Fg%2F11c5_yydbd!19sChIJ59AhxU_CaDkRfd74mHmFtws?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3580996,
+      "lng": 74.6461729,
+      "label": "Shivam (Mewar) Hospital Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivam-hospital-best-hospital-in-bhilwara-bhilwara",
+    "name": "Shivam Hospital | Best Hospital In Bhilwara",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Shivam Hospital | Best Hospital In Bhilwara brings together specialists for Laparoscopic Surgery In Bhilwara. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072300 24848",
+    "alternatePhone": "",
+    "website": "https://shivamhospitalbhilwara.com/",
+    "address": "8-F-7, near Rajiv Gandhi Auditorium Road, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "near Rajiv Gandhi Auditorium Road, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "072300 24848",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shivam+Hospital+%7C+Best+Hospital+In+Bhilwara/data=!4m7!3m6!1s0x3968c31212634cef:0x102d929e3b032b07!8m2!3d25.3580784!4d74.6461702!16s%2Fg%2F11ld43mjw0!19sChIJ70xjEhLDaDkRBysDO56SLRA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivam+Hospital+%7C+Best+Hospital+In+Bhilwara/data=!4m7!3m6!1s0x3968c31212634cef:0x102d929e3b032b07!8m2!3d25.3580784!4d74.6461702!16s%2Fg%2F11ld43mjw0!19sChIJ70xjEhLDaDkRBysDO56SLRA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3580784,
+      "lng": 74.6461702,
+      "label": "Shivam Hospital | Best Hospital In Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-bhagwati-dental-clinic-maxillofacial-and-impalnt-center-bhilwara",
+    "name": "Shree bhagwati dental clinic maxillofacial and impalnt center",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bhilwara often choose Shree bhagwati dental clinic maxillofacial and impalnt center for its strength in Oral Surgery In Bhilwara, Dentist, and Maxillofacial Surgery. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sewa Sadan Rd, near Rathi hospital, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "near Rathi hospital, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Dentist",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+bhagwati+dental+clinic+maxillofacial+and+impalnt+center/data=!4m7!3m6!1s0x3968c332a2f7ad0b:0xf759e91fe9389bb0!8m2!3d25.3491879!4d74.6406959!16s%2Fg%2F11rj4m9s3f!19sChIJC633ojLDaDkRsJs46R_pWfc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+bhagwati+dental+clinic+maxillofacial+and+impalnt+center/data=!4m7!3m6!1s0x3968c332a2f7ad0b:0xf759e91fe9389bb0!8m2!3d25.3491879!4d74.6406959!16s%2Fg%2F11rj4m9s3f!19sChIJC633ojLDaDkRsJs46R_pWfc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3491879,
+      "lng": 74.6406959,
+      "label": "Shree bhagwati dental clinic maxillofacial and impalnt center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-dental-care-implant-and-orthodontic-clinic-cosmetic-dentistry-restorative-dentistry-dental-implant-in-bhilwara-bhilwara",
+    "name": "Shree Dental Care Implant & Orthodontic Clinic - Cosmetic Dentistry, Restorative Dentistry, Dental Implant in Bhilwara",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shree Dental Care Implant & Orthodontic Clinic - Cosmetic Dentistry, Restorative Dentistry, Dental Implant in Bhilwara has built a strong reputation in Bhilwara for multidisciplinary treatment pathways covering Oral Surgery In Bhilwara and Orthopaedics. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094613 31544",
+    "alternatePhone": "",
+    "website": "https://shreedentalcarebhilwara.com/",
+    "address": "Bhupal Club, Maharana Talkies Road, opp. Mangalam bag house, Sindhu Nagar, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Shastri Nagar",
+    "landmark": "opp. Mangalam bag house",
+    "emergencyContact": "094613 31544",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Dental+Care+Implant+%26+Orthodontic+Clinic+-+Cosmetic+Dentistry,+Restorative+Dentistry,+Dental+Implant+in+Bhilwara/data=!4m7!3m6!1s0x3968c24ab3ad9c59:0xe59a0253331d242d!8m2!3d25.3450451!4d74.6398249!16s%2Fg%2F11g873mltp!19sChIJWZyts0rCaDkRLSQdM1MCmuU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Dental+Care+Implant+%26+Orthodontic+Clinic+-+Cosmetic+Dentistry,+Restorative+Dentistry,+Dental+Implant+in+Bhilwara/data=!4m7!3m6!1s0x3968c24ab3ad9c59:0xe59a0253331d242d!8m2!3d25.3450451!4d74.6398249!16s%2Fg%2F11g873mltp!19sChIJWZyts0rCaDkRLSQdM1MCmuU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3450451,
+      "lng": 74.6398249,
+      "label": "Shree Dental Care Implant & Orthodontic Clinic - Cosmetic Dentistry, Restorative Dentistry, Dental Implant in Bhilwara",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-shyam-dental-care-bhilwara",
+    "name": "Shree shyam dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Bhilwara often choose Shree shyam dental Care for its strength in Oral Surgery In Bhilwara. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092511 89691",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shree shyam dental care, Anand, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Anand",
+    "landmark": "Bhilwara",
+    "emergencyContact": "092511 89691",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+shyam+dental+Care/data=!4m7!3m6!1s0x3968c3006301169f:0x1332595fc3a0c74e!8m2!3d25.3558725!4d74.6538029!16s%2Fg%2F11x32v5gzc!19sChIJnxYBYwDDaDkRTsegw19ZMhM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+shyam+dental+Care/data=!4m7!3m6!1s0x3968c3006301169f:0x1332595fc3a0c74e!8m2!3d25.3558725!4d74.6538029!16s%2Fg%2F11x32v5gzc!19sChIJnxYBYwDDaDkRTsegw19ZMhM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3558725,
+      "lng": 74.6538029,
+      "label": "Shree shyam dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-sidhi-vinayak-hospital-and-heart-care-centre-bhilwara",
+    "name": "Shree Sidhi Vinayak Hospital & Heart care centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Shree Sidhi Vinayak Hospital & Heart care centre brings together specialists for Gynecologist Surgery In Bhilwara and Cardiac Care. Operational strengths including Google rating 4.6, 3+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0148 223 1900",
+    "alternatePhone": "",
+    "website": "http://ssvh.in/",
+    "address": "Unnamed Road, Tilak Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Tilak Nagar",
+    "landmark": "Bhilwara",
+    "emergencyContact": "0148 223 1900",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Sidhi+Vinayak+Hospital+%26+Heart+care+centre/data=!4m7!3m6!1s0x3968c3b969ed2b4f:0xcc0cc69e56844767!8m2!3d25.3436061!4d74.6584374!16s%2Fg%2F11bwym9gn0!19sChIJTyvtabnDaDkRZ0eEVp7GDMw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Sidhi+Vinayak+Hospital+%26+Heart+care+centre/data=!4m7!3m6!1s0x3968c3b969ed2b4f:0xcc0cc69e56844767!8m2!3d25.3436061!4d74.6584374!16s%2Fg%2F11bwym9gn0!19sChIJTyvtabnDaDkRZ0eEVp7GDMw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3436061,
+      "lng": 74.6584374,
+      "label": "Shree Sidhi Vinayak Hospital & Heart care centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shreenath-hospital-bhilwara-bhilwara",
+    "name": "SHREENATH HOSPITAL BHILWARA",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, SHREENATH HOSPITAL BHILWARA brings together specialists for Gynecologist Surgery In Bhilwara. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079760 52972",
+    "alternatePhone": "",
+    "website": "http://www.shreenathhospitalbhilwara.in/",
+    "address": "SECTOR NO-10 PLOT ILWARANO -7, BH, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "079760 52972",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SHREENATH+HOSPITAL+BHILWARA/data=!4m7!3m6!1s0x3968c34e8398be95:0x99111c4994efe74c!8m2!3d25.3621146!4d74.6507741!16s%2Fg%2F11y4ls56gl!19sChIJlb6Yg07DaDkRTOfvlEkcEZk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHREENATH+HOSPITAL+BHILWARA/data=!4m7!3m6!1s0x3968c34e8398be95:0x99111c4994efe74c!8m2!3d25.3621146!4d74.6507741!16s%2Fg%2F11y4ls56gl!19sChIJlb6Yg07DaDkRTOfvlEkcEZk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3621146,
+      "lng": 74.6507741,
+      "label": "SHREENATH HOSPITAL BHILWARA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-ram-dental-clinic-bhilwara",
+    "name": "Shri Ram Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Shri Ram Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B-337, tarantaal road, R K Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R K Colony",
+    "landmark": "R K Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/data=!4m7!3m6!1s0x3968c25322635a61:0x281c2240b0566f36!8m2!3d25.3588964!4d74.6386342!16s%2Fg%2F1q2w7dcrw!19sChIJYVpjIlPCaDkRNm9WsEAiHCg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Ram+Dental+Clinic/data=!4m7!3m6!1s0x3968c25322635a61:0x281c2240b0566f36!8m2!3d25.3588964!4d74.6386342!16s%2Fg%2F1q2w7dcrw!19sChIJYVpjIlPCaDkRNm9WsEAiHCg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3588964,
+      "lng": 74.6386342,
+      "label": "Shri Ram Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-rishabh-hospital-bhilwara",
+    "name": "Shri Rishabh Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Rishabh Hospital is a prominent children's hospital in Bhilwara, known for structured tertiary care across Gynecologist Surgery In Bhilwara and Women and Child Care. Its infrastructure includes Google rating 4.8 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.rishabbhhospitalbhilwara.com/",
+    "address": "A-2, near Purana Majdoor Choraha, R K Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R K Colony",
+    "landmark": "near Purana Majdoor Choraha, R K Colony, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Rishabh+Hospital/data=!4m7!3m6!1s0x3968c2526aaaaaab:0x855fff4c00a7c0d4!8m2!3d25.3598376!4d74.6394986!16s%2Fg%2F11c1xffxd6!19sChIJq6qqalLCaDkR1MCnAEz_X4U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Rishabh+Hospital/data=!4m7!3m6!1s0x3968c2526aaaaaab:0x855fff4c00a7c0d4!8m2!3d25.3598376!4d74.6394986!16s%2Fg%2F11c1xffxd6!19sChIJq6qqalLCaDkR1MCnAEz_X4U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3598376,
+      "lng": 74.6394986,
+      "label": "Shri Rishabh Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shringi-dental-clinic-bhilwara",
+    "name": "Shringi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Shringi Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092144 51680",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Maa narnada complex, road, R K Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R K Colony",
+    "landmark": "R K Colony",
+    "emergencyContact": "092144 51680",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Shringi+Dental+Clinic/data=!4m7!3m6!1s0x3968c25107f464d9:0x311b5161bbfab024!8m2!3d25.3577345!4d74.6315619!16s%2Fg%2F11c6crl0gz!19sChIJ2WT0B1HCaDkRJLD6u2FRGzE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shringi+Dental+Clinic/data=!4m7!3m6!1s0x3968c25107f464d9:0x311b5161bbfab024!8m2!3d25.3577345!4d74.6315619!16s%2Fg%2F11c6crl0gz!19sChIJ2WT0B1HCaDkRJLD6u2FRGzE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3577345,
+      "lng": 74.6315619,
+      "label": "Shringi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shyam-dental-clinic-bhilwara",
+    "name": "Shyam Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Shyam Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Bhilwara. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098878 01466",
+    "alternatePhone": "",
+    "website": "",
+    "address": "148, C Sector, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Shastri Nagar",
+    "landmark": "Shastri Nagar",
+    "emergencyContact": "098878 01466",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shyam+Dental+Clinic/data=!4m7!3m6!1s0x3968c3d2bb0b47ad:0xbb18c5cd54785456!8m2!3d25.3318601!4d74.6410265!16s%2Fg%2F11hdjc3dn4!19sChIJrUcLu9LDaDkRVlR4VM3FGLs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shyam+Dental+Clinic/data=!4m7!3m6!1s0x3968c3d2bb0b47ad:0xbb18c5cd54785456!8m2!3d25.3318601!4d74.6410265!16s%2Fg%2F11hdjc3dn4!19sChIJrUcLu9LDaDkRVlR4VM3FGLs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3318601,
+      "lng": 74.6410265,
+      "label": "Shyam Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smt-kesarbai-soni-hospital-bhilwara",
+    "name": "Smt KesarBai Soni Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Bhilwara, Smt KesarBai Soni Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Bhilwara. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.inhospitable.com/",
+    "address": "8JHR+C2Q, New Housing Board, Kawa Kheda, Shastri Nagar, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Shastri Nagar",
+    "landmark": "Kawa Kheda",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smt+KesarBai+Soni+Hospital/data=!4m7!3m6!1s0x3968c3000aaba125:0xe2b96c6b1b590932!8m2!3d25.3285993!4d74.640095!16s%2Fg%2F11yrl87zxj!19sChIJJaGrCgDDaDkRMglZG2tsueI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smt+KesarBai+Soni+Hospital/data=!4m7!3m6!1s0x3968c3000aaba125:0xe2b96c6b1b590932!8m2!3d25.3285993!4d74.640095!16s%2Fg%2F11yrl87zxj!19sChIJJaGrCgDDaDkRMglZG2tsueI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3285993,
+      "lng": 74.640095,
+      "label": "Smt KesarBai Soni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparsh-ivf-bhilwara-ivf-hospital-in-bhilwara-rajasthan-bhilwara",
+    "name": "SPARSH IVF Bhilwara - IVF Hospital in Bhilwara, Rajasthan",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, SPARSH IVF Bhilwara - IVF Hospital in Bhilwara, Rajasthan brings together specialists for Gynecologist Surgery In Bhilwara and Fertility Care. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.sparshivf.in/",
+    "address": "1st Floor, 8-K/1-B, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SPARSH+IVF+Bhilwara+-+IVF+Hospital+in+Bhilwara,+Rajasthan/data=!4m7!3m6!1s0x3968c3c45b9ad1e9:0x4f832213e664c7ba!8m2!3d25.35656!4d74.64603!16s%2Fg%2F11xynwx6ny!19sChIJ6dGaW8TDaDkRusdk5hMig08?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SPARSH+IVF+Bhilwara+-+IVF+Hospital+in+Bhilwara,+Rajasthan/data=!4m7!3m6!1s0x3968c3c45b9ad1e9:0x4f832213e664c7ba!8m2!3d25.35656!4d74.64603!16s%2Fg%2F11xynwx6ny!19sChIJ6dGaW8TDaDkRusdk5hMig08?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.35656,
+      "lng": 74.64603,
+      "label": "SPARSH IVF Bhilwara - IVF Hospital in Bhilwara, Rajasthan",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "stree-clinic-a-clinic-of-parivar-seva-sanstha-bhilwara",
+    "name": "Stree Clinic ( A Clinic of Parivar Seva Sanstha)",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Stree Clinic ( A Clinic of Parivar Seva Sanstha) is a prominent medical clinic in Bhilwara, known for structured tertiary care across Gynecologist Surgery In Bhilwara. The facility stands out for Google rating 2.3 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0148 223 5400",
+    "alternatePhone": "",
+    "website": "http://parivarseva.org/",
+    "address": "B-343, Dr. R K Colony, Rajiv Chowk, Near Majdoor Choraha Tel: 01482- 235400 Email: et.bhilwara@parivarseva.org, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "235400",
+    "locality": "Near Majdoor Choraha Tel: 01482- 235400 Email: et.bhilwara@parivarseva.org",
+    "landmark": "Near Majdoor Choraha Tel: 01482- 235400 Email: et.bhilwara@parivarseva.org, Bhilwara, Rajasthan 311001",
+    "emergencyContact": "0148 223 5400",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Stree+Clinic+(+A+Clinic+of+Parivar+Seva+Sanstha)/@25.3596789,74.6389185,17z/data=!3m1!4b1!4m6!3m5!1s0x3968c2523dde3be3:0xb95941cde34a1047!8m2!3d25.3596789!4d74.6389185!16s%2Fg%2F11c602f1q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Stree+Clinic+(+A+Clinic+of+Parivar+Seva+Sanstha)/@25.3596789,74.6389185,17z/data=!3m1!4b1!4m6!3m5!1s0x3968c2523dde3be3:0xb95941cde34a1047!8m2!3d25.3596789!4d74.6389185!16s%2Fg%2F11c602f1q3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3596789,
+      "lng": 74.6389185,
+      "label": "Stree Clinic ( A Clinic of Parivar Seva Sanstha)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swastik-hospital-bhilwara",
+    "name": "Swastik Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swastik Hospital has built a strong reputation in Bhilwara for multidisciplinary treatment pathways covering Gynecologist Surgery In Bhilwara. With public-facing highlights like Google rating 3.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RC Vyas Colony, 8-A-23, Sector 7, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "Sector 7",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Swastik+Hospital/data=!4m7!3m6!1s0x3968c3adca51da0b:0xbb7d5231819981e1!8m2!3d25.358745!4d74.6448937!16s%2Fg%2F11fz9xsv9z!19sChIJC9pRyq3DaDkR4YGZgTFSfbs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swastik+Hospital/data=!4m7!3m6!1s0x3968c3adca51da0b:0xbb7d5231819981e1!8m2!3d25.358745!4d74.6448937!16s%2Fg%2F11fz9xsv9z!19sChIJC9pRyq3DaDkR4YGZgTFSfbs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.358745,
+      "lng": 74.6448937,
+      "label": "Swastik Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "umrao-dental-care-and-orthodontic-center-bhilwara",
+    "name": "UMRAO DENTAL CARE AND ORTHODONTIC CENTER",
+    "type": "Orthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, UMRAO DENTAL CARE AND ORTHODONTIC CENTER brings together specialists for Oral Surgery In Bhilwara, Orthodontist, and Orthopaedics. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086193 44283",
+    "alternatePhone": "",
+    "website": "",
+    "address": "8A-26, Rajiv Gandhi Auditorium Rd, R C Vyas Colony, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "R C Vyas Colony",
+    "landmark": "R C Vyas Colony",
+    "emergencyContact": "086193 44283",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara",
+      "Orthodontist",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/UMRAO+DENTAL+CARE+AND+ORTHODONTIC+CENTER/data=!4m7!3m6!1s0x3968c3adb50ad301:0x83dc4ac5492cb706!8m2!3d25.3589239!4d74.6441058!16s%2Fg%2F1pp2tynnz!19sChIJAdMKta3DaDkRBrcsScVK3IM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UMRAO+DENTAL+CARE+AND+ORTHODONTIC+CENTER/data=!4m7!3m6!1s0x3968c3adb50ad301:0x83dc4ac5492cb706!8m2!3d25.3589239!4d74.6441058!16s%2Fg%2F1pp2tynnz!19sChIJAdMKta3DaDkRBrcsScVK3IM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3589239,
+      "lng": 74.6441058,
+      "label": "UMRAO DENTAL CARE AND ORTHODONTIC CENTER",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vyas-dental-studio-bhilwara",
+    "name": "Vyas Dental Studio",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Bhilwara, Vyas Dental Studio brings together specialists for Oral Surgery In Bhilwara. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083069 17152",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hari Sheva Marg, Bhopal Ganj, Bhilwara, Rajasthan 311001",
+    "city": "Bhilwara",
+    "state": "Rajasthan",
+    "pincode": "311001",
+    "locality": "Bhopal Ganj",
+    "landmark": "Bhilwara",
+    "emergencyContact": "083069 17152",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Bhilwara"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Vyas+Dental+Studio/data=!4m7!3m6!1s0x3968c328a333e65b:0xe54ceb4ea3ae6ea!8m2!3d25.3492422!4d74.6376381!16s%2Fg%2F11h6lg1n51!19sChIJW-YzoyjDaDkR6uY66rTOVA4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vyas+Dental+Studio/data=!4m7!3m6!1s0x3968c328a333e65b:0xe54ceb4ea3ae6ea!8m2!3d25.3492422!4d74.6376381!16s%2Fg%2F11h6lg1n51!19sChIJW-YzoyjDaDkR6uY66rTOVA4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 25.3492422,
+      "lng": 74.6376381,
+      "label": "Vyas Dental Studio",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

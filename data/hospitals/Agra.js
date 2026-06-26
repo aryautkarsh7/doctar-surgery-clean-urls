@@ -1,0 +1,14038 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "aakanksha-dental-clinic-and-implant-centre-agra",
+    "name": "AAKANKSHA DENTAL CLINIC & IMPLANT CENTRE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, AAKANKSHA DENTAL CLINIC & IMPLANT CENTRE brings together specialists for Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.6 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096278 88717",
+    "alternatePhone": "",
+    "website": "http://www.dentalcosmeticclinicindia.com/",
+    "address": "1/193-6, Bagh Farzana Rd, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Professors Colony",
+    "emergencyContact": "096278 88717",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/AAKANKSHA+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@27.1995774,77.9999907,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774baaaaaaab:0x72b536853be1d1ec!8m2!3d27.1995774!4d77.9999907!16s%2Fg%2F1v_z2r7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AAKANKSHA+DENTAL+CLINIC+%26+IMPLANT+CENTRE/@27.1995774,77.9999907,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774baaaaaaab:0x72b536853be1d1ec!8m2!3d27.1995774!4d77.9999907!16s%2Fg%2F1v_z2r7q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1995774,
+      "lng": 77.9999907,
+      "label": "AAKANKSHA DENTAL CLINIC & IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agra-dental-center-agra",
+    "name": "Agra Dental Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, Agra Dental Center delivers integrated care across Oral Surgery In Agra. The facility stands out for Google rating 4.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "078189 72876",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop no. 8, Shriram complex, Sector 3, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Lohamandi",
+    "landmark": "Sector 3",
+    "emergencyContact": "078189 72876",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Agra+Dental+Center/@27.195239,77.9641823,17z/data=!3m1!4b1!4m6!3m5!1s0x39747704644ee5e9:0x9dfd7a9801d8a0a5!8m2!3d27.195239!4d77.9641823!16s%2Fg%2F11cr_q3s_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agra+Dental+Center/@27.195239,77.9641823,17z/data=!3m1!4b1!4m6!3m5!1s0x39747704644ee5e9:0x9dfd7a9801d8a0a5!8m2!3d27.195239!4d77.9641823!16s%2Fg%2F11cr_q3s_8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.195239,
+      "lng": 77.9641823,
+      "label": "Agra Dental Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agra-dental-clinic-and-implant-centre-agra",
+    "name": "AGRA DENTAL CLINIC AND IMPLANT CENTRE",
+    "type": "Cosmetic Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose AGRA DENTAL CLINIC AND IMPLANT CENTRE for its strength in Oral Surgery In Agra and Cosmetic Dentist. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D-4 Sitaram Market, near Goyal City Hospital, Rambagh, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "Trans Yamuna Colony",
+    "landmark": "near Goyal City Hospital, Rambagh, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Cosmetic Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/AGRA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@27.2037225,78.0462388,17z/data=!3m1!4b1!4m6!3m5!1s0x397471b874341915:0x44f4876b1d821f20!8m2!3d27.2037225!4d78.0462388!16s%2Fg%2F11hz0x1jxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AGRA+DENTAL+CLINIC+AND+IMPLANT+CENTRE/@27.2037225,78.0462388,17z/data=!3m1!4b1!4m6!3m5!1s0x397471b874341915:0x44f4876b1d821f20!8m2!3d27.2037225!4d78.0462388!16s%2Fg%2F11hz0x1jxx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2037225,
+      "lng": 78.0462388,
+      "label": "AGRA DENTAL CLINIC AND IMPLANT CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrawal-fertility-and-test-tube-baby-centre-agra",
+    "name": "Agrawal Fertility & Test Tube Baby Centre",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Agrawal Fertility & Test Tube Baby Centre brings together specialists for IVF In Agra and Fertility Care. Hospital capacity markers such as Google rating 4.6 and 25+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093190 10197",
+    "alternatePhone": "",
+    "website": "",
+    "address": "165-B, Bypass Rd, behind Women’s Plaza, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "behind Women’s Plaza",
+    "emergencyContact": "093190 10197",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "25+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Agrawal+Fertility+%26+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3974775026ea5259:0xb40441cb365058d1!8m2!3d27.2086223!4d78.0098261!16s%2Fg%2F11c5rpj28z!19sChIJWVLqJlB3dDkR0VhQNstBBLQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agrawal+Fertility+%26+Test+Tube+Baby+Centre/data=!4m7!3m6!1s0x3974775026ea5259:0xb40441cb365058d1!8m2!3d27.2086223!4d78.0098261!16s%2Fg%2F11c5rpj28z!19sChIJWVLqJlB3dDkR0VhQNstBBLQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2086223,
+      "lng": 78.0098261,
+      "label": "Agrawal Fertility & Test Tube Baby Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 25,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amardeep-hospital-agra",
+    "name": "Amardeep hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Amardeep hospital brings together specialists for General Surgery In Agra. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6255+M95 Mishra Market, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Amardeep+hospital/@27.2091525,78.0084111,17z/data=!3m1!4b1!4m6!3m5!1s0x397477005441043b:0x12ac9076f4c77b4f!8m2!3d27.2091525!4d78.0084111!16s%2Fg%2F11yv3styvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Amardeep+hospital/@27.2091525,78.0084111,17z/data=!3m1!4b1!4m6!3m5!1s0x397477005441043b:0x12ac9076f4c77b4f!8m2!3d27.2091525!4d78.0084111!16s%2Fg%2F11yv3styvh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2091525,
+      "lng": 78.0084111,
+      "label": "Amardeep hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anand-mangal-hospital-best-hospital-in-agra-emergency-and-icu-care-agra",
+    "name": "Anand Mangal Hospital | Best Hospital in Agra | Emergency and ICU care",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Agra, Anand Mangal Hospital | Best Hospital in Agra | Emergency and ICU care delivers integrated care across General Surgery In Agra. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "anandmangalhospital15@gmail.com",
+    "phone": "083770 08744",
+    "alternatePhone": "+91 88999 13002",
+    "website": "https://www.amhagra.co.in/",
+    "address": "C-2 / 51, 100 Feet Rd, Professors Colony, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Professors Colony",
+    "emergencyContact": "+91 88999 13002",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Anand+Mangal+Hospital+%7C+Best+Hospital+in+Agra+%7C+Emergency+and+ICU+care/data=!4m7!3m6!1s0x3974774d55908f15:0xbe667f2a1404c6b7!8m2!3d27.2092571!4d78.0193227!16s%2Fg%2F11r96ydrm!19sChIJFY-QVU13dDkRt8YEFCp_Zr4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anand+Mangal+Hospital+%7C+Best+Hospital+in+Agra+%7C+Emergency+and+ICU+care/data=!4m7!3m6!1s0x3974774d55908f15:0xbe667f2a1404c6b7!8m2!3d27.2092571!4d78.0193227!16s%2Fg%2F11r96ydrm!19sChIJFY-QVU13dDkRt8YEFCp_Zr4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2092571,
+      "lng": 78.0193227,
+      "label": "Anand Mangal Hospital | Best Hospital in Agra | Emergency and ICU care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anukrama-aesthetic-and-skin-clinic-agra",
+    "name": "AnuKrama Aesthetic & Skin Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, AnuKrama Aesthetic & Skin Clinic brings together specialists for Cosmetic Surgery In Agra. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "086500 86706",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Dwarika Grande Street, F-10, Road, Rajpur Chungi, Shamsabad, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Shamsabad",
+    "landmark": "F-10",
+    "emergencyContact": "086500 86706",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/AnuKrama+Aesthetic+%26+Skin+Clinic/@27.147393,78.0381331,17z/data=!3m1!4b1!4m6!3m5!1s0x39747168521d199b:0x35fdc9f7697f3475!8m2!3d27.147393!4d78.0381331!16s%2Fg%2F11f55znp0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AnuKrama+Aesthetic+%26+Skin+Clinic/@27.147393,78.0381331,17z/data=!3m1!4b1!4m6!3m5!1s0x39747168521d199b:0x35fdc9f7697f3475!8m2!3d27.147393!4d78.0381331!16s%2Fg%2F11f55znp0p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.147393,
+      "lng": 78.0381331,
+      "label": "AnuKrama Aesthetic & Skin Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aptus-dental-and-facial-rejuvenation-clinic-agra",
+    "name": "aptus dental and facial rejuvenation clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "aptus dental and facial rejuvenation clinic is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "096344 74404",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of Vohra nursing home, VIP Rd, Ayodhya Kunj-A, Barakhamba, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Ayodhya Kunj-A",
+    "emergencyContact": "096344 74404",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/aptus+dental+and+facial+rejuvenation+clinic/@27.1678404,77.9843843,17z/data=!3m1!4b1!4m6!3m5!1s0x397476e31377a647:0x490015e8a3303d33!8m2!3d27.1678404!4d77.9843843!16s%2Fg%2F11btv67jpr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/aptus+dental+and+facial+rejuvenation+clinic/@27.1678404,77.9843843,17z/data=!3m1!4b1!4m6!3m5!1s0x397476e31377a647:0x490015e8a3303d33!8m2!3d27.1678404!4d77.9843843!16s%2Fg%2F11btv67jpr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1678404,
+      "lng": 77.9843843,
+      "label": "aptus dental and facial rejuvenation clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "asha-test-tube-baby-center-agra-agra",
+    "name": "ASHA TEST TUBE BABY CENTER AGRA",
+    "type": "Women's Health Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ASHA TEST TUBE BABY CENTER AGRA is a prominent women's health clinic in Agra, known for structured tertiary care across IVF In Agra and Women and Child Care. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "2/206 NEAR TRAFFIC OFFICE , SADAR, Tehsil Rd, Police Line, Agra, Uttar Pradesh 282010",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282010",
+    "locality": "Police Line",
+    "landmark": "NEAR TRAFFIC OFFICE , SADAR, Tehsil Rd, Police Line, Agra, Uttar Pradesh 282010",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Agra",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/ASHA+TEST+TUBE+BABY+CENTER+AGRA/data=!4m7!3m6!1s0x3974778b144980bf:0x9599934d948c97fb!8m2!3d27.1742399!4d77.9953703!16s%2Fg%2F11z3_f9f1n!19sChIJv4BJFIt3dDkR-5eMlE2TmZU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASHA+TEST+TUBE+BABY+CENTER+AGRA/data=!4m7!3m6!1s0x3974778b144980bf:0x9599934d948c97fb!8m2!3d27.1742399!4d77.9953703!16s%2Fg%2F11z3_f9f1n!19sChIJv4BJFIt3dDkR-5eMlE2TmZU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1742399,
+      "lng": 77.9953703,
+      "label": "ASHA TEST TUBE BABY CENTER AGRA",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashish-dental-clinic-agra",
+    "name": "Ashish Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Agra, Ashish Dental Clinic delivers integrated care across Oral Surgery In Agra and Dentist. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "089587 78006",
+    "alternatePhone": "",
+    "website": "",
+    "address": "bodla road, opposite english wine shop, Paschim Puri, Dahtaura, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "opposite english wine shop, Paschim Puri, Dahtaura, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "089587 78006",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Ashish+Dental+Clinic/@27.2016842,77.9455992,17z/data=!3m1!4b1!4m6!3m5!1s0x397477005e197f95:0x885d83e400cad60!8m2!3d27.2016842!4d77.9455992!16s%2Fg%2F11rkj5d9xw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ashish+Dental+Clinic/@27.2016842,77.9455992,17z/data=!3m1!4b1!4m6!3m5!1s0x397477005e197f95:0x885d83e400cad60!8m2!3d27.2016842!4d77.9455992!16s%2Fg%2F11rkj5d9xw?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2016842,
+      "lng": 77.9455992,
+      "label": "Ashish Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "assure-dental-clinic-and-implant-centre-agra",
+    "name": "Assure dental clinic and implant centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Assure dental clinic and implant centre brings together specialists for Oral Surgery In Agra. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098377 12777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5XQM+5XC, bhairo mandir jaipur house colony, near sale tax colony, Lohamandi, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Lohamandi",
+    "landmark": "near sale tax colony, Lohamandi, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "098377 12777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Assure+dental+clinic+and+implant+centre/@27.1879427,77.9849005,17z/data=!3m1!4b1!4m6!3m5!1s0x39747710f8b4ebab:0x6e9b50126af8e933!8m2!3d27.1879427!4d77.9849005!16s%2Fg%2F11hcdss_p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Assure+dental+clinic+and+implant+centre/@27.1879427,77.9849005,17z/data=!3m1!4b1!4m6!3m5!1s0x39747710f8b4ebab:0x6e9b50126af8e933!8m2!3d27.1879427!4d77.9849005!16s%2Fg%2F11hcdss_p9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1879427,
+      "lng": 77.9849005,
+      "label": "Assure dental clinic and implant centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bachan-ivf-center-agra-agra",
+    "name": "Bachan IVF Center Agra",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Bachan IVF Center Agra for its strength in IVF In Agra and Fertility Care. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@bachanivf.com",
+    "phone": "095991 08179",
+    "alternatePhone": "+91 92113 35005",
+    "website": "https://bachanivf.com/",
+    "address": "second floor, Plot no 33, Mahatma Gandhi Rd, above SBI bank, near Sai ki takiya chouraya, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "near Sai ki takiya chouraya, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "+91 92113 35005",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/bachanivf",
+    "twitter": "https://x.com/bachanivf",
+    "instagram": "https://www.instagram.com/bachanivf/",
+    "linkedin": "https://www.linkedin.com/company/bachanivf/",
+    "youtube": "",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Bachan+IVF+Center+Agra/data=!4m7!3m6!1s0x397477946aeb962f:0x24b7651c7c1a168!8m2!3d27.1692792!4d78.0089628!16s%2Fg%2F11xn5mnr1f!19sChIJL5brapR3dDkRaKHBx1F2SwI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bachan+IVF+Center+Agra/data=!4m7!3m6!1s0x397477946aeb962f:0x24b7651c7c1a168!8m2!3d27.1692792!4d78.0089628!16s%2Fg%2F11xn5mnr1f!19sChIJL5brapR3dDkRaKHBx1F2SwI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1692792,
+      "lng": 78.0089628,
+      "label": "Bachan IVF Center Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "best-cosmetology-in-agra-apollo-cosmetology-and-aesthetics-agra",
+    "name": "Best Cosmetology in Agra| Apollo Cosmetology & Aesthetics",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Best Cosmetology in Agra| Apollo Cosmetology & Aesthetics is a prominent skin care clinic in Agra, known for structured tertiary care across Cosmetic Surgery In Agra. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "accounts@apolloclinicagra.com",
+    "phone": "075509 99000",
+    "alternatePhone": "+91 98707 45192",
+    "website": "https://apolloclinicagra.com/cosmetology/",
+    "address": "Apollo clinic, 94, Old Vijay Nagar Colony Rd, near Police chowki, Sultan Ganj, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "Civil Lines",
+    "landmark": "near Police chowki, Sultan Ganj, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282003",
+    "emergencyContact": "+91 98707 45192",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ApolloClinicAgra/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/APOLLOCLINICAGRA",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCj4fFgpI1_Zm2kEcfjrj0Rg",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Best+Cosmetology+in+Agra%7C+Apollo+Cosmetology+%26+Aesthetics/@27.2046193,78.0160978,17z/data=!3m1!4b1!4m6!3m5!1s0x397477bf267f350f:0xb18c0ce9bbc92278!8m2!3d27.2046193!4d78.0160978!16s%2Fg%2F11ybxx_jj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Best+Cosmetology+in+Agra%7C+Apollo+Cosmetology+%26+Aesthetics/@27.2046193,78.0160978,17z/data=!3m1!4b1!4m6!3m5!1s0x397477bf267f350f:0xb18c0ce9bbc92278!8m2!3d27.2046193!4d78.0160978!16s%2Fg%2F11ybxx_jj3?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2046193,
+      "lng": 78.0160978,
+      "label": "Best Cosmetology in Agra| Apollo Cosmetology & Aesthetics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "blossam-dental-care-dentist-near-me-braces-rct-best-prp-laser-hair-reduction-treatment-clinic-in-agra-agra",
+    "name": "BLOSSAM DENTAL CARE - Dentist Near Me - Braces/RCT - Best PRP/Laser Hair Reduction Treatment Clinic In Agra",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose BLOSSAM DENTAL CARE - Dentist Near Me - Braces/RCT - Best PRP/Laser Hair Reduction Treatment Clinic In Agra for its strength in Oral Surgery In Agra and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095991 13572",
+    "alternatePhone": "",
+    "website": "http://wa.link/1vd4u3",
+    "address": "05, 116, Pashchimpuri Rd, Delhi Gate, Opposite Taygi Market, Narain Vihar, Pashchimpuri X Ing, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Opposite Taygi Market, Narain Vihar, Pashchimpuri X Ing, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+    "emergencyContact": "095991 13572",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=100064758844406",
+    "twitter": "https://x.com/whatsapp",
+    "instagram": "https://www.instagram.com/whatsapp/?hl=en",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/BLOSSAM+DENTAL+CARE+-+Dentist+Near+Me+-+Braces%2FRCT+-+Best+PRP%2FLaser+Hair+Reduction+Treatment+Clinic+In+Agra/@27.202532,77.9454714,17z/data=!3m1!4b1!4m6!3m5!1s0x3974779c4dd454ed:0x8ac7135984ef419!8m2!3d27.202532!4d77.9454714!16s%2Fg%2F11n6wn3tkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BLOSSAM+DENTAL+CARE+-+Dentist+Near+Me+-+Braces%2FRCT+-+Best+PRP%2FLaser+Hair+Reduction+Treatment+Clinic+In+Agra/@27.202532,77.9454714,17z/data=!3m1!4b1!4m6!3m5!1s0x3974779c4dd454ed:0x8ac7135984ef419!8m2!3d27.202532!4d77.9454714!16s%2Fg%2F11n6wn3tkl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.202532,
+      "lng": 77.9454714,
+      "label": "BLOSSAM DENTAL CARE - Dentist Near Me - Braces/RCT - Best PRP/Laser Hair Reduction Treatment Clinic In Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "blossoms-aesthetics-best-skin-and-hair-treatment-in-agra-agra",
+    "name": "Blossoms Aesthetics | Best Skin & Hair Treatment in Agra",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Blossoms Aesthetics | Best Skin & Hair Treatment in Agra for its strength in Cosmetic Surgery In Agra. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "connect@blossomsaesthetics.in",
+    "phone": "078188 73407",
+    "alternatePhone": "+91 75008 77770",
+    "website": "https://blossomsaesthetics.in/",
+    "address": "Quarters 58, Master Plan Rd, near Blossoms Hospital, Nasirabad Colony, Khandari, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Khandari",
+    "landmark": "near Blossoms Hospital, Nasirabad Colony, Khandari, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "+91 75008 77770",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/blossomsaestheticsagra/",
+    "twitter": "https://x.com/BlossomsAe2429",
+    "instagram": "https://www.instagram.com/blossoms_aesthetic/",
+    "linkedin": "https://www.linkedin.com/company/blossoms-aesthetics/",
+    "youtube": "https://www.youtube.com/@BlossomsAesthetics",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Blossoms+Aesthetics+%7C+Best+Skin+%26+Hair+Treatment+in+Agra/@27.2053943,77.9916371,17z/data=!3m1!4b1!4m6!3m5!1s0x3974772ea97d0411:0x830c5cb126009033!8m2!3d27.2053943!4d77.9916371!16s%2Fg%2F11w4cfzc09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Blossoms+Aesthetics+%7C+Best+Skin+%26+Hair+Treatment+in+Agra/@27.2053943,77.9916371,17z/data=!3m1!4b1!4m6!3m5!1s0x3974772ea97d0411:0x830c5cb126009033!8m2!3d27.2053943!4d77.9916371!16s%2Fg%2F11w4cfzc09?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2053943,
+      "lng": 77.9916371,
+      "label": "Blossoms Aesthetics | Best Skin & Hair Treatment in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bm-hospital-and-research-centre-agra",
+    "name": "BM Hospital & Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, BM Hospital & Research Centre brings together specialists for General Surgery In Agra. Its infrastructure includes Google rating 4.4 and 1+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072499 24352",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F-138, Pani Ki Tanki Rd, Balkeshwar Colony, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Balkeshwar Colony",
+    "emergencyContact": "072499 24352",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "1+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/BM+Hospital+%26+Research+Centre/@27.2121322,78.0252458,17z/data=!3m1!4b1!4m6!3m5!1s0x397470add64f527d:0x51eb0803afc28d0d!8m2!3d27.2121322!4d78.0252458!16s%2Fg%2F11b_1yjmft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BM+Hospital+%26+Research+Centre/@27.2121322,78.0252458,17z/data=!3m1!4b1!4m6!3m5!1s0x397470add64f527d:0x51eb0803afc28d0d!8m2!3d27.2121322!4d78.0252458!16s%2Fg%2F11b_1yjmft?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2121322,
+      "lng": 78.0252458,
+      "label": "BM Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bone-hospital-agra",
+    "name": "Bone Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Bone Hospital offers coordinated hospital care with major focus on Hip Replacement Surgery In Agra and Orthopaedics. Its infrastructure includes Google rating 4.5 and 127+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0562 225 2590",
+    "alternatePhone": "",
+    "website": "",
+    "address": "33/126,BONE HOSPITAL,OLD RTO COMPOUND, Mahatma Gandhi Rd, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "OLD RTO COMPOUND",
+    "emergencyContact": "0562 225 2590",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Agra",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "127+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Bone+Hospital/data=!4m7!3m6!1s0x397476d730a6771f:0x7d1cd0020f5fa266!8m2!3d27.168573!4d78.009958!16s%2Fg%2F11b5pkljvv!19sChIJH3emMNd2dDkRZqJfDwLQHH0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bone+Hospital/data=!4m7!3m6!1s0x397476d730a6771f:0x7d1cd0020f5fa266!8m2!3d27.168573!4d78.009958!16s%2Fg%2F11b5pkljvv!19sChIJH3emMNd2dDkRZqJfDwLQHH0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.168573,
+      "lng": 78.009958,
+      "label": "Bone Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 127,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "braces-and-smile-orthodontic-and-implant-centre-and-dental-clinic-agra",
+    "name": "Braces and smile. orthodontic & Implant centre and dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Braces and smile. orthodontic & Implant centre and dental clinic for its strength in Oral Surgery In Agra and Orthopaedics. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099270 05862",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1/187, Beni Madhav Sarkar Road, Delhi Gate Rd, adjacent to D mart and Seth diagnostics, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Delhi Gate Rd",
+    "emergencyContact": "099270 05862",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Braces+and+smile.+orthodontic+%26+Implant+centre+and+dental+clinic/@27.1989858,77.998656,17z/data=!3m1!4b1!4m6!3m5!1s0x39747741b77bca13:0xccb585cf10934db4!8m2!3d27.1989858!4d77.998656!16s%2Fg%2F11dxq3p07k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Braces+and+smile.+orthodontic+%26+Implant+centre+and+dental+clinic/@27.1989858,77.998656,17z/data=!3m1!4b1!4m6!3m5!1s0x39747741b77bca13:0xccb585cf10934db4!8m2!3d27.1989858!4d77.998656!16s%2Fg%2F11dxq3p07k?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1989858,
+      "lng": 77.998656,
+      "label": "Braces and smile. orthodontic & Implant centre and dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chahar-dental-and-implant-care-agra",
+    "name": "Chahar Dental & Implant Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, Chahar Dental & Implant Care delivers integrated care across Oral Surgery In Agra. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "rahulchahar648@gmail.com",
+    "phone": "089587 77774",
+    "alternatePhone": "+91 70177 41373",
+    "website": "http://chahardentalclinic.com/",
+    "address": "Arjun Nagar Rd, opp. Sbi bank, Ayodhya Kunj-A, Dashrath Kunj - B, Jodha Bai ka Rauza, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Ayodhya Kunj-A",
+    "emergencyContact": "+91 70177 41373",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Chahar+Dental+%26+Implant+Care/@27.1673482,77.9841243,17z/data=!3m1!4b1!4m6!3m5!1s0x397477dfc63d648d:0x9c5e22578ffb2199!8m2!3d27.1673482!4d77.9841243!16s%2Fg%2F11mts5zyx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chahar+Dental+%26+Implant+Care/@27.1673482,77.9841243,17z/data=!3m1!4b1!4m6!3m5!1s0x397477dfc63d648d:0x9c5e22578ffb2199!8m2!3d27.1673482!4d77.9841243!16s%2Fg%2F11mts5zyx4?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1673482,
+      "lng": 77.9841243,
+      "label": "Chahar Dental & Implant Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmetic-dental-clinic-agra",
+    "name": "Cosmetic dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Cosmetic dental clinic has built a strong reputation in Agra for multidisciplinary treatment pathways covering Cosmetic Surgery In Agra. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@example.com",
+    "phone": "075991 62489",
+    "alternatePhone": "",
+    "website": "https://drmanojgolash.in/",
+    "address": "Rashmi Palace, Bypass Rd, Sultanganj Chauraha, Kamla Nagar, BU-3/4A, Bypass Rd, near IndusInd Bank, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "near IndusInd Bank, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "emergencyContact": "075991 62489",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Cosmetic+dental+clinic/@27.2091527,78.0168275,17z/data=!3m1!4b1!4m6!3m5!1s0x39747752806677bd:0xdab14b61978e96a2!8m2!3d27.2091527!4d78.0168275!16s%2Fg%2F1q663y43b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cosmetic+dental+clinic/@27.2091527,78.0168275,17z/data=!3m1!4b1!4m6!3m5!1s0x39747752806677bd:0xdab14b61978e96a2!8m2!3d27.2091527!4d78.0168275!16s%2Fg%2F1q663y43b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2091527,
+      "lng": 78.0168275,
+      "label": "Cosmetic dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cosmo-experts-medcity-agra-best-plastic-surgery-cosmetic-surgery-and-hair-transplant-clinic-agra",
+    "name": "COSMO EXPERTS MEDCITY AGRA - Best Plastic Surgery Cosmetic surgery and Hair Transplant Clinic",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose COSMO EXPERTS MEDCITY AGRA - Best Plastic Surgery Cosmetic surgery and Hair Transplant Clinic for its strength in Plastic Surgery In Agra. Operational strengths including Google rating 4.8, 56+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075339 21024",
+    "alternatePhone": "+91 75339 21021",
+    "website": "https://cosmoexperts.in/",
+    "address": "SAUTH KI MANDI, 5/145A/1, Mathura Rd, opp. MENTAL HOSPITAL, MADIA KATRA, Kailashpuri, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Kailashpuri",
+    "landmark": "Mathura Rd",
+    "emergencyContact": "+91 75339 21021",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/cosmoexpertsclinics/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/cosmoexpertsclinics",
+    "linkedin": "",
+    "youtube": "https://youtu.be/Xv-_-o-6exg?si=dFdHtdRDQa02c3aI",
+    "specialties": [
+      "Plastic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "56+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/COSMO+EXPERTS+MEDCITY+AGRA+-+Best+Plastic+Surgery+Cosmetic+surgery+and+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x397477262a12b011:0xb77961cb3a4e996e!8m2!3d27.2020538!4d77.9830836!16s%2Fg%2F11gh0lz6fw!19sChIJEbASKiZ3dDkRbplOOsthebc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/COSMO+EXPERTS+MEDCITY+AGRA+-+Best+Plastic+Surgery+Cosmetic+surgery+and+Hair+Transplant+Clinic/data=!4m7!3m6!1s0x397477262a12b011:0xb77961cb3a4e996e!8m2!3d27.2020538!4d77.9830836!16s%2Fg%2F11gh0lz6fw!19sChIJEbASKiZ3dDkRbplOOsthebc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2020538,
+      "lng": 77.9830836,
+      "label": "COSMO EXPERTS MEDCITY AGRA - Best Plastic Surgery Cosmetic surgery and Hair Transplant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 56,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dagur-dental-care-and-implant-centre-agra",
+    "name": "Dagur Dental Care & Implant Centre",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Dagur Dental Care & Implant Centre brings together specialists for Oral Surgery In Agra. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "A-1,First Floor Tulsi Bagh, Opp, Pushpanjali Bagh, Buri Ka Nagla, DayalBagh, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "DayalBagh",
+    "landmark": "Opp",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Dagur+Dental+Care+%26+Implant+Centre/@27.2252131,77.9974435,17z/data=!3m1!4b1!4m6!3m5!1s0x3974793b4228a72d:0x6672bded7a02270!8m2!3d27.2252131!4d77.9974435!16s%2Fg%2F11h045h7zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dagur+Dental+Care+%26+Implant+Centre/@27.2252131,77.9974435,17z/data=!3m1!4b1!4m6!3m5!1s0x3974793b4228a72d:0x6672bded7a02270!8m2!3d27.2252131!4d77.9974435!16s%2Fg%2F11h045h7zt?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2252131,
+      "lng": 77.9974435,
+      "label": "Dagur Dental Care & Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dantika-dental-implants-and-aesthetic-centre-best-dentist-in-agra-best-implants-in-agra-india-agra",
+    "name": "DANTIKA Dental, Implants and Aesthetic Centre | Best Dentist in Agra | Best Implants in Agra India",
+    "type": "Prosthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "DANTIKA Dental, Implants and Aesthetic Centre | Best Dentist in Agra | Best Implants in Agra India is a prominent prosthodontist in Agra, known for structured tertiary care across Oral Surgery In Agra and Prosthodontist. With public-facing highlights like Google rating 4.9, 137+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099274 88170",
+    "alternatePhone": "",
+    "website": "http://www.dantikadental.com/",
+    "address": "38, North, New Vijay Nagar Colony, Sultan Ganj, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "Civil Lines",
+    "landmark": "New Vijay Nagar Colony",
+    "emergencyContact": "099274 88170",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Prosthodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "137+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DANTIKA+Dental,+Implants+and+Aesthetic+Centre+%7C+Best+Dentist+in+Agra+%7C+Best+Implants+in+Agra+India/@27.2072481,78.0167632,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774d0bc98d41:0xc2948e2815f89fa0!8m2!3d27.2072481!4d78.0167632!16s%2Fg%2F11bw82pmtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DANTIKA+Dental,+Implants+and+Aesthetic+Centre+%7C+Best+Dentist+in+Agra+%7C+Best+Implants+in+Agra+India/@27.2072481,78.0167632,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774d0bc98d41:0xc2948e2815f89fa0!8m2!3d27.2072481!4d78.0167632!16s%2Fg%2F11bw82pmtm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2072481,
+      "lng": 78.0167632,
+      "label": "DANTIKA Dental, Implants and Aesthetic Centre | Best Dentist in Agra | Best Implants in Agra India",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 137,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dauji-dental-and-implant-clinic-dr-prof-pankaj-agarwal-dr-mrs-ashu-agarwal-agra",
+    "name": "Dauji Dental and implant clinic, Dr(Prof) Pankaj Agarwal, Dr(Mrs) Ashu Agarwal",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Dauji Dental and implant clinic, Dr(Prof) Pankaj Agarwal, Dr(Mrs) Ashu Agarwal for its strength in Oral Surgery In Agra. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090270 54609",
+    "alternatePhone": "",
+    "website": "",
+    "address": "water works, near Langre Ki Chowki, Langre Ki Chowki, Civil Lines, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "Civil Lines",
+    "landmark": "near Langre Ki Chowki, Langre Ki Chowki, Civil Lines, Agra, Uttar Pradesh 282003",
+    "emergencyContact": "090270 54609",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Dauji+Dental+and+implant+clinic,+Dr%28Prof%29+Pankaj+Agarwal,+Dr%28Mrs%29+Ashu+Agarwal/data=!4m7!3m6!1s0x3974718a068affd3:0xb38179a9710b7fcf!8m2!3d27.2070529!4d78.0272532!16s%2Fg%2F11h713sg80!19sChIJ0_-KBopxdDkRz38Lcal5gbM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dauji+Dental+and+implant+clinic,+Dr%28Prof%29+Pankaj+Agarwal,+Dr%28Mrs%29+Ashu+Agarwal/data=!4m7!3m6!1s0x3974718a068affd3:0xb38179a9710b7fcf!8m2!3d27.2070529!4d78.0272532!16s%2Fg%2F11h713sg80!19sChIJ0_-KBopxdDkRz38Lcal5gbM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2070529,
+      "lng": 78.0272532,
+      "label": "Dauji Dental and implant clinic, Dr(Prof) Pankaj Agarwal, Dr(Mrs) Ashu Agarwal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deepak-hospital-agra",
+    "name": "Deepak Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Deepak Hospital for its strength in General Surgery In Agra. Its infrastructure includes Google rating 4.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "130, near See Cable Office, Manas Nagar, Pandav Nagar, Shahganj, Agra, Uttar Pradesh 282010",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282010",
+    "locality": "Shahganj",
+    "landmark": "near See Cable Office, Manas Nagar, Pandav Nagar, Shahganj, Agra, Uttar Pradesh 282010",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Deepak+Hospital/@27.1841193,77.9752691,17z/data=!3m1!4b1!4m6!3m5!1s0x39747708476192cd:0x9e920b36e7c5ad39!8m2!3d27.1841193!4d77.9752691!16s%2Fg%2F1q665w8lp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deepak+Hospital/@27.1841193,77.9752691,17z/data=!3m1!4b1!4m6!3m5!1s0x39747708476192cd:0x9e920b36e7c5ad39!8m2!3d27.1841193!4d77.9752691!16s%2Fg%2F1q665w8lp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1841193,
+      "lng": 77.9752691,
+      "label": "Deepak Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dental-surgery-clinic-agra",
+    "name": "Dental Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Dental Surgery Clinic brings together specialists for Oral Surgery In Agra. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098977 18313",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahendra market 1st floor,Goverdhan Hotel Delhi gate Agra, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Goverdhan Hotel Delhi gate Agra",
+    "landmark": "Agra",
+    "emergencyContact": "098977 18313",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Dental+Surgery+Clinic/@27.200741,77.999882,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774176b70213:0x56b6788052d11ded!8m2!3d27.200741!4d77.999882!16s%2Fg%2F11ddzmgzwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dental+Surgery+Clinic/@27.200741,77.999882,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774176b70213:0x56b6788052d11ded!8m2!3d27.200741!4d77.999882!16s%2Fg%2F11ddzmgzwr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.200741,
+      "lng": 77.999882,
+      "label": "Dental Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentist-akanksha-singhal-agra",
+    "name": "Dentist Akanksha Singhal",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Dentist Akanksha Singhal for its strength in Oral Surgery In Agra and Dentist. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097608 97299",
+    "alternatePhone": "",
+    "website": "https://dentistakanksha.com/",
+    "address": "Mishra market, in front of Jai Hospital, near Shree Talkies, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "near Shree Talkies, Nehru Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "097608 97299",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentist+Akanksha+Singhal/@27.2090448,78.0083084,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f1ccc7c4b7:0xc8e9328dcd88bfc2!8m2!3d27.2090448!4d78.0083084!16s%2Fg%2F11gy1rd261?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentist+Akanksha+Singhal/@27.2090448,78.0083084,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f1ccc7c4b7:0xc8e9328dcd88bfc2!8m2!3d27.2090448!4d78.0083084!16s%2Fg%2F11gy1rd261?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2090448,
+      "lng": 78.0083084,
+      "label": "Dentist Akanksha Singhal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentonation-dental-and-cosmetic-clinic-agra",
+    "name": "Dentonation Dental & Cosmetic Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Dentonation Dental & Cosmetic Clinic for its strength in Oral Surgery In Agra. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "websitename@gmail.com",
+    "phone": "082796 81266",
+    "alternatePhone": "",
+    "website": "https://dentonationdental.com/",
+    "address": "District & Sessions Court, PARMAR MARKET OPPOSITE GATE NO. 1 DISTRICT, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "PARMAR MARKET OPPOSITE GATE NO. 1 DISTRICT",
+    "landmark": "OPPOSITE GATE NO. 1 DISTRICT, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "082796 81266",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/Dentonation-Dental-and-Cosmetic-Clinic-100064173905732/",
+    "twitter": "https://twitter.com/tds_banjara",
+    "instagram": "https://www.instagram.com/dentonationdental/",
+    "linkedin": "https://in.linkedin.com/",
+    "youtube": "https://www.youtube.com/",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dentonation+Dental+%26+Cosmetic+Clinic/@27.2088284,78.0042374,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a74e6b7747:0x101da33dc7e27a3b!8m2!3d27.2088284!4d78.0042374!16s%2Fg%2F11pxp3yg_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dentonation+Dental+%26+Cosmetic+Clinic/@27.2088284,78.0042374,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a74e6b7747:0x101da33dc7e27a3b!8m2!3d27.2088284!4d78.0042374!16s%2Fg%2F11pxp3yg_1?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2088284,
+      "lng": 78.0042374,
+      "label": "Dentonation Dental & Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dhingra-dental-clinic-agra",
+    "name": "Dhingra Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Dhingra Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Agra and Dentist. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098976 93339",
+    "alternatePhone": "",
+    "website": "https://solo.to/dhingradentalclinic",
+    "address": "Daresi No. 2, opp. पंजाब नैशनल बैंक ए.टी.एम, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "opp. पंजाब नैशनल बैंक ए.टी.एम",
+    "landmark": "Agra",
+    "emergencyContact": "098976 93339",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dhingra+Dental+Clinic/@27.184302,78.0201612,17z/data=!3m1!4b1!4m6!3m5!1s0x3974772573254627:0x279f35de5ce26e48!8m2!3d27.184302!4d78.0201612!16s%2Fg%2F11l8p_9gc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dhingra+Dental+Clinic/@27.184302,78.0201612,17z/data=!3m1!4b1!4m6!3m5!1s0x3974772573254627:0x279f35de5ce26e48!8m2!3d27.184302!4d78.0201612!16s%2Fg%2F11l8p_9gc9?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.184302,
+      "lng": 78.0201612,
+      "label": "Dhingra Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dixit-hospital-and-maternity-home-31-167k-d-prem-nagar-ukharra-road-agra",
+    "name": "Dixit Hospital and maternity home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in 31/167K/D prem nagar ukharra road agra often choose Dixit Hospital and maternity home for its strength in General Surgery In Agra. The facility stands out for Google rating 3.6, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "075340 00656",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31/167K/D prem nagar ukharra road agra,uttar Pradesh 282001Uttar Pradesh, Uttar Pradesh 282001",
+    "city": "31/167K/D prem nagar ukharra road agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "",
+    "landmark": "Uttar Pradesh 282001",
+    "emergencyContact": "075340 00656",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Dixit+Hospital+and+maternity+home/data=!4m7!3m6!1s0x3974713cc4a9238b:0xee1f37b6ba8ab784!8m2!3d27.1623577!4d78.0405896!16s%2Fg%2F1tdq4dv9!19sChIJiyOpxDxxdDkRhLeKurY3H-4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dixit+Hospital+and+maternity+home/data=!4m7!3m6!1s0x3974713cc4a9238b:0xee1f37b6ba8ab784!8m2!3d27.1623577!4d78.0405896!16s%2Fg%2F1tdq4dv9!19sChIJiyOpxDxxdDkRhLeKurY3H-4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1623577,
+      "lng": 78.0405896,
+      "label": "Dixit Hospital and maternity home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "family-and-dental-clinic-agra",
+    "name": "Family &Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Family &Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "079064 28778",
+    "alternatePhone": "",
+    "website": "",
+    "address": "31/172 a-1, Shamshabad Raja Kherah Marg, Rajpur Chungi, Sainik Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Sainik Nagar",
+    "landmark": "Rajpur Chungi",
+    "emergencyContact": "079064 28778",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Family+%26Dental+Clinic/@27.1529883,78.0336008,17z/data=!3m1!4b1!4m6!3m5!1s0x397471da2f56a8b7:0xd15913951060ec22!8m2!3d27.1529883!4d78.0336008!16s%2Fg%2F11mtd5my5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Family+%26Dental+Clinic/@27.1529883,78.0336008,17z/data=!3m1!4b1!4m6!3m5!1s0x397471da2f56a8b7:0xd15913951060ec22!8m2!3d27.1529883!4d78.0336008!16s%2Fg%2F11mtd5my5q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1529883,
+      "lng": 78.0336008,
+      "label": "Family &Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "galaxy-hospital-agra",
+    "name": "Galaxy Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Galaxy Hospital brings together specialists for General Surgery In Agra. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095208 70401",
+    "alternatePhone": "",
+    "website": "https://galaxyhospitalagra.com/",
+    "address": "1/198, Bagh Farzana Rd, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Professors Colony",
+    "emergencyContact": "095208 70401",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Galaxy+Hospital/@27.1998934,78.0004024,17z/data=!3m1!4b1!4m6!3m5!1s0x39747765e0aa750f:0xf569d602ea5c2ef9!8m2!3d27.1998934!4d78.0004024!16s%2Fg%2F11t1g_9z2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Galaxy+Hospital/@27.1998934,78.0004024,17z/data=!3m1!4b1!4m6!3m5!1s0x39747765e0aa750f:0xf569d602ea5c2ef9!8m2!3d27.1998934!4d78.0004024!16s%2Fg%2F11t1g_9z2b?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1998934,
+      "lng": 78.0004024,
+      "label": "Galaxy Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "girdhari-lal-dhingra-dental-clinic-agra",
+    "name": "Girdhari Lal Dhingra Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Girdhari Lal Dhingra Dental Clinic has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098372 42227",
+    "alternatePhone": "",
+    "website": "http://dhingradentalclinic.com/",
+    "address": "Daresi Rd, Daresi, Pipal Mandi, Mantola, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "Mantola",
+    "landmark": "Pipal Mandi",
+    "emergencyContact": "098372 42227",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Girdhari+Lal+Dhingra+Dental+Clinic/data=!4m7!3m6!1s0x3974712cdac86f61:0x26a712e9947361e7!8m2!3d27.1844922!4d78.0208332!16s%2Fg%2F11rqz_gd8t!19sChIJYW_I2ixxdDkR52FzlOkSpyY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Girdhari+Lal+Dhingra+Dental+Clinic/data=!4m7!3m6!1s0x3974712cdac86f61:0x26a712e9947361e7!8m2!3d27.1844922!4d78.0208332!16s%2Fg%2F11rqz_gd8t!19sChIJYW_I2ixxdDkR52FzlOkSpyY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1844922,
+      "lng": 78.0208332,
+      "label": "Girdhari Lal Dhingra Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "goyal-city-hospital-agra",
+    "name": "Goyal City Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Goyal City Hospital for its strength in General Surgery In Agra. With public-facing highlights like Google rating 4.8, 2+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@goyalcityhospitals.com",
+    "phone": "090585 30562",
+    "alternatePhone": "0562 400 1062",
+    "website": "http://www.goyalcityhospitals.com/",
+    "address": "D, 3, Rambagh, Sri Nagar Colony, Trans Yamuna Colony, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "Trans Yamuna Colony",
+    "landmark": "Rambagh",
+    "emergencyContact": "0562 400 1062",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/vikas.mittal.79219/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/vikasdrfit/?hl=en",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "2+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Goyal+City+Hospital/data=!4m7!3m6!1s0x3974709445411d7f:0xd6ee5dde901ac2f2!8m2!3d27.2036671!4d78.0461387!16s%2Fg%2F1q662r1q8!19sChIJfx1BRZRwdDkR8sIakN5d7tY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Goyal+City+Hospital/data=!4m7!3m6!1s0x3974709445411d7f:0xd6ee5dde901ac2f2!8m2!3d27.2036671!4d78.0461387!16s%2Fg%2F1q662r1q8!19sChIJfx1BRZRwdDkR8sIakN5d7tY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2036671,
+      "lng": 78.0461387,
+      "label": "Goyal City Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gynoveda-agra-church-road-ayurveda-fertility-clinic-agra",
+    "name": "Gynoveda, Agra, Church Road. Ayurveda Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Gynoveda, Agra, Church Road. Ayurveda Fertility Clinic offers coordinated hospital care with major focus on IVF In Agra and Fertility Care. Hospital capacity markers such as Google rating 4.9, 632+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072400 00700",
+    "alternatePhone": "+91 80423 02695",
+    "website": "https://www.gynoveda.com/",
+    "address": "Shop No. UG-01 on First Floor, Shanti Emporio, Gynoveda Fertility Clinic, Church Rd, Raghunath Nagar, Sarjepur, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Gynoveda Fertility Clinic",
+    "emergencyContact": "+91 80423 02695",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gynoveda",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/gynoveda",
+    "linkedin": "https://in.linkedin.com/company/gynoveda",
+    "youtube": "https://www.youtube.com/@Gynoveda",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "632+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gynoveda,+Agra,+Church+Road.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3974777c758997a3:0x185013b434922b5e!8m2!3d27.202439!4d78.003!16s%2Fg%2F11y8ls1chy!19sChIJo5eJdXx3dDkRXiuSNLQTUBg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gynoveda,+Agra,+Church+Road.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3974777c758997a3:0x185013b434922b5e!8m2!3d27.202439!4d78.003!16s%2Fg%2F11y8ls1chy!19sChIJo5eJdXx3dDkRXiuSNLQTUBg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.202439,
+      "lng": 78.003,
+      "label": "Gynoveda, Agra, Church Road. Ayurveda Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 632,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hridyam-hospital-agra",
+    "name": "Hridyam Hospital",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Hridyam Hospital has built a strong reputation in Agra for multidisciplinary treatment pathways covering Heart Surgery In Agra. Operational strengths including Google rating 4.4 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "073517 55577",
+    "alternatePhone": "",
+    "website": "http://www.hridyamhospitals.com/",
+    "address": "E 31, Professors Colony, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Ghatwasan",
+    "emergencyContact": "073517 55577",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Hridyam+Hospital/data=!4m7!3m6!1s0x397470b27d2241ef:0xc156cdd16eae335d!8m2!3d27.2091597!4d78.0225126!16s%2Fg%2F11dylx7j82!19sChIJ70EifbJwdDkRXTOubtHNVsE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hridyam+Hospital/data=!4m7!3m6!1s0x397470b27d2241ef:0xc156cdd16eae335d!8m2!3d27.2091597!4d78.0225126!16s%2Fg%2F11dylx7j82!19sChIJ70EifbJwdDkRXTOubtHNVsE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2091597,
+      "lng": 78.0225126,
+      "label": "Hridyam Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indra-ivf-agra",
+    "name": "Indra Ivf",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Agra, Indra Ivf delivers integrated care across IVF In Agra and Fertility Care. The facility stands out for Google rating 3.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "help@indiraivf.in",
+    "phone": "+91 74118 04328",
+    "alternatePhone": "72300 41118",
+    "website": "https://www.indiraivf.com/",
+    "address": "Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "+91 74118 04328",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraIVF",
+    "twitter": "https://x.com/IVFIndira",
+    "instagram": "https://www.instagram.com/indiraivfgroup/",
+    "linkedin": "https://www.linkedin.com/company/indira-ivf/",
+    "youtube": "https://www.youtube.com/playlist?list=PL3cifOHgiclnE72keHkBZEEUG5LLGepLz",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indra+Ivf/data=!4m7!3m6!1s0x3974776a9827bf37:0x41c428f684d9c74e!8m2!3d27.197372!4d77.99579!16s%2Fg%2F11fz95dghz!19sChIJN78nmGp3dDkRTsfZhPYoxEE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indra+Ivf/data=!4m7!3m6!1s0x3974776a9827bf37:0x41c428f684d9c74e!8m2!3d27.197372!4d77.99579!16s%2Fg%2F11fz95dghz!19sChIJN78nmGp3dDkRTsfZhPYoxEE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.197372,
+      "lng": 77.99579,
+      "label": "Indra Ivf",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "j-k-hospital-agra",
+    "name": "J.K. Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, J.K. Hospital offers coordinated hospital care with major focus on General Surgery In Agra. Hospital capacity markers such as Google rating 3.8 and 6+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "524Q+36X, 126 MIG, Tiraha, Shaheed Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Tajganj",
+    "landmark": "Tiraha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "6+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/J.K.+Hospital/@27.1552942,78.0372312,17z/data=!3m1!4b1!4m6!3m5!1s0x3974713f295435fb:0xe5deea60852624d2!8m2!3d27.1552942!4d78.0372312!16s%2Fg%2F11g9dcmh_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/J.K.+Hospital/@27.1552942,78.0372312,17z/data=!3m1!4b1!4m6!3m5!1s0x3974713f295435fb:0xe5deea60852624d2!8m2!3d27.1552942!4d78.0372312!16s%2Fg%2F11g9dcmh_6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1552942,
+      "lng": 78.0372312,
+      "label": "J.K. Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 6,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jaidevi-hospital-and-laparoscopic-surgery-centre-agra",
+    "name": "Jaidevi Hospital & Laparoscopic Surgery Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Agra, Jaidevi Hospital & Laparoscopic Surgery Centre delivers integrated care across General Surgery In Agra. Hospital capacity markers such as Google rating 4.7 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "095688 72580",
+    "alternatePhone": "",
+    "website": "https://jaidevihospital.com/index.html",
+    "address": "Beni Madhav Sarkar, Delhi Gate Rd, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Professors Colony",
+    "emergencyContact": "095688 72580",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Jaidevi+Hospital+%26+Laparoscopic+Surgery+Centre/data=!4m7!3m6!1s0x39747740109e7c21:0xb021b2bcf79a0fe1!8m2!3d27.1966265!4d77.997444!16s%2Fg%2F11b5pkx4vp!19sChIJIXyeEEB3dDkR4Q-a97yyIbA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jaidevi+Hospital+%26+Laparoscopic+Surgery+Centre/data=!4m7!3m6!1s0x39747740109e7c21:0xb021b2bcf79a0fe1!8m2!3d27.1966265!4d77.997444!16s%2Fg%2F11b5pkx4vp!19sChIJIXyeEEB3dDkR4Q-a97yyIbA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1966265,
+      "lng": 77.997444,
+      "label": "Jaidevi Hospital & Laparoscopic Surgery Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jain-dental-and-maxillofacial-care-agra",
+    "name": "JAIN DENTAL & MAXILLOFACIAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, JAIN DENTAL & MAXILLOFACIAL CARE delivers integrated care across Oral Surgery In Agra and Maxillofacial Surgery. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "087557 40562",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-7, Friends Plaza Opp.St.Pauls School, Adj. Ratan Pizza, Church Rd, near Sbi Atm, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "near Sbi Atm, Civil Lines, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "087557 40562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/JAIN+DENTAL+%26+MAXILLOFACIAL+CARE/@27.2037402,77.999028,17z/data=!3m1!4b1!4m6!3m5!1s0x39747750921f733d:0x599521d5714efe5a!8m2!3d27.2037402!4d77.999028!16s%2Fg%2F11q8rp5102?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/JAIN+DENTAL+%26+MAXILLOFACIAL+CARE/@27.2037402,77.999028,17z/data=!3m1!4b1!4m6!3m5!1s0x39747750921f733d:0x599521d5714efe5a!8m2!3d27.2037402!4d77.999028!16s%2Fg%2F11q8rp5102?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2037402,
+      "lng": 77.999028,
+      "label": "JAIN DENTAL & MAXILLOFACIAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "javitri-devi-memorial-hospital-agra",
+    "name": "Javitri Devi Memorial Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Javitri Devi Memorial Hospital brings together specialists for General Surgery In Agra. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0562 240 0069",
+    "alternatePhone": "",
+    "website": "",
+    "address": "5X9M+JJC, Kheria Rd, Ayodhya Kunj-A, Dashrath Kunj - B, Jodha Bai ka Rauza, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Ayodhya Kunj-A",
+    "emergencyContact": "0562 240 0069",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Javitri+Devi+Memorial+Hospital/@27.1690504,77.9840264,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fd48aa1cc3:0x3ccb4375c086a6fe!8m2!3d27.1690504!4d77.9840264!16s%2Fg%2F1q666_d51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Javitri+Devi+Memorial+Hospital/@27.1690504,77.9840264,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fd48aa1cc3:0x3ccb4375c086a6fe!8m2!3d27.1690504!4d77.9840264!16s%2Fg%2F1q666_d51?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1690504,
+      "lng": 77.9840264,
+      "label": "Javitri Devi Memorial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "k-k-dental-clinic-agra",
+    "name": "K K DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "K K DENTAL CLINIC has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090746 64616",
+    "alternatePhone": "",
+    "website": "",
+    "address": "बाँके बिहारी कुंज, पुलिस चौकी के सामने , काली माता मंदिर के पास, Dahtaura, Shastripuram, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Shastripuram",
+    "landmark": "काली माता मंदिर के पास",
+    "emergencyContact": "090746 64616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/K+K+DENTAL+CLINIC/@27.1984705,77.9408896,17z/data=!3m1!4b1!4m6!3m5!1s0x397389931ccd9d65:0xa7a3cbc411eca690!8m2!3d27.1984705!4d77.9408896!16s%2Fg%2F11kq624l1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/K+K+DENTAL+CLINIC/@27.1984705,77.9408896,17z/data=!3m1!4b1!4m6!3m5!1s0x397389931ccd9d65:0xa7a3cbc411eca690!8m2!3d27.1984705!4d77.9408896!16s%2Fg%2F11kq624l1n?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1984705,
+      "lng": 77.9408896,
+      "label": "K K DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kadambari-hospital-agra",
+    "name": "Kadambari Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kadambari Hospital is a prominent hospital in Agra, known for structured tertiary care across Plastic Surgery In Agra. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0562 252 1470",
+    "alternatePhone": "",
+    "website": "",
+    "address": "43 Road, Amba Prasad Rd, Tota Ka Taal, Alam Ganj, Lohamandi, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Lohamandi",
+    "landmark": "Tota Ka Taal",
+    "emergencyContact": "0562 252 1470",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Plastic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kadambari+Hospital/@27.1971231,77.99299,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776b19d5699d:0xfd012b585e13f36a!8m2!3d27.1971231!4d77.99299!16s%2Fg%2F11cr_vd691?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kadambari+Hospital/@27.1971231,77.99299,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776b19d5699d:0xfd012b585e13f36a!8m2!3d27.1971231!4d77.99299!16s%2Fg%2F11cr_vd691?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1971231,
+      "lng": 77.99299,
+      "label": "Kadambari Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kamayani-hospital-agra",
+    "name": "Kamayani Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Kamayani Hospital brings together specialists for General Surgery In Agra. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "6X65+V88, Shastripuram, Bajrang Nagar, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Bajrang Nagar",
+    "landmark": "Bajrang Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Kamayani+Hospital/data=!4m7!3m6!1s0x3974778974c924b7:0x1ba9ae6bbaba0168!8m2!3d27.2121549!4d77.9583405!16s%2Fg%2F11c45gbdpr!19sChIJtyTJdIl3dDkRaAG6umuuqRs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kamayani+Hospital/data=!4m7!3m6!1s0x3974778974c924b7:0x1ba9ae6bbaba0168!8m2!3d27.2121549!4d77.9583405!16s%2Fg%2F11c45gbdpr!19sChIJtyTJdIl3dDkRaAG6umuuqRs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2121549,
+      "lng": 77.9583405,
+      "label": "Kamayani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "leelawati-hospital-agra",
+    "name": "Leelawati Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Leelawati Hospital offers coordinated hospital care with major focus on General Surgery In Agra. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0562 430 3401",
+    "alternatePhone": "",
+    "website": "",
+    "address": "192, near Kaila Devi crossing, Sector 5, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Lohamandi",
+    "landmark": "near Kaila Devi crossing, Sector 5, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "0562 430 3401",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Leelawati+Hospital/data=!4m7!3m6!1s0x397477f287884299:0x4f890430d1b22e4!8m2!3d27.2006922!4d77.9576748!16s%2Fg%2F11q2ykdsc7!19sChIJmUKIh_J3dDkR5CIbDUOQ-AQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Leelawati+Hospital/data=!4m7!3m6!1s0x397477f287884299:0x4f890430d1b22e4!8m2!3d27.2006922!4d77.9576748!16s%2Fg%2F11q2ykdsc7!19sChIJmUKIh_J3dDkR5CIbDUOQ-AQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2006922,
+      "lng": 77.9576748,
+      "label": "Leelawati Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "luxuria-wellness-best-skin-and-hair-clinic-in-agra-hair-prp-anti-aging-treatment-weight-loss-treatment-agra",
+    "name": "Luxuria Wellness- best skin & hair clinic in agra | Hair PRP | Anti-aging treatment | weight loss treatment",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Agra, Luxuria Wellness- best skin & hair clinic in agra | Hair PRP | Anti-aging treatment | weight loss treatment delivers integrated care across Cosmetic Surgery In Agra. Operational strengths including Google rating 4.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "073020 29944",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B-2/1 New Raja Mandi, Colony, near Canara Bank, Madiya Katra,, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Madiya Katra",
+    "landmark": "near Canara Bank, Madiya Katra,, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "073020 29944",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Luxuria+Wellness-+best+skin+%26+hair+clinic+in+agra+%7C+Hair+PRP+%7C+Anti-aging+treatment+%7C+weight+loss+treatment/@27.1967996,77.9942278,17z/data=!3m1!4b1!4m6!3m5!1s0x397477dc0b4178d9:0x105ac179d2c8abfb!8m2!3d27.1967996!4d77.9942278!16s%2Fg%2F11rd5fvxhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Luxuria+Wellness-+best+skin+%26+hair+clinic+in+agra+%7C+Hair+PRP+%7C+Anti-aging+treatment+%7C+weight+loss+treatment/@27.1967996,77.9942278,17z/data=!3m1!4b1!4m6!3m5!1s0x397477dc0b4178d9:0x105ac179d2c8abfb!8m2!3d27.1967996!4d77.9942278!16s%2Fg%2F11rd5fvxhp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1967996,
+      "lng": 77.9942278,
+      "label": "Luxuria Wellness- best skin & hair clinic in agra | Hair PRP | Anti-aging treatment | weight loss treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahajan-dental-and-maxillofacial-centre-agra",
+    "name": "Mahajan dental and maxillofacial centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Mahajan dental and maxillofacial centre for its strength in Oral Surgery In Agra and Maxillofacial Surgery. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080773 07818",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shop no UG2-2A nirmal heights opp. basant garden, near mental hospital, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "near mental hospital",
+    "landmark": "near mental hospital, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "080773 07818",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mahajan+dental+and+maxillofacial+centre/@27.2028456,77.9796644,17z/data=!3m1!4b1!4m6!3m5!1s0x397477b5ecb0bdc3:0xa955b2d1a98aac9!8m2!3d27.2028456!4d77.9796644!16s%2Fg%2F11fv4tmy73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahajan+dental+and+maxillofacial+centre/@27.2028456,77.9796644,17z/data=!3m1!4b1!4m6!3m5!1s0x397477b5ecb0bdc3:0xa955b2d1a98aac9!8m2!3d27.2028456!4d77.9796644!16s%2Fg%2F11fv4tmy73?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2028456,
+      "lng": 77.9796644,
+      "label": "Mahajan dental and maxillofacial centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mahajan-hospital-agra",
+    "name": "Mahajan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Mahajan Hospital is a prominent hospital in Agra, known for structured tertiary care across General Surgery In Agra. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "mhcagra@gmail.com",
+    "phone": "076177 39666",
+    "alternatePhone": "",
+    "website": "http://www.mahajanhospitalagra.com/",
+    "address": "146, Khatehna, Jaipur House Colony, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Jaipur House Colony",
+    "landmark": "Jaipur House Colony",
+    "emergencyContact": "076177 39666",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/Mahajan-Hospital-100086712282572/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/mahajan_hospital/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mahajan+Hospital/@27.1869615,77.9849495,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770e248e4b71:0x7dba1fba87b91e1c!8m2!3d27.1869615!4d77.9849495!16s%2Fg%2F12hm24154?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mahajan+Hospital/@27.1869615,77.9849495,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770e248e4b71:0x7dba1fba87b91e1c!8m2!3d27.1869615!4d77.9849495!16s%2Fg%2F12hm24154?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1869615,
+      "lng": 77.9849495,
+      "label": "Mahajan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "manthan-dental-clinic-by-lt-col-dr-s-k-sharma-retd-indian-army-agra",
+    "name": "Manthan Dental Clinic by Lt Col (Dr) S K Sharma, Retd Indian Army",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manthan Dental Clinic by Lt Col (Dr) S K Sharma, Retd Indian Army has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra and Dentist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079736 14832",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No F-6, First Floor, MANTHAN DENTAL CLINIC, Dwarika Grand Street, Agra Shamshabad Raja Kherah Marg, near Madusudan Petrol Pump, Shamsabad, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Shamsabad",
+    "landmark": "near Madusudan Petrol Pump, Shamsabad, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "079736 14832",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Manthan+Dental+Clinic+by+Lt+Col+(Dr)+S+K+Sharma,+Retd+Indian+Army/@27.1474918,78.0380587,17z/data=!3m1!4b1!4m6!3m5!1s0x397471065a1f7307:0x3457b820dfd5ba14!8m2!3d27.1474918!4d78.0380587!16s%2Fg%2F11vr92zyrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Manthan+Dental+Clinic+by+Lt+Col+(Dr)+S+K+Sharma,+Retd+Indian+Army/@27.1474918,78.0380587,17z/data=!3m1!4b1!4m6!3m5!1s0x397471065a1f7307:0x3457b820dfd5ba14!8m2!3d27.1474918!4d78.0380587!16s%2Fg%2F11vr92zyrg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1474918,
+      "lng": 78.0380587,
+      "label": "Manthan Dental Clinic by Lt Col (Dr) S K Sharma, Retd Indian Army",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "max-dental-clinic-agra",
+    "name": "MAX DENTAL CLINIC",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, MAX DENTAL CLINIC brings together specialists for Oral Surgery In Agra and Dentist. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096500 22631",
+    "alternatePhone": "",
+    "website": "",
+    "address": "max dental clinic ,pnb bank building, main, Fatehabad Rd, mughal ki puliya, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "mughal ki puliya",
+    "landmark": "main",
+    "emergencyContact": "096500 22631",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/MAX+DENTAL+CLINIC/@27.1604422,78.041692,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a5d247f661:0xf0e70bacf570fe7a!8m2!3d27.1604422!4d78.041692!16s%2Fg%2F11t2_1s42d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MAX+DENTAL+CLINIC/@27.1604422,78.041692,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a5d247f661:0xf0e70bacf570fe7a!8m2!3d27.1604422!4d78.041692!16s%2Fg%2F11t2_1s42d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1604422,
+      "lng": 78.041692,
+      "label": "MAX DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mayank-bansal-agra",
+    "name": "Mayank Bansal",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Mayank Bansal offers coordinated hospital care with major focus on Brain Surgery In Agra. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "mkiteindia@gmail.com",
+    "phone": "090684 51212",
+    "alternatePhone": "",
+    "website": "http://www.mkite.in/",
+    "address": "Balkeshwar Rd, opposite ITI college, near water works crossing, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "near water works crossing, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "emergencyContact": "090684 51212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mayank+Bansal/data=!4m7!3m6!1s0x397471ddd7dc77b7:0x77ee9283a2244925!8m2!3d27.2107668!4d78.0300884!16s%2Fg%2F11fksmgn71!19sChIJt3fc191xdDkRJUkkooOS7nc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mayank+Bansal/data=!4m7!3m6!1s0x397471ddd7dc77b7:0x77ee9283a2244925!8m2!3d27.2107668!4d78.0300884!16s%2Fg%2F11fksmgn71!19sChIJt3fc191xdDkRJUkkooOS7nc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2107668,
+      "lng": 78.0300884,
+      "label": "Mayank Bansal",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medha-clinic-agra",
+    "name": "MEDHA CLINIC",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, MEDHA CLINIC brings together specialists for Spine Neurosurgeon In Agra. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "36/404D/2, Bhagwan talkies, Bypass Rd, opposite Jai Hospital, Opposite Shree Talkies, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "New Agra Colony",
+    "landmark": "opposite Jai Hospital, Opposite Shree Talkies, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/MEDHA+CLINIC/data=!4m7!3m6!1s0x39747712e86e5937:0x1fcde5daa75ace00!8m2!3d27.2098857!4d78.0084973!16s%2Fg%2F11n5pd7w23!19sChIJN1lu6BJ3dDkRAM5ap9rlzR8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/MEDHA+CLINIC/data=!4m7!3m6!1s0x39747712e86e5937:0x1fcde5daa75ace00!8m2!3d27.2098857!4d78.0084973!16s%2Fg%2F11n5pd7w23!19sChIJN1lu6BJ3dDkRAM5ap9rlzR8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2098857,
+      "lng": 78.0084973,
+      "label": "MEDHA CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "monika-dental-clinic-agra",
+    "name": "Monika Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Monika Dental Clinic is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. Its infrastructure includes Google rating 4.3, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098975 02446",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B-30/1, Balkeshwar Colony, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Kamla Nagar",
+    "emergencyContact": "098975 02446",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Monika+Dental+Clinic/@27.2105389,78.0261519,17z/data=!3m1!4b1!4m6!3m5!1s0x3974718573052cfd:0x7933653721067e89!8m2!3d27.2105389!4d78.0261519!16s%2Fg%2F11f3xjtxf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Monika+Dental+Clinic/@27.2105389,78.0261519,17z/data=!3m1!4b1!4m6!3m5!1s0x3974718573052cfd:0x7933653721067e89!8m2!3d27.2105389!4d78.0261519!16s%2Fg%2F11f3xjtxf6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2105389,
+      "lng": 78.0261519,
+      "label": "Monika Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "my-smile-dental-clinic-best-orthodontist-in-agra-agra",
+    "name": "My Smile Dental Clinic - Best orthodontist in Agra",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, My Smile Dental Clinic - Best orthodontist in Agra delivers integrated care across Oral Surgery In Agra and Orthopaedics. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "0562 400 4122",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 8-9, Bagla Enclave, Complex, Sikandra-Bodla Rd, near Lakshmi Place, Near Kargil Petrol Pump, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "near Lakshmi Place, Near Kargil Petrol Pump, Sulabh Puram colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "0562 400 4122",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/My+Smile+Dental+Clinic+-+Best+orthodontist+in+Agra/@27.2001803,77.9541961,17z/data=!3m1!4b1!4m6!3m5!1s0x39747793a917a531:0x9e5ea54b61c86771!8m2!3d27.2001803!4d77.9541961!16s%2Fg%2F1q6j28_7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/My+Smile+Dental+Clinic+-+Best+orthodontist+in+Agra/@27.2001803,77.9541961,17z/data=!3m1!4b1!4m6!3m5!1s0x39747793a917a531:0x9e5ea54b61c86771!8m2!3d27.2001803!4d77.9541961!16s%2Fg%2F1q6j28_7h?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2001803,
+      "lng": 77.9541961,
+      "label": "My Smile Dental Clinic - Best orthodontist in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navdeep-hospital-and-research-center-agra",
+    "name": "Navdeep Hospital and Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Navdeep Hospital and Research Center brings together specialists for General Surgery In Agra. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "0562 221 2727",
+    "alternatePhone": "",
+    "website": "",
+    "address": "65, M.G Rd 2, Saket Colony, Shahganj, Agra, Uttar Pradesh 282010",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282010",
+    "locality": "Shahganj",
+    "landmark": "Saket Colony",
+    "emergencyContact": "0562 221 2727",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Navdeep+Hospital+and+Research+Center/data=!4m7!3m6!1s0x397477051eef1041:0xb9ccbf9be4735566!8m2!3d27.180316!4d77.9836268!16s%2Fg%2F1q65ck5c1!19sChIJQRDvHgV3dDkRZlVz5Ju_zLk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navdeep+Hospital+and+Research+Center/data=!4m7!3m6!1s0x397477051eef1041:0xb9ccbf9be4735566!8m2!3d27.180316!4d77.9836268!16s%2Fg%2F1q65ck5c1!19sChIJQRDvHgV3dDkRZlVz5Ju_zLk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.180316,
+      "lng": 77.9836268,
+      "label": "Navdeep Hospital and Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navdhara-cancer-centre-agra",
+    "name": "Navdhara Cancer Centre",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navdhara Cancer Centre is a prominent medical center in Agra, known for structured tertiary care across Cancer Surgery In Agra and Medical Center. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070789 21989",
+    "alternatePhone": "",
+    "website": "",
+    "address": "41, new, Master Plan Rd, Lajpat Kunj, Khandari, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Khandari",
+    "landmark": "Master Plan Rd",
+    "emergencyContact": "070789 21989",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Agra",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Navdhara+Cancer+Centre/data=!4m7!3m6!1s0x3974770ef96f02d9:0x5f07f1a4fef2d4a2!8m2!3d27.2040148!4d77.9932065!16s%2Fg%2F11l22cv11l!19sChIJ2QJv-Q53dDkRotTy_qTxB18?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navdhara+Cancer+Centre/data=!4m7!3m6!1s0x3974770ef96f02d9:0x5f07f1a4fef2d4a2!8m2!3d27.2040148!4d77.9932065!16s%2Fg%2F11l22cv11l!19sChIJ2QJv-Q53dDkRotTy_qTxB18?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2040148,
+      "lng": 77.9932065,
+      "label": "Navdhara Cancer Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navkeya-skin-clinic-best-skin-and-hair-specialist-in-agra-best-skin-and-hair-care-clinic-laser-hair-reduction-agra",
+    "name": "Navkeya Skin Clinic - Best Skin & Hair Specialist In Agra | Best Skin & Hair Care Clinic | Laser Hair Reduction",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Agra, Navkeya Skin Clinic - Best Skin & Hair Specialist In Agra | Best Skin & Hair Care Clinic | Laser Hair Reduction delivers integrated care across Cosmetic Surgery In Agra. The facility stands out for Google rating 4.6 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "navkeya@gmail.com",
+    "phone": "099974 71111",
+    "alternatePhone": "+91 79835 41414",
+    "website": "http://navkeya.com/",
+    "address": "1/192, B. M. Sarkar Road, Professors Colony, Delhi Gate, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Delhi Gate",
+    "landmark": "Professors Colony",
+    "emergencyContact": "+91 79835 41414",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/navkeyaskinclinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/navkeyaskinclinic/?hl=en",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Navkeya+Skin+Clinic+-+Best+Skin+%26+Hair+Specialist+In+Agra+%7C+Best+Skin+%26+Hair+Care+Clinic+%7C+Laser+Hair+Reduction/@27.1995052,77.9991089,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774073acaecb:0xe9e84e8d3319c2f6!8m2!3d27.1995052!4d77.9991089!16s%2Fg%2F11c2l1q991?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navkeya+Skin+Clinic+-+Best+Skin+%26+Hair+Specialist+In+Agra+%7C+Best+Skin+%26+Hair+Care+Clinic+%7C+Laser+Hair+Reduction/@27.1995052,77.9991089,17z/data=!3m1!4b1!4m6!3m5!1s0x3974774073acaecb:0xe9e84e8d3319c2f6!8m2!3d27.1995052!4d77.9991089!16s%2Fg%2F11c2l1q991?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1995052,
+      "lng": 77.9991089,
+      "label": "Navkeya Skin Clinic - Best Skin & Hair Specialist In Agra | Best Skin & Hair Care Clinic | Laser Hair Reduction",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nayati-hospital-trauma-and-acute-care-centre-agra",
+    "name": "Nayati Hospital - Trauma & Acute Care Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Nayati Hospital - Trauma & Acute Care Centre for its strength in General Surgery In Agra. Hospital capacity markers such as Google rating 3.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070555 62562",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Agra Mathura Highway, NH 19, near Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "near Sikandra",
+    "landmark": "near Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "070555 62562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4"
+    ],
+    "image": "https://www.google.com/maps/place/Nayati+Hospital+-+Trauma+%26+Acute+Care+Centre/@27.2124081,77.9583671,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a57a22e1:0x7132020495546212!8m2!3d27.2124081!4d77.9583671!16s%2Fg%2F11g9dgrzgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nayati+Hospital+-+Trauma+%26+Acute+Care+Centre/@27.2124081,77.9583671,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a57a22e1:0x7132020495546212!8m2!3d27.2124081!4d77.9583671!16s%2Fg%2F11g9dgrzgx?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2124081,
+      "lng": 77.9583671,
+      "label": "Nayati Hospital - Trauma & Acute Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nirmala-dental-clinic-agra",
+    "name": "Nirmala Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nirmala Dental Clinic is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094578 33949",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 6 R&D Market, 100 Feet Rd, near Sree ji Nursing Home, D block, Kalindi Vihar, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "Kalindi Vihar",
+    "landmark": "near Sree ji Nursing Home, D block, Kalindi Vihar, Agra, Uttar Pradesh 282006",
+    "emergencyContact": "094578 33949",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Nirmala+Dental+Clinic/@27.2211311,78.0629099,17z/data=!3m1!4b1!4m6!3m5!1s0x397471069c5bfa89:0x2de717953affb9a!8m2!3d27.2211311!4d78.0629099!16s%2Fg%2F11r7qvpbx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nirmala+Dental+Clinic/@27.2211311,78.0629099,17z/data=!3m1!4b1!4m6!3m5!1s0x397471069c5bfa89:0x2de717953affb9a!8m2!3d27.2211311!4d78.0629099!16s%2Fg%2F11r7qvpbx5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2211311,
+      "lng": 78.0629099,
+      "label": "Nirmala Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nuface-dental-clinic-agra",
+    "name": "Nuface Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Nuface Dental Clinic brings together specialists for Oral Surgery In Agra and Dentist. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "drpranjaligupta@gmail.com",
+    "phone": "092195 23330",
+    "alternatePhone": "",
+    "website": "https://nufaceclinicagra.com/",
+    "address": "Delhi Gate Rd, next to masjid, Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Hariparwat",
+    "emergencyContact": "092195 23330",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/nufaceclinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/nufaceclinicagra.123/",
+    "linkedin": "",
+    "youtube": "https://studio.youtube.com/channel/UCt7pCot-uCsu47ZwrwPYSmQ",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nuface+Dental+Clinic/@27.1962845,77.9979453,17z/data=!3m1!4b1!4m6!3m5!1s0x397477400c209e1f:0xb081a06455fbafc7!8m2!3d27.1962845!4d77.9979453!16s%2Fg%2F11b5pj1y9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nuface+Dental+Clinic/@27.1962845,77.9979453,17z/data=!3m1!4b1!4m6!3m5!1s0x397477400c209e1f:0xb081a06455fbafc7!8m2!3d27.1962845!4d77.9979453!16s%2Fg%2F11b5pj1y9d?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1962845,
+      "lng": 77.9979453,
+      "label": "Nuface Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-care-centre-agra-agra",
+    "name": "Om Dental Care Centre Agra",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Om Dental Care Centre Agra is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088814 91212",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Aakanksha shukla, Bhawna multiplex, Dr, Main road, above manoj juice, Near Kargil Petrol Pump, Kar Kunj Chauraha, facing, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Near Kargil Petrol Pump, Kar Kunj Chauraha, facing, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "088814 91212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Dental+Care+Centre+Agra/@27.2042962,77.9537797,17z/data=!3m1!4b1!4m6!3m5!1s0x397477bab7551f91:0xfe7d0256f36631b3!8m2!3d27.2042962!4d77.9537797!16s%2Fg%2F11fxxr7z05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Dental+Care+Centre+Agra/@27.2042962,77.9537797,17z/data=!3m1!4b1!4m6!3m5!1s0x397477bab7551f91:0xfe7d0256f36631b3!8m2!3d27.2042962!4d77.9537797!16s%2Fg%2F11fxxr7z05?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2042962,
+      "lng": 77.9537797,
+      "label": "Om Dental Care Centre Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-medical-complex-agra",
+    "name": "OM MEDICAL COMPLEX",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, OM MEDICAL COMPLEX offers coordinated hospital care with major focus on General Surgery In Agra. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070608 91073",
+    "alternatePhone": "",
+    "website": "",
+    "address": "op, Om Medical Complex, Rbs tecnical management college, 37, Bhagirathi Devi Marg, Nasirabad Colony, Khandari, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Khandari",
+    "landmark": "Rbs tecnical management college",
+    "emergencyContact": "070608 91073",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/OM+MEDICAL+COMPLEX/@27.2072172,77.9933319,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770290e3c3eb:0x37a38f9dc369e8a6!8m2!3d27.2072172!4d77.9933319!16s%2Fg%2F11qnhth6qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/OM+MEDICAL+COMPLEX/@27.2072172,77.9933319,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770290e3c3eb:0x37a38f9dc369e8a6!8m2!3d27.2072172!4d77.9933319!16s%2Fg%2F11qnhth6qq?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2072172,
+      "lng": 77.9933319,
+      "label": "OM MEDICAL COMPLEX",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "oro-brace-dental-care-agra",
+    "name": "Oro-Brace Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Oro-Brace Dental Care for its strength in Oral Surgery In Agra. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079832 95010",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bishambar Nath Jain House, Police Station, 19/8/1-1A, Khatena Road, near Loha Mandi, Hanuman Nagar, Jaipur House Colony, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Jaipur House Colony",
+    "landmark": "near Loha Mandi, Hanuman Nagar, Jaipur House Colony, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "079832 95010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Oro-Brace+Dental+Care/@27.1889097,77.985471,17z/data=!3m1!4b1!4m6!3m5!1s0x397477e2dd6d88ff:0xe72937d9bf277420!8m2!3d27.1889097!4d77.985471!16s%2Fg%2F11tb5nykch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Oro-Brace+Dental+Care/@27.1889097,77.985471,17z/data=!3m1!4b1!4m6!3m5!1s0x397477e2dd6d88ff:0xe72937d9bf277420!8m2!3d27.1889097!4d77.985471!16s%2Fg%2F11tb5nykch?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1889097,
+      "lng": 77.985471,
+      "label": "Oro-Brace Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pankhuri-dental-care-centre-agra",
+    "name": "Pankhuri Dental Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Pankhuri Dental Care Centre for its strength in Oral Surgery In Agra. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095574 65465",
+    "alternatePhone": "",
+    "website": "https://pankhuri-dental-care.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+    "address": "110-B, Gandhi Nagar Rd, Sultan Ganj, Gandhi Nagar, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Sultan Ganj",
+    "emergencyContact": "095574 65465",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pankhuri+Dental+Care+Centre/@27.2067224,78.0129431,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a877f6a7:0x7ba7830fb922ec25!8m2!3d27.2067224!4d78.0129431!16s%2Fg%2F11hym66m8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pankhuri+Dental+Care+Centre/@27.2067224,78.0129431,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a877f6a7:0x7ba7830fb922ec25!8m2!3d27.2067224!4d78.0129431!16s%2Fg%2F11hym66m8m?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2067224,
+      "lng": 78.0129431,
+      "label": "Pankhuri Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "paramsukh-dental-centre-agra",
+    "name": "Paramsukh Dental Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Paramsukh Dental Centre offers coordinated hospital care with major focus on Oral Surgery In Agra. Its infrastructure includes Google rating 3.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097194 97161",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Govind Kunj, Dashrath Kunj - B, Jodha Bai ka Rauza, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Jodha Bai ka Rauza",
+    "emergencyContact": "097194 97161",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Paramsukh+Dental+Centre/@27.1687114,77.9841589,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fd21f857d7:0xa5d78a4e0c19c903!8m2!3d27.1687114!4d77.9841589!16s%2Fg%2F1q660x_6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Paramsukh+Dental+Centre/@27.1687114,77.9841589,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fd21f857d7:0xa5d78a4e0c19c903!8m2!3d27.1687114!4d77.9841589!16s%2Fg%2F1q660x_6p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1687114,
+      "lng": 77.9841589,
+      "label": "Paramsukh Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parwati-maxillofacial-hospital-agra",
+    "name": "Parwati Maxillofacial Hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, Parwati Maxillofacial Hospital delivers integrated care across Oral Surgery In Agra and Maxillofacial Surgery. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099274 17010",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MMIG 87 Fatehabad Road, Taj Nagri Rd, Phase-I, Phase-2, Basai Khurd, Tajganj, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "Tajganj",
+    "landmark": "Phase-I",
+    "emergencyContact": "099274 17010",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Parwati+Maxillofacial+Hospital/@27.1612023,78.054042,17z/data=!3m1!4b1!4m6!3m5!1s0x3974710e02dbc555:0xd85e87713357cede!8m2!3d27.1612023!4d78.054042!16s%2Fg%2F1z44s2kkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parwati+Maxillofacial+Hospital/@27.1612023,78.054042,17z/data=!3m1!4b1!4m6!3m5!1s0x3974710e02dbc555:0xd85e87713357cede!8m2!3d27.1612023!4d78.054042!16s%2Fg%2F1z44s2kkv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1612023,
+      "lng": 78.054042,
+      "label": "Parwati Maxillofacial Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pooja-dental-clinic-agra",
+    "name": "Pooja Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Pooja Dental Clinic brings together specialists for Oral Surgery In Agra and Dentist. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "092191 65765",
+    "alternatePhone": "",
+    "website": "",
+    "address": "RV Complex, Devri Rd, near Ganesh Nursing Home, Nagla Bhawani Singh, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Nagla Bhawani Singh",
+    "landmark": "near Ganesh Nursing Home, Nagla Bhawani Singh, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "092191 65765",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Pooja+Dental+Clinic/@27.1435367,78.0140313,17z/data=!3m1!4b1!4m6!3m5!1s0x397476b3de4aaf97:0x3369b381767d1f28!8m2!3d27.1435367!4d78.0140313!16s%2Fg%2F11b5pkv_1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pooja+Dental+Clinic/@27.1435367,78.0140313,17z/data=!3m1!4b1!4m6!3m5!1s0x397476b3de4aaf97:0x3369b381767d1f28!8m2!3d27.1435367!4d78.0140313!16s%2Fg%2F11b5pkv_1_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1435367,
+      "lng": 78.0140313,
+      "label": "Pooja Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prisha-ivf-agra",
+    "name": "Prisha IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prisha IVF has built a strong reputation in Agra for multidisciplinary treatment pathways covering IVF In Agra and Fertility Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "447, Road Shastri Puram, Gorakhpuri Colony, Paschim Puri, Dahtaura, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Gorakhpuri Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Prisha+IVF/data=!4m7!3m6!1s0x397477444d3bbe2f:0x9985f757729e8ee1!8m2!3d27.201682!4d77.942096!16s%2Fg%2F11z5rcfdvl!19sChIJL747TUR3dDkR4Y6eclf3hZk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prisha+IVF/data=!4m7!3m6!1s0x397477444d3bbe2f:0x9985f757729e8ee1!8m2!3d27.201682!4d77.942096!16s%2Fg%2F11z5rcfdvl!19sChIJL747TUR3dDkR4Y6eclf3hZk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.201682,
+      "lng": 77.942096,
+      "label": "Prisha IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "purushottam-das-savitri-devi-cancer-care-and-research-center-agra",
+    "name": "Purushottam Das Savitri Devi Cancer Care And Research Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Purushottam Das Savitri Devi Cancer Care And Research Center brings together specialists for Cancer Surgery In Agra. Operational strengths including Google rating 3.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "pscrc@rediffmail.com",
+    "phone": "093598 15531",
+    "alternatePhone": "+91 82390 00222",
+    "website": "https://www.pscrc.in/",
+    "address": "Neerav Nikunj, 605, Delhi Bypass Road, Bain Bazar, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Delhi Bypass Road",
+    "emergencyContact": "+91 82390 00222",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/pscrcagra/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/pscrc_cancer_hospital/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Purushottam+Das+Savitri+Devi+Cancer+Care+And+Research+Center/data=!4m7!3m6!1s0x397477890826c715:0x7466d46a8d6dd1f5!8m2!3d27.2127618!4d77.9587676!16s%2Fg%2F11bwkzm5by!19sChIJFccmCIl3dDkR9dFtjWrUZnQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Purushottam+Das+Savitri+Devi+Cancer+Care+And+Research+Center/data=!4m7!3m6!1s0x397477890826c715:0x7466d46a8d6dd1f5!8m2!3d27.2127618!4d77.9587676!16s%2Fg%2F11bwkzm5by!19sChIJFccmCIl3dDkR9dFtjWrUZnQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2127618,
+      "lng": 77.9587676,
+      "label": "Purushottam Das Savitri Devi Cancer Care And Research Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pushpanjali-cancer-care-institute-agra",
+    "name": "Pushpanjali Cancer Care Institute",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Pushpanjali Cancer Care Institute for its strength in Cancer Surgery In Agra and Cancer Treatment Center. With public-facing highlights like Google rating 3.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0562 402 4000",
+    "alternatePhone": "",
+    "website": "https://www.pushpanjalihospital.in/service/oncology-cancer/",
+    "address": "Pushpanjali Palace, Delhi Gate Rd, near Raja Ki Mandi Railway Station Road, Station, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Station",
+    "landmark": "near Raja Ki Mandi Railway Station Road, Station, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "0562 402 4000",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Agra",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pushpanjali+Cancer+Care+Institute/data=!4m7!3m6!1s0x3974775917639815:0x2293ffcadf4b6a31!8m2!3d27.1968512!4d77.9971595!16s%2Fg%2F11t0053grs!19sChIJFZhjF1l3dDkRMWpL38r_kyI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pushpanjali+Cancer+Care+Institute/data=!4m7!3m6!1s0x3974775917639815:0x2293ffcadf4b6a31!8m2!3d27.1968512!4d77.9971595!16s%2Fg%2F11t0053grs!19sChIJFZhjF1l3dDkRMWpL38r_kyI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1968512,
+      "lng": 77.9971595,
+      "label": "Pushpanjali Cancer Care Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pushpanjali-hospital-and-research-centre-agra",
+    "name": "Pushpanjali Hospital & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Pushpanjali Hospital & Research Centre offers coordinated hospital care with major focus on General Surgery In Agra. With public-facing highlights like Google rating 4.3 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@pushpanjalihospital.in",
+    "phone": "075054 00400",
+    "alternatePhone": "+91 89548 93914",
+    "website": "https://www.pushpanjalihospital.in/",
+    "address": "Pushpanjali Hospital & Research Centre, Delhi Gate Rd, Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Hariparwat",
+    "emergencyContact": "+91 89548 93914",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/PushpanjaliHospitalAgra/",
+    "twitter": "https://x.com/PHRCAGRA",
+    "instagram": "https://www.instagram.com/pushpanjali_hospital_agra",
+    "linkedin": "https://www.linkedin.com/in/pushpanjali-hospital-and-research-centre-733834129/",
+    "youtube": "https://www.youtube.com/@pushpanjalihospital4213",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pushpanjali+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3974774018e3e6f1:0xd4d6e1b23ab856bb!8m2!3d27.1969072!4d77.9971866!16s%2Fg%2F1tg6hz4p!19sChIJ8ebjGEB3dDkRu1a4OrLh1tQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pushpanjali+Hospital+%26+Research+Centre/data=!4m7!3m6!1s0x3974774018e3e6f1:0xd4d6e1b23ab856bb!8m2!3d27.1969072!4d77.9971866!16s%2Fg%2F1tg6hz4p!19sChIJ8ebjGEB3dDkRu1a4OrLh1tQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1969072,
+      "lng": 77.9971866,
+      "label": "Pushpanjali Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-r-medicare-and-heart-centre-agra",
+    "name": "R R MEDICARE AND HEART CENTRE",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose R R MEDICARE AND HEART CENTRE for its strength in General Surgery In Agra and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078956 57198",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-47, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Kamla Nagar",
+    "emergencyContact": "078956 57198",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/R+R+MEDICARE+AND+HEART+CENTRE/@27.2087381,78.0260715,17z/data=!3m1!4b1!4m6!3m5!1s0x397470b1edde4a63:0x1cc7473464ccb878!8m2!3d27.2087381!4d78.0260715!16s%2Fg%2F11f2wp7bvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R+R+MEDICARE+AND+HEART+CENTRE/@27.2087381,78.0260715,17z/data=!3m1!4b1!4m6!3m5!1s0x397470b1edde4a63:0x1cc7473464ccb878!8m2!3d27.2087381!4d78.0260715!16s%2Fg%2F11f2wp7bvc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2087381,
+      "lng": 78.0260715,
+      "label": "R R MEDICARE AND HEART CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-s-dental-and-maxillofacial-cosmetic-center-agra",
+    "name": "R.S Dental & Maxillofacial Cosmetic Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "R.S Dental & Maxillofacial Cosmetic Center is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra and Maxillofacial Surgery. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@rsdentalagra.com",
+    "phone": "070600 24101",
+    "alternatePhone": "",
+    "website": "https://drsoniachadhary.com/",
+    "address": "Swamibagh, DayalBagh, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "DayalBagh",
+    "landmark": "Agra",
+    "emergencyContact": "070600 24101",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "https://codemagnetix.com",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/R.S+Dental+%26+Maxillofacial+Cosmetic+Center/@27.2195544,78.0077656,17z/data=!3m1!4b1!4m6!3m5!1s0x3974775806c828e3:0x748bd763365dbc64!8m2!3d27.2195544!4d78.0077656!16s%2Fg%2F11ggnf_34g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.S+Dental+%26+Maxillofacial+Cosmetic+Center/@27.2195544,78.0077656,17z/data=!3m1!4b1!4m6!3m5!1s0x3974775806c828e3:0x748bd763365dbc64!8m2!3d27.2195544!4d78.0077656!16s%2Fg%2F11ggnf_34g?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2195544,
+      "lng": 78.0077656,
+      "label": "R.S Dental & Maxillofacial Cosmetic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "r-s-dental-and-maxillofacial-cosmetic-center-agra",
+    "name": "R.S Dental & Maxillofacial cosmetic Center",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, R.S Dental & Maxillofacial cosmetic Center brings together specialists for Oral Surgery In Agra, Dental Implants Periodontist, and Maxillofacial Surgery. The facility stands out for Google rating 5.0 and 2+ public reviews, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084304 92290",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Heera Bagh Near Bhagat Halwai Dayalbagh Road, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Heera Bagh Near Bhagat Halwai Dayalbagh Road",
+    "landmark": "Near Bhagat Halwai Dayalbagh Road, Agra, Uttar Pradesh 282005",
+    "emergencyContact": "084304 92290",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dental Implants Periodontist",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "2+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/R.S+Dental+%26+Maxillofacial+cosmetic+Center/data=!4m7!3m6!1s0x3974775820702ff5:0x66739f326090c8fa!8m2!3d27.2195285!4d78.0077898!16s%2Fg%2F11c53hmgn6!19sChIJ9S9wIFh3dDkR-siQYDKfc2Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/R.S+Dental+%26+Maxillofacial+cosmetic+Center/data=!4m7!3m6!1s0x3974775820702ff5:0x66739f326090c8fa!8m2!3d27.2195285!4d78.0077898!16s%2Fg%2F11c53hmgn6!19sChIJ9S9wIFh3dDkR-siQYDKfc2Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2195285,
+      "lng": 78.0077898,
+      "label": "R.S Dental & Maxillofacial cosmetic Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rainbow-ivf-agra",
+    "name": "Rainbow IVF",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Rainbow IVF brings together specialists for IVF In Agra and Fertility Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "rainbowivf@gmail.com",
+    "phone": "070603 01888",
+    "alternatePhone": "+91 562 260 0537",
+    "website": "http://www.rainbowivf.in/",
+    "address": "National Highway 2 Near Guru Ka Tal Gurudwara, Bain Bazar, Maharishi Puram Colony, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Maharishi Puram Colony",
+    "landmark": "Near Guru Ka Tal Gurudwara, Bain Bazar, Maharishi Puram Colony, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "+91 562 260 0537",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/RAINBOWIVF.ORG?fref=ts",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rainbow+IVF/data=!4m7!3m6!1s0x39747788a03aaab7:0xab8fcdab33c79df6!8m2!3d27.21148!4d77.96231!16s%2Fg%2F11b88npfw2!19sChIJt6o6oIh3dDkR9p3HM6vNj6s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rainbow+IVF/data=!4m7!3m6!1s0x39747788a03aaab7:0xab8fcdab33c79df6!8m2!3d27.21148!4d77.96231!16s%2Fg%2F11b88npfw2!19sChIJt6o6oIh3dDkR9p3HM6vNj6s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.21148,
+      "lng": 77.96231,
+      "label": "Rainbow IVF",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajnandini-clinics-agra",
+    "name": "Rajnandini Clinics",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, Rajnandini Clinics delivers integrated care across Oral Surgery In Agra. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099973 98907",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Grives Complex, 1/61, Delhi Gate Rd, opposite Goverdhan hotel, Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "opposite Goverdhan hotel, Hariparwat, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "099973 98907",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rajnandini+Clinics/@27.196218,77.9980393,17z/data=!3m1!4b1!4m6!3m5!1s0x397477d759336bbf:0x50e4dcc4ad3b0e6f!8m2!3d27.196218!4d77.9980393!16s%2Fg%2F11rsjzmjhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajnandini+Clinics/@27.196218,77.9980393,17z/data=!3m1!4b1!4m6!3m5!1s0x397477d759336bbf:0x50e4dcc4ad3b0e6f!8m2!3d27.196218!4d77.9980393!16s%2Fg%2F11rsjzmjhv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.196218,
+      "lng": 77.9980393,
+      "label": "Rajnandini Clinics",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ravi-women-s-hospital-and-indira-ivf-agra-best-laparoscopic-surgery-and-fertility-center-in-agra-agra",
+    "name": "Ravi Women's Hospital & Indira IVF Agra- Best Laparoscopic surgery & Fertility Center in Agra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Ravi Women's Hospital & Indira IVF Agra- Best Laparoscopic surgery & Fertility Center in Agra for its strength in General Surgery In Agra, Women and Child Care, and Fertility Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@ravihospital.org",
+    "phone": "070888 51666",
+    "alternatePhone": "99170 92227",
+    "website": "http://ravihospital.org/",
+    "address": "No.1/55, Delhi Gate, Near, Bridge, Madiya Katra,, Hariparwat, Chauraha, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Chauraha",
+    "landmark": "Near",
+    "emergencyContact": "99170 92227",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndiraRaviIVF/",
+    "twitter": "",
+    "instagram": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/ravihospitals/%3Fhl%3Den&ved=2ahUKEwib2rWWuPSGAxUlslYBHUSqCB8QFnoECA4QAw&usg=AOvVaw3vV5E5QftdLQlrmAaiDBvb",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/user/shivasization",
+    "specialties": [
+      "General Surgery In Agra",
+      "Women and Child Care",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ravi+Women's+Hospital+%26+Indira+IVF+Agra-+Best+Laparoscopic+surgery+%26+Fertility+Center+in+Agra/@27.1971529,77.9959292,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776a964fa0d7:0x76a186d5726a6195!8m2!3d27.1971529!4d77.9959292!16s%2Fg%2F11b5yl3hvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ravi+Women's+Hospital+%26+Indira+IVF+Agra-+Best+Laparoscopic+surgery+%26+Fertility+Center+in+Agra/@27.1971529,77.9959292,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776a964fa0d7:0x76a186d5726a6195!8m2!3d27.1971529!4d77.9959292!16s%2Fg%2F11b5yl3hvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1971529,
+      "lng": 77.9959292,
+      "label": "Ravi Women's Hospital & Indira IVF Agra- Best Laparoscopic surgery & Fertility Center in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rejuve-agra",
+    "name": "Rejuve",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted skin care clinic in Agra, Rejuve delivers integrated care across Cosmetic Surgery In Agra. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091053 92196",
+    "alternatePhone": "",
+    "website": "https://www.rejuve.agra.com/",
+    "address": "72-A Professor's Colony, Hariparwat, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Hariparwat",
+    "landmark": "Agra",
+    "emergencyContact": "091053 92196",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rejuve/@27.1966379,77.99885,17z/data=!3m1!4b1!4m6!3m5!1s0x397477406fffffff:0x1afff189451432fb!8m2!3d27.1966379!4d77.99885!16s%2Fg%2F11hf80b_z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rejuve/@27.1966379,77.99885,17z/data=!3m1!4b1!4m6!3m5!1s0x397477406fffffff:0x1afff189451432fb!8m2!3d27.1966379!4d77.99885!16s%2Fg%2F11hf80b_z2?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1966379,
+      "lng": 77.99885,
+      "label": "Rejuve",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rj-dental-world-agra",
+    "name": "RJ Dental World",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, RJ Dental World delivers integrated care across Oral Surgery In Agra. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080777 00758",
+    "alternatePhone": "",
+    "website": "https://www.rjdentalworld.com/",
+    "address": "60 A, Lajpat Kunj, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "080777 00758",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/RJ+Dental+World/@27.2016672,77.9972116,17z/data=!3m1!4b1!4m6!3m5!1s0x397477aad5a34d31:0x5640af7d93a25e36!8m2!3d27.2016672!4d77.9972116!16s%2Fg%2F11ss4l5n3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RJ+Dental+World/@27.2016672,77.9972116,17z/data=!3m1!4b1!4m6!3m5!1s0x397477aad5a34d31:0x5640af7d93a25e36!8m2!3d27.2016672!4d77.9972116!16s%2Fg%2F11ss4l5n3j?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2016672,
+      "lng": 77.9972116,
+      "label": "RJ Dental World",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "s-r-medical-institute-and-research-centre-agra",
+    "name": "S.R. Medical Institute & Research Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "S.R. Medical Institute & Research Centre has built a strong reputation in Agra for multidisciplinary treatment pathways covering General Surgery In Agra. Hospital capacity markers such as Google rating 3.0 and 594+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093599 01993",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lauries complex, Namner Rd, near Sai ki Takiya x-ing, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "near Sai ki Takiya x-ing, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "093599 01993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0",
+      "594+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/S.R.+Medical+Institute+%26+Research+Centre/data=!4m7!3m6!1s0x397476d9ee826d13:0xcf3cef068506c738!8m2!3d27.1685827!4d78.0070281!16s%2Fg%2F1td5djdy!19sChIJE22C7tl2dDkROMcGhQbvPM8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/S.R.+Medical+Institute+%26+Research+Centre/data=!4m7!3m6!1s0x397476d9ee826d13:0xcf3cef068506c738!8m2!3d27.1685827!4d78.0070281!16s%2Fg%2F1td5djdy!19sChIJE22C7tl2dDkROMcGhQbvPM8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1685827,
+      "lng": 78.0070281,
+      "label": "S.R. Medical Institute & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 594,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sapphire-hospital-agra-agra",
+    "name": "Sapphire Hospital Agra",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sapphire Hospital Agra is a prominent heart hospital in Agra, known for structured tertiary care across Heart Surgery In Agra and Cardiac Care. With public-facing highlights like Google rating 3.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080063 19990",
+    "alternatePhone": "",
+    "website": "",
+    "address": "186-A, Ajmer Rd, Adarsh Nagar, Pratap Pura, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "Adarsh Nagar",
+    "emergencyContact": "080063 19990",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Agra",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sapphire+Hospital+Agra/data=!4m7!3m6!1s0x397476d0ddd08cfb:0xfba83022354f647a!8m2!3d27.1668495!4d78.0103137!16s%2Fg%2F11fxvp_g19!19sChIJ-4zQ3dB2dDkRemRPNSIwqPs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sapphire+Hospital+Agra/data=!4m7!3m6!1s0x397476d0ddd08cfb:0xfba83022354f647a!8m2!3d27.1668495!4d78.0103137!16s%2Fg%2F11fxvp_g19!19sChIJ-4zQ3dB2dDkRemRPNSIwqPs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1668495,
+      "lng": 78.0103137,
+      "label": "Sapphire Hospital Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saraswat-hospital-plastic-cosmetic-and-hair-transplant-surgery-centre-agra",
+    "name": "Saraswat Hospital - Plastic, Cosmetic & Hair Transplant surgery centre.",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Saraswat Hospital - Plastic, Cosmetic & Hair Transplant surgery centre. brings together specialists for Plastic Surgery In Agra. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "saraswathospitalagra@gmail.com",
+    "phone": "092583 86320",
+    "alternatePhone": "+91 96900 39999",
+    "website": "https://www.saraswathospital.com/",
+    "address": "55, Vimal Vihar, Near Hillman Public School, Sikandra Bodla Road, Shastripuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Near Hillman Public School, Sikandra Bodla Road, Shastripuram, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "+91 96900 39999",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/hairtransplantsresult",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/hairlossandhairtransplant",
+    "linkedin": "https://in.linkedin.com/company/hairtransplantresults",
+    "youtube": "https://www.youtube.com/@Hairlosstreat",
+    "specialties": [
+      "Plastic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saraswat+Hospital+-+Plastic,+Cosmetic+%26+Hair+Transplant+surgery+centre./@27.2056492,77.9453648,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f22e436ab1:0x800327ccfbe2938!8m2!3d27.2056492!4d77.9453648!16s%2Fg%2F1thw0kvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saraswat+Hospital+-+Plastic,+Cosmetic+%26+Hair+Transplant+surgery+centre./@27.2056492,77.9453648,17z/data=!3m1!4b1!4m6!3m5!1s0x397477f22e436ab1:0x800327ccfbe2938!8m2!3d27.2056492!4d77.9453648!16s%2Fg%2F1thw0kvr?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2056492,
+      "lng": 77.9453648,
+      "label": "Saraswat Hospital - Plastic, Cosmetic & Hair Transplant surgery centre.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarkar-nursing-home-and-uma-international-ivf-hospital-agra",
+    "name": "Sarkar Nursing Home & Uma International Ivf Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Sarkar Nursing Home & Uma International Ivf Hospital for its strength in General Surgery In Agra and Fertility Care. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "079832 02082",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Delhi Gate Rd, Professors Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Professors Colony",
+    "emergencyContact": "079832 02082",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Sarkar+Nursing+Home+%26+Uma+International+Ivf+Hospital/data=!4m7!3m6!1s0x3974774066de4559:0x5c19f37c63ee63b9!8m2!3d27.1985755!4d77.9964161!16s%2Fg%2F124ycq2yc!19sChIJWUXeZkB3dDkRuWPuY3zzGVw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarkar+Nursing+Home+%26+Uma+International+Ivf+Hospital/data=!4m7!3m6!1s0x3974774066de4559:0x5c19f37c63ee63b9!8m2!3d27.1985755!4d77.9964161!16s%2Fg%2F124ycq2yc!19sChIJWUXeZkB3dDkRuWPuY3zzGVw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1985755,
+      "lng": 77.9964161,
+      "label": "Sarkar Nursing Home & Uma International Ivf Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarva-hospital-agra",
+    "name": "Sarva hospital",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Sarva hospital offers coordinated hospital care with major focus on Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.9 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "063979 89846",
+    "alternatePhone": "",
+    "website": "",
+    "address": "F10, Bypass Rd, opp. Langre Ki Chowki, Professors Colony, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "opp. Langre Ki Chowki",
+    "emergencyContact": "063979 89846",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sarva+hospital/data=!4m7!3m6!1s0x3974715f26428049:0xaddc2db5712610eb!8m2!3d27.2080002!4d78.0251599!16s%2Fg%2F11thgbn4wc!19sChIJSYBCJl9xdDkR6xAmcbUt3K0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarva+hospital/data=!4m7!3m6!1s0x3974715f26428049:0xaddc2db5712610eb!8m2!3d27.2080002!4d78.0251599!16s%2Fg%2F11thgbn4wc!19sChIJSYBCJl9xdDkR6xAmcbUt3K0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2080002,
+      "lng": 78.0251599,
+      "label": "Sarva hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarvoday-hospital-kamlanagar-agra-agra",
+    "name": "Sarvoday Hospital, KamlaNagar, Agra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Sarvoday Hospital, KamlaNagar, Agra brings together specialists for General Surgery In Agra. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "093681 58483",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G-11, National Highway 2, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Kamla Nagar",
+    "emergencyContact": "093681 58483",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Sarvoday+Hospital,+KamlaNagar,+Agra/data=!4m7!3m6!1s0x3974717303a1aacf:0x9dae0ada6ff78cef!8m2!3d27.2077503!4d78.0273143!16s%2Fg%2F11kyp79qc4!19sChIJz6qhA3NxdDkR74z3b9oKrp0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarvoday+Hospital,+KamlaNagar,+Agra/data=!4m7!3m6!1s0x3974717303a1aacf:0x9dae0ada6ff78cef!8m2!3d27.2077503!4d78.0273143!16s%2Fg%2F11kyp79qc4!19sChIJz6qhA3NxdDkR74z3b9oKrp0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2077503,
+      "lng": 78.0273143,
+      "label": "Sarvoday Hospital, KamlaNagar, Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "satyam-dental-care-agra",
+    "name": "Satyam Dental Care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Satyam Dental Care has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra and Dentist. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "drnikhilpandit@gmail.com",
+    "phone": "096754 30803",
+    "alternatePhone": "",
+    "website": "http://satyamdentalcare.com/",
+    "address": "The Signature Apartment, Central Park Rd, Avas Vikas Colony, Lohamandi, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Lohamandi",
+    "landmark": "Avas Vikas Colony",
+    "emergencyContact": "096754 30803",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Satyam+Dental+Care/@27.1957795,77.9617607,17z/data=!3m1!4b1!4m6!3m5!1s0x397477977f4fc2a5:0x6a8e50b9478be5a3!8m2!3d27.1957795!4d77.9617607!16s%2Fg%2F1q6jz5hzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Satyam+Dental+Care/@27.1957795,77.9617607,17z/data=!3m1!4b1!4m6!3m5!1s0x397477977f4fc2a5:0x6a8e50b9478be5a3!8m2!3d27.1957795!4d77.9617607!16s%2Fg%2F1q6jz5hzg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1957795,
+      "lng": 77.9617607,
+      "label": "Satyam Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sculpte-by-plasticare-agra",
+    "name": "Sculpte by Plasticare",
+    "type": "Plastic Surgery Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sculpte by Plasticare is a prominent plastic surgery clinic in Agra, known for structured tertiary care across Cosmetic Surgery In Agra. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "626F+R5Q, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Kamla Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sculpte+by+Plasticare/@27.2120784,78.0229844,17z/data=!3m1!4b1!4m6!3m5!1s0x39747100687f350d:0x4a73e66d79f9b3bc!8m2!3d27.2120784!4d78.0229844!16s%2Fg%2F11mrcx03g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sculpte+by+Plasticare/@27.2120784,78.0229844,17z/data=!3m1!4b1!4m6!3m5!1s0x39747100687f350d:0x4a73e66d79f9b3bc!8m2!3d27.2120784!4d78.0229844!16s%2Fg%2F11mrcx03g6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2120784,
+      "lng": 78.0229844,
+      "label": "Sculpte by Plasticare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "seeds-of-innocens-ivf-centre-best-ivf-centre-in-agra-agra",
+    "name": "Seeds of Innocens IVF Centre | Best IVF Centre In Agra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Seeds of Innocens IVF Centre | Best IVF Centre In Agra brings together specialists for IVF In Agra and Fertility Care. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@seedsofinnocens.com",
+    "phone": "098103 50512",
+    "alternatePhone": "+91 92893 11767",
+    "website": "https://www.seedsofinnocens.com/",
+    "address": "1st Floor, Shankar Point, Block No.9/4, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Block No.9/4",
+    "emergencyContact": "+91 92893 11767",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/seedsofinnocens/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/seedsofinnocensivf",
+    "linkedin": "https://www.linkedin.com/company/seedsofinnocens",
+    "youtube": "https://www.youtube.com/@seedsofinnocens",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+%7C+Best+IVF+Centre+In+Agra/data=!4m7!3m6!1s0x39747777e3e69bc1:0xa0af82ae6a520b65!8m2!3d27.2001696!4d78.0047521!16s%2Fg%2F11vsz6ynbw!19sChIJwZvm43d3dDkRZQtSaq6Cr6A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Seeds+of+Innocens+IVF+Centre+%7C+Best+IVF+Centre+In+Agra/data=!4m7!3m6!1s0x39747777e3e69bc1:0xa0af82ae6a520b65!8m2!3d27.2001696!4d78.0047521!16s%2Fg%2F11vsz6ynbw!19sChIJwZvm43d3dDkRZQtSaq6Cr6A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2001696,
+      "lng": 78.0047521,
+      "label": "Seeds of Innocens IVF Centre | Best IVF Centre In Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shah-dental-clinic-agra",
+    "name": "Shah Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Shah Dental Clinic for its strength in Oral Surgery In Agra. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "093191 18858",
+    "alternatePhone": "",
+    "website": "",
+    "address": "70, Mahatma Gandhi Rd, opposite Pani ki Tanki, Dhakran Crossing, Panchkuian, Subhash Park, Agra, Uttar Pradesh 282003",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282003",
+    "locality": "Subhash Park",
+    "landmark": "opposite Pani ki Tanki, Dhakran Crossing, Panchkuian, Subhash Park, Agra, Uttar Pradesh 282003",
+    "emergencyContact": "093191 18858",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Shah+Dental+Clinic/@27.1795919,78.0033885,17z/data=!3m1!4b1!4m6!3m5!1s0x39747724184ca8c1:0x8912acc0eee37aed!8m2!3d27.1795919!4d78.0033885!16s%2Fg%2F1q65cxhsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shah+Dental+Clinic/@27.1795919,78.0033885,17z/data=!3m1!4b1!4m6!3m5!1s0x39747724184ca8c1:0x8912acc0eee37aed!8m2!3d27.1795919!4d78.0033885!16s%2Fg%2F1q65cxhsv?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1795919,
+      "lng": 78.0033885,
+      "label": "Shah Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanti-dental-clinic-agra",
+    "name": "SHANTI DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose SHANTI DENTAL CLINIC for its strength in Oral Surgery In Agra. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096345 82244",
+    "alternatePhone": "",
+    "website": "",
+    "address": "petrol pump Dr .Dhingra Shanti Dental, E-481, behind Main market, E Block, Ghatwasan, Kamla Nagar, Agra, Uttar Pradesh 282004",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282004",
+    "locality": "Kamla Nagar",
+    "landmark": "behind Main market",
+    "emergencyContact": "096345 82244",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SHANTI+DENTAL+CLINIC/@27.2135618,78.0222474,17z/data=!3m1!4b1!4m6!3m5!1s0x397470acc749632b:0x877ff8dcab2c96ab!8m2!3d27.2135618!4d78.0222474!16s%2Fg%2F11bx1s71wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SHANTI+DENTAL+CLINIC/@27.2135618,78.0222474,17z/data=!3m1!4b1!4m6!3m5!1s0x397470acc749632b:0x877ff8dcab2c96ab!8m2!3d27.2135618!4d78.0222474!16s%2Fg%2F11bx1s71wc?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2135618,
+      "lng": 78.0222474,
+      "label": "SHANTI DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanti-ved-hospital-vijay-nagar-agra-agra",
+    "name": "Shanti Ved Hospital, vijay nagar, agra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Shanti Ved Hospital, vijay nagar, agra brings together specialists for General Surgery In Agra. Operational strengths including Google rating 3.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "063961 00697",
+    "alternatePhone": "+91 95828 33333",
+    "website": "https://shantived.com/",
+    "address": "49, Old Vijay Nagar Colony Rd, Old Vijayanagar Colony, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Civil Lines",
+    "landmark": "Old Vijayanagar Colony",
+    "emergencyContact": "+91 95828 33333",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Yatharthhealthcare/",
+    "twitter": "https://twitter.com/Yatharth_Health",
+    "instagram": "https://www.instagram.com/yatharth_hospitals/",
+    "linkedin": "https://www.linkedin.com/company/yatharthhealthcare/",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shanti+Ved+Hospital,+vijay+nagar,+agra/@27.2009969,78.0201866,17z/data=!3m1!4b1!4m6!3m5!1s0x397470ac00000001:0x4e0beda2bf22620c!8m2!3d27.2009969!4d78.0201866!16s%2Fg%2F1v0lj542?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanti+Ved+Hospital,+vijay+nagar,+agra/@27.2009969,78.0201866,17z/data=!3m1!4b1!4m6!3m5!1s0x397470ac00000001:0x4e0beda2bf22620c!8m2!3d27.2009969!4d78.0201866!16s%2Fg%2F1v0lj542?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2009969,
+      "lng": 78.0201866,
+      "label": "Shanti Ved Hospital, vijay nagar, agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shanvi-ivf-and-test-tube-baby-centre-in-agra-agra",
+    "name": "Shanvi IVF and Test Tube Baby Centre in Agra",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Shanvi IVF and Test Tube Baby Centre in Agra offers coordinated hospital care with major focus on IVF In Agra and Fertility Care. With public-facing highlights like Google rating 4.6, 1+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "shanviclinic@gmail.com",
+    "phone": "078180 31370",
+    "alternatePhone": "+91 76681 35944",
+    "website": "http://www.shanviivf.com/",
+    "address": "SECOND FLOOR, LAURIES HOTEL & SAI KI TAKIYA, 33/100, Mahatma Gandhi Rd, above BAJAJ SHOWROOM, Katlupur, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "33/100",
+    "emergencyContact": "+91 76681 35944",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/Shanviivf",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/shanviivf/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@shanviivf",
+    "specialties": [
+      "IVF In Agra",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "1+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shanvi+IVF+and+Test+Tube+Baby+Centre+in+Agra/data=!4m7!3m6!1s0x397477c034161e11:0x43eb21e043e6a0f9!8m2!3d27.1692005!4d78.0088792!16s%2Fg%2F11r70s4wp1!19sChIJER4WNMB3dDkR-aDmQ-Ah60M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shanvi+IVF+and+Test+Tube+Baby+Centre+in+Agra/data=!4m7!3m6!1s0x397477c034161e11:0x43eb21e043e6a0f9!8m2!3d27.1692005!4d78.0088792!16s%2Fg%2F11r70s4wp1!19sChIJER4WNMB3dDkR-aDmQ-Ah60M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1692005,
+      "lng": 78.0088792,
+      "label": "Shanvi IVF and Test Tube Baby Centre in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 1,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shiromany-dental-care-agra",
+    "name": "Shiromany Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Shiromany Dental Care brings together specialists for Oral Surgery In Agra. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "078300 00799",
+    "alternatePhone": "",
+    "website": "",
+    "address": "19 Ajmer Rd, pratap pura, opposite St. Anthony College, Lata Kunj Colony, Shahzadi Mandi, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "opposite St. Anthony College, Lata Kunj Colony, Shahzadi Mandi, Rakabganj, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "078300 00799",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shiromany+Dental+Care/@27.1662604,78.013285,17z/data=!3m1!4b1!4m6!3m5!1s0x397476d166811c8f:0xa5e4b2cf6655549b!8m2!3d27.1662604!4d78.013285!16s%2Fg%2F11b5pk1t8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shiromany+Dental+Care/@27.1662604,78.013285,17z/data=!3m1!4b1!4m6!3m5!1s0x397476d166811c8f:0xa5e4b2cf6655549b!8m2!3d27.1662604!4d78.013285!16s%2Fg%2F11b5pk1t8f?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1662604,
+      "lng": 78.013285,
+      "label": "Shiromany Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-krishna-hospital-agra-agra",
+    "name": "Shree Krishna Hospital Agra",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted general hospital in Agra, Shree Krishna Hospital Agra delivers integrated care across General Surgery In Agra. Hospital capacity markers such as Google rating 4.3 and 8+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "0562 405 7760",
+    "alternatePhone": "",
+    "website": "",
+    "address": "D-14,13, 12, Rambagh, Sri Nagar Colony, T.Y.C. Phase-II, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "T.Y.C. Phase-II",
+    "landmark": "12",
+    "emergencyContact": "0562 405 7760",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "8+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Krishna+Hospital+Agra/@27.2041068,78.0470718,17z/data=!3m1!4b1!4m6!3m5!1s0x397470946fab7bd9:0x3e00d60d25d753f9!8m2!3d27.2041068!4d78.0470718!16s%2Fg%2F1tf8rhqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Krishna+Hospital+Agra/@27.2041068,78.0470718,17z/data=!3m1!4b1!4m6!3m5!1s0x397470946fab7bd9:0x3e00d60d25d753f9!8m2!3d27.2041068!4d78.0470718!16s%2Fg%2F1tf8rhqh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2041068,
+      "lng": 78.0470718,
+      "label": "Shree Krishna Hospital Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 8,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-ram-hospital-agra",
+    "name": "Shree Ram Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Agra, Shree Ram Hospital delivers integrated care across General Surgery In Agra. Hospital capacity markers such as Google rating 2.8 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mahatma Gandhi Rd, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Civil Lines",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Ram+Hospital/data=!4m7!3m6!1s0x397477469f9ba573:0x17605e5d1ff5325e!8m2!3d27.2016211!4d78.0040458!16s%2Fg%2F11b5ys489c!19sChIJc6Wbn0Z3dDkRXjL1H11eYBc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Ram+Hospital/data=!4m7!3m6!1s0x397477469f9ba573:0x17605e5d1ff5325e!8m2!3d27.2016211!4d78.0040458!16s%2Fg%2F11b5ys489c!19sChIJc6Wbn0Z3dDkRXjL1H11eYBc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2016211,
+      "lng": 78.0040458,
+      "label": "Shree Ram Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-krishna-eye-and-dental-hospital-best-dental-and-eye-hospital-in-sikandra-agra-agra",
+    "name": "Shri Krishna Eye & Dental Hospital | Best Dental & Eye Hospital in Sikandra Agra",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Krishna Eye & Dental Hospital | Best Dental & Eye Hospital in Sikandra Agra has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra and Eye Care Center. The facility stands out for Google rating 4.7 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@shrikrishnahospital.com",
+    "phone": "090848 12800",
+    "alternatePhone": "+91 98765 43210",
+    "website": "https://shrikrishnaeyedentalhospital.com/",
+    "address": "1/2, near Kargil Petrol Pump, near cross road, Sector 13C, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "near Kargil Petrol Pump, near cross road, Sector 13C, Kar Kunj Chauraha, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "+91 98765 43210",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/profile.php?id=61581685502007&sk=about",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/shrikrishnaeyeanddental/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@shrikrishnaeyeanddental",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Krishna+Eye+%26+Dental+Hospital+%7C+Best+Dental+%26+Eye+Hospital+in+Sikandra+Agra/@27.205328,77.953736,17z/data=!3m1!4b1!4m6!3m5!1s0x397477ba48941d67:0x9c437f88ec77a432!8m2!3d27.205328!4d77.953736!16s%2Fg%2F11pkjtrtyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Krishna+Eye+%26+Dental+Hospital+%7C+Best+Dental+%26+Eye+Hospital+in+Sikandra+Agra/@27.205328,77.953736,17z/data=!3m1!4b1!4m6!3m5!1s0x397477ba48941d67:0x9c437f88ec77a432!8m2!3d27.205328!4d77.953736!16s%2Fg%2F11pkjtrtyb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.205328,
+      "lng": 77.953736,
+      "label": "Shri Krishna Eye & Dental Hospital | Best Dental & Eye Hospital in Sikandra Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "singh-dental-and-aesthetic-centre-agra",
+    "name": "Singh Dental & Aesthetic Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Agra, Singh Dental & Aesthetic Centre delivers integrated care across Oral Surgery In Agra. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084760 25542",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Kshama Kunj Colony, 100 Feet Rd, Taj Nagri Phase 2, Tajganj, Agra, Uttar Pradesh 282004",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282004",
+    "locality": "Tajganj",
+    "landmark": "100 Feet Rd",
+    "emergencyContact": "084760 25542",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Singh+Dental+%26+Aesthetic+Centre/@27.15564,78.0540865,17z/data=!3m1!4b1!4m6!3m5!1s0x3974710d662c2de9:0xeb90424945b51242!8m2!3d27.15564!4d78.0540865!16s%2Fg%2F11f0l49_5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Singh+Dental+%26+Aesthetic+Centre/@27.15564,78.0540865,17z/data=!3m1!4b1!4m6!3m5!1s0x3974710d662c2de9:0xeb90424945b51242!8m2!3d27.15564!4d78.0540865!16s%2Fg%2F11f0l49_5p?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.15564,
+      "lng": 78.0540865,
+      "label": "Singh Dental & Aesthetic Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skinic-dr-kaushal-s-skin-hair-nail-and-cosmetic-laser-clinic-agra",
+    "name": "SKINIC-Dr Kaushal's Skin, Hair, Nail & Cosmetic Laser Clinic",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose SKINIC-Dr Kaushal's Skin, Hair, Nail & Cosmetic Laser Clinic for its strength in Cosmetic Surgery In Agra. With public-facing highlights like Google rating 4.7 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "skinicagra@gmail.com",
+    "phone": "090121 18885",
+    "alternatePhone": "0562 242 0188",
+    "website": "http://www.skinclinicagra.com/",
+    "address": "Upper Ground Floor, 33/100, Namner Rd, near Chaudhary diagnostic center, Namner, Rakabganj, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Rakabganj",
+    "landmark": "near Chaudhary diagnostic center, Namner, Rakabganj, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "0562 242 0188",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/SkinicTheCompleteSkinAndHairClinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/skinic_agra/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SKINIC-Dr+Kaushal's+Skin,+Hair,+Nail+%26+Cosmetic+Laser+Clinic/@27.1690902,78.0072796,17z/data=!3m1!4b1!4m6!3m5!1s0x397476d9dd05c5fd:0x12326bc6eca63d08!8m2!3d27.1690902!4d78.0072796!16s%2Fg%2F11b5pj5j56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SKINIC-Dr+Kaushal's+Skin,+Hair,+Nail+%26+Cosmetic+Laser+Clinic/@27.1690902,78.0072796,17z/data=!3m1!4b1!4m6!3m5!1s0x397476d9dd05c5fd:0x12326bc6eca63d08!8m2!3d27.1690902!4d78.0072796!16s%2Fg%2F11b5pj5j56?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1690902,
+      "lng": 78.0072796,
+      "label": "SKINIC-Dr Kaushal's Skin, Hair, Nail & Cosmetic Laser Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-avenue-dental-and-oral-surgery-clinic-agra",
+    "name": "Smile Avenue Dental & Oral Surgery Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Smile Avenue Dental & Oral Surgery Clinic is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087557 40562",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1, Uttam Complex, Chandralok Colony, near Pratap Nagar, Crossing, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Crossing",
+    "landmark": "near Pratap Nagar, Crossing, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "087557 40562",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Avenue+Dental+%26+Oral+Surgery+Clinic/@27.1865092,77.9806824,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a89c74540d:0xcf62697d845dc11!8m2!3d27.1865092!4d77.9806824!16s%2Fg%2F11gj0wn7rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Avenue+Dental+%26+Oral+Surgery+Clinic/@27.1865092,77.9806824,17z/data=!3m1!4b1!4m6!3m5!1s0x397477a89c74540d:0xcf62697d845dc11!8m2!3d27.1865092!4d77.9806824!16s%2Fg%2F11gj0wn7rm?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1865092,
+      "lng": 77.9806824,
+      "label": "Smile Avenue Dental & Oral Surgery Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-dental-and-cosmetic-clinic-agra",
+    "name": "Smile dental and cosmetic clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Smile dental and cosmetic clinic offers coordinated hospital care with major focus on Cosmetic Surgery In Agra and Dentist. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "097209 20680",
+    "alternatePhone": "",
+    "website": "https://smile-dental.grexa.site/",
+    "address": "34/177B Idgah Road, Kutlupur Rd, near S.R Hospital, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "near S.R Hospital",
+    "landmark": "near S.R Hospital, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "097209 20680",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/p/SMILE-DENTAL-CLINICAGRA-100064704379805",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+dental+and+cosmetic+clinic/@27.1690221,78.0070744,17z/data=!3m1!4b1!4m6!3m5!1s0x397476da2ece053f:0x87803e72d56b75f0!8m2!3d27.1690221!4d78.0070744!16s%2Fg%2F11b5pj14v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+dental+and+cosmetic+clinic/@27.1690221,78.0070744,17z/data=!3m1!4b1!4m6!3m5!1s0x397476da2ece053f:0x87803e72d56b75f0!8m2!3d27.1690221!4d78.0070744!16s%2Fg%2F11b5pj14v7?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1690221,
+      "lng": 78.0070744,
+      "label": "Smile dental and cosmetic clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sp-hospital-agra-agra",
+    "name": "SP Hospital Agra",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, SP Hospital Agra offers coordinated hospital care with major focus on General Surgery In Agra. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097207 67770",
+    "alternatePhone": "",
+    "website": "",
+    "address": "44, Hanuman Nagar, near Maruti State, Bodla, Agra, Uttar Pradesh 282010",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282010",
+    "locality": "Bodla",
+    "landmark": "near Maruti State, Bodla, Agra, Uttar Pradesh 282010",
+    "emergencyContact": "097207 67770",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SP+Hospital+Agra/@27.1841319,77.9732815,17z/data=!3m1!4b1!4m6!3m5!1s0x397477aa7167de61:0x93d897aeef3cd6c2!8m2!3d27.1841319!4d77.9732815!16s%2Fg%2F11s5472jr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SP+Hospital+Agra/@27.1841319,77.9732815,17z/data=!3m1!4b1!4m6!3m5!1s0x397477aa7167de61:0x93d897aeef3cd6c2!8m2!3d27.1841319!4d77.9732815!16s%2Fg%2F11s5472jr5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1841319,
+      "lng": 77.9732815,
+      "label": "SP Hospital Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sparks-dental-clinic-agra-agra",
+    "name": "Sparks Dental Clinic Agra",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Agra, Sparks Dental Clinic Agra offers coordinated hospital care with major focus on Oral Surgery In Agra. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "070600 92267",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rashmi, vihar road, opposite kehrai, Anantpuram, Indrapuram, mod, Shamsabad, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Shamsabad",
+    "landmark": "opposite kehrai, Anantpuram, Indrapuram, mod, Shamsabad, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "070600 92267",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@SPARKSDENTALCLINIC-since2016",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sparks+Dental+Clinic+Agra/@27.1405952,78.0465136,17z/data=!3m1!4b1!4m6!3m5!1s0x3974716491c4aee5:0x1d7007c393f76064!8m2!3d27.1405952!4d78.0465136!16s%2Fg%2F11c587bm16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sparks+Dental+Clinic+Agra/@27.1405952,78.0465136,17z/data=!3m1!4b1!4m6!3m5!1s0x3974716491c4aee5:0x1d7007c393f76064!8m2!3d27.1405952!4d78.0465136!16s%2Fg%2F11c587bm16?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1405952,
+      "lng": 78.0465136,
+      "label": "Sparks Dental Clinic Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sri-balaji-dental-clinic-agra",
+    "name": "Sri Balaji Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Sri Balaji Dental Clinic for its strength in Oral Surgery In Agra. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0562 406 1001",
+    "alternatePhone": "",
+    "website": "",
+    "address": "4, 16, Bagh Farzana Rd, Ramnagar Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Civil Lines",
+    "landmark": "Bagh Farzana Rd",
+    "emergencyContact": "0562 406 1001",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Sri+Balaji+Dental+Clinic/@27.2003771,77.9997567,17z/data=!3m1!4b1!4m6!3m5!1s0x39747741730e604f:0x593f81e9d14b707d!8m2!3d27.2003771!4d77.9997567!16s%2Fg%2F11b5vz6bvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sri+Balaji+Dental+Clinic/@27.2003771,77.9997567,17z/data=!3m1!4b1!4m6!3m5!1s0x39747741730e604f:0x593f81e9d14b707d!8m2!3d27.2003771!4d77.9997567!16s%2Fg%2F11b5vz6bvl?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2003771,
+      "lng": 77.9997567,
+      "label": "Sri Balaji Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ssdc-dental-clinic-agra",
+    "name": "SSDC dental clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, SSDC dental clinic brings together specialists for Oral Surgery In Agra. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094157 66886",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Karim Complex, Fatehabad Rd, opposite Pizza Hut, 15th Battallion PAC Quaters, Khairati Tola, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Khairati Tola",
+    "landmark": "opposite Pizza Hut, 15th Battallion PAC Quaters, Khairati Tola, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "094157 66886",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/SSDC+dental+clinic/@27.1616895,78.0345881,17z/data=!3m1!4b1!4m6!3m5!1s0x3974713b0f5cedcf:0xf23205bea2f5c4a5!8m2!3d27.1616895!4d78.0345881!16s%2Fg%2F1263sr8p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SSDC+dental+clinic/@27.1616895,78.0345881,17z/data=!3m1!4b1!4m6!3m5!1s0x3974713b0f5cedcf:0xf23205bea2f5c4a5!8m2!3d27.1616895!4d78.0345881!16s%2Fg%2F1263sr8p5?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1616895,
+      "lng": 78.0345881,
+      "label": "SSDC dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "starlite-dental-clinic-agra",
+    "name": "Starlite Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Starlite Dental Clinic brings together specialists for Oral Surgery In Agra and Dentist. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "085350 84956",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no. 831, Shop, no. 4, Central Park Rd, Sector 7, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "no. 4",
+    "emergencyContact": "085350 84956",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Starlite+Dental+Clinic/@27.1954017,77.9646869,17z/data=!3m1!4b1!4m6!3m5!1s0x397477d78b0b994f:0x97c00c50f96aac0a!8m2!3d27.1954017!4d77.9646869!16s%2Fg%2F11sd3y6t35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Starlite+Dental+Clinic/@27.1954017,77.9646869,17z/data=!3m1!4b1!4m6!3m5!1s0x397477d78b0b994f:0x97c00c50f96aac0a!8m2!3d27.1954017!4d77.9646869!16s%2Fg%2F11sd3y6t35?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1954017,
+      "lng": 77.9646869,
+      "label": "Starlite Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunita-dental-care-centre-agra",
+    "name": "Sunita Dental Care Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Sunita Dental Care Centre brings together specialists for Oral Surgery In Agra. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083938 95096",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11 Madhuban Kunj,, New Adarsh Nagar, Balkeshwar Colony, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "Balkeshwar Colony",
+    "emergencyContact": "083938 95096",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Sunita+Dental+Care+Centre/@27.2167882,78.0265633,17z/data=!3m1!4b1!4m6!3m5!1s0x397470a940cf8a4f:0x865657f238247fcf!8m2!3d27.2167882!4d78.0265633!16s%2Fg%2F11byww7nyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunita+Dental+Care+Centre/@27.2167882,78.0265633,17z/data=!3m1!4b1!4m6!3m5!1s0x397470a940cf8a4f:0x865657f238247fcf!8m2!3d27.2167882!4d78.0265633!16s%2Fg%2F11byww7nyd?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2167882,
+      "lng": 78.0265633,
+      "label": "Sunita Dental Care Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swarn-dental-clinic-and-implant-centre-agra",
+    "name": "Swarn Dental Clinic and Implant Centre",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Swarn Dental Clinic and Implant Centre has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra and Dentist. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080779 59884",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop number 5, market, 100 Feet Rd, Adan Bagh Extension, DayalBagh, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "DayalBagh",
+    "landmark": "100 Feet Rd",
+    "emergencyContact": "080779 59884",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Swarn+Dental+Clinic+and+Implant+Centre/@27.2298153,78.004167,17z/data=!3m1!4b1!4m6!3m5!1s0x397479686652cd59:0x98abac557067726e!8m2!3d27.2298153!4d78.004167!16s%2Fg%2F11pfkcplv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Swarn+Dental+Clinic+and+Implant+Centre/@27.2298153,78.004167,17z/data=!3m1!4b1!4m6!3m5!1s0x397479686652cd59:0x98abac557067726e!8m2!3d27.2298153!4d78.004167!16s%2Fg%2F11pfkcplv8?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2298153,
+      "lng": 78.004167,
+      "label": "Swarn Dental Clinic and Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "synergy-plus-hospital-agra",
+    "name": "Synergy Plus Hospital",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Synergy Plus Hospital brings together specialists for Kidney Transplant Surgery In Agra and Dialysis Center. Hospital capacity markers such as Google rating 4.6, 129+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@synergyplushospital.com",
+    "phone": "0562 265 1100",
+    "alternatePhone": "0562 265 1110",
+    "website": "http://www.synergyplushospital.com/",
+    "address": "Synergy Plus Hospital, Near Guru Ka Taal, NH2, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "NH2",
+    "landmark": "Near Guru Ka Taal, NH2, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "0562 265 1100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/synergyplus.agra/",
+    "twitter": "https://twitter.com/synergyplushosp",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCHU-T8G_sGuBkHmzuG6n7vQ",
+    "specialties": [
+      "Kidney Transplant Surgery In Agra",
+      "Dialysis Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "129+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Synergy+Plus+Hospital/data=!4m7!3m6!1s0x397477fefe75a15b:0xb76a99ad61d801bb!8m2!3d27.21053!4d77.9640664!16s%2Fg%2F11gk8y9xh4!19sChIJW6F1_v53dDkRuwHYYa2Zarc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Synergy+Plus+Hospital/data=!4m7!3m6!1s0x397477fefe75a15b:0xb76a99ad61d801bb!8m2!3d27.21053!4d77.9640664!16s%2Fg%2F11gk8y9xh4!19sChIJW6F1_v53dDkRuwHYYa2Zarc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.21053,
+      "lng": 77.9640664,
+      "label": "Synergy Plus Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 129,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "synergy-plus-hospital-best-hospitals-in-agra-laparoscopic-surgery-kidney-transplant-best-gynae-hospital-in-agra-agra",
+    "name": "Synergy Plus Hospital | Best Hospitals in Agra | Laparoscopic Surgery | Kidney Transplant | Best Gynae Hospital in Agra",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Synergy Plus Hospital | Best Hospitals in Agra | Laparoscopic Surgery | Kidney Transplant | Best Gynae Hospital in Agra is a prominent general hospital in Agra, known for structured tertiary care across Plastic Surgery In Agra and Kidney Care. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "info@synergyplushospital.com",
+    "phone": "0562 265 1110",
+    "alternatePhone": "0562 265 1100",
+    "website": "https://www.synergyplushospital.com/",
+    "address": "Mathura Rd, NH 19, near Gurudwara Guru KaTaal, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "near Gurudwara Guru KaTaal, Sikandra, Agra, Uttar Pradesh 282007",
+    "emergencyContact": "0562 265 1100",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/synergyplus.agra/",
+    "twitter": "https://twitter.com/synergyplushosp",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCHU-T8G_sGuBkHmzuG6n7vQ",
+    "specialties": [
+      "Plastic Surgery In Agra",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Synergy+Plus+Hospital+%7C+Best+Hospitals+in+Agra+%7C+Laparoscopic+Surgery+%7C+Kidney+Transplant+%7C+Best+Gynae+Hospital+in+Agra/@27.2106413,77.9640668,17z/data=!3m1!4b1!4m6!3m5!1s0x3974775ba7260467:0xc9b5a9e2d791043e!8m2!3d27.2106413!4d77.9640668!16s%2Fg%2F11cn7wq54v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Synergy+Plus+Hospital+%7C+Best+Hospitals+in+Agra+%7C+Laparoscopic+Surgery+%7C+Kidney+Transplant+%7C+Best+Gynae+Hospital+in+Agra/@27.2106413,77.9640668,17z/data=!3m1!4b1!4m6!3m5!1s0x3974775ba7260467:0xc9b5a9e2d791043e!8m2!3d27.2106413!4d77.9640668!16s%2Fg%2F11cn7wq54v?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2106413,
+      "lng": 77.9640668,
+      "label": "Synergy Plus Hospital | Best Hospitals in Agra | Laparoscopic Surgery | Kidney Transplant | Best Gynae Hospital in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-dental-studio-agra-agra",
+    "name": "The Dental Studio agra",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Dental Studio agra is a prominent dental clinic in Agra, known for structured tertiary care across Oral Surgery In Agra. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "090129 14960",
+    "alternatePhone": "",
+    "website": "",
+    "address": "51a, Jairam Bagh Colony, Vaibhav Kunj, DayalBagh, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "DayalBagh",
+    "landmark": "Vaibhav Kunj",
+    "emergencyContact": "090129 14960",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/The+Dental+Studio+agra/@27.2332809,78.0057053,17z/data=!3m1!4b1!4m6!3m5!1s0x397479efa42aaf55:0x6f1b3291f67c9bbb!8m2!3d27.2332809!4d78.0057053!16s%2Fg%2F11fxwbkls6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Dental+Studio+agra/@27.2332809,78.0057053,17z/data=!3m1!4b1!4m6!3m5!1s0x397479efa42aaf55:0x6f1b3291f67c9bbb!8m2!3d27.2332809!4d78.0057053!16s%2Fg%2F11fxwbkls6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2332809,
+      "lng": 78.0057053,
+      "label": "The Dental Studio agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-and-gum-clinic-agra",
+    "name": "Tooth and Gum Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Tooth and Gum Clinic for its strength in Oral Surgery In Agra. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "smile@toothandgumclinic.com",
+    "phone": "084488 22629",
+    "alternatePhone": "+91 84482 50072",
+    "website": "https://toothandgumclinic.com/",
+    "address": "Shop No. 100, near 100 Feet Road, Ellora Enclave, DayalBagh, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "DayalBagh",
+    "landmark": "near 100 Feet Road, Ellora Enclave, DayalBagh, Agra, Uttar Pradesh 282005",
+    "emergencyContact": "+91 84482 50072",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ToothAndGumClinic",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/toothandgumwithdrjyoti?igsh=MnRxOXdzYjZqdXg3",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@toothandgumclinic",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+and+Gum+Clinic/data=!4m7!3m6!1s0x397479f7c1563681:0x75e25147dee3f83a!8m2!3d27.2302233!4d78.0066071!16s%2Fg%2F11h1m40zqc!19sChIJgTZWwfd5dDkROvjj3kdR4nU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+and+Gum+Clinic/data=!4m7!3m6!1s0x397479f7c1563681:0x75e25147dee3f83a!8m2!3d27.2302233!4d78.0066071!16s%2Fg%2F11h1m40zqc!19sChIJgTZWwfd5dDkROvjj3kdR4nU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2302233,
+      "lng": 78.0066071,
+      "label": "Tooth and Gum Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tooth-health-dental-centre-agra",
+    "name": "Tooth Health Dental Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Tooth Health Dental Centre has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094566 21798",
+    "alternatePhone": "",
+    "website": "https://toothhealthdentalcentre.com/",
+    "address": "Shop no 4&5 premwati complex crossing Hanuman mandir chauraya(near Manju medical store) adjacent to axis imaging centre khandari,agra-4 uttarPradesh 282002, India • Latitude: 27.2057636, •, Agra, Uttar Pradesh 282004",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "•",
+    "landmark": "India • Latitude: 27.2057636",
+    "emergencyContact": "094566 21798",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Tooth+Health+Dental+Centre/@27.2054949,77.9979333,17z/data=!3m1!4b1!4m6!3m5!1s0x39747742eeb8470b:0x6433a9e681c750e9!8m2!3d27.2054949!4d77.9979333!16s%2Fg%2F1q6d0g63z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Tooth+Health+Dental+Centre/@27.2054949,77.9979333,17z/data=!3m1!4b1!4m6!3m5!1s0x39747742eeb8470b:0x6433a9e681c750e9!8m2!3d27.2054949!4d77.9979333!16s%2Fg%2F1q6d0g63z?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2054949,
+      "lng": 77.9979333,
+      "label": "Tooth Health Dental Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "total-dental-care-and-implant-centre-best-cadcam-dentist-agra",
+    "name": "Total Dental Care & Implant Centre best cadcam dentist",
+    "type": "Prosthodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Agra often choose Total Dental Care & Implant Centre best cadcam dentist for its strength in Oral Surgery In Agra and Prosthodontist. Hospital capacity markers such as Google rating 4.7 and 35+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "096344 57555",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First Floor, Shop No. 7, B-73, On Complex, Central Bank Road,, near Tempation Restaurant, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282005",
+    "locality": "Kamla Nagar",
+    "landmark": "near Tempation Restaurant, Kamla Nagar, Agra, Uttar Pradesh 282005",
+    "emergencyContact": "096344 57555",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra",
+      "Prosthodontist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "35+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Total+Dental+Care+%26+Implant+Centre+best+cadcam+dentist/data=!4m7!3m6!1s0x397477536a440091:0x989cfba124c28822!8m2!3d27.2136982!4d78.0179416!16s%2Fg%2F11bx5pg_3x!19sChIJkQBEalN3dDkRIojCJKH7nJg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Total+Dental+Care+%26+Implant+Centre+best+cadcam+dentist/data=!4m7!3m6!1s0x397477536a440091:0x989cfba124c28822!8m2!3d27.2136982!4d78.0179416!16s%2Fg%2F11bx5pg_3x!19sChIJkQBEalN3dDkRIojCJKH7nJg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2136982,
+      "lng": 78.0179416,
+      "label": "Total Dental Care & Implant Centre best cadcam dentist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 35,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "uddaan-dental-care-dental-clinic-in-agra-agra",
+    "name": "Uddaan Dental Care - Dental Clinic in Agra",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Uddaan Dental Care - Dental Clinic in Agra has built a strong reputation in Agra for multidisciplinary treatment pathways covering Oral Surgery In Agra. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "074174 42700",
+    "alternatePhone": "",
+    "website": "http://uddaandentalcare.com/",
+    "address": "Uddaan dental care, Deen Dayal Puram, 12A/333, beside Little Wings Play School, Sector 12, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282002",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282002",
+    "locality": "Sikandra",
+    "landmark": "beside Little Wings Play School, Sector 12, Avas Vikas Colony, Sikandra, Agra, Uttar Pradesh 282002",
+    "emergencyContact": "074174 42700",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Uddaan+Dental+Care+-+Dental+Clinic+in+Agra/@27.2054888,77.9727105,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776d4c82f6f3:0x51092b6d05d21f03!8m2!3d27.2054888!4d77.9727105!16s%2Fg%2F11kpf5x5jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Uddaan+Dental+Care+-+Dental+Clinic+in+Agra/@27.2054888,77.9727105,17z/data=!3m1!4b1!4m6!3m5!1s0x3974776d4c82f6f3:0x51092b6d05d21f03!8m2!3d27.2054888!4d77.9727105!16s%2Fg%2F11kpf5x5jh?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2054888,
+      "lng": 77.9727105,
+      "label": "Uddaan Dental Care - Dental Clinic in Agra",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ujala-cygnus-rainbow-hospital-agra",
+    "name": "Ujala Cygnus Rainbow hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Ujala Cygnus Rainbow hospital brings together specialists for General Surgery In Agra. Operational strengths including Google rating 4.5, 969+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://ujalacygnus.com/agra/",
+    "address": "Ujala Cygnus Rainbow Hospital, Sikandra, Agra, Uttar Pradesh 282007",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282007",
+    "locality": "Sikandra",
+    "landmark": "Agra",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "969+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ujala+Cygnus+Rainbow+hospital/@27.2115057,77.9622972,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a061ade9:0x8cab9c2f65c86487!8m2!3d27.2115057!4d77.9622972!16s%2Fg%2F124ydhxrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ujala+Cygnus+Rainbow+hospital/@27.2115057,77.9622972,17z/data=!3m1!4b1!4m6!3m5!1s0x39747788a061ade9:0x8cab9c2f65c86487!8m2!3d27.2115057!4d77.9622972!16s%2Fg%2F124ydhxrb?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.2115057,
+      "lng": 77.9622972,
+      "label": "Ujala Cygnus Rainbow hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 969,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vd-dental-care-agra",
+    "name": "VD DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, VD DENTAL CARE brings together specialists for Oral Surgery In Agra. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "079831 41937",
+    "alternatePhone": "",
+    "website": "",
+    "address": "34, near Vidya Medical Store, Ayodhya Kunj-A, South Arjun Nagar, Barakhamba, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "near Vidya Medical Store, Ayodhya Kunj-A, South Arjun Nagar, Barakhamba, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "emergencyContact": "079831 41937",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/VD+DENTAL+CARE/@27.1688814,77.9843504,17z/data=!3m1!4b1!4m6!3m5!1s0x397477e5f7112b87:0x7965dd4385dbbb92!8m2!3d27.1688814!4d77.9843504!16s%2Fg%2F11smvfbrkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VD+DENTAL+CARE/@27.1688814,77.9843504,17z/data=!3m1!4b1!4m6!3m5!1s0x397477e5f7112b87:0x7965dd4385dbbb92!8m2!3d27.1688814!4d77.9843504!16s%2Fg%2F11smvfbrkp?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1688814,
+      "lng": 77.9843504,
+      "label": "VD DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vohra-hospitals-pvt-ltd-agra",
+    "name": "Vohra Hospitals Pvt. Ltd.",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Vohra Hospitals Pvt. Ltd. has built a strong reputation in Agra for multidisciplinary treatment pathways covering General Surgery In Agra. The facility stands out for Google rating 3.3, 10+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072529 99339",
+    "alternatePhone": "",
+    "website": "https://vohrahospitalagra.com/",
+    "address": "4, 5X9M+3J4 Laxman Nagar, Kheria Rd, Ayodhya Kunj-A, Dashrath Kunj - B, Jodha Bai ka Rauza, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Kheria Rd",
+    "emergencyContact": "072529 99339",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3",
+      "10+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Vohra+Hospitals+Pvt.+Ltd./@27.167816,77.98406,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fcdcd37953:0x560a343e1693c094!8m2!3d27.167816!4d77.98406!16s%2Fg%2F1hc1m4wgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vohra+Hospitals+Pvt.+Ltd./@27.167816,77.98406,17z/data=!3m1!4b1!4m6!3m5!1s0x397476fcdcd37953:0x560a343e1693c094!8m2!3d27.167816!4d77.98406!16s%2Fg%2F1hc1m4wgg?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.167816,
+      "lng": 77.98406,
+      "label": "Vohra Hospitals Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 10,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "walking-welness-salon-agra",
+    "name": "Walking welness salon",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Agra, Walking welness salon brings together specialists for Cosmetic Surgery In Agra. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Taj Nagri, 47, opp. Jalma Hospital, Amar Lok Colony, Phase 2, Tajganj, Agra, Uttar Pradesh 282006",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282006",
+    "locality": "Tajganj",
+    "landmark": "opp. Jalma Hospital",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Walking+welness+salon/@27.1670784,78.0509151,17z/data=!3m1!4b1!4m6!3m5!1s0x3974717c784d67f1:0xc5c27d168a0231ee!8m2!3d27.1670784!4d78.0509151!16s%2Fg%2F11ny2fb4x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Walking+welness+salon/@27.1670784,78.0509151,17z/data=!3m1!4b1!4m6!3m5!1s0x3974717c784d67f1:0xc5c27d168a0231ee!8m2!3d27.1670784!4d78.0509151!16s%2Fg%2F11ny2fb4x6?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.1670784,
+      "lng": 78.0509151,
+      "label": "Walking welness salon",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "yadu-hospital-agra",
+    "name": "Yadu Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Yadu Hospital has built a strong reputation in Agra for multidisciplinary treatment pathways covering General Surgery In Agra. Hospital capacity markers such as Google rating 4.9 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "yaduhospital982@gmail.com",
+    "phone": "073007 99575",
+    "alternatePhone": "",
+    "website": "https://yaduhospital.com/",
+    "address": "Ayodhya Kunj-A, Kheriya Mod, Ajeet Nagar, Arjun Nagar, Agra, Uttar Pradesh 282001",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "pincode": "282001",
+    "locality": "Arjun Nagar",
+    "landmark": "Ajeet Nagar",
+    "emergencyContact": "073007 99575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/yaduhospital?igsh=OGl5cXY2YXZya293",
+    "linkedin": "http://in.linkedin.com/in/garima-yadav-b85504268",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Agra"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Yadu+Hospital/@27.167573,77.9840621,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770078cca7e3:0xe7ce5999e044e85!8m2!3d27.167573!4d77.9840621!16s%2Fg%2F11wv00kjd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Yadu+Hospital/@27.167573,77.9840621,17z/data=!3m1!4b1!4m6!3m5!1s0x3974770078cca7e3:0xe7ce5999e044e85!8m2!3d27.167573!4d77.9840621!16s%2Fg%2F11wv00kjd_?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 27.167573,
+      "lng": 77.9840621,
+      "label": "Yadu Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];

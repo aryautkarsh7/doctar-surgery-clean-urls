@@ -1,0 +1,17893 @@
+window.DOCTAR_TEMP_HOSP = [
+  {
+    "slug": "32-carat-dental-hospital-amravati",
+    "name": "32 Carat Dental hospital",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose 32 Carat Dental hospital for its strength in Oral Surgery In Amravati and Dentist. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095452 01025",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Patwa chowk, Auto Galli, near new maheshwari mobile, Amba Peth, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Amba Peth",
+    "landmark": "near new maheshwari mobile, Amba Peth, Amravati, Maharashtra 444601",
+    "emergencyContact": "095452 01025",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/32+Carat+Dental+hospital/data=!4m7!3m6!1s0x3bd6a5e9841d483f:0xea9b58f31a427a2e!8m2!3d20.9276999!4d77.7537743!16s%2Fg%2F11vq72gfjz!19sChIJP0gdhOml1jsRLnpCGvNYm-o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/32+Carat+Dental+hospital/data=!4m7!3m6!1s0x3bd6a5e9841d483f:0xea9b58f31a427a2e!8m2!3d20.9276999!4d77.7537743!16s%2Fg%2F11vq72gfjz!19sChIJP0gdhOml1jsRLnpCGvNYm-o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9276999,
+      "lng": 77.7537743,
+      "label": "32 Carat Dental hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "adatiya-hospital-amravati",
+    "name": "Adatiya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Adatiya Hospital brings together specialists for Gynecologist Surgery In Amravati. Its infrastructure includes Google rating 2.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072126 78499",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ67+98R, Bapu Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Bapu Colony",
+    "landmark": "Amravati",
+    "emergencyContact": "072126 78499",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.8"
+    ],
+    "image": "https://www.google.com/maps/place/Adatiya+Hospital/data=!4m7!3m6!1s0x3bd6a4c0db280989:0xc403eef6a0c51338!8m2!3d20.9109792!4d77.763272!16s%2Fg%2F11gg_tv5qq!19sChIJiQko28Ck1jsROBPFoPbuA8Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Adatiya+Hospital/data=!4m7!3m6!1s0x3bd6a4c0db280989:0xc403eef6a0c51338!8m2!3d20.9109792!4d77.763272!16s%2Fg%2F11gg_tv5qq!19sChIJiQko28Ck1jsROBPFoPbuA8Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9109792,
+      "lng": 77.763272,
+      "label": "Adatiya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "agrawal-maternity-hospital-amravati",
+    "name": "Agrawal Maternity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Agrawal Maternity Hospital is a prominent hospital in Amravati, known for structured tertiary care across IVF In Amravati. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shilangan Rd, Guruchhaya Colony, Gopal Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Gopal Nagar",
+    "landmark": "Gopal Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Agrawal+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a5b394f10b5d:0x5614d79380a42263!8m2!3d20.8970088!4d77.7465175!16s%2Fg%2F11h12tj64y!19sChIJXQvxlLOl1jsRYyKkgJPXFFY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Agrawal+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a5b394f10b5d:0x5614d79380a42263!8m2!3d20.8970088!4d77.7465175!16s%2Fg%2F11h12tj64y!19sChIJXQvxlLOl1jsRYyKkgJPXFFY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.8970088,
+      "lng": 77.7465175,
+      "label": "Agrawal Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "aig-hospital-amravati",
+    "name": "AIG HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, AIG HOSPITAL brings together specialists for Liver Transplant Surgery In Amravati. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "above rekha gas agency, near kedia electronic, Walcut Compound, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Walcut Compound",
+    "landmark": "near kedia electronic, Walcut Compound, Amravati, Maharashtra 444603",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/AIG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a53e766fed37:0x3bc6aea33fe7b612!8m2!3d20.9339312!4d77.7583754!16s%2Fg%2F11llk8__cn!19sChIJN-1vdj6l1jsRErbnP6Ouxjs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/AIG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a53e766fed37:0x3bc6aea33fe7b612!8m2!3d20.9339312!4d77.7583754!16s%2Fg%2F11llk8__cn!19sChIJN-1vdj6l1jsRErbnP6Ouxjs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9339312,
+      "lng": 77.7583754,
+      "label": "AIG HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "akansha-heart-and-ent-clinic-amravati",
+    "name": "Akansha Heart & ENT Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Akansha Heart & ENT Clinic delivers integrated care across Heart Surgery In Amravati and Cardiac Care. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sai Plaza, Dufferin Road, Mote Compound, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Mote Compound",
+    "landmark": "Mote Compound",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Akansha+Heart+%26+ENT+Clinic/data=!4m7!3m6!1s0x3bd6a596aa39994d:0x161d01ce8acb4f3d!8m2!3d20.9337891!4d77.7593137!16s%2Fg%2F11fljhytbg!19sChIJTZk5qpal1jsRPU_Lis4BHRY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Akansha+Heart+%26+ENT+Clinic/data=!4m7!3m6!1s0x3bd6a596aa39994d:0x161d01ce8acb4f3d!8m2!3d20.9337891!4d77.7593137!16s%2Fg%2F11fljhytbg!19sChIJTZk5qpal1jsRPU_Lis4BHRY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9337891,
+      "lng": 77.7593137,
+      "label": "Akansha Heart & ENT Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "alliance-hospital-amravati-amravati",
+    "name": "Alliance Hospital Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Alliance Hospital Amravati for its strength in Kidney Transplant Surgery In Amravati. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072129 93929",
+    "alternatePhone": "",
+    "website": "https://www.alliancehospitalamravati.com/",
+    "address": "Alliance hospital, Vijay Colony Rd, near porwal paint house, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near porwal paint house, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "072129 93929",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Alliance+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a5f49a7a9af7:0x1ee07afcdaeb1b26!8m2!3d20.9256066!4d77.7667872!16s%2Fg%2F11v5bxtxz5!19sChIJ95p6mvSl1jsRJhvr2vx64B4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Alliance+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a5f49a7a9af7:0x1ee07afcdaeb1b26!8m2!3d20.9256066!4d77.7667872!16s%2Fg%2F11v5bxtxz5!19sChIJ95p6mvSl1jsRJhvr2vx64B4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9256066,
+      "lng": 77.7667872,
+      "label": "Alliance Hospital Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "anushree-speciality-hospital-amravati",
+    "name": "Anushree speciality hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Anushree speciality hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering General Surgery In Amravati and Speciality Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099603 44346",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Wanrai Marg, Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "099603 44346",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Anushree+speciality+hospital/data=!4m7!3m6!1s0x3bd6a51398096257:0x565bb8db66d00582!8m2!3d20.9241465!4d77.7692402!16s%2Fg%2F11y3l14yty!19sChIJV2IJmBOl1jsRggXQZtu4W1Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Anushree+speciality+hospital/data=!4m7!3m6!1s0x3bd6a51398096257:0x565bb8db66d00582!8m2!3d20.9241465!4d77.7692402!16s%2Fg%2F11y3l14yty!19sChIJV2IJmBOl1jsRggXQZtu4W1Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9241465,
+      "lng": 77.7692402,
+      "label": "Anushree speciality hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apollo-proton-therapy-in-amravati-amravati",
+    "name": "Apollo Proton Therapy in Amravati",
+    "type": "Cancer Treatment Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Apollo Proton Therapy in Amravati has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Liver Transplant Surgery In Amravati and Cancer Treatment Center. Hospital capacity markers such as Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080629 72782",
+    "alternatePhone": "",
+    "website": "https://www.apollohospitals.com/proton-therapy/proton-therapy/",
+    "address": "Police Station, Rajapeth, Shri Datta Meghe Medical Plaza, Badnera Rd, near Rajapeth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "near Rajapeth",
+    "landmark": "near Rajapeth, Amravati, Maharashtra 444605",
+    "emergencyContact": "080629 72782",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati",
+      "Cancer Treatment Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Amravati/data=!4m7!3m6!1s0x3bd6a5c14d01236b:0xcd4a3e679a232d41!8m2!3d20.9238!4d77.7554!16s%2Fg%2F11xs7qb19d!19sChIJayMBTcGl1jsRQS0jmmc-Ss0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apollo+Proton+Therapy+in+Amravati/data=!4m7!3m6!1s0x3bd6a5c14d01236b:0xcd4a3e679a232d41!8m2!3d20.9238!4d77.7554!16s%2Fg%2F11xs7qb19d!19sChIJayMBTcGl1jsRQS0jmmc-Ss0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9238,
+      "lng": 77.7554,
+      "label": "Apollo Proton Therapy in Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "apoorv-physiotherapy-clinic-physiotherapist-in-amravati-amravati",
+    "name": "Apoorv Physiotherapy Clinic ( Physiotherapist in Amravati)",
+    "type": "Physiotherapist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Apoorv Physiotherapy Clinic ( Physiotherapist in Amravati) offers coordinated hospital care with major focus on Spine Surgery In Amravati and Physiotherapist. Operational strengths including Google rating 4.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072766 61099",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 1, Sundarlal Chouk, Aakar Apartment, Congress Nagar Rd, Chaprasi Pura, Maltekdi, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Maltekdi",
+    "landmark": "Aakar Apartment",
+    "emergencyContact": "072766 61099",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Amravati",
+      "Physiotherapist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Apoorv+Physiotherapy+Clinic+%28+Physiotherapist+in+Amravati%29/data=!4m7!3m6!1s0x3bd6a5da4139d1f1:0x25149329591852ab!8m2!3d20.930514!4d77.7776194!16s%2Fg%2F11ghwyglym!19sChIJ8dE5Qdql1jsRq1IYWSmTFCU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Apoorv+Physiotherapy+Clinic+%28+Physiotherapist+in+Amravati%29/data=!4m7!3m6!1s0x3bd6a5da4139d1f1:0x25149329591852ab!8m2!3d20.930514!4d77.7776194!16s%2Fg%2F11ghwyglym!19sChIJ8dE5Qdql1jsRq1IYWSmTFCU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.930514,
+      "lng": 77.7776194,
+      "label": "Apoorv Physiotherapy Clinic ( Physiotherapist in Amravati)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ashirvad-dental-clinic-amravati",
+    "name": "ASHIRVAD DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, ASHIRVAD DENTAL CLINIC offers coordinated hospital care with major focus on Oral Surgery In Amravati. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "095457 23243",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ashirvad dental clinic,near Dastur nagar square, MIDC Rd, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "MIDC Rd",
+    "landmark": "MIDC Rd",
+    "emergencyContact": "095457 23243",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/ASHIRVAD+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a5c2b52b3c5b:0x7db6ef6838f9cbea!8m2!3d20.9058425!4d77.7656232!16s%2Fg%2F11k2g_869p!19sChIJWzwrtcKl1jsR6sv5OGjvtn0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ASHIRVAD+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a5c2b52b3c5b:0x7db6ef6838f9cbea!8m2!3d20.9058425!4d77.7656232!16s%2Fg%2F11k2g_869p!19sChIJWzwrtcKl1jsR6sv5OGjvtn0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9058425,
+      "lng": 77.7656232,
+      "label": "ASHIRVAD DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "augad-s-dental-and-smile-care-clinic-amravati",
+    "name": "Augad's Dental & Smile Care Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Amravati, Augad's Dental & Smile Care Clinic delivers integrated care across Oral Surgery In Amravati. With public-facing highlights like Google rating 4.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072153 31759",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Parishram\" Plot No. 11, VMV Rd, Vidyut Nagar, Holywood Nagar, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Holywood Nagar",
+    "landmark": "Vidyut Nagar",
+    "emergencyContact": "072153 31759",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Augad%27s+Dental+%26+Smile+Care+Clinic/data=!4m7!3m6!1s0x3bd6a3b917b95505:0xc9d97425ba9a2eb2!8m2!3d20.9649675!4d77.7511157!16s%2Fg%2F11g4g630fn!19sChIJBVW5F7mj1jsRsi6auiV02ck?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Augad%27s+Dental+%26+Smile+Care+Clinic/data=!4m7!3m6!1s0x3bd6a3b917b95505:0xc9d97425ba9a2eb2!8m2!3d20.9649675!4d77.7511157!16s%2Fg%2F11g4g630fn!19sChIJBVW5F7mj1jsRsi6auiV02ck?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9649675,
+      "lng": 77.7511157,
+      "label": "Augad's Dental & Smile Care Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ayumedic-healthcare-amravati",
+    "name": "Ayumedic Healthcare",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Ayumedic Healthcare for its strength in General Surgery In Amravati and Medical Center. Its infrastructure includes round-the-clock hospital infrastructure, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078208 03309",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop 36, First floor, Gulshan Plaza, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Gulshan Plaza",
+    "landmark": "Gulshan Plaza",
+    "emergencyContact": "078208 03309",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Ayumedic+Healthcare/data=!4m7!3m6!1s0x3bd6a59348e5e805:0xa599fb119b8ecc98!8m2!3d20.9319655!4d77.7560282!16s%2Fg%2F11t9x2z6b4!19sChIJBejlSJOl1jsRmMyOmxH7maU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ayumedic+Healthcare/data=!4m7!3m6!1s0x3bd6a59348e5e805:0xa599fb119b8ecc98!8m2!3d20.9319655!4d77.7560282!16s%2Fg%2F11t9x2z6b4!19sChIJBejlSJOl1jsRmMyOmxH7maU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9319655,
+      "lng": 77.7560282,
+      "label": "Ayumedic Healthcare",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "babysure-ivf-best-fertility-center-nagpur",
+    "name": "Babysure IVF Best Fertility Center",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Babysure IVF Best Fertility Center is a prominent fertility clinic in Nagpur, known for structured tertiary care across IVF In Amravati and Fertility Care. Its infrastructure includes Google rating 4.9, 871+ public reviews, and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "081810 60060",
+    "alternatePhone": "",
+    "website": "http://babysureivf.com/",
+    "address": "J P Square, Law College Chowk, Amravati Rd, near Aakash Tutorials, Dharampeth, Nagpur, Maharashtra 440010",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440010",
+    "locality": "Dharampeth",
+    "landmark": "near Aakash Tutorials, Dharampeth, Nagpur, Maharashtra 440010",
+    "emergencyContact": "081810 60060",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "871+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Babysure+IVF+Best+Fertility+Center/data=!4m7!3m6!1s0x3bd4c1356963ff1d:0x67532462a7a4f0b2!8m2!3d21.1464293!4d79.0621663!16s%2Fg%2F11fm6jpd7q!19sChIJHf9jaTXB1DsRsvCkp2IkU2c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Babysure+IVF+Best+Fertility+Center/data=!4m7!3m6!1s0x3bd4c1356963ff1d:0x67532462a7a4f0b2!8m2!3d21.1464293!4d79.0621663!16s%2Fg%2F11fm6jpd7q!19sChIJHf9jaTXB1DsRsvCkp2IkU2c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 21.1464293,
+      "lng": 79.0621663,
+      "label": "Babysure IVF Best Fertility Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 871,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bakhtar-hospital-amravati",
+    "name": "BAKHTAR HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, BAKHTAR HOSPITAL offers coordinated hospital care with major focus on Spine Surgery In Amravati. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "082829 20192",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near takhtmal BAMS COLLEGE, near ice factory, Rajapeth, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near ice factory, Rajapeth, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "082829 20192",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/BAKHTAR+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ba696aef1d:0x99ba601fe93a39d!8m2!3d20.9204375!4d77.7578125!16s%2Fg%2F11gddjn54t!19sChIJHe9qabqk1jsRnaOT_gGmmwk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BAKHTAR+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ba696aef1d:0x99ba601fe93a39d!8m2!3d20.9204375!4d77.7578125!16s%2Fg%2F11gddjn54t!19sChIJHe9qabqk1jsRnaOT_gGmmwk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9204375,
+      "lng": 77.7578125,
+      "label": "BAKHTAR HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "baporikar-dental-clinic-amravati",
+    "name": "Baporikar Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Baporikar Dental Clinic is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072768 77176",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No 1, Gurukrupa complex, Shilangan Rd, near Bhuteshwar chowk, Devdatt Nagar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Devdatt Nagar",
+    "landmark": "near Bhuteshwar chowk, Devdatt Nagar, Amravati, Maharashtra 444605",
+    "emergencyContact": "072768 77176",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Baporikar+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5e72169aa45:0xda181678308be2b5!8m2!3d20.9244974!4d77.7486592!16s%2Fg%2F11rznmwvvy!19sChIJRappIeel1jsRteKLMHgWGNo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Baporikar+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5e72169aa45:0xda181678308be2b5!8m2!3d20.9244974!4d77.7486592!16s%2Fg%2F11rznmwvvy!19sChIJRappIeel1jsRteKLMHgWGNo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9244974,
+      "lng": 77.7486592,
+      "label": "Baporikar Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "belokar-hospital-amravati",
+    "name": "Belokar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Belokar Hospital delivers integrated care across Gynecologist Surgery In Amravati. The facility stands out for Google rating 3.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vijay Colony Rd, near Porwal Paint House, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near Porwal Paint House, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Belokar+Hospital/data=!4m7!3m6!1s0x3bd6a56cfd7a0659:0x25c13330426d3501!8m2!3d20.9252665!4d77.7671832!16s%2Fg%2F11f7796_l8!19sChIJWQZ6_Wyl1jsRATVtQjAzwSU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Belokar+Hospital/data=!4m7!3m6!1s0x3bd6a56cfd7a0659:0x25c13330426d3501!8m2!3d20.9252665!4d77.7671832!16s%2Fg%2F11f7796_l8!19sChIJWQZ6_Wyl1jsRATVtQjAzwSU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9252665,
+      "lng": 77.7671832,
+      "label": "Belokar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "belsare-orthocare-hospital-amravati",
+    "name": "Belsare Orthocare Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Belsare Orthocare Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Orthopedic Surgery In Amravati and Orthopaedics. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077984 02993",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Old Kulkarni Hospital, Near Diparchan Hall, Rajapeth to, Ambadevi Rd, Rajapeth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Rajapeth",
+    "landmark": "Near Diparchan Hall, Rajapeth to, Ambadevi Rd, Rajapeth, Amravati, Maharashtra 444605",
+    "emergencyContact": "077984 02993",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Belsare+Orthocare+Hospital/data=!4m7!3m6!1s0x3bd6a5ddcbbddfc3:0x42dea7e4f2ea1d00!8m2!3d20.9217473!4d77.7533471!16s%2Fg%2F11rgljmy_g!19sChIJw9-9y92l1jsRAB3q8uSn3kI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Belsare+Orthocare+Hospital/data=!4m7!3m6!1s0x3bd6a5ddcbbddfc3:0x42dea7e4f2ea1d00!8m2!3d20.9217473!4d77.7533471!16s%2Fg%2F11rgljmy_g!19sChIJw9-9y92l1jsRAB3q8uSn3kI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9217473,
+      "lng": 77.7533471,
+      "label": "Belsare Orthocare Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhojane-maternity-and-nursing-home-amravati",
+    "name": "Bhojane Maternity & Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Bhojane Maternity & Nursing Home has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Gynecologist Surgery In Amravati. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sharda Nagar, Kanwar Nagar, Guruchhaya Colony, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Guruchhaya Colony",
+    "landmark": "Guruchhaya Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Bhojane+Maternity+%26+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4b05b571f37:0x882922e4148e62ea!8m2!3d20.9220144!4d77.7547821!16s%2Fg%2F11c6w2sp8p!19sChIJNx9XW7Ck1jsR6mKOFOQiKYg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhojane+Maternity+%26+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4b05b571f37:0x882922e4148e62ea!8m2!3d20.9220144!4d77.7547821!16s%2Fg%2F11c6w2sp8p!19sChIJNx9XW7Ck1jsR6mKOFOQiKYg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9220144,
+      "lng": 77.7547821,
+      "label": "Bhojane Maternity & Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "bhuyar-maternity-and-eye-hospital-amravati",
+    "name": "Bhuyar Maternity and Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Bhuyar Maternity and Eye Hospital brings together specialists for Gynecologist Surgery In Amravati. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "090227 13798",
+    "alternatePhone": "",
+    "website": "",
+    "address": "11, Shegaon - Rahatgaon Road, Appu Colony, near HDFC Bank, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "near HDFC Bank",
+    "landmark": "near HDFC Bank, Amravati, Maharashtra 444603",
+    "emergencyContact": "090227 13798",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Bhuyar+Maternity+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a343f6f30e1f:0x7f0a227062273a6!8m2!3d20.9530024!4d77.7626327!16s%2Fg%2F11c600lhxm!19sChIJHw7z9kOj1jsRpnMiBiei8Ac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Bhuyar+Maternity+and+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a343f6f30e1f:0x7f0a227062273a6!8m2!3d20.9530024!4d77.7626327!16s%2Fg%2F11c600lhxm!19sChIJHw7z9kOj1jsRpnMiBiei8Ac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9530024,
+      "lng": 77.7626327,
+      "label": "Bhuyar Maternity and Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "birthplace-hospital-mother-and-child-care-hospital-jamel-colony-square",
+    "name": "BirthPlace Hospital (Mother and Child Care Hospital)",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BirthPlace Hospital (Mother and Child Care Hospital) has built a strong reputation in Jamel colony square for multidisciplinary treatment pathways covering Gynecologist Surgery In Amravati, Maternity Centre, and Women and Child Care. With public-facing highlights like Google rating 5.0 and 49+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073036 77771",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Jamel colony square, Maharashtra 444601",
+    "city": "Jamel colony square",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "073036 77771",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Maternity Centre",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "49+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/BirthPlace+Hospital+%28Mother+and+Child+Care+Hospital%29/data=!4m7!3m6!1s0x3bd6bd7e493b3b33:0x97ecf29a64549c1a!8m2!3d20.9438989!4d77.7419317!16s%2Fg%2F11rhpqc91m!19sChIJMzs7SX691jsRGpxUZJry7Jc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/BirthPlace+Hospital+%28Mother+and+Child+Care+Hospital%29/data=!4m7!3m6!1s0x3bd6bd7e493b3b33:0x97ecf29a64549c1a!8m2!3d20.9438989!4d77.7419317!16s%2Fg%2F11rhpqc91m!19sChIJMzs7SX691jsRGpxUZJry7Jc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9438989,
+      "lng": 77.7419317,
+      "label": "BirthPlace Hospital (Mother and Child Care Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 49,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "blood-clinic-amravati",
+    "name": "Blood Clinic",
+    "type": "Hematologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Blood Clinic for its strength in Oncologist Surgery In Amravati and Hematologist. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQJ3+5QV, Rajapeth - Irwin Square Flyover, Amrawati Tahsil, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Amrawati Tahsil",
+    "landmark": "Amrawati Tahsil",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Amravati",
+      "Hematologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Blood+Clinic/data=!4m7!3m6!1s0x3bd6a5d0563b5b49:0x174155f7c027fcaf!8m2!3d20.9304982!4d77.7544136!16s%2Fg%2F11mvb335zw!19sChIJSVs7VtCl1jsRr_wnwPdVQRc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Blood+Clinic/data=!4m7!3m6!1s0x3bd6a5d0563b5b49:0x174155f7c027fcaf!8m2!3d20.9304982!4d77.7544136!16s%2Fg%2F11mvb335zw!19sChIJSVs7VtCl1jsRr_wnwPdVQRc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9304982,
+      "lng": 77.7544136,
+      "label": "Blood Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "brush-dental-clinic-amravati",
+    "name": "Brush Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Brush Dental Clinic for its strength in Oral Surgery In Amravati. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "077661 08108",
+    "alternatePhone": "",
+    "website": "https://g.co/kgs/kJrLJ1d",
+    "address": "Stand Complex, Rajapeth - Irwin Square Flyover, Madhokar Peth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Madhokar Peth",
+    "landmark": "Madhokar Peth",
+    "emergencyContact": "077661 08108",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Brush+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5004dec59c7:0xf69399ffaf077add!8m2!3d20.9207231!4d77.7538163!16s%2Fg%2F11y750j3rj!19sChIJx1nsTQCl1jsR3XoHr_-Zk_Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Brush+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5004dec59c7:0xf69399ffaf077add!8m2!3d20.9207231!4d77.7538163!16s%2Fg%2F11y750j3rj!19sChIJx1nsTQCl1jsR3XoHr_-Zk_Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9207231,
+      "lng": 77.7538163,
+      "label": "Brush Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "cancer-hospital-foundation-amravati",
+    "name": "Cancer Hospital foundation",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Cancer Hospital foundation for its strength in Cancer Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ74+6GR, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Gopal Nagar",
+    "landmark": "Gopal Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Cancer+Hospital+foundation/data=!4m7!3m6!1s0x3bd6a5f9ad5ab3f5:0xd3dd72a88d9f9db2!8m2!3d20.9131176!4d77.7562758!16s%2Fg%2F11gy3590q9!19sChIJ9bNarfml1jsRsp2fjahy3dM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Cancer+Hospital+foundation/data=!4m7!3m6!1s0x3bd6a5f9ad5ab3f5:0xd3dd72a88d9f9db2!8m2!3d20.9131176!4d77.7562758!16s%2Fg%2F11gy3590q9!19sChIJ9bNarfml1jsRsp2fjahy3dM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9131176,
+      "lng": 77.7562758,
+      "label": "Cancer Hospital foundation",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "certified-clinical-nutritionist-aarti-daga-dietitian-amravati",
+    "name": "Certified Clinical Nutritionist Aarti Daga - Dietitian",
+    "type": "Nutritionist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Certified Clinical Nutritionist Aarti Daga - Dietitian brings together specialists for Liver Transplant Surgery In Amravati and Nutritionist. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072638 28982",
+    "alternatePhone": "",
+    "website": "http://www.nutritionistaartidaga.com/",
+    "address": "Aarogyam Polyclinic, Shegaon Naka Rd, opposite to HDFC bank, Tarangan Nagar, Siddhivinayak Nagar, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Siddhivinayak Nagar",
+    "landmark": "opposite to HDFC bank, Tarangan Nagar, Siddhivinayak Nagar, Amravati, Maharashtra 444604",
+    "emergencyContact": "072638 28982",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati",
+      "Nutritionist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Certified+Clinical+Nutritionist+Aarti+Daga+-+Dietitian/data=!4m7!3m6!1s0x3bd6a536f563f8f5:0x2584314f99a82869!8m2!3d20.9528613!4d77.7620757!16s%2Fg%2F11kb0_51rg!19sChIJ9fhj9Tal1jsRaSiomU8xhCU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Certified+Clinical+Nutritionist+Aarti+Daga+-+Dietitian/data=!4m7!3m6!1s0x3bd6a536f563f8f5:0x2584314f99a82869!8m2!3d20.9528613!4d77.7620757!16s%2Fg%2F11kb0_51rg!19sChIJ9fhj9Tal1jsRaSiomU8xhCU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9528613,
+      "lng": 77.7620757,
+      "label": "Certified Clinical Nutritionist Aarti Daga - Dietitian",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chaudhary-hospital-maternity-home-amravati",
+    "name": "Chaudhary Hospital - Maternity Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Chaudhary Hospital - Maternity Home brings together specialists for General Surgery In Amravati. Hospital capacity markers such as Google rating 3.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lane No. 2, near Rathi Nagar Garden, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "near Rathi Nagar Garden, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Chaudhary+Hospital+-+Maternity+Home/data=!4m7!3m6!1s0x3bd6a343a18a87c5:0x491b60616db6dbf5!8m2!3d20.951712!4d77.7638701!16s%2Fg%2F11fzwh04lw!19sChIJxYeKoUOj1jsR9du2bWFgG0k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chaudhary+Hospital+-+Maternity+Home/data=!4m7!3m6!1s0x3bd6a343a18a87c5:0x491b60616db6dbf5!8m2!3d20.951712!4d77.7638701!16s%2Fg%2F11fzwh04lw!19sChIJxYeKoUOj1jsR9du2bWFgG0k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.951712,
+      "lng": 77.7638701,
+      "label": "Chaudhary Hospital - Maternity Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "chaudhary-maternity-and-nursing-hospital-amravati",
+    "name": "Chaudhary Maternity And Nursing Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Chaudhary Maternity And Nursing Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072126 75864",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Near, Vijay Colony Rd, Rukhmini Nagar, Vijay Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vijay Colony",
+    "landmark": "Rukhmini Nagar",
+    "emergencyContact": "072126 75864",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Chaudhary+Maternity+And+Nursing+Hospital/data=!4m7!3m6!1s0x3bd6a4a2b9b4d5e7:0xfcfb045d5f931b83!8m2!3d20.9260399!4d77.766845!16s%2Fg%2F11c6z0z1hr!19sChIJ59W0uaKk1jsRgxuTX10E-_w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Chaudhary+Maternity+And+Nursing+Hospital/data=!4m7!3m6!1s0x3bd6a4a2b9b4d5e7:0xfcfb045d5f931b83!8m2!3d20.9260399!4d77.766845!16s%2Fg%2F11c6z0z1hr!19sChIJ59W0uaKk1jsRgxuTX10E-_w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9260399,
+      "lng": 77.766845,
+      "label": "Chaudhary Maternity And Nursing Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "clinic-amravati",
+    "name": "Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Clinic delivers integrated care across Liver Transplant Surgery In Amravati. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099703 99970",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WP7W+HM8, Unnamed Road, Sharda Vihar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Sharda Vihar",
+    "landmark": "Sharda Vihar",
+    "emergencyContact": "099703 99970",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bd6a56c5821e54b:0x2dd36803fb4a6956!8m2!3d20.9139088!4d77.7466917!16s%2Fg%2F11h6qlgf6g!19sChIJS-UhWGyl1jsRVmlK-wNo0y0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Clinic/data=!4m7!3m6!1s0x3bd6a56c5821e54b:0x2dd36803fb4a6956!8m2!3d20.9139088!4d77.7466917!16s%2Fg%2F11h6qlgf6g!19sChIJS-UhWGyl1jsRVmlK-wNo0y0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9139088,
+      "lng": 77.7466917,
+      "label": "Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dammani-dental-care-laser-and-implants-dental-clinic-amravati",
+    "name": "Dammani Dental Care (Laser & Implants Dental Clinic))",
+    "type": "Cosmetic Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Dammani Dental Care (Laser & Implants Dental Clinic)) for its strength in Oral Surgery In Amravati and Cosmetic Dentist. Its infrastructure includes Google rating 5.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094221 56370",
+    "alternatePhone": "",
+    "website": "http://dammanidentalcare.weebly.com/",
+    "address": "Keshav Colony , Reforms Club Road, Camp Rd, near Vidyabharti College, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "near Vidyabharti College",
+    "landmark": "near Vidyabharti College, Amravati, Maharashtra 444602",
+    "emergencyContact": "094221 56370",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Cosmetic Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dammani+Dental+Care+%28Laser+%26+Implants+Dental+Clinic%29%29/data=!4m7!3m6!1s0x3bd6a5bc1cf3bfdd:0xd0a83eec15db1770!8m2!3d20.9370433!4d77.7737813!16s%2Fg%2F11v5bjxph1!19sChIJ3b_zHLyl1jsRcBfbFew-qNA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dammani+Dental+Care+%28Laser+%26+Implants+Dental+Clinic%29%29/data=!4m7!3m6!1s0x3bd6a5bc1cf3bfdd:0xd0a83eec15db1770!8m2!3d20.9370433!4d77.7737813!16s%2Fg%2F11v5bjxph1!19sChIJ3b_zHLyl1jsRcBfbFew-qNA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9370433,
+      "lng": 77.7737813,
+      "label": "Dammani Dental Care (Laser & Implants Dental Clinic))",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "danish-s-eye-clinic-amravati",
+    "name": "Danish's Eye Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Danish's Eye Clinic has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Heart Surgery In Amravati. Operational strengths including Google rating 4.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "JJ kirana , chamanshahvali, University Rd, Kanta Nagar, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Kanta Nagar",
+    "landmark": "University Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/Danish%27s+Eye+Clinic/data=!4m7!3m6!1s0x3bd6a391dfe55f05:0xb7d02632c7c1d2b6!8m2!3d20.9396564!4d77.7856022!16s%2Fg%2F11ypvy47y9!19sChIJBV_l35Gj1jsRttLBxzIm0Lc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Danish%27s+Eye+Clinic/data=!4m7!3m6!1s0x3bd6a391dfe55f05:0xb7d02632c7c1d2b6!8m2!3d20.9396564!4d77.7856022!16s%2Fg%2F11ypvy47y9!19sChIJBV_l35Gj1jsRttLBxzIm0Lc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9396564,
+      "lng": 77.7856022,
+      "label": "Danish's Eye Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "daphale-hospital-amravati",
+    "name": "Daphale Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Daphale Hospital offers coordinated hospital care with major focus on General Surgery In Amravati. Its infrastructure includes Google rating 4.2, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQG6+4R4, Swami Vivekanand Rd, Gandhi Nagar, Kanwar Nagar, Guruchhaya Colony, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Gandhi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Daphale+Hospital/data=!4m7!3m6!1s0x3bd6a4a4ac6cdff5:0x984f05c4026aedef!8m2!3d20.9250089!4d77.761965!16s%2Fg%2F11bxflkg_v!19sChIJ9d9srKSk1jsR7-1qAsQFT5g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Daphale+Hospital/data=!4m7!3m6!1s0x3bd6a4a4ac6cdff5:0x984f05c4026aedef!8m2!3d20.9250089!4d77.761965!16s%2Fg%2F11bxflkg_v!19sChIJ9d9srKSk1jsR7-1qAsQFT5g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9250089,
+      "lng": 77.761965,
+      "label": "Daphale Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dayasagar-hospital-amravati",
+    "name": "Dayasagar Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Dayasagar Hospital is a prominent government hospital in Amravati, known for structured tertiary care across General Surgery In Amravati. Hospital capacity markers such as Google rating 4.1 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072126 65811",
+    "alternatePhone": "",
+    "website": "https://www.dayasagarhospital.com/",
+    "address": "SRPF Camp Rd, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Amravati",
+    "emergencyContact": "072126 65811",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Dayasagar+Hospital/data=!4m7!3m6!1s0x3bd6a49fd20db4c3:0xa7895e4cbd18201f!8m2!3d20.9364102!4d77.770707!16s%2Fg%2F11b8zdr5lt!19sChIJw7QN0p-k1jsRHyAYvUxeiac?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Dayasagar+Hospital/data=!4m7!3m6!1s0x3bd6a49fd20db4c3:0xa7895e4cbd18201f!8m2!3d20.9364102!4d77.770707!16s%2Fg%2F11b8zdr5lt!19sChIJw7QN0p-k1jsRHyAYvUxeiac?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9364102,
+      "lng": 77.770707,
+      "label": "Dayasagar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "deshmukh-eye-hospital-amravati",
+    "name": "Deshmukh Eye Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Deshmukh Eye Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering General Surgery In Amravati. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072126 63151",
+    "alternatePhone": "",
+    "website": "http://www.deshmukheyehospital.com/",
+    "address": "Khaperde Gardens, Near Irwin square, Netradan Road, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Netradan Road",
+    "landmark": "Near Irwin square, Netradan Road, Amravati, Maharashtra 444602",
+    "emergencyContact": "072126 63151",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Deshmukh+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a4a6c7c23109:0x8f400a1f93046acc!8m2!3d20.9323048!4d77.7614791!16s%2Fg%2F1thkvqv4!19sChIJCTHCx6ak1jsRzGoEkx8KQI8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Deshmukh+Eye+Hospital/data=!4m7!3m6!1s0x3bd6a4a6c7c23109:0x8f400a1f93046acc!8m2!3d20.9323048!4d77.7614791!16s%2Fg%2F1thkvqv4!19sChIJCTHCx6ak1jsRzGoEkx8KQI8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9323048,
+      "lng": 77.7614791,
+      "label": "Deshmukh Eye Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "devi-hospital-rajapeth-amravati-amravati",
+    "name": "DeVI HOSPITAL, Rajapeth, Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, DeVI HOSPITAL, Rajapeth, Amravati brings together specialists for Oncologist Surgery In Amravati. The facility stands out for Google rating 4.8 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080654 87734",
+    "alternatePhone": "",
+    "website": "https://www.devihospitalamravati.in/",
+    "address": "Rajapeth, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Rajapeth",
+    "landmark": "Maharashtra 444604",
+    "emergencyContact": "080654 87734",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/DeVI+HOSPITAL,+Rajapeth,+Amravati/data=!4m7!3m6!1s0x3bd6a36e7e1c8c49:0xae9b05e9d7f84816!8m2!3d20.9191477!4d77.7532703!16s%2Fg%2F11bwf7z6l0!19sChIJSYwcfm6j1jsRFkj41-kFm64?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/DeVI+HOSPITAL,+Rajapeth,+Amravati/data=!4m7!3m6!1s0x3bd6a36e7e1c8c49:0xae9b05e9d7f84816!8m2!3d20.9191477!4d77.7532703!16s%2Fg%2F11bwf7z6l0!19sChIJSYwcfm6j1jsRFkj41-kFm64?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9191477,
+      "lng": 77.7532703,
+      "label": "DeVI HOSPITAL, Rajapeth, Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "durvankur-hospital-amravati",
+    "name": "Durvankur Hospital",
+    "type": "Pulmonologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Durvankur Hospital brings together specialists for Cardiac Surgery In Amravati and Pulmonologist. Its infrastructure includes Google rating 4.9, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097306 28796",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Square Rd, in front of radiant hospital, near pollution control office, Bapatwadi, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near pollution control office, Bapatwadi, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "097306 28796",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cardiac Surgery In Amravati",
+      "Pulmonologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Durvankur+Hospital/data=!4m7!3m6!1s0x3bd6a5db69678c7f:0xefbe8939ed36c235!8m2!3d20.9212741!4d77.7613899!16s%2Fg%2F11h0b22g05!19sChIJf4xnadul1jsRNcI27TmJvu8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Durvankur+Hospital/data=!4m7!3m6!1s0x3bd6a5db69678c7f:0xefbe8939ed36c235!8m2!3d20.9212741!4d77.7613899!16s%2Fg%2F11h0b22g05!19sChIJf4xnadul1jsRNcI27TmJvu8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9212741,
+      "lng": 77.7613899,
+      "label": "Durvankur Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "elara-healthcare-centre-for-women-s-health-heda-hospital-amravati",
+    "name": "Elara Healthcare: Centre for Women's Health (Heda Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Elara Healthcare: Centre for Women's Health (Heda Hospital) brings together specialists for Gynecologist Surgery In Amravati and Women and Child Care. The facility stands out for Google rating 4.9 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://elarahealth.care/",
+    "address": "Kazi compound, Bus stand road, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Maltekdi",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Elara+Healthcare:+Centre+for+Women%27s+Health+%28Heda+Hospital%29/data=!4m7!3m6!1s0x3bd6a5fdbe35a079:0x13868c5af20fa948!8m2!3d20.9303711!4d77.7632013!16s%2Fg%2F11x6prvn_7!19sChIJeaA1vv2l1jsRSKkP8lqMhhM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Elara+Healthcare:+Centre+for+Women%27s+Health+%28Heda+Hospital%29/data=!4m7!3m6!1s0x3bd6a5fdbe35a079:0x13868c5af20fa948!8m2!3d20.9303711!4d77.7632013!16s%2Fg%2F11x6prvn_7!19sChIJeaA1vv2l1jsRSKkP8lqMhhM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9303711,
+      "lng": 77.7632013,
+      "label": "Elara Healthcare: Centre for Women's Health (Heda Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "elite-o-clinic-amravati",
+    "name": "Elite-O-Clinic",
+    "type": "Homeopath",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Elite-O-Clinic brings together specialists for Kidney Transplant Surgery In Amravati and Homeopath. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "083900 39008",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shankar Nagar Rd, Kanwar Nagar, Bapu Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Bapu Colony",
+    "landmark": "Bapu Colony",
+    "emergencyContact": "083900 39008",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati",
+      "Homeopath"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Elite-O-Clinic/data=!4m7!3m6!1s0x3bd6a58eb2b1472f:0xc909c85f47a55f40!8m2!3d20.9139351!4d77.7582686!16s%2Fg%2F11ks61lj7q!19sChIJL0exso6l1jsRQF-lR1_ICck?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Elite-O-Clinic/data=!4m7!3m6!1s0x3bd6a58eb2b1472f:0xc909c85f47a55f40!8m2!3d20.9139351!4d77.7582686!16s%2Fg%2F11ks61lj7q!19sChIJL0exso6l1jsRQF-lR1_ICck?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9139351,
+      "lng": 77.7582686,
+      "label": "Elite-O-Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ganeshkrupa-speciality-dental-clinic-and-implant-center-amravati",
+    "name": "Ganeshkrupa Speciality Dental Clinic and Implant Center",
+    "type": "Dental Implants Periodontist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ganeshkrupa Speciality Dental Clinic and Implant Center has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Oral Surgery In Amravati, Dental Implants Periodontist, and Speciality Care. Operational strengths including Google rating 4.8 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://ganeshkrupaimplantdental.com/",
+    "address": "opposite to Ganpati Diagnostic Center, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Vivekanand Colony",
+    "landmark": "Vivekanand Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dental Implants Periodontist",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Ganeshkrupa+Speciality+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x3bd6a5fac438f53b:0x56c42f18a40a9db3!8m2!3d20.9261203!4d77.7656959!16s%2Fg%2F11ym1fhl6l!19sChIJO_U4xPql1jsRs50KpBgvxFY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ganeshkrupa+Speciality+Dental+Clinic+and+Implant+Center/data=!4m7!3m6!1s0x3bd6a5fac438f53b:0x56c42f18a40a9db3!8m2!3d20.9261203!4d77.7656959!16s%2Fg%2F11ym1fhl6l!19sChIJO_U4xPql1jsRs50KpBgvxFY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9261203,
+      "lng": 77.7656959,
+      "label": "Ganeshkrupa Speciality Dental Clinic and Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "geetai-hospitals-amravati",
+    "name": "Geetai Hospitals",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Geetai Hospitals delivers integrated care across Laparoscopic Surgery In Amravati. Operational strengths including Google rating 4.5 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "099750 94361",
+    "alternatePhone": "",
+    "website": "https://geetaihospitals.com/",
+    "address": "Opp Osmania Masjid, Maltekdi Rd, near Bus Stand, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "near Bus Stand",
+    "landmark": "near Bus Stand, Amravati, Maharashtra 444606",
+    "emergencyContact": "099750 94361",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Geetai+Hospitals/data=!4m7!3m6!1s0x3bd6a4a40e6f2633:0xf9d275e86e2a98f8!8m2!3d20.9296193!4d77.7617399!16s%2Fg%2F11bxdsnbdr!19sChIJMyZvDqSk1jsR-Jgqbuh10vk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Geetai+Hospitals/data=!4m7!3m6!1s0x3bd6a4a40e6f2633:0xf9d275e86e2a98f8!8m2!3d20.9296193!4d77.7617399!16s%2Fg%2F11bxdsnbdr!19sChIJMyZvDqSk1jsR-Jgqbuh10vk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9296193,
+      "lng": 77.7617399,
+      "label": "Geetai Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "genesis-hospital-amravati-amravati",
+    "name": "Genesis Hospital Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Genesis Hospital Amravati has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Liver Transplant Surgery In Amravati. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "078430 55296",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vanrai Marg, behind Santosh Medical, Prashant Nagar, square, Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Prashant Nagar",
+    "emergencyContact": "078430 55296",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Genesis+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a59f058b08a1:0x43f7e29fac412e3b!8m2!3d20.9237244!4d77.7674022!16s%2Fg%2F11x5g0gxn4!19sChIJoQiLBZ-l1jsROy5BrJ_i90M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Genesis+Hospital+Amravati/data=!4m7!3m6!1s0x3bd6a59f058b08a1:0x43f7e29fac412e3b!8m2!3d20.9237244!4d77.7674022!16s%2Fg%2F11x5g0gxn4!19sChIJoQiLBZ-l1jsROy5BrJ_i90M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9237244,
+      "lng": 77.7674022,
+      "label": "Genesis Hospital Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "getlife-laser-piles-hospital-amravati",
+    "name": "Getlife Laser Piles hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Getlife Laser Piles hospital brings together specialists for Liver Transplant Surgery In Amravati. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "091588 82450",
+    "alternatePhone": "",
+    "website": "https://getlife-laser-piles.grexa.site/",
+    "address": "infront of Lali Lawn, Old Bypass, Badnera Rd, MIDC, Amravati, Maharashtra 444701",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444701",
+    "locality": "MIDC",
+    "landmark": "Badnera Rd",
+    "emergencyContact": "091588 82450",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Getlife+Laser+Piles+hospital/data=!4m7!3m6!1s0x3bd6a5502a50485f:0x12d69831a0949265!8m2!3d20.8735124!4d77.7516172!16s%2Fg%2F11kqfcvvfl!19sChIJX0hQKlCl1jsRZZKUoDGY1hI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Getlife+Laser+Piles+hospital/data=!4m7!3m6!1s0x3bd6a5502a50485f:0x12d69831a0949265!8m2!3d20.8735124!4d77.7516172!16s%2Fg%2F11kqfcvvfl!19sChIJX0hQKlCl1jsRZZKUoDGY1hI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.8735124,
+      "lng": 77.7516172,
+      "label": "Getlife Laser Piles hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gleaming-smile-dental-and-cosmetic-clinic-amravati",
+    "name": "Gleaming Smile Dental & Cosmetic Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Gleaming Smile Dental & Cosmetic Clinic has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Oral Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Backside of Tapdia Mall, Shop No 7 Casa Grand Apartment, Plot No 29/1/T, Sai Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Sai Nagar",
+    "landmark": "Plot No 29/1/T",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Gleaming+Smile+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x3bd6a50005df7567:0x64777ca05a2f9484!8m2!3d20.8998529!4d77.7469447!16s%2Fg%2F11y_gqwcdp!19sChIJZ3XfBQCl1jsRhJQvWqB8d2Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gleaming+Smile+Dental+%26+Cosmetic+Clinic/data=!4m7!3m6!1s0x3bd6a50005df7567:0x64777ca05a2f9484!8m2!3d20.8998529!4d77.7469447!16s%2Fg%2F11y_gqwcdp!19sChIJZ3XfBQCl1jsRhJQvWqB8d2Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.8998529,
+      "lng": 77.7469447,
+      "label": "Gleaming Smile Dental & Cosmetic Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "global-dentistry-the-dental-implant-clinic-dental-clinic-in-amravati-amravati",
+    "name": "Global Dentistry - The Dental Implant Clinic | Dental Clinic in Amravati",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Global Dentistry - The Dental Implant Clinic | Dental Clinic in Amravati for its strength in Oral Surgery In Amravati and Dentist. Operational strengths including Google rating 4.3 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098909 88672",
+    "alternatePhone": "",
+    "website": "https://www.globaldentistry.in/",
+    "address": "Diagonally Opposite Dr. Praful Kadu Hospital Aside Mahalle Bandhu, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Opposite Dr. Praful Kadu Hospital Aside Mahalle Bandhu, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "098909 88672",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Global+Dentistry+-+The+Dental+Implant+Clinic+%7C+Dental+Clinic+in+Amravati/data=!4m7!3m6!1s0x3bd6a58cd33b2d73:0xa4b677dab7b3e2!8m2!3d20.9230068!4d77.7633433!16s%2Fg%2F11r9194_xg!19sChIJcy0704yl1jsR4rO32ne2pAA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Global+Dentistry+-+The+Dental+Implant+Clinic+%7C+Dental+Clinic+in+Amravati/data=!4m7!3m6!1s0x3bd6a58cd33b2d73:0xa4b677dab7b3e2!8m2!3d20.9230068!4d77.7633433!16s%2Fg%2F11r9194_xg!19sChIJcy0704yl1jsR4rO32ne2pAA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9230068,
+      "lng": 77.7633433,
+      "label": "Global Dentistry - The Dental Implant Clinic | Dental Clinic in Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "government-hospital-amravati",
+    "name": "Government Hospital",
+    "type": "Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Government Hospital offers coordinated hospital care with major focus on General Surgery In Amravati. Hospital capacity markers such as Google rating 4.7 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WPWV+HJJ, Wahdat Nagar, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Wahdat Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Government+Hospital/data=!4m7!3m6!1s0x3bd6bdf430ff47a9:0x73ccce3b9ae38816!8m2!3d20.9464595!4d77.7440275!16s%2Fg%2F11j8vr1k5w!19sChIJqUf_MPS91jsRFojjmjvOzHM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Government+Hospital/data=!4m7!3m6!1s0x3bd6bdf430ff47a9:0x73ccce3b9ae38816!8m2!3d20.9464595!4d77.7440275!16s%2Fg%2F11j8vr1k5w!19sChIJqUf_MPS91jsRFojjmjvOzHM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9464595,
+      "lng": 77.7440275,
+      "label": "Government Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gupta-hospital-amravati",
+    "name": "Gupta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Gupta Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Amravati. Its infrastructure includes Google rating 4.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "086689 98217",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQP3+93M, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "",
+    "landmark": "Maharashtra 444601",
+    "emergencyContact": "086689 98217",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x3bd6a356045dc24d:0xb57ecef3d7eaebe0!8m2!3d20.9359718!4d77.7526682!16s%2Fg%2F11dx9gq2js!19sChIJTcJdBFaj1jsR4Ovq1_POfrU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gupta+Hospital/data=!4m7!3m6!1s0x3bd6a356045dc24d:0xb57ecef3d7eaebe0!8m2!3d20.9359718!4d77.7526682!16s%2Fg%2F11dx9gq2js!19sChIJTcJdBFaj1jsR4Ovq1_POfrU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9359718,
+      "lng": 77.7526682,
+      "label": "Gupta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "gynoveda-nagpur-dharampeth-ayurveda-fertility-clinic-nagpur",
+    "name": "Gynoveda, Nagpur, Dharampeth. Ayurveda Fertility Clinic",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Nagpur often choose Gynoveda, Nagpur, Dharampeth. Ayurveda Fertility Clinic for its strength in IVF In Amravati and Fertility Care. Hospital capacity markers such as Google rating 4.8, 871+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072400 00700",
+    "alternatePhone": "+91 80423 02695",
+    "website": "https://www.gynoveda.com/",
+    "address": "Shop No UGF 3 at, Amravati Rd, opp. RTO office, Dharampeth, Nagpur, Maharashtra 440010",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440010",
+    "locality": "Dharampeth",
+    "landmark": "opp. RTO office",
+    "emergencyContact": "+91 80423 02695",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/gynoveda",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/gynoveda",
+    "linkedin": "https://in.linkedin.com/company/gynoveda",
+    "youtube": "https://www.youtube.com/@Gynoveda",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "871+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Gynoveda,+Nagpur,+Dharampeth.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3bd4c1c1569b22a1:0x7322887bde88c06d!8m2!3d21.146195!4d79.0638271!16s%2Fg%2F11wbx3l4kz!19sChIJoSKbVsHB1DsRbcCI3nuIInM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Gynoveda,+Nagpur,+Dharampeth.+Ayurveda+Fertility+Clinic/data=!4m7!3m6!1s0x3bd4c1c1569b22a1:0x7322887bde88c06d!8m2!3d21.146195!4d79.0638271!16s%2Fg%2F11wbx3l4kz!19sChIJoSKbVsHB1DsRbcCI3nuIInM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 21.146195,
+      "lng": 79.0638271,
+      "label": "Gynoveda, Nagpur, Dharampeth. Ayurveda Fertility Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 871,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hantodkar-hospital-surgical-and-maternity-home-amravati",
+    "name": "HANTODKAR HOSPITAL Surgical & Maternity Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HANTODKAR HOSPITAL Surgical & Maternity Home has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Liver Transplant Surgery In Amravati. Hospital capacity markers such as Google rating 4.5 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072126 66295",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Computer Circle, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "Gadge Nagar",
+    "emergencyContact": "072126 66295",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/HANTODKAR+HOSPITAL+Surgical+%26+Maternity+Home/data=!4m7!3m6!1s0x3bd6a3d8d6ad3659:0xb2a2df5e5ea95cd9!8m2!3d20.9503806!4d77.765985!16s%2Fg%2F11j92xxh8f!19sChIJWTat1tij1jsR2VypXl7forI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HANTODKAR+HOSPITAL+Surgical+%26+Maternity+Home/data=!4m7!3m6!1s0x3bd6a3d8d6ad3659:0xb2a2df5e5ea95cd9!8m2!3d20.9503806!4d77.765985!16s%2Fg%2F11j92xxh8f!19sChIJWTat1tij1jsR2VypXl7forI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9503806,
+      "lng": 77.765985,
+      "label": "HANTODKAR HOSPITAL Surgical & Maternity Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "heda-root-canal-and-implant-center-amravati",
+    "name": "Heda Root Canal and Implant center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Heda Root Canal and Implant center brings together specialists for Oral Surgery In Amravati. With public-facing highlights like Google rating 4.9, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Shivlahari Hospital, Chitra Chowk, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Chitra Chowk",
+    "landmark": "Chitra Chowk",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Heda+Root+Canal+and+Implant+center/data=!4m7!3m6!1s0x3bd6a5d9bce9e3cd:0x2b9b8ad707d20819!8m2!3d20.9325006!4d77.7533118!16s%2Fg%2F11q3lwpp5m!19sChIJzePpvNml1jsRGQjSB9eKmys?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Heda+Root+Canal+and+Implant+center/data=!4m7!3m6!1s0x3bd6a5d9bce9e3cd:0x2b9b8ad707d20819!8m2!3d20.9325006!4d77.7533118!16s%2Fg%2F11q3lwpp5m!19sChIJzePpvNml1jsRGQjSB9eKmys?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9325006,
+      "lng": 77.7533118,
+      "label": "Heda Root Canal and Implant center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hillview-hospital-amravati",
+    "name": "HillView Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "HillView Hospital is a prominent hospital in Amravati, known for structured tertiary care across Gynecologist Surgery In Amravati. With public-facing highlights like Google rating 3.5, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no. 19, HillView Hospital Shri Colony Back side of Kamal plaza, New Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "New Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://www.google.com/maps/place/HillView+Hospital/data=!4m7!3m6!1s0x3bd6a5a0fb5bee1b:0x4c2c3dfec4cbdc97!8m2!3d20.9082099!4d77.7705378!16s%2Fg%2F11jz3tqjlp!19sChIJG-5b-6Cl1jsRl9zLxP49LEw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/HillView+Hospital/data=!4m7!3m6!1s0x3bd6a5a0fb5bee1b:0x4c2c3dfec4cbdc97!8m2!3d20.9082099!4d77.7705378!16s%2Fg%2F11jz3tqjlp!19sChIJG-5b-6Cl1jsRl9zLxP49LEw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9082099,
+      "lng": 77.7705378,
+      "label": "HillView Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "hope-hospital-amravati",
+    "name": "Hope Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Hope Hospital offers coordinated hospital care with major focus on Liver Transplant Surgery In Amravati and Women and Child Care. The facility stands out for Google rating 2.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 61106",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Badnera Rd, next to palika restaurant, Mudholkar Peth, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Mudholkar Peth",
+    "landmark": "Mudholkar Peth",
+    "emergencyContact": "072125 61106",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.3"
+    ],
+    "image": "https://www.google.com/maps/place/Hope+Hospital/data=!4m7!3m6!1s0x3bd6a4ae375755eb:0x58d29bfd636d2b6c!8m2!3d20.9253534!4d77.7530973!16s%2Fg%2F11bxd9xk8v!19sChIJ61VXN66k1jsRbCttY_2b0lg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Hope+Hospital/data=!4m7!3m6!1s0x3bd6a4ae375755eb:0x58d29bfd636d2b6c!8m2!3d20.9253534!4d77.7530973!16s%2Fg%2F11bxd9xk8v!19sChIJ61VXN66k1jsRbCttY_2b0lg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9253534,
+      "lng": 77.7530973,
+      "label": "Hope Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "icchamani-hospital-amravati",
+    "name": "Icchamani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Icchamani Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Gynecologist Surgery In Amravati. With public-facing highlights like Google rating 4.5 and 2+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "145 samata colony, beside rangoli lawn, Kathora Naka, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Kathora Naka",
+    "landmark": "beside rangoli lawn, Kathora Naka, Amravati, Maharashtra 444604",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "2+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Icchamani+Hospital/data=!4m7!3m6!1s0x3bd6a3383d9fb3b5:0xd04c425ecd628d63!8m2!3d20.9611675!4d77.7575418!16s%2Fg%2F11b6xhjvw_!19sChIJtbOfPTij1jsRY41izV5CTNA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Icchamani+Hospital/data=!4m7!3m6!1s0x3bd6a3383d9fb3b5:0xd04c425ecd628d63!8m2!3d20.9611675!4d77.7575418!16s%2Fg%2F11b6xhjvw_!19sChIJtbOfPTij1jsRY41izV5CTNA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9611675,
+      "lng": 77.7575418,
+      "label": "Icchamani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "inamdar-hospital-amravati",
+    "name": "Inamdar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Inamdar Hospital brings together specialists for Gynecologist Surgery In Amravati. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "077209 36719",
+    "alternatePhone": "",
+    "website": "https://inamdarhospital.com/",
+    "address": "Opposit to Mughal Lawn, Walgaon Rd, near Perfect Dharam Kanta, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "near Perfect Dharam Kanta",
+    "landmark": "near Perfect Dharam Kanta, Amravati, Maharashtra 444601",
+    "emergencyContact": "077209 36719",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Inamdar+Hospital/data=!4m7!3m6!1s0x3bd6bd724b0b40f7:0x5f1292ff8da20879!8m2!3d20.9546158!4d77.7379416!16s%2Fg%2F11n6gqtlgp!19sChIJ90ALS3K91jsReQiijf-SEl8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Inamdar+Hospital/data=!4m7!3m6!1s0x3bd6bd724b0b40f7:0x5f1292ff8da20879!8m2!3d20.9546158!4d77.7379416!16s%2Fg%2F11n6gqtlgp!19sChIJ90ALS3K91jsReQiijf-SEl8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9546158,
+      "lng": 77.7379416,
+      "label": "Inamdar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "indira-ivf-fertility-centre-in-civil-lines-best-ivf-centre-in-nagpur-nagpur",
+    "name": "Indira IVF Fertility Centre in Civil Lines - Best IVF Centre in Nagpur",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted fertility clinic in Nagpur, Indira IVF Fertility Centre in Civil Lines - Best IVF Centre in Nagpur delivers integrated care across IVF In Amravati and Fertility Care. Its infrastructure includes Google rating 4.7 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "088671 81100",
+    "alternatePhone": "",
+    "website": "https://www.indiraivf.com/maharashtra/best-ivf-center-in-amravati",
+    "address": "1st Floor, Nexus Point, Collectors Colony, Civil Lines, Nagpur, Maharashtra 440001",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "pincode": "440001",
+    "locality": "Civil Lines",
+    "landmark": "Collectors Colony",
+    "emergencyContact": "088671 81100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Civil+Lines+-+Best+IVF+Centre+in+Nagpur/data=!4m7!3m6!1s0x3bd6a5d7776a541d:0x5d13954446105ef6!8m2!3d21.1534864!4d79.0784799!16s%2Fg%2F11xd1xf6j9!19sChIJHVRqd9el1jsR9l4QRkSVE10?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Indira+IVF+Fertility+Centre+in+Civil+Lines+-+Best+IVF+Centre+in+Nagpur/data=!4m7!3m6!1s0x3bd6a5d7776a541d:0x5d13954446105ef6!8m2!3d21.1534864!4d79.0784799!16s%2Fg%2F11xd1xf6j9!19sChIJHVRqd9el1jsR9l4QRkSVE10?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 21.1534864,
+      "lng": 79.0784799,
+      "label": "Indira IVF Fertility Centre in Civil Lines - Best IVF Centre in Nagpur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ingole-hospital-and-breast-cancer-surgical-center-amravati",
+    "name": "Ingole Hospital and Breast Cancer Surgical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Ingole Hospital and Breast Cancer Surgical Center delivers integrated care across Liver Transplant Surgery In Amravati. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072126 73259",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Maharashtra 444606",
+    "emergencyContact": "072126 73259",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Ingole+Hospital+and+Breast+Cancer+Surgical+Center/data=!4m7!3m6!1s0x3bd6a49830c89157:0xd00c6f95f80f144b!8m2!3d20.9265145!4d77.7703453!16s%2Fg%2F11d_tw7k5f!19sChIJV5HIMJik1jsRSxQP-JVvDNA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ingole+Hospital+and+Breast+Cancer+Surgical+Center/data=!4m7!3m6!1s0x3bd6a49830c89157:0xd00c6f95f80f144b!8m2!3d20.9265145!4d77.7703453!16s%2Fg%2F11d_tw7k5f!19sChIJV5HIMJik1jsRSxQP-JVvDNA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9265145,
+      "lng": 77.7703453,
+      "label": "Ingole Hospital and Breast Cancer Surgical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "jamthe-hospital-amravati",
+    "name": "Jamthe Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Jamthe Hospital delivers integrated care across Gynecologist Surgery In Amravati. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094229 11109",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Congress Nagar Rd, near yadgire hospital, Vijay Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vijay Colony",
+    "landmark": "near yadgire hospital, Vijay Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "094229 11109",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Jamthe+Hospital/data=!4m7!3m6!1s0x3bd6a5d07300a5dd:0xe600fc4b3b869f2a!8m2!3d20.9272034!4d77.7673844!16s%2Fg%2F11gtd13fkg!19sChIJ3aUAc9Cl1jsRKp-GO0v8AOY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Jamthe+Hospital/data=!4m7!3m6!1s0x3bd6a5d07300a5dd:0xe600fc4b3b869f2a!8m2!3d20.9272034!4d77.7673844!16s%2Fg%2F11gtd13fkg!19sChIJ3aUAc9Cl1jsRKp-GO0v8AOY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9272034,
+      "lng": 77.7673844,
+      "label": "Jamthe Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kabra-hospital-amravati",
+    "name": "Kabra Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Kabra Hospital for its strength in Gynecologist Surgery In Amravati. Operational strengths including Google rating 4.3 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ97+8R3, Unnamed Road, Dastur, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur",
+    "landmark": "Dastur",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Kabra+Hospital/data=!4m7!3m6!1s0x3bd6a4be8e286e47:0x8e9fbef9a9466d71!8m2!3d20.9182692!4d77.7645443!16s%2Fg%2F11f_4r_v17!19sChIJR24ojr6k1jsRcW1Gqfm-n44?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kabra+Hospital/data=!4m7!3m6!1s0x3bd6a4be8e286e47:0x8e9fbef9a9466d71!8m2!3d20.9182692!4d77.7645443!16s%2Fg%2F11f_4r_v17!19sChIJR24ojr6k1jsRcW1Gqfm-n44?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9182692,
+      "lng": 77.7645443,
+      "label": "Kabra Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kale-nursing-home-amravati",
+    "name": "Kale Nursing Home",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Kale Nursing Home delivers integrated care across Gynecologist Surgery In Amravati. The facility stands out for Google rating 3.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQJ6+FQC, Maltekdi Rd, Khaparde Bagicha, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Khaparde Bagicha",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2"
+    ],
+    "image": "https://www.google.com/maps/place/Kale+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4a6aec68d8b:0x4af649d4258f1e92!8m2!3d20.9311769!4d77.7619013!16s%2Fg%2F1v3kfzb1!19sChIJi43Grqak1jsRkh6PJdRJ9ko?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kale+Nursing+Home/data=!4m7!3m6!1s0x3bd6a4a6aec68d8b:0x4af649d4258f1e92!8m2!3d20.9311769!4d77.7619013!16s%2Fg%2F1v3kfzb1!19sChIJi43Grqak1jsRkh6PJdRJ9ko?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9311769,
+      "lng": 77.7619013,
+      "label": "Kale Nursing Home",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kalode-hospital-amravati",
+    "name": "Kalode Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Kalode Hospital for its strength in Gynecologist Surgery In Amravati. The facility stands out for Google rating 1.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072125 51014",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQJ8+8G3, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 51014",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 1.9"
+    ],
+    "image": "https://www.google.com/maps/place/Kalode+Hospital/data=!4m7!3m6!1s0x3bd6a4a226cb6ad1:0xfe7cce31c0ef1a9c!8m2!3d20.9307679!4d77.7662856!16s%2Fg%2F11cs4h75q4!19sChIJ0WrLJqKk1jsRnBrvwDHOfP4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kalode+Hospital/data=!4m7!3m6!1s0x3bd6a4a226cb6ad1:0xfe7cce31c0ef1a9c!8m2!3d20.9307679!4d77.7662856!16s%2Fg%2F11cs4h75q4!19sChIJ0WrLJqKk1jsRnBrvwDHOfP4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9307679,
+      "lng": 77.7662856,
+      "label": "Kalode Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 1.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kaware-s-ayurveda-panchakarma-hospital-amravati",
+    "name": "Kaware's Ayurveda, Panchakarma Hospital",
+    "type": "Ayurvedic Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kaware's Ayurveda, Panchakarma Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Gynecologist Surgery In Amravati. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "070666 52551",
+    "alternatePhone": "",
+    "website": "http://www.kawares.com/",
+    "address": "Opp. Government Polytechnic Gate, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "070666 52551",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kaware%27s+Ayurveda,+Panchakarma+Hospital/data=!4m7!3m6!1s0x3bd6a3eea3b58b87:0xfc01f4a665ad7b7b!8m2!3d20.946514!4d77.7656687!16s%2Fg%2F11j0qd8lws!19sChIJh4u1o-6j1jsRe3utZab0Afw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kaware%27s+Ayurveda,+Panchakarma+Hospital/data=!4m7!3m6!1s0x3bd6a3eea3b58b87:0xfc01f4a665ad7b7b!8m2!3d20.946514!4d77.7656687!16s%2Fg%2F11j0qd8lws!19sChIJh4u1o-6j1jsRe3utZab0Afw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.946514,
+      "lng": 77.7656687,
+      "label": "Kaware's Ayurveda, Panchakarma Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kidney-dialysis-center-in-amravati-the-renal-project-amravati",
+    "name": "Kidney Dialysis Center in Amravati | The Renal Project",
+    "type": "Dialysis Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Kidney Dialysis Center in Amravati | The Renal Project is a prominent dialysis center in Amravati, known for structured tertiary care across Kidney Transplant Surgery In Amravati, Dialysis Center, Kidney Care, and Renal Care. The facility stands out for Google rating 4.5, 14+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091678 60981",
+    "alternatePhone": "",
+    "website": "https://therenalproject.com/",
+    "address": "Sankalp Critical Care Center, near adarsh prathamik shala, Khaparde Bagicha, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "near adarsh prathamik shala, Khaparde Bagicha, Maltekdi, Amravati, Maharashtra 444602",
+    "emergencyContact": "091678 60981",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati",
+      "Dialysis Center",
+      "Kidney Care",
+      "Renal Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "14+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Kidney+Dialysis+Center+in+Amravati+%7C+The+Renal+Project/data=!4m7!3m6!1s0x3bd6a5bcf212bba1:0xc95550876e5c9168!8m2!3d20.932816!4d77.7615357!16s%2Fg%2F11tx1rj014!19sChIJobsS8ryl1jsRaJFcbodQVck?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kidney+Dialysis+Center+in+Amravati+%7C+The+Renal+Project/data=!4m7!3m6!1s0x3bd6a5bcf212bba1:0xc95550876e5c9168!8m2!3d20.932816!4d77.7615357!16s%2Fg%2F11tx1rj014!19sChIJobsS8ryl1jsRaJFcbodQVck?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.932816,
+      "lng": 77.7615357,
+      "label": "Kidney Dialysis Center in Amravati | The Renal Project",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 14,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kitukale-hospital-amravati",
+    "name": "Kitukale Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Kitukale Hospital brings together specialists for General Surgery In Amravati. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094052 80892",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XQ74+FQR, Kathora Naka, Samta Colony, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Samta Colony",
+    "landmark": "Samta Colony",
+    "emergencyContact": "094052 80892",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Kitukale+Hospital/data=!4m7!3m6!1s0x3bd6a3e9ecc5c649:0xaee5edd261a9f799!8m2!3d20.9637362!4d77.756884!16s%2Fg%2F11rk8c8dtn!19sChIJScbF7Omj1jsRmfepYdLt5a4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kitukale+Hospital/data=!4m7!3m6!1s0x3bd6a3e9ecc5c649:0xaee5edd261a9f799!8m2!3d20.9637362!4d77.756884!16s%2Fg%2F11rk8c8dtn!19sChIJScbF7Omj1jsRmfepYdLt5a4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9637362,
+      "lng": 77.756884,
+      "label": "Kitukale Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kolhe-s-superspecility-dental-clinic-and-implant-center-amravati",
+    "name": "Kolhe's Superspecility Dental Clinic And Implant Center",
+    "type": "Emergency Dental Service",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Kolhe's Superspecility Dental Clinic And Implant Center for its strength in Oral Surgery In Amravati and Emergency Dental Service. Hospital capacity markers such as Google rating 4.2 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "073874 31053",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Venus plaza, Shegaon Naka Rd, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Shegaon Naka Rd",
+    "landmark": "Amravati",
+    "emergencyContact": "073874 31053",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Emergency Dental Service"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://www.google.com/maps/place/Kolhe%27s+Superspecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a3c070eb0d0f:0xf52709aa4d32bd76!8m2!3d20.9522632!4d77.7618453!16s%2Fg%2F11h75_rpgq!19sChIJDw3rcMCj1jsRdr0yTaoJJ_U?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kolhe%27s+Superspecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a3c070eb0d0f:0xf52709aa4d32bd76!8m2!3d20.9522632!4d77.7618453!16s%2Fg%2F11h75_rpgq!19sChIJDw3rcMCj1jsRdr0yTaoJJ_U?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9522632,
+      "lng": 77.7618453,
+      "label": "Kolhe's Superspecility Dental Clinic And Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kulkarni-hospital-amravati",
+    "name": "Kulkarni Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Kulkarni Hospital offers coordinated hospital care with major focus on Orthopedic Surgery In Amravati. Operational strengths including Google rating 3.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQC3+P96, Balaji Plot, Rajapeth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Rajapeth",
+    "landmark": "Rajapeth",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Kulkarni+Hospital/data=!4m7!3m6!1s0x3bd6a4b1b05aebc1:0x120961260b5223c1!8m2!3d20.9217929!4d77.753398!16s%2Fg%2F1vcl26wq!19sChIJwetasLGk1jsRwSNSCyZhCRI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Kulkarni+Hospital/data=!4m7!3m6!1s0x3bd6a4b1b05aebc1:0x120961260b5223c1!8m2!3d20.9217929!4d77.753398!16s%2Fg%2F1vcl26wq!19sChIJwetasLGk1jsRwSNSCyZhCRI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9217929,
+      "lng": 77.753398,
+      "label": "Kulkarni Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "kuthe-hospital-amravati",
+    "name": "KUTHE HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, KUTHE HOSPITAL offers coordinated hospital care with major focus on Gynecologist Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 75352",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Badnera Rd, Patvipura, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Patvipura",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 75352",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/KUTHE+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ae2ef37c7b:0x8121ead7c0779730!8m2!3d20.9246523!4d77.753605!16s%2Fg%2F11g6p2wh7t!19sChIJe3zzLq6k1jsRMJd3wNfqIYE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/KUTHE+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4ae2ef37c7b:0x8121ead7c0779730!8m2!3d20.9246523!4d77.753605!16s%2Fg%2F11g6p2wh7t!19sChIJe3zzLq6k1jsRMJd3wNfqIYE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9246523,
+      "lng": 77.753605,
+      "label": "KUTHE HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "laddha-s-advanced-dental-care-amravati",
+    "name": "LADDHA'S ADVANCED DENTAL CARE",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, LADDHA'S ADVANCED DENTAL CARE brings together specialists for Oral Surgery In Amravati. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094053 21075",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Rajkamal chowk, in front of waman haripthe jwellers, above Bhavnagar wala shop, Amba Peth, road, Badera, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Badera",
+    "landmark": "in front of waman haripthe jwellers",
+    "emergencyContact": "094053 21075",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/LADDHA%27S+ADVANCED+DENTAL+CARE/data=!4m7!3m6!1s0x3bd6a5a6e0f7f119:0x2c32faadf285fcff!8m2!3d20.9272269!4d77.7536186!16s%2Fg%2F11p_8kcldf!19sChIJGfH34Kal1jsR__yF8q36Miw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/LADDHA%27S+ADVANCED+DENTAL+CARE/data=!4m7!3m6!1s0x3bd6a5a6e0f7f119:0x2c32faadf285fcff!8m2!3d20.9272269!4d77.7536186!16s%2Fg%2F11p_8kcldf!19sChIJGfH34Kal1jsR__yF8q36Miw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9272269,
+      "lng": 77.7536186,
+      "label": "LADDHA'S ADVANCED DENTAL CARE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "let-s-conceive-amravati",
+    "name": "Let's Conceive",
+    "type": "Life Coach",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Let's Conceive is a prominent life coach in Amravati, known for structured tertiary care across IVF In Amravati and Life Coach. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "https://www.letsconceive.in/",
+    "address": "Dahisath Rd, near Rao Hospital, inside Ambagate, Indra Prastha, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Indra Prastha",
+    "landmark": "near Rao Hospital, inside Ambagate, Indra Prastha, Amravati, Maharashtra 444601",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Life Coach"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Let%27s+Conceive/data=!4m7!3m6!1s0x3bd6a54689b69efb:0xe514a6a321b8b610!8m2!3d20.9322841!4d77.7453665!16s%2Fg%2F11wc2lz9kd!19sChIJ-562iUal1jsRELa4IaOmFOU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Let%27s+Conceive/data=!4m7!3m6!1s0x3bd6a54689b69efb:0xe514a6a321b8b610!8m2!3d20.9322841!4d77.7453665!16s%2Fg%2F11wc2lz9kd!19sChIJ-562iUal1jsRELa4IaOmFOU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9322841,
+      "lng": 77.7453665,
+      "label": "Let's Conceive",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifecare-children-hospital-amravati",
+    "name": "LifeCare Children Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose LifeCare Children Hospital for its strength in General Surgery In Amravati and Women and Child Care. Operational strengths including Google rating 4.6 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072125 67307",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st Lane, Square Rd, near Bombay Saloon, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near Bombay Saloon, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "072125 67307",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/LifeCare+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4a34212e8b5:0x69b7c4278bf0b!8m2!3d20.924556!4d77.7631242!16s%2Fg%2F11fxzrqvyg!19sChIJtegSQqOk1jsRC794QnybBgA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/LifeCare+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4a34212e8b5:0x69b7c4278bf0b!8m2!3d20.924556!4d77.7631242!16s%2Fg%2F11fxzrqvyg!19sChIJtegSQqOk1jsRC794QnybBgA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.924556,
+      "lng": 77.7631242,
+      "label": "LifeCare Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lifeline-hospital-amravati-amravati",
+    "name": "Lifeline Hospital, Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Lifeline Hospital, Amravati is a prominent hospital in Amravati, known for structured tertiary care across Gynecologist Surgery In Amravati. With public-facing highlights like Google rating 4.4, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "087882 04761",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Besides, Vijay Colony Rd, behind HP petrol pump, Rukhmini Nagar, Vijay colony, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "behind HP petrol pump",
+    "emergencyContact": "087882 04761",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Lifeline+Hospital,+Amravati/data=!4m7!3m6!1s0x3bd6a4a2c1ed13dd:0x37e02c007f49b8c9!8m2!3d20.9266596!4d77.7663666!16s%2Fg%2F11f30w7nw7!19sChIJ3RPtwaKk1jsRybhJfwAs4Dc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lifeline+Hospital,+Amravati/data=!4m7!3m6!1s0x3bd6a4a2c1ed13dd:0x37e02c007f49b8c9!8m2!3d20.9266596!4d77.7663666!16s%2Fg%2F11f30w7nw7!19sChIJ3RPtwaKk1jsRybhJfwAs4Dc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9266596,
+      "lng": 77.7663666,
+      "label": "Lifeline Hospital, Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "lotus-sonography-and-xray-clinic-irwin-square-amravati",
+    "name": "Lotus Sonography & Xray Clinic,Irwin Square",
+    "type": "Radiologist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Lotus Sonography & Xray Clinic,Irwin Square brings together specialists for Oral Surgery In Amravati and Radiologist. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090758 68946",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Irwin square, above Medplus medical shop, near Burhanpur Jalebi, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "near Burhanpur Jalebi",
+    "landmark": "near Burhanpur Jalebi, Amravati, Maharashtra 444601",
+    "emergencyContact": "090758 68946",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Radiologist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Lotus+Sonography+%26+Xray+Clinic,Irwin+Square/data=!4m7!3m6!1s0x3bd6a5559d75d1f5:0x77fffc4396785629!8m2!3d20.9339136!4d77.7609159!16s%2Fg%2F11w832ryv2!19sChIJ9dF1nVWl1jsRKVZ4lkP8_3c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Lotus+Sonography+%26+Xray+Clinic,Irwin+Square/data=!4m7!3m6!1s0x3bd6a5559d75d1f5:0x77fffc4396785629!8m2!3d20.9339136!4d77.7609159!16s%2Fg%2F11w832ryv2!19sChIJ9dF1nVWl1jsRKVZ4lkP8_3c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9339136,
+      "lng": 77.7609159,
+      "label": "Lotus Sonography & Xray Clinic,Irwin Square",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "madhavbaug-rajapeth-clinic-amravati",
+    "name": "Madhavbaug Rajapeth clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Madhavbaug Rajapeth clinic is a prominent hospital in Amravati, known for structured tertiary care across Heart Surgery In Amravati. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "070383 72266",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Madhavbaug Rajapeth clinic, Infront of Dr.Potode hospital, Badnera Rd, Mudholkar Peth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Mudholkar Peth",
+    "landmark": "Badnera Rd",
+    "emergencyContact": "070383 72266",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Madhavbaug+Rajapeth+clinic/data=!4m7!3m6!1s0x3bd6a57f486f2907:0x688932c2f536f622!8m2!3d20.9246507!4d77.7530728!16s%2Fg%2F11kyj_1nrh!19sChIJBylvSH-l1jsRIvY29cIyiWg?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Madhavbaug+Rajapeth+clinic/data=!4m7!3m6!1s0x3bd6a57f486f2907:0x688932c2f536f622!8m2!3d20.9246507!4d77.7530728!16s%2Fg%2F11kyj_1nrh!19sChIJBylvSH-l1jsRIvY29cIyiWg?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9246507,
+      "lng": 77.7530728,
+      "label": "Madhavbaug Rajapeth clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "malviya-dent-o-care-amravati",
+    "name": "Malviya Dent-O-Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Malviya Dent-O-Care brings together specialists for Oral Surgery In Amravati. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pratik Tower, Shop no 5, Shankar Nagar Rd, near Swastik printers, Tirupati nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Tirupati nagar",
+    "landmark": "near Swastik printers, Tirupati nagar, Amravati, Maharashtra 444607",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Malviya+Dent-O-Care/data=!4m7!3m6!1s0x3bd6a54036258fb3:0xa07f55e26a4cf950!8m2!3d20.9128036!4d77.7583276!16s%2Fg%2F11rch8z0yx!19sChIJs48lNkCl1jsRUPlMauJVf6A?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Malviya+Dent-O-Care/data=!4m7!3m6!1s0x3bd6a54036258fb3:0xa07f55e26a4cf950!8m2!3d20.9128036!4d77.7583276!16s%2Fg%2F11rch8z0yx!19sChIJs48lNkCl1jsRUPlMauJVf6A?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9128036,
+      "lng": 77.7583276,
+      "label": "Malviya Dent-O-Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mangalmurti-surgical-and-homeopathy-clinic-amravati",
+    "name": "Mangalmurti Surgical And Homeopathy clinic",
+    "type": "Surgical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Mangalmurti Surgical And Homeopathy clinic for its strength in Liver Transplant Surgery In Amravati and Surgical Center. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094236 24066",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Swastik Sankul, Badnera Rd, in front of Rudresh Mangalam, Vidhya Vihar Colony, Navathe Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Navathe Nagar",
+    "landmark": "in front of Rudresh Mangalam",
+    "emergencyContact": "094236 24066",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati",
+      "Surgical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Mangalmurti+Surgical+And+Homeopathy+clinic/data=!4m7!3m6!1s0x3bd6a5adbf841b97:0xcfe36a1ecc9387f2!8m2!3d20.9087339!4d77.7515227!16s%2Fg%2F11x7z1t4b5!19sChIJlxuEv62l1jsR8oeTzB5q488?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mangalmurti+Surgical+And+Homeopathy+clinic/data=!4m7!3m6!1s0x3bd6a5adbf841b97:0xcfe36a1ecc9387f2!8m2!3d20.9087339!4d77.7515227!16s%2Fg%2F11x7z1t4b5!19sChIJlxuEv62l1jsR8oeTzB5q488?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9087339,
+      "lng": 77.7515227,
+      "label": "Mangalmurti Surgical And Homeopathy clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "matruchhaya-hospital-amravati",
+    "name": "Matruchhaya Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Matruchhaya Hospital brings together specialists for Heart Surgery In Amravati. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072125 66980",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dande Plot 50, 2, Dastur Nagar Rd, Rajapeth, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Dastur Nagar Rd",
+    "emergencyContact": "072125 66980",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Matruchhaya+Hospital/data=!4m7!3m6!1s0x3bd6a4ba151c3407:0x8a24effbe51851db!8m2!3d20.920115!4d77.7579736!16s%2Fg%2F11c6193st0!19sChIJBzQcFbqk1jsR21EY5fvvJIo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Matruchhaya+Hospital/data=!4m7!3m6!1s0x3bd6a4ba151c3407:0x8a24effbe51851db!8m2!3d20.920115!4d77.7579736!16s%2Fg%2F11c6193st0!19sChIJBzQcFbqk1jsR21EY5fvvJIo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.920115,
+      "lng": 77.7579736,
+      "label": "Matruchhaya Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mauli-dentoperio-and-implant-clinic-amravati",
+    "name": "Mauli Dentoperio and Implant clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Mauli Dentoperio and Implant clinic brings together specialists for Oral Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "090752 41475",
+    "alternatePhone": "",
+    "website": "",
+    "address": "First floor, Shree Sai appartment, Kanwar nagar square, near Manbhari, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "near Manbhari, Dastur Nagar, Amravati, Maharashtra 444606",
+    "emergencyContact": "090752 41475",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mauli+Dentoperio+and+Implant+clinic/data=!4m7!3m6!1s0x3bd6a3854c44a335:0xa4251a318c604088!8m2!3d20.9177161!4d77.7604496!16s%2Fg%2F11txlpp2h7!19sChIJNaNETIWj1jsRiEBgjDEaJaQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mauli+Dentoperio+and+Implant+clinic/data=!4m7!3m6!1s0x3bd6a3854c44a335:0xa4251a318c604088!8m2!3d20.9177161!4d77.7604496!16s%2Fg%2F11txlpp2h7!19sChIJNaNETIWj1jsRiEBgjDEaJaQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9177161,
+      "lng": 77.7604496,
+      "label": "Mauli Dentoperio and Implant clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mauli-neurocare-and-neurosurgery-hospital-amravati",
+    "name": "Mauli Neurocare and Neurosurgery Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Mauli Neurocare and Neurosurgery Hospital offers coordinated hospital care with major focus on Spine Neurosurgeon In Amravati and Neurosciences. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "084460 38676",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Square Rd, near Ashirvaad Nursing home, near sindh Medical, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near Ashirvaad Nursing home, near sindh Medical, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "084460 38676",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Neurosurgeon In Amravati",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Mauli+Neurocare+and+Neurosurgery+Hospital/data=!4m7!3m6!1s0x3bd6a516d6f0441b:0xae5f6fd436717d7a!8m2!3d20.9273003!4d77.764483!16s%2Fg%2F11rv1krm66!19sChIJG0Tw1hal1jsRen1xNtRvX64?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mauli+Neurocare+and+Neurosurgery+Hospital/data=!4m7!3m6!1s0x3bd6a516d6f0441b:0xae5f6fd436717d7a!8m2!3d20.9273003!4d77.764483!16s%2Fg%2F11rv1krm66!19sChIJG0Tw1hal1jsRen1xNtRvX64?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9273003,
+      "lng": 77.764483,
+      "label": "Mauli Neurocare and Neurosurgery Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "medi-tech-hospital-amravati",
+    "name": "Medi-tech Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Medi-tech Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering General Surgery In Amravati. Hospital capacity markers such as Google rating 4.4 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072125 67212",
+    "alternatePhone": "",
+    "website": "",
+    "address": "112, Raghunandan Arcade, Dastur Nagar Rd, Rajapeth, Vivekanand Colony, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Vivekanand Colony",
+    "landmark": "Dastur Nagar Rd",
+    "emergencyContact": "072125 67212",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Medi-tech+Hospital/data=!4m7!3m6!1s0x3bd6a4b078c5d745:0xde402f447c625741!8m2!3d20.9219484!4d77.7565393!16s%2Fg%2F11cscc2ln_!19sChIJRdfFeLCk1jsRQVdifEQvQN4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Medi-tech+Hospital/data=!4m7!3m6!1s0x3bd6a4b078c5d745:0xde402f447c625741!8m2!3d20.9219484!4d77.7565393!16s%2Fg%2F11cscc2ln_!19sChIJRdfFeLCk1jsRQVdifEQvQN4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9219484,
+      "lng": 77.7565393,
+      "label": "Medi-tech Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "meshram-amravati",
+    "name": "Meshram",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Meshram is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. Hospital capacity markers such as round-the-clock hospital infrastructure support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQF9+63J, Prashant Nagar Rd Number 2, Prashant Nagar, Kanwar Nagar, Guruchhaya Colony, Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Prashant Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Meshram/data=!4m7!3m6!1s0x3bd6a55041b1306b:0xf516827aff5eff8e!8m2!3d20.9230972!4d77.7676436!16s%2Fg%2F11pvmljn3z!19sChIJazCxQVCl1jsRjv9e_3qCFvU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Meshram/data=!4m7!3m6!1s0x3bd6a55041b1306b:0xf516827aff5eff8e!8m2!3d20.9230972!4d77.7676436!16s%2Fg%2F11pvmljn3z!19sChIJazCxQVCl1jsRjv9e_3qCFvU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9230972,
+      "lng": 77.7676436,
+      "label": "Meshram",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "milke-orthocare-and-dental-clinic-amravati",
+    "name": "Milke orthocare and dental clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Milke orthocare and dental clinic offers coordinated hospital care with major focus on Orthopedic Surgery In Amravati and Orthopaedics. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "091561 63945",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vidyut Nagar Main Rd, Shram-Safalya Colony, Holywood Nagar, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Holywood Nagar",
+    "landmark": "Holywood Nagar",
+    "emergencyContact": "091561 63945",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Milke+orthocare+and+dental+clinic/data=!4m7!3m6!1s0x3bd6a3ce9fc7af5f:0xe6018c76b22f3ede!8m2!3d20.9640054!4d77.7501115!16s%2Fg%2F11h3z7mtyj!19sChIJX6_Hn86j1jsR3j4vsnaMAeY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Milke+orthocare+and+dental+clinic/data=!4m7!3m6!1s0x3bd6a3ce9fc7af5f:0xe6018c76b22f3ede!8m2!3d20.9640054!4d77.7501115!16s%2Fg%2F11h3z7mtyj!19sChIJX6_Hn86j1jsR3j4vsnaMAeY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9640054,
+      "lng": 77.7501115,
+      "label": "Milke orthocare and dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "misar-hospital-amravati",
+    "name": "Misar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Misar Hospital brings together specialists for General Surgery In Amravati. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072126 71114",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Prashantnagar Chowk, Besides Sankatmochan Temple, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Besides Sankatmochan Temple",
+    "landmark": "Amravati",
+    "emergencyContact": "072126 71114",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://www.google.com/maps/place/Misar+Hospital/data=!4m7!3m6!1s0x3bd6a4bd646abe91:0x1e57275cdcd6cb41!8m2!3d20.9233397!4d77.7676577!16s%2Fg%2F11bxfs_86s!19sChIJkb5qZL2k1jsRQcvW3FwnVx4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Misar+Hospital/data=!4m7!3m6!1s0x3bd6a4bd646abe91:0x1e57275cdcd6cb41!8m2!3d20.9233397!4d77.7676577!16s%2Fg%2F11bxfs_86s!19sChIJkb5qZL2k1jsRQcvW3FwnVx4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9233397,
+      "lng": 77.7676577,
+      "label": "Misar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "morpheus-shubham-international-ivf-center-amravati",
+    "name": "Morpheus Shubham International IVF Center",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Morpheus Shubham International IVF Center is a prominent medical clinic in Amravati, known for structured tertiary care across IVF In Amravati and Fertility Care. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072125 76007",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ93+64M, Shubham Hi-Tech Hospital, Raja Peth, Bandera Road, opp. Exide Batteries Mantri Motors, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "opp. Exide Batteries Mantri Motors",
+    "landmark": "Raja Peth",
+    "emergencyContact": "072125 76007",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Morpheus+Shubham+International+IVF+Center/data=!4m7!3m6!1s0x3bd6a4b6cb6de94d:0x579dfbfc1996543c!8m2!3d20.9180966!4d77.7528096!16s%2Fg%2F11b7b_76m8!19sChIJTelty7ak1jsRPFSWGfz7nVc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Morpheus+Shubham+International+IVF+Center/data=!4m7!3m6!1s0x3bd6a4b6cb6de94d:0x579dfbfc1996543c!8m2!3d20.9180966!4d77.7528096!16s%2Fg%2F11b7b_76m8!19sChIJTelty7ak1jsRPFSWGfz7nVc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9180966,
+      "lng": 77.7528096,
+      "label": "Morpheus Shubham International IVF Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mugdha-eecp-and-heart-care-center-amravati",
+    "name": "Mugdha EECP & Heart Care Center",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Mugdha EECP & Heart Care Center brings together specialists for Heart Surgery In Amravati and Cardiac Care. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "082828 27909",
+    "alternatePhone": "",
+    "website": "https://www.mugdhaeecpheartcare.com/",
+    "address": "in front of Modedrn Electronic Mall, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Vivekanand Colony",
+    "emergencyContact": "082828 27909",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mugdha+EECP+%26+Heart+Care+Center/data=!4m7!3m6!1s0x3bd6a531066cbbeb:0x352ec8f72ce35189!8m2!3d20.9266456!4d77.7647211!16s%2Fg%2F11n48r0tzm!19sChIJ67tsBjGl1jsRiVHjLPfILjU?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mugdha+EECP+%26+Heart+Care+Center/data=!4m7!3m6!1s0x3bd6a531066cbbeb:0x352ec8f72ce35189!8m2!3d20.9266456!4d77.7647211!16s%2Fg%2F11n48r0tzm!19sChIJ67tsBjGl1jsRiVHjLPfILjU?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9266456,
+      "lng": 77.7647211,
+      "label": "Mugdha EECP & Heart Care Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mulmule-hospital-amravati",
+    "name": "Mulmule Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Mulmule Hospital brings together specialists for Gynecologist Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ5C+7C6, New Colony Rd, New Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "New Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Mulmule+Hospital/data=!4m7!3m6!1s0x3bd6a4ebd4c681e3:0x9d04e99f6296a254!8m2!3d20.9081725!4d77.7710128!16s%2Fg%2F11cs5x3y46!19sChIJ44HG1Ouk1jsRVKKWYp_pBJ0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mulmule+Hospital/data=!4m7!3m6!1s0x3bd6a4ebd4c681e3:0x9d04e99f6296a254!8m2!3d20.9081725!4d77.7710128!16s%2Fg%2F11cs5x3y46!19sChIJ44HG1Ouk1jsRVKKWYp_pBJ0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9081725,
+      "lng": 77.7710128,
+      "label": "Mulmule Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "mundada-s-advance-dental-and-implant-clinic-amravati",
+    "name": "Mundada's Advance Dental and Implant Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Mundada's Advance Dental and Implant Clinic for its strength in Oral Surgery In Amravati. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "095183 01571",
+    "alternatePhone": "",
+    "website": "http://mundadas.dental-care.co.in/#",
+    "address": "Infront of Maharashtra bank zonal office, Balaji Apartment, beside Atul Mangal karyalaya, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "beside Atul Mangal karyalaya, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "095183 01571",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Mundada%27s+Advance+Dental+and+Implant+Clinic/data=!4m7!3m6!1s0x3bd6a4a4a7d30015:0xf4beecc697f9e826!8m2!3d20.9259902!4d77.7625145!16s%2Fg%2F11dfr4m4kq!19sChIJFQDTp6Sk1jsRJuj5l8bsvvQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Mundada%27s+Advance+Dental+and+Implant+Clinic/data=!4m7!3m6!1s0x3bd6a4a4a7d30015:0xf4beecc697f9e826!8m2!3d20.9259902!4d77.7625145!16s%2Fg%2F11dfr4m4kq!19sChIJFQDTp6Sk1jsRJuj5l8bsvvQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9259902,
+      "lng": 77.7625145,
+      "label": "Mundada's Advance Dental and Implant Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nagalkar-nursing-home-and-polyclinic-amravati",
+    "name": "Nagalkar Nursing Home & Polyclinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, Nagalkar Nursing Home & Polyclinic delivers integrated care across IVF In Amravati. The facility stands out for Google rating 4.4, 20+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 64322",
+    "alternatePhone": "",
+    "website": "https://drnagalkar.com/",
+    "address": "Shankar Nagar Rd, near Sudarshan Building, near Meet And Melt, Maya Nagar, Ekvira Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Ekvira Nagar",
+    "landmark": "near Sudarshan Building, near Meet And Melt, Maya Nagar, Ekvira Nagar, Amravati, Maharashtra 444607",
+    "emergencyContact": "072125 64322",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "20+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Nagalkar+Nursing+Home+%26+Polyclinic/data=!4m7!3m6!1s0x3bd6a4c70d399479:0xc67f11f9a83c6aa5!8m2!3d20.9085683!4d77.762392!16s%2Fg%2F11b7fb9slt!19sChIJeZQ5Dcek1jsRpWo8qPkRf8Y?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nagalkar+Nursing+Home+%26+Polyclinic/data=!4m7!3m6!1s0x3bd6a4c70d399479:0xc67f11f9a83c6aa5!8m2!3d20.9085683!4d77.762392!16s%2Fg%2F11b7fb9slt!19sChIJeZQ5Dcek1jsRpWo8qPkRf8Y?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9085683,
+      "lng": 77.762392,
+      "label": "Nagalkar Nursing Home & Polyclinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 20,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "nagmata-hospital-amravati",
+    "name": "Nagmata Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Nagmata Hospital is a prominent hospital in Amravati, known for structured tertiary care across General Surgery In Amravati. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094218 21939",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No 1, Hamalpura, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Hamalpura",
+    "landmark": "Amravati",
+    "emergencyContact": "094218 21939",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Nagmata+Hospital/data=!4m7!3m6!1s0x3bd6a531adabe559:0xa34761f1e89e2211!8m2!3d20.9280869!4d77.7597446!16s%2Fg%2F11pz8fmn92!19sChIJWeWrrTGl1jsRESKe6PFhR6M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Nagmata+Hospital/data=!4m7!3m6!1s0x3bd6a531adabe559:0xa34761f1e89e2211!8m2!3d20.9280869!4d77.7597446!16s%2Fg%2F11pz8fmn92!19sChIJWeWrrTGl1jsRESKe6PFhR6M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9280869,
+      "lng": 77.7597446,
+      "label": "Nagmata Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naphade-dental-clinic-rukmini-nagar-main-road-bank-of-maharashtra-lane",
+    "name": "Naphade Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Naphade Dental Clinic has built a strong reputation in Rukmini Nagar Main Road Bank of Maharashtra lane for multidisciplinary treatment pathways covering Oral Surgery In Amravati. The facility stands out for Google rating 3.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072126 71658",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rukmini Nagar Main Road Bank of Maharashtra lane, Maharashtra 444606",
+    "city": "Rukmini Nagar Main Road Bank of Maharashtra lane",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "072126 71658",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.0"
+    ],
+    "image": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4a317bf6f5d:0x5c198bd375f2a017!8m2!3d20.9266336!4d77.7645005!16s%2Fg%2F11c85dn6bc!19sChIJXW-_F6Ok1jsRF6DyddOLGVw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4a317bf6f5d:0x5c198bd375f2a017!8m2!3d20.9266336!4d77.7645005!16s%2Fg%2F11c85dn6bc!19sChIJXW-_F6Ok1jsRF6DyddOLGVw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9266336,
+      "lng": 77.7645005,
+      "label": "Naphade Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "naphade-dental-clinic-amravati",
+    "name": "Naphade Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Amravati, Naphade Dental Clinic delivers integrated care across Oral Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Main Road, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Vivekanand Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a558e6e6337d:0x33763d0ef038fc2d!8m2!3d20.9266491!4d77.7644866!16s%2Fg%2F11k7y6hg_y!19sChIJfTPm5lil1jsRLfw48A49djM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Naphade+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a558e6e6337d:0x33763d0ef038fc2d!8m2!3d20.9266491!4d77.7644866!16s%2Fg%2F11k7y6hg_y!19sChIJfTPm5lil1jsRLfw48A49djM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9266491,
+      "lng": 77.7644866,
+      "label": "Naphade Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navjivan-hospital-amravati",
+    "name": "Navjivan Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Navjivan Hospital is a prominent hospital in Amravati, known for structured tertiary care across Orthopedic Surgery In Amravati. Its infrastructure includes Google rating 4.3 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072126 62822",
+    "alternatePhone": "",
+    "website": "https://www.navjivanhospital.com/",
+    "address": "WQPC+HFF, Shanti Nagar, Kanwar Nagar, Guruchhaya Colony, Dastur Nagar, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Dastur Nagar",
+    "landmark": "Kanwar Nagar",
+    "emergencyContact": "072126 62822",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Navjivan+Hospital/data=!4m7!3m6!1s0x3bd6a495a652acbf:0x24bb6b32cd74a651!8m2!3d20.9364485!4d77.7711862!16s%2Fg%2F11f5btkj67!19sChIJv6xSppWk1jsRUaZ0zTJruyQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navjivan+Hospital/data=!4m7!3m6!1s0x3bd6a495a652acbf:0x24bb6b32cd74a651!8m2!3d20.9364485!4d77.7711862!16s%2Fg%2F11f5btkj67!19sChIJv6xSppWk1jsRUaZ0zTJruyQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9364485,
+      "lng": 77.7711862,
+      "label": "Navjivan Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "navle-hospital-spine-specialist-amravati",
+    "name": "Navle Hospital Spine Specialist",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Navle Hospital Spine Specialist offers coordinated hospital care with major focus on Spine Surgery In Amravati and Spine Care. The facility stands out for Google rating 4.9, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQG9+G37, Rajendra Colony Rd, Prashant Nagar, Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Prashant Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Spine Surgery In Amravati",
+      "Spine Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Navle+Hospital+Spine+Specialist/data=!4m7!3m6!1s0x3bd6a5000b32cd7b:0x89a6e7f181e72231!8m2!3d20.9262895!4d77.7676818!16s%2Fg%2F11y8zwtl59!19sChIJe80yCwCl1jsRMSLngfHnpok?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Navle+Hospital+Spine+Specialist/data=!4m7!3m6!1s0x3bd6a5000b32cd7b:0x89a6e7f181e72231!8m2!3d20.9262895!4d77.7676818!16s%2Fg%2F11y8zwtl59!19sChIJe80yCwCl1jsRMSLngfHnpok?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9262895,
+      "lng": 77.7676818,
+      "label": "Navle Hospital Spine Specialist",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "om-dental-clinic-amravati",
+    "name": "Om Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Om Dental Clinic is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "083758 43552",
+    "alternatePhone": "",
+    "website": "",
+    "address": "shop no 1, jeevan apartment, Nasikkar Plots, in front of dharti soda pub, Sindhu Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "Nasikkar Plots",
+    "emergencyContact": "083758 43552",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Om+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5f9b12510bb:0x56bccb769b159bc5!8m2!3d20.9146065!4d77.7626057!16s%2Fg%2F11pkjzkvz9!19sChIJuxAlsfml1jsRxZsVm3bLvFY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Om+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5f9b12510bb:0x56bccb769b159bc5!8m2!3d20.9146065!4d77.7626057!16s%2Fg%2F11pkjzkvz9!19sChIJuxAlsfml1jsRxZsVm3bLvFY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9146065,
+      "lng": 77.7626057,
+      "label": "Om Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "orchid-hospital-amravati",
+    "name": "ORCHID HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ORCHID HOSPITAL is a prominent hospital in Amravati, known for structured tertiary care across General Surgery In Amravati. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "New Cotton Market Rd, opp. APMC, Sahakar Nagar, Rampuri Camp, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Rampuri Camp",
+    "landmark": "Sahakar Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/ORCHID+HOSPITAL/data=!4m7!3m6!1s0x3bd6a36e7a9c95a7:0xe1f699cd7881b646!8m2!3d20.947142!4d77.7591141!16s%2Fg%2F11kwn576xq!19sChIJp5Wcem6j1jsRRraBeM2Z9uE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/ORCHID+HOSPITAL/data=!4m7!3m6!1s0x3bd6a36e7a9c95a7:0xe1f699cd7881b646!8m2!3d20.947142!4d77.7591141!16s%2Fg%2F11kwn576xq!19sChIJp5Wcem6j1jsRRraBeM2Z9uE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.947142,
+      "lng": 77.7591141,
+      "label": "ORCHID HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pachbuddhe-children-and-maternity-hospital-amravati",
+    "name": "Pachbuddhe children and maternity hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Pachbuddhe children and maternity hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Amravati and Women and Child Care. Hospital capacity markers such as Google rating 4.6 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "road, Ojas Kale Marg, Prashant Nagar, Shyam Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Shyam Nagar",
+    "landmark": "Prashant Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6"
+    ],
+    "image": "https://www.google.com/maps/place/Pachbuddhe+children+and+maternity+hospital/data=!4m7!3m6!1s0x3bd6a553fdea5809:0xd64d13118e6f95b5!8m2!3d20.9244376!4d77.7673585!16s%2Fg%2F11f6z3nm0l!19sChIJCVjq_VOl1jsRtZVvjhETTdY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pachbuddhe+children+and+maternity+hospital/data=!4m7!3m6!1s0x3bd6a553fdea5809:0xd64d13118e6f95b5!8m2!3d20.9244376!4d77.7673585!16s%2Fg%2F11f6z3nm0l!19sChIJCVjq_VOl1jsRtZVvjhETTdY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9244376,
+      "lng": 77.7673585,
+      "label": "Pachbuddhe children and maternity hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parashree-speciality-hospital-amravati",
+    "name": "Parashree Speciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Parashree Speciality Hospital brings together specialists for Orthopedic Surgery In Amravati and Speciality Care. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072126 61196",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Masjid-Irwin Road, Khaparde Garden, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Maltekdi",
+    "emergencyContact": "072126 61196",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://www.google.com/maps/place/Parashree+Speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4a406477373:0x71cf1e290dc4638a!8m2!3d20.9300825!4d77.7621185!16s%2Fg%2F1tfq336j!19sChIJc3NHBqSk1jsRimPEDSkez3E?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parashree+Speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4a406477373:0x71cf1e290dc4638a!8m2!3d20.9300825!4d77.7621185!16s%2Fg%2F1tfq336j!19sChIJc3NHBqSk1jsRimPEDSkez3E?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9300825,
+      "lng": 77.7621185,
+      "label": "Parashree Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parijat-hospital-amravati",
+    "name": "PARIJAT HOSPITAL",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, PARIJAT HOSPITAL brings together specialists for General Surgery In Amravati and Women and Child Care. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072125 50505",
+    "alternatePhone": "",
+    "website": "http://www.parijatchildrenhospital.com/",
+    "address": "Panchavati Square, Parijat Hospital, Lane No. 1, near Pragati School, Radha Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Radha Nagar",
+    "landmark": "near Pragati School, Radha Nagar, Amravati, Maharashtra 444603",
+    "emergencyContact": "072125 50505",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/PARIJAT+HOSPITAL/data=!4m7!3m6!1s0x3bd6a3f603f65f71:0x1b8f031d3ab6d7bc!8m2!3d20.945068!4d77.7703128!16s%2Fg%2F11fkqylmsk!19sChIJcV_2A_aj1jsRvNe2Oh0Djxs?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PARIJAT+HOSPITAL/data=!4m7!3m6!1s0x3bd6a3f603f65f71:0x1b8f031d3ab6d7bc!8m2!3d20.945068!4d77.7703128!16s%2Fg%2F11fkqylmsk!19sChIJcV_2A_aj1jsRvNe2Oh0Djxs?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.945068,
+      "lng": 77.7703128,
+      "label": "PARIJAT HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parvani-hospital-amravati",
+    "name": "Parvani Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parvani Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Liver Transplant Surgery In Amravati. Operational strengths including Google rating 3.2 and 9+ public reviews make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072125 71100",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQF2+JJW, Madhokar Peth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Madhokar Peth",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 71100",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.2",
+      "9+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Parvani+Hospital/data=!4m7!3m6!1s0x3bd6a4ae02ae124b:0xa628d48676a200ec!8m2!3d20.9241241!4d77.7515884!16s%2Fg%2F11f347lr80!19sChIJSxKuAq6k1jsR7ACidobUKKY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parvani+Hospital/data=!4m7!3m6!1s0x3bd6a4ae02ae124b:0xa628d48676a200ec!8m2!3d20.9241241!4d77.7515884!16s%2Fg%2F11f347lr80!19sChIJSxKuAq6k1jsR7ACidobUKKY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9241241,
+      "lng": 77.7515884,
+      "label": "Parvani Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.2,
+    "reviews": 9,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "parwani-dental-care-amravati",
+    "name": "Parwani Dental Care",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dental clinic in Amravati, Parwani Dental Care delivers integrated care across Oral Surgery In Amravati. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094224 45280",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Eknath Vihar, 29/1, opposite temple Basketball Court, near Bachat Mall, Eknath Puram, Gopal Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Gopal Nagar",
+    "landmark": "near Bachat Mall, Eknath Puram, Gopal Nagar, Amravati, Maharashtra 444607",
+    "emergencyContact": "094224 45280",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Parwani+Dental+Care/data=!4m7!3m6!1s0x3bd6a500566ca447:0x5a26f32628a6f922!8m2!3d20.9117959!4d77.7556404!16s%2Fg%2F11wj3x_5s0!19sChIJR6RsVgCl1jsRIvmmKCbzJlo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Parwani+Dental+Care/data=!4m7!3m6!1s0x3bd6a500566ca447:0x5a26f32628a6f922!8m2!3d20.9117959!4d77.7556404!16s%2Fg%2F11wj3x_5s0!19sChIJR6RsVgCl1jsRIvmmKCbzJlo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9117959,
+      "lng": 77.7556404,
+      "label": "Parwani Dental Care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patankar-hospital-and-icu-amravati",
+    "name": "Patankar Hospital and ICU",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Patankar Hospital and ICU brings together specialists for Liver Transplant Surgery In Amravati. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shrikrishna Peth, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Shrikrishna Peth",
+    "landmark": "Maharashtra 444603",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Patankar+Hospital+and+ICU/data=!4m7!3m6!1s0x3bd6a4a7a20688af:0x9b7e099c79c5e27f!8m2!3d20.9348394!4d77.7591742!16s%2Fg%2F11c1qrw75x!19sChIJr4gGoqek1jsRf-LFeZwJfps?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patankar+Hospital+and+ICU/data=!4m7!3m6!1s0x3bd6a4a7a20688af:0x9b7e099c79c5e27f!8m2!3d20.9348394!4d77.7591742!16s%2Fg%2F11c1qrw75x!19sChIJr4gGoqek1jsRf-LFeZwJfps?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9348394,
+      "lng": 77.7591742,
+      "label": "Patankar Hospital and ICU",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patel-hospital-amravati",
+    "name": "Patel Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patel Hospital is a prominent hospital in Amravati, known for structured tertiary care across Kidney Transplant Surgery In Amravati. Operational strengths including round-the-clock hospital infrastructure make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WPRV+RGR, Habib Nagar, Zakir Colony, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Zakir Colony",
+    "landmark": "Zakir Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [],
+    "image": "https://www.google.com/maps/place/Patel+Hospital/data=!4m7!3m6!1s0x3bd6bd51d55077d1:0xad7f95728a3bcbc!8m2!3d20.9421139!4d77.743777!16s%2Fg%2F11k8hklzgr!19sChIJ0XdQ1VG91jsRvLyjKFf51wo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patel+Hospital/data=!4m7!3m6!1s0x3bd6bd51d55077d1:0xad7f95728a3bcbc!8m2!3d20.9421139!4d77.743777!16s%2Fg%2F11k8hklzgr!19sChIJ0XdQ1VG91jsRvLyjKFf51wo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9421139,
+      "lng": 77.743777,
+      "label": "Patel Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 0.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "patil-ent-and-rhinoplasty-speciality-hospital-amravati",
+    "name": "Patil ENT & Rhinoplasty speciality Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patil ENT & Rhinoplasty speciality Hospital is a prominent private hospital in Amravati, known for structured tertiary care across Liver Transplant Surgery In Amravati and Speciality Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "091685 74815",
+    "alternatePhone": "",
+    "website": "http://www.kshitijpatil.in/",
+    "address": "SH 199, Sharda Nagar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Sharda Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "091685 74815",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Patil+ENT+%26+Rhinoplasty+speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4b0de097119:0x13dc8aaa66aeb99b!8m2!3d20.9198249!4d77.7541249!16s%2Fg%2F1260vxc33!19sChIJGXEJ3rCk1jsRm7muZqqK3BM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Patil+ENT+%26+Rhinoplasty+speciality+Hospital/data=!4m7!3m6!1s0x3bd6a4b0de097119:0x13dc8aaa66aeb99b!8m2!3d20.9198249!4d77.7541249!16s%2Fg%2F1260vxc33!19sChIJGXEJ3rCk1jsRm7muZqqK3BM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9198249,
+      "lng": 77.7541249,
+      "label": "Patil ENT & Rhinoplasty speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pearlz-32-dental-clinic-amravati",
+    "name": "Pearlz-32 Dental Clinic",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Pearlz-32 Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Amravati and Dentist. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "092843 65407",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Pearlz-32, Ayur Mall, Dastur Nagar Rd, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar Rd",
+    "landmark": "Dastur Nagar Rd",
+    "emergencyContact": "092843 65407",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Pearlz-32+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5307ef97051:0x63fef24f0a622d23!8m2!3d20.9094103!4d77.7662329!16s%2Fg%2F11nfbtnxvc!19sChIJUXD5fjCl1jsRIy1iCk_y_mM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pearlz-32+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a5307ef97051:0x63fef24f0a622d23!8m2!3d20.9094103!4d77.7662329!16s%2Fg%2F11nfbtnxvc!19sChIJUXD5fjCl1jsRIy1iCk_y_mM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9094103,
+      "lng": 77.7662329,
+      "label": "Pearlz-32 Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "progenesis-fertility-center-best-ivf-center-in-amravati-amravati",
+    "name": "Progenesis Fertility Center - Best IVF Center in Amravati",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Progenesis Fertility Center - Best IVF Center in Amravati for its strength in IVF In Amravati and Fertility Care. With public-facing highlights like Google rating 5.0 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094239 71620",
+    "alternatePhone": "",
+    "website": "https://progenesisivf.com/our-center/best-ivf-center-in-amravati/",
+    "address": "3rd floor, Badnera Rd, above Raghubir Food Zone, Sharda Vihar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Sharda Vihar",
+    "landmark": "above Raghubir Food Zone",
+    "emergencyContact": "094239 71620",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Amravati/data=!4m7!3m6!1s0x3bd6a52222b7fb23:0xcde6a394cc3b9185!8m2!3d20.9157935!4d77.7531131!16s%2Fg%2F11x2045nk0!19sChIJI_u3IiKl1jsRhZE7zJSj5s0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Progenesis+Fertility+Center+-+Best+IVF+Center+in+Amravati/data=!4m7!3m6!1s0x3bd6a52222b7fb23:0xcde6a394cc3b9185!8m2!3d20.9157935!4d77.7531131!16s%2Fg%2F11x2045nk0!19sChIJI_u3IiKl1jsRhZE7zJSj5s0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9157935,
+      "lng": 77.7531131,
+      "label": "Progenesis Fertility Center - Best IVF Center in Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "proton-critical-care-centre-amravati",
+    "name": "PROTON CRITICAL CARE CENTRE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "PROTON CRITICAL CARE CENTRE is a prominent hospital in Amravati, known for structured tertiary care across General Surgery In Amravati. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 91152",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kalyan Nagar, 1, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "1",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 91152",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/PROTON+CRITICAL+CARE+CENTRE/data=!4m7!3m6!1s0x3bd6a50002a16a1f:0xea90f6e4b0b0c057!8m2!3d20.9198617!4d77.7619553!16s%2Fg%2F11vycb89jn!19sChIJH2qhAgCl1jsRV8CwsOT2kOo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/PROTON+CRITICAL+CARE+CENTRE/data=!4m7!3m6!1s0x3bd6a50002a16a1f:0xea90f6e4b0b0c057!8m2!3d20.9198617!4d77.7619553!16s%2Fg%2F11vycb89jn!19sChIJH2qhAgCl1jsRV8CwsOT2kOo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9198617,
+      "lng": 77.7619553,
+      "label": "PROTON CRITICAL CARE CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "prudent-dental-care-and-implant-centre-amravati",
+    "name": "Prudent Dental Care And Implant Centre",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Prudent Dental Care And Implant Centre has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Oral Surgery In Amravati. Hospital capacity markers such as Google rating 5.0 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "095615 10367",
+    "alternatePhone": "",
+    "website": "http://www.prudentdentalcare.in/",
+    "address": "to, panchavati Road, near Hanuman mandir Creative Heights, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "near Hanuman mandir Creative Heights, Gadge Nagar, Amravati, Maharashtra 444603",
+    "emergencyContact": "095615 10367",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Prudent+Dental+Care+And+Implant+Centre/data=!4m7!3m6!1s0x3bd6a573ff106521:0x3d7ec7116ec48fc2!8m2!3d20.9445362!4d77.7680826!16s%2Fg%2F11h3zrym9r!19sChIJIWUQ_3Ol1jsRwo_EbhHHfj0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Prudent+Dental+Care+And+Implant+Centre/data=!4m7!3m6!1s0x3bd6a573ff106521:0x3d7ec7116ec48fc2!8m2!3d20.9445362!4d77.7680826!16s%2Fg%2F11h3zrym9r!19sChIJIWUQ_3Ol1jsRwo_EbhHHfj0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9445362,
+      "lng": 77.7680826,
+      "label": "Prudent Dental Care And Implant Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "pundkar-ent-n-dental-clinic-amravati",
+    "name": "Pundkar ENT n Dental clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Pundkar ENT n Dental clinic for its strength in Orthopedic Surgery In Amravati. Its infrastructure includes Google rating 4.3 and 17+ public reviews, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Dr.Pundkar Hospital, Shegaon Naka Rd, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "Rathi Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "17+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Pundkar+ENT+n+Dental+clinic/data=!4m7!3m6!1s0x3bd6a3437fd4f861:0x9a9e960850f75a59!8m2!3d20.9512407!4d77.7623527!16s%2Fg%2F11hd5b2fhr!19sChIJYfjUf0Oj1jsRWVr3UAiWnpo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Pundkar+ENT+n+Dental+clinic/data=!4m7!3m6!1s0x3bd6a3437fd4f861:0x9a9e960850f75a59!8m2!3d20.9512407!4d77.7623527!16s%2Fg%2F11hd5b2fhr!19sChIJYfjUf0Oj1jsRWVr3UAiWnpo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9512407,
+      "lng": 77.7623527,
+      "label": "Pundkar ENT n Dental clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 17,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "quality-dental-care-amravati",
+    "name": "Quality dental care",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted dentist in Amravati, Quality dental care delivers integrated care across Oral Surgery In Amravati and Dentist. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "097664 95055",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Infront of, Sai Mandir Rd, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Sai Mandir Rd",
+    "landmark": "Amravati",
+    "emergencyContact": "097664 95055",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Quality+dental+care/data=!4m7!3m6!1s0x3bd6bb2ddd8443e5:0xdc9ac718f8ebe549!8m2!3d20.8966205!4d77.7438798!16s%2Fg%2F11swlfd6cw!19sChIJ5UOE3S271jsRSeXr-BjHmtw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Quality+dental+care/data=!4m7!3m6!1s0x3bd6bb2ddd8443e5:0xdc9ac718f8ebe549!8m2!3d20.8966205!4d77.7438798!16s%2Fg%2F11swlfd6cw!19sChIJ5UOE3S271jsRSeXr-BjHmtw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.8966205,
+      "lng": 77.7438798,
+      "label": "Quality dental care",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rajusai-multispecility-dental-clinic-and-implant-center-amravati",
+    "name": "Rajusai Multispecility Dental Clinic And Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rajusai Multispecility Dental Clinic And Implant Center is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "099234 50162",
+    "alternatePhone": "",
+    "website": "https://rajusai-multispecility.grexa.site/",
+    "address": "Kamal Plaza, Chowk, beside Hero Showroom, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "beside Hero Showroom, Dastur Nagar, Amravati, Maharashtra 444606",
+    "emergencyContact": "099234 50162",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rajusai+Multispecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5f7e8749141:0x92d20d3634393651!8m2!3d20.9091171!4d77.7674418!16s%2Fg%2F11rmv4blrx!19sChIJQZF06Pel1jsRUTY5NDYN0pI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rajusai+Multispecility+Dental+Clinic+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5f7e8749141:0x92d20d3634393651!8m2!3d20.9091171!4d77.7674418!16s%2Fg%2F11rmv4blrx!19sChIJQZF06Pel1jsRUTY5NDYN0pI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9091171,
+      "lng": 77.7674418,
+      "label": "Rajusai Multispecility Dental Clinic And Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "ratanshree-hospital-opp-meghe-complex",
+    "name": "Ratanshree Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Opp Meghe Complex, Ratanshree Hospital delivers integrated care across Gynecologist Surgery In Amravati. The facility stands out for Google rating 4.3, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072125 31855",
+    "alternatePhone": "",
+    "website": "",
+    "address": "State Highway 242, Subodh Colony, Opp Meghe Complex, Maharashtra 444604",
+    "city": "Opp Meghe Complex",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Subodh Colony",
+    "landmark": "Opp Meghe Complex",
+    "emergencyContact": "072125 31855",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/Ratanshree+Hospital/data=!4m7!3m6!1s0x3bd6a33678f473c9:0x8da661e318e3783a!8m2!3d20.9613094!4d77.7514565!16s%2Fg%2F1264h05c6!19sChIJyXP0eDaj1jsROnjjGONhpo0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Ratanshree+Hospital/data=!4m7!3m6!1s0x3bd6a33678f473c9:0x8da661e318e3783a!8m2!3d20.9613094!4d77.7514565!16s%2Fg%2F1264h05c6!19sChIJyXP0eDaj1jsROnjjGONhpo0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9613094,
+      "lng": 77.7514565,
+      "label": "Ratanshree Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rathi-dental-clinic-amravati",
+    "name": "Rathi Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rathi Dental Clinic is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "082089 24024",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Swastik Nagar Square ,Badnera Road, Chowk, opposite Rudresh Mangalam, Navathe Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Navathe Nagar",
+    "landmark": "opposite Rudresh Mangalam, Navathe Nagar, Amravati, Maharashtra 444607",
+    "emergencyContact": "082089 24024",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Rathi+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4c97da4c11f:0x49f3b55ff46b323c!8m2!3d20.9086691!4d77.7516009!16s%2Fg%2F11c2052xh5!19sChIJH8Gkfcmk1jsRPDJr9F-180k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rathi+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a4c97da4c11f:0x49f3b55ff46b323c!8m2!3d20.9086691!4d77.7516009!16s%2Fg%2F11c2052xh5!19sChIJH8Gkfcmk1jsRPDJr9F-180k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9086691,
+      "lng": 77.7516009,
+      "label": "Rathi Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rathi-hospital-amravati",
+    "name": "Rathi Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rathi Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Hip Replacement Surgery In Amravati. Its infrastructure includes Google rating 4.7, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "444604, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Gadge Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7"
+    ],
+    "image": "https://www.google.com/maps/place/Rathi+Hospital/data=!4m7!3m6!1s0x3bd6a36746d18f0d:0x1691918662a6cef!8m2!3d20.9440325!4d77.7693211!16s%2Fg%2F11c6sll086!19sChIJDY_RRmej1jsR72wqZhgZaQE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rathi+Hospital/data=!4m7!3m6!1s0x3bd6a36746d18f0d:0x1691918662a6cef!8m2!3d20.9440325!4d77.7693211!16s%2Fg%2F11c6sll086!19sChIJDY_RRmej1jsR72wqZhgZaQE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9440325,
+      "lng": 77.7693211,
+      "label": "Rathi Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "relief-dental-clinic-amravati",
+    "name": "RELIEF DENTAL CLINIC",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "RELIEF DENTAL CLINIC is a prominent dental clinic in Amravati, known for structured tertiary care across Oral Surgery In Amravati. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "080871 07742",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Sundarlal chowk, opposite al Jazeera restaurant, Danish Colony, Shivneri Colony, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Shivneri Colony",
+    "landmark": "opposite al Jazeera restaurant, Danish Colony, Shivneri Colony, Amravati, Maharashtra 444602",
+    "emergencyContact": "080871 07742",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/RELIEF+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a49b5ed36441:0x46e0d74730aeaf93!8m2!3d20.9317956!4d77.7776991!16s%2Fg%2F11ck08ljxc!19sChIJQWTTXpuk1jsRk6-uMEfX4EY?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RELIEF+DENTAL+CLINIC/data=!4m7!3m6!1s0x3bd6a49b5ed36441:0x46e0d74730aeaf93!8m2!3d20.9317956!4d77.7776991!16s%2Fg%2F11ck08ljxc!19sChIJQWTTXpuk1jsRk6-uMEfX4EY?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9317956,
+      "lng": 77.7776991,
+      "label": "RELIEF DENTAL CLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rims-hospital-amravati",
+    "name": "RIMS Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, RIMS Hospital offers coordinated hospital care with major focus on Kidney Transplant Surgery In Amravati. With public-facing highlights like Google rating 3.4 and 32+ public reviews, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "080554 54444",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ83+45G Neelam, Besides Hotel, Badnera Rd, Sharda Vihar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Sharda Vihar",
+    "landmark": "Badnera Rd",
+    "emergencyContact": "080554 54444",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.4",
+      "32+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/RIMS+Hospital/data=!4m7!3m6!1s0x3bd6a5a54f4424a1:0x3a0f51f65951108!8m2!3d20.9155475!4d77.752639!16s%2Fg%2F11n5ht5bnt!19sChIJoSRET6Wl1jsRCBGVZR_1oAM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/RIMS+Hospital/data=!4m7!3m6!1s0x3bd6a5a54f4424a1:0x3a0f51f65951108!8m2!3d20.9155475!4d77.752639!16s%2Fg%2F11n5ht5bnt!19sChIJoSRET6Wl1jsRCBGVZR_1oAM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9155475,
+      "lng": 77.752639,
+      "label": "RIMS Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.4,
+    "reviews": 32,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "rode-hospital-and-pathology-laboratory-ramnagar-besides-prashant-nagar-garden",
+    "name": "Rode Hospital and Pathology Laboratory",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Rode Hospital and Pathology Laboratory has built a strong reputation in Ramnagar Besides Prashant Nagar Garden for multidisciplinary treatment pathways covering General Surgery In Amravati. Its infrastructure includes Google rating 5.0, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094040 24205",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ramnagar Besides Prashant Nagar Garden, Maharashtra 444606",
+    "city": "Ramnagar Besides Prashant Nagar Garden",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "",
+    "landmark": "",
+    "emergencyContact": "094040 24205",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Rode+Hospital+and+Pathology+Laboratory/data=!4m7!3m6!1s0x3bd6a4bd9aa549e1:0x502926fd0d92a7e8!8m2!3d20.9216091!4d77.7673788!16s%2Fg%2F1vd93j_g!19sChIJ4Umlmr2k1jsR6KeSDf0mKVA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Rode+Hospital+and+Pathology+Laboratory/data=!4m7!3m6!1s0x3bd6a4bd9aa549e1:0x502926fd0d92a7e8!8m2!3d20.9216091!4d77.7673788!16s%2Fg%2F1vd93j_g!19sChIJ4Umlmr2k1jsR6KeSDf0mKVA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9216091,
+      "lng": 77.7673788,
+      "label": "Rode Hospital and Pathology Laboratory",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "root-rise-hair-transplant-and-cosmetic-centre-amravati",
+    "name": "Root Rise Hair Transplant and cosmetic centre",
+    "type": "Hair Transplantation Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Root Rise Hair Transplant and cosmetic centre has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Kidney Transplant Surgery In Amravati. Operational strengths including Google rating 5.0 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084217 33349",
+    "alternatePhone": "",
+    "website": "http://rootriseclinic.com/",
+    "address": "1st Floor, Chandak Tower, Girl's High School chowk, SRPF Camp Rd, near Shriram Finance office, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "near Shriram Finance office, Maltekdi, Amravati, Maharashtra 444602",
+    "emergencyContact": "084217 33349",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Root+Rise+Hair+Transplant+and+cosmetic+centre/data=!4m7!3m6!1s0x3bd6a51f6e4313c1:0xb1320d081308c1b!8m2!3d20.9366623!4d77.7713493!16s%2Fg%2F11yg8g06tn!19sChIJwRNDbh-l1jsRG4wwgdAgEws?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Root+Rise+Hair+Transplant+and+cosmetic+centre/data=!4m7!3m6!1s0x3bd6a51f6e4313c1:0xb1320d081308c1b!8m2!3d20.9366623!4d77.7713493!16s%2Fg%2F11yg8g06tn!19sChIJwRNDbh-l1jsRG4wwgdAgEws?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9366623,
+      "lng": 77.7713493,
+      "label": "Root Rise Hair Transplant and cosmetic centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "roots-and-braces-amravati",
+    "name": "Roots & Braces",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Roots & Braces brings together specialists for Oral Surgery In Amravati. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "074990 69374",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Besides D-Mart, Badnera Rd, near Mumbai Chaupati, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Sai Nagar",
+    "landmark": "near Mumbai Chaupati, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "emergencyContact": "074990 69374",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Roots+%26+Braces/@20.897944,77.7479201,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd6a57c344236bb:0xfbc031a5cac48cee!8m2!3d20.897944!4d77.7479201!16s%2Fg%2F11sv36yy8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Roots+%26+Braces/@20.897944,77.7479201,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd6a57c344236bb:0xfbc031a5cac48cee!8m2!3d20.897944!4d77.7479201!16s%2Fg%2F11sv36yy8q?authuser=0&hl=en&entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.897944,
+      "lng": 77.7479201,
+      "label": "Roots & Braces",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saai-vedanta-hospital-amravati",
+    "name": "Saai Vedanta Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Saai Vedanta Hospital for its strength in Gynecologist Surgery In Amravati. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "070582 46616",
+    "alternatePhone": "",
+    "website": "https://www.saaivedantahospital.com/",
+    "address": "Irwin hospital, to, Osmania Masjid Road, Khaparde Bagicha, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Osmania Masjid Road",
+    "emergencyContact": "070582 46616",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Saai+Vedanta+Hospital/data=!4m7!3m6!1s0x3bd6a561b29aa01d:0x999b8a2ac6e4e0a0!8m2!3d20.9308529!4d77.7616328!16s%2Fg%2F11mdlgp8m9!19sChIJHaCasmGl1jsRoODkxiqKm5k?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saai+Vedanta+Hospital/data=!4m7!3m6!1s0x3bd6a561b29aa01d:0x999b8a2ac6e4e0a0!8m2!3d20.9308529!4d77.7616328!16s%2Fg%2F11mdlgp8m9!19sChIJHaCasmGl1jsRoODkxiqKm5k?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9308529,
+      "lng": 77.7616328,
+      "label": "Saai Vedanta Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saisharan-asha-hospital-amravati",
+    "name": "SAISHARAN ASHA HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, SAISHARAN ASHA HOSPITAL brings together specialists for Orthopedic Surgery In Amravati. Operational strengths including Google rating 4.4 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mankana Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Orthopedic Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/SAISHARAN+ASHA+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4eaf3772627:0x6f69935b1819a05c!8m2!3d20.9114289!4d77.7697411!16s%2Fg%2F11c1v166zx!19sChIJJyZ38-qk1jsRXKAZGFuTaW8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SAISHARAN+ASHA+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4eaf3772627:0x6f69935b1819a05c!8m2!3d20.9114289!4d77.7697411!16s%2Fg%2F11c1v166zx!19sChIJJyZ38-qk1jsRXKAZGFuTaW8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9114289,
+      "lng": 77.7697411,
+      "label": "SAISHARAN ASHA HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sanjeevni-dental-wellness-amravati",
+    "name": "Sanjeevni Dental Wellness",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Sanjeevni Dental Wellness for its strength in Oral Surgery In Amravati. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "094224 20310",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MIDC Rd, opposite RK Restaurant, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "opposite RK Restaurant, Dastur Nagar, Amravati, Maharashtra 444606",
+    "emergencyContact": "094224 20310",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sanjeevni+Dental+Wellness/data=!4m7!3m6!1s0x3bd6a55c1737c975:0x59a88665fd0e08fb!8m2!3d20.9104687!4d77.7684191!16s%2Fg%2F11v0n3kdd8!19sChIJdck3F1yl1jsR-wgO_WWGqFk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sanjeevni+Dental+Wellness/data=!4m7!3m6!1s0x3bd6a55c1737c975:0x59a88665fd0e08fb!8m2!3d20.9104687!4d77.7684191!16s%2Fg%2F11v0n3kdd8!19sChIJdck3F1yl1jsR-wgO_WWGqFk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9104687,
+      "lng": 77.7684191,
+      "label": "Sanjeevni Dental Wellness",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sankalp-chaudhari-maternity-hospital-and-dialysis-center-amravati",
+    "name": "Sankalp Chaudhari Maternity Hospital And Dialysis Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Sankalp Chaudhari Maternity Hospital And Dialysis Center brings together specialists for Kidney Transplant Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQJ6+GRW, Maltekdi, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Maltekdi",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sankalp+Chaudhari+Maternity+Hospital+And+Dialysis+Center/data=!4m7!3m6!1s0x3bd6a4a6adc29075:0xee9de03f165759e!8m2!3d20.931358!4d77.762069!16s%2Fg%2F11r48py152!19sChIJdZDCraak1jsRnnVl8QPe6Q4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sankalp+Chaudhari+Maternity+Hospital+And+Dialysis+Center/data=!4m7!3m6!1s0x3bd6a4a6adc29075:0xee9de03f165759e!8m2!3d20.931358!4d77.762069!16s%2Fg%2F11r48py152!19sChIJdZDCraak1jsRnnVl8QPe6Q4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.931358,
+      "lng": 77.762069,
+      "label": "Sankalp Chaudhari Maternity Hospital And Dialysis Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "saras-prega-world-prenatal-health-care-and-garbhasanskar-foetal-programming-centre-amravati-amravati",
+    "name": "Saras Prega World ,Prenatal Health care & Garbhasanskar(foetal programming )centre,Amravati",
+    "type": "Pregnancy Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Saras Prega World ,Prenatal Health care & Garbhasanskar(foetal programming )centre,Amravati brings together specialists for IVF In Amravati and Pregnancy Care Center. Hospital capacity markers such as Google rating 5.0 and 382+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084089 58776",
+    "alternatePhone": "",
+    "website": "",
+    "address": "monalisa complex, opposite Rajapeth police station, Badnera Rd, Mudholkar Peth, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Mudholkar Peth",
+    "landmark": "opposite Rajapeth police station, Badnera Rd, Mudholkar Peth, Amravati, Maharashtra 444605",
+    "emergencyContact": "084089 58776",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Pregnancy Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "382+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Saras+Prega+World+,Prenatal+Health+care+%26+Garbhasanskar%28foetal+programming+%29centre,Amravati/data=!4m7!3m6!1s0x3bd6a4d54f94fcbb:0xda4a4aaafbe7544!8m2!3d20.9236142!4d77.7532387!16s%2Fg%2F11ggg6wpbh!19sChIJu_yUT9Wk1jsRRHW-r6qkpA0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Saras+Prega+World+,Prenatal+Health+care+%26+Garbhasanskar%28foetal+programming+%29centre,Amravati/data=!4m7!3m6!1s0x3bd6a4d54f94fcbb:0xda4a4aaafbe7544!8m2!3d20.9236142!4d77.7532387!16s%2Fg%2F11ggg6wpbh!19sChIJu_yUT9Wk1jsRRHW-r6qkpA0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9236142,
+      "lng": 77.7532387,
+      "label": "Saras Prega World ,Prenatal Health care & Garbhasanskar(foetal programming )centre,Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 382,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sarda-hospital-amravati",
+    "name": "Sarda Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Sarda Hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Amravati. Its infrastructure includes Google rating 4.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQF3+83J, Diparchan Road, Patvipura, Kanwar Nagar, Guruchhaya Colony, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Guruchhaya Colony",
+    "landmark": "Patvipura",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Sarda+Hospital/data=!4m7!3m6!1s0x3bd6a4b1c374179b:0x30375e79828e8f16!8m2!3d20.9233294!4d77.7526457!16s%2Fg%2F11f0_gl0ww!19sChIJmxd0w7Gk1jsRFo-OgnleNzA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sarda+Hospital/data=!4m7!3m6!1s0x3bd6a4b1c374179b:0x30375e79828e8f16!8m2!3d20.9233294!4d77.7526457!16s%2Fg%2F11f0_gl0ww!19sChIJmxd0w7Gk1jsRFo-OgnleNzA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9233294,
+      "lng": 77.7526457,
+      "label": "Sarda Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sawai-maternity-and-children-hospital-amravati",
+    "name": "Sawai Maternity & Children Hospital",
+    "type": "Maternity Centre",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted maternity centre in Amravati, Sawai Maternity & Children Hospital delivers integrated care across Gynecologist Surgery In Amravati, Maternity Centre, and Women and Child Care. Hospital capacity markers such as Google rating 4.6 and 9+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 65575",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Maharashtra 444606",
+    "emergencyContact": "072125 65575",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Maternity Centre",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "9+ public reviews"
+    ],
+    "image": "https://www.google.com/maps/place/Sawai+Maternity+%26+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4bd05a5fc1b:0xbe794180d78887cf!8m2!3d20.9238744!4d77.7665479!16s%2Fg%2F1pyqhc9hp!19sChIJG_ylBb2k1jsRz4eI14BBeb4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sawai+Maternity+%26+Children+Hospital/data=!4m7!3m6!1s0x3bd6a4bd05a5fc1b:0xbe794180d78887cf!8m2!3d20.9238744!4d77.7665479!16s%2Fg%2F1pyqhc9hp!19sChIJG_ylBb2k1jsRz4eI14BBeb4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9238744,
+      "lng": 77.7665479,
+      "label": "Sawai Maternity & Children Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 9,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sawarkar-hospital-amravati",
+    "name": "Sawarkar Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sawarkar Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering IVF In Amravati. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://sawarkarivf.com/",
+    "address": "Congress Nagar Rd, Shyam Nagar, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Shyam Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sawarkar+Hospital/data=!4m7!3m6!1s0x3bd6a49a1afea89b:0x8fc8f6af5bb15d4d!8m2!3d20.9265283!4d77.7703811!16s%2Fg%2F11b86wngvd!19sChIJm6j-Gpqk1jsRTV2xW6_2yI8?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sawarkar+Hospital/data=!4m7!3m6!1s0x3bd6a49a1afea89b:0x8fc8f6af5bb15d4d!8m2!3d20.9265283!4d77.7703811!16s%2Fg%2F11b86wngvd!19sChIJm6j-Gpqk1jsRTV2xW6_2yI8?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9265283,
+      "lng": 77.7703811,
+      "label": "Sawarkar Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sharma-children-and-maternity-hospital-amravati",
+    "name": "Sharma Children And Maternity Hospital",
+    "type": "Children's Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted children's hospital in Amravati, Sharma Children And Maternity Hospital delivers integrated care across Gynecologist Surgery In Amravati and Women and Child Care. Its infrastructure includes Google rating 3.1, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072125 65747",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ73+V84, Badnera Road, Opposite Dussehra Maidan, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Opposite Dussehra Maidan",
+    "landmark": "Opposite Dussehra Maidan, Amravati, Maharashtra 444605",
+    "emergencyContact": "072125 65747",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.1"
+    ],
+    "image": "https://www.google.com/maps/place/Sharma+Children+And+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a4b650847bd3:0x891ed262324bcbbe!8m2!3d20.9146353!4d77.7533273!16s%2Fg%2F1pyqwktk3!19sChIJ03uEULak1jsRvstLMmLSHok?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sharma+Children+And+Maternity+Hospital/data=!4m7!3m6!1s0x3bd6a4b650847bd3:0x891ed262324bcbbe!8m2!3d20.9146353!4d77.7533273!16s%2Fg%2F1pyqwktk3!19sChIJ03uEULak1jsRvstLMmLSHok?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9146353,
+      "lng": 77.7533273,
+      "label": "Sharma Children And Maternity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shashwat-piles-care-and-surgical-center-laser-piles-surgery-centre-amravati-amravati",
+    "name": "Shashwat Piles Care And Surgical Center . Laser Piles Surgery Centre,Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shashwat Piles Care And Surgical Center . Laser Piles Surgery Centre,Amravati has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Liver Transplant Surgery In Amravati. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "097665 18729",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Samruddhi Arcade, below life fitness gym, near rathod petrol pump (HP, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near rathod petrol pump (HP, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "097665 18729",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shashwat+Piles+Care+And+Surgical+Center+.+Laser+Piles+Surgery+Centre,Amravati/data=!4m7!3m6!1s0x3bd6a5518fe7fef9:0x10c435504ca12f42!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11hzkf4b5_!19sChIJ-f7nj1Gl1jsRQi-hTFA1xBA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shashwat+Piles+Care+And+Surgical+Center+.+Laser+Piles+Surgery+Centre,Amravati/data=!4m7!3m6!1s0x3bd6a5518fe7fef9:0x10c435504ca12f42!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11hzkf4b5_!19sChIJ-f7nj1Gl1jsRQi-hTFA1xBA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9275339,
+      "lng": 77.7657226,
+      "label": "Shashwat Piles Care And Surgical Center . Laser Piles Surgery Centre,Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shivlahri-hospital-amravati",
+    "name": "Shivlahri Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Shivlahri Hospital for its strength in Gynecologist Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072125 74662",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Cotton Market Rd, Patvipura, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Patvipura",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 74662",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shivlahri+Hospital/data=!4m7!3m6!1s0x3bd6a4a904c2dcf3:0xaea86e36da868c5b!8m2!3d20.9325409!4d77.7533565!16s%2Fg%2F11cryd2lqv!19sChIJ89zCBKmk1jsRW4yG2jZuqK4?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shivlahri+Hospital/data=!4m7!3m6!1s0x3bd6a4a904c2dcf3:0xaea86e36da868c5b!8m2!3d20.9325409!4d77.7533565!16s%2Fg%2F11cryd2lqv!19sChIJ89zCBKmk1jsRW4yG2jZuqK4?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9325409,
+      "lng": 77.7533565,
+      "label": "Shivlahri Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shraddha-s-dental-clinic-amravati",
+    "name": "Shraddha's Dental Clinic",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Shraddha's Dental Clinic offers coordinated hospital care with major focus on Oral Surgery In Amravati. Its infrastructure includes Google rating 4.8, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "083299 98287",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XQ26+CW4, Shegaon Naka Rd, above Mathura Dairy, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "above Mathura Dairy",
+    "emergencyContact": "083299 98287",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Shraddha%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a31449a420f5:0x875995a2e44ad848!8m2!3d20.9510197!4d77.7623396!16s%2Fg%2F11q1vspvv1!19sChIJ9SCkSRSj1jsRSNhK5KKVWYc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shraddha%27s+Dental+Clinic/data=!4m7!3m6!1s0x3bd6a31449a420f5:0x875995a2e44ad848!8m2!3d20.9510197!4d77.7623396!16s%2Fg%2F11q1vspvv1!19sChIJ9SCkSRSj1jsRSNhK5KKVWYc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9510197,
+      "lng": 77.7623396,
+      "label": "Shraddha's Dental Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shree-hari-kidney-care-and-dialysis-center-amravati",
+    "name": "Shree Hari Kidney care and dialysis center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Shree Hari Kidney care and dialysis center brings together specialists for Kidney Transplant Surgery In Amravati and Kidney Care. The facility stands out for Google rating 4.5, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "G3 Samrudhi Archade, near Rathod Petrol Pump, Rukhmini Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Rukhmini Nagar",
+    "landmark": "near Rathod Petrol Pump, Rukhmini Nagar, Amravati, Maharashtra 444606",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shree+Hari+Kidney+care+and+dialysis+center/data=!4m7!3m6!1s0x3bd6a52217a951eb:0xc9e87f78831282ac!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11qng9b_tr!19sChIJ61GpFyKl1jsRrIISg3h_6Mk?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shree+Hari+Kidney+care+and+dialysis+center/data=!4m7!3m6!1s0x3bd6a52217a951eb:0xc9e87f78831282ac!8m2!3d20.9275339!4d77.7657226!16s%2Fg%2F11qng9b_tr!19sChIJ61GpFyKl1jsRrIISg3h_6Mk?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9275339,
+      "lng": 77.7657226,
+      "label": "Shree Hari Kidney care and dialysis center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-manmukund-hospital-radient-hospital-road",
+    "name": "Shri Manmukund Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Manmukund Hospital is a prominent hospital in Radient hospital road, known for structured tertiary care across Liver Transplant Surgery In Amravati. Operational strengths including Google rating 4.7 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "094054 04492",
+    "alternatePhone": "",
+    "website": "https://shrimanmukundhospital.com/",
+    "address": "Besides Ahilya Mangal Karyalaya Near Yawalkar mess Vivekanand colony, Bapatwadi, to, Radient hospital road, Maharashtra 444605",
+    "city": "Radient hospital road",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "to",
+    "landmark": "Near Yawalkar mess Vivekanand colony, Bapatwadi, to, Radient hospital road, Maharashtra 444605",
+    "emergencyContact": "094054 04492",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8f3b5637:0x9babd68d48986015!8m2!3d20.9222743!4d77.7617005!16s%2Fg%2F11g8ty4w19!19sChIJN1Y7j7qk1jsRFWCYSI3Wq5s?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8f3b5637:0x9babd68d48986015!8m2!3d20.9222743!4d77.7617005!16s%2Fg%2F11g8ty4w19!19sChIJN1Y7j7qk1jsRFWCYSI3Wq5s?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9222743,
+      "lng": 77.7617005,
+      "label": "Shri Manmukund Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-manmukund-hospital-amravati",
+    "name": "Shri Manmukund Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Shri Manmukund Hospital for its strength in General Surgery In Amravati. Operational strengths including Google rating 4.5 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094054 04492",
+    "alternatePhone": "",
+    "website": "https://shrimanmukundhospital.com/",
+    "address": "Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Maharashtra 444606",
+    "emergencyContact": "094054 04492",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8600b775:0x5bda44ff16df037e!8m2!3d20.9223103!4d77.761709!16s%2Fg%2F11c32fvtdg!19sChIJdbcAhrqk1jsRfgPfFv9E2ls?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Manmukund+Hospital/data=!4m7!3m6!1s0x3bd6a4ba8600b775:0x5bda44ff16df037e!8m2!3d20.9223103!4d77.761709!16s%2Fg%2F11c32fvtdg!19sChIJdbcAhrqk1jsRfgPfFv9E2ls?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9223103,
+      "lng": 77.761709,
+      "label": "Shri Manmukund Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-samarth-hospital-and-surgical-centre-amravati-amravati",
+    "name": "Shri Samarth Hospital & Surgical Centre, Amravati",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Shri Samarth Hospital & Surgical Centre, Amravati is a prominent hospital in Amravati, known for structured tertiary care across Gynecologist Surgery In Amravati. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQC4+QX4, Old Bypass Road, Godawari Colony, Kanwar Nagar, Guruchhaya Colony, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Godawari Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Samarth+Hospital+%26+Surgical+Centre,+Amravati/data=!4m7!3m6!1s0x3bd6a5003ce2f989:0x6cf66a92585b45bb!8m2!3d20.9218979!4d77.7574628!16s%2Fg%2F11xnykpy6z!19sChIJifniPACl1jsRu0VbWJJq9mw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Samarth+Hospital+%26+Surgical+Centre,+Amravati/data=!4m7!3m6!1s0x3bd6a5003ce2f989:0x6cf66a92585b45bb!8m2!3d20.9218979!4d77.7574628!16s%2Fg%2F11xnykpy6z!19sChIJifniPACl1jsRu0VbWJJq9mw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9218979,
+      "lng": 77.7574628,
+      "label": "Shri Samarth Hospital & Surgical Centre, Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shri-sant-achyut-maharaj-heart-hospital-amravati",
+    "name": "Shri Sant Achyut Maharaj Heart Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Shri Sant Achyut Maharaj Heart Hospital for its strength in General Surgery In Amravati and Cardiac Care. The facility stands out for Google rating 4.4, 3+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072129 70116",
+    "alternatePhone": "",
+    "website": "http://samhearthospital.org/",
+    "address": "WRXP+9X4, Mardi Rd, Amravati, Masod, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Mardi Rd",
+    "landmark": "Amravati",
+    "emergencyContact": "072129 70116",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "3+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shri+Sant+Achyut+Maharaj+Heart+Hospital/data=!4m7!3m6!1s0x3bd6a155fd7aea6b:0x57c3ad44c598e901!8m2!3d20.948393!4d77.8374441!16s%2Fg%2F11c1n5sngs!19sChIJa-p6_VWh1jsRAemYxUStw1c?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shri+Sant+Achyut+Maharaj+Heart+Hospital/data=!4m7!3m6!1s0x3bd6a155fd7aea6b:0x57c3ad44c598e901!8m2!3d20.948393!4d77.8374441!16s%2Fg%2F11c1n5sngs!19sChIJa-p6_VWh1jsRAemYxUStw1c?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.948393,
+      "lng": 77.8374441,
+      "label": "Shri Sant Achyut Maharaj Heart Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shrikrushna-hospital-amravati",
+    "name": "Shrikrushna Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Shrikrushna Hospital for its strength in General Surgery In Amravati. With public-facing highlights like Google rating 3.7, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "072125 64143",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Badnera Rd, Deorankar Nagar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Deorankar Nagar",
+    "landmark": "Amravati",
+    "emergencyContact": "072125 64143",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://www.google.com/maps/place/Shrikrushna+Hospital/data=!4m7!3m6!1s0x3bd6a4b14df45f55:0xe2a2a00d9fc53012!8m2!3d20.9183507!4d77.7528322!16s%2Fg%2F11c3_06sq8!19sChIJVV_0TbGk1jsREjDFnw2gouI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shrikrushna+Hospital/data=!4m7!3m6!1s0x3bd6a4b14df45f55:0xe2a2a00d9fc53012!8m2!3d20.9183507!4d77.7528322!16s%2Fg%2F11c3_06sq8!19sChIJVV_0TbGk1jsREjDFnw2gouI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9183507,
+      "lng": 77.7528322,
+      "label": "Shrikrushna Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "shubham-hi-tech-hospital-best-infertility-and-laparoscopy-centre-in-amravati-amravati",
+    "name": "Shubham Hi-Tech Hospital | Best Infertility and Laparoscopy Centre in Amravati",
+    "type": "Fertility Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Shubham Hi-Tech Hospital | Best Infertility and Laparoscopy Centre in Amravati for its strength in IVF In Amravati and Fertility Care. With public-facing highlights like Google rating 4.8, 1112+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "086689 54915",
+    "alternatePhone": "",
+    "website": "http://shubham-hospitals.com/",
+    "address": "Badnera Rd, opp. Mantri Motors, Deorankar Nagar, Amravati, Maharashtra 444605",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444605",
+    "locality": "Deorankar Nagar",
+    "landmark": "Deorankar Nagar",
+    "emergencyContact": "086689 54915",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "1112+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Shubham+Hi-Tech+Hospital+%7C+Best+Infertility+and+Laparoscopy+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4b6d2740995:0xa42a7376ae60551b!8m2!3d20.9182075!4d77.7526648!16s%2Fg%2F11b5ysl9kb!19sChIJlQl00rak1jsRG1VgrnZzKqQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Shubham+Hi-Tech+Hospital+%7C+Best+Infertility+and+Laparoscopy+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4b6d2740995:0xa42a7376ae60551b!8m2!3d20.9182075!4d77.7526648!16s%2Fg%2F11b5ysl9kb!19sChIJlQl00rak1jsRG1VgrnZzKqQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9182075,
+      "lng": 77.7526648,
+      "label": "Shubham Hi-Tech Hospital | Best Infertility and Laparoscopy Centre in Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 1112,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sir-yunus-medical-and-clinic-amravati",
+    "name": "Sir Yunus Medical and Clinic",
+    "type": "Medical Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sir Yunus Medical and Clinic is a prominent medical center in Amravati, known for structured tertiary care across Gynecologist Surgery In Amravati and Medical Center. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "086683 47480",
+    "alternatePhone": "",
+    "website": "",
+    "address": "60 Feet Road, Ul-Islaam, near Masjid Noor, Taj Nagar, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Taj Nagar",
+    "landmark": "near Masjid Noor, Taj Nagar, Amravati, Maharashtra 444601",
+    "emergencyContact": "086683 47480",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Medical Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sir+Yunus+Medical+and+Clinic/data=!4m7!3m6!1s0x3bd6bde8b9c1e5c5:0xc2d7464e38302941!8m2!3d20.9407068!4d77.7378963!16s%2Fg%2F11vcbdlgkw!19sChIJxeXBuei91jsRQSkwOE5G18I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sir+Yunus+Medical+and+Clinic/data=!4m7!3m6!1s0x3bd6bde8b9c1e5c5:0xc2d7464e38302941!8m2!3d20.9407068!4d77.7378963!16s%2Fg%2F11vcbdlgkw!19sChIJxeXBuei91jsRQSkwOE5G18I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9407068,
+      "lng": 77.7378963,
+      "label": "Sir Yunus Medical and Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "skin-avenue-skin-and-hair-clinic-amravati-amravati",
+    "name": "Skin Avenue Skin & Hair Clinic Amravati",
+    "type": "Skin Care Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Skin Avenue Skin & Hair Clinic Amravati brings together specialists for Kidney Transplant Surgery In Amravati. The facility stands out for Google rating 4.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098903 10640",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Shop No. 233, Tank Market, Farshi Stop, Dastur Nagar Rd, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar Rd",
+    "landmark": "Farshi Stop",
+    "emergencyContact": "098903 10640",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Skin+Avenue+Skin+%26+Hair+Clinic+Amravati/data=!4m7!3m6!1s0x3bd6a5c3807d682b:0xd4830889e8f91c59!8m2!3d20.9109268!4d77.7651944!16s%2Fg%2F11h6d8zvly!19sChIJK2h9gMOl1jsRWRz56IkIg9Q?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Skin+Avenue+Skin+%26+Hair+Clinic+Amravati/data=!4m7!3m6!1s0x3bd6a5c3807d682b:0xd4830889e8f91c59!8m2!3d20.9109268!4d77.7651944!16s%2Fg%2F11h6d8zvly!19sChIJK2h9gMOl1jsRWRz56IkIg9Q?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9109268,
+      "lng": 77.7651944,
+      "label": "Skin Avenue Skin & Hair Clinic Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "smile-square-amravati",
+    "name": "Smile Square",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Smile Square brings together specialists for Oral Surgery In Amravati. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Mother Teresa Rd, Habib Nagar, Paranjpe Colony, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Paranjpe Colony",
+    "landmark": "Paranjpe Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/Smile+Square/data=!4m7!3m6!1s0x3bd6a566475c8ad1:0x620573ab6402306c!8m2!3d20.9342611!4d77.7631493!16s%2Fg%2F11nyc6nft6!19sChIJ0YpcR2al1jsRbDACZKtzBWI?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Smile+Square/data=!4m7!3m6!1s0x3bd6a566475c8ad1:0x620573ab6402306c!8m2!3d20.9342611!4d77.7631493!16s%2Fg%2F11nyc6nft6!19sChIJ0YpcR2al1jsRbDACZKtzBWI?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9342611,
+      "lng": 77.7631493,
+      "label": "Smile Square",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sujan-surgical-cancer-hospital-amravati",
+    "name": "Sujan Surgical Cancer Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Sujan Surgical Cancer Hospital for its strength in Oncologist Surgery In Amravati. Operational strengths including Google rating 2.1 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098230 97573",
+    "alternatePhone": "",
+    "website": "https://sujancancerhospital.in/",
+    "address": "52/B, Main Road, Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444607",
+    "locality": "Gopal Nagar",
+    "landmark": "Shankar Nagar",
+    "emergencyContact": "098230 97573",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/Sujan+Surgical+Cancer+Hospital/data=!4m7!3m6!1s0x3bd6a482acb24e0d:0xd3e09d67e91cab85!8m2!3d20.9139207!4d77.7573295!16s%2Fg%2F11c61h9d2p!19sChIJDU6yrIKk1jsRhasc6Wed4NM?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sujan+Surgical+Cancer+Hospital/data=!4m7!3m6!1s0x3bd6a482acb24e0d:0xd3e09d67e91cab85!8m2!3d20.9139207!4d77.7573295!16s%2Fg%2F11c61h9d2p!19sChIJDU6yrIKk1jsRhasc6Wed4NM?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9139207,
+      "lng": 77.7573295,
+      "label": "Sujan Surgical Cancer Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sunshine-superspeciaality-hospital-branch",
+    "name": "Sunshine Superspeciaality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Branch, Sunshine Superspeciaality Hospital brings together specialists for Kidney Transplant Surgery In Amravati. Operational strengths including Google rating 4.8 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "099235 24277",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Plot no. 41,Farshi Stop, Dastur Nagar Rd, near SBI, Dastur Nagar, Branch, Maharashtra 444606",
+    "city": "Branch",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "near SBI, Dastur Nagar, Branch, Maharashtra 444606",
+    "emergencyContact": "099235 24277",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/Sunshine+Superspeciaality+Hospital/data=!4m7!3m6!1s0x3bd6a54af5e07c19:0x9a569f2a386cbe78!8m2!3d20.9137054!4d77.7633786!16s%2Fg%2F11jcbj985s!19sChIJGXzg9Uql1jsReL5sOCqfVpo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sunshine+Superspeciaality+Hospital/data=!4m7!3m6!1s0x3bd6a54af5e07c19:0x9a569f2a386cbe78!8m2!3d20.9137054!4d77.7633786!16s%2Fg%2F11jcbj985s!19sChIJGXzg9Uql1jsReL5sOCqfVpo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9137054,
+      "lng": 77.7633786,
+      "label": "Sunshine Superspeciaality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "sushrut-dental-care-and-cosmetic-facial-surgery-center-amravati",
+    "name": "Sushrut Dental Care And Cosmetic Facial Surgery Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Sushrut Dental Care And Cosmetic Facial Surgery Center has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Oral Surgery In Amravati. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098201 86587",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Joglekar Plot, Ambar Tower, near Bharat Petroleum Petrol Pump, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "near Bharat Petroleum Petrol Pump, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "098201 86587",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Sushrut+Dental+Care+And+Cosmetic+Facial+Surgery+Center/data=!4m7!3m6!1s0x3bd6a5c5ee4fd0a3:0xa34b9160e94870da!8m2!3d20.9282131!4d77.7626957!16s%2Fg%2F11fky_c091!19sChIJo9BP7sWl1jsR2nBI6WCRS6M?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Sushrut+Dental+Care+And+Cosmetic+Facial+Surgery+Center/data=!4m7!3m6!1s0x3bd6a5c5ee4fd0a3:0xa34b9160e94870da!8m2!3d20.9282131!4d77.7626957!16s%2Fg%2F11fky_c091!19sChIJo9BP7sWl1jsR2nBI6WCRS6M?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9282131,
+      "lng": 77.7626957,
+      "label": "Sushrut Dental Care And Cosmetic Facial Surgery Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "swasthya-siddhi-ayurved-and-panchakarma-clinic-amravati-amravati",
+    "name": "SWASTHYA SIDDHI AYURVED & PANCHAKARMA CLINIC AMRAVATI",
+    "type": "Health Consultant",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "SWASTHYA SIDDHI AYURVED & PANCHAKARMA CLINIC AMRAVATI has built a strong reputation in Amravati for multidisciplinary treatment pathways covering IVF In Amravati and Health Consultant. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "098811 65320",
+    "alternatePhone": "",
+    "website": "http://swasthyasiddhi.in/",
+    "address": "Shankar Nagar Rd, near Shiv English School, Bapu Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Bapu Colony",
+    "landmark": "near Shiv English School, Bapu Colony, Amravati, Maharashtra 444606",
+    "emergencyContact": "098811 65320",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Health Consultant"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/SWASTHYA+SIDDHI+AYURVED+%26+PANCHAKARMA+CLINIC+AMRAVATI/data=!4m7!3m6!1s0x3bd6a5e4f7a43d71:0xa75e02db0a951097!8m2!3d20.9108575!4d77.7608684!16s%2Fg%2F11vyxvvyy1!19sChIJcT2k9-Sl1jsRlxCVCtsCXqc?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/SWASTHYA+SIDDHI+AYURVED+%26+PANCHAKARMA+CLINIC+AMRAVATI/data=!4m7!3m6!1s0x3bd6a5e4f7a43d71:0xa75e02db0a951097!8m2!3d20.9108575!4d77.7608684!16s%2Fg%2F11vyxvvyy1!19sChIJcT2k9-Sl1jsRlxCVCtsCXqc?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9108575,
+      "lng": 77.7608684,
+      "label": "SWASTHYA SIDDHI AYURVED & PANCHAKARMA CLINIC AMRAVATI",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "the-face-dental-implant-hospital-dental-implants-fixed-teeth-implantologist-implantology-implant-surgery-amravati",
+    "name": "The Face Dental Implant hospital-Dental Implants/Fixed teeth/Implantologist/Implantology/Implant Surgery",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose The Face Dental Implant hospital-Dental Implants/Fixed teeth/Implantologist/Implantology/Implant Surgery for its strength in Kidney Transplant Surgery In Amravati. With public-facing highlights like Google rating 4.8, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "096733 11234",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajkamal to, 1st floor, kuthe stop, Rajapeth - Irwin Square Flyover, opposite to P N Gadgil jewellery shop, near raghuvir sweet mart, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "near raghuvir sweet mart",
+    "landmark": "near raghuvir sweet mart, Amravati, Maharashtra 444601",
+    "emergencyContact": "096733 11234",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8"
+    ],
+    "image": "https://www.google.com/maps/place/The+Face+Dental+Implant+hospital-Dental+Implants%2FFixed+teeth%2FImplantologist%2FImplantology%2FImplant+Surgery/data=!4m7!3m6!1s0x3bd6a54641558d35:0x8dca27b79a73b8b3!8m2!3d20.9244033!4d77.7535641!16s%2Fg%2F11tmjcmqgt!19sChIJNY1VQUal1jsRs7hzmrcnyo0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/The+Face+Dental+Implant+hospital-Dental+Implants%2FFixed+teeth%2FImplantologist%2FImplantology%2FImplant+Surgery/data=!4m7!3m6!1s0x3bd6a54641558d35:0x8dca27b79a73b8b3!8m2!3d20.9244033!4d77.7535641!16s%2Fg%2F11tmjcmqgt!19sChIJNY1VQUal1jsRs7hzmrcnyo0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9244033,
+      "lng": 77.7535641,
+      "label": "The Face Dental Implant hospital-Dental Implants/Fixed teeth/Implantologist/Implantology/Implant Surgery",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "tirupati-clinic-and-dialysis-centre-amravati",
+    "name": "TIRUPATI CLINIC AND DIALYSIS CENTRE",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, TIRUPATI CLINIC AND DIALYSIS CENTRE offers coordinated hospital care with major focus on Liver Transplant Surgery In Amravati. With public-facing highlights like Google rating 4.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rajendra colony, road, Prashant Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Prashant Nagar",
+    "landmark": "Prashant Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://www.google.com/maps/place/TIRUPATI+CLINIC+AND+DIALYSIS+CENTRE/data=!4m7!3m6!1s0x3bd6a50bf49f7e4f:0xf1be9cebf4d25227!8m2!3d20.9249399!4d77.76704!16s%2Fg%2F11gyxj0hmy!19sChIJT36f9Aul1jsRJ1LS9OucvvE?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TIRUPATI+CLINIC+AND+DIALYSIS+CENTRE/data=!4m7!3m6!1s0x3bd6a50bf49f7e4f:0xf1be9cebf4d25227!8m2!3d20.9249399!4d77.76704!16s%2Fg%2F11gyxj0hmy!19sChIJT36f9Aul1jsRJ1LS9OucvvE?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9249399,
+      "lng": 77.76704,
+      "label": "TIRUPATI CLINIC AND DIALYSIS CENTRE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "trident-dental-hub-and-implant-center-amravati",
+    "name": "TRIDENT Dental Hub And Implant Center",
+    "type": "Dental Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose TRIDENT Dental Hub And Implant Center for its strength in Oral Surgery In Amravati. Hospital capacity markers such as Google rating 4.3 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Irvin chowk, above medplus, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "above medplus",
+    "landmark": "Amravati",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://www.google.com/maps/place/TRIDENT+Dental+Hub+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5e3acca7465:0xf014a7bf7b5ce6ac!8m2!3d20.9337636!4d77.7609764!16s%2Fg%2F11rn78_h0t!19sChIJZXTKrOOl1jsRrOZce7-nFPA?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/TRIDENT+Dental+Hub+And+Implant+Center/data=!4m7!3m6!1s0x3bd6a5e3acca7465:0xf014a7bf7b5ce6ac!8m2!3d20.9337636!4d77.7609764!16s%2Fg%2F11rn78_h0t!19sChIJZXTKrOOl1jsRrOZce7-nFPA?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9337636,
+      "lng": 77.7609764,
+      "label": "TRIDENT Dental Hub And Implant Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "umang-hospital-amravati",
+    "name": "UMANG HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, UMANG HOSPITAL offers coordinated hospital care with major focus on IVF In Amravati. Its infrastructure includes Google rating 4.4, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "WQ69+J57, Lane Number 3, Jalaram Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Dastur Nagar",
+    "landmark": "Jalaram Nagar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/UMANG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4c027aaaae5:0xed38fc33c25a471e!8m2!3d20.9115429!4d77.7679169!16s%2Fg%2F11dyrcw7sr!19sChIJ5aqqJ8Ck1jsRHkdawjP8OO0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/UMANG+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4c027aaaae5:0xed38fc33c25a471e!8m2!3d20.9115429!4d77.7679169!16s%2Fg%2F11dyrcw7sr!19sChIJ5aqqJ8Ck1jsRHkdawjP8OO0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9115429,
+      "lng": 77.7679169,
+      "label": "UMANG HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "v-y-w-s-dental-college-and-hospital-amravati",
+    "name": "V.Y.W.S. Dental College & Hospital",
+    "type": "Dental School",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose V.Y.W.S. Dental College & Hospital for its strength in Oral Surgery In Amravati and Dental School. Its infrastructure includes Google rating 4.0 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "072126 62166",
+    "alternatePhone": "",
+    "website": "http://vywsdchamt.edu.in/",
+    "address": "WQMV+7X6, Tapovan-Wadali Road, Camp Rd, SRPF Colony, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "SRPF Colony",
+    "landmark": "Camp Rd",
+    "emergencyContact": "072126 62166",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dental School"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/V.Y.W.S.+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3bd6a48088171a99:0xe478826c482a49d9!8m2!3d20.9337128!4d77.7928661!16s%2Fg%2F1tf56bc9!19sChIJmRoXiICk1jsR2UkqSGyCeOQ?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/V.Y.W.S.+Dental+College+%26+Hospital/data=!4m7!3m6!1s0x3bd6a48088171a99:0xe478826c482a49d9!8m2!3d20.9337128!4d77.7928661!16s%2Fg%2F1tf56bc9!19sChIJmRoXiICk1jsR2UkqSGyCeOQ?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9337128,
+      "lng": 77.7928661,
+      "label": "V.Y.W.S. Dental College & Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "varhade-hospital-amravati",
+    "name": "Varhade hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, Varhade hospital offers coordinated hospital care with major focus on Gynecologist Surgery In Amravati. The facility stands out for Google rating 4.4, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "094217 93621",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Lane No. 2, Rathi Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Nagar",
+    "landmark": "Gadge Nagar",
+    "emergencyContact": "094217 93621",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4"
+    ],
+    "image": "https://www.google.com/maps/place/Varhade+hospital/data=!4m7!3m6!1s0x3bd6a30859f445a5:0xfa8eafd5250af7bd!8m2!3d20.9521898!4d77.7650563!16s%2Fg%2F11h6tpk6qc!19sChIJpUX0WQij1jsRvfcKJdWvjvo?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Varhade+hospital/data=!4m7!3m6!1s0x3bd6a30859f445a5:0xfa8eafd5250af7bd!8m2!3d20.9521898!4d77.7650563!16s%2Fg%2F11h6tpk6qc!19sChIJpUX0WQij1jsRvfcKJdWvjvo?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9521898,
+      "lng": 77.7650563,
+      "label": "Varhade hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vatsalya-hospital-and-fertility-centre-amravati",
+    "name": "Vatsalya Hospital and Fertility Centre",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Amravati, Vatsalya Hospital and Fertility Centre brings together specialists for IVF In Amravati and Fertility Care. The facility stands out for Google rating 4.1, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Square Rd, in front of State Bank of India, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "Vivekanand Colony",
+    "landmark": "Vivekanand Colony",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1"
+    ],
+    "image": "https://www.google.com/maps/place/Vatsalya+Hospital+and+Fertility+Centre/data=!4m7!3m6!1s0x3bd6a4a366ce027b:0x6e0baddc60220f9f!8m2!3d20.9264625!4d77.7627552!16s%2Fg%2F11f3vkntdc!19sChIJewLOZqOk1jsRnw8iYNytC24?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Vatsalya+Hospital+and+Fertility+Centre/data=!4m7!3m6!1s0x3bd6a4a366ce027b:0x6e0baddc60220f9f!8m2!3d20.9264625!4d77.7627552!16s%2Fg%2F11f3vkntdc!19sChIJewLOZqOk1jsRnw8iYNytC24?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9264625,
+      "lng": 77.7627552,
+      "label": "Vatsalya Hospital and Fertility Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "vimss-hospital-amravati",
+    "name": "VIMSS HOSPITAL",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Amravati, VIMSS HOSPITAL delivers integrated care across Urologist Surgery In Amravati. The facility stands out for Google rating 5.0 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "072125 60960",
+    "alternatePhone": "",
+    "website": "http://vimss.com/",
+    "address": "Behind Santosh medical, Prashant Nagar square, near hanuman mandir, Amravati, Maharashtra 444606",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444606",
+    "locality": "near hanuman mandir",
+    "landmark": "near hanuman mandir, Amravati, Maharashtra 444606",
+    "emergencyContact": "072125 60960",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Urologist Surgery In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/VIMSS+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4bd681108fb:0x4ce3443de40b60c6!8m2!3d20.9236273!4d77.7672943!16s%2Fg%2F11f_t7g1tb!19sChIJ-wgRaL2k1jsRxmAL5D1E40w?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/VIMSS+HOSPITAL/data=!4m7!3m6!1s0x3bd6a4bd681108fb:0x4ce3443de40b60c6!8m2!3d20.9236273!4d77.7672943!16s%2Fg%2F11f_t7g1tb!19sChIJ-wgRaL2k1jsRxmAL5D1E40w?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9236273,
+      "lng": 77.7672943,
+      "label": "VIMSS HOSPITAL",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "wadal-hospital-amravati",
+    "name": "Wadal Hospital",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Wadal Hospital has built a strong reputation in Amravati for multidisciplinary treatment pathways covering Heart Surgery In Amravati and Cardiac Care. With public-facing highlights like Google rating 5.0, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "076663 30326",
+    "alternatePhone": "",
+    "website": "",
+    "address": "near Drushti Library, Kathora Naka, Siddhivinayak Nagar, Amravati, Maharashtra 444601",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444601",
+    "locality": "Siddhivinayak Nagar",
+    "landmark": "Siddhivinayak Nagar",
+    "emergencyContact": "076663 30326",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Heart Surgery In Amravati",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Wadal+Hospital/data=!4m7!3m6!1s0x3bd6a30ebfa9b2e9:0x883384115e38053f!8m2!3d20.9620579!4d77.757187!16s%2Fg%2F11n56nz77f!19sChIJ6bKpvw6j1jsRPwU4XhGEM4g?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Wadal+Hospital/data=!4m7!3m6!1s0x3bd6a30ebfa9b2e9:0x883384115e38053f!8m2!3d20.9620579!4d77.757187!16s%2Fg%2F11n56nz77f!19sChIJ6bKpvw6j1jsRPwU4XhGEM4g?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9620579,
+      "lng": 77.757187,
+      "label": "Wadal Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "well-woman-clinic-amravati",
+    "name": "Well Woman Clinic",
+    "type": "Medical Clinic",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose Well Woman Clinic for its strength in Gynecologist Surgery In Amravati and Women and Child Care. The facility stands out for Google rating 5.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "XP7M+6C2, Walgao Road, Ring Rd, Navsaari, Amravati, Maharashtra 444604",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444604",
+    "locality": "Navsaari",
+    "landmark": "Ring Rd",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Amravati",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://www.google.com/maps/place/Well+Woman+Clinic/data=!4m7!3m6!1s0x3bd6bdc038c6de3b:0xccdc93ec58db76b9!8m2!3d20.9630158!4d77.7335022!16s%2Fg%2F11rk4fvjd8!19sChIJO97GOMC91jsRuXbbWOyT3Mw?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/Well+Woman+Clinic/data=!4m7!3m6!1s0x3bd6bdc038c6de3b:0xccdc93ec58db76b9!8m2!3d20.9630158!4d77.7335022!16s%2Fg%2F11rk4fvjd8!19sChIJO97GOMC91jsRuXbbWOyT3Mw?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9630158,
+      "lng": 77.7335022,
+      "label": "Well Woman Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "amravati",
+    "name": "डॉ. सुधा देशमुख हॉस्पिटल",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Amravati often choose डॉ. सुधा देशमुख हॉस्पिटल for its strength in IVF In Amravati. With public-facing highlights like Google rating 4.1 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "094227 01344",
+    "alternatePhone": "",
+    "website": "https://drashvinikumardeshmukh.getmy.clinic/",
+    "address": "Irwin hospital to Court, Camp Rd, opp. Holy Cross Convent, near Dr. Barabde Hospital, Paranjpe Colony, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "Paranjpe Colony",
+    "landmark": "near Dr. Barabde Hospital, Paranjpe Colony, Amravati, Maharashtra 444602",
+    "emergencyContact": "094227 01344",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF In Amravati"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.1",
+      "Official website listed"
+    ],
+    "image": "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A5%81%E0%A4%96+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bd6a4a0f0c0ae3d:0xd283cfc4d45670da!8m2!3d20.9349636!4d77.7643338!16s%2Fg%2F11c4bcpd25!19sChIJPa7A8KCk1jsR2nBW1MTPg9I?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E0%A4%A1%E0%A5%89.+%E0%A4%B8%E0%A5%81%E0%A4%A7%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%AE%E0%A5%81%E0%A4%96+%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%9F%E0%A4%B2/data=!4m7!3m6!1s0x3bd6a4a0f0c0ae3d:0xd283cfc4d45670da!8m2!3d20.9349636!4d77.7643338!16s%2Fg%2F11c4bcpd25!19sChIJPa7A8KCk1jsR2nBW1MTPg9I?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9349636,
+      "lng": 77.7643338,
+      "label": "डॉ. सुधा देशमुख हॉस्पिटल",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.1,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "eye-transplant-computerized-eye-probe-laser-lasik-best-phaco-surgery-centre-in-amravati-amravati",
+    "name": "✅ 𝗧𝗼𝘁𝗲𝘆 𝗘𝘆𝗲 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Eye Transplant/Computerized Eye Probe Laser/Lasik/Best Phaco Surgery Centre in Amravati",
+    "type": "Eye Care Center",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted eye care center in Amravati, ✅ 𝗧𝗼𝘁𝗲𝘆 𝗘𝘆𝗲 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Eye Transplant/Computerized Eye Probe Laser/Lasik/Best Phaco Surgery Centre in Amravati delivers integrated care across Kidney Transplant Surgery In Amravati and Eye Care Center. Operational strengths including Google rating 3.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "072126 61625",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rathi Nagar, Gadge Baba Marg, Amravati, Maharashtra 444603",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444603",
+    "locality": "Gadge Baba Marg",
+    "landmark": "Amravati",
+    "emergencyContact": "072126 61625",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Amravati",
+      "Eye Care Center"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9"
+    ],
+    "image": "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Eye+Transplant%2FComputerized+Eye+Probe+Laser%2FLasik%2FBest+Phaco+Surgery+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4a67774bc15:0x5adfcd551df3f112!8m2!3d20.9484822!4d77.7641115!16s%2Fg%2F1td7rnj3!19sChIJFbx0d6ak1jsREvHzHVXN31o?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%E2%9C%85+%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%86+%F0%9D%97%98%F0%9D%98%86%F0%9D%97%B2+%F0%9D%97%9B%F0%9D%97%BC%F0%9D%98%80%F0%9D%97%BD%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9+-+Eye+Transplant%2FComputerized+Eye+Probe+Laser%2FLasik%2FBest+Phaco+Surgery+Centre+in+Amravati/data=!4m7!3m6!1s0x3bd6a4a67774bc15:0x5adfcd551df3f112!8m2!3d20.9484822!4d77.7641115!16s%2Fg%2F1td7rnj3!19sChIJFbx0d6ak1jsREvHzHVXN31o?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9484822,
+      "lng": 77.7641115,
+      "label": "✅ 𝗧𝗼𝘁𝗲𝘆 𝗘𝘆𝗲 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹 - Eye Transplant/Computerized Eye Probe Laser/Lasik/Best Phaco Surgery Centre in Amravati",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  },
+  {
+    "slug": "dentist-in-amravati-dental-clinic-dental-implant-centre-root-canal-specialist-cosmetic-treatment-amravati",
+    "name": "𝗗𝗿. 𝗖𝗵𝗶𝘁𝗿𝗮 𝗦𝗮𝗰𝗵𝗱𝗲𝘃 𝗞𝗵𝗮𝘁𝗿𝗶 -Dentist in Amravati/Dental Clinic/Dental Implant Centre/Root Canal Specialist/Cosmetic Treatment",
+    "type": "Dentist",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Amravati, 𝗗𝗿. 𝗖𝗵𝗶𝘁𝗿𝗮 𝗦𝗮𝗰𝗵𝗱𝗲𝘃 𝗞𝗵𝗮𝘁𝗿𝗶 -Dentist in Amravati/Dental Clinic/Dental Implant Centre/Root Canal Specialist/Cosmetic Treatment offers coordinated hospital care with major focus on Oral Surgery In Amravati and Dentist. Operational strengths including Google rating 4.9 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "078084 07407",
+    "alternatePhone": "",
+    "website": "",
+    "address": "1st floor, besides Poonam electronics, above Khandelwal cement, near Vimaco towers, Amravati, Maharashtra 444602",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "pincode": "444602",
+    "locality": "near Vimaco towers",
+    "landmark": "near Vimaco towers, Amravati, Maharashtra 444602",
+    "emergencyContact": "078084 07407",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Amravati",
+      "Dentist"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9"
+    ],
+    "image": "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83+%F0%9D%97%9E%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6+-Dentist+in+Amravati%2FDental+Clinic%2FDental+Implant+Centre%2FRoot+Canal+Specialist%2FCosmetic+Treatment/data=!4m7!3m6!1s0x3bd6a3c1d41f2eaf:0x2d49c2d59cff1e5a!8m2!3d20.9296306!4d77.7609828!16s%2Fg%2F11svfb1rrr!19sChIJry4f1MGj1jsRWh7_nNXCSS0?authuser=0&hl=en&rclk=1",
+    "logo": "",
+    "gallery": [
+      "https://www.google.com/maps/place/%F0%9D%97%97%F0%9D%97%BF.+%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE+%F0%9D%97%A6%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B1%F0%9D%97%B2%F0%9D%98%83+%F0%9D%97%9E%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%B6+-Dentist+in+Amravati%2FDental+Clinic%2FDental+Implant+Centre%2FRoot+Canal+Specialist%2FCosmetic+Treatment/data=!4m7!3m6!1s0x3bd6a3c1d41f2eaf:0x2d49c2d59cff1e5a!8m2!3d20.9296306!4d77.7609828!16s%2Fg%2F11svfb1rrr!19sChIJry4f1MGj1jsRWh7_nNXCSS0?authuser=0&hl=en&rclk=1"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "14:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": false,
+        "open24": false,
+        "open": "",
+        "close": ""
+      }
+    ],
+    "map": {
+      "lat": 20.9296306,
+      "lng": 77.7609828,
+      "label": "𝗗𝗿. 𝗖𝗵𝗶𝘁𝗿𝗮 𝗦𝗮𝗰𝗵𝗱𝗲𝘃 𝗞𝗵𝗮𝘁𝗿𝗶 -Dentist in Amravati/Dental Clinic/Dental Implant Centre/Root Canal Specialist/Cosmetic Treatment",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Hours not publicly listed"
+  }
+];
